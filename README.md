@@ -18,7 +18,7 @@ Large language models (LLMs) offer unprecedented opportunities to simulate multi
   <img src="Figures/main_figure.png" alt="Overview of the Action-Aware LLM framework" width="800"/>
 </p>
 
-**Figure 1.** Overview of the framework for generating hyperrealistic deliberation simulations. The system operates in three stages: (1) \textbf{Speaker Diarization} leverages visual cues from Zoom recordings to convert raw multi-speaker meetings into speaker-linked transcripts; (2) \textbf{Metadata Extraction} enriches these transcripts with structured annotations such as action tags, topic labels, and persona profiles; and (3) \textbf{Persona Modeling} fine-tunes language models on the enriched data to enhance performance across key metrics—perplexity (PPL), classifier fool rate (CFR), and speaker attribution accuracy (SAA).
+**Figure 1.** Overview of the framework for generating hyperrealistic deliberation simulations. The system operates in three stages: (1) **Speaker Diarization** leverages visual cues from Zoom recordings to convert raw multi-speaker meetings into speaker-linked transcripts; (2) **Metadata Extraction** enriches these transcripts with structured annotations such as action tags, topic labels, and persona profiles; and (3) **Persona Modeling** fine-tunes language models on the enriched data to enhance performance across key metrics—perplexity (PPL), classifier fool rate (CFR), and speaker attribution accuracy (SAA).
 
 ---
 
