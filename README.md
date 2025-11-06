@@ -1,33 +1,24 @@
 # Action-Aware LLMs for Realistic Simulation of Local Government Meetings
 
 This repository accompanies the paper:  
-**_“Action-Aware LLMs for Realistic Simulation of Local Government Meetings”_**, which introduces a multimodal framework for transforming real-world meeting videos into **speaker-linked, metadata-enriched transcripts** and **fine-tuned language models** capable of simulating realistic deliberative interactions.
+**_“Action-Aware LLMs for Realistic Simulation of Local Government Meetings”_**, which introduces a multimodal framework for transforming real-world meeting videos into **speaker-linked, metadata-enriched transcripts**.  This enables the fine-tuning of **language models** and the creation of hyper-realistic deliberative interactions.
 
 ---
 
-## Overview
+## Abstract
 
-Local government meetings, such as school boards, city councils, and appellate courts, are deliberative arenas where participants debate, negotiate, and make consequential decisions.  
-This project presents an **action-aware** modeling pipeline that captures both *who* is speaking and *what actions* they are performing—enabling more realistic, role-sensitive simulations of institutional discourse.
-
-The system combines:
-
-- **Speaker diarization** to detect and label individual speakers from meeting recordings  
-- **Automatic speech recognition (ASR)** for high-quality transcripts  
-- **Action and metadata extraction** for structured context  
-- **Fine-tuned LLMs** trained to reproduce realistic dialogue dynamics and role consistency
+Large language models (LLMs) offer unprecedented opportunities to simulate multi-party deliberation in real-world settings, but realistic persona-aware modeling has been limited by the lack of speaker-attributed data and structured procedural information. This work presents a complete, reproducible pipeline for collecting, processing, and modeling multi-speaker deliberations. Publicly available Zoom recordings are transformed into speaker-attributed transcripts using multimodal diarization, and enriched with structured metadata including personas, agenda topics, and turn-level action tags. Parameter-efficient fine-tuning enables LLMs to generate dialogue that is both plausible and consistent with individual speaker styles. Evaluation across three newly released local government datasets—school board, municipal council, and appellate court meetings—demonstrates substantial reductions in perplexity, increased classifier-based fooling, and improved speaker-attribution accuracy. Human studies confirm that simulations are largely indistinguishable from real interactions, and temporal guidance enhances procedural coherence. The results provide a practical recipe for researchers to collect large-scale data, validate models, and run hyper-realistic simulations of real-world deliberative processes.
 
 ---
+
 
 ## Framework Overview
-
-The following figure provides an overview of the end-to-end workflow, from meeting recordings to simulated deliberation outputs.
 
 <p align="center">
   <img src="Figures/main_figure.png" alt="Overview of the Action-Aware LLM framework" width="800"/>
 </p>
 
-**Figure 1.** Overview of the Action-Aware LLM framework for realistic simulation of local government meetings.
+**Figure 1.** Overview of the framework for generating hyperrealistic deliberation simulations. The system operates in three stages: (1) \textbf{Speaker Diarization} leverages visual cues from Zoom recordings to convert raw multi-speaker meetings into speaker-linked transcripts; (2) \textbf{Metadata Extraction} enriches these transcripts with structured annotations such as action tags, topic labels, and persona profiles; and (3) \textbf{Persona Modeling} fine-tunes language models on the enriched data to enhance performance across key metrics—perplexity (PPL), classifier fool rate (CFR), and speaker attribution accuracy (SAA).
 
 ---
 
@@ -39,7 +30,7 @@ The diarization pipeline links anonymized ASR outputs to speaker identities base
   <img src="Figures/diarization.png" alt="Speaker diarization and transcript alignment process" width="700"/>
 </p>
 
-**Figure 2.** Workflow for generating speaker-linked transcripts from meeting audio and metadata.
+**Figure 2.** Video-based speaker diarization for Zoom meetings: The system detects the active speaker via the highlighted video tile, crops the participant’s name region, and applies OCR to identify the speaker. If OCR confidence is below 80\%, the crop is enhanced with a super-resolution model (EDSR) before reapplying OCR. This produces a per-second speaker identity signal, which is then aligned with audio transcripts for accurate, time-stamped, speaker-attributed transcripts.
 
 ---
 
