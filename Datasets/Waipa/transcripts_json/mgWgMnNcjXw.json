@@ -1,0 +1,566 @@
+[
+  {
+    "start": 0.782,
+    "end": 6.763,
+    "text": " No, Lou and Susan. I'm here. No, Lou's here. Oh, sorry, Lou. Oh, Susan's here. I can see her. OK. Is Dawn here?",
+    "speaker": "clairestpierre",
+    "tags": [
+      "procedural_move",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 7.063,
+    "end": 9.424,
+    "text": "Oh, there's Dawn. Oh, Philip. Yes. Philip's here. Oh, there he is.",
+    "speaker": "grahamewebb",
+    "tags": []
+  },
+  {
+    "start": 32.279,
+    "end": 35.28,
+    "text": " We're all good, apart from- We're all good? Apology.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 36.08,
+    "end": 80.469,
+    "text": "Okay. I'll declare the meeting open. Good morning, everybody. Morning. Morning. Morning. Good to have you all on board. Now, I'm not getting a full picture of all you people. I'm just getting the odd person on my screen. But Jenny has asked me, if somebody moves and seconded a resolution, could they please state their name?  it's easy for us to come back in the Council meeting and find out who it was. But on here, it's a bit more difficult. So, Roger, if you want to move something, please say, Roger, I'll move or something like that. And then she can record that for us. Thank you. Anything else, Jenny, that you need to need to know? Jenny Fowler Oh, that'd be great.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "public_address",
+      "procedural_move",
+      "assign_action",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 80.509,
+    "end": 81.849,
+    "text": "Thanks. Thanks for that, Graham.",
+    "speaker": "susanoregan",
+    "tags": []
+  },
+  {
+    "start": 82.489,
+    "end": 95.606,
+    "text": "Graeme Innes OK, so we're going to the agenda. We've got the  Minutes of the previous meeting, kerbside recycling resolution going up. Confirmation of the minutes. Apologies there. One from Hazel.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 97.206,
+    "end": 99.168,
+    "text": "Yeah. Jim, I'll move.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 100.028,
+    "end": 100.548,
+    "text": "Thank you, Jim.",
+    "speaker": "grahamewebb",
+    "tags": []
+  },
+  {
+    "start": 101.229,
+    "end": 103.09,
+    "text": "I'll second. Thank you, Andrew.",
+    "speaker": "mikepettit",
+    "tags": [
+      "procedural_move",
+      "agree"
+    ]
+  },
+  {
+    "start": 103.55,
+    "end": 157.225,
+    "text": "All those in favour say aye. Aye. Disclosure of members' interest. Are there any today? No. No. Any late items anybody wishes to bring up?  No. Thank you. Confirmation of the order of meeting be confirmed. A mover and a seconder, please. Councillor GRIFFITHS. Thank you. All those in favour say aye against. Carried.  We need to confirm the minutes of the open and the public excluded on item three, which is the attachments. The public excluded came separately. Is everybody happy to move those in unison? Are any matters arising from that?",
+    "speaker": "grahamewebb",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "ask_question",
+      "confirm_next_step",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 159.287,
+    "end": 160.167,
+    "text": "I'm happy to second.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "agree",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 160.968,
+    "end": 183.208,
+    "text": "Thank you. Everybody hear that?  All those in favour say aye. All those carried. Might dispense with that, actually. OK, first item there today is the kerbside recycling and the plastic types three to seven. Good report there. Who's coming in on that?",
+    "speaker": "grahamewebb",
+    "tags": [
+      "procedural_move",
+      "summarize_outcome",
+      "public_address",
+      "prioritize_issue",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 185.95,
+    "end": 192.013,
+    "text": "Brian Hudson, our transportation manager, is with us this morning to present their report. Oh, good morning, Dawn.",
+    "speaker": "dawninglis",
+    "tags": [
+      "provide_information",
+      "public_address",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 192.033,
+    "end": 192.333,
+    "text": "Thank you.",
+    "speaker": "grahamewebb",
+    "tags": []
+  },
+  {
+    "start": 195.97,
+    "end": 221.605,
+    "text": " Yes, good morning. I'm just finding that the beginning of that report here in the agenda, found it. Thank you. Thank you, Brian, good to have you here. Thank you. If we can take the report as read. Read, yes. And if there are any questions that members have.",
+    "speaker": "manager",
+    "tags": [
+      "procedural_move",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 226.318,
+    "end": 260.38,
+    "text": " I've just got one comment to make in the report and one of the additions that we had there, an appendix, sorry, that we had there was identifying the types of plastics. And I'm wondering if we have a comms  what do you call it, press or something going out, whether the types of plastics and what they affect in terms of what you can put in the bin could be fed out to the public so there's a clear understanding. I think there'll be a lot of confusion from that after Jenny and I have been going through and looking at the bottoms of ours to see what can go and what can't go.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "ask_question",
+      "provide_information",
+      "clarify_point",
+      "express_concern",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 262.142,
+    "end": 349.246,
+    "text": "Yes, you're quite correct. Our comms team have been preparing a communications plan for this.  And there would be quite a bit of effort to re-educate people. At the moment, a lot of people, I think, believe because it's plastic, it's probably recyclable. It'll probably fall into those categories. And so it goes in the bin and we will need to educate people. And so there'll be quite a considered communications plan. So we've already drafted that plan up.  And that will be distributed to councillors to have a look at. And the timing of when that communications plan would start is very dependent on when we can get back to normalcy with the recycling collection. At the moment, they're not able to sort it. And so it's having to  you know, a lot more contamination, there's a lot more of this mixed material that's going to landfill. So, we would want to do the communications plan when we get back to normal sorting of material. So, it could be a month, it could be two months before that can happen. Greg Morgan Wow. Thank you, Brian. Sorry, who's next?",
+    "speaker": "manager",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "assign_action",
+      "procedural_move",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 352.332,
+    "end": 353.173,
+    "text": " Oh, clear. OK.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 353.413,
+    "end": 415.715,
+    "text": "Yeah. Yeah. So, Brian, I'm a bit concerned the fact how much is going to landfill. And there doesn't seem to be anything in the report about putting pressure on packaging people or the government about moving towards, you know, compostable packaging, because really there is a risk that with COVID-19, some of these activities that we've taken for granted are actually not  going to be possible or certainly have a completely different shape and form to what we've been used to. And I'm aware that like Vizies here in our district, they are champions for sustainability and stuff like that. I mean, is there any chance of working with them to try and find out, is there a way that we can get a step change about getting away from plastic packaging and into something that actually  can be composted or certainly recycled at a much more genuine level.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "express_concern",
+      "policy_proposal",
+      "community_reference",
+      "ask_question",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 416.956,
+    "end": 491.981,
+    "text": "Yes, you're quite right there. Nationally, waste minimisation and Ministry for Environment and different programmes are already underway, looking at product stewardship, looking at education. A lot of our waste minimisation plan  education activities are all around helping residents and consumers make good choices in their purchasing and looking for ways to reduce the amount of plastic that's actually used. And we see this can actually happen quite successfully on a national approach with the single use shopping bags having been phased out in a very rapid fashion. So, it is possible and  you know, part of our communications plan out to the community when we make this change will be to educate people to look for products that are not in these plastics that are impossible to recycle. So, yeah, we'll certainly be very conscious of that and we'll continue that message. Thanks.",
+    "speaker": "manager",
+    "tags": [
+      "provide_information",
+      "reassure_stakeholders",
+      "cite_reference",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 493.202,
+    "end": 494.523,
+    "text": "Jim, did you have a question?",
+    "speaker": "grahamewebb",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 498.508,
+    "end": 528.26,
+    "text": " we're still collecting five. Yeah. So just somehow we just need to clarify that. Yeah. Good idea. Yeah. Yeah. I heard that down too. Yes. Yeah. Yeah. Through through the report, I guess it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's it's",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "agree"
+    ]
+  },
+  {
+    "start": 529.598,
+    "end": 625.908,
+    "text": " It was just to try and keep the wording simple. Through the report, it talks about three to seven and that at the moment, type five plastic is also not so easy to get rid of or to recycle. There are players in the market who are looking to set up machinery and operations to recycle type five.  But there's, you know, there's there's buts in there that if Council continued to, you know, if for a time that type five plastic is likely to go to landfill until that market develops. So what we want to do with our programme is tell the public, hey, one and two, it's really easy to recycle and make sure that one is in your recycling bin.  Type 5, we expect that we will be able to recycle it in the future. So keep putting that in your bin. But if things change and the industry decides that it's not going to invest in equipment and processes to recycle Type 5, then we may have to cease collecting that as well. That's the worst case scenario. I'd like to think that we do keep collecting Type 5 and  in six months or 12 months, we will have a market for it. But there is that uncertainty there at the moment.",
+    "speaker": "manager",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "policy_proposal",
+      "express_concern",
+      "evaluate_option",
+      "reassure_stakeholders",
+      "public_address",
+      "defer_decision"
+    ]
+  },
+  {
+    "start": 626.768,
+    "end": 644.773,
+    "text": "Greg Morgan So, Brian, why don't we just insert in there that sees the collection of types 3, 4, 6 and 7, and then it completely links in with the type 5 down below for that collection. Just for clarification, Jim, what do you think?",
+    "speaker": "grahamewebb",
+    "tags": [
+      "policy_proposal",
+      "build_on_point",
+      "clarify_point",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 646.768,
+    "end": 666.46,
+    "text": " Yeah, look, that would be the simplest. And I would imagine that if we are going to stop collecting type 5, we would still have to go back to the community and go through another education round, wouldn't we? So at the moment, that's pretty unclear. Yeah. Right.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "evaluate_option",
+      "community_reference",
+      "ask_question",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 667.16,
+    "end": 678.411,
+    "text": "OK. Yeah. No, well, I'd be comfortable in for that resolution to change and be types 3, 4,  six and seven. Thank you. Thanks, Brian.",
+    "speaker": "manager",
+    "tags": [
+      "agree",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 679.151,
+    "end": 679.872,
+    "text": "Anything else?",
+    "speaker": "grahamewebb",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 681.032,
+    "end": 735.504,
+    "text": "I have a stupid question. OK, Sue. Yeah. Hey, Graham. Through you, Mr Chair, just a dumb question. Anybody watching this would probably perceive it as saying, OK, we've been rated for the collection of a whole broad range of classifications of plastics. It's one of the reasons why our  well, one of the many components of our increased proposed rates, and now they've somehow got wiggle room in the contract to not collect all of those classifications of plastic. My first question is, is that kind of normal to have that amount of wiggle room in a contract, or was it sort of, is it industry standard? And the second question is, if this is the case, then do we get a rebate on the amount, you know, because they're not actually collecting  I had understood we were contracted to be collecting in the first place.",
+    "speaker": "susanoregan",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 738.604,
+    "end": 915.72,
+    "text": "Well, that's an interesting question. It's got a number of components to it, both in terms of how the contract works for recycling, but also in terms of what the resident would expect for the payment they make each year.  Under the contract, each commodity type, whether it's aluminium or tin or cardboard or different types of plastic and glass, all have a cost for collection and sorting and disposal. And then there is, provided there's a market for the materials, there is some income that comes from the sale of those materials that comes back and reduces the overall contract cost.  what we're finding because of the big changes in the recycling market and China refusing to take recycling material, that the cost of disposing of materials has gone up in that in certain circumstances for different materials, we're paying people to take the stuff away and so not getting any revenue. So we've got all of the costs of collection and sorting, but no revenue offsetting those costs.  So that's what all local authorities in New Zealand and around the world are struggling with, that where they once had some revenue coming in to offset the cost, now there is little or no revenue coming in. So if the people who will take the materials and recycle it charge much more than what it costs to put it in the landfill, then we have to be,  very careful about the decisions we make and the costs we put on our ratepayers to recycle materials. And with the types three to seven, when we're finding that a lot of the plastic is contaminated and so it can't even go to recycling, it just goes straight into a bin and into the landfill, then we have to think again as to whether we collect it at all.  In terms of overall volume, the type three to seven plastics is a relatively small volume in the overall recycling. So in terms of if there was a saving to the ratepayer for a smaller volume of material being collected, it would be measured in cents or a couple of dollars on the annual recycling cost. So it is a matter of economics.  and a matter of trying to deliver also the best value for the ratepayer. I hope that makes sense. Thanks, Brian.",
+    "speaker": "manager",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "prioritize_issue",
+      "community_reference",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 915.76,
+    "end": 968.031,
+    "text": "Thank you for that, Brian. I wonder if maybe the perception probably might not be that in the community. So maybe when we're going out with this  this comms education type programme around the changes, we need to try and make sure that people understand that that is actually the case. Because I mean, from a purely Joe Blow on the street perspective, it looks like you're charging me to take my stuff, now you're saying you're not taking it and you're telling me I have to put it in a bag that I also have to pay for to dispose of it. So they're looking like we're making, yeah, it could potentially be perceived as an increased financial cost on the ratepayer rather than  the situation you've set out. So if we could somehow, I mean, it is obviously a pretty complex situation, but if we could somehow get that through to the community, I think the changes would be more positively received.",
+    "speaker": "susanoregan",
+    "tags": []
+  },
+  {
+    "start": 969.112,
+    "end": 980.038,
+    "text": "Right. And there certainly is a section on the communications plan that looks at costs and what, you know, value rate payers get for this. So we had thought that that was going to be an important point.",
+    "speaker": "manager",
+    "tags": [
+      "provide_information",
+      "state_opinion",
+      "prioritize_issue",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 981.319,
+    "end": 1009.5,
+    "text": "Brian, could I say something?  Brian, I just wonder if you keep it very simple to the public, like one, two and five will be collected. We can get too complicated by putting all those numbers into the public. I know from my own perspective, a majority of the plastics went. Now I'm having a decent look at them and think, although some of the plastics you can't read anyway, a little bit of the hard, but I think keep it simple, really simple. Thank you. Yes.",
+    "speaker": "brucethomas",
+    "tags": [
+      "clarify_point",
+      "state_opinion",
+      "policy_proposal",
+      "express_concern",
+      "public_address"
+    ]
+  },
+  {
+    "start": 1009.96,
+    "end": 1036.37,
+    "text": "Yeah. Thank you for that, Bruce. And yes, we certainly had  on the top of the recycling bin, announcing the change and what plastics to put in. So, we were certainly looking to make it simple. Greg Morgan Through the chair, Grant, Mike. Just a couple of things. So, you know, we've had a lot of feedback from the community. We've had a lot of feedback from the community.",
+    "speaker": "manager",
+    "tags": [
+      "provide_information",
+      "reassure_stakeholders",
+      "community_reference",
+      "report_back",
+      "public_address"
+    ]
+  },
+  {
+    "start": 1037.271,
+    "end": 1109.862,
+    "text": "We've had a lot of feedback from the community. We've had a lot of feedback from  and just picking up on some of the points to be made here, at the end of the day, whether the recycling that's not one, two, and is it one, two, three, and five, or one, two, and five, are still going to end up in the landfill. I mean, Joe Bloggs is going to now put it in a yellow bag, as has been alluded to, not is it only going to be paid for, but it's going to end up in the same place that it would have if we continued doing exactly what we're doing. So I actually, apart from a PC,  I cannot see why there's a change to this, because it's going to end up being in the same landfill, whether the council collection, you know, our contractors put it in there or I as an individual put it in there. And my second point is at the top of page three, it looks like to sort all those other plastics, which is over half, the cost is only ten to fifteen thousand dollars, which to me seems a little unbelievable.  have to sort through every bit of plastic and sort these numbers out. And there's only a cost of ten to fifteen thousand dollars at the top of page three.",
+    "speaker": "mikepettit",
+    "tags": [
+      "express_concern",
+      "state_opinion",
+      "evaluate_option",
+      "community_reference",
+      "ask_question",
+      "persuasion_attempt"
+    ]
+  },
+  {
+    "start": 1113.385,
+    "end": 1219.758,
+    "text": "Yeah, that, I guess, is based on the relatively small volume expected at the beginning of the contract and the rates in the  contract document for that commodity. So it may not be a true reflection and it's quite difficult to actually calculate a true cost in terms of that quantity, sorting costs and then landfill costs, because there is a percentage of materials that we always expected would be contaminated and would have to go to landfill anyway.  And so it's not so easy to make a hard and fast estimate of that value. I think if we were to carry on collecting and saying to people, just put any type of plastic in the recycling, we lose the opportunity to educate the public and change consumer behaviour. Part of the reason why there is so much plastic in our  households and supermarkets and everything is simply because people perceive there to be no cost or environmental impact by using lots and lots of plastic. So I think this is making this change is an opportunity and it does tie in well with what the government is doing and waste minimization nationally is doing.  to try and reduce the volume of plastic actually being used.",
+    "speaker": "manager",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "state_opinion",
+      "community_reference",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 1222.02,
+    "end": 1274.115,
+    "text": "Greg Morgan Thanks, Brian. Are there any other issues anyone likes to bring up? So, I'd like to move to the recommendations A, B, C and D. Jenny, are you there? Are you comfortable with that little change that we've got going in B? Jenny Hayes Yeah, that's fine, Graham. I've captured that.  Could I have a mover and a seconder, please, that we go for the recommendation A, B, C, and D? With those changes. Thank you, Liz. Who seconded that? Oh, thanks, Marcus. All those in favour say aye. Ayes carried. Thank you. Next item is the review of the street cleaning services.  Brian, are you still doing that as well?",
+    "speaker": "grahamewebb",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "call_vote",
+      "summarize_outcome",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 1275.696,
+    "end": 1282.882,
+    "text": "Yes, unless Jennifer Braithwaite is on the line. No, looks like that's me as well.",
+    "speaker": "manager",
+    "tags": [
+      "clarify_point",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1284.583,
+    "end": 1287.085,
+    "text": "You've got to clean up all the plastics, Brian, so we'd better do this one.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "assign_action",
+      "prioritize_issue",
+      "persuasion_attempt"
+    ]
+  },
+  {
+    "start": 1287.545,
+    "end": 1539.977,
+    "text": "Yes. So, again, if I can take the report as read and many councillors will be familiar with the Section 17a review of council services.  when these types of long running contracts come up for review, there's an obligation on council to complete this review and make sure we're still delivering the services in an appropriate fashion for our community. So, a range of options are always looked at for these types of contracts, whether they should be in standalone contracts, whether they should be  amalgamated with larger contracts across the council, whether they should be delivered by council staff and council owning the equipment and running it, or whether it could be delivered in tandem with another local authority, a neighbour, or whether we deliver it under a standalone contract, as we have traditionally done.  So, the options assessment there talks about the type of work done, page two and three, emptying litter bins, sweeping streets, collecting leaves, cleaning bus stops, that sort of thing. We do that because it is a core service for councils to complete this type of work. It is  also subsidised by the transport agency. And it fits with our activity management plan that we provide clean streets. It also ties into making sure we meet our stormwater discharge consent conditions and that we clean out catch pits and sweep streets to reduce the load of sediment that would otherwise wash into waterways from our urban areas. So, those are all the reasons that we  we do this work. In terms of our present arrangement, so we've had, well, I guess all the time that I have worked at council and that's over 20 years now, we have typically had a standalone type contract to provide these services. And that's because there are specialist contractors out there that do this sort of work.  The sweeper trucks that you see on the roads sucking up the materials and sweeping and sucking out some things are very expensive and high maintenance bits of equipment. And the workforce has peaks and troughs of work and there's a lot of manual work involved.  And we've traditionally decided that this is better done with a contract rather than having staff and equipment, buying that expensive equipment and doing it ourselves. And also, because we collect transport agency subsidy for this activity, the transport agency requires if council was to do it itself, that we would have to have a local authority trading enterprise, a separate business  undertaking this work if we wanted to do it in-house. Otherwise, we have to put it out to competitive tender as per their procurement rules. So, I guess that's the background to it and the reasons why we've traditionally done it the way we do it. And the recommendation of this report is that we continue to do it  as we have done in the past and prepare a new contract document and go out to tender. So, I'm happy to take questions on this now.",
+    "speaker": "manager",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "procedural_move",
+      "summarize_outcome",
+      "policy_proposal",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 1540.898,
+    "end": 1578.497,
+    "text": "Questions for Brian. I've got a question, if I may. Roger. Thank you. Through you, Mr Chair. Yeah, thank you, Brian. Just a question of clarification.  One of the options is the shared services, and it mentions that there have been discussions with Otorohanga, and that was seen not to be a reasonable option. But it doesn't mention, are there any of the cities or councils within the Waikato region that are actually doing the shared services agreement, like Hamilton, Waikato?",
+    "speaker": "rogergordon",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 1580.995,
+    "end": 1652.873,
+    "text": " I'm not aware of any that are running a shared services contract. I know that Waikato District and Hamilton City have both set up alliance contracts, so they're long running 10-year contracts that have basically incorporated all of the road maintenance work into one contract in each of those councils. And because of that fact, that would be very difficult for council to  in a fashion, break into that contract and engage them to, you know, carry out this discrete service for us. We do obviously share some contracts, though, with Waikato District Council, the transport agency in Hamilton City, and that is in terms of the bridge management, traffic signal maintenance and our Rata  to run this contract that certainly isn't at the moment the right time to go back for a tender.",
+    "speaker": "manager",
+    "tags": [
+      "provide_information",
+      "evaluate_option",
+      "state_opinion",
+      "report_back"
+    ]
+  },
+  {
+    "start": 1654.173,
+    "end": 1684.441,
+    "text": "I'm not unhappy about the extension. What I'd like to see happen through the community boards is some input into the extent of the cleaning and the CBD, just in terms of some of the periphery where, you know, there's a lot of people who are going to be going back to work. So, I'm not unhappy about that.  I, as a walker, every morning have seen at least three choke points in Cambridge that require that little bit of extra cleaning without me having to ring council and ask them to do those particular areas. So would we be able to have an input into that when that new contract comes up?",
+    "speaker": "grahamewebb",
+    "tags": [
+      "state_opinion",
+      "ask_question",
+      "community_reference",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 1686.243,
+    "end": 1716.452,
+    "text": "Yes, certainly. I acknowledge that there's been a change in our town centres and with growth, and it might be  applicable to extend some of the more intensive cleaning that happens in the town centres because of that growth. So, we would be reviewing maps and levels of service in those streets, and we can certainly distribute that to the community boards for feedback as the contract is prepared. Greg Morgan Thanks, Brian.",
+    "speaker": "manager",
+    "tags": [
+      "provide_information",
+      "assign_action",
+      "community_reference",
+      "confirm_next_step",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 1716.472,
+    "end": 1717.873,
+    "text": "Are there any further questions to Brian?",
+    "speaker": "grahamewebb",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1720.538,
+    "end": 1756.786,
+    "text": " Just a comment, Graham, from Luke. I know 17A reviews are obviously something that we want to, you know, it's something we have to do. But what it also does for us as councillors is that when we, you know, receive complaints or when we  get sometimes criticised for some of the levels of service and value for money. And this is where the 17A reviews are really, really great. And it's a checklist for us to go back and ensure that we're providing the best value for money for our residents. So I'm happy to move the recommendations A, B, and C. And yeah, thanks for that update, Brian.",
+    "speaker": "lizstolwyk",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "state_opinion",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1757.826,
+    "end": 1774.084,
+    "text": "Thank you, Liz. Seconder, please. Yeah, I'll second. Thank you, Andrew.  All those in favour say aye. Aye. Thank you. Just for your information, Brian, Cambridge is getting a big clean up in the CBD this morning.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "procedural_move",
+      "agree",
+      "call_vote",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 1775.705,
+    "end": 1779.989,
+    "text": "Yes, thank you, Graeme. The leaves are certainly falling.",
+    "speaker": "manager",
+    "tags": [
+      "agree",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 1790.933,
+    "end": 1799.481,
+    "text": " OK, just moving to a resolution to exclude the public. And of course, we need a mover and a seconder for that to happen.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "procedural_move",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 1800.602,
+    "end": 1802.744,
+    "text": "I'm happy to move. Thank you, Clare.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1804.045,
+    "end": 1807.308,
+    "text": "I'll second it. Is that you, Luke? Yeah, it's me.",
+    "speaker": "brucethomas",
+    "tags": [
+      "agree",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1807.849,
+    "end": 1814.455,
+    "text": "All those in favour, say aye. Aye. OK, did we take a break here for a minute?",
+    "speaker": "grahamewebb",
+    "tags": [
+      "call_vote",
+      "procedural_move",
+      "ask_question",
+      "confirm_next_step"
+    ]
+  }
+]

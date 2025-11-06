@@ -1,0 +1,2869 @@
+[
+  {
+    "start": 0.031,
+    "end": 28.333,
+    "text": " I call this February 11th, 2021 meeting of the Albemarle County School Board to order. We welcome all who are listening in on this beautiful winter's evening. And we will now have a moment of silence.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 34.118,
+    "end": 61.628,
+    "text": " Okay, thank you.",
+    "speaker": "clementeand",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 63.059,
+    "end": 111.737,
+    "text": " We have to read this into our meeting's minutes because of the special circumstances. So the minutes of this meeting should reflect that this meeting is being held electronically, pursuant to Virginia state law and Albemarle County ordinance because the COVID-19 pandemic makes it impractical and unsafe to assemble a quorum physically in a single location. The meeting is being communicated to the public electronically through Zoom.  and streamed live on the Albemarle County Public Schools website. Public comment may be offered through the Zoom waiting room feature in accordance with the school protocol or by written submission. And the members of our board, mic check, just to make sure we can all hear what's going on. Dr. Kate Acuff.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "logistics_info",
+      "public_addressing",
+      "cite_external_source"
+    ]
+  },
+  {
+    "start": 111.757,
+    "end": 113.739,
+    "text": "Kate Acuff, Jack Jewett District.",
+    "speaker": "kateacuff",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 114.8,
+    "end": 120.505,
+    "text": "Mr. Jano Alcarra. Unmute, Jano.",
+    "speaker": "grahampaige",
+    "tags": [
+      "request_action",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 122.746,
+    "end": 126.53,
+    "text": " I was trying to get it off. John L. Carroll at large.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 127.731,
+    "end": 128.832,
+    "text": "Miss Katrina Coulson.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 129.893,
+    "end": 131.434,
+    "text": "Katrina Coulson, Rio District.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 132.075,
+    "end": 132.875,
+    "text": "Miss Judy Lee.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 133.836,
+    "end": 135.158,
+    "text": "Judy Lee, Ribana District.",
+    "speaker": "judyle",
+    "tags": [
+      "public_addressing",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 135.798,
+    "end": 140.883,
+    "text": "Mr. Dave Oberg. Dave Oberg.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 140.903,
+    "end": 142.664,
+    "text": "That's not a good sign.",
+    "speaker": "davidoberg",
+    "tags": [
+      "express_concern",
+      "opinion"
+    ]
+  },
+  {
+    "start": 142.684,
+    "end": 146.568,
+    "text": "Dave Oberg, Whitehall District. Miss Ellen Osborne.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 147.109,
+    "end": 148.69,
+    "text": "Ellen Osborne, Scottsville District.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 149.551,
+    "end": 163.79,
+    "text": "Miss Angel Pelkey.  Angel Pilkey, student rep. And I'm Graham Page, Samuel Miller, district rep. We will now entertain a motion to approve our agenda for the night.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 165.592,
+    "end": 167.135,
+    "text": "I move that we approve the agenda.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 168.777,
+    "end": 169.358,
+    "text": "I second.",
+    "speaker": "kateacuff",
+    "tags": [
+      "agreeing"
+    ]
+  },
+  {
+    "start": 170.6,
+    "end": 179.272,
+    "text": "Been moved by Mr. Alcaro, seconded by Dr. Aka. We approve the agenda. Ms. Johnson, roll call, please.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "vote_call",
+      "acknowledge",
+      "request_action"
+    ]
+  },
+  {
+    "start": 180.114,
+    "end": 198.173,
+    "text": "Ms. Osborne.  Yes. Ms. Colson. Yes. Mr. Oberg. Yes. Ms. Lee. Yes. Dr. Acuff. Yes. Mr. Alcaro. Yes. Mr. Page.",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call"
+    ]
+  },
+  {
+    "start": 198.554,
+    "end": 204.962,
+    "text": "Yes. We need a motion to approve the consent agenda.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "request_action"
+    ]
+  },
+  {
+    "start": 206.844,
+    "end": 209.307,
+    "text": "I move that we approve the consent agenda.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 211.07,
+    "end": 211.41,
+    "text": "Second.",
+    "speaker": "judyle",
+    "tags": [
+      "procedural_move",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 212.555,
+    "end": 220.826,
+    "text": " moved by Mr. Alcaro, seconded by Ms. Lee and Ms. Colson, I think, that we approve the consent agenda. Ms. Johnston?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 221.667,
+    "end": 231.159,
+    "text": "Mr. Alcaro? Yes. Ms. Lee? Yes. Dr. Acuff? Yes. Ms. Colson? Yes. Ms. Osborne?",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call"
+    ]
+  },
+  {
+    "start": 231.519,
+    "end": 231.74,
+    "text": "Yes.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 233.141,
+    "end": 235.965,
+    "text": "Mr. Oberg? Yes. Mr. Page?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 236.346,
+    "end": 249.855,
+    "text": "Yes.  We are now ready for our spotlight on education and Mr. Al Caro is going to introduce the spotlight for us this afternoon, this evening. Thank you, Mr. Page.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 251.517,
+    "end": 425.855,
+    "text": "Sadly, it wasn't until 45 years ago that the United States formally designated Black History Month.  The first celebration already had taken place, fittingly enough, at an educational institution, which was Kent State University, six years prior. Today, the influence of Black History Month enriches the curricula of schools, colleges, and universities throughout our nation, and it should lift the consciousness of all.  Its theme this year is Black Family Representation, Identity, and Diversity, exploring in part the strength of Black families across the United States. We don't have to look very far to find a deep personal appreciation and insight why its theme for 2021 so resonates and is so vital to our own school community.  In fact, we need look no further than Monticello High School. That's where Autumn King is a sophomore. For many years, Autumn was intrigued by an old family photo in her grandmother's house. It was of a young lady born in the latter half of the 19th century. Autumn often studied the picture, which was of a great, great, great grandmother.  a photo that immediately dominated her attention every time she entered the room where it was displayed. Autumn is an outstanding young woman who finds inspiration and guidance from the story of others in life and in art, just as she does every time she becomes reacquainted with that photo and its compelling image.  On the eve of Black History Month this year, with its focus on the strength of the Black family, Autumn's grandmother bestowed her with a very special gift. The photo, which has been passed down in the family for more than a century, now has been given to Autumn with the simple explanation, because I know its care will be in good hands.  Autumn has written about her great, great, great grandmother, not as a class assignment, but in response to an ancestor who has reached across several generations to speak to her. I'd like to ask Autumn to share her poem with us this evening. And Autumn, we are so glad that you're here with us.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "public_addressing",
+      "request_action",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 425.875,
+    "end": 569.673,
+    "text": "Hi, thank you for the introduction and thank you for having me. I'm really honored to be here.  Okay, so this poem is about my great, great, great grandmother Nancy and the picture of her when she was like, maybe around my age, maybe older. I'm not sure, but it's always inspired me. And this poem is called The Picture. A portrait of a Black woman lives above the bed in the last room of my grandparents' house. It's a fairly heirloom that my grandmother guards with pride.  The girl in the painting is a family member of mine. Her name is Nancy. And since I was a little girl, I've stared at this picture with eyes full of awe and curiosity. The picture was large and strangely round. Most of the pictures in the house were small, but this one was different. It looked straight out of the 19th century. The picture was hazy as if the camera was a foggy window. I've searched through it for any features that looked like mine.  The same nose slope, almond eyes, cheekbones, anything. The frame of the picture is the same color as my skin, and I'd wonder if it was the same as hers. Her world was covered in black and white, so I had to imagine it. Her face was masked in a frown, much like old pictures were. What did her smile look like? Eventually, I realized I didn't look like this picture.  But I still wondered if we had similar personalities. I questioned the tone of her voice. Was it as quiet and light like a feather? Or was it strong and moving as an ocean? How did she laugh? Was it a contagious laugh like my uncle's? Or was her laugh loud like mine? Eventually, a really scary question ran through my mind. Would she like me?  I was fascinated by this woman who was a part of me. And the idea that she wouldn't like me was terrifying. I look back and laugh about how I was worried about a woman in old picture liking me. Maybe my grandmother will pass this down to me and I can pass it on to future generations. I really hope she does. All right, that was it.",
+    "speaker": "autumngraceking",
+    "tags": [
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 573.498,
+    "end": 577.243,
+    "text": "Thank you, Autumn. And I think we all know she would love you.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 578.067,
+    "end": 579.631,
+    "text": " Oh, thank you.",
+    "speaker": "autumngraceking",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 585.383,
+    "end": 597.285,
+    "text": "Is that it, Ms. DelCaro? That's it. Okay. Any board members with any questions or comments for Autumn?  You're awesome Miss King.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "public_addressing",
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 598.106,
+    "end": 614.908,
+    "text": "Thank you. I guess I had a question about, you know, do you write much poetry is this your, um, so last year, my teacher told us that we're going to have a production like we do every year called Selma Goondi with.",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "hedge"
+    ]
+  },
+  {
+    "start": 614.956,
+    "end": 649.073,
+    "text": " Ms. Michael. So she was like, OK, so this is where all students contribute. And I was like, OK, what if I do a poem? And I did this poem called American Dream. And my parents loved it, and she loved it. Unfortunately, Samma Gundi was canceled, but I did eventually do that poem. And after that, I started just writing poems about Black experience. But I don't like to get too deep into it, because I don't want to hurt my own feelings.  But I like sometimes to write about things that are uplifting.",
+    "speaker": "autumngraceking",
+    "tags": [
+      "give_update",
+      "express_concern",
+      "opinion",
+      "hedge"
+    ]
+  },
+  {
+    "start": 651.857,
+    "end": 653.779,
+    "text": "Very impressive, Miss King.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 655.942,
+    "end": 668.638,
+    "text": "Other comments or questions? Okay, Miss King, do you, where's the picture now? Is it in your, it's in your house, right?",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 668.973,
+    "end": 729.878,
+    "text": " No, it's actually at my grandmother's house. But um, so I FaceTimed her and I read it to her. And after she heard it, she told me I'm giving you the poem. It was after  I made the poem and I was really happy because I really want it. And she, to the point, she told me the story of how she got it. And may I say how she got it? So she, ironically, her grandmother had the picture and she loved that picture just as much as I do. And one day her grandmother came to her house with something wrapped in a quilt that my grandmother still has. And when she unwrapped it,  it was the picture. And she told my grandmother, I'm giving you this because I know you'll take care of it. And she's had it ever since. And I used to sleep in that room sometimes. And I look at it a lot. And it was just so interesting to me. And I'm honored that now I get to have it. Because it's such a big deal to me. And it's really important.",
+    "speaker": "autumngraceking",
+    "tags": [
+      "opinion"
+    ]
+  },
+  {
+    "start": 731.714,
+    "end": 764.236,
+    "text": " Okay, thank you so very much. We can see that you are budding Amanda Gorman, right? So you're on the right track. You are really on target for your age right now, so thanks. Or Ms. Gorman's a budding Ms. King. Thank you, thank you, right, right. That poem is just beautiful. So you are really a budding, Ms. Amanda is a budding Ms. King, just like Mr. Oberg said.  Thank you. Any other questions or comments for Ms. King?",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "agreeing",
+      "public_addressing",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 766.037,
+    "end": 778.868,
+    "text": "It's just good to see you, Autumn. And I really love your poem. And I'm so happy that you shared it with us. And I'm super excited that now you're going to get to have that photograph. So thank you so much.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "acknowledge",
+      "opinion",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 779.449,
+    "end": 783.452,
+    "text": "Thank you. And thank you. I miss you too, Ms. Verhuis. It's good to see you.",
+    "speaker": "autumngraceking",
+    "tags": [
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 784.813,
+    "end": 788.296,
+    "text": "OK, Ms. King. Thank you so much for being with us tonight.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 788.977,
+    "end": 790.138,
+    "text": "Thank you for having me.",
+    "speaker": "autumngraceking",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 795.485,
+    "end": 811.121,
+    "text": " All right, our next item, announcements or school board superintendent business. So any announcements or business from school board or our superintendent?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 811.401,
+    "end": 816.947,
+    "text": "I do not have any Mr. Page, thank you. Okay.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 816.967,
+    "end": 821.391,
+    "text": "All right, we are down to public comment. Vice Chair, Ms. Carlson.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 825.083,
+    "end": 958.585,
+    "text": " Yes, Chairman Page. I will start by reading the public comment guidelines. The school board invites and actively seeks the public's input in the matters relevant to school board governance and provides time during its business meetings to hear from Albemarle County residents and community members. The school board wishes to maintain appropriate meeting decorum so that persons can observe and hear the proceedings of the school board and that attendees online are not subject to inappropriate language and conduct.  As authorized by ordinance of the county of Albemarle, the school board will hold its meetings electronically during the COVID-19 pandemic. The school board is nevertheless committed to encouraging public comment, despite its need to meet on a virtual basis. For this reason, there'll be two ways for the public to provide comment. First, as always, written comments may be submitted to the school board clerk prior to the start of the meeting and will be given to all school board members for review.  You can also email the school board. And as long as the school board holds its meetings electronically, members of the public wishing to provide public comment during the school board meeting may sign up online by 2pm the day of the meeting. Before electronic public comment starts, I'm going to announce the order. I'm actually going to do it three people at a time. We have 26 people signed up right now. So I'll do three people at a time. And then  Speakers will each have, I believe it's we lowered it to two minutes to speak and I will notify you when you have one minute left by holding up my finger. And hopefully all of you guys got that number. So you've been able to adjust accordingly.  Speakers during the meeting are those submitting written comments should state their name and address from magisterial district and speakers should limit comments to those matters that are relevant to school board governance or the operation of the school division. And lastly, although the school board will not respond to comments made during public comment during the public comment period, they may address comments at the end of the meeting agenda under other business.  So with that, our first three speakers are going to be Michael Martinez, Laura Gonyar, and Pierre Padilla. So Michael, if you are on, it's your turn. I don't see him. Yeah, I'm not seeing him. So I will loop back at the end. Laura Gonyar, if you are on, you may go now.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "logistics_info",
+      "clarify"
+    ]
+  },
+  {
+    "start": 959.813,
+    "end": 1022.024,
+    "text": " Hello, my name is Laura Gonier. I am in the Rivanna district. In the fall, our lack of understanding on virus transmission and safety in schools led to a justified concern about in-person learning. Now we have data that schools are not a significant source of virus transmission and that the rigorous mitigation strategies in place are effective at keeping our children, teachers, and families safe. Also, an effective vaccine has been approved and has been offered  to ACPS teachers and staff as part of the early stages of vaccine rollout, highlighting how essential our schools are to the well-being of our community. Giving the choice for in-person learning to all families will allow our students a return to normalcy. My daughter has been participating in hybrid learning, and she is overjoyed on the days she is able to attend in-person with her friends and her amazing teacher.  I urge you to prioritize our students' academic success and mental health and to vote to move to stage four. Thank you.",
+    "speaker": "lauragonyar",
+    "tags": [
+      "public_addressing",
+      "give_update",
+      "policy_proposal",
+      "prioritization",
+      "opinion",
+      "request_action"
+    ]
+  },
+  {
+    "start": 1027.01,
+    "end": 1030.415,
+    "text": "Thank you, Ms. Conyer. The next speaker is Pierre Padilla.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1034.52,
+    "end": 1035.662,
+    "text": "I don't see him either.",
+    "speaker": "Unknown",
+    "tags": [
+      "agreeing"
+    ]
+  },
+  {
+    "start": 1037.404,
+    "end": 1047.988,
+    "text": "OK, I'll put a little note. The next three speakers are going to be Jamie Yao, David Hawkins, and Amanda Vogel.  So you're on.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "logistics_info",
+      "procedural_move",
+      "public_addressing",
+      "give_update"
+    ]
+  },
+  {
+    "start": 1055.208,
+    "end": 1145.625,
+    "text": " Hi, thank you so much. Thank you to the school board, to the superintendent and our teachers. I'm Jamie Yowell. I've got three children that scale across Mountain View, Monticello and Walton. And I really appreciate everyone's efforts, the teacher's efforts and what everyone has done to get us this far. I am a huge proponent of supporting stage four.  And we've got friends and family that are in places around the country as well between Montana, Ohio, Florida, Arizona, and others that have been back four to five days a week. And I want us to absolutely strive to get to four to five days a week. So I am fully in support of stage four.  But to use a recent sports analogy, after the Buccaneers won their playoff game, there was a lot of players that were very excited. And Tom Brady, this is an indictment of Tom Brady, whether you like him or don't like him, but he went to the player because he was so emotional. And he said, hey, we've done great things, but we have more work to do.  So Superintendent Haas and the school board, I strongly encourage you to benchmark across these other schools and other districts and absolutely vote to approve stage four. And then let's immediately look to implement five days a week. Thank you for everything that you're doing for us, our kids and our community.",
+    "speaker": "jamieyowell",
+    "tags": [
+      "policy_proposal",
+      "request_action",
+      "public_addressing",
+      "acknowledge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 1149.508,
+    "end": 1167.391,
+    "text": "Thank you for those comments, Mr. Yao. The next speaker is going to be David Hawkins.  I do not see him in the room. I'll make a note. Amanda Vogel.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 1169.613,
+    "end": 1239.098,
+    "text": "Thank you for weighing so many different things as you make this decision. I'm a parent of three elementary students in the Rivanna district and a teacher of middle school students. I've been really impressed with all the learning that has happened this year and the equity work done in schools and by the school board.  A lot of preparation and planning has gone into stage four. And whether you make the decision to begin stage four now or after teachers have been vaccinated, I'm hoping that the conversation around equity and learning and how it impacts virtual versus in-person students is gonna be an ongoing conversation. Specifically, what's the impact on class makeup as families of color are more likely to choose virtual over in-person learning? Will pre-K and to third,  grade instructional time match between virtual and in-person learning? What will the impact be of specials and intervention teachers supporting small and in-person grouping? Will the virtual students get similar access to specials and intervention services? Also, given what we know about student-teacher ratios, how do the virtual class sizes compare to hybrid class sizes? Thank you.",
+    "speaker": "amandavogel",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "request_action",
+      "clarify",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1242.824,
+    "end": 1269.203,
+    "text": " Thank you, Ms. Vogel. I was actually just holding up the one-minute mark, so I hope everyone knows that you still have a minute left when I hold up my finger. The next three speakers are going to be Alana Smith, Vernon Lecte, who I know is here. I see him. And Augustin Narambuena. So Ms. Smith, if you're here. Oh, I see you. You're muted.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "procedural_move",
+      "logistics_info",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1273.503,
+    "end": 1400.778,
+    "text": " Sorry about that. So hi, my name is Alana Smith. I live in the Scottsville district. I have five children who are all enrolled in Albemarle County Public Schools. I have one at Monticello, one at Walton Middle School, and three at Mountain View Elementary School. I have nothing but respect and admiration for everything that their amazing teachers are trying to do by educating them virtually right now, but I do not believe that the system is working. I believe it is way past time for them to return to school. Currently, my two teenagers do pretty much nothing but stare at screens all day long, and this is very unhealthy.  And they're not learning the material as well as they have in the past they are isolated and cut off from their friends their grades are suffering and this is not a good situation for them. My younger children are also struggling to retain the information they learned last year their reading levels have been dropping and honestly, as much as their teachers try really hard they hate doing zoom school. It's really sad to see their love of learning quashed when they're so young, but that's what's happening.  My youngest two have been able to go to school in person during stage three times and they're so happy when they get to go to school. It's wonderful to see, and I believe all children deserve this joy and success. I'm a stay at home mom with a master's degree and I'm able to help them a lot, but I really worry about all the children whose parents can't be there to help them. What is happening to those children?  Schools throughout the country, including Louisa County Augusta County flu Vanna County and nearly every private school in this area have managed to safely continue with in person learning during this pandemic, and there have not been mass outbreaks of coded. Honestly, there's no reason Albemarle County can't do this too.  This very school board recently determined that it was safe for high school students to participate in basketball wrestling cheer and swim. So I can't imagine why it would be more dangerous for children to sit and desk six feet apart with masks than it is for them to be wrestling. I think academics is much safer.  For parents who are uncomfortable with this, they can certainly continue to send their children to virtual school. I'm fine with that, but for those of us who have read the CDC guidelines and know that they said that the kids should be going back to school immediately, I believe it is time for us to exercise our constitutional right and have our children be in public education in school as soon as possible.",
+    "speaker": "alannasmith",
+    "tags": [
+      "public_addressing",
+      "express_concern",
+      "policy_proposal",
+      "request_action",
+      "cite_external_source",
+      "opinion"
+    ]
+  },
+  {
+    "start": 1401.339,
+    "end": 1408.668,
+    "text": "Thank you. Thank you for those comments, Ms. Smith.  The next speaker is Mr. Lecti.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1410.931,
+    "end": 1460.295,
+    "text": "Good evening. My name is Vernon Lecti and I'm a teacher at Elmira High School. I want to applaud the school division for coordinating with the Blue Ridge Health Department to make vaccinations for ACPS staff possible. I'm also grateful that the school division has posted the total amount of staff and students that have had to quarantine since the 2021 school year began. Publishing this data gives us a great deal of information so that families can understand the risks involved  with in-person instruction. According to the dashboard, there have been 98 confirmed COVID cases among ACPS students, staff, and contractors who are learning or working in person. In addition, 287 students and staff have been forced to quarantine due to exposure to an individual with COVID at school or work. This is just the amount that we have recorded. This does not include the possible quarantining that parents, other family members, and non-school contacts may have had to do as well.",
+    "speaker": "vernonliechti",
+    "tags": [
+      "public_addressing",
+      "acknowledge",
+      "cite_external_source",
+      "express_concern",
+      "opinion"
+    ]
+  },
+  {
+    "start": 1461.389,
+    "end": 1465.155,
+    "text": " Are the health metrics worse now than when the school board voted for stage three in the fall?",
+    "speaker": "matthewhaas",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 1466.076,
+    "end": 1528.399,
+    "text": "Will the metrics be getting worse due to new variants of COVID that are spreading at a much more rapid rate? These same new variants, the current CDC director has stated, could reverse the recent drop in COVID cases and hospitalizations. I am encouraged by some of the safety metrics that ACPS is following, but I still feel that these safety metrics are lacking if our intention is to reduce the spread of COVID in our community. We have already had an outbreak in one of our schools.  Many other schools in the state have also experienced outbreaks. We still do not understand the long-term health effects of contracting COVID-19. According to the Mayo Clinic, COVID-19 has been linked to lasting organ damage in the heart, lungs, and brain. Is risking our lives and our life expectancy worth it? Please understand that currently reopening under stage four is a gamble. It is not a sure thing that there will be no outbreaks in schools. Your decision today will impact the health and safety of countless lives  And for many of us, the quality of life we will live, even after the COVID-19 pandemic has passed. I recommend the school board vote no on proceeding to stage four at this time. Thank you.",
+    "speaker": "vernonliechti",
+    "tags": [
+      "express_concern",
+      "ask_question",
+      "cite_external_source",
+      "policy_proposal",
+      "opinion",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1530.781,
+    "end": 1540.951,
+    "text": "Thank you for those comments, Mr. Lefty. The next three, actually, I've already announced the next speaker will be Mr. Narambueno, who I think I see down here.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1541.852,
+    "end": 1575.163,
+    "text": "Hello. Hi. I'm going to do one minute for me and then another for my brother.  Okay, so good evening. My name is Augustin Norabuena. I'm a fifth grade student from Brownsville Elementary School. I believe you should approve the state for recommendation because it would be easier to do school in person. Because in Zoom, there can be internet problems and distractions. I understand the rules for in person learning and I'm happy to follow them. Thank you for hearing my opinion. Now here's my brother.",
+    "speaker": "clementeand",
+    "tags": [
+      "public_addressing",
+      "opinion",
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 1576.73,
+    "end": 1637.817,
+    "text": " My name is Clemente Norbuena, and I am a seventh grade student from Joseph T. Hanley Middle School. I believe we should go back in person because, one, we all really want to go back in because it's been hard already. We've been separated because of the quarantining, and we can't go be together normally like we could just after school.  And also during school, students are suffering. They aren't doing as well. I am lucky to still be able to learn, but others aren't as lucky and they are struggling. And also school doesn't feel really like school, middle school doesn't feel like middle school because it lacks the social and spontaneous feedback that we normally get. So that is my opinion.  Thank you, and in the end, I believe we all just want to get back into the classroom.",
+    "speaker": "clementeand",
+    "tags": [
+      "public_addressing",
+      "opinion",
+      "express_concern",
+      "request_action"
+    ]
+  },
+  {
+    "start": 1637.837,
+    "end": 1663.543,
+    "text": "Thank you so much for those comments. I mean, I can't help but smile. That is awesome. I don't know if we've ever had a public comment from someone who's in elementary school, so that's amazing. Great job. The next three speakers are going to be Anna Dinwiddie, Katie Dougherty, and Chris Cretore.  So Anna, if you are on.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1666.305,
+    "end": 1805.346,
+    "text": "I am on, hi guys. So I wanted to start by saying thank you guys for hearing me out and letting me speak tonight. I wanted to start with, we can do better for our teachers, for our students, for our administrators, for our counselors and for our support staff. I'm speaking out actively against opening schools to phase four for three reasons.  One, disruption to the learning environment. School did not work for everybody either. Being in person didn't work for everybody either. It's time to adapt and think bigger. Two, the goal of as many teachers and potentially students getting vaccinated as possible  is also something I want to consider before going back. And three, the basis of the decision as it's currently being requested to be rolled out, in theory, is keeping the kids safe and better engaged, producing higher levels of equity, and establishing student-teacher connection. But in actuality, students will remain six feet apart, masked, and continue to learn from a teacher that has to stay glued to his or her computer screen.  Teachers and students deserve an advocate for their own mental health and sanity, because remember, we are in a pandemic. Teachers are suffering too. We are hurting, and we are feeling like we have no say, and not only going back into school without being fully vaccinated, without herd immunity, and without any recognition that we are doing a really good job in the situation we have been put in. And you know why? Because teachers love and respect their students.  We want to do right by them and keep them ahead of the curve, even when we are forced to adapt years of curriculum development into three weeks to virtual instruction. The idea of changing the schedule and environments of students and teachers with only three to four months of instruction left does not outweigh the stress and struggle of yet another change required of all members of this community. Content may have been lost this year, but stability has been found by more than we give credit.  The same students that we are wanting to reopen schools for the at-risk low income are the same kids that are saying they're not returning in phase four. Remember who we're fighting for here. Thank you, Ms. Dinwiddie.",
+    "speaker": "annadinwiddie",
+    "tags": [
+      "public_addressing",
+      "express_concern",
+      "opinion",
+      "policy_proposal",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1805.686,
+    "end": 1810.973,
+    "text": "Thank you. The next comment is gonna be from Katie Dougherty.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1815.039,
+    "end": 1912.836,
+    "text": "Hi, thank you for having me. My name is Katie Dougherty and I'm from the Whitehall District.  I have twins in the first grade at Brownsville who have been participating in hybrid, and I will echo what other parents said. My children, on the day that they go to school, they are at their best. They don't care about the social distancing. They don't care about the mask wearing. They don't care about  not being able to give their friends hugs. They just love being there and they love learning. I'm a pediatric nurse. My husband is a pediatric doctor. We have seen the effects of the global pandemic on this past year on not only our children, but on patients at the hospital. While we can't change the past, we must improve the future. I am a strong proponent of voting for stage four.  This fact is supported by the American Academy of Pediatrics, the CDC, the incoming Secretary of Education, and even the President. Research has shown is safe with precautions are in place. Brownsville is doing a wonderful job. The teachers are doing a wonderful job. Learning is imperative for all our child's development.  We should allow science and data to guide us and not be led by fear and support the decision to reopen the school. Thank you for your time.",
+    "speaker": "katiedaughert",
+    "tags": [
+      "public_addressing",
+      "opinion",
+      "cite_external_source",
+      "reassure",
+      "policy_proposal",
+      "express_concern",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 1916.062,
+    "end": 1920.51,
+    "text": "Thank you for those comments. The next speaker is going to be Chris Crater.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1922.397,
+    "end": 2051.325,
+    "text": " Good evening, my name is Chris crater and i'm the CEO for a CAC fitness wellness centers and also the parent of two Western Albemarle high school students. You know I signed up to speak, because I think I can offer a couple of unique perspectives, one is a running a business that's been serving children. For the last year as a parent of students that are both full time in person and virtual and also as the husband of a teacher.  You know, first as a business we've been operating kids programs, including camp preschool and virtual learning support since May and operating our health club since June, and to all you who are members, we're happy to have you back. I understand firsthand how challenging it can be to manage the logistics of reopening.  and the implementation of new protocols needed to operate safely. I'm here to say that I believe in our schools and I also believe that they can move safely to stage four. I know it's not gonna be simple and there will be challenges, but I think it's time to offer the opportunity for all of our children to experience in-person learning. For my own kids, it'll have been a year since they've returned to the classroom. And I applaud the efforts that have been made to date to make virtual learning feasible by our teachers and support staff at Albemarle County Public Schools.  But from this parent's perspective, comparing both types of learning amongst my own kids, virtual is simply not an adequate replacement for in-person instruction. These kids are missing all those teachable moments that come throughout the school day that help round our children into the people they will become. I'm also concerned how long they've been on the screens, in front of their screens every day. The American Heart Association recommends only two hours a day, and I know they're on there for a lot longer than that every day of the school week.  I think this, coupled with what we know about the effects of isolation among our kids, I think virtual learning is going to create some significant long-term consequences for them.  You know, as I mentioned, my wife, Allie, is also a teacher, and after a few years away from teaching, she returned to Sears and working directly with a classroom of elementary kids since September. From firsthand experience with in-person learning, she can tell you that it has been needed and with proper precautions can be done safely. Albemarle County Schools, we can do this. I urge you to follow the science and move to stage four, and thank you for the opportunity to speak.",
+    "speaker": "chriscraytor",
+    "tags": [
+      "public_addressing",
+      "opinion",
+      "policy_proposal",
+      "request_action",
+      "express_concern",
+      "reassure",
+      "cite_external_source",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2052.841,
+    "end": 2071.58,
+    "text": " Thank you, Mr. Creator, I forgot to press the timer on that. So I was like feeling was that two minutes and it seemed about right. I'm sorry, I'm on it. The we're halfway through the speaker. So the next three will be one day Johnson, Anna Jesus, and Michelle Pizziocos.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2076.244,
+    "end": 2079.127,
+    "text": "So let me see if I don't see one day Johnson.",
+    "speaker": "Unknown",
+    "tags": [
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 2080.869,
+    "end": 2085.537,
+    "text": "Okay, I'll circle her.  Try at the end. Anna Jesus.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "give_update",
+      "request_action",
+      "logistics_info",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2086.939,
+    "end": 2174.867,
+    "text": "Yes. Hi. Thank you so much for having me. Um, everyone has such beautiful prepared speeches and I admit I do not. Um, I just want to say, first of all, I'm a pediatrician. I'm a fellow in my final months of neurodevelopmental and behavioral pediatrics. So basically I take care of kids with disabilities and also children with autism, ADHD, and difficulties with learning.  I'm a mother of four, two of which are in the public school system at Brownsville, and I'm also a daughter of a Virginia public school teacher.  I think that Dr. Vergalis in the meeting a few days ago presented the data so eloquently. I'm not going to repeat everything that he said, but I just urge us to follow the data in terms of the safety of reentering public school and also the damage that it's causing our children from a mental health standpoint and also an academic standpoint. And I urge us to take the long view specifically that I really fear that if we don't at least attempt to go into stage four now,  It's going to be months until we try it again and then it's going to edge into the next school year and then we're going to have 3 years of disruptive public education. And I just feel like for me that's unfathomable and I really are just to at least try for stage 4. We now have data from other countries. The CDC and now large cities in our own country that show that this is safe. Chicago's going back to school we can too. Thank you very much for having me.",
+    "speaker": "anna",
+    "tags": [
+      "public_addressing",
+      "policy_proposal",
+      "cite_external_source",
+      "opinion",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 2179.066,
+    "end": 2205.968,
+    "text": " Thank you for those comments. The next speaker is going to be Michelle Yocos. I do not see her. So I will circle her and try again at the end. The next three speakers after that are going to be Amy Gertner, Lori Alridge, and Dean Strebel.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "logistics_info",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2211.922,
+    "end": 2334.157,
+    "text": " Good evening, members of the board and Dr. Haas. My name is Amy Gertner, and I'm a resident of the Whitehall District. A board member told me you wanted to hear stories from teachers, and the AEA's job was to help the board make the right decisions. This is the last time I will speak before the board as the AEA president. This has been a traumatic week for me, but I would like you to listen for examples of white middle class privilege in my story. Eight days ago, my mother was found unresponsive in her independent living apartment.  They incubated her in the ER before calling me. I carefully read her medical directive. The tube would remain in place for now. My mom was still in shock when the board met last Thursday. Her tropamine levels continued to rise. Normal is 0.02, and hers had reached 65. The denial for my non-ADA accommodations arrived too. Friday, my teammate volunteered to take my class, and she will be with my class of students next week. Thank you, Megan Wymer. My mother's heart is damaged. She could not have the surgery needed to repair it.  concerned she might be brain dead as well. When the breathing tube was removed on Saturday morning, she was responsive. On Saturday afternoon, I was told I might not be allowed in to see her again. Charlotte dies alone. I cry every time I read Charlotte's Web to my class. This book inspired me to choose spiders as my class mascot. Spiders are interesting, special, and a bit misunderstood. Don't we all feel like spiders sometimes? Isn't it reassuring to know we're worthy of love and acceptance anyway? My parents are college educated and were, at the time,  when it was possible for white middle class people to grow wealth. I can choose to take a leave of absence and pay myself to care for them when my FML runs out. My father has lived in memory care for 29 months. He has been in the ER four times since November. He was released from the hospital yesterday, and my mother heads to rehab tomorrow. I can ask for what's best for my family, my spiders, my teammates, my principal, and the AEA. COVID sucks. My mother's heart is damaged due to the stress of loneliness. Her community has been in quarantine for a month.  Zoom meetings are not the same as in-person, but I have seen a breathing tube used in-person. Thank you for serving on this board and for listening to my story tonight.",
+    "speaker": "amygaertner",
+    "tags": [
+      "public_addressing",
+      "give_update",
+      "express_concern",
+      "opinion"
+    ]
+  },
+  {
+    "start": 2338.744,
+    "end": 2348.338,
+    "text": "Thank you for those comments, Ms. Gairdner. Yes, thank you. I know that's hard to say. Our next speaker is gonna be Lori Alridge.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2351.022,
+    "end": 2491.202,
+    "text": "Hello. Oh, can you hear me?  Okay, thanks. Hi, my name is Lori Allridge and I teach in the Jack Jewett District. And again, welcome to my classroom. I'd like to speak to you today regarding equity and trust. I'm going to begin with equity. Something I've recently found out is that ESL students must come to school for access testing. And many ESL parents have chosen to remain virtual, but they're in a dilemma. They can't, they can't opt to not take the access test and, or they can risk coming in.  But we all know that students who do not take the access test will not have a WIDA language level in the fall. And this is gonna impact their education and the courses they take in middle school and high school. That's not equity. You need to find a way to make sure that it works for families. And now I want us to talk a little bit about trust. Many of my parents don't want their children in school, not because they don't want them educated, but because they're afraid. We continue to act like,  There is nothing to be afraid of. And as one of the few African-Americans in Albemarle County, I'm a member of the CDC's increased risk to getting COVID and dying. I am not willing to roll the dice with my life because we want to rush into school during a pandemic. My parents don't trust that our schools will protect their children. And the rush to return to in-person learning is one of those reasons they don't trust.  our schools. I'm certain they're unaware that their Children will be in person learning with some teachers who have not been vaccinated. And I'm sure they don't know this or they haven't received both shots. So my I am hoping that you would reconsider returning to in person learning. I do want you to do that move to stage four. But when everyone has been vaccinated and I would also  continue to push for equity for families, but make sure all of our communities are heard and make decisions that are fair and just and equitable. And finally, make sure that all teachers are vaccinated and fully vaccinated before we return to in-person learning and stage four. Thank you for your time.",
+    "speaker": "lorialridge",
+    "tags": [
+      "express_concern",
+      "request_action",
+      "policy_proposal",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2493.365,
+    "end": 2499.272,
+    "text": "Thank you for those comments, Ms. Ulrich. The next speaker is gonna be Dean Strebel.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2500.585,
+    "end": 2631.404,
+    "text": " Thank you for the opportunity to speak to the board. I appreciate it. It's going to go fast and furious since you only give me two minutes. So I have, I'm in the Ravonna School District and I have students in Sutherland, Murray Charter, and in Earth Science Academy at Western Albemarle. I'd like to first, because they're going to save me a lot of time, I'd like you to really think, members of the board, about Mr. Leike, Ms. Dinwiddie, Ms. Kartner, and Ms. Aldrich said,  I do data analysis and data collection. Every one of these studies you can look at, and none of them correlate exactly to our situation. And quite frankly, the CDC does not recommend going back to school. They don't deter you going back to school either. They have levels of risk.  When we were at the lowest risk, it was all virtual. Right now, stage three is what they would call some risk. And I think you guys have done a fabulous job. I mean, you've got the people in school that need to be there, but it's a small environment. It's controlled. You're able to keep things under pressure. And I know that it's not perfect for the virtual, OK? I know not everybody has access. But it's safe, and it's something that we're used to now. They're into a system.  The levels of complexity you will introduce going to stage four, you do not have the resources to deal with. When five or six teachers test positive and those classes are sent home quarantined and those teachers cannot teach, not only are the people who are in person in school, but the virtual learners are now without a teacher for two, three weeks if they have symptoms.  Okay, so that could be an AP teacher, that could be a band teacher. These are not people that can be replaced for two to three weeks by a substitute and get really good educational value from, even close to what they get in virtual. Stage three works, and stage four is going to exponentially increase the points of control that you will have. You will not have control over the environment, no matter what you think.  And you know, substitutes are meant to work for one or two days, not to fill in for an expert in the subject.",
+    "speaker": "deanstrevel",
+    "tags": [
+      "express_concern",
+      "policy_proposal",
+      "public_addressing",
+      "opinion",
+      "request_action",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2632.285,
+    "end": 2636.209,
+    "text": "Mr. Strebel, your time's up. That can't be two minutes.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2636.229,
+    "end": 2643.877,
+    "text": "You've got a couple months left. Don't rush into it. Think about it. Get through this year and move on. Thank you very much for the opportunity.",
+    "speaker": "deanstrevel",
+    "tags": [
+      "reassure",
+      "prioritization",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2643.897,
+    "end": 2655.349,
+    "text": "Thank you, Mr. Strebel. Point on my list. OK, the next three speakers are going to be Sean Boyd, Melissa Techman, and Cheryl Knight. Mr. Boyd.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2656.797,
+    "end": 2658.379,
+    "text": " Hi there. Can you hear me?",
+    "speaker": "shawnboyd",
+    "tags": [
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2658.399,
+    "end": 2658.899,
+    "text": "Yes, I can.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 2659.74,
+    "end": 2760.724,
+    "text": "Okay. So Sean Boyd from the Sam Miller District, got three kids at Henley and Western Alamo High School. And I just wanted to be quick tonight. I wanted to say thank you very much. I think everybody on the board and Superintendent Dr. Haas, I can't imagine that you had any idea what you were getting into and having a pandemic hit on the term that you're serving.  So I thank you very much for doing what you're doing. As I said, this is my third time speaking. The first two times, I presented lots of facts and figures, and a lot of other people that are much smarter than I am are out there presenting those again tonight, and it's great. I am not going to get back into that. What I'm going to do is just to reaffirm my support for getting us back on to stage four and beyond that. What's happened since the last meeting, we've had kind of  a little bit more time and more studies coming out and more data coming out. The CDC has talked about coming back into school and the importance of getting the kids in. Governor Northam here in Virginia has talked about that. And the new Biden administration has talked about it. The world is understanding that we're not creating big spreading events. And it is important to get the kids the option, not the requirement, but the option to get back in there. Knock on wood, daily cases are coming down countrywide.  here in Virginia and of course in Albemarle County. So this is the time. We've got a large percentage of schools around Virginia and the country that are doing this and they're doing it well. We can too. And I appreciate you all's efforts and I hope that we get there very quickly. Thank you.",
+    "speaker": "shawnboyd",
+    "tags": [
+      "acknowledge",
+      "opinion",
+      "policy_proposal",
+      "cite_external_source",
+      "reassure",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2763.427,
+    "end": 2769.795,
+    "text": "Thank you for those comments, Mr. Sullivan. The next speaker is going to be Melissa Tickman. I saw her on.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 2770.602,
+    "end": 2914.01,
+    "text": " Hi, thank you so much for letting me speak. My name is Melissa Techman. I'm one of the librarians at Western Albemarle High School. I'm also the parent of two graduates of Western Albemarle. I would like to ask the board to say no to stage four at this time for a lot of reasons, but my top three are that there is new information coming, new projections,  for the highly contagious variants that are spreading. There is new information about COVID long haulers. UC Davis recently reported that 10% of all COVID patients of all ages, including the asymptomatic are expected to experience lingering or resurfacing lung damage. And my comments tonight are,  purely addressed to the high school situation. I think K-8 is a little bit different. I also think that the CDC guidelines about masking are not being addressed when we talk about high school students eating lunch for 30 minutes with no masks on in small rooms with who knows what kind of ventilation. We haven't been told.  The study that the doctor shared with the board talked about a North Carolina group which ate for 15 minutes with no masks and their teachers did not allow them to talk at that time. I would also like to say that the CDC edited guidance for K-12 schools from January of this year asks for school systems to give flexibility to their teachers and staff.  Every teacher, including myself, every staff member who has asked for flexibility in terms of virtual possibilities and others has been rejected every single one. The CDC has asked that  employers could consider extending flexibility to those with family members who are at risk. I'm in that category. My request was denied, and I had three days to ask for leave, which may or may not be approved, retire, or resign. Thank you for my time.",
+    "speaker": "melissatechman",
+    "tags": [
+      "public_addressing",
+      "express_concern",
+      "cite_external_source",
+      "request_action",
+      "policy_proposal",
+      "opinion"
+    ]
+  },
+  {
+    "start": 2914.611,
+    "end": 2918.397,
+    "text": "Thank you. The next speaker is Ms. Knight.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2919.878,
+    "end": 3063.64,
+    "text": " Hello, my name is Cheryl Knight and I live in the city of Charlottesville and I'm a teacher at Murray Elementary School. And again, thank you for your time this evening, as well as the many, many evenings that you all have been putting into this. My message is pretty simple. I really feel that it's important for us to wait until our educators are vaccinated.  or at least have the opportunity to be vaccinated. I understand some people cannot be vaccinated. So I just would really appreciate that opportunity. I'm very eager to get back into my classroom. I do not want to keep teaching from a computer. I do enjoy actually seeing students in flesh and blood and I truly do miss that.  I just wanna be safe. I have an elderly mother who has several risk factors. And I realized even if I get vaccinated, that's not gonna prevent me from necessarily being a carrier, but I would feel better just for my own sake for that. The other concerns or concern that I have is also the teacher and student morale. And we've heard from a lot of parents about students  and their difficulties right now. And I do think that this is an extremely difficult time. It's a difficult time for everybody. I mean, I know this has stretched most people to their limits. You know, the other thing I know the board talked about at one time is the changing schedule. Every time, it felt like for a while it was every other week I had to change my schedule because my students were doing something different.  And it's hard to be on that yo-yo string. And I know many of you know what I'm talking about. Again, I'm just would like for educators to have the opportunity to get vaccinated before you move on to stage four. I would like to move on to stage four as soon as possible. And I would also like to know if we do not move on to stage four tonight, what the next steps are. Thank you.",
+    "speaker": "cherylknight",
+    "tags": [
+      "public_addressing",
+      "express_concern",
+      "request_action",
+      "policy_proposal",
+      "ask_question",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 3064.801,
+    "end": 3075.313,
+    "text": " Our next, we have six speakers left before we cycle through and just check if anyone came. Next up will be Sierra Wolf, then Christine Kone, then Andrew West.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "logistics_info",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3079.098,
+    "end": 3214.331,
+    "text": "Good evening, school board members. My name is Sierra Wolf-Craig and I reside in the Ravanna district. I work for Albemarle County School Systems and I do not recommend moving to stage four. Here's why.  I'm a private person, but for the importance of this conversation, I will let you in on a secret. This past summer, I had COVID. I haven't been able to smell my overpriced perfume since. We take for granted the very things that we're blessed with until we don't have them anymore. My family won't be one of them. Before I am an educator for your district, I'm a wife and I'm a mother first. My two sons will not be going into school for the remaining four months.  But where does that leave my family and our household? I'll tell you where. I've been left with the option to resign or to take a leave of absence. And all the way up until this point, I've been given the opportunity to work virtually. And at stage four, my request has been denied. However, I do have a younger sister who underwent a major open heart surgery in which my husband and I are caretakers for. We've been making it work. I pray that you vote to continue giving others that option in our current stage. I'm not speaking on behalf of just myself only,  but also for my co-workers who are reluctant to come forth. We love what we do. We enjoy seeing the expressions and the personalities that are lost in translation due to virtual teaching. It's not easy. Administrative administrators have been forced with making some very very difficult decisions regarding staff staffing and I do understand that. However I'm asking you to consider allowing time for all staff and faculty who choose  to take their first and second vaccinations before moving to stage four. If that means we start in the fall, bright-eyed and bushy-tailed, and for me, preferably on time, I promise you, you will have more educators that support and staff that will be more willing to work in person. In closing, I'm being forced to make a decision between being safe and taking a leave of absence or increasing the risk of inviting the virus into my home so that I can put food on my family's table. It's not an ethical choice.  There's a reason we're meeting in Zoom instead of face-to-face. I just ask that you vote to give us the same opportunity. Thank you for your time.",
+    "speaker": "ciarawolfe",
+    "tags": [
+      "public_addressing",
+      "express_concern",
+      "request_action",
+      "policy_proposal",
+      "vote_call",
+      "opinion"
+    ]
+  },
+  {
+    "start": 3214.351,
+    "end": 3216.014,
+    "text": "Thank you for those comments, Ms. Wolf-Craig.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3216.635,
+    "end": 3217.116,
+    "text": "Yes, ma'am.",
+    "speaker": "ciarawolfe",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 3217.817,
+    "end": 3220.821,
+    "text": "The next speaker will be Christine Coney.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3222.744,
+    "end": 3224.126,
+    "text": "Hi. Can you hear me?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3224.567,
+    "end": 3226.13,
+    "text": "Yes, I can. Thanks.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 3226.15,
+    "end": 3348.964,
+    "text": "All right. I'm a parent in the Whitehall District. And last week, Dr. Jeff Bergal spoke to the board, and his testimony was definitive.  I want to remind and summarize the main points of what he said last week, all of which was based on data and facts, although I had to cut some parts out for time. He said that our fears from the fall that schools are super spreader events have not been demonstrated. The anecdotal data from the private schools in our area, some of which have been open, private schools and daycares in our area, some of which have been open since June, is that there haven't been any outbreaks.  He also said that there's now data that also demonstrates that secondary spread is almost zero in schools. And importantly, this now published data showed zero, zero spread from teacher to student and from student to teacher. Conversely, Dr. Bergalis also presented data that shows that many of us, many of our worst fears about the health of our students have been realized. I think we all remember some of those pretty scary percentages.  And importantly, Dr. Vergara said that vaccines are not part of the CDC mitigation strategy for schools and that there's no data that the vaccine reduces spread. So while it may be tempting to wait until the remaining 111 staff have vaccine appointments or have been vaccinated, all that does is places our students who desperately need to be back in school at the mercy of something out of everyone's control. When the vaccine doesn't even impact the already almost zero spread in schools.  And speaking of those who desperately need to be in school, something not discussed specifically last week, what was on a slide is that nine to 12% of elementary students in the county are currently home without adult supervision on those virtual or asynchronous days. Finally, I want to stress again that everything I just stated is backed up by data. It is not based in fear or emotion, but logic and the scientific method. The data on the health of our students is grim, but there is hope because the data about spread in schools is so promising.  There is a sense of urgency, as well as a path to bring the kids in person who want and need to be in person. I implore you as board members to put our children first and take that path today. Vote today to move us into stage four. Please. Thank you.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "cite_external_source",
+      "policy_proposal",
+      "request_action",
+      "express_concern",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 3352.15,
+    "end": 3359.121,
+    "text": "Thank you for those comments, Ms. Koenig. You had that at exactly two minutes. Impressive. Next up will be Mr. Andrew West, who I see.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "logistics_info",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3361.261,
+    "end": 3496.721,
+    "text": " I will try to speak as quickly as I can. Good evening members of the school board. Thank you for your time. As we move forward towards implementing phase four, I have concerns that I think should be addressed. And I think that leaving these items up to individual schools and administrations puts those schools and administrations in impossible situations.  First and foremost, should we not wait until we can make sure that all of our personnel are fully vaccinated? I, like many of my fellow employees, got our first dose on the first day available on February 8th, which puts my second dose to be on the first day of in-person learning. A lot of other teachers are gonna be out that day and on other days, and we can assume that more teachers are gonna have, that teachers are going to have immune reactions and will then need to take days off once they've gotten their second dose.  All of this leads me to questions of substitutes. Do we have enough substitutes to spread around the county without actually spreading COVID around the county with these substitutes? Traditionally, it's been up to teachers in classes to give up their planning periods to cover these classes on an ad hoc basis. Are we still going to do that? And does that not violate some sort of exposure protocol? And if it doesn't, why not? Do we actually want to minimize school  Exposures in schools, are we just saying that we're going to? What about other unavoidable sources of exposure? Kids will be eating outside unless it's bad weather, in which case they will be eating inside with their masks off. So we will be in classrooms with our masks off. So unless we can just decide that eating makes COVID not contagious anymore, we're taking risks whether we want to or not.  Will we still be doing a tornado drills fire drills school lockdown drills, will we do them safely. And I know this seems like minutiae, but this is all stuff that schools and administrations have to figure out on top of everything else.  And a lot of times this forces administrators to choose between the safety of their employees. And I don't know that parents understand that we are gonna be teaching virtually and in person, and that we'll be cutting curriculum even more to make sure this works. Thank you for your time. I'm sorry for running over.",
+    "speaker": "andrewwest",
+    "tags": [
+      "public_addressing",
+      "express_concern",
+      "ask_question",
+      "policy_proposal",
+      "request_action"
+    ]
+  },
+  {
+    "start": 3497.182,
+    "end": 3517.341,
+    "text": "It's all right. I started telling people a few minutes, it takes about five to 10 seconds for people to wrap up, keeping it even.  The next three speakers, which are our last three speakers before we cycle through real quick, are going to be Monica Lawrence, Allison Spillman, and Laura de Nunzio. So Monica, yep.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "reassure",
+      "logistics_info",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3518.468,
+    "end": 3668.235,
+    "text": " Hi, good evening. My name is Dr. Monica Lawrence. I'm in the Whitehall District. I appreciate the opportunity to speak to you tonight as a parent of a third grade student and also as a clinical immunologist, a physician who cares for children and adults with immune deficiencies, making them one of the most at risk populations for severe COVID-19. My husband next to me is a pulmonary critical care physician who's been on the front lines since the start of the pandemic a year ago. So together, we're very aware of the risks of COVID-19.  And we are also very aware of the element of fear that COVID-19 brings. At the beginning of the pandemic, I saw and examined many patients with COVID-19 with only a surgical mask because N95s were in short supply. My husband intubated patients in the ICU with COVID-19 wearing an N95 that he repeatedly sent to be sterilized and reused, despite not even knowing if that made the mask less effective.  We took out additional life insurance. We updated our wills. We were afraid one or both of us would be infected and terrified that our young children would be left orphaned. But despite this fear, we nonetheless kissed them goodbye every morning. We went to work every day and we served our communities. My message to you today is that we cannot allow fear to dictate decision making, particularly when that fear is unfounded based on scientific research available to us today.  There have been many studies based on real-life experience from summer camps, from schools in the United States, from abroad, all of which convincingly support that schools are not a significant source of community spread, and going back to school does not place our students or teachers at risk. I should note, vaccination was not available at the time of those studies, and therefore, while that's an important measure to take to ultimately end the pandemic, vaccination is not required for schools to safely reopen.  I coupled that with the data published by the CDC this week, demonstrating that double masking with a surgical mask and a cloth mask, both of which are inexpensive and widely available, is effective at blocking 92.5% of viral particles, which is an efficiency that nears that of the N95 that my husband and other healthcare workers wear when performing aerosol generating procedures on COVID positive patients. This information has led researchers at the CDC- Dr. Lawrence, your time is up.  Thank you, the American Academy of Pediatrics and many others. To the conclusion that opening schools now is safe, I encourage you to allow data and science and not fear to guide your decision making. Thank you.",
+    "speaker": "monicalawrence",
+    "tags": [
+      "public_addressing",
+      "cite_external_source",
+      "policy_proposal",
+      "reassure",
+      "express_concern",
+      "clarify",
+      "opinion"
+    ]
+  },
+  {
+    "start": 3669.797,
+    "end": 3673.181,
+    "text": "Next up will be Alison Spillman.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 3674.463,
+    "end": 3808.463,
+    "text": "Hey, good evening. I am in the Whitehall District. I am a proud and fierce mama bear to five kids, four of whom are in the ACPS system. I have a son and second.  twins and fifth at Brownsville, and a freshman at Western. I come before you this evening to voice my strong support of returning our students to in-person learning. This last year has been hard, as you all know, and while my children's experiences are their own, I guarantee that they're not unique. We adopted our youngest two children from the foster system almost three years ago. My sweet, sensitive, and loving son suffers from  PTSD, anxiety, and developmental delays resulting from years of neglect and abuse both in and out of the system. His IEP is extensive. And while his teachers have worked tirelessly over the past 12 months, he struggles daily to stay on task on his iPad, engage with his classmates, and not completely shut down. My husband and I have spent thousands of dollars out of pocket for an aide to sit with him every day for school. And while I'm grateful that we have the resources to do so, he's still falling farther and farther behind.  Halfway through his second grade year, he's reading at barely a middle kindergarten level. Where will he be if he is forced to spend another semester trying to learn on his iPad? And what about all the other special kids whose IEPs and 504s you continue to ignore? The foster system in Arizona failed this child, and I refuse to allow another system to fail him again.  I'd also be remiss if I didn't mention my freshman son. He suffers from anxiety and depression, unfortunately, like many other teens. And this has only been exacerbated during virtual school over the past year. His grades have slipped and he misses assignments. I know from speaking to his counselor at Western and many other parents that this is becoming the norm in Zoom school. High school students get on their computers at 9.30, sometimes 8.30 a.m.  and aren't finished until 3.30 or 4. No wonder his depression has increased. These years matter to these kids. They need to be in school. They need the social interaction and the support from teachers and coaches that can only come from face-to-face contact. I beg you to consider that irreparable damage that'll be inflicted on our children if we force them to spend another semester stuck in their rooms on their computers. Thank you.",
+    "speaker": "allisonspillman",
+    "tags": [
+      "public_addressing",
+      "express_concern",
+      "opinion",
+      "request_action"
+    ]
+  },
+  {
+    "start": 3809.004,
+    "end": 3814.071,
+    "text": "Thank you for those comments, Ms. Spillman. That brings us to Laura, who I see is here.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3816.177,
+    "end": 3952.258,
+    "text": " I thank you for allowing me the chance to speak I'll try to be quick because I know I'm the last out of a number of speakers.  I'm in the Whitehall District. I have a child at Brownsville and a child at Henley, and I'm also a community psychiatrist. With the information we have now, I'm speaking to encourage the school board to move towards stage four. It's been almost a year since most of our students have been inside of their school buildings at all. And we now have data that schools in certain situations with specific safety measures  can be reopened safely, including the recent information from the CDC. That gives us kind of more information than we had before. This past year we've had to make decisions with a very limited amount of information and often sort of pivot and change.  We're starting to get data about both about COVID-19 and the spread and the treatment and prevention, but also the associated mental health effects. There was a recent study that found that the amount of missed instruction, which happens with virtual school, could be associated with significant years of life lost given the long-term associations between school disruption and decreased educational attainment.  in between decreased educational attainment and lower life expectancy. I think there's a real long-term risk to students with not having the opportunity at least to attend school in person. The pandemic has exposed our children to both direct and indirect factors that can cause stress or emotional disturbance. And we know that some of the mental health risks will disproportionately affect children and adolescents that are already disadvantaged and marginalized.  Now we're seeing an increased prevalence of anxiety and depressive symptoms in children and adolescents, both due to the pandemic itself, but also to the social isolation, and then also the parental stress. I think there are very real risks that go along with these symptoms. And these are risks that I think are difficult to address in some ways while we remain virtual. I just- The time's over.",
+    "speaker": "lauradenunzio",
+    "tags": [
+      "public_addressing",
+      "policy_proposal",
+      "opinion",
+      "express_concern",
+      "cite_external_source",
+      "give_update"
+    ]
+  },
+  {
+    "start": 3952.298,
+    "end": 3989.309,
+    "text": "Okay.  Thank you for providing those comments. I am going to read the list of the people that missed. I see Dave Hawkins. But just so everyone's on notice, I have Michael Martinez, Pierre Padilla, Dave Hawkins, Wanda Johnson, and Michelle Pitziocos. So I think I only see Dave. Dave, if you'd like to give your public comment, now's the time.  I'm going to take that silence as yielding the floor. So with that, oh, he's here.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "logistics_info",
+      "public_addressing",
+      "procedural_move",
+      "request_action"
+    ]
+  },
+  {
+    "start": 3989.871,
+    "end": 4134.112,
+    "text": "All right. Can you hear me?  Yes, we can. Awesome. Thank you. I apologize. I'm at my son's ballgame, but I felt the need to register for a comment tonight. So my name is Dave Hawkins and my wife and I have lived in Albemarle County for 17 years. All four of my children were born at UVA Hospital and all have been students in the Albemarle County school system since kindergarten.  Our oldest would have been in 10th grade right now at Monticello. She went to Walton, she went to Mountain View, our second would have been in Walton as an eighth grader.  Our third would have been in sixth grade at Walton and our youngest would have been in Mountain View as a first grader. I say would have been to highlight the fact that we made a very difficult decision this summer to pull them out of Albemarle County Public Schools, the only school system they knew, the only school system they had friends and decided to enroll them in a public school that we thought had the best chance of opening in August.  I don't want to go into all the different details as to why we did that, but we are one of those families that did not thrive in the virtual school system. We were just barely surviving, so what i'm here to do is to tell you the school system we moved our children to they have been in person, five days a week, since August, let me say that again they've been in school, five days a week.  in person since August. And there's also an option for virtual if you choose to do that down here. And this isn't a small school system. This is the eighth largest school system in the United States. And there's an option for virtual and there's an option for in person. Just down the street from Albemarle County is Chesterfield County School System. They are now offering five days a week for elementary and they're looking into getting middle school and high school.  So what do I say to all those that say it just can't happen and out moral, or that we need more data. What I say to everyone is do not let the perfect be the enemy of the good, no plan is perfect. We can strive for the best that we can try. But again, no plan is perfect, allow families the opportunity.  for the choice to put them in person or virtual. And if it doesn't work, it doesn't work, but give them the opportunity. Don't let, if you want, I have lots of, I have lots of examples. Let them try, let them try. Give them a shot.",
+    "speaker": "davehawkins",
+    "tags": [
+      "public_addressing",
+      "express_concern",
+      "policy_proposal",
+      "request_action",
+      "opinion"
+    ]
+  },
+  {
+    "start": 4134.132,
+    "end": 4147.572,
+    "text": "Thank you for giving your comments. You're welcome. Okay. With that, I think we are done with public comment and we can, we can move on with the agenda. Thank you for everyone who, who signed up to speak and spoke to us.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4149.391,
+    "end": 4175.275,
+    "text": " Thank you, Ms. Carlson. We could have an option right now. We could take maybe, say, a brief 10-minute break and then come back to resume our business. Or either we could move ahead with items 8.1 and 8.2. So any preference for those two options?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "logistics_info",
+      "request_action"
+    ]
+  },
+  {
+    "start": 4176.376,
+    "end": 4178.858,
+    "text": "Break. Break. Break.",
+    "speaker": "autumngraceking",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4179.968,
+    "end": 4185.463,
+    "text": " Okay. I know I can make a motion, but yes, please break.",
+    "speaker": "angelpilkey",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "request_action",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 4186.727,
+    "end": 4840.627,
+    "text": "Okay. All right. We'll take a 10 minute break. We'll be back at 7 50. Thank you.  It is now 7.50. We are ready to resume our business. Our next item, the COVID-19 update, Dr. McLaughlin and Ms. Gomez.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4843.371,
+    "end": 4880.571,
+    "text": "Good evening, board members. I'm Pat McLaughlin, chief of strategic planning for the school division. And I'm here tonight to give you our weekly COVID-19 status update.  One thing that you recall from our last meeting is we have adopted some different metrics for our staged return to school based on guidance from the Virginia Department of Education. One of those metrics, however, remains level of community transmission, something that we've been updating the board on in every meeting for the past several months. And so I'd like to turn things over to Eileen Gomez at this time to take us through our current metrics.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "acknowledge",
+      "public_addressing",
+      "defer_to_expert",
+      "clarify"
+    ]
+  },
+  {
+    "start": 4882.458,
+    "end": 4975.847,
+    "text": " Thank you. Good evening. I'm pleased to share with you that the numbers that we're following continue to be basically a downward trend. You can see there's some variability, but our numbers are lower than they certainly have been in the months of December and January. Our seven day floating average for the case incidents in Albemarle County was twenty four point three as of today.  It's a little bit up from last week, but down from January and quite a lot down from the very highest numbers. Our percent positivity, you can see, continues to overall trend down, although it's considered a fluctuating trend because there's a little bit of up from February 11th, a little bit higher than it was on February 4th. The numbers in the city of Charlottesville has shown a similar trend.  Basically, well, I guess there's this consider fluctuating. It's been going down and then up again. And I think some of this upward turn can be attributed to the UVA cases that get added to our numbers for the city of Charlottesville. The percent positivity for Charlottesville has continued to be low and is considered fluctuating, but fluctuating at a lower level.  And these are the core indicators that Dr. McLaughlin talks about each week. And I will turn it back over to you, Dr. McLaughlin.",
+    "speaker": "eileengomez",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "public_addressing",
+      "defer_to_expert"
+    ]
+  },
+  {
+    "start": 4975.867,
+    "end": 5120.716,
+    "text": "Sure. Thanks, Eileen. And as you can see, the trend is we're following a similar trend with these 14-day indicators as well. We are down to 281 as our total new cases, our case incidence rate, which remains at the highest level of risk. And our percent positivity is at 2.7.  which is at the lowest level of risk. And as you recall, the CDC has created a chart for these indicators. So you can see that we're at the highest level for case incidents, the lowest level for percent positivity, but we also have our mitigation strategies in place, which help to lower the level of risk, even when you've got some other factors that are elevated.  One of the things that we're happy to continue to report on to the board are updates on the vaccination status of our school employees. And so we continue to partner with the Blue Ridge Health District regarding the COVID vaccine for our employees. And when we talk about the staff who desire the vaccine and who will be working in person, either in our school buildings or on buses during stage four, at this point, 90% of those employees have received or are scheduled to receive  the vaccine by the end of February. An additional 10% are still waiting to be scheduled for an appointment. We're continuing to work with the health district to ensure that all those who desire a vaccine are able to receive one as soon as possible. And while these numbers focus in particular on those scheduled to be in schools and on buses in stage four, when you expand that out,  It's important to share that out of all of our employees, we have 974 of our full and part time regular employees who have received their first vaccine, and another 798, who are scheduled. By the end of this month, we know these numbers will continue to grow as more vaccine appointments become available.  The Blue Ridge Health District is currently scheduling second doses for those who have received their first inoculation. And those who received their first dose at the ACPS clinic at the end of January are scheduled to receive the second dose of the vaccine at another clinic that will be held February 26 and 27. And planning for that clinic is currently underway.  So those are the latest trends that we have from our local COVID metrics and our vaccine update. We'd be happy to take any questions or comments from the board at this time.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "cite_external_source",
+      "reassure",
+      "follow_up_request",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 5128.022,
+    "end": 5129.263,
+    "text": "Are there questions from the board?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5130.805,
+    "end": 5142.768,
+    "text": "I have a quick question, Dr. McLaughlin. Do you know the number of at-risk teachers that have been vaccinated?  or have at least gotten either an appointment or their first dose?",
+    "speaker": "angelpilkey",
+    "tags": [
+      "ask_question",
+      "request_action"
+    ]
+  },
+  {
+    "start": 5143.83,
+    "end": 5149.156,
+    "text": "I would tap Dr. Kaiser to see if we've got that level of detail in our reporting.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "defer_to_expert",
+      "request_action",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5150.257,
+    "end": 5166.535,
+    "text": "Sure. At this point, we just know the numbers of teachers. We could do a comparison to see how many did request for accommodations, but that's the only way that we could narrow that target information. If the board would like that, I can do that for you and get that to you.",
+    "speaker": "clarekeiser",
+    "tags": []
+  },
+  {
+    "start": 5173.197,
+    "end": 5200.825,
+    "text": " Are there other questions from the board? Who would like that information? OK. So yeah, Dr. Cazza, could you provide that information that Mr. Pelkey asked? Sure. I will email that to you all. OK. Thank you. Are there other questions or concerns? If I saw that correctly, Dr. McLaughlin, there are 51 teachers and",
+    "speaker": "grahampaige",
+    "tags": []
+  },
+  {
+    "start": 5201.395,
+    "end": 5205.839,
+    "text": " a hundred plus classified that have not been scheduled for their first steps yet.",
+    "speaker": "davidoberg",
+    "tags": [
+      "give_update",
+      "express_concern",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 5206.58,
+    "end": 5229.141,
+    "text": "That is correct. We've got and that's of the of the teachers and drivers who are scheduled to be in person during stage four is is we know if Blue Ridge is going to open up March so that we can get get those people on a. The first vaccination, do we know, I mean,",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "acknowledge",
+      "ask_question",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 5229.678,
+    "end": 5233.125,
+    "text": " February has been closed for a month, right?",
+    "speaker": "davidoberg",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 5233.205,
+    "end": 5295.016,
+    "text": "One of the things that I would say, Mr. Oberg, is that they do continue to open up vaccination appointments. One of the things that we know is there are people who sometimes cancel out or for various reasons, they do have some come open. My understanding is that they will be opening up additional appointments. A lot of that is  is based on the number of vaccines that they have available, not just for Albemarle County public school employees, but for others within our health district that are able to be vaccinated under phases 1A and 1B. We do continue to partner with them. We work very closely. We are hopeful that we know that we'll be having another vaccine clinic at the end of the month.  with the primary people coming through that are those who went through our first first vaccine clinic to come and get their second. And we're hopeful that we'll be able to get some first people in there as well. But this is something that is of the utmost important to us, importance to us, not just for the people that are coming into our buildings and on our buses in stage four, potentially, but also for all of our employees.",
+    "speaker": "clarekeiser",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "prioritization",
+      "clarify",
+      "reassure"
+    ]
+  },
+  {
+    "start": 5299.441,
+    "end": 5315.191,
+    "text": "Out of the four hundred and forty four that  have been scheduled, and I think there were 83 also in that same group, total of probably 500 some, they all scheduled to receive their vaccination by when?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "clarify"
+    ]
+  },
+  {
+    "start": 5315.852,
+    "end": 5333.715,
+    "text": "So to Mr. Oberg's point that the vaccines right now are just scheduled through the end of February, all of these people that are scheduled will be through by the end of February is my opinion. I saw Mr. McKay pop into, I don't know if he has some other additional information that he may be able to share.",
+    "speaker": "clarekeiser",
+    "tags": [
+      "acknowledge",
+      "opinion",
+      "give_update",
+      "defer_to_expert",
+      "request_action",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5334.91,
+    "end": 5396.425,
+    "text": " Yes, so the current appointments are through the end of this month. We are as a state transitioning to a new scheduling system. So the current system that people are scheduled in and what our our system is scheduling clinics for will be going out by March 1st and we'll be implementing a new one. So the process for that is a little bit different. So rather than opening up a one day clinic to all of the individuals who are registered,  we'll be sending direct links to individuals based on the prioritization categories set by BDH. So it provides a little more direct access for those that are currently eligible. One of the issues we had faced early on was that when we opened up those sites, anyone in 1B, whether it was 1B1 or 1B9, could have had access if they had an account in the system. So this allows us to provide access to those within those priority groups.  a little more easily than the previous system. And we will be opening up additional appointments for March for sure.",
+    "speaker": "ryanmckay",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "prioritization",
+      "clarify",
+      "reassure"
+    ]
+  },
+  {
+    "start": 5399.85,
+    "end": 5415.39,
+    "text": "Do you have any information about whether the allocation of vaccines for the health will be increased in March?",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "request_action"
+    ]
+  },
+  {
+    "start": 5415.708,
+    "end": 5427.044,
+    "text": " I don't have anything official. What we've been hearing is that there will be more vaccine available in March. We just don't know when and we don't know what the allocation would be for each individual health district.",
+    "speaker": "ryanmckay",
+    "tags": [
+      "give_update",
+      "hedge",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5428.266,
+    "end": 5431.31,
+    "text": "Thank you.",
+    "speaker": "clementeand",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5431.39,
+    "end": 5440.643,
+    "text": "But to make sure that I did hear correctly, those ones that are scheduled should be getting their vaccine by the end of February, right?",
+    "speaker": "grahampaige",
+    "tags": [
+      "clarify",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 5440.663,
+    "end": 5442.205,
+    "text": "That is correct.",
+    "speaker": "andrewwest",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 5447.298,
+    "end": 5475.381,
+    "text": " Are there any other questions or concerns from the board on this item? OK, if not, thank you, Dr. McLaughlin and Ms. Gomez and Mr. McKay. Thank you all. Thank you all. We will now move to stage four recommendation. And Dr. Haas is going to give us a statement first on this.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 5476.424,
+    "end": 5549.901,
+    "text": " Thank you, Mr. Page. So you have all the facts and figures. And also, I noticed that Dr. McLaughlin attached the great questions that our school board members were asking, both during the last meeting and then also in the interim, we've received questions from board members. And so we know that it's important to the public that  they see the questions and see the answers. So that's all attached to the board item. And I really appreciate those questions. I just wanna take a moment here. I thank all of our Albemarle County Public Schools families, employees and community members for your comments tonight during public comment. I really appreciate the opportunity to hear your thoughts along with the school board.  I know that it's not easy, and it might not have helped if I told you this earlier, but there are about 800 people on the live stream. I know it's not easy to make comments in public, often share your personal stories, but it's very important to do that, and I thank you for that. It's a privilege for me.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "reassure"
+    ]
+  },
+  {
+    "start": 5551.315,
+    "end": 5575.213,
+    "text": " In recognition that tonight's board meeting is not the end of a process, or it could be the continuation of a process, and certainly every board meeting lends to the next beginning, I want to just take a moment to thank my cabinet members for the truly Herculean and creative efforts you have made to make plans for reopening our schools in whatever fashion that takes.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "reassure"
+    ]
+  },
+  {
+    "start": 5575.97,
+    "end": 5740.808,
+    "text": " You have carried a heavy burden to plan and make critical decisions that will inevitably be unpopular with about half of our stakeholders. You have held your heads high, stayed above the criticism, and kept thoughtfully moving ahead with planning, answering questions, and being supportive of us all. Your patience has been amazing. February is Virginia School Board Appreciation Month. So I must take a moment here  as a privilege to recognize our school board. You are all volunteers for the roles you have taken on to lead a public and complex community serving organization that is vital and that you are providing an education for our children. And not only that, but when you volunteer to be a school board member, you must run and compete publicly for your office. That takes tremendous courage.  And when you join the board, you devote so much time to the work that you often have to spend less time with your loved ones and friends than you would prefer to. And for that, I'm not only thankful for the board, but I'm thankful for those who depend on you for your time as well. I was talking with a contemporary today.  And he reminded me that board members hardly ever receive positive recognition, although they spend a lot of time, often their own resources and energy, making sure that all of us receive positive feedback, support and recognition. You all always put us first. Thank you, school board members for your service, especially during what is undoubtedly the most challenging time any of us can ever remember.  Last week when I made my recommendation for stage four, I took time to share my appreciation for the amazing and amazingly creative and hard work that our educators, administrators, and support staff do and have done for our students and families. It has been humbling to see what they can do and what they have done. Now as one of your employees, one of your administrators, I turn to say thank you for your leadership.  Thank you for showing up right here and for every meeting and for being here now to take on such a difficult decision. I can only speak for myself, but I truly hope and I believe I do speak for all of us, your students, your parents, of your students, of which I am one, and your employees, of which I am one. I thank you again. And I just turn things over to the board at this point.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "reassure",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5742.796,
+    "end": 5789.579,
+    "text": " Thank you, Dr. Haas. And I think I speak for the board and expressing our appreciation to you and to the staff for coming up with plans doing this entire procedure ever since last March.  And I can't forget our teachers either, because they have made tremendous sacrifices during this entire time. And I do want them to realize that we truly, truly appreciate everything that you have done. It has not gone unnoticed, really.  We will now entertain a motion and we will then discuss that motion in regards to the Stage 4 recommendation as to how we will proceed from this point.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 5791.301,
+    "end": 5802.773,
+    "text": "Mr. Page, I move that we accept Dr. Haas's recommendation to move to Stage 4, but instead of beginning on March 1st, we begin on March 15th.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "procedural_move",
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 5806.482,
+    "end": 5808.025,
+    "text": " I'd like to second that motion.",
+    "speaker": "kateacuff",
+    "tags": [
+      "procedural_move",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 5810.008,
+    "end": 5832.405,
+    "text": "OK, it has been moved by Mrs. Osborne, second by Dr. Acuff, that we move to stage four as recommended, but that we began on March 15th rather than March 1st, as outlined in Dr. Haas's recommendation. We will now have discussion on that motion.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "logistics_info",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5834.984,
+    "end": 5862.915,
+    "text": " Can we also ask questions at this time? Yes. Okay. I have a question about the instructional time between hybrid students and virtual students. It's a little bit unclear from the document, the FAQ document, but my understanding is that the instructional time for four-day hybrid students is comparable to instructional time for virtual students. Is that accurate?",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 5864.414,
+    "end": 5868.44,
+    "text": " Yes, the time that is assigned to students learning. Yes.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "clarify",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 5869.482,
+    "end": 5892.396,
+    "text": "Okay. So in October, when I asked the same question about two day hybrid students, the answer was the same. So it's been a while since I did P over T is equal to percent over 100, but four is two times two. So which one of those is correct?",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 5893.507,
+    "end": 5905.784,
+    "text": " I think I missed the question. So in October, when I asked the same question, comparing virtual time with two day hybrid students and four day virtual students, you said they were also comparable.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "acknowledge",
+      "clarify",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 5906.425,
+    "end": 5909.729,
+    "text": "And then now you're saying four day is also comparable. So how is that possible?",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 5910.731,
+    "end": 5928.041,
+    "text": "Well, how the way that we're looking at the students days is the asynchronous time is counted in the student time. So the,  The synchronous time and the asynchronous time we're counting as part of the student day, as part of their clock hours, if you will, of coming to school.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "clarify",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 5929.162,
+    "end": 5933.967,
+    "text": "So how were we counting it differently in October when they were also the same?",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 5935.028,
+    "end": 5953.095,
+    "text": "Well, we counted the Monday, the one day they come in as being six and a half hours. And the day that they stay home is six and a half hours. So the instructional time  is not changed. The time with teachers has perhaps shifted.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "give_update",
+      "clarify",
+      "reassure"
+    ]
+  },
+  {
+    "start": 5956.019,
+    "end": 5967.716,
+    "text": "So when students right now, students are in two days a week, and that is comparable to four day virtual.",
+    "speaker": "judyle",
+    "tags": [
+      "clarify",
+      "give_update"
+    ]
+  },
+  {
+    "start": 5969.959,
+    "end": 5997.729,
+    "text": "Now, the way we look at how we're counting time is that we're saying students are  in school six and a half hours a day. How they receive instruction is what changes and shifts. So a child in virtual at this right now has an AM or PM time and then their alternate time is also counted because we provide some time for synchronous and sometimes for asynchronous work.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "clarify",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 6001.555,
+    "end": 6040.757,
+    "text": "Right.  And I understand that because I have a son in virtual school, so I get all that. Okay. Um, but I, I just am confused because in October you said that people coming in for two day hybrid, uh, would basically have the same amount of time as people who are coming in or it's people who are at home who are, we get our three hours of instruction in the morning. Um, but then now the four day is also the same.  because we're counting the days you're in school with a person and the day you're at home as getting instruction.",
+    "speaker": "judyle",
+    "tags": [
+      "clarify",
+      "express_concern",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 6040.797,
+    "end": 6062.939,
+    "text": "So on Monday, let's just say it's Monday, you have six and a half hours. If you're hybrid, you have six and a half hours with a teacher. And the next day on Tuesday, you have six and a half hours. Some of that's with a teacher and some of that's asynchronous, but it's still six and a half hours.  both days.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "clarify",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 6068.546,
+    "end": 6087.471,
+    "text": "I just have a lot of difficulty thinking that four days of six and a half hours of the teacher is the same as the three day, the four days of three hours of virtual. And then now we're not even going to have synchronous specials. Some students won't even have synchronous specials.",
+    "speaker": "judyle",
+    "tags": [
+      "express_concern",
+      "opinion"
+    ]
+  },
+  {
+    "start": 6087.974,
+    "end": 6116.563,
+    "text": " So I think we're talking, the question as I heard it was quantitative. And the question as I hear it now is a qualitative question. The quality of the instruction, I think I'm hearing from you, you think is different because students that are- No, I'm just talking numbers. I'm just talking about numbers. So the numbers are the same. I think the issue here, Judy, is instructional hours is a term of art.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "clarify",
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6117.151,
+    "end": 6141.91,
+    "text": " Okay. It's a legal, we have a certain obligation under the law to provide a certain number of hours of instructional time. You're reading, I get, I'm thinking here, but I'm thinking you're using instructional time as a, that's the time I'm with a teacher receiving instruction. And I don't think that that's how Dr. Collins is using it. Am I, was that at all helpful?",
+    "speaker": "davidoberg",
+    "tags": [
+      "clarify",
+      "ask_question",
+      "express_concern",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6143.257,
+    "end": 6166.425,
+    "text": " Um, no, I, I'm, I'm just confused because I believe I've used that term twice now in October when I asked if the instructional time was the same. And then it was for two day hybrid and four day virtual. And then now I'm using it again. And then four day hybrid is somehow also the same as four day virtual, which is half days.",
+    "speaker": "judyle",
+    "tags": [
+      "clarify",
+      "express_concern",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 6169.489,
+    "end": 6181.941,
+    "text": "Yes, because we are counting the other half day at other  have part of the day as instructional time. Okay, so as a parent, that other half day is not instructional time.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "clarify",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6184.303,
+    "end": 6196.734,
+    "text": "So that to me is an inherent difference between what the virtual students are getting and what the hybrid students are getting in four day. I understand.",
+    "speaker": "judyle",
+    "tags": [
+      "opinion",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6198.156,
+    "end": 6207.085,
+    "text": "Yeah, I think it's almost an issue of real time teacher accessibility.  is appears to be severely cut for virtual students.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "express_concern",
+      "opinion"
+    ]
+  },
+  {
+    "start": 6210.551,
+    "end": 6264.068,
+    "text": "What happens to the virtual is a virtual still a.m. p.m. because I mean this is only affecting the pre-k through third. Those are going to be the four days. And then the people those children that are on virtual are they still splitting morning afternoon. Yes.  Okay, I guess I my two cents as a parent would be that I actually think it was overweight the opposite direction before. Having only two days with the teacher is not analogous to four days with the teacher on your computer. So, I mean, I think to Judy's point, perhaps, or to Dave's is that it, you know, it's not  It's not a perfectly, you know, one-to-one comparison. A lot depends. I also have two different kids, one in kindergarten, one in first grade, and one of their teachers decided to let them watch the classroom via Zoom on the off days, and one of them did not. So, I mean, it's not a perfect situation. I can certainly recognize that.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "opinion",
+      "express_concern",
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6264.408,
+    "end": 6341.302,
+    "text": "And I would add, part of the reason we did the half-day decision was about the amount of time on Zoom.  especially for our youngest learners. So as you know, our middle of schools and our high school students are on zoom all day. They start at nine, nine 30. I think Angel can probably attest to this and they they're off at a three, four, three 30 or four. Uh, and we made a decision early on based on the research that we did based on our parents input that they really did not want their children on zoom all day. And so we, we,  made the decision about letting the specials be invitational so that parents could choose if they wanted their child to be in a synchronous special or not. Having said that, as we start moving into stage four, I think we can think about reevaluating that decision. Perhaps we do have some parents that would want more of a virtual instructional day. So I think that we can  go back and re-evaluate that and ask ourselves that question about the equity and the reasonableness of what a virtual day can look like.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "give_update",
+      "cite_external_source",
+      "policy_proposal",
+      "request_action",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 6341.322,
+    "end": 6429.269,
+    "text": "I think that's what you were saying, Dr. Collins. I think you said it when you said qualitative versus quantitative. And I don't know that  I don't know that the, personally, I don't know that I differentiated the two. And I accept the fact that we kind of have to, but I think that, for me anyway, I get Judy's point, which is sort of, well, yeah, they technically have the same number of members, but are they really getting the same thing?  And am I hearing that what you're saying, Judy? Am I hearing that correctly? Absolutely. So I think you identified correctly. It's qualitative versus quantitative. Yeah. And there's always going to be that issue. If we run the school full time, some people get Dave Oberg teaching math, and other people get John O'Carroll. Qualitatively, it's not going to be the same thing. But I think with this, it's such an important issue.  We want to make sure that the people who are virtual are still going to be receiving what the people, to the best extent possible, what the people who are going hybrid are getting so that we don't create a second class set of students.",
+    "speaker": "davidoberg",
+    "tags": [
+      "acknowledge",
+      "agreeing",
+      "clarify",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 6430.571,
+    "end": 6550.19,
+    "text": "I would add that there's varying degrees and differences in virtual education and face-to-face education that have gone on for years.  The virtual Virginia AP program has been in existence for probably 20 years now. Students log in. They decide how much time they're going to actually spend in the instruction. They never meet or see a teacher unless they really want to. And yet, that counts with Carnegie credits toward the same  weighted grade in Albemarle County that a student going in every single day and doing the volumes of homework that our AP teachers often assign their students. So I think Judy raises a bigger question. And right now, it is timely, certainly, because there is going to be a shift in the qualitative time that students spend face-to-face with their teachers or, you know, face-to-face online or in the school.  But there is a disparity in virtual instruction and regular instruction. And yet, they're often counted and seen the same way when it all passes through the filter of accreditation with Virginia. So I would echo some sentiments that were shared earlier, that it's not going to be perfect. There is going to be a change. But it is choice, so the students who  came in two days a week were giving up more time with their teacher for face-to-face time with their teacher initially. And now if they're coming in four days a week, that's going to shift a little bit. So it is going to be a shift. I don't necessarily think we should apologize for it because we're dealing with the resources that we have. And we have a directive from the governor of Virginia to make face-to-face instruction  our primary objective, and that's what we're doing.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "opinion",
+      "clarify",
+      "acknowledge",
+      "prioritization",
+      "cite_external_source",
+      "reassure",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6557.4,
+    "end": 6594.767,
+    "text": "Dr. Haas or either Ms. Collins, and I'm not sure what an answer to this is, but in regards to what Ms. Lee is talking about, is there any type of data  that could be reported to us that would let us know that the hybrid and the virtual are receiving basically the same types of materials. In other words, that the equity issue is there. Is there any way that we could find data that would be supporting that both of those two systems are given the best information possible to all of our students?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "defer_to_expert",
+      "express_concern",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6595.625,
+    "end": 6624.282,
+    "text": " It is our expectations that the virtual teachers and the hybrid teachers are doing exactly the same kinds of work with students. They're doing, we're keeping on the same pacing guides, same assessments, et cetera. So that is something that we've talked about and has been talking about with the K3 even at this point, because we do have students that are coming in every other day and students that have stayed virtual. So that's been an ongoing discussion",
+    "speaker": "debbiecollins",
+    "tags": [
+      "give_update",
+      "clarify",
+      "reassure",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 6625.51,
+    "end": 6635.685,
+    "text": " Dr. Collins, are the PLCs are a pretty big part of our instructional model.",
+    "speaker": "davidoberg",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 6636.227,
+    "end": 6636.668,
+    "text": "Correct.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6637.222,
+    "end": 6651.623,
+    "text": " are our teachers having the opportunity to do PLCs or we just can't do that? And if they're doing PLCs, are the hybrids and the virtual doing it together? Because I think that's what we're talking about. And I think, I believe that they are, but I just want to confirm that.",
+    "speaker": "davidoberg",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "clarify",
+      "request_action",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6651.803,
+    "end": 6670.682,
+    "text": "Yes, that's part of the reason we went with the Friday model is that it would allow our teachers to debrief and talk and make sure that we were having those PLCs.  And that's across, so one teacher's hybrid, one person's virtual, you're still part of the same PLC. Exactly, correct.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "give_update",
+      "clarify",
+      "reassure",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6671.645,
+    "end": 6698.363,
+    "text": "I would add, it's been really powerful because  Teachers are meeting across schools now at grade levels, virtual, hybrid. When they have PLCs often on a Friday there, it's not just as it used to be before where they were just meeting with the teachers at their own school to share best practices and look at their results that they were getting. I'm really proud of our teachers for pulling together the way they have for the students.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "give_update",
+      "opinion",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6703.152,
+    "end": 6740.584,
+    "text": " Thank you. Are there other questions or concerns from the board that we need to address at this time?  Okay, if not, our motion that Ms. Osborne made was that we would move forward with stage four, but that we would begin on March 15th. In other words, the calendar that Dr. Haas presented, the whole thing would be shifting up by two weeks for every week that's shown on that calendar. So are we ready to vote on the motion?",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "ask_question",
+      "clarify",
+      "procedural_move",
+      "vote_call",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6740.716,
+    "end": 6858.571,
+    "text": " I guess, Graham, I would have a quick statement. I had a chance to talk with some of you guys on the phone before this, so I knew that we were going to be making a motion to move it. But I would just want to register that this whole time has called for flexibility. And I would hope, since we know that hundreds of our teachers have been vaccinated,  And many of them are in the building and are willing to be in the building. I would love to try to get students in as quickly as possible. I appreciated Matt's original recommendation. I don't necessarily see the cost-benefit difference. Some of the wind's been taken out of my sail now that I realize that there are still an outstanding 400 that have not gotten it. And according to the Thomas Jefferson Blue Ridge Health District, there should be at least that  10-day window plus from the first vaccination, but I still would encourage the school system to get students in as soon as possible. And I would like to also point out, I guess, since we, I don't want it to go with so little discussion, I wanna keep you guys all night, that I appreciate the work that our teachers are doing. I know a lot of our teachers have come and given comment and I hope that it's never,  the message that we don't appreciate the work that they're doing. They're doing  monumental work, they're changing things around, they're adjusting their schedules. I think we had a teacher drop off a bag of Valentine's Day party supplies at our front door. And I certainly don't want teachers to come back before they're vaccinated. But I know that many teachers are, and many students are willing to go back. And I know that we've done a good job of being able to make things happen. And if there are ways to get students into the building,  earlier, I guess I would have been in support of that. That being said, I will not vote against schools reopening and I'm happy to vote for Ellen's motion. I understand that's what most people are on board with, with pushing it back two weeks.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "policy_proposal",
+      "request_action",
+      "express_concern",
+      "acknowledge",
+      "reassure",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 6859.853,
+    "end": 6903.917,
+    "text": "You know, I agree with Katrina's comments about wanting the kids to be in school as soon as possible and earlier. The reason that I'm going to support the motion is that I think that any agreement  If it's going to be fair, it has to be fair to all parties. And I think in this situation, it's a fair compromise for the students, for the parents, for the teachers who will have the chance to, many of them have their full inoculation or vaccination, I should say, by that time. And so I agree, but I'm going to be voting with this as well.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "agreeing",
+      "opinion"
+    ]
+  },
+  {
+    "start": 6905.568,
+    "end": 7118.483,
+    "text": " I'd like to just share that, I mean, we had 20 some people testify today. Anyone who's watching this online needs to understand the board has literally been receiving about 30 emails an hour for about two weeks now.  And to the extent that we don't immediately reply, I can tell you that it's not intentional. It's simply because it's just so overwhelming how many people, but we are reading every single one of your emails. It does really matter to us. I make a point of replying to any student who directly emails me just because I've prioritized those. But I want you to know that I read every single email I receive. Even if I don't necessarily immediately respond to you, I hear you.  I've heard a number of our teachers talking about the fact that it's hard on morale, that they're not feeling appreciated, that they're not feeling listened to. And this may be worthless to say, but I hope that you hear me.  that our educators, all of us, not just our teachers, but our classified staff, our bus drivers, all the people who are assisting our children. We greatly appreciate, I appreciate not as a school board member, as a parent, everything you're doing for our students. We have an amazing staff.  I'm supporting going forward on the 15th because my reading of the science indicates that seven days after your first shot, you are effectively inoculated. They don't have  as great an inoculation if you receive your second shot. But with the Moderna vaccine, which most of our employees are receiving, it's 85%. And a competent inoculation is considered 50%. So without the second vaccination, you're already, you would be considered vaccinated under most vaccination systems. The reason I support waiting is because  I think that, I think we owe it to our teachers for the, for the, for the people who've not yet gotten an appointment. We owe it to them to give them that chance to get an appointment. I just, and so I, you know, I hear you, Katrina and John, I hear you. I want, I want the kids back as soon as possible. I do, because I think we owe it to our children. There are some issues we're going to be dealing with this for,  for probably 15 or 20 years, we're gonna be dealing with the ramifications of this for our children. But I also think that it's important to at least give to our employees that confidence to the extent that it helps that look, you've had your first shot, you're gonna get your second shot and we're gonna get through this. So I'll be voting yes. And I kind of think that everyone is gonna be mad at the solution  I suspect that I suspect this is not going to make anybody happy, which kind of tells me it's probably the right one.",
+    "speaker": "davidoberg",
+    "tags": []
+  },
+  {
+    "start": 7120.775,
+    "end": 7145.07,
+    "text": " Dave, to follow up on that real quick, and I guess to ask a question, for the 51 teachers that have not made an appointment and the 123 classified staff, I guess we don't really have assurances in place that they're going to get their appointment in time. So I would like to echo that. I think those particular staff that have indicated they want a vaccination have been unable to do so. We should obviously figure out a way to accommodate that until they get it.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "follow_up_request",
+      "ask_question",
+      "express_concern",
+      "request_action",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 7145.09,
+    "end": 7177.09,
+    "text": "I think we need to do everything we can  And yeah, I agree with you, Katrina. I suspect that it's going to be able to get done, because if you look at the numbers, we're doing about 300 or 400 people. So we have two weeks in March. Those 50 teachers, the 123 classifieds, will in all likelihood get inoculated in that first week. But if they don't, I think we need to figure out some way to assist them.",
+    "speaker": "davidoberg",
+    "tags": [
+      "agreeing",
+      "give_update",
+      "prioritization",
+      "request_action",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 7181.221,
+    "end": 7188.076,
+    "text": " Thank you all board members for those comments and I agree. Really with everything that's been said but Miss Lee.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 7188.938,
+    "end": 7192.606,
+    "text": "Oh, I'm sorry I didn't mean to interrupt you but I just wanted to comment before we close comment.",
+    "speaker": "judyle",
+    "tags": [
+      "interrupt_overlap",
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 7193.308,
+    "end": 7193.408,
+    "text": "Okay.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7194.215,
+    "end": 7482.139,
+    "text": " I'm sorry, I just I want to start out by saying that I do support having in school learning. I know that it's very important to many people. And you know, I, as Dave mentioned, we all read all of the messages. So I do support having that and I do support moving back the timeline. So the more of our staffers, especially custodial staff, bus drivers, teachers, you know who will see the most  vectors, children, students, whomever per day will get vaccinated. And I certainly hope that they will be able to. But there are parts of this plan that deeply concern me and I'm concerned about their ramifications for our most marginalized students. I first want to say that I'm not wedded to what we have done in the past because it has left us with incredible inequities.  Going into the pandemic, we were a division that was in the top 10% of divisions in Virginia for per pupil expenditure. And from VDOE reading data, you can see that at that same time for white students, we were in the top 20% of divisions in Virginia, but for black students, we are in the bottom 15%.  For Hispanic and Latinx students, we are in the bottom 5%. And for economically disadvantaged students, we're in the bottom 10%. So that's how we looked going into the pandemic. I just, I want to, as much as we can, put the shovel down on this year. I don't, you know, I've talked a lot about the interventions. I've asked a lot of questions about that.  I just don't think now is the time to have fewer supports for reading and math. And I appreciate, I really appreciate what our division has done to try to make the high school academies more accessible to all students. But truthfully, you have to set students up for success from the beginning, which means early literacy and numeracy.  And providing these interventions is meant to supplement what the students get in the classroom, even a small one, not supplant.  This plan reassigns 50% of our intervention teachers and 20% of our ESOL teachers. So for me, I hear what is being said, but to me that math doesn't add up. I don't see. The same level of intervention. And critical support able to be given, and I understand that these teachers are going to do their best. I think we have a lot of very creative teachers. I think we have a lot of people who are passionate  about the work that they do, very good at it. But that math to me does not add up.  I support having students in schools if that's what their families need or want, but we also need to serve all of our students, and that also means the nearly half of our division students who have chosen to remain virtual. And we know that more of our students of color and our economically disadvantaged students are in that group, while more of their white and economically advantaged counterparts have chosen hybrid learning. So in order, in my opinion, to bring pre-K-3  students in four days a week, we're compounding the inequities that have plagued us for generations. I think that there is a simple fix for this. I feel like keeping our hybrid students at two days a week will help us preserve those intervention services, those ESOL services, and those specials  and we can help not deepen these inequities. I would also like to find a way to continue our meal delivery service in order to help not deepen these inequities. And for all these reasons, I can't vote for this plan as it is presented. But there's also another thing that I hope that we here on the board think about. I know that we all want to fight inequity. We all ran on it.  But we need to think about how can we, through our policy and governance, require accountability to all of our students? How can we ourselves be accountable? We're not the first ones who have wanted to fight inequity, and yet we find ourselves here.  So many times in these discussions in the past few months, we've been talking about health metrics, which I agree are very important, and I definitely have talked about them. But I want to know what metrics we can use to ensure that we've taught every student well in this time. We need to be thinking about that. We assume that in-person education is better, is it? How will we know that this version of it with partner teachers is better? And I think we need to be asking that of ourselves and of the division.",
+    "speaker": "judyle",
+    "tags": [
+      "express_concern",
+      "request_action",
+      "policy_proposal",
+      "disagreeing",
+      "prioritization",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 7485.933,
+    "end": 7490.417,
+    "text": " Thank you very much, Ms. Lee. Are there any other comments?",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 7490.998,
+    "end": 7559.934,
+    "text": "I would like to say something real quick. I know I can't vote, but I just wanted to show that or say that I am in support of moving it back to the 15th. I've talked to a bunch of my teachers and students, and a lot of their major concerns was the fact that the vaccination timeline and I think moving it back to the 15th addresses that a little bit better.  And I think we owe it to them. I know we have, I know we've all said it. We have some of the best teachers in the school system. I would not be here if it weren't for them. And if I just thank you for them and we owe it to them to make sure that they're taken care of. And I know they've had my back personally ever since I've been in the school system. And again, I would not be here if it weren't for them. And I think this shows that we're,  we're addressing that problem and that we have their back a little bit too. So I fully support going back to school in a safe, timely manner. And so I like the moving back to the 15th.",
+    "speaker": "angelpilkey",
+    "tags": [
+      "opinion",
+      "agreeing",
+      "acknowledge",
+      "express_concern",
+      "reassure"
+    ]
+  },
+  {
+    "start": 7563.76,
+    "end": 7564.341,
+    "text": "Thank you.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7565.522,
+    "end": 7606.575,
+    "text": "I'd like to mention that I noticed tonight when we had the speakers,  You know, it was the people of color who asked us not to move forward. And yet we're moving forward. And so when we say we want to hear from people of color and what they want, I just want us to acknowledge that we ask people what they thought and we're moving forward anyway. So, I mean, granted, with a delay, but I just want to acknowledge that  It was the people of color who asked us not to go forward.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "express_concern",
+      "acknowledge",
+      "request_action",
+      "opinion",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 7607.857,
+    "end": 7650.99,
+    "text": "Right. I think I would take issue with that. We barely had anyone of color speak. I think that's our biggest issue. And we take the one or two people that speak, and we hold their opinion up to represent the whole group. And I think, Ellen, obviously, I appreciate what you're saying. And that's true and worth noting.  I, I honestly don't know because we don't ask for people's racial makeup, but I guess what I would push us to do is is. We need to be getting feedback from parents in a different way or pushing to have to hear different voices, or I mean I don't know. I think it's a broad characterization to say that people of color don't want to go back to school.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "disagreeing",
+      "express_concern",
+      "request_action",
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 7652.59,
+    "end": 7653.331,
+    "text": " Yeah, I didn't mean to.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "conceding",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7653.531,
+    "end": 7667.089,
+    "text": "I'm basing that on the data that we got on who chose hybrid and who chose virtual. Yeah, and I know, Judy, I know the ones you're referring to, and I would still argue, if I'm remembering correctly, that those were slight percentage differences.",
+    "speaker": "judyle",
+    "tags": [
+      "clarify",
+      "acknowledge",
+      "disagreeing",
+      "hedge"
+    ]
+  },
+  {
+    "start": 7667.269,
+    "end": 7698.98,
+    "text": "But still, I guess I'm just uncomfortable us  I guess I'm happy that we're talking about race so explicitly, but I'm uncomfortable with us making these really broad characterizations about what people want or need. And I would argue that providing parents the choice to do what they need for their family, regardless, is the right choice. And that's where my head is at, I guess, with it. I wouldn't want to deny people the choice.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "express_concern",
+      "opinion",
+      "acknowledge",
+      "reassure",
+      "hedge"
+    ]
+  },
+  {
+    "start": 7699.561,
+    "end": 7703.786,
+    "text": "If the choice didn't affect so many other people. Which I do.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "express_concern",
+      "opinion"
+    ]
+  },
+  {
+    "start": 7704.888,
+    "end": 7736.433,
+    "text": "Yeah.  Is a good point and Judy to your point, I think what could be helpful for me in a follow up is now that we're making the decision, however, it goes is getting a better or clearer understanding of what this is really going to look like.  on the ground, because I also got like a question in one of the many emails. I did get a question about, is virtual gonna be just like a camera in the classroom of the hybrid? I think there are questions about that or kind of the mechanics of it all, which I'd be happy to, I think we need to be very cognizant and look into those and make sure that we always have equity on the forefront.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "follow_up_request",
+      "request_action",
+      "clarify",
+      "ask_question",
+      "express_concern",
+      "prioritization",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7740.018,
+    "end": 7754.444,
+    "text": "I guess I would reframe my statement to say, I don't know a single person of color who said that they want to go back.  In my experience, I have not encountered a single person of color that I can tell that want to go back. I mean, obviously you can't tell the race from some of these emails, but.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "clarify",
+      "opinion",
+      "hedge",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7754.464,
+    "end": 7770.162,
+    "text": "I can tell you in my job that I have encountered several families of color who want to go back and have benefited from the ability they've had to go back. I just, I don't want to speak in characterizations like that. Good.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "give_update",
+      "hedge"
+    ]
+  },
+  {
+    "start": 7770.182,
+    "end": 7772.625,
+    "text": "Okay. Dr. Acuff, you are unmuted. Do you have a comment?",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 7773.466,
+    "end": 7902.403,
+    "text": " Oh, I'm not muted. Um, I may be mute, but I wasn't muted. I just want to I think Judy's key point is that even before, as I have, as I have take the key point that I've taken from Judy's comments is that we had  an issue and the highest priority for us, our school division, even before the pandemic was that we had a huge achievement gap. We had racial and that went along racial divisions in our, in our schools. And we still have that problem. And it may well be from the science that we have seen been exacerbated in this era of the pandemic.  I am in favor. I mean, our job tonight is to balance poor choices. I mean, they're balancing the concerns of our teachers  With what we know from the science, most of our kids do better in the classroom. We've heard, we said at the very beginning of our work with COVID and trying to figure out a course that we would do the best we could follow the science. The science is imperfect and continuously evolving. But I think my best judgment is we can address many of these issues  by offering parents the option to send their kids to school as outlined in stage four, but seriously work on our strategy for addressing the learning losses, but the continuing work we've been doing on racism, the adverse impacts on children's education, but really put the kids first. We really owe that to our school division and the families.  And I think this is an imperfect solution, but it's one that I support.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "express_concern",
+      "prioritization",
+      "policy_proposal",
+      "agreeing",
+      "hedge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 7905.087,
+    "end": 7918.848,
+    "text": "One thing I would add to that is to communicate, communicate, and communicate with the families, with the parents, in terms of what to expect, when to expect it, and so that it doesn't come as surprises.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "request_action",
+      "prioritization",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 7921.292,
+    "end": 7991.385,
+    "text": "Right.  And in addition to everything that has already been said, like Ms. Lee was saying, I realized too that equity was an issue before the pandemic hit. And I guess it's just been exacerbated since it's affected us. And so tonight, regardless of how we vote, I think that we realize that we still have to really address that equity issue, that we can't let it move away from the forefront.  and that we have to do whatever we need to do in order to make that one of our main, main points. And so even though I'm voting to let our students come in, that's not saying that I don't want to make sure that we still address that issue of equity in the future. Are there any other comments?  OK, if not, Ms. Johnson, would you take a roll call vote? And the motion, again, is to move to stage four beginning on March 15. Everything on the schedule would be shifting up by two weeks. So that's the motion that we are voting on. Ms. Johnston?",
+    "speaker": "grahampaige",
+    "tags": [
+      "express_concern",
+      "reassure",
+      "follow_up_request",
+      "procedural_move",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 7992.367,
+    "end": 7995.491,
+    "text": "Mr. O'Carroll? Yes. Mr. Oberg?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 7996.432,
+    "end": 7996.732,
+    "text": "Yes.",
+    "speaker": "ryanmckay",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 7997.653,
+    "end": 8010.833,
+    "text": "Ms. Lee? No. Dr. Acuff? Yes. Ms. Colson? Yes.  Miss Osborne? Yes. Mr. Page? Yes. Motion passed.",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 8011.302,
+    "end": 8050.649,
+    "text": " All right, so the motion passes. We will be moving to stage four effective on March 15. And again, we do thank all of the parents and teachers, everyone who didn't make public comment tonight. And we realize again, that this motion is probably not something that everybody likes, but it's really the best that we can do, I think, given the circumstances that we are faced with at this time.  We now have another break scheduled. We have two items after this scheduled break. So are we ready to move into items 8485, or do we wanna take a five minute break?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "logistics_info",
+      "acknowledge",
+      "reassure",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 8051.15,
+    "end": 8052.752,
+    "text": "Keep moving. Let's move.",
+    "speaker": "kateacuff",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 8053.954,
+    "end": 8065.052,
+    "text": "Anybody in opposition to moving forward? Okay, we will move forward. All right, item 8-4, the school division calendar, Dr. McLaughlin.",
+    "speaker": "grahampaige",
+    "tags": [
+      "vote_call",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 8066.045,
+    "end": 8164.153,
+    "text": " Good evening again board members Pat McLaughlin, chief of strategic planning for the school division and I'm here to give you an update on the work of the joint Albemarle County Public Schools and Charlottesville City Schools calendar committee.  Attached to your board item, you have a number of documents. One is the draft calendar for the 2021-2022 school year. Also, you have the results of our community survey that is in there. The calendar committee, which is made up of teachers, administrators, and parents from both school divisions, began meeting in December and developed a first draft calendar that was shared with our community in January.  The calendar looks very similar to calendars we've used in the past, with the first day of school for students on August 25th and the final day of the school year falling on June the 10th. We shared the calendar with the public in January, and over 2,500 community members responded to our calendar survey.  When rated on a five-point scale of how satisfied they were with the calendar, with five being the most satisfied, 93% of respondents rated their satisfaction at a three or higher. The committee met for a second time after feedback was received and decided that no significant changes were needed based on the survey results.  On the committee's recommendation, we're submitting this calendar to the board for the first viewing tonight and plan to bring it back on the consent agenda at the school board work session on February 25th for approval and adoption. So that's all I had to present to the board tonight and we'd be happy to take any questions or hear any comments of the board if there are any.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "procedural_move",
+      "follow_up_request",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 8164.173,
+    "end": 8208.85,
+    "text": "Dr. McLaughlin, both the governor and we as a school division have talked about  what kinds of strategies we might need to address the learning loss. And most of the research that I have seen has suggested that  that won't even be possible without more time in the seat, whether it's longer days or longer school year or some sort of enrichment. And this calendar looks pretty much like the last several calendars I have seen. So are we contemplating anything like that or have any flexibility in modifying the calendar?  We are so so a couple of things that I would put in front of the board.",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "policy_proposal",
+      "cite_external_source",
+      "request_action",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 8209.531,
+    "end": 8274.437,
+    "text": "Number one, we've got a very large team who is looking at that learning loss issue and determining what strategies are going to be best for that in a number of areas, both for academic learning loss for student social and emotional.  health and for student physical well-being. And they may come forward with recommendations to make some alterations to this. So much like the last calendars we've had, we've had to kind of adjust them on the fly. And so if that group makes some recommendations, we would bring those back to the board if they say, hey, best practices to make some alterations to this.  One thing that is really on the front burner with that group is what this summer might look like. And we've got in development right now some really robust summer activities and offerings for our students that are being developed. And most likely those will be developed at no cost through the CARES Act funding that is available to them. So I would expect that the board's gonna hear some additional information on those in the not too distant future.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "prioritization",
+      "logistics_info",
+      "hedge",
+      "reassure"
+    ]
+  },
+  {
+    "start": 8277.505,
+    "end": 8318.148,
+    "text": " Dr. McGuffin, just one minor point on this is I noticed on November 2nd, which is election day, it's the only day that it shows set aside for parent-teacher conferences.  And I'm just wondering, will there be on the calendar this year, other days that are set aside, not the whole day, but that parent-teacher conferences will be on those days?  Or is that really more fluid for and those decisions made by individual schools.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 8318.69,
+    "end": 8410.939,
+    "text": "So what we what we generally do for parent teacher conferences is we hold one day for those conferences to take place.  but then we give schools and teachers the options to hold those at a different time. So we see that if you look, say, at our middle schools and high schools, they will typically have two evenings where parents are invited in for parent-teacher conferences. When that happens, we use the day that's designated for parent conferences as a flex day for those teachers to pay them back for the time that they committed on those evenings.  Some teachers choose to, particularly at the elementary school level, have the option to choose that day to have parents come in to meet with them, or elementary teachers can set conferences throughout, you know, over the course of a couple of weeks at times that are convenient to them and to parents, and then take that as a flex day as well. So that's kind of there in case it's needed, but oftentimes there are multiple opportunities for parents to come in and meet with teachers.  Is the use of election day is that at all kind of a conflict in terms of having other other people in some of our buildings voting versus some parents coming in and out that day for conferences. We have it is falling on that day for for the past several years, so I haven't heard that as a concern, but we can certainly look at we've got a we can certainly take a look and see if that's going to be an issue for folks.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "clarify",
+      "ask_question",
+      "request_action"
+    ]
+  },
+  {
+    "start": 8413.535,
+    "end": 8415.398,
+    "text": " So we can always do those things virtual, right?",
+    "speaker": "ellenosborne",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 8416.96,
+    "end": 8427.635,
+    "text": "Absolutely. I would expect that we're going to see that as one of the silver linings of the pandemic is that we've got some opportunities where we don't have to do things face-to-face anymore.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "acknowledge",
+      "opinion",
+      "reassure"
+    ]
+  },
+  {
+    "start": 8431.801,
+    "end": 8590.175,
+    "text": "I would just add.  that during the draft funding request presentation next week, I'll also talk a little bit about the team that's working on summer programming and the offerings that we're planning on having for our children. There's still a lot of planning that has to go into it. We've been spending a lot of time planning other things like the return to school and yet in the past,  we have started to turn our eyes toward next year. And as Dr. Acuff pointed out, when we've lost so much time with the students, one of the best ways to make that up is time with students. So we are looking at this summer. We're also thinking ahead to the summer after next year as another opportunity. I'm also trying to be very cognizant, and I know we all are, that our teachers, in many ways,  when this school year ends, probably more than ever, are going to need a break if they want one. So the notion of extending the school year or starting the school year next year really early without any kind of an adjustment to compensation, which the governor hasn't offered anything like that yet, to our knowledge, I'm not sure would be a good call. And I think  A lot of our families, too, just seeing the normalcy of the summer break and the start date for the school year, we want that for them. Having said that, we are planning robust summer programming this summer and next summer. The other part is with one-time money, we're also looking at expanding our after-school offerings.  so that we could possibly include pre-kindergarten students and expand. You may recall that in last year's funding request prior to the pandemic, we had put in a proposal for an equity expansion for our EDEP program that would enlarge the population of students that could attend and also make it available to families that in the past, the cost of it was prohibitive.  So we're hoping to look at piloting that with one-time money, perhaps, as we look at our planning for our response to COVID-19. So I just wanted to put those things out there that those are in the works.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "express_concern",
+      "logistics_info",
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 8590.195,
+    "end": 8605.634,
+    "text": "Thank you, Dr. Haas. Any other questions on the calendar? Dr. McLaughlin, I noticed  in passing that the Christmas break appeared to be pretty long compared to in previous years. Is that true?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 8606.275,
+    "end": 8626.973,
+    "text": "Yes, sir. That is extended by one day this year. We typically have a two to four week winter break because of where New Year's Day falls and in the actual New Year's Day federal holiday that caused us to add one day on on Monday, January 3rd. Okay.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "clarify",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 8628.421,
+    "end": 8644.064,
+    "text": " I just want to, both Dr. McLaughlin and I have this in common. Our daughters who will be seniors next year, Patrick may not have noticed this, but the calendar is identical to the calendar it was when they were kindergartners.",
+    "speaker": "davidoberg",
+    "tags": [
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 8646.247,
+    "end": 8655.441,
+    "text": "That's really where I, Mr. Oberg, that was, I snuck that into the calendar committee this year. There's just a certain symmetry to that that I really like.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "clarify",
+      "opinion",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 8656.265,
+    "end": 8662.452,
+    "text": " Wow. Okay. That's astounding that you would remember that. I was about to say the fact that you guys even- That's right.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 8663.052,
+    "end": 8686.238,
+    "text": "Wow. Okay. Here's why. Because December 18th of their kindergarten year, we had that major snowstorm where they got like two and a half, three feet of snow. I remember that 18th going to the grocery store and thinking, well, if we're boxed in, we're boxed in because it's the wrong break anyway.",
+    "speaker": "davidoberg",
+    "tags": [
+      "express_concern",
+      "opinion"
+    ]
+  },
+  {
+    "start": 8687.399,
+    "end": 8691.967,
+    "text": " So buy your groceries this year on December 17th. I was just going to say, Dave is dooming.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "request_action",
+      "public_addressing",
+      "opinion"
+    ]
+  },
+  {
+    "start": 8692.548,
+    "end": 8695.113,
+    "text": "Right. Yeah. All right.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 8695.193,
+    "end": 8706.673,
+    "text": "Thank you. Any other questions on that before we move on? All right. We are now moving to the second quarter financial report. Mr. Zimmerman.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 8714.078,
+    "end": 8823.145,
+    "text": " I, uh, thank you board members. I I'm unable to turn my video on because if I did, uh, my, my, uh, internet connection would completely, uh, freak out. So I will be speaking to you from my J on the screen. Um, thank you for, uh, I'm Jackson Zimmerman. I'm your finance officer. Uh, thank you for, um, taking a look at our, our, um, financial report for the year.  I wanted to present to you the second quarter financial report. We are operating in a very positive financial perspective from this fiscal year. I do have more than a number of good news things to bring forward to the board regarding finances in this current process. The governor's budget is included in terms of our projections for this current year.  And the governor's budget does include some significant new dollars over what was previously budgeted for our division. There is a hold harmless component associated with the governor's budget in terms of our ADM, our overall enrollment, which is less than what we had originally budgeted and less than what the state had originally anticipated.  That hold harmless provision gives us about 3.7 million new dollars associated with just that hold harmless on our ADM number. There are also other components that are associated with the governor's budget that provide some monies this year. There's some COVID relief funding and then continued good collections from state revenues and sales tax. So overall,",
+    "speaker": "Unknown",
+    "tags": [
+      "give_update",
+      "public_addressing",
+      "logistics_info",
+      "cite_external_source",
+      "reassure"
+    ]
+  },
+  {
+    "start": 8823.884,
+    "end": 8831.236,
+    "text": " we're going to be getting almost $5.5 million more dollars from the state than what we had originally budgeted.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "give_update"
+    ]
+  },
+  {
+    "start": 8832.578,
+    "end": 9171.15,
+    "text": "And you can see that right here on our state revenue section. We do anticipate having slightly lower local school revenues, primarily due to rentals, building rental  uh, athletics perhaps, and, um, also donations are going to be a little bit lower than originally anticipated. So overall, we're looking at $5 million more dollars in revenue than we had originally budgeted in our budget. On the expenditure side, second quarter financial reports are when we do our first look at our  expenses, particularly our expenses with salary and benefits. That represents more than 85% of our overall expenditures as a school division are our people, our most important resource that we have in our division. Right now, we're projecting a little bit more, a little bit less than a million dollars in overall savings from compensation  to be saved by the end of the fiscal year. So overall, it shows that we're going to be operating this fiscal year with around $6 million in revenues over expenses as projected right now, moving forward. So I will move  From this financial report on to discussion of fund balance, unless I have any other questions on the first page. Okay. So here we have a projection of our overall use of fund balance. For the current year. We ended last fiscal year with a nine and a half million dollar fund balance.  We had made some very significant reductions in our planned expenditures because we felt like the economy was going to be taking a nosedive. Everyone did. The state did. Local government did. It turned out not to be the case for a wide variety of reasons. Local revenues were good. State revenues were good. We cut back. We generated a rather healthy fund balance.  $9.5 million, a little bit more than $9.5 million. Our overall adopted budget for this current year uses a million of that. So if you look on there, we do budget the use of a million dollars in fund balance. We are anticipating our lapse that we discussed before from savings associated with salaries. We are anticipating additional revenues primarily from the state  We are requesting, uh, so the board in their, in their January joint board meeting discussed providing one-time payments to staff across the division. Uh, the anticipation of this is we would issue a one-time payment of a thousand dollars to all staff that are 0.7 FTE or greater. And for staff that are, that work for us on a regular  permanent basis that are less than .7, we would provide a one-time payment of $750. So we would anticipate bringing forward an agenda item in the future, a consent agenda item, to use almost $2.7 million of one-time monies to provide that one-time payment to staff to take place in the month  of April for their April paycheck to be included as part of the April paycheck. That is one potential use of fund balance that the board had, I believe, had unanimous agreement to be brought forward from that joint board meeting. We also do anticipate bringing forward additional uses of fund balance in both the current year  and as part of our upcoming budget presentation next week. So in anticipation of the potential of these things being brought forward, I included potential uses of fund balance in the current year of up to $4 million. Probably will be a little bit less than that, but it could be $4 million. And then we do anticipate bringing forward  um uses of fund balance of about half of about five million dollars in next fiscal year's budget so that's where we currently stand with fund balance and i do ask that the board agree conceptually with the idea of bringing um bringing forward the one-time payments so that we can include those as  an appropriation agenda item on your consent agenda in a future meeting. If there are any questions, I'd be happy to entertain any questions or concerns.",
+    "speaker": "Unknown",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "request_action",
+      "follow_up_request",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 9171.731,
+    "end": 9179.718,
+    "text": "Mr. Zimmerman, this is Kate. Remind me what the budgeted use of fund balance of $1.1 million was.",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 9180.979,
+    "end": 9219.11,
+    "text": "So typically, we use a portion of our fund balance because we do  We always almost always generate a fund balance at the end of every fiscal year we're not able to expend more than we have budgeted. Even if we receive additional monies whatever's appropriated is the maximum that we are permitted by code to spend. So we do anticipate generating a fund balance at the end of almost every fiscal year.  And we're using that fund balance as a budget balancing tool almost every year as a recurring revenue stream.",
+    "speaker": "Unknown",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "clarify"
+    ]
+  },
+  {
+    "start": 9219.831,
+    "end": 9221.773,
+    "text": "OK. OK. Now I understand.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 9221.793,
+    "end": 9223.695,
+    "text": "Thank you.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 9224.656,
+    "end": 9247.195,
+    "text": "Yes, ma'am. And for the current year, we do anticipate bringing forward some more uses of current year fund balance, a particular EDP is not going to be receiving sufficient revenues.  to offset its expenses for the current year. So that's just an example of some of the things that we'll be bringing forward for use of current year fund balance in future meetings.",
+    "speaker": "Unknown",
+    "tags": [
+      "give_update",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 9251.419,
+    "end": 9267.295,
+    "text": "OK. Any other questions for Mr. Zimmerman? We do exactly what request do we have to vote on, Mr. Zimmerman, from your report?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 9268.203,
+    "end": 9280.078,
+    "text": " I would appreciate just receiving a yay or a nay regarding the bringing forward an item regarding one-time payments for staff in a future board meeting for consent.",
+    "speaker": "Unknown",
+    "tags": [
+      "follow_up_request",
+      "request_action",
+      "ask_question",
+      "vote_call"
+    ]
+  },
+  {
+    "start": 9281.219,
+    "end": 9346.18,
+    "text": "All right. May I ask before we do that, because I do have one question for Mr. Zimmerman. I thought we were going to go on to the other pages.  And if I might, Mr. Zimmerman, in your notes to us in the first paragraph under expenses, on the last sentence, you say a number of special revenue programs may need substantive financial assistance to maintain programs in the face of reduced revenue opportunities due to COVID closure.  And in looking on pages nine, and it goes over into page 10 of your report, we end up with about a negative, about $1.161 million. And I just was curious as to what your recommendation or strategy was for changes within the current year budget  to accomplish what you said there?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "defer_to_expert",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 9347.322,
+    "end": 9395.395,
+    "text": "So a number of our special revenue funds are federal funds that we seek reimbursement for. So we're always run in the negative for a number of those funds throughout the year until we get to year end. So the ones that we would probably be looking at as to whether or not revenues will be sufficient to support  will primarily be EDP, our fee-based revenue programs. EDP, open doors, driver's ed may be a component, may or may not be a component, but we'll need to take a look at all of our fee-based services that are provided, that are part of our special revenue funds to make sure that those will be whole at the end of the year.",
+    "speaker": "Unknown",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "clarify",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 9398.339,
+    "end": 9398.7,
+    "text": "Okay. Makes sense.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 9401.887,
+    "end": 9419.76,
+    "text": " There are other questions on Mr. Zimmerman's report. If not, could I have a motion to address the issues that he would like us to accept with this report?",
+    "speaker": "grahampaige",
+    "tags": [
+      "request_action",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 9420.128,
+    "end": 9432.561,
+    "text": " I have two motions for that. One is I move that we approve the one-time pay proposal in concept to move forward with appropriations and implementation.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move",
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 9433.763,
+    "end": 9433.903,
+    "text": "Second.",
+    "speaker": "davidoberg",
+    "tags": [
+      "procedural_move",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 9435.965,
+    "end": 9451.705,
+    "text": "OK. It's been moved and seconded that we would move forward with the one-time pay recommendations cited in Mr. Zimmerman's report. Any discussion on that motion?  OK, Ms. Johnson.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 9453.447,
+    "end": 9458.612,
+    "text": "Ms. Lee. Yes. Dr. Acuff. Yes. Mr. Alcaro.",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call"
+    ]
+  },
+  {
+    "start": 9459.112,
+    "end": 9459.392,
+    "text": "Yes.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "agreeing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 9460.113,
+    "end": 9460.814,
+    "text": "Mr. Oberg.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 9461.574,
+    "end": 9461.835,
+    "text": "Yes.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 9462.635,
+    "end": 9467.42,
+    "text": "Ms. Osborne. Yes. Ms. Colson. Yes. Mr. Page.",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call"
+    ]
+  },
+  {
+    "start": 9467.861,
+    "end": 9474.027,
+    "text": "Yes. All right, so that motion carries. And I believe that Mr. Alcaro, you had a second motion?",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 9474.887,
+    "end": 9479.512,
+    "text": "That is that I move that we receive the second quarter financial report.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 9480.573,
+    "end": 9493.97,
+    "text": "Second.  OK, moved by Mr. O'Carroll, seconded by Mr. Oberg, that we receive the financial second quarter report. Discussions on that motion. All right, Ms. Johnson.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 9495.532,
+    "end": 9505.704,
+    "text": "Ms. Coulson. Yes. Mr. Oberg. Yes. Ms. Lee. Yes. Dr. Acuff. Yes. Ms. Osborne.",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call"
+    ]
+  },
+  {
+    "start": 9506.164,
+    "end": 9506.404,
+    "text": "Yes.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 9507.185,
+    "end": 9510.289,
+    "text": "Mr. O'Carroll. Yes. Mr. Pate.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 9510.309,
+    "end": 9532.984,
+    "text": "Yes.  All right, the motion carries. Thank you, Mr. Zimmerman, for presenting your report to us tonight. This brings us to the end of our printed agenda. Do we have other business by board members of the superintendent?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 9534.465,
+    "end": 9538.45,
+    "text": "Mr. Page, I do not have any other business.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 9538.47,
+    "end": 9539.151,
+    "text": "OK. Board members?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 9541.122,
+    "end": 9596.761,
+    "text": " Um, I just have one quick thing before we go. Um, I think as something that's popped into my mind and I brought it up and others have agreed is that as we are moving forward to go into phase four, um, as leaders of the school division, um, we're still having our meetings online. Um, and if we want to, I guess, reassure people that it is safe and we do believe that it is safe. Um, my question is.  I think we should, just my personal opinion is to radiate the message that we think it's safe and to lead the way by example that can be done safely is maybe transition to in-person board meetings. I mean, that's just a quick thought that's popped into my head. It's not a recommendation or anything. I just, just like for you guys to consider that, that we are setting an optics from an optics point of view.",
+    "speaker": "angelpilkey",
+    "tags": [
+      "policy_proposal",
+      "reassure",
+      "opinion",
+      "request_action",
+      "public_addressing",
+      "hedge"
+    ]
+  },
+  {
+    "start": 9599.625,
+    "end": 9622.74,
+    "text": "Okay, Mr. Peel. Okay. One thing that,  is forcing us to take meetings online now is the county ordinance that was approved by the supervisors, which in essence closed the county office building for meetings. And so until that's changed, we wouldn't be able to have any meetings in the office building.",
+    "speaker": "grahampaige",
+    "tags": [
+      "logistics_info",
+      "give_update",
+      "clarify"
+    ]
+  },
+  {
+    "start": 9624.742,
+    "end": 9631.231,
+    "text": "Okay. Okay. That makes sense.",
+    "speaker": "angelpilkey",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 9631.371,
+    "end": 9632.132,
+    "text": "Board members",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 9634.39,
+    "end": 9678.811,
+    "text": " I would just add on a comment with that, which I think is worth noting, because it's not been as many comments recently, but we have gotten a lot of feedback about doing the meetings via Zoom. And one thing, I'm happy to do meetings in person. I'm fine, really, with whatever direction the board wants to take. But it has expanded our access so much that I think that's one benefit that I don't want to let go of. So even if we move to in-person meetings, we had 950 people watch our meeting today. And I sat through a year of going to meetings before I ran, and we would have  like three of us in the audience. So I always, whenever I hear that comparison, I'm like, oh, but I hope we don't, by moving to important person, lose participation from the public, because I've really appreciated that. And so I hope that's something, too, as we move forward, that we consider ways to do that.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "express_concern",
+      "opinion",
+      "request_action",
+      "acknowledge",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 9679.671,
+    "end": 9700.257,
+    "text": "I totally agree. I mean, from just a bunch of students, actually, are watching it real time and texting me their opinions. So I think it's really good by an access point of view.  that we continue some way of this easy access, which is really good. So I agree.",
+    "speaker": "angelpilkey",
+    "tags": [
+      "agreeing",
+      "opinion"
+    ]
+  },
+  {
+    "start": 9700.838,
+    "end": 9706.426,
+    "text": "So you are becoming an internet star then via Zoom meetings, right?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 9708.408,
+    "end": 9712.113,
+    "text": "I don't know about that, but.",
+    "speaker": "angelpilkey",
+    "tags": [
+      "hedge"
+    ]
+  },
+  {
+    "start": 9712.133,
+    "end": 9729.428,
+    "text": "I do think Christine digs  texted me a few minutes ago and said, we actually topped out at 1150 tonight. So Angel has reached the 1,000 viewer threshold.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "give_update",
+      "cite_external_source"
+    ]
+  },
+  {
+    "start": 9729.988,
+    "end": 9739.237,
+    "text": "Which I think actually helped. I think that actually exceeded the Super Bowl halftime show. OK.",
+    "speaker": "davidoberg",
+    "tags": [
+      "opinion"
+    ]
+  },
+  {
+    "start": 9739.477,
+    "end": 9755.758,
+    "text": "All right. I think before we go off on too many tangents, any other business?  If not, I declare this February 11th meeting adjourned. And thank you all for your participation. Good night, everybody. Thank you. Good night, everyone.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "acknowledge"
+    ]
+  }
+]

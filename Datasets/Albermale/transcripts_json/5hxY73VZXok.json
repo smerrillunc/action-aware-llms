@@ -1,0 +1,1382 @@
+[
+  {
+    "start": 0.537,
+    "end": 5.782,
+    "text": " You've got your strobe light on. You see that?",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 5.802,
+    "end": 24.1,
+    "text": "My lights keep going off. I apologize in advance. All right. This session for April 23rd of a regular work session for the Albemarle County Public School Board is now in session.",
+    "speaker": "davidoberg",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "logistics_info",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 24.981,
+    "end": 54.275,
+    "text": "May we first take a moment of silence.  Okay, let's do a microphone check and I'll just call on people as I'm seeing you on my screen. Miss Johnston.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 55.236,
+    "end": 56.857,
+    "text": "Jennifer Johnston, I'm the clerk to the board.",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 58.219,
+    "end": 59.079,
+    "text": "Ms. Lee.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 60.18,
+    "end": 61.822,
+    "text": "Judy Lee, Rivanna Magisterial District.",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 62.763,
+    "end": 69.028,
+    "text": "Mr. Page. Graham Page, Magisterial District. Mr. Oberg.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 69.969,
+    "end": 73.392,
+    "text": "Dave Oberg, Whitehall Magisterial District.",
+    "speaker": "davidoberg",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 73.412,
+    "end": 74.233,
+    "text": "Dr. Acuff.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "public_addressing",
+      "defer_to_expert"
+    ]
+  },
+  {
+    "start": 75.243,
+    "end": 78.087,
+    "text": " Katie Acuff, Jack Jewett District. Good evening, everybody.",
+    "speaker": "kateacuff",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 79.069,
+    "end": 79.83,
+    "text": "Ms. Osborne.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 80.551,
+    "end": 82.274,
+    "text": "Ellen Osborne, Scottsville District.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 83.035,
+    "end": 86.841,
+    "text": "Dr. Haas. It's Matt Haas, superintendent. It's nice to see you all.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 88.083,
+    "end": 91.148,
+    "text": "Dr. Kaiser. Claire Kaiser, assistant superintendent.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "acknowledge",
+      "clarify"
+    ]
+  },
+  {
+    "start": 92.771,
+    "end": 93.392,
+    "text": "Mr. Holden.",
+    "speaker": "rossholden",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 93.412,
+    "end": 96.076,
+    "text": "Ross Holden, school board attorney.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 97.939,
+    "end": 106.075,
+    "text": "Dr. Hairston. Bernard Hairston, assistant superintendent.  Ms. Schmidt.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 107.416,
+    "end": 109.318,
+    "text": "Rosalyn Schmidt, Chief Operating Officer.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 111.56,
+    "end": 117.026,
+    "text": "People are moving around here. Let me just go. Mr. Jeremita.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 118.707,
+    "end": 120.97,
+    "text": "Phil Jeremita, Strategic Communications Officer.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 122.992,
+    "end": 129.038,
+    "text": "Dr. McLaughlin. Pat McLaughlin, Chief of Strategic Planning. Dr. Diggs.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 130.92,
+    "end": 133.262,
+    "text": "Christine Diggs, Chief Technology Officer.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 134.17,
+    "end": 135.131,
+    "text": " Ms. Kumazawa.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 136.153,
+    "end": 138.296,
+    "text": "Maya Kumazawa, Director of Budget and Planning.",
+    "speaker": "kateacuff",
+    "tags": [
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 139.618,
+    "end": 143.543,
+    "text": "Oh, Debbie, that's where you are. Ms.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 143.563,
+    "end": 146.487,
+    "text": "Collins. Debbie Collins, Deputy Superintendent.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "public_addressing",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 147.749,
+    "end": 244.968,
+    "text": "Great. OK, thank you, everybody. Just a couple of comments. First, I want to read a notice that given recent legislation, I will state for the record and the minutes of this meeting should so reflect  that one, this meeting is being held electronically pursuant to Virginia state law and Albemarle County ordinance because the COVID-19 pandemic makes it impracticable and unsafe to assemble a quorum physically in a single location. Two,  The meeting is being streamed live on the Albemarle County Public Schools website. And three, public comment may be offered through the Zoom waiting room feature in accordance with the school board's protocol or by written submission. Two other quick reminders. One is that we will be doing a roll call on all votes.  And would you please, would the board please keep its microphones muted, except when speaking, obviously. And we've been requested to keep our videos on. I think our public wants to see our bright and shining faces. And considering the fact that I've got the most forehead, I'm without a doubt the shiniest.  So moving right along, our first order of business is approval of the agenda. May I have a motion to approve the agenda?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "public_addressing",
+      "logistics_info",
+      "procedural_move",
+      "vote_call"
+    ]
+  },
+  {
+    "start": 246.75,
+    "end": 247.391,
+    "text": "So moved.",
+    "speaker": "kateacuff",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 248.372,
+    "end": 255.701,
+    "text": "May I have a second? Second. We have a motion and a second. Ms. Johnston?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 258.785,
+    "end": 272.314,
+    "text": "Ms. Lee? Yes. Dr. Acuff? Yes. Mr. Oberg? Yes.  Mr. Page? Yes. Ms. Osborne? Yes. Mr. Alcaro? Yes.",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "vote_call"
+    ]
+  },
+  {
+    "start": 274.758,
+    "end": 282.348,
+    "text": "The motion passes. Next up is the approval of the consent agenda. May I have a motion for the consent agenda?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 284.311,
+    "end": 284.892,
+    "text": "I so move.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 287.295,
+    "end": 287.996,
+    "text": "May I have a second?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 288.597,
+    "end": 289.058,
+    "text": "I second.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "agreeing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 290.239,
+    "end": 293.323,
+    "text": "We have a motion and a second. Ms. Johnston?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move",
+      "request_action"
+    ]
+  },
+  {
+    "start": 294.245,
+    "end": 305.907,
+    "text": "Dr. Acuff? Yes.  Mr. Oberg? Yes. Mr. Page? Yes. Ms. Osborne? Yes. Ms. Lee? Yes. Mr. O'Carroll?",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "vote_call",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 306.448,
+    "end": 316.078,
+    "text": "Yes. The motion passes. Next up is public comment. Ms. Johnston, do we have anybody signed up for public comment?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "ask_question",
+      "request_action"
+    ]
+  },
+  {
+    "start": 316.379,
+    "end": 318.241,
+    "text": "There are no signups for public comment.",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "logistics_info",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 318.481,
+    "end": 319.662,
+    "text": "OK. Thank you.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 322.986,
+    "end": 329.172,
+    "text": "We can't get it out there.  How are we getting it out there that people have the opportunity to do that?",
+    "speaker": "davidoberg",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "request_action"
+    ]
+  },
+  {
+    "start": 331.354,
+    "end": 339.303,
+    "text": "It's been put out. Well, Miss Johnson, do you want to explain how that's been done and what's what we're going to do again tomorrow?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "request_action",
+      "follow_up_request",
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 340.204,
+    "end": 353.278,
+    "text": "So it was put out in a media notification through the communications office. So since we have a public hearing, too, in a couple of weeks, then I'm going to ask",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "logistics_info",
+      "request_action"
+    ]
+  },
+  {
+    "start": 353.95,
+    "end": 366.631,
+    "text": " fill to send out another notice. Maybe we could specifically send out a notice to the ACPS parents and staff.",
+    "speaker": "davidoberg",
+    "tags": [
+      "request_action",
+      "follow_up_request",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 366.651,
+    "end": 386.774,
+    "text": "What we could do is Ms. Dunn usually sends me an outline for comments about our meetings. I'll make sure that goes to all the parents.  And I'll make sure that that is in today's meeting notes.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "give_update",
+      "reassure",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 389.276,
+    "end": 416.31,
+    "text": "No, it's in a spotlight on the web page. And when Phil comes on, he has an announcement. So when Phil comes on, we should ask him if it was pushed out any other way. And I do know when we sent out the survey last week, we did talk about in the in the communication that went out to all of our  students, parents, and community members that there would be a public hearing on the 7th that they could sign up for. So.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "logistics_info",
+      "request_action",
+      "follow_up_request",
+      "clarify"
+    ]
+  },
+  {
+    "start": 416.33,
+    "end": 423.958,
+    "text": "Okay. Thank you. Sure. Okay. Um, next up is announcements. Uh, Dr. Haas.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 424.179,
+    "end": 497.653,
+    "text": "So I just had a quick announcement that, um, we are going to be moving forward with, um, uh, the Murray high school and  a community public charter school name review as they are combining into one school. So part of that process, we'll be reviewing the names of those schools to see whether they'll retain the name that they have or take on a new name through that process. Because we know we can host public comment now. The holdup that we had before, we just weren't sure how the technology was going to work  And now we know we have a process for allowing people to speak to the committee. So we'll be doing that. And we'll be watching that closely because I also want to get the Sutherland Middle School name review process up and moving again. So both of those things are moving back toward the front burner. And I just thought the board would want to know about it. I also wanted to ask Mr. Jaramillo  just discuss our recent survey that we did very quickly.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "give_update",
+      "request_action",
+      "procedural_move",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 499.074,
+    "end": 650.329,
+    "text": "Thank you, Superintendent Haas. Let me say first on the public comment, before every school board meeting, actually the day before, and then the day of, we post on the website, the homepage, the public comment option, and then we also post it on social media. But I think John's suggestion to add it into his email communication that goes to all families is a great idea, and we'll do that as well.  Regarding the survey, as many of you know, the plan was to post a community opinion survey last week on the five budget priorities that were discussed at the school board meeting last Thursday. And the survey was posted late Friday. Now, we do lots of surveys, particularly on budget topics. And we generally get between 1,000 and 1,500 responses and consider that to be a pretty good response.  Last week on Saturday and Sunday, which are not ideal days usually for public comment, we got 2,000 responses to the budget survey. So we exceeded what normally takes us a week or two weeks to get to. We got to that on Sunday. We're now at over 3,300 responses to the survey, which is just a phenomenal feedback from the public. We have several categories in which people can identify themselves in responding to the survey.  The largest category of respondents or participants have been parents, about 40% of our responses have come from parents, 26% have come from students, and then 25% from employees and 8% from community members.  We've seen some strong responses in the last couple of days, particularly from students weighing in on the various priorities. I think Maya is going to reference the survey in her presentation a little bit later this evening. But in general, the overwhelming, in terms of levels of support, the overwhelming choice of the people who are responding to the survey is you're strongly supporting student learning as a budget priority. And a little bit behind that, not far behind that,  doing what we can to keep current employees employed and protecting their positions. And also ranking high was equity, which is, I think it's the highest support we've seen for equity in these public opinion surveys in a number of years. So I think that's all a pretty impressive response from our community.",
+    "speaker": "Unknown",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "public_addressing",
+      "acknowledge",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 654.95,
+    "end": 658.794,
+    "text": " Thank you, Mr. Jeremiah. Dr. Haas, do you have any other announcements?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "ask_question",
+      "follow_up_request",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 662.357,
+    "end": 666.361,
+    "text": "I do not have any other announcements. Thank you, Mr. O'Connor. Thank you.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 666.381,
+    "end": 669.203,
+    "text": "Dr. Acuff, do you have an announcement for us tonight?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "request_action"
+    ]
+  },
+  {
+    "start": 673.928,
+    "end": 674.188,
+    "text": "No.",
+    "speaker": "kateacuff",
+    "tags": [
+      "disagreeing"
+    ]
+  },
+  {
+    "start": 675.149,
+    "end": 684.838,
+    "text": "OK. I thought that Mr. Jeremiah, maybe he was going to send it to you. We'll pick that one up in the next meeting.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "logistics_info",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 685.257,
+    "end": 688.54,
+    "text": " Hey, John, I also don't have an announcement to make. Graham?",
+    "speaker": "davidoberg",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 690.923,
+    "end": 691.824,
+    "text": "Yeah, me neither.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "agreeing"
+    ]
+  },
+  {
+    "start": 693.405,
+    "end": 694.707,
+    "text": "Me either. No one else.",
+    "speaker": "grahampaige",
+    "tags": [
+      "agreeing"
+    ]
+  },
+  {
+    "start": 695.688,
+    "end": 710.303,
+    "text": "OK. And Judy, there's all clean sweep. OK, great. Thank you, Dave. Next up is school board or superintendent of business, Dr. Haas.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 713.033,
+    "end": 717.798,
+    "text": " I do not. We do not have any other business other. Oh wait, I'm sorry, Rosalyn.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 718.299,
+    "end": 761.534,
+    "text": "I couldn't remember if it was announcements or business, but I wanted to provide an update that the governor did sign the critical shortage bill that deemed bus drivers as a critical shortage position. So that means that retirees who are collecting a VRS pension are not reducing the number of hours they can work.  I want to thank Helen Dunn for her work on this and support of our local legislators as well. We know of at least we have four current bus drivers whose hours were reduced because they're gathering benefits. So we know right off the bat they want to increase their hours. So that's the equivalent of two positions. And more importantly, it's going to be a great recruiting tool.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "give_update",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 763.177,
+    "end": 797.077,
+    "text": "Thank you. Thank you.  I just have one brief announcement, and that is that I evidently have trouble reading a calendar or putting things into my calendar. I had said last week we had three meetings in a row, and we do not have a meeting next week. There was one on my calendar, but I stand corrected on that. Next up is our school division work session. The first session is on continuity of learning.  Is this Ms. Collins?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "give_update",
+      "conceding",
+      "procedural_move",
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 797.418,
+    "end": 1271.21,
+    "text": "It is. Good evening. Good evening. I'm going to wait a minute for Jennifer to get the slot. Yeah, there we are. Good evening. My name is Debbie Collins, Deputy Superintendent. Tonight, I will share with you the directions of our discussions and the considerations we are looking to plan for summer and back to school in the fall.  I want to set context before we begin to look at specific options. The next two slides I've shared with you before, so you will probably recognize them. As you remember, the Virginia Department of Education developed guidance on the continuity of learning. The guidance given under the first option has been instrumental as we move through our current digital learning endeavors. We have determined which students have access and which students do not.  Our teachers and schools are providing paper resources or thumb drives with resources for all students who do not have access, which is about 5% of our students. Next. At this point, we've moved from reviewing content shortly after the school closure to teaching new content until the end of the school year. As we begin to consider the guidance given us under number two and three, we must decide how we will ground our next decisions.  How will, what will we base those decisions on? Will we treat all learners K through 12 the same? As we move to considerations for the future, I want to make sure that I preface this discussion with no student will recover from this disruption by just thinking about the immediate future. We are planning to make up for lost instructional time and create plans for closing learning gaps.  we've begun to think about what will drive our decisions for the next 18 months. We must first consider what we know about learning. For most students, their learning looks like this graph, a slow, steady growth rate over the year. As summer comes into play, we think about what is called the summer slide. Summer slide affects younger learners more than our older learners. To visually represent this,  Northwest Evaluation Association published these graphs a couple of weeks ago. I think they represent for us what we're trying to think about as we move into a recovery phase. They also give us some background to which learners we might target as we move forward and why we would target them. Let's go back to the math slide, please.  I'm going to walk you through this graph and then give you some time to look at it. Let's look at the top line eighth graders. If you fall inside line you will see the slow steady learning curve for most eighth graders. And this is averages. You can see how the line moves to the last day of school and then how it slides back somewhat from the last day of school to the first day of the school of the school the following year. That's what we call the summer slide. Now  Let's take a look at the next, I'm sorry, go back to math. Let's take a look at the dashed line, and that's what they're calling the COVID slowdown. That's what we're doing right now. We're continuing to teach and learn, and students will hold steady in their learning. They won't grow to where they possibly would have if we continued to be in school, but they will stay steady.  And the last line that you see that looks like a dotted line is called the COVID slide. This suggests without any additional learning experiences that students will slide to this point. Now let's move down to third grade. So we've kind of went through the eighth grade, but I want you to notice specifically the third grade. The gaps for the third graders are larger than the gaps for the eighth graders.  So that's important to think about. And that's true with any summer slide. The younger you are, the more the gaps in the slide. From the last day of school to the first day of the school in the fall semester. So we can go to the reading one now. While the reading graphs are similar, they're not as dramatic. And this is due to the nature of the difference between a course like math and a course like reading.  Math tends to be processes and procedures in nature, and not as recursive as reading is and reading skills. For example, we talk about author's purpose in reading, and we talk about author's purpose with kindergartners, and we talk about author's purpose with 12th graders. So that continues to cycle and recycle in those over the years with more specificity, but things like math tend to be taught once. So let's think about the quadratic equation.  You learn the quadratic equation and you use it over and over, but it's typically taught at one time. And if you miss that you there's a there's a large gap there that you have to go back and teach that specific concept. So I've taken a moment to set context around how we move forward because I think that's important. There's complex factors when you think about your next steps in your next considerations. So,  We're beginning to discuss several options, and all these options that I'm gonna walk you through are specifically face-to-face. So this is to determine if we can get back into school. The first one is a summer option. We thought about 24 days of instruction, could be less, for all K through three students, and invitations for four through eight students. And our high school students would be similar to what we've always done, which was  would be they would be open to courses that they would like to take. The next slide, this is another option. If we could not do summer, then we would look to try to begin school early. And the next two options actually are an extended school year for the 2021. This is, again, suggests starting early. We would perhaps pull in all elementary students because that's where we know the deepest slides are.  But we also could think about which other students we might bring in after our elementary students. And then the last option that I'm putting in front of you is an extended school year. So this is an option to add days to the calendar at the end of the year. And that would be if we weren't able to come to school  before we had in the first of August. I want to also preface, one of the things that will be important to us as we move forward is providing pre-assessments for the learning that students will do. These assessments would encourage teachers to understand before teaching a concept, skill, or process where and if there are learning gaps with the students that they have. And this will be critical as we move forward in the next couple of years.  These are the discussions we've had about near term, summer, and back to school considerations. I'm happy to answer any questions or clarify any of these options, but I will say that these are early plans and that we haven't gotten in a great deal of specificity around them because we are just so unclear about what our next steps will be regarding being able to open. Debbie, it's Dave.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "logistics_info",
+      "clarify",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1271.73,
+    "end": 1306.519,
+    "text": "Hey, Dave.  Yeah. Two, two, two things strike me. First. It's all dependent on whether you can even physically go back together. Right. And that's correct. The second thing is this is gonna. We already have budgetary concerns. How is this going to impact? I mean, you know, we're adding at a month. Do we.  keep you at your income, you're just going to work an extra month, which would be two jobs.",
+    "speaker": "davidoberg",
+    "tags": [
+      "express_concern",
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 1306.999,
+    "end": 1379.227,
+    "text": "How we thought about it is how we thought about this is we get stimulus money, we get we're going to receive about $1.2 million for cares, which is it which is really intended for these kind of purposes. So this would help us.  do at least the first two options. The third option, I think, could get a little bit more complicated depending on who you wanted to extend the school year for, but we also know that as we move through the year, we may have some better revenue pictures or so that, you know, we could make those decisions a little later on as we go forward. We've also, I mean, as we start thinking about this,  This could, you could think about something like this if you were to limit the number of students in school every day. So if you looked at some of the models that we're seeing in other countries, not every child is coming every day. So you might have half the students coming one day or 20% of the students coming. So there's some things like models like that that we really haven't explored yet.  Because again, we don't want to get too far ahead of ourselves.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "logistics_info",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1381.43,
+    "end": 1381.75,
+    "text": "Thank you.",
+    "speaker": "davidoberg",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1387.879,
+    "end": 1389.201,
+    "text": "Any other comments or questions?",
+    "speaker": "debbiecollins",
+    "tags": [
+      "ask_question",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1391.184,
+    "end": 1394.909,
+    "text": "If there are no other questions, I have. Oh, yeah, please jump in.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1395.83,
+    "end": 1402.821,
+    "text": "Have we gotten any guidance from the state in terms of any predictions about being able to open or anything?",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 1403.281,
+    "end": 1403.882,
+    "text": "I have not.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1406.663,
+    "end": 1410.147,
+    "text": " Thank you. Any other questions?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1411.488,
+    "end": 1428.226,
+    "text": "I guess the COVID decline and the usual summer decline, you've given us averages. Are the declines for some of our more vulnerable students greater? Of course.",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 1428.326,
+    "end": 1439.603,
+    "text": "Again, these are averages. So some students, you might not see a decline at all. And other students, you're going  the gaps will be larger. I was just wondering who those gaps were greater for.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "follow_up_request",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 1439.744,
+    "end": 1446.85,
+    "text": "But I mean, it seems to me we can't just pretend that they haven't lost three, four months of school.",
+    "speaker": "kateacuff",
+    "tags": [
+      "express_concern",
+      "opinion"
+    ]
+  },
+  {
+    "start": 1447.351,
+    "end": 1461.865,
+    "text": "And that's part of the reason I wanted to make sure that we looked at some projections, if you will. These are just projections. We don't know. But this is researchers that are looking at this and trying to think about how to think about it.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "request_action",
+      "hedge",
+      "clarify"
+    ]
+  },
+  {
+    "start": 1468.358,
+    "end": 1471.183,
+    "text": " I would just like to say thank you. Oh, I'm sorry.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1471.623,
+    "end": 1495.041,
+    "text": "Go ahead. If we were going to intervene and if we could physically do so, it would make more sense to me to start as early as we possibly could, because otherwise all next year will be shifted till next summer with SOLs and all of that. But challenging. Thank you, Debbie. You're welcome.",
+    "speaker": "kateacuff",
+    "tags": [
+      "policy_proposal",
+      "prioritization",
+      "express_concern",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1497.485,
+    "end": 1524.591,
+    "text": " I just like to say thank you for prioritizing the summer. I mean, it seems intuitive, but there are so many other issues to be facing regarding what's going to happen if we can't go back in next fall, et cetera, et cetera. Getting the priorities in order as you've done for the first things first. Thank you for that. And thank you for this presentation.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "prioritization",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 1525.051,
+    "end": 1544.572,
+    "text": "You're quite welcome.  Oh, now I have one more question, if you don't mind, Mr. Elkaro. If we can't physically have students in the classroom, then our plan B would be a virtual classroom starting this summer?",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 1545.974,
+    "end": 1579.686,
+    "text": "Correct. One of the things that actually Dr. Halstead and I spoke about today is  consider and thinking it might be a good idea to continue our check and connect through the summer, especially if we're not able to have students come in. I think it would be a nice transition for students. It would also allow us to keep checking in and perhaps the learning curve, we could keep it flat instead of pushing it down. If we had just talking to students about what they're doing and how they're doing, not no assignments, but just checking in.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "policy_proposal",
+      "give_update",
+      "clarify",
+      "reassure"
+    ]
+  },
+  {
+    "start": 1584.087,
+    "end": 1586.029,
+    "text": " The assignments couldn't be the worst, but okay.",
+    "speaker": "kateacuff",
+    "tags": [
+      "opinion",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1588.693,
+    "end": 1597.744,
+    "text": "Thank you very much. Next up is our 2020-21 Budget Development Strategies. Ms. Schmidt.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1598.706,
+    "end": 2700.732,
+    "text": "Good evening. Rosalyn Schmidt, Chief Operating Officer. Let me share my screen. I am going to lead the work session this evening, but I do have Maya Kumizawa, our Director of Planning and Budget with us. She's our technical expert, so I may lead on her.  at certain points. I just wanted to start though by thanking Ms. Kumazawa and the entire fiscal services team for just the quality work they have turned around in a very quick timeline. They've done just real detailed work in what has really been just a shifting and evolving landscape. So I just want to thank, first start off by thanking this team. So I just, I'm going to start with this as a reminder of where we are in the calendar.  A week ago, we presented a brief update to the board with the fiscal impacts of the governor's revised budget. Since then, we have surveyed our community on the priorities that we discussed at that meeting. As of yesterday, the General Assembly reconvened and adopted the state budget. It's our understanding, we haven't received the details yet, but it's our understanding that they did not make significant changes to the governor's revised budget.  This evening we do have a work session planned for you around a scenario that balances based on new revenues. And then we will return in two weeks based on feedback tonight with a revised budget recommendation. We are currently planning on producing something, a modified version of section A of your budget document. We also have a public hearing scheduled that day to hear more input from our community.  And then the following week, we will have you adopt your budget for the fiscal year 21. What date is not on here?  I thought about when we saw Carol said we don't have a meeting next week. Next Wednesday, April 29th, the Board of Supervisors is holding a budget work session and the school staff are scheduled to present an update to that board about our current budget situation. So as soon as I receive more specific time, I think it's a multi-hour work session, but once we get more information of when we are scheduled, I will share that with this board.  Our desired outcomes this evening are for you to review and provide feedback on budget strategies that address the priorities we discussed last week. We hope that you review and provide feedback on the budget balancing scenario that we have prepared and are presenting this evening utilizing those strategies. And then with that feedback, we went in direction for developing the revised 21 budget that will be presented May 7.  And after I present, we'll have plenty of opportunities to address any outstanding concerns or questions board members may have. So as a reminder, these were the priorities discussed last week in which we surveyed our community on. These are overarching priorities and guiding principles that we have kept in focus as we make decisions, as we revise and balance the FY21 budget.  As Mr. Jim Merida as announced earlier in the meeting, we had.  great response. I mean, tremendous and encouraging response by multiple stakeholder groups, over 3,000 responses. And so we are still calling through the open-ended responses, but we wanted to first just give a quick snapshot of the quantitative results that we have gleaned from responses to date. So these are the percentages of respondents that either supported or strongly supported the priorities and in ranked order. As  As previously mentioned, there's an overwhelming support around student learning, followed by current employees, equity, the importance of stakeholder engagement, the importance of building contingencies in these uncertain times.  So utilizing those priorities, we have outlined the following strategies. And I'm going to use this slide to frame before we get into the numbers. So when we talk about student learning, the strategy that we are going to keep is that we are going to recommend is that we make departmental and operational rejections first. This allows us to prioritize classroom positions. We are recommending that you add classroom positions to accommodate at least a portion of the anticipated growth.  The financial reality is that we can't fully fund all growth, but we are recommending that a portion of the anticipated growth positions be funded. So while this may slightly increase class size, other staffing standards will be maintained. We talked about equity. The strategy is to keep previously funded proposals from FY20 and prior related to equity.  The strategy is to keep differentiated staffing whole, make no reductions there, and then to continue all current efforts related to equity.  When we discuss current employees, the strategy is that you'll see a recommendation around reducing department positions and FTEs. Just a side note, the FTE will be used multiple times. As a reminder, that's a full-time equivalent, but it refers to a position. So when we talk about department reductions, we would make those reductions where there are already vacancies.  When there's changes to instructional allocations, we will realign instructional positions across schools where possible. And then the third strategy is to not increase healthcare premiums for our employees.  And then contingency and stakeholder engagement. Those are some strategies around maintaining our fund balance and other reserves, being conservative in our revenue forecast, and utilizing other holdbacks and management tools. And stakeholder engagement, I highlighted the survey we've done to the community and the May 7th public hearing. The bullet that I should have added was just continued communication with all groups.  So with that framework, I want to get into the numbers. So we have one slide on revenues. This slide was presented to you last week, and it's been slightly updated with information. So when we talk about revenue estimates for FY21, we draw two comparison points. The first is a comparison point to where we previously anticipated revenues for FY21.  So this would have been in February when you adopted your funding request. As compared to what we anticipated back in February, we are now anticipating a total of fifteen point six million dollars less in revenue. So when we think about it back in February, that was a balanced funding request. It was still a needs based funding request. And so to see a fifteen point six million dollar reduction is very sobering and very revealing to how  quickly and dramatically our economic outlook has shifted. The other point of comparison worth making is comparing our FY21 revenue estimates to our current funding levels, which are FY20's adopted budget. As you see, when we compare our FY21 revenue estimates to current funding levels, you will see an anticipated reduction of 1.8 million. So if we think about current school year, we think,  We know we will have to make reductions in $1.8 million, but we also have to serve a budget increase of 500 students. So those two things are pulling against each other, which makes the next couple decisions challenging, but we feel like we have a scenario that balances that. The last comment I want to make on revenues  Actually ties to miss Collins presentation. None of these revenue estimates are including stimulus funding and the cares act. We are anticipating $1.2 million from that. And we're still getting specifics on what it would be used for, but it is our hope to not use it as a balancing tool, but rather to use it towards those.  either summer opportunities or extended year opportunities to help recover, help our students recover.  So the next couple slides are going to be around expenditures. But before we do that, I think it's important to frame where our money currently goes. So this is a pie chart of how our expenditures are currently organized. The blue is school-based compensation. The orange is department compensation. When we say departments, that's our departments such as building services, transportation, human resources, central office, instruction, and others.  The yellow wedge is department operations and the green is school operations. The intent is to show that we are a people operation. 85% of our budget goes to salaries and benefits. So while we do our best to squeeze the yellow and green wedges, there's only so much that we can do.  So as a reminder, if we rewind back to February, these were our expenditure increases in drivers previously considered. If you recall, we had it organized by our non-discretionary and directed items. We had a second category around growth and demographics. That was $4.8 million that was needed to support the additional 500 students we are anticipating.  The third category was around compensation. It was a teacher salary increase, a classified salary increase, and a raise to our minimum pay rate. And the last category was the smallest, but still very important, were some new strategic proposals. So as we shift to the current financial,  financial landscape, some changes unfortunately have to be made. So first, the first decision we made is that we know that we don't have the capacity for new funding or additional programs. So those strategic proposals in our scenario would not be included. Unfortunately, at this point, compensation  Will not compensation increases will not be included due to the uncertainty of it all. We would strongly recommend making that decision against that decision beginning July one, but we would certainly re-evaluate it throughout the year when we get more specific revenue updates. And then the last two categories just need to be scrubbed and we'll present recommendations on those two.  So when we talk or so just as a reset. So if we had that $1.8 million reduction back in November.  This just reset our mind. Here's how we are recommending FY 21 expenditures as compared to current fiscal year. So the three categories we're recommending, and we have a slide on each of these, but the first is around non-discretionary directed or technical items. We have scrubbed that number and are anticipating $1 million savings in that area. The second category,  we have is around operational reductions. We are estimating a reduction of $2.7 million in that category. And those two reductions yield a little bit of benefit, a little bit extra, I should say, to fund growth and demographics in $1.9 million.  This is a good graphic to show how much things have changed since February. So the bar on the left is the February funding request and the additional funding that would have gone to compensation and growth and discretionary and the strategic proposals. The bar graph on the right shows our current reality with fiscal 21 as compared to fiscal year 20. And you can see the reductions that we were going to have to make and the little bit of growth that we're going to be able to  include in our budget. So now I'll just take each category, the growth, the reductions, and the non-discretionary to provide further detail.  So first we have our non-discretionary and technical estimates. The first item is our baseline technical adjustments and laps. This was included in your previous funding requests. We've just updated and scrubbed the numbers and have been able to yield a reduction of $2.4 million in that category. The next item is new. A team of school staff and local government staff have met in the last month to review our health insurance plan.  And we are recommending that there's not a rate increase. And since one was already previously budgeted in 20, this yields a savings in 21 of $600,000. This would apply to employees as well, so their premiums would not increase. We thought this is very important, considering that we cannot offer a raise.  The other benefit changes include some other things related to health insurance, and they are identical to your previous funding requests. They're not any plan changes or reductions, they're technical calculations.  The next item is the SPED restructure. This has been updated, but it's very close to the previous funding request. And this relates to the changes around the regional programming. So that is a cost increase of $1.1 million. We still have a plan and budget for the VRS rate increase, because we have not heard otherwise that that rate would be held steady. And then again, we have operational changes identical to your previous funding request.  related to lease increases and other building services and transportation costs. The total of that is a reduction of $1 million. The next item are operational  we'll work on operational reductions. The first is a proposal to eliminate the transfer to the learning resources fund. The learning resources fund was previously referred to as the textbook replacement fund. We annually budget a transfer from the school fund to it of $500,000. That's a recurring, annual recurring transfer. We feel the fund is currently healthy enough that that transfer can be post,  transfer can be suspended for one year. So this is more of a one-time item, but we felt appropriate in the current circumstance. The second thing we're proposing is to reduce department and school operations budgets. This $0.8 million reduction is equivalent to about 5% of their discretionary budgets.  The third item we are proposing is to reduce department positions by 15 FTE, which would yield a reduction of $1.1 million. This could be achieved by freezing vacancies, as there's currently vacancies anticipated. There are currently vacancies across multiple departments. And the last is another, we're still working on some miscellaneous details, but things like reducing our reclassification budget and others would be captured  in that category. So the third category we have is around growth. We were able to save and make reductions in the other two categories to yield at least a partial funding of our needs to support our growing student enrollment. So this proposal is to fund five special education positions, 15 classroom positions, and five transportation positions for a total of 1.9 million.  The text on the bottom, though, gives you an order of magnitude of how that compares to the previous request and the identified need if we were to keep all staffing levels and class sizes the same. So I wanted to draw particular attention to the general teacher FTEs. By funding only 15 of the 30 teaching positions needed for additional growth, class sizes may increase by approximately 0.4 to 0.6 students.  This chart compares our average class size to state staffing standards. And as a comparison to state, we have low class sizes, small class sizes. We know this has been a high priority for our community, and we are fortunate that our community has invested and funded these small class sizes. So we don't take this slight increase lightly, and we hope to get it back down in the future.  So in summary, these are the three categories we are proposing as we compare this proposed fiscal 21 budget as compared to fiscal year 20. Again, it's a reduction in non-discretionary and technical items by about a million, some operational reductions around 2.7 million.  and then an increase for support of our growth and demographics. All these figures are estimates at this point. We want feedback before we provide a more detailed budget in two weeks. That is all I have.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "request_action",
+      "prioritization",
+      "defer_to_expert",
+      "acknowledge",
+      "reassure",
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 2700.752,
+    "end": 2733.497,
+    "text": "I have a very off the wall. I'm sure we can't do this.  but I need Ross and Rosalind to tell me why we can't do this. Is it legally possible to redirect money from the,",
+    "speaker": "davidoberg",
+    "tags": [
+      "request_action",
+      "ask_question",
+      "defer_to_expert",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2738.371,
+    "end": 2751.77,
+    "text": " The money, the budget, the capital, the capital budget, the capital budget temporarily to the, to the operational budget.",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "clarify",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 2754.794,
+    "end": 2761.623,
+    "text": "Correct me if I'm wrong, but I think the board of supervisors is cutting back on capital dollars as well.",
+    "speaker": "rossholden",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "hedge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 2762.485,
+    "end": 2782.985,
+    "text": "I know, but there's a lot of money. I mean, is it, if you, if,  If you could do it, if the dust aligns such that you could do it, can you legally do that? Or is that money earmarked for capital projects sacrosanct?",
+    "speaker": "davidoberg",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 2783.125,
+    "end": 2784.787,
+    "text": "It has to be spent on capital projects.",
+    "speaker": "davidoberg",
+    "tags": [
+      "clarify"
+    ]
+  },
+  {
+    "start": 2788.031,
+    "end": 2804.389,
+    "text": "I don't know offhand, but with respect to capital projects,  Are those paid for through the issuance of obligation bonds and operational dollars or from tax levy?",
+    "speaker": "rossholden",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2806.512,
+    "end": 2831.007,
+    "text": " So I think it would be a decision with, obviously with the board of supervisors, there is a cash portion of the capital budget that I guess would be a decision point, but there is debt that they need to pay off. And so I think their options are very limited and wouldn't yield many, much dollars to make a big impact, but that's a conversation with the board of supervisors.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "give_update",
+      "clarify",
+      "defer_to_expert",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 2832.69,
+    "end": 2864.734,
+    "text": "I'm just thinking, given the,  given the circum, I mean, this is, Judy and Ellen will probably remember I told them at one point, being on the school board is the greatest thing you'll ever do, but sometimes it just sucks. This is one of those moments for me, because we're like, wow, we finally turned to the corner, we're finally able to start doing the stuff that we want to do, and then we're hit with this again. And it feels like we're just kicked back to the starting line.",
+    "speaker": "davidoberg",
+    "tags": [
+      "express_concern",
+      "opinion",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2869.49,
+    "end": 2872.495,
+    "text": " Rosalyn. Oh, are you finished, Dave?",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2872.515,
+    "end": 2891.363,
+    "text": "Yeah, I don't have any. I'm sorry, I'm just I feel very, very frustrated that that we had the position. We told our staff, hey, look, we're going to start funding this. We're going to get you some some raises that you've deserved for seven years.",
+    "speaker": "davidoberg",
+    "tags": [
+      "express_concern",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2891.647,
+    "end": 2893.51,
+    "text": " or longer, yeah.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 2894.151,
+    "end": 2907.773,
+    "text": "Now we're just totally taking that out and we're putting them in a position where we're going to have more students per class. That's frustrating. Obviously, it's nobody's fault. I really appreciate everything Rosalyn's done. It's frustrating.",
+    "speaker": "davidoberg",
+    "tags": [
+      "express_concern",
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2909.997,
+    "end": 2950.713,
+    "text": "Rosalyn, in the slides you had with our class sizes and you compared that to  state staffing standards aren't those staffing standards do we have like state averages because aren't the staffing standards notoriously low or how i mean much larger class sizes yeah so teachers per student are low  at the state level and almost every school division exceeds those. I would like to know what the average class size is. I mean, I know we're on the low side, but I don't know that I like the comparison to the state standards.",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "clarify",
+      "express_concern",
+      "disagreeing"
+    ]
+  },
+  {
+    "start": 2951.614,
+    "end": 2972.484,
+    "text": "I know one of the things that, Rosalyn, they were trying to get was market class sizes, but I do think those standards in lots of localities are exceeded. So those are what the state  sets, but the only one that they really ask you about are your English classes. The rest of them no one ever asked about in SOQs.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "give_update",
+      "clarify",
+      "opinion",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 2982.033,
+    "end": 2999.401,
+    "text": "And I know I could do the math, but I know years ago, I guess out of the Great Recession, we had every quarter of a student increase equal how many dollars? Like  Well, it doesn't matter. That's right.",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "hedge",
+      "clarify"
+    ]
+  },
+  {
+    "start": 2999.581,
+    "end": 3013.918,
+    "text": "That was in budgeting in the last few years when we were considering the cost. And I don't remember what that number was. But I remember what you're saying is happening just in the last two or three years.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "hedge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 3014.498,
+    "end": 3020.165,
+    "text": "So if we did it by a quarter or a half a student, and now we're up to 0.6. So I guess I can do the division.",
+    "speaker": "kateacuff",
+    "tags": [
+      "clarify",
+      "request_action",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3020.485,
+    "end": 3026.312,
+    "text": "Yeah, that's right. I was going to say, I can do it quickly after we have it. I just don't have it off the top of my head.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "acknowledge",
+      "reassure",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3029.768,
+    "end": 3030.589,
+    "text": " Other questions?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3033.693,
+    "end": 3055.0,
+    "text": "I guess one thing we have discussed in previous awful budget years was whether we would differentiate the increase in class size by grade level, like maybe a smaller increase from elementary versus, especially since they're showing the greater decline over the summer and the COVID.",
+    "speaker": "kateacuff",
+    "tags": [
+      "policy_proposal",
+      "express_concern",
+      "hedge",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 3056.482,
+    "end": 3066.158,
+    "text": " And that's where the point for is a point for is in the elementary school. Okay. And the point six is in the I think in middle and high is it. Needed. Point four is K three.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "clarify",
+      "give_update",
+      "logistics_info",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3066.178,
+    "end": 3077.376,
+    "text": "Okay. And then everywhere else. Point six. Okay. Okay. I must have missed that. No, I did. We just presented as a range, but that's the where the number is calculated from",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "acknowledge",
+      "clarify"
+    ]
+  },
+  {
+    "start": 3082.013,
+    "end": 3172.873,
+    "text": " Just a couple of quick comments. One comment, one question. I think that one of the great things that has been managed by the division is the health care costs. Because our brethren in Charlottesville  schools are having their health insurance premiums grow by double digits in their budget this year. And for us to keep it steady for two years in a row is terrific. It's really good management of the reserves. And I thank you for that.  One nit-nit question goes back to what was to be funded with EDEP, and I understand that that is not happening. The one question I have, though, is that they were paying about $85,000 or $87,000 to the division every year, and that had been  taken back or given back under the 21 budget. Is that still the case or will they continue to submit payments from their revenues? The way this scenario is built is that what they've done in FY20 would continue.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "ask_question",
+      "clarify",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 3172.913,
+    "end": 3181.663,
+    "text": "So they would transfer that $87,000. If you wanted to eliminate it, we would have to make $87,000 cuts somewhere on the school fund.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "clarify",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 3181.93,
+    "end": 3189.807,
+    "text": " Sure, I understand. I'm just, I was just wanting to know what is. And so, okay. Okay. I have one quick.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "ask_question",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 3189.827,
+    "end": 3219.462,
+    "text": "You finished Jenna. Yes, Graham. Sorry. Okay. With our teachers and staff. Can we keep them abreast along the way of.  I'm pretty sure they all know anyway, but why we need to make the changes that we are making now and to sort of let them know that we would like to do something and will when we can, you know, let them know along the way. Mr. Page, I think that's a great point.",
+    "speaker": "grahampaige",
+    "tags": [
+      "request_action",
+      "reassure",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3219.502,
+    "end": 3236.039,
+    "text": "I think in communication, both to our community, but also our staff is very important. So we knowing this work session is talking about some very detailed and hard things.  We do plan on communicating and making a broad communication tomorrow, and we will continue to do that as we provide updates.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "prioritization",
+      "public_addressing",
+      "reassure"
+    ]
+  },
+  {
+    "start": 3236.74,
+    "end": 3251.201,
+    "text": "OK, thanks. And Rosalyn, didn't Dr. Haas have a meeting with the AEA leadership last week, last Friday or so, to advise them as to what was happening?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 3252.243,
+    "end": 3256.369,
+    "text": "Yeah, I actually talked to him last Thursday right before the school board meeting.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "give_update"
+    ]
+  },
+  {
+    "start": 3256.585,
+    "end": 3263.513,
+    "text": " Okay. And so they understand what's happening and probably are disseminating it?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3264.714,
+    "end": 3277.668,
+    "text": "I'm sure they are. But I think the best thing to do is like Rosalyn was saying, which is to put out email communications to our staff because they're looking at their email and they're paying attention to the situation.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "policy_proposal",
+      "request_action",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 3278.589,
+    "end": 3281.192,
+    "text": "I agree.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "agreeing"
+    ]
+  },
+  {
+    "start": 3281.813,
+    "end": 3330.865,
+    "text": " say, I think that it would be appropriate for, for Jono to send out an email from the board, you know, just from a, just from a, we really, we really appreciate everything you're doing because they really are doing, I mean, our staff are doing an amazing job and we won't forget that. I mean, that's easy to say, hard to do, but we're not going to forget that. And we're not going to forget that, that  They deserve the money. All of our employees deserve to be making more, and God knows we wish we could. I just think, Jono, it would be appropriate for you to send some sort of communication. I agree with that, Dave.",
+    "speaker": "davidoberg",
+    "tags": [
+      "request_action",
+      "acknowledge",
+      "reassure",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 3330.885,
+    "end": 3375.953,
+    "text": "I've got it down, and I'll work on that tomorrow.  One other thing I'd like to do is to thank Rosalyn and Maya for their sessions that they held with members of the board this week to go into some of the details and at least give us some advanced warning of what the strategy was. The one that I was in, I thought was terrific.  And so I thank you for that, because rather than getting hit with no background to it, we really appreciate it. So I'd just like to thank you on behalf of the board.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "give_update",
+      "acknowledge",
+      "public_addressing",
+      "opinion"
+    ]
+  },
+  {
+    "start": 3377.977,
+    "end": 3381.003,
+    "text": "But we appreciate everyone's time. It's helpful for staff as well.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3383.969,
+    "end": 3385.632,
+    "text": "Other issues, other questions?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3387.772,
+    "end": 3409.262,
+    "text": " I guess this goes to our virtual learning. Are there plans to survey our teachers on what was working or what other help they needed or whether everything was peachy? What kind of feedback are we hoping for from the teachers or have you been doing that all along the way?",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "clarify"
+    ]
+  },
+  {
+    "start": 3410.163,
+    "end": 3465.801,
+    "text": "Because we're looking at this stand up of the virtual school as a program, Jamie Gellner  and Patrick McLaughlin have been working on a formal program evaluation of our rollout. And we will be surveying students, families, teachers. They're working on a survey right now to push out midway through the program and then at the end so that we can learn from how we did and then anticipating needing to do further virtual programming or just  learning from it so that we can better utilize the tools that we have throughout the school year. I think it'll be a goldmine of information for us. So that's a great suggestion. We're on it. It's a great suggestion, but you're ahead of me as usual, Hamid. We're channeling you.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "give_update",
+      "acknowledge",
+      "reassure",
+      "agreeing",
+      "opinion"
+    ]
+  },
+  {
+    "start": 3466.361,
+    "end": 3470.506,
+    "text": "Ah, OK.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3470.526,
+    "end": 3473.208,
+    "text": "Kate, it's back that we hired the correct superintendent.",
+    "speaker": "davidoberg",
+    "tags": [
+      "reassure",
+      "opinion"
+    ]
+  },
+  {
+    "start": 3473.909,
+    "end": 3477.853,
+    "text": "All right, I'll disappear again. That's all us.",
+    "speaker": "davidoberg",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3478.93,
+    "end": 3489.572,
+    "text": " You're mute, Jono. Jono, turn your mic on.",
+    "speaker": "kateacuff",
+    "tags": [
+      "request_action",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3496.987,
+    "end": 3528.512,
+    "text": "I'm new at this.  Miss Schmidt, thank you so much for the presentation. And to Miss Kumazawa, I know she didn't come on, but for the hard work that you all have put into this and the good strategies that you're putting together. I look forward to seeing the full proposal and to the public hearing on May 7th. Thank you. I'm losing dates. Yes, thank you. OK.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3529.96,
+    "end": 3634.975,
+    "text": " Is there any other business that the school board has for this evening or the superintendent has for this evening? I just want to thank our staff. I, you know, I want to reiterate what you were saying earlier, Jono, you know, that finance department, they've, they have done what they normally do, you know, starting in October, November and work on it all the way through February.  they've been doing in just a matter of a few days to turn things around again. And they've just done excellent work. You know, to me, the situation is negative in a very pure sense, it's negative. But the positive part of it is that  The relationships we've built with local government and their finance department. We'll have a steering team tomorrow with local government and debrief and keep planning. All those positive relationships that we've built over time, I think, are paying off in a time like this. The only way it could be worse is if we didn't have good communication and collaboration and really creative thinking in alignment with the local government. That would make it far worse, I think.  So I just want to thank all of our staff and again take this opportunity being at the school board meeting to thank the school board for continuing to have these meetings and not shutting down your meetings or just waiting for someone from the outside to give guidance on what to do. You all were on the cutting edge of that and I think  Having these meetings in the interim has really helped us to move forward at a more rapid pace to transition to a different economy that we're operating in. So I just want to thank you all. Thank you very much.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "procedural_move",
+      "acknowledge",
+      "reassure",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3637.979,
+    "end": 3641.865,
+    "text": "Guys, I just want to say how much I miss you guys, and it's good to see you guys.",
+    "speaker": "davidoberg",
+    "tags": [
+      "acknowledge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 3641.885,
+    "end": 3642.866,
+    "text": "It's great to see you all.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3643.728,
+    "end": 3651.278,
+    "text": "You guys are some of my best friends, and this is a good reason to meet with you guys, and I'm glad we can.",
+    "speaker": "davidoberg",
+    "tags": [
+      "reassure",
+      "opinion",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3652.743,
+    "end": 3674.084,
+    "text": " I've got to give a lot of credit to Mr. Holden for that because he has really led the way in terms of championing the virtual school board meetings and finding ways to make it happen. And so to Mr. Holden, thank you very, very much for that. I'm sorry, Dr. Acuff.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3676.086,
+    "end": 3681.872,
+    "text": "All I said is I'm very glad Judy's feeling better and couldn't have been. Thank you very much.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "reassure"
+    ]
+  },
+  {
+    "start": 3683.675,
+    "end": 3691.002,
+    "text": " So if there is no other business, we are adjourned. Goodbye, everybody.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move",
+      "public_addressing"
+    ]
+  }
+]

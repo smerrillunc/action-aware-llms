@@ -1,0 +1,1626 @@
+[
+  {
+    "start": 1.832,
+    "end": 4.373,
+    "text": " Susan, Catherine, Susan.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5.294,
+    "end": 28.827,
+    "text": "Good morning, everyone. Welcome to our Christmas meeting and end of another unusual year, I suppose. But it's great to see everyone here and I look forward to having this meeting and everybody getting a bit of a break over the Christmas and New Year. And welcome to you, Sue, as well.  Yeah, early, but well.",
+    "speaker": "mayor",
+    "tags": [
+      "public_address",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 30.028,
+    "end": 33.351,
+    "text": "Right, I'm just going to watch until I find it. Yeah, absolutely.",
+    "speaker": "milner",
+    "tags": [
+      "agree",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 33.371,
+    "end": 67.277,
+    "text": "Okay, well, I'll start the meeting off as usual with the apologies. Item number one, and I have two, one from Liz Stolwick and Mike Pettit. And everyone else is here. So can I have a mover and seconder for those apologies? Claire, thank you, and Marcus?  I'll put that, all those in favour, please say aye or wave your hands. Aye. Contrary, carried. Thank you for that. Item two, disclosures of members' interests. Do we have any?",
+    "speaker": "mayor",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "summarize_outcome",
+      "public_address",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 68.317,
+    "end": 74.399,
+    "text": "Yep, Your Worship, both in public excluded. Items 28 and 29. Thanks, Phil.",
+    "speaker": "philipcoles",
+    "tags": [
+      "procedural_move",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 82.697,
+    "end": 135.934,
+    "text": " Right, thank you for that. Item three, are there any late items? No, that's great, so we'll move on. The confirmation of the order of the meeting. I haven't been notified of any changes, so as per the agenda. Graeme, are you moving? And a seconder from Lou. All those in favour?  Aye. Aye. Contrary, carried. Thank you for that. Item five, council's update on attendances. If there were any over this strange period, but I'll just, rather than try and go around the room, I'll pick you as your hands go up. Claire, I saw you indicate, and then I think Andrew.",
+    "speaker": "mayor",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "confirm_next_step",
+      "summarize_outcome",
+      "public_address"
+    ]
+  },
+  {
+    "start": 137.372,
+    "end": 282.246,
+    "text": " Yeah, thanks, Jim. I attended the emissions workshop that sort of looks at New Zealand examples of what's happening to reduce emissions or action to do with climate change. And it's really valuable because it's all about, you know, what New Zealanders are doing. And the focus this year was really about the supply chain.  and how there's a new reporting framework coming out called the TCFD. I think it's the Task Force for Climate Related Financial Disclosures. And that's focused on the supply chain. And so all of those bigger corporates that are involved in that, they'll be looking at their portfolios and looking to reduce their emissions.  I will expect councils to be part of that group, actually, eventually. Yeah. But that could drive some really big changes. Yeah. And the other interesting thing was the emerging importance of biomass as an alternative way of generating electricity. Yeah. So which is going to mean forests become  much more important and seen as a source of energy for communities, really. And it doesn't have to be like the big logs or anything. It's more the scrap stuff, actually. Yeah, so that was quite interesting. And then the other thing I participated in was a climate action forum that was sort of facilitated by the regional council. And I think it was part of the Waikato plan, possibly. And again, it's just about, yeah, all those players within the Waikato,  and what their interests are. And it's a way for people to hook into stuff that is happening, sort of find allies and partners and yeah, yeah, like-minded people and yeah, get something, get some more going. I've been quite struck by the passion being shown by the younger people that are involved in that, like there's a school strike for climate change representation on there.  But generally, quite a broad range of stakeholders that are involved with that. So that's about me.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "provide_information",
+      "cite_reference",
+      "community_reference",
+      "state_opinion",
+      "report_back"
+    ]
+  },
+  {
+    "start": 282.946,
+    "end": 298.132,
+    "text": "Yeah, thanks, Claire. When you look at what's happening around the world with extreme weather events, it's something that we've all got to be working on, isn't it? So thanks for attending this. Andrew. Thanks, Your Worship.",
+    "speaker": "mayor",
+    "tags": [
+      "public_address",
+      "prioritize_issue",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 298.592,
+    "end": 328.937,
+    "text": "I attended the airport AGM  a couple of Fridays ago. Challenging year, of course, in terms of flying, but very successful with their industrial developments. Quite a presentation about where they're planning to go in the Northern Precinct. And of course, Southern Links, if it happens, will impact as well. But yeah, so everything's going fine there. Cheers. Thanks, Andrew.",
+    "speaker": "andrewbrown",
+    "tags": [
+      "report_back",
+      "provide_information",
+      "summarize_outcome",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 330.997,
+    "end": 336.216,
+    "text": "Lou, and then Phil.  Yes, through you, Chair.",
+    "speaker": "mayor",
+    "tags": [
+      "procedural_move",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 336.676,
+    "end": 392.138,
+    "text": "We attended the Civil Defence Joint Committees, and we actually had quite an interesting statement. But it actually seems that the Government is rewriting the Civil Defence Act, which it will present to us in a draft form on the 17th of January. It means that we've all probably got to be aware of this, and as per usual, the timeframe for submissions is  three to four weeks. And it comes out over a holiday period. This is such an important infrastructure that I honestly think that we have to be well aware of it. And I've actually had some talks with other members and we will have to be aware of what they're asking us to do. And we can't allow an important infrastructure such as civil defence to be put to one side. So we really need to be upfront and prepared to react to it.",
+    "speaker": "loubrown",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "prioritize_issue",
+      "express_concern",
+      "persuasion_attempt"
+    ]
+  },
+  {
+    "start": 394.369,
+    "end": 416.922,
+    "text": " Thanks, Lou. It's just indicative of the speed in which these changes are coming through at the moment, and you're dead right in terms of trying to keep on top of it. So if you need anything or work through local government New Zealand, you know, a coordinated approach is obviously going to be needed. Okay, thanks, Phil.",
+    "speaker": "mayor",
+    "tags": [
+      "agree",
+      "reassure_stakeholders",
+      "defer_to_authority",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 418.308,
+    "end": 555.649,
+    "text": " Thanks, Your Worship. I think it's been probably a couple of months since we updated, we're allowed to update or not allowed to update, but have had an opportunity to update. But anyway, there was the Zone 2 meeting a couple of months ago, and I've been to a couple of those now, and I really find them really beneficial, not only you building up a relationship with other fellow councillors and mayors and what have you,  CEs, but they're just really beneficial and you learn a lot from those. So I enjoy those opportunities. The Chamber had their employment webinar that Andrea Toiro hosted a few weeks ago. Another Chamber webinar was on hospitality and Jason Dawson presented on that. And we received his email yesterday of his new employment opportunity, which is great.  Also, morning tea with the Rest Haven residents yesterday. So I go around and see them every now and again and a few other rest homes around the place. I'm going to Bupa this week as well. St. Peter's School, the trust board have met with me a couple of times or have contacted me a couple of times with discussing potential bridge corridors on their land when that opportunity comes up.  Hopefully, that's not too far away, personally. The Carter's Flat webinar as well on the rezoning and then Perry Group, they contacted me a few weeks ago and did a presentation on their modular home project that they're looking at doing on Peak Road. And I think the housing  committee has seen that as well. And then lastly, the Ohaupo pedestrian crossing webinar, which Eric presented to some residents of Ohaupo and anyone else that wanted to listen to that webinar. So that's really, I mean, as we know, that's a really busy road, that incredibly busy road and going through one of our great little towns, villages or towns or whatever you'd like to call it.  settlements. So yeah, really, it's really exciting for them. So well done to them. Yep. Thank you.",
+    "speaker": "philipcoles",
+    "tags": [
+      "report_back",
+      "provide_information",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 556.731,
+    "end": 741.13,
+    "text": "Thanks, Phil. Was there any anyone else had anything?  OK, so look, from my perspective, I've been pretty heavily involved with what's now being called Communities for Local Democracy, and that's that grouping of, I think it might be 23 councils now, but definitely 22 in terms of the Three Waters reform, and obviously flow on concerns about the rapid changes, whether it be in  civil defence or housing intensification. We might as well not have bothered making a submission on the housing bill that came through and making submissions to the select committee. I think that's going to get pushed through regardless.  But I've got a meeting tomorrow in Wellington regarding the Three Waters, and the group has managed to arrange meetings with ACT and Greens and National, and we're still waiting for the Prime Minister to respond to the request to meet with her. So, I'm putting the case forward as we see it.  obviously change is necessary in certain parts of the country, but not one size fits all. And we've also got a meeting teed up with Castalia who critiqued  the earlier work done by DIA and were somewhat sceptical, I suppose, of the costing and the projected savings that were put forward. So we're looking to meet with them and also have a meeting tied up with Doug Martin, who's the chair of the DIA working party, that's to report back  to the DIA Minister Mahuta, I think around mid-February. And government has put up, as we all know, has paused the work on the Three Waters reform until that committee reports back to the Minister.  somewhat sceptical about the impact that they will have. It seems that they have already made up their minds. So we're fighting a rear guard action as it were, but I think it's still worthwhile pursuing points of view, looking to maintain ownership and control of those water assets. Obviously want to improve  water quality, drinking water quality and environmental outcomes, but not in the way that's being proposed. Claire, you've put your hand up.",
+    "speaker": "mayor",
+    "tags": [
+      "ask_question",
+      "provide_information",
+      "community_reference",
+      "express_concern",
+      "state_opinion",
+      "persuasion_attempt",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 742.07,
+    "end": 786.63,
+    "text": "Yeah, because I heard a news item on the weekend to say that there were documents sourced that the government had made up their mind to, you know, force Three Waters Reform, mandate it well in advance of any of the  sort of what they call consultation with councils, which I would have thought LGNZ and this group that we're part of would actually be calling for the minister's resignation, because I just think it's a complete betrayal of good faith, actually. And Jim, I have to say too, I agree with what Claire's saying, because everybody, many, many people are now talking about it, and they've taken an interest in it,",
+    "speaker": "clairestpierre",
+    "tags": [
+      "express_concern",
+      "state_opinion",
+      "persuasion_attempt",
+      "agree",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 787.127,
+    "end": 824.012,
+    "text": " And I just explained to those that you're doing a great job for us, but it looks like it doesn't matter how hard you work at it, maybe it's just gonna get there anyway. And I think that's all wrong. I'm interested also in seeing what can the community do about backing you up. So you did bring that up at one other meeting as to what could we do. And I think we just, those of us that were looking for something to do could actually,  Give us some advice. How can we motivate our communities to say, we do not want this to happen? Yeah, okay.",
+    "speaker": "hazelbarnes",
+    "tags": [
+      "express_concern",
+      "ask_question",
+      "community_reference",
+      "persuasion_attempt"
+    ]
+  },
+  {
+    "start": 824.212,
+    "end": 1162.479,
+    "text": "A couple of comments there. Claire, I agree with your assessment, if in fact,  It is true that the decision was made months ago to mandate it. We need evidence of that before we start criticizing. It's certainly based on newspaper reports. You'd have to say that that's the case. And you would  wonder about the memorandum of understanding that local government entered into with the Department of Internal Affairs to act in good faith, if that is actually fact. So that needs to be determined. And Hazel, in terms of your comment,  One of the issues tomorrow is to actually launch the campaign, I suppose, from a publicity point of view. So we've all been\u2014all the mayors that are going down to Wellington have been asked to take their chains for a photo opportunity at Parliament. And so we will  kick that off tomorrow, and I can then send everybody out the draft consultation document. And the intention is to go as public as we can, put the facts out there as we see them, and try and debunk some of the myths, such as the number of people that are getting sick through drinking water throughout the country, just how bad the water supplies are. And when you look at them compared to  international standards, they feature really highly. So, there's a lot of myths out there, and we need to put the counter point of view. And I suppose councils were hamstrung to start with, because  government was saying we can't go out and consult with our public because we don't know what the proposition is. So everybody was sitting on their hands and expecting to still have the opt-out clause, and that was withdrawn effectively  a couple of weeks ago. So yes, look, it's ongoing. I still think it's worthwhile trying to pursue it. But as I say, at the moment, I suspect that it's going to be a fait accompli really, but we may be able to secure some changes.  The other issue that's been occupying me quite a bit during the month is the future proof hearings that we've had. And that was three days of hearings last week. And there's a significant push from developers around the major urban areas within the future proof.  three councils, I suppose, Hamilton City, Te Amuru and Cambridge, as far as we're concerned, and North and Pocono and Tikawhata and places like that, with really high demand for residential sections and massive areas of land being proposed to be turned into residential developments with  with, in my opinion, not too much forethought in terms of the whole community that's necessary when we build these communities. And going back to Claire's issues about climate change and trying to limit the carbon use, setting up  dormitory settlements away from work is not a wise move in the long term, because people have just got no option but to drive backwards and forwards to work because there's no or not significant public transport. So they're all issues that we'll need to debate, I suppose, in the new year. But certainly, there is a  and almost feeling like there's a gold rush to try and develop residential sections because of the price. So there'll be a lot of pressure there. So they're the main ones, and I've done a couple of videos for the Friends of Council instead of our normal Christmas do, which is a shame that we've had to cancel that, and a Christmas message for the council as well. So they'll be going out.  Well, the Friends of Council one has already gone out and the Christmas message will be just before Christmas 23rd or 24th. I'm not sure of the date. Gary might know, definitely. So that's probably the important points for my month.  let you know what happens in Wellington tomorrow and just what the feedback is on the three waters. So, if there was nothing else, we move to item six, which is the confirmation of the minutes meeting held on",
+    "speaker": "mayor",
+    "tags": [
+      "agree",
+      "clarify_point",
+      "provide_information",
+      "assign_action",
+      "prioritize_issue",
+      "express_concern",
+      "report_back",
+      "confirm_next_step",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1164.949,
+    "end": 1208.904,
+    "text": " Bishop, perhaps if I could jump in here. Yeah, sorry, Gary. There's a minute for the meeting on the 24th of, sorry, the 19th of May. That was the special meeting where we considered the Maori ward issue. I've asked governance support how this has happened, and effectively, there were a raft of minutes went out that month  with LTPs, council meetings, and this was simply overlooked. We discovered it once we started looking back at the representation review material following appeals. And so humble apologies for this. It was overlooked. I'm assured there's a process in place so that it won't happen again.",
+    "speaker": "garrydyet",
+    "tags": [
+      "report_back",
+      "provide_information",
+      "clarify_point",
+      "summarize_outcome",
+      "reassure_stakeholders",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1210.386,
+    "end": 1317.402,
+    "text": "Thanks, Gary.  So yeah, that's when I just, I read it the other day and I didn't check the date on it, but just when I went to ask for a mover and seconder, I realised it was back in May. So look, the minutes are there. Can I have a mover and a seconder to receive those minutes? Move Councillor Gordon and Councillor Gower. All those in favour? Councillors say aye.  Carried. So, were there any questions that anyone had or comments that anyone wished to make on those minutes? So, can I have a mover and second that they're true and correct record of the meeting? Councillor Andrew Brown and Phillip Coles. All those in favour? Aye. Contrary. Carried.  Some more current minutes, the confirmation of the minutes of the 26th of October. Mover and seconder to receive those, Roger Gordon and Claire St-Pierre. All those in favour? Aye. Contrary? Carried. And if we just go through those quickly in terms of any comments that anyone wants to make. Page one.  two, three, four, five, six, seven. Oh, sorry, Claire.",
+    "speaker": "mayor",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "ask_question",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 1317.702,
+    "end": 1355.068,
+    "text": "No, that's all right. It is on page seven. I'm sure Joe will be able to help me with this. You've got a table there with the population estimates for Cambridge,  and Te Mutu wards, but they don't match the population estimates over on page 10 for the community board ones. And I can't remember why. I mean, they're supposed to, the community board ones are supposed to match the ward boundaries. I'm sure you mentioned it when you were discussing it, Jo, but I couldn't remember why.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "defer_to_authority",
+      "express_concern",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 1356.243,
+    "end": 1377.055,
+    "text": " because what we do, they're slightly different figures because the councillor one will reflect the M\u0101ori ward and the numbers have been taken out of that. But for the community boards, we use slightly different numbers because they don't have to factor in the M\u0101ori ward. So. Cool, cool. Thank you very much.",
+    "speaker": "manager",
+    "tags": [
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1377.676,
+    "end": 1378.476,
+    "text": "That makes sense.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 1379.217,
+    "end": 1404.436,
+    "text": "Thanks, Clare. Eight, nine,  10, 11, 12, 13, 14, and 15. So everyone's happy and you're happy with the explanation, Clare?",
+    "speaker": "mayor",
+    "tags": [
+      "summarize_outcome",
+      "ask_question",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 1405.216,
+    "end": 1407.738,
+    "text": "Very much so, I'm happy to move it.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "agree",
+      "procedural_move",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 1409.58,
+    "end": 1506.537,
+    "text": "And seconded, moved Councillor St Pierre, seconded Councillor Gordon. All those in favour?  I. Drew Crickworth. Contrary. Carried. Item eight, confirmation of the minutes of the 23rd and 30th of November. Can I have a mover and seconder? Councillor Lou Brown and Councillor Weber. All those in favour? I. Contrary.  Carried. Just could you give me 30 seconds to open the door and let the cat out? The joys of working from home. Sorry about that. So quickly going through the minutes as we do. Page one. Two.  3, 4, 5 and 6 should be it. So, everyone's happy with those minutes. So, I move and second that they are true and correct record. Councillor O'Regan and Councillor Andrew Brown. All those in favour. All contrary. Carried.  Item number nine, documents signed under seal. They're just warrants, Gary?",
+    "speaker": "mayor",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "summarize_outcome",
+      "ask_question",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 1507.397,
+    "end": 1527.141,
+    "text": "No, Your Worship, there is one there that requires a better explanation, and that's the deed of variation of lease, which was one for Go Waip\u0101, and it provides for them to have the ability to sublease. So, where you might have a cafe in the tamu events centre, if I could say. So, that was signed under a delegated authority and seal applied.",
+    "speaker": "garrydyet",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "report_back"
+    ]
+  },
+  {
+    "start": 1529.762,
+    "end": 1534.716,
+    "text": "Thanks for that, Gary.  Were there any questions that anyone had, Claire?",
+    "speaker": "mayor",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1535.636,
+    "end": 1556.063,
+    "text": "Yeah, just in the table, the titles for each of the columns. Yeah, like the first one's position for warrant, but underneath you've got people's names. I think they need to be swapped over for the first page. Yeah, that's all. And so that the name of staff is actually on the right-hand side.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "clarify_point",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 1557.907,
+    "end": 1592.581,
+    "text": " Yeah, thanks for that, Claire. That's obvious. The list is on the, around the wrong way. So with that, with those changes, can I have a mover and a seconder for the recommendation? Bruce and Claire. Thank you for that. I'll put the motion. All those in favour? Aye. Contrary. Carried.  And now we're on to item 10 and welcome Sue for the Cambridge Community Board Annual Chairperson's Report.",
+    "speaker": "mayor",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "summarize_outcome",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 1594.122,
+    "end": 1594.503,
+    "text": "Thank you.",
+    "speaker": "clairestpierre",
+    "tags": []
+  },
+  {
+    "start": 1596.044,
+    "end": 2182.96,
+    "text": "Thank you. It's been a mixed year due to COVID-19.  Can everybody hear me? We've noticed, Sue. Yes, and Zoom meetings, while good under the circumstances, have not been ideal. The Cambridge Community Board looks forward to returning to regular meetings as restrictions are eased. In April this year, the Community Board was able to hold ANZAC services at the Town Hall, unlike last year. The two services were well attended, particularly the dawn service, although it was very cold and as there were a small number of people present,  that required some assistance due to the cold, we may need to give some thought as to how we prepare for next year's service. The services are organised by a joint committee of the Community Board and the Cambridge RSA. The RSA members are excellent at ensuring that correct military protocols are followed. We are also grateful to the Cambridge Brass Band for their attendance and musicianship.  Sadly this year it was the Armistice services that had to be cancelled, though wreaths were laid at the Cenotaph, the Memorial Park gates and the RSA section of the Hatapu Cemetery. On November 4th, wreaths were also laid on behalf of the RSA and the Cambridge Community Port and  board and its Lekinwa committee at the Lekinwa sculpture to mark the anniversary of the liberation of our sister city Lekinwa in France by the New Zealand Regiment in 1918. Messages were exchanged with Lekinwa on this occasion and also on Anzac Day. In December, our sister city in Japan, Pohoro, sent Christmas gifts to the members of our community board  including face masks, much appreciated, and photographs. Arrangements have been made to reciprocate these gifts this Christmas. This year, the New Zealand Sister Cities Conference was held at Te Papa in Wellington and attended by Graeme Webber, Alana Makai and myself. There was some good discussion on the value of these international links that were largely positive. The Sister Cities organisation has undergone a name change. It is now Global Cities.  On the local scene, the community board has been busy. This year, we have established pop-up community gardens. This is a project led by board member Elise Badger, and she has received good help from council staff as to locations of preparation. Currently, there are three neighborhood pop-up vegetable gardens. Two are on reserves in Leamington, and the newest is on a street verge in Cambridge. Each garden has local guardians keeping a watch on them  And these gardens are proving to be popular with residents who are able to source vegetables, herbs, and fruit from these gardens. There will be more as we find suitable sites. The board is grateful to the council reserves team for their assistance in this project.  Jo Colley Davies is our representative on the Cambridge Committee of Social Services, which is a particularly busy committee in this community. And she's been able to keep the board up to date with the work being done in the community for those needing welfare and other assistance. Currently, that particular committee is running its annual Christmas chair program, providing food, children's Christmas gifts, and other necessities for those facing hardship. Our little library,  The Empire Street phone box continues to be very popular. This year it got a new paint job, new shelving, and a mural to cover the back view of a shelf. We have a local resident who's willing to pay for another secondhand phone box. They're actually quite expensive, but they have offered. And we would like a suitable site in Leamington, please. Another of our connections with the community is our rural tour.  Over two Saturdays in May, our board members, Cambridge councillors, and two regional councillors undertook our rural tour. We met with communities at Whitehall, Temiro, Fencourt, Horohoro, Mangatatari, and Mauna Whale. Attendances by locals at these halls varied, but discussions were interesting. Horohoro Hall was undergoing renovations, and a month or so later, we were invited to their re-opening.  Temera Hall had had an upgrade last year in time for the anniversary of their neighbouring Temera Schools reunion. And it was great to see the renovations. Finkholt Hall is one of the closest to Cambridge. And one of the issues is they have a lot of through traffic despite not being a main road. But it's another well-kept hall that is the heart of its community. Kairangi Hall is not a council hall at all, but it's part of a settlement that began in the area many years ago.  and it serves a community that is very much a part of Waipa. The Kairangi people are concerned about the number of recreational cyclists that regularly pass through their district, but have no access to public toilets. So they tend to use one at the hall. So an interesting discussion was had as to how this could be remedied, because some of these cyclists are actually just using the roadside, not a good look. One suggestion was that a welcome to a Kairangi site  be placed on the roadside, welcome the cyclists and others, reminding them that the road was not the toilet or similar wording. I've also thought it would actually be quite good to have signs at quite close to local halls, just to welcome people to those particular districts like Horohoro, Mangatatari, Fencore, just so people know that there are little communities here.  At this hall at Kairangi, which has been maintained very well by the community, it was suggested that they could apply to the community board for funding for a project under our discretionary grants scheme. We visited the Mauna Vale Hall on the main road to Te Awamutu. There are a small number of residents in this area that care for the hall, but it seems that not many of the area's residents are involved. They tend to look through to Cambridge, I suspect, but it would be good to see some revitalization there.  The meeting at the Maungatatari Hall was very well attended, and there was a robust discussion on the community's opposition to the name given to the road leading to Waipoki Park, an indication that sometimes we all need to heed the words, he tangata, he tangata, he tangata. This year's community grants round was a good exercise for our board, as we learned a lot about many groups in our area that make a real difference to our community. However, we were not happy  that the decision should be made by way of a public meeting. This has not happened in previous years, and it certainly made us feel uncomfortable. We're happy to confirm a decision at a public open meeting, but it's the actual discussion of the  where the grant should go. It can be very difficult if someone knows something about an applicant that may be considered to be detrimental to their application, and they actually have to say this in a publicly observed meeting. It's not fair on the board or the applicant. The Cambridge Community Board has continued with its Cambridge Community Awards this year, and we were delighted to give one to our local photographer, Michael Jeans, who records much of everyday life in Cambridge.  as well as our special events. Michael, it was truly well deserving, as his photos are one of the most important records of our town. Christmas is almost with us, and due to COVID, various events have had to be cancelled. This included the Christmas parade, which the board had provided some sponsorship for. Along with some other organisations in the town, we worked with Destination Cambridge and the Cambridge Chamber of Commerce to provide a different Christmas programme.  which includes the shoe box floats, now displayed in many retail windows in the library, Christmas decorated letterboxes, so Santa could be sure to visit Cambridge as a first stop on the way from the North Pole. The community board also had a working bee to decorate some parts of the town with festive Christmas decorations, and they do look good. We are grateful to the sponsor of our Christmas lights program. We have a very big tree on Victoria Square covered in lights.  The sponsors are Waipou Networks, Better Electrical Cambridge, Grinters Funerals, Cambridge Lives and the Cambridge Cricket Club. It was good in the last week, too, to see the street banners supplied by Council added to our festive decorations. We look forward to 2022, hopefully without COVID.  and that we may once again enjoy life without restrictions and have a reduced number of Zoom meetings. Meetings around a table together does make for good discussion and good decisions for our community. Ng\u0101 mihi nui for the council's support for our board, particularly for the councillors, Graham and Alwyn, who sit on the board, our other Cambridge councillors, Roger, Mike, and Phil, and for the extra support we have from Deputy Mayor Liz.  The biggest thanks are to the members of the board, Joe, Elise, Alana, Jim, and also to our secretary, Karen. And thanks to Gary Knighton too, from the council staff who also attends our meetings. Thank you very much and Merry Christmas.",
+    "speaker": "milner",
+    "tags": []
+  },
+  {
+    "start": 2185.043,
+    "end": 2209.345,
+    "text": " Thanks, Sue. And obviously, a Merry Christmas to you and the board from Council and a very full report. So, despite the problems of a COVID year, you look like you've been really busy as usual. So, look, I'm sure you're happy to take any questions or comments from the Councillors, if there are any. Phil?",
+    "speaker": "mayor",
+    "tags": [
+      "public_address",
+      "reassure_stakeholders",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2209.987,
+    "end": 2251.25,
+    "text": " Yep, thank you Your Worship and thanks Sue for your report. I just wanted to add with regards to the Christmas celebrations and your support and involvement with Destination Cambridge that they had the movie night on Saturday night and there was 80 odd cars that attended the drive-in movie of Elf at the racecourse.  There's about 300 odd people and there's some great photos on the Destination Cambridge Facebook page, if you wish to, that they can be shared. And thanks for including us for your Christmas dinner last night, the Cambridge and Mangakauri Councillors last night. So that was great. Thank you very much and happy Christmas to you. Thank you.",
+    "speaker": "philipcoles",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "report_back",
+      "public_address"
+    ]
+  },
+  {
+    "start": 2251.39,
+    "end": 2273.858,
+    "text": "Phil. Are there any other comments or questions? No?  All right, OK, well, thanks again, Sue, and I hope you have a... Ray and family have a great Christmas and best wishes for the new year, and we'll catch up hopefully over the... over that period.",
+    "speaker": "mayor",
+    "tags": [
+      "ask_question",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 2274.518,
+    "end": 2277.82,
+    "text": "Yes, and best wishes to you too, all of you.",
+    "speaker": "milner",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 2277.88,
+    "end": 2324.16,
+    "text": "Thank you. Thank you very much. So...  the recommendation here that Council receive the update from the chairperson of the Cambridge Community Board. Councillor Gordon and seconded Councillor St-Pierre. Thank you for that. I'll put that motion. I can't see everybody. So all those in favour. I didn't hear any  negative comments, so I presume it's carried. OK, we're on to item 11, the Te Amuru Community Board Chairperson's Annual Report. And welcome, Ange.",
+    "speaker": "mayor",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "summarize_outcome",
+      "confirm_next_step",
+      "public_address"
+    ]
+  },
+  {
+    "start": 2324.861,
+    "end": 3118.208,
+    "text": "I just need to do a quick technical thing because all your beautiful pictures are right across where my words are, so I'll just scoot you across to the other side.  Alrighty. Morena, everyone, thank you for the opportunity to present the 2021 Te Aumuru Community Board Annual Report to you today. So, the year that's been. We started off with the Kiki Summer Stroll held in February in conjunction with an open day at the Police House and Temple Cottage. A big thank you to this group for their input and to Dee from the library for helping us promote the day.  It was a lovely day, enjoyed by those in attendance and enabled us to reconnect with the Kehekehe community. However, next year we hope to attend the ComSafe Community Day as that event actually attracted more people and will provide a better opportunity to connect with more locals. We also ran a successful greywater retention event. This was run by Jill Taylor earlier in the year, and it was to educate people about how to deal with their greywater. It was a great little event that we hope to run again,  The only hiccup was that no one knew council were running a similar event at the same time through the water education programme. So there was a little bit of a duplication there. Our e-waste, urban miners, through an introduction by Sally Fraser, we teed up the Te Aumutu Rotary to join forces with the Cambridge Rotary to bring urban miners to Te Aumutu to reduce our e-waste. This has been a great success with two trailer loads and on average $3,000 of recycling leaving every time.  Community Board is helping on the day and will provide some further financial support to ensure the ongoing success of this project. Project Battery, so that's a mock-up there. The recycling battery station, which has been a long time coming, but artwork is currently being printed and hopefully installed before Christmas at Pack'n'Save, if not just after. The DIY garage sale was planned to be run this year in conjunction with the Te Omutu Boxing Academy,  but it got skittled due to the lockdown. So we'll hopefully have another go at this next year. So I think we're on to third time lucky with that one. We got the rural tour back on. So for the first time in a long while, we had some really good conversations and got some great feedback. The communities, our rural communities were really grateful. We made the effort to go out and visit them and hear what they had to say.  And as a result of the tour, we've got involved with a number of things, but particularly the wattles on Kakapuku, so wattle pulling, which is helping with organizing volunteers to go to Kakapuku and help remove the brush wattles that have self-seeded and become a pest. This has had some setbacks due to COVID, but another pulling day is arranged for February the 12th, so we'd love to see you all there, so pop it on your calendar. It's also a very popular walking track, and with the numbers increasing due to  the Te Arawai app, we would also like to see an increased budget for the maintenance to ensure safety on the track and to minimise water damage to the maunga. In addition, we advocated for the Pollard Drive lights. So in September 2019, we had police come to us and discuss Operation Pekero, where police were implementing and identifying measures to minimise crime. An area that needed attention  was Pollard Drive as the lighting there was very poor. So we're delighted to see that there is now a plan in place and that work to rectify this will be undertaken in the next financial quarter. We've supported CCTV for Kihikihi for many years, having provided funding towards getting a camera out there. And at last, we're stoked to see that two cameras are going to be installed. We supported the Kihikihi residents and ratepayers with their plan for their LTP,  and the Police House Temple Cottage Committee to get funding for the annual administration costs from council. The Christmas street flags that are up now were funded by community board. And we also purchased the community board promotional flags as pictured there. However, if the representation review goes through, we've had a slight hiccup because we need to change it to Te Awamutu and Kihi Kihi. But never mind.  In addition, late last year, I had two full days in hearings defending Te Aumutu from yet another liquor store. A considerable amount of effort was spent on various submissions, particularly in relation to the Te Aumutu War Memorial Park, the long-term plan, and defending why we need a community board, which you did here. The other point of note is we are very sorry to lose board member Gary Derbyshire last month, and that the process to replace him is complicated, so community board  have chosen not to. That will be a real loss. Gary was an awesome board member. So hopefully everyone's gonna step up and they have some big boots to fill going forward. So going forward, boy races. So this was one of the things drawn to our attention during the rural tour, which we reported back and got the same response as the locals who were reporting incidents, that this is not a council matter,  but a police issue. So we've taken up the cause and worked alongside police and the locals to find there are in fact a number of things council can do and must do before someone is killed. The youth, Jill Taylor's been working on a programme for 2022. It'll be a free programme, three days a week and include lots of fun projects. Who are we, Te Awamutu? Working collectively with the Chamber, iwi and council to look at how community perceive Te Awamutu  from which we hope to recommend a brand that is supported by the people who live here. Street art. We want to get some local talent to liven up some blank walls around town, to reduce graffiti and create local pride. Our George Street car park. This has been on our radar for many years, like coming up nine. There have been some trees removed and cobbles laid through the center, which is great, but the safety aspects, including a safe walkway from McDonald's and crossings between the warehouse  and the toilet, which should be prioritised, had not been addressed. Interestingly, I was down there last Thursday, and to my surprise, the pedestrian crossing has been painted on the road. There's new directional signage and markings so you can see clearly and read what's there. The difference this made to the traffic was remarkable. It was slowing down, it was looking out for pedestrians, and stopping to let the kids cross the road. However,  No one told us this was happening, but it's great that it finally has. Issues and examples that need addressing. So I've run through these topics with Sue Milner, and by and large, she concurs. I could spend an hour on this, so it is very condensed and missing lots to fit into the 10 minutes or so we are allowed. I understand that the Finance and Corporate Committee have recommended a review of the community boards  with the intention to look at ways to improve how we work. So I want to take this opportunity to highlight some of our frustrations and that the parameters they set for the review include community board input. When we're informed of a project and how we're able to participate affects our ability to engage with the community, our contribution to the plan and the outcome. So for example, the annual plan, the long-term plan, we don't get to contribute to these plans. We do a submission like everyone else.  and despite speaking on behalf of the community, we are largely ignored. So things we know people care about never get a look in or take a very long time to progress like the George Street car park or new toilets for the stadium, even ones where people's lives are in danger like the Pollard Street lighting, where a young woman was actually raped in that dark street. The Memorial Park was another example, but due to a lack of time, I'm not going to elaborate now. So in our  thinking all plans for Te Aumutu, Kehekehi and Kakapuku should be coming to community board with enough time for us to engage with the respective communities, not almost at the end when we contribute a paragraph or two to a submission. Timeframes for seeking feedback for monthly decisions. The first we know of many items is in our monthly agenda. We have four days, including a weekend to canvas the community, so it generally does not happen.  This is not enough time and we often only have one perspective from which to make a decision. We need to know about what is planned for our area right from the get-go, along with the rationale to support or decline it. Credit, whenever we achieve anything, if it wasn't in my column in the paper, the public would hardly ever know about our involvement. We rarely get a press release about anything we do. We manage the discretionary funding, which is council money,  but community board decide who gets what, and we do the mahi. We don't have a link from our page on the website, despite asking for one. When the press release is done, all comments come from council staff, not community board, and there is barely a mention of our involvement. Then, because recipients think it is council, we get minimal acknowledgement. And I also would like to just quickly pop in there that I do support Sue in regard to the discussion around the funding of the discretionary fund,  It is really hard to do that in a completely public space, that discussion. Don't mind making the final decision, but it would be nice to go back to the way we used to and be able to do that on our own. In addition, the way we're presented is often negative. So two examples recently of this are the information presented in the community board versus committee workshop.  It included stats in that workshop slideshow that reflected community boards poorly. This was based on 69 people responding to a survey as supporting evidence for why we should do away with community boards. Or the press release regarding the resident survey prior to the representation review. Council services and facilities ranked high, reputation dips. Sorry, you did not dip, you crashed.  But we did not see only one out of five think council do a good job, quoted in the article. But we did see community boards singled out with the statement, two in five do not know what community boards do. This was actually 41%. So what about this almost 60% that do know what we do? Considering how much press there is for council compared to community boards, we are not doing too badly. And putting the statement the other way,  three in five do know what community board do would reflect that. Incidentally, I welcome the feedback and it shows we need to find a way to do better. Like the example I previously gave regarding George Street car park, we don't get told a lot of things. If we miss a press release, then we often have no idea. And it includes things like key staff changes. Debbie LaSalle, Charlotte Fitzpatrick is two recent examples of people who lived and we were never informed.  We're also told regularly that councillors don't know what we're doing. So why is this? Between the two boards, we have four councillors on our boards. Should they not be in time for them to raise community board members? From our side, they appear to support community board initiatives. Community board can be better utilised as a conduit between local community and council. And to do so, our input must be valued as meaningful feedback from our community  that we can be involved and given the time to do so, so that we can be taken seriously and we don't have to be a squeaky wheel for nearly nine years to get something our community has told us is important. So I'd like to finish by saying a big thank you to all council staff who do reports, attend our meetings and work behind the scenes to help us achieve our goals. A special thanks to Joe, Sally and Kieran  who do an amazing job in supporting the Te Aumutu Community Board with day-to-day business. A special mention for Sally Fraser, who is always so helpful and supportive with the e-waste projects. To councillors who support us and to you all for listening today, finally, last but not least, to the Te Aumutu Community Board members, Lou Brown, Susan O'Regan, Jill Taylor, Richard Hurrell, Kane Titchener, and the recently resigned Gary Durbyshire, for their tireless efforts to support  the Kakapuku and Te Awamutu communities. So wishing you all a Meri Kiri Himete, safe and happy holidays, along with a well-deserved break with family and friends. Kia ora.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "public_address",
+      "community_reference",
+      "express_concern",
+      "policy_proposal",
+      "prioritize_issue",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 3121.03,
+    "end": 3174.977,
+    "text": "Thanks, Ange. Would you like to drop the presentation so that we can all... Yep, I'm just doing that. Thank you very much. Thanks, Ange, and thanks for those comments which are noted.  Yeah, look, there's things that we can do in there, I've no doubt. So I think it was very timely to bring those forward. Just a quick question from me in terms of the boy racer issue that we are continually  involved with as well, I suppose, and the comments, but I was interested in the comments that there were things that Council could do, but you didn't elaborate on that. My contact with the police is it's not issues that Council actually can actually do too much with. So, what was the suggestion that we should be doing?",
+    "speaker": "mayor",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 3175.702,
+    "end": 3242.302,
+    "text": " Okay, so first up, I've done a report to community board tonight to request that this is looked at seriously by council. And so included in those suggestions are things like traffic islands, more barriers around the sides of the road to prevent mass parking on the berms. Out at Arapuni, for example, they're requesting some speed reduction  humps on those roads out to the actual landings, some gates, rumble strips. And the real big one is that we address our public places by law, in particular clause 29, which by giving it a bit more teeth, by adding specific places to the schedule, that will enable police to not just go and waive a wet bus ticket at the boy races, but to be actually able to impound cars.  which will hurt, and police believe that that would be the best course of action.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "policy_proposal",
+      "community_reference",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3244.304,
+    "end": 3301.732,
+    "text": "Yeah, okay. Look, there's things there that we need to look into, but if they're suggesting the bylaw amendment is going to enable them to impound cars,  Yeah, I would doubt that. But look, it's those issues are worth following up and just seeing what we what we can do, because it's a nightmare for people who are living around those areas where the boy races and maybe  That's a bit sexist whether they're boys or girls, I'm not sure, but I think predominantly boys. But apart from the damage they're doing to council property, it's also the concerns and safety of the residents as well. So it's a major issue. Okay, any other questions or comments from councillors or any queries?",
+    "speaker": "mayor",
+    "tags": [
+      "disagree",
+      "express_concern",
+      "prioritize_issue",
+      "ask_question",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 3303.627,
+    "end": 3318.874,
+    "text": " Could I just query, Jo, we do send out the weekly mail out to board members. Within that circulation, Jo, do we include the staff changes that we make in there?",
+    "speaker": "garrydyet",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 3320.635,
+    "end": 3331.92,
+    "text": "No, that's not part of what's included. We could include it. We'd just have to cut it out of something else. Okay, all right, so we can look at that, Angie.",
+    "speaker": "manager",
+    "tags": [
+      "provide_information",
+      "evaluate_option",
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 3333.201,
+    "end": 3370.981,
+    "text": " Thank you. Jim, could I just quickly add, there is, and we've already been, Susan, Councillor O'Regan can probably help me out here if I get this a little bit fuddled, but we have actually already looked into the legislation and there is a connection between the bylaw that we can then use the Transport Act, I've got that right, Susan, haven't I? To then be able to do exactly that with the cars. So it's all lined up.  We just need to put the ducks in a row to hand it over to you guys to say, righto, we need to amend this bylaw and get it cracking.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 3371.641,
+    "end": 3372.202,
+    "text": "Absolutely.",
+    "speaker": "mayor",
+    "tags": [
+      "agree",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 3372.782,
+    "end": 3384.831,
+    "text": "All right. Thank you. Have a great Christmas, everybody. Same to you, Angie, and all the best and a good Christmas to you and all the board members as well.",
+    "speaker": "Unknown",
+    "tags": [
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 3385.151,
+    "end": 3388.153,
+    "text": "So we'll catch up in the new year. Thanks.",
+    "speaker": "mayor",
+    "tags": [
+      "confirm_next_step",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 3388.573,
+    "end": 3389.954,
+    "text": "See you later on, Lou and Sue.",
+    "speaker": "Unknown",
+    "tags": [
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 3392.487,
+    "end": 3450.471,
+    "text": " Thanks, Andrew. Okay. Can I have a mover and seconder to receive the verbal report from Ange? Move Councillor St-Pierre and Councillor Gower. All those in favour? Aye. Contrary? Carried. Thank you for that. Item 12, the December 2021 Audit and Risk Committee meeting.  And Gary, are you handling or are we going straight to Ken? Perhaps if we pass to Ken for this one, Your Worship. So before we just start the discussion, can I have a mover and seconder to receive? No, sorry. I'll just go straight to Ken. I thought it was minutes for a minute. So Ken, sorry about that.",
+    "speaker": "mayor",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "defer_to_authority",
+      "clarify_point",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 3451.737,
+    "end": 3473.405,
+    "text": " Right, yeah, no, that's fine, Your Worship, and good morning, councillors. Actually, I think, oh, yes, actually, Jenny is here. So, yeah, so I believe that Jenny will present this report. Yeah, I'm happy to be standing by with any, yeah, for any questions later on. But yeah, Jenny has written the report, so Jenny, happy for you to present.",
+    "speaker": "kenmorrisg",
+    "tags": [
+      "assign_action",
+      "defer_to_authority",
+      "agree",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 3474.966,
+    "end": 3572.801,
+    "text": "Thank you, Ken. Good morning, everyone.  I'll take the report as read, and I've got a couple of points and updates. So yesterday was the first day of our facilities, the library, museum, halls, et cetera, using vaccination passes, and that went well. A few grumbles from members of the public, but most were happy. The library's about to start a click and collect service,  for those that are vaccinated. They announced it yesterday and already have people that have put in orders. The COVID policy for mandating all staff to have the vaccine, consultation closed yesterday and a meeting is about to commence.  to look at the feedback and work through a recommendation to Gary. And Hazel, you'll be interested in this. The community librarians, we've set up a way where if someone can prove that they are double vaccinated through the little purple card, the community librarians will help them produce their  vaccine pass because we're aware that there are still members of the community that have been having difficulty in getting those. So we've put a little bit of an exception process in place so that can continue. Are there any questions or anything you want to add, Ken?",
+    "speaker": "manager",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "community_reference",
+      "equity_reference",
+      "reassure_stakeholders",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 3574.917,
+    "end": 3609.669,
+    "text": " No, look, I'm fine, Jenny. Look, I think we were just looking for a comment, if there is any comment on the annual work plan, which is Appendix 5. So, look, it may pay just to invite councillors if they do have any comments on Appendix 5.  to indicate those. This is the annual work plan of the Audit and Risk Committee. So, the committee itself is obviously looking to embark on that programme. Just happy to invite any comments, really.",
+    "speaker": "kenmorrisg",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 3611.771,
+    "end": 3627.554,
+    "text": "OK, with that invitation, was there anyone that had any? I personally didn't have any. Ken,  we'd work through it through the committee. So if there were any questions, everyone's happy with it.",
+    "speaker": "mayor",
+    "tags": []
+  },
+  {
+    "start": 3631.274,
+    "end": 3745.816,
+    "text": " No, that's fine. I think, look, the other thing just to acknowledge, because Appendix 3 is the Office of the Auditor-General parliamentary report, so you'll see from the minutes that we had the Assistant Auditor-General and one of her staff members come and present that report to the committee.  Yeah, Waip\u0101 was one of four councils that were case studies for that report to Parliament on observations on local government risk management practice. And look, some very complimentary comments in regard to Waip\u0101 District Council's  well, for want of a better word, the risk management journey over the past few years. And, yeah, Andrea, the Assistant Auditor-General was very complimentary in terms of the progress we've made, and indicated there were some areas, both in the report and verbally at the meeting,  Yeah, we could work for continuous improvement. So we've noted those matters and we'll progress those. But, yeah, I just thought that one was worthy of comment as well. Actually, the other one that is potentially worthy of comment as well is the KPMG internal audit report.  that we've given you the report and appendix for, that was into project management and governance. And again, a very complimentary report on the practice that we've established at Waip\u0101 over the past few years in regard to how we manage and govern projects. And we certainly do have a large number  of projects happening, particularly in the infrastructure space. So, yeah, so there was a good tick from our interview board as KPMG.",
+    "speaker": "kenmorrisg",
+    "tags": [
+      "provide_information",
+      "cite_reference",
+      "report_back",
+      "summarize_outcome",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 3747.418,
+    "end": 3802.508,
+    "text": "Thanks. Thanks, Ken, and congratulations there. Just a query, and I'm not sure whether it's Gary, Ken, or yourself, in terms of the  I suppose restrictions of people who are not vaccinated now, I'm getting quite regular comments from residents.  unvaccinated people, we can't use the swimming pool or the libraries now. We are looking for a rates rebate. And as I understand it, Gary, there's some standard letters that have been devised to be sent back. So if councillors receive those comments or emails, letters or whatever, we should be referring them to a specific point in council.",
+    "speaker": "mayor",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "community_reference",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3804.588,
+    "end": 3867.204,
+    "text": " Yes, Your Worship, we've had a number of requests under the Local Government Official Information and Meetings Act for a raft of information, and we're looking to standardise the response to those official information requests. And there's also a quite  thorough memorandum that our risk management team pulled together in making the decision to exclude people from some public or some council run facilities. And so that memorandum is also on council's website for folks to view. But yes, any queries from folks that you get,  please feel free to refer them through to staff and we'll get everyone a very thorough response to those issues.  So, in regard to those requests that Gary referred to, I understand there's at least 20 to 30 of those that have come through already.",
+    "speaker": "garrydyet",
+    "tags": [
+      "provide_information",
+      "cite_reference",
+      "reassure_stakeholders",
+      "assign_action",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 3867.224,
+    "end": 3936.837,
+    "text": "Sally Sheedy is handling the responses to those in consultation with other areas of council.  and I understand the first speech of those responses will be out this week. Essentially, those people were asking how much of their rates bill were in general, because some of these legumes that have come in are following the same format.  So obviously, people working together in terms of asking these questions, they're asking how much of their rates is going into the facilities, they're asking for discounts on their rates in regard to their inability to access some of those facilities at the present time. So a standard response has been prepared, and as I say, my understanding is that Sally will be sending those out this week by email.",
+    "speaker": "kenmorrisg",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "defer_to_authority",
+      "confirm_next_step",
+      "community_reference",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 3939.564,
+    "end": 4012.629,
+    "text": " It's a really sad position that we've got to where, although it's a small percentage of the population around, that have got a really strongly held views.  against vaccination for whatever reason. And we've got the split in the community, but we've really got to focus on the majority and looking after the health and wellbeing of the whole community. So it's a really challenging time. And I feel for those people who've made that call, and I also feel for the staff who have got to manage it because it becomes quite confrontational. So somehow we've got to try and  I suppose.  satisfy people that we're doing the right thing and we are considering everybody's points of view. So, yeah, it's a really difficult situation. Greg Morgan If I could just comment further, it's also about managing the risk to the council, because when we deliver critical services to the community, we can't afford for teams of people to go down with COVID.",
+    "speaker": "mayor",
+    "tags": [
+      "express_concern",
+      "reassure_stakeholders",
+      "community_reference",
+      "prioritize_issue",
+      "state_opinion",
+      "public_address"
+    ]
+  },
+  {
+    "start": 4012.669,
+    "end": 4019.691,
+    "text": "And that's why we're taking quite a rigorous approach to protecting staff.  and others who use our premises.",
+    "speaker": "garrydyet",
+    "tags": [
+      "provide_information",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 4021.892,
+    "end": 4031.116,
+    "text": "So challenging times all around, really. It's a really difficult position, but we'll just need to keep working through it. Marcus.",
+    "speaker": "mayor",
+    "tags": [
+      "reassure_stakeholders",
+      "public_address"
+    ]
+  },
+  {
+    "start": 4032.036,
+    "end": 4049.296,
+    "text": "Yeah, well, I support our decision. I mean, we have to be conservative over the next few months to see what the full effect is. But it's the same as like people who don't use our facilities like the library and swimming pools and stuff anyway. I mean, we don't give them a rates rebate and  as their choice not to use the library.",
+    "speaker": "marcusgower",
+    "tags": [
+      "state_opinion",
+      "agree",
+      "persuasion_attempt",
+      "prioritize_issue",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 4052.158,
+    "end": 4092.291,
+    "text": "OK. All right. So, we have a recommendation there, A and B, to receive the report and the work plan. Can I have a mover and seconder for that? Andrew moved, Andrew Brown, and seconded, Clare St-Pierre. All those in favour? Aye.  Item 13, the YPAS mission on the Resource Management Enabling and Housing Supply and other matters bill. What a mouthful. Gary, I presume David is gonna pick this up.",
+    "speaker": "mayor",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "assign_action",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 4093.331,
+    "end": 4095.872,
+    "text": "Yes, indeed. I'll pass straight to David, if you wish.",
+    "speaker": "garrydyet",
+    "tags": [
+      "agree",
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4096.712,
+    "end": 4106.355,
+    "text": "Thank you, Your Worship, Councillors. I hope you can all hear me all right. Yes, it's fine. May I take the report as read?",
+    "speaker": "davidtotman",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4107.089,
+    "end": 4107.289,
+    "text": " Yep.",
+    "speaker": "mayor",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 4107.849,
+    "end": 4264.585,
+    "text": "Thank you. Just a brief summary and give you a brief update. And just to say what I'll do is in the Friday mail out, I'll give you a bit more detail about the recommendations of the select committee where it's got to currently. Okay, so going back to the report, the report is simply asking you to retrospectively approve a submission that was signed off by  Mayor Jim, on your behalf, using delegated authority. And this was done last month. As Mayor Jim mentioned earlier in the meeting, there's a whole wave of stuff that government are pushing through. And this is one of them that's come with no prior consultation, very little opportunity to even get a submission together. It was done a bit like a bullet train passing through, to be honest.  We managed to launch the submission last month on the 16th, and the hearings were on the 20th. We appeared before the Select Committee on the 23rd, so it was done at speed. The Select Committee made the report back to Parliament on the 3rd of December with their recommendations, and that's what I'll give you an update on. But just in summary, where they've landed in terms of hearing all the submitters and all the people who  either for it or against it or seeking amendments to it. And one of the things we had a very strong issue with is that it was talking about applying to cities, but here we were with two towns and it looked like we were in, but it wasn't clear. And they have clarified it. And what they've said is it's Hamilton, greater Hamilton, and  It includes us in terms of the way they've amended the definition. So it looks like we're definitely going to be in, that it will apply to us. And then just in terms of the actual standards, the medium density standards, they have made tweaks in response to submissions. They've also tidied up some of the linkages to other processes that need to happen.  that are required by the National Policy Statement for Urban Development. So there've been a number of kind of technical improvements that they've made. I'll go into that in more detail, but I'm happy to have any questions in the meantime.",
+    "speaker": "davidtotman",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "summarize_outcome",
+      "confirm_next_step",
+      "clarify_point",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 4266.326,
+    "end": 4267.807,
+    "text": "Thank you. Thanks, Dave.",
+    "speaker": "mayor",
+    "tags": []
+  },
+  {
+    "start": 4267.887,
+    "end": 4278.512,
+    "text": "Graham? Yeah, just something that I just noticed in the formal letter that went down to the Secretariat. Yeah. You were signed by Jim Milchrist and it had your name, Jim Milchrist, but it didn't say you were the Mayor of Waip\u0101.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "clarify_point",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 4286.054,
+    "end": 4296.719,
+    "text": " I thought everybody knew that, Graham. Excuse me. Sorry, Jim, not in Wellington. They might have to.",
+    "speaker": "mayor",
+    "tags": [
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 4296.779,
+    "end": 4307.004,
+    "text": "Right up in that bracket, I think, when you've got your name, Sondy, not just an invisible person. Sorry. No, that's all right, Graham. It's obviously a slip up, that's all.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "clarify_point",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 4307.024,
+    "end": 4308.504,
+    "text": "Roger.",
+    "speaker": "mayor",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 4310.837,
+    "end": 4329.673,
+    "text": " Yeah, thank you, Jim, through you. Yeah, David, thanks for that. And thanks for putting in that submission. From what you're saying, and the minor tweaks that are gonna happen, but basically it's going through with its main intent.",
+    "speaker": "rogergordon",
+    "tags": [
+      "agree",
+      "summarize_outcome",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 4331.154,
+    "end": 4331.674,
+    "text": "Absolutely.",
+    "speaker": "brucethomas",
+    "tags": [
+      "agree",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4332.075,
+    "end": 4333.636,
+    "text": "Yeah, this is ridiculous.",
+    "speaker": "rogergordon",
+    "tags": [
+      "state_opinion",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 4335.097,
+    "end": 4393.162,
+    "text": "That's...  Yeah, I agree with that comment, Roger. It's not only ridiculous, it's a real concern for members of the public who've  abided by the rules of the day, developed their own homes and properties with the expectation that council will look after their interest by maintaining those rules and standards for the community. And now they're going to be completely overridden. And I feel like just having a list of the politicians' names and phone numbers so that when these developments occur and the neighbours  concerned about the impact on their properties, they need to be ringing central government, not us, because it's going to be taken completely out of our hands.",
+    "speaker": "mayor",
+    "tags": [
+      "agree",
+      "express_concern",
+      "community_reference",
+      "policy_proposal",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 4394.385,
+    "end": 4427.638,
+    "text": " Can I ask another question, David? Am I right in saying that although they don't have to go for resource consent, they still have to go to building consent? And in fact, on a building consent assessment, then special character of street will be one of the factors that is taken into consideration. And are or  are, sorry, are our special character definitions strong enough to perhaps inhibit in some way this going ahead?",
+    "speaker": "rogergordon",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "express_concern",
+      "evaluate_option"
+    ]
+  },
+  {
+    "start": 4430.839,
+    "end": 4504.496,
+    "text": "The honest answer to that, through you, your Worship, is that it's, I can give you an opinion and I would say probably likely that we could carry those in as  as matters that will ameliorate where those standards apply. But that's my opinion now. It has to go through a plan change process to give effect to the bill. And it'll be through that plan change that we, through submission process, that we actually tie down where it applies, how it applies exactly.  But there is provision for taking into account matters like that, character, where they are. In the current district plan, matters that we need to take into account. And one of the ones for the whole of our sub-region is Te Ture Waimana for the vision and strategy for the river. So that's been added to the bill as an amendment.  because of us. The other one just for interest is papak\u0101inga is that it's allowed for under the standard.",
+    "speaker": "davidtotman",
+    "tags": [
+      "provide_information",
+      "state_opinion",
+      "clarify_point",
+      "defer_decision",
+      "cite_reference",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 4506.177,
+    "end": 4506.658,
+    "text": "Yeah.",
+    "speaker": "rogergordon",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 4510.2,
+    "end": 4577.468,
+    "text": "Thanks, David. Any other comments that anyone had? So certainly from my perspective in the medium to long term, this is not  not sound planning at all. And it's going to create or have some unintended consequences. We all fully support the need for increasing the land supply and housing supply. We can't have  the community not properly housed, but it needs to be done in a planned and organised way. And we can get medium to high density without creating some of the problems that are likely to flow on from these changes, which is, in my opinion, a knee-jerk reaction. But anyway, we'll have to just try and work with the rules that we've got, as we always do, and get the best for our community.  Did you want to comment, Gary?",
+    "speaker": "mayor",
+    "tags": [
+      "express_concern",
+      "state_opinion",
+      "prioritize_issue",
+      "community_reference",
+      "reassure_stakeholders",
+      "public_address",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 4577.588,
+    "end": 4618.394,
+    "text": "Other than to say, Your Worship, that it is really disappointing that a government can continue to pass legislation like this without any consultation with the people on the ground who know what they're doing.  and probably have better ways of achieving the objectives that they're thinking about in Wellington. So the Productivity Commission, the Future of Local Government panel, all of those folks have said to central government, you need to talk to local government before you pass these rules. And so it's really concerning that the government isn't heeding that advice. Spot on, Gary.",
+    "speaker": "garrydyet",
+    "tags": [
+      "express_concern",
+      "state_opinion",
+      "cite_reference",
+      "community_reference",
+      "agree"
+    ]
+  },
+  {
+    "start": 4620.044,
+    "end": 4632.654,
+    "text": " We certainly put at the sharp end of implementing it, which is easy for government to drop the legislational policy, but it's up to us to kind of bear the kickback from the public.",
+    "speaker": "davidtotman",
+    "tags": [
+      "express_concern",
+      "state_opinion",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 4634.055,
+    "end": 4645.003,
+    "text": "I mean, one of the things that disturbs me is the fact that it's a combined, doesn't matter whether it's left or right or centre, the both major parties have endorsed this bill going through.",
+    "speaker": "rogergordon",
+    "tags": [
+      "express_concern",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 4645.644,
+    "end": 4645.804,
+    "text": "Yeah.",
+    "speaker": "brucethomas",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 4647.311,
+    "end": 4650.972,
+    "text": " Yeah, just a question for you, Your Honour. Just a question, Lou.",
+    "speaker": "loubrown",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 4651.833,
+    "end": 4653.313,
+    "text": "Yeah, Lou and then Susan.",
+    "speaker": "mayor",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4656.154,
+    "end": 4669.78,
+    "text": "Gary, just quietly, I see that we've now been included, as I say, in this tier one. And is there any logic to this or any background information that why an area like Waip\u0101 was included here?",
+    "speaker": "loubrown",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "express_concern",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 4672.301,
+    "end": 4702.076,
+    "text": "Oh, sorry, David. Yeah, you go.  So Waipara is a very fast growing area and essentially we are tier one because we are a big enough entity to be self-sustaining without having to rely on the infrastructure of adjoining towns and cities. So it's really just the growth proposition that we're facing and the way in which we should manage that.",
+    "speaker": "garrydyet",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "prioritize_issue",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 4706.587,
+    "end": 4737.263,
+    "text": " Yeah, I was just going to add on to Roger's comment about this bill having cross-party support. My understanding is that the new leader of the opposition, Christopher Luxon, has expressed his desire to revisit the endorsement of the bill in its entirety. So obviously he's going to have to tiptoe reasonably carefully with his deputy, but there might be a slight  All right.",
+    "speaker": "susanoregan",
+    "tags": [
+      "build_on_point",
+      "provide_information",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 4744.468,
+    "end": 4784.03,
+    "text": "So we have a recommendation. It's a retrospective approval for the submission that was made. It's A and B. Can I have a mover and seconder for that? Moved Councillor Lou Brown and Bruce Thomas, second. All those in favour? All those against? All those in favour? All those against?  Aye. Contrary, carried. Thank you very much. Thanks, David. Merry Christmas to you all. Same to you. Item 14, Mystery Creek Events, Centre Noise Events Calendar. This is pretty standard report every year.",
+    "speaker": "mayor",
+    "tags": [
+      "call_vote",
+      "summarize_outcome",
+      "procedural_move",
+      "close_discussion",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4784.07,
+    "end": 4815.64,
+    "text": "Gary. Thank you, Your Worship. Yes, it is a standard report. It comes out of a requirement in our district plan.  And historically, it's worked very well to balance the needs of residents from the noise producing activities that we pop into that Mystery Creek Event Centre zone, which is subject to things like go karts in particular. So, Carl, I'm not sure if there's any more you want to add to that, but we certainly can take questions.",
+    "speaker": "garrydyet",
+    "tags": [
+      "provide_information",
+      "defer_to_authority",
+      "community_reference",
+      "reassure_stakeholders",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4817.407,
+    "end": 4930.705,
+    "text": " Thank you. Through the worship, through his worship, just as the council will understand, it's been quite fluid this year with the impacts that COVID's had on what both of these organisations have been allowed to do and also the effects on other areas in terms of Mystery Creek and the Cart Club, both picking up events that were originally scheduled to be in other places. So there have been quite a number of changes to this calendar prior to the one that's in front of you now.  And just carrying on with that theme, as you may have seen in the media in the last week or so, there's a plan to move the Soundsplash Festival, which has historically been held in Raglan, out to Mystery Creek for the weekend of the 21st to 23rd of January. So that's a change that's not in the calendar in front of you and hasn't been considered as part of the report. But if you have a look at the summary table on, I think it's page 159 of your agenda,  You'll see that adding those three days to the Mystery Creek events days or the day-night activity days still leaves Mystery Creek within the permitted number of events and even leaves some capacity for others. So the district plan does allow, even after the calendar is approved, for changes to be made.  provided we get 30 days notice and they're still complying with those overall requirements. So we're just working through now with Mr. Creek and the organisers of that event to review their noise management plan, special licences, et cetera, just to confirm that that's where they're going to sit. At this late stage, they don't sort of have much of a choice. They need to comply with these rules because there's very unlikely to be an ability to seek a resource consent for anything outside of those rules.  It's just one change to be aware of that will be processed in the next week or so. But otherwise, you're happy to take any questions if there are any.",
+    "speaker": "karltutty",
+    "tags": [
+      "provide_information",
+      "cite_reference",
+      "clarify_point",
+      "report_back",
+      "summarize_outcome",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 4932.906,
+    "end": 4935.647,
+    "text": "Thanks, Carl. Questions, Bruce?",
+    "speaker": "mayor",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4936.967,
+    "end": 4946.53,
+    "text": "Great initiative that now the complaints go to the mystery keep themselves before enforcement takes place. I think that's fantastic because they were a bit touchy that enforcement got in their road.",
+    "speaker": "brucethomas",
+    "tags": [
+      "state_opinion",
+      "agree",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 4948.415,
+    "end": 4963.72,
+    "text": " Yes, through the chair, one of those occasions we followed our normal process and there are some times when a normal process doesn't necessarily fit. So yes, in the future, our first call will be to Mystery Creek. And if that doesn't address the issue, then we'll look at our normal response from there.",
+    "speaker": "karltutty",
+    "tags": [
+      "provide_information",
+      "procedural_move",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4966.401,
+    "end": 4983.924,
+    "text": "That's good. Any other questions? Right, thanks, Carl. So we have the recommendations A and B.  And can I have a mover? Councillor Thomas and Councillor Weber seconds. All those in favour?",
+    "speaker": "mayor",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "call_vote",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 4984.805,
+    "end": 4985.145,
+    "text": "Aye.",
+    "speaker": "loubrown",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 4985.765,
+    "end": 4995.549,
+    "text": "Contrary? Carried. Thank you. Thanks, Carl. All the best for the holiday period, if you get one.",
+    "speaker": "mayor",
+    "tags": [
+      "procedural_move",
+      "summarize_outcome",
+      "close_discussion",
+      "public_address"
+    ]
+  },
+  {
+    "start": 4996.809,
+    "end": 5000.231,
+    "text": "And to you all. Thank you.",
+    "speaker": "karltutty",
+    "tags": [
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 5000.351,
+    "end": 5003.772,
+    "text": "Item 15, four months report to the 31st of October.",
+    "speaker": "mayor",
+    "tags": [
+      "procedural_move",
+      "report_back"
+    ]
+  },
+  {
+    "start": 5005.871,
+    "end": 5016.806,
+    "text": " Thanks, Your Worship. Because we've swept up a number of meetings into this council meeting for the last one of the year, you've got two financial reports. So, look, I'll just ask Ken to introduce these and we'll go away through them.",
+    "speaker": "garrydyet",
+    "tags": [
+      "procedural_move",
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 5019.703,
+    "end": 5047.519,
+    "text": " Yeah, that's fine. So through Your Worship, NADA is here to present the reports and the Chief Executive has explained the two reports on the agenda. That's a little bit confusing for two different month ends to be on the agenda, but we thought it was important for you to have the most recent up-to-date information as well as the very comprehensive October full monthly report.",
+    "speaker": "kenmorrisg",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 5049.102,
+    "end": 5056.288,
+    "text": " Thanks, Ken. Nada, looks like the potato's been handed to you. Yeah, that's all good.",
+    "speaker": "mayor",
+    "tags": [
+      "assign_action",
+      "reassure_stakeholders",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 5056.348,
+    "end": 5146.037,
+    "text": "Good morning, everyone. I know we're pushed for time, so I'll just take the reports that's been read. I'll just go over the main, just summarise it for everyone. With the four-month report, so we're talking as at 31st of October.  The operating surplus was sitting at $36 million compared to a budget of $39.7 million. Our operating income was at 27% and the expenditure was at 30% of the full year forecast, which is just below the anticipated 33%.  The other thing I'd like to just point out is the capital expenditure was $212 million compared to a budget of $183.7 million.  And if you just go down to page 173 of that report, it shows you in the graph there, we've just got a bit in there that at the time of preparing this report, further forecast changes are being determined and will likely bring the forecast down to around 159 million. So that's,  the annual plan that's been worked on, which will impact this year's forecast. I'll take any questions around the four-month report now, if you like.",
+    "speaker": "nadamilner",
+    "tags": [
+      "provide_information",
+      "summarize_outcome",
+      "cite_reference",
+      "report_back",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 5147.238,
+    "end": 5151.759,
+    "text": "Yes, yep, definitely. Questions, Claire?",
+    "speaker": "mayor",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5152.84,
+    "end": 5212.316,
+    "text": "Yeah, thanks, Nada. A couple of things. Firstly, on page  175 of our agenda or page nine of the report it's got the growth impact on rates which is assumed to be 2.93 percent and it's reported currently as 0.58. Do you take that 0.58 over  is a 12-month average, or is it just over the period of the report? Because I'm sure that we've got really strong growth, and I thought it must be a 12-month average, because I would have thought it'd be much closer to the 2.93, and I'm just wondering how best to report it so that we've got an idea of the growth.  Yeah, the strength of growth that we're experiencing month by month rather than just having a 12-month average as it's reported over the year.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 5214.878,
+    "end": 5317.387,
+    "text": " So, look, through His Worship, I'll respond to that. So, yeah, Councillor, it's where we're at currently, year to date, in terms of increased capital value for the district from new development and increasing rateable properties.  Now, there is quite significant lag factor in this. As you've observed, growth is quite rampant in the district. There is a lot of growth around us. In fact, you can see that actually when you look at the resource consents and some of the fees income in this very report. So certainly no shortage of growth.  However, before we can recognise that increase in capital value, we do need quotable value to actually put a value on those building improvements, etc. And sometimes there is a delay in them actually doing that work and us actually capturing it in our system.  So look, it's not unusual for us to be relatively low on the scale at this point of the year, but the crucial date is 30 June next year. That's when we have to have achieved the 2.93% to be certain of the additional rates income, and at this stage I'm still confident that that is very much achievable, despite the fact that we're currently showing just 0.58%.  Thanks for that explanation.",
+    "speaker": "kenmorrisg",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "reassure_stakeholders",
+      "summarize_outcome",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 5317.507,
+    "end": 5326.331,
+    "text": "I've got a couple of other questions too, I hope, Jim. OK, Claire, we'll have those and then I've got Graham and Andrew with their hands up.",
+    "speaker": "clairestpierre",
+    "tags": []
+  },
+  {
+    "start": 5326.391,
+    "end": 5327.671,
+    "text": "So you go.",
+    "speaker": "mayor",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5328.312,
+    "end": 5366.178,
+    "text": "OK, and then on page 179 of the agenda or page 23 of the report, the statement of financial position and under assets, the last line there is trade and other receivables.  and that's increased to 12,000, yeah, 12 million. It's a 352% increase. Yeah, and I just thought it'd be good to have just a bit of an explanation about why that's increased so much. You know, like the ratio, it seems to be really, really high.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "express_concern",
+      "cite_reference"
+    ]
+  },
+  {
+    "start": 5372.447,
+    "end": 5379.311,
+    "text": " Sorry, that's against the budget of $15.6 million. So it's actually gone down.",
+    "speaker": "nadamilner",
+    "tags": [
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 5381.852,
+    "end": 5396.88,
+    "text": "It's got the year to date is $12 million, and the forecast was $3.597 million. Yeah. And it's probably just the timing. Just timing. Oh, yeah. Yeah.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 5397.88,
+    "end": 5469.133,
+    "text": " So, that is quite unusual. I'm appreciating the councillor's concern there. I'm looking at the year end, the very far right hand column, the year end of last year, where our debtors position was. This is what this is. This is our debtors that owe us money. It was at $8.9 million.  So yeah, the 12.6 million is significantly higher than what our year-end debtors were. We know that in regard to, because it also features in this report, we know in regard to rates collection and water billing collection that we're doing well in that space.  Yeah, you know, there's not massive growth there. So yeah, so the only thing I'm sort of thinking here, Nada, is this is some quite significant debtors outside of rates and water. So look, I'm not sure if there's a very large subsidy claim we're waiting for or something like that. But look, let's do some, it looks like we don't have an answer right now, but let's do some work behind the scenes just to see why that appears to be abnormally high.",
+    "speaker": "kenmorrisg",
+    "tags": [
+      "provide_information",
+      "express_concern",
+      "clarify_point",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 5470.058,
+    "end": 5501.694,
+    "text": " Okay, cool, that's great. And then just another question about internal loans, which are reported on page 182 of our agenda or page 16 of the report, because there's quite a balance there for our water services. Yeah, we used the reserves we had for water services to help fund other things. So if we go ahead with the three waters reform, is this gonna put us in a difficult position  with refinancing that work.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "cite_reference"
+    ]
+  },
+  {
+    "start": 5503.936,
+    "end": 5512.906,
+    "text": "Because I presume that those reserves will all have to go across to the new water entity.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "state_opinion",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 5514.447,
+    "end": 5518.531,
+    "text": "And so we'll have to find another way to repay them.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "policy_proposal",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 5520.052,
+    "end": 5611.527,
+    "text": " Yeah, so through you, Worship, I'll perhaps answer that one as well. Look, I guess we've got a huge amount of uncertainty still in regard to the outcome of the water reforms and, you know, lacking detail there in terms of whether reserve balances would have to go across or not.  I believe that there was an undertaking that any debt would be repaid as part of the asset transfer process. But look, I just suggest that it is too early days to really know the answer to that at this stage. However, the other thing that I would say is that in regard to the internal borrowing against any reserves,  Look, this Council does have relatively low debt. It has considerable ability to, you know, to actually borrow further. So, yes, look, it's not, I don't think it's of undue concern at this stage.  but obviously when the way becomes clearer in terms of what's going to happen in terms of water reform and what balances will be repaid, et cetera, that is something that we'll definitely be working through at the time. But yeah, I don't think it's a source of worry in the interim. Okay, cool. Thanks, Keith. So for Graham, Andrew, and then Roger.",
+    "speaker": "kenmorrisg",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "reassure_stakeholders",
+      "defer_decision",
+      "evaluate_option",
+      "procedural_move",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 5612.193,
+    "end": 5656.863,
+    "text": " Yeah. Yeah. Thanks, Your Worship. I just wanted to point out that it's a quirk of local government statute that a person can build a house, the  financial year for Council starts July 1, their house can be signed off as compliant, but they don't pay the full capital value rates until the 1st of July the next year. They only pay rates on the land value. And for me, it's something that I would like to see a formal remit go down to local government New Zealand and ask for that  anomaly to be removed because it seems like it's a subsidy from the current ratepayers to the people who are taking advantage of all the things that we enjoy, but the money doesn't come in for quite a while. Thanks, Jim.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "provide_information",
+      "policy_proposal",
+      "procedural_move",
+      "express_concern",
+      "equity_reference"
+    ]
+  },
+  {
+    "start": 5659.167,
+    "end": 5762.034,
+    "text": " Yeah, so Your Worship, I guess, yeah, I mean, I understand the concern and in fact, yeah, I mean, it is frustrating, isn't it, that a new property can come on board, a new property can be utilising council services if the value of that property has not been captured in the system by 30th of June, yet we have to wait an entire rating year before we can rate that property.  Look, I guess it's, I mean, yeah, as you've acknowledged, that is based on the legislation, the legislative framework, yeah, but basically it requires Council to set its rates just once a year. We set the rates for the entire financial year, and then we bill those in four instalments, but the rates are actually set as of 1st of July, essentially.  Yeah, I mean, you know, potentially, yeah, potentially we could, yeah, we could, you know, take a remit through LGNZ, et cetera. Yeah, I guess I'd be a little bit dubious in terms of how successful that would be. Yeah, you know, I suppose essentially what we've got is a position where, you know, there is a lag in the system there.  due to the requirement to set our rates essentially in concrete for a full year at a time.  But, yeah, look, I do acknowledge the comment of Councillor Weber and the frustration and what appears to be a fairly unjust situation, as you say, for the other ratepayers who are essentially subsidising that property for the balance of the year.",
+    "speaker": "kenmorrisg",
+    "tags": []
+  },
+  {
+    "start": 5762.935,
+    "end": 5789.61,
+    "text": "Greg Morgan Ken, I don't think that it's widely known.  You could have a formula whereby, say that house came on in August, that they could pay the balance of the 10 months. It should be easy to administer. And I think it disadvantages a council like we are with massive growth. It's revenue that we don't get for quite a long while. Thank you. Perhaps I could take it, Your Worship, to my last conference.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "policy_proposal",
+      "evaluate_option",
+      "express_concern",
+      "state_opinion",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5792.867,
+    "end": 5824.116,
+    "text": " Yeah, well, it's certainly, thanks Graeme, it's a situation that we've all been aware of, I suppose, somewhat tongue in cheek, at least at the moment, most properties, the land value is half of what the capital value is, where it always used to be about 20%. But look, it would be a really significant change, and we certainly are not going to be able to sort anything out at this meeting, but something that we could consider for sure.  Andrew and then Roger.",
+    "speaker": "mayor",
+    "tags": [
+      "defer_decision",
+      "reassure_stakeholders",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5825.976,
+    "end": 5857.407,
+    "text": "Andrew Duncan Thanks, Jim. Yeah, I just want to acknowledge to Ken and Nada the tremendous amount of work that's gone into this four-month report. It's a very comprehensive one. It does seem that there's quite a lot of variations just being the first year of the long-term plan already after only four months. There's  Ken or Gary, have any comments or concerns about the changes in the forecast?",
+    "speaker": "andrewbrown",
+    "tags": [
+      "provide_information",
+      "state_opinion",
+      "ask_question",
+      "defer_to_authority",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 5864.125,
+    "end": 5961.415,
+    "text": " So, yeah, so through you, Your Worship, so look, I guess we're not looking at anything unusual in that sense. Yeah, a lot of the, I think a lot of the big numbers in terms of forecast changes are in regards to the timing of capital expenditure.  Essentially, that's on page 180 of your agenda, the State Statement of Capital Expenditure, and you can see some reasonably large numbers there in terms of variances that we're bringing through into the forecast. My understanding is that, you know,  a large chunk of those relate to growth-related capital expenditure. And so, you know, we're entirely in the hands of the development community in that regard.  Yeah, I don't think we're seeing particularly large numbers coming through the Statement of Comprehensive Income on page 176. I certainly know in other years we've had larger variances that we've been having to re-forecast.  Yeah, so look, we try to get the LTP to be the best estimate possible, and we added an annual plan there, the annual plan to be the best estimate possible based on the information we've got. But look, it is difficult to get those budgets exactly right. Things do change, and particularly in the capital expenditure space. Yeah, thanks for that.",
+    "speaker": "kenmorrisg",
+    "tags": [
+      "provide_information",
+      "cite_reference",
+      "clarify_point",
+      "reassure_stakeholders",
+      "community_reference",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 5962.343,
+    "end": 5967.126,
+    "text": " Thank you. You okay, Andrew? Roger.",
+    "speaker": "mayor",
+    "tags": [
+      "ask_question",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 5967.826,
+    "end": 6012.326,
+    "text": "Yeah, thank you. Through you, Mr Mayor, and I'm not too sure if you'd be able to answer this because it will be the operators, but the operating expenditure on the two pools, not just the new Cambridge pool, it's not quite achieving the revenue, but their expenses, not only in the  October report, but in the November report as well, are showing to be quite ahead of the split budget that should be at this time. Is there any reason, and it's both both Te Awamotu and Cambridge pools, any reason that you know of that they're having a challenge on their expenditure levels?",
+    "speaker": "rogergordon",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 6015.788,
+    "end": 6025.399,
+    "text": "Not that I know of, but I could look into it for you, if you like.  see if there's anything there worth mentioning and get back to you.",
+    "speaker": "nadamilner",
+    "tags": [
+      "assign_action",
+      "report_back"
+    ]
+  },
+  {
+    "start": 6025.899,
+    "end": 6039.967,
+    "text": "Because, I mean, during this last month, they've actually had, I'd imagine, a lot fewer people through. So, I mean, one would have anticipated that some of the expenses would have been chopped.",
+    "speaker": "rogergordon",
+    "tags": [
+      "state_opinion",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 6041.594,
+    "end": 6050.641,
+    "text": " Yeah, so I think with the income, probably the shutdown, I think the pools were actually shut down for quite a while. So that is probably impacting a bit there.",
+    "speaker": "nadamilner",
+    "tags": [
+      "provide_information",
+      "state_opinion",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 6052.182,
+    "end": 6058.426,
+    "text": "Yeah, it's not the revenue, it's the expenses level that I just can't see why they haven't come down accordingly as well.",
+    "speaker": "rogergordon",
+    "tags": [
+      "disagree",
+      "clarify_point",
+      "express_concern",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 6061.789,
+    "end": 6075.685,
+    "text": "That's a question we need to follow up, Roger, to get you an answer. We haven't got that level of detail, which we all do.  Yeah, were there any other questions? Claire.",
+    "speaker": "mayor",
+    "tags": [
+      "confirm_next_step",
+      "assign_action",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 6076.785,
+    "end": 6137.641,
+    "text": "Oh yeah, I had some questions about the non-financial performance that was reported on page 49 of the report and 215 of our agenda, because they're obviously wrong. The extent to which local authorities drinking water supply complies, the target is four months.  No, no, the target would be yes or no, you know, or fully compliant, you know, like, and they all got red marks against them, but I think something's gone wrong with the reporting system. And it's the same with the call-out times, which, you know, the target is 6,000, it's actually reported as 154 hours, which is also wrong. And it says staff are aware of that inaccuracy, but these other ones also,  obviously aren't right. Okay, I'll have to go back to Amy whilst I don't think she's here today.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "cite_reference",
+      "clarify_point",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 6137.661,
+    "end": 6144.363,
+    "text": "Yeah, I think it's just a glitch somehow because there's not been a problem in the past actually.",
+    "speaker": "nadamilner",
+    "tags": [
+      "state_opinion",
+      "provide_information",
+      "clarify_point",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 6144.763,
+    "end": 6147.605,
+    "text": "Yeah, okay. Thank you.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 6147.985,
+    "end": 6148.765,
+    "text": "Thanks Claire.",
+    "speaker": "mayor",
+    "tags": []
+  },
+  {
+    "start": 6150.61,
+    "end": 6203.824,
+    "text": " Yeah, so, Your Worship, sorry, just in regard to that and particularly the comment that there hasn't been an issue in the past, I'm just mindful that this is the first time we would have reported some new LTP measures.  So, yeah, so I am struggling to answer the question of why that's talking about four months. I mean, this is a four-month report. Whether we were sort of, you know, looking at compliance for, you know, on a month-by-month basis, and whether this is, you know, suggesting for the first two of those that we were compliant for three of the four months.  I'm not too sure, but yeah, but just bear in mind, my only observation here is just bear in mind that this is a new set of reporting measures that you may not have seen in the past before.",
+    "speaker": "kenmorrisg",
+    "tags": [
+      "clarify_point",
+      "provide_information",
+      "express_concern",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 6205.024,
+    "end": 6209.265,
+    "text": "Thanks for that clarification. That makes a lot more sense. Yeah. Thanks, Ken.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 6211.125,
+    "end": 6247.786,
+    "text": "OK. Right, thanks for that, Claire. We just need to tidy those up so that we  know what's been reported against. So, but we've got the recommendation there to receive the report. Is the firm's happy you're moving, Andrew? And seconded, Clare. All those in favour? Aye. Contrary, carried. And item 16 is the financial report for the period end of the 30th of November. We're going straight to NADER, is it?",
+    "speaker": "mayor",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "summarize_outcome",
+      "ask_question",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 6249.218,
+    "end": 6305.231,
+    "text": " Yep. Yes, correct. Thank you. So once again, I'll just take this as being read. So at the end of November, the income, our total income is currently at 33% of the forecast and the operating expenditure is at 37%.  And still with the capital expenditure, if you see that to date it was 42.3 million and it's tracking at 20% of the forecast. But I think once again, if you go down and look at the graph, once we get the forecast, the budget changes in there, that will start to look a lot more healthier, that percentage. So it will bring the forecast down below the LTP.  Is there any questions regarding the?",
+    "speaker": "nadamilner",
+    "tags": [
+      "provide_information",
+      "summarize_outcome",
+      "reassure_stakeholders",
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6307.212,
+    "end": 6310.774,
+    "text": "Any questions? Marcus.",
+    "speaker": "mayor",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6311.534,
+    "end": 6325.462,
+    "text": "I'm just wondering, just out of curiosity, are we having more troubles collecting revenue for our water rather than rates? Because I noticed the outstanding water rates is quite a lot higher than the actual rates, right?",
+    "speaker": "marcusgower",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 6329.462,
+    "end": 6334.213,
+    "text": " I can actually get back to Julie about that if you like and get back to you, Marcus, that's right.",
+    "speaker": "nadamilner",
+    "tags": [
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 6336.987,
+    "end": 6398.202,
+    "text": " Yeah, so through you, Worship, I mean, I guess the thing that I always look at on both the rate status report and on the water rates status report is I do look at the percentage of collection and I look at that compared to the prior year. Yeah, water rates are still performing reasonably well in regard to  comparison with the prior year, I noticed it is down a bit in terms of 73% collection rate versus 77% the year before. But not a great deal of difference between those numbers. And then actually conversely, when you look at the page before, page 227,  You know, you can see that actually in terms of the general rates, we're actually slightly up by one percentage point in both our collection of current year rates and arrears rates. Greg Morgan And Lou.",
+    "speaker": "kenmorrisg",
+    "tags": [
+      "provide_information",
+      "cite_reference",
+      "evaluate_option"
+    ]
+  },
+  {
+    "start": 6399.784,
+    "end": 6420.861,
+    "text": "Thank you. Through you, Mayor, just a quick question to note. We just see there that development and reserve contributions are only at 7 percent of forecast. Is that reflecting the fact that the  housing industry is slowing quite a lot and it's a simply that things are being held up with lack of supply or is that just a normal procedure?",
+    "speaker": "loubrown",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 6426.473,
+    "end": 6429.557,
+    "text": " Who wants to answer that? Oh, OK.",
+    "speaker": "mayor",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6429.977,
+    "end": 6479.493,
+    "text": "So, through you, Your Worship, look, this one, particularly development contributions, is very, very difficult to forecast. So, there are various triggers for development contributions to be paid.  generally revolving around issue of compliance certificates, et cetera, on the various subdivisions. So, yeah, so look, yes, that number does look low, but, yeah, but look, we do have plenty of growth in the district, and I can only assume that, you know, there's just some timing delays there.  Yeah, so look, I don't think that's of too much of a concern at this stage. I think those things do tend to catch up during the year.",
+    "speaker": "kenmorrisg",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "state_opinion",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 6482.015,
+    "end": 6494.703,
+    "text": "The other thing to bear in mind is that we're not yet at the peak of the construction season. So these subdivisions should start to yield allotments and financial contributions, I would think, towards the end of March.",
+    "speaker": "garrydyet",
+    "tags": [
+      "provide_information",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 6498.009,
+    "end": 6535.722,
+    "text": " Thanks, Gary. Any other questions? All right, if everyone's happy, can we have a mover and seconder to receive the report? Moved Councillor St-Pierre, seconded Councillor Lou Brown. All those in favour? Contrary. Carried. Now I have down here on my agenda  a break now, which I think is probably a good idea and a good opportunity. So are we happy with a 15-minute break?",
+    "speaker": "mayor",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "summarize_outcome",
+      "ask_question",
+      "confirm_next_step",
+      "close_discussion"
+    ]
+  }
+]

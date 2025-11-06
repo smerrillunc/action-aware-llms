@@ -1,0 +1,3154 @@
+[
+  {
+    "start": 0.031,
+    "end": 111.199,
+    "text": " I call this September 23rd meeting of the Albemarle County School Board to order. We welcome all of our listeners who might be joining in on the streaming services, and we will now have a moment of silence.  Thank you. And now we'll read this statement into our minutes. The minutes of this meeting should reflect that this meeting is being held electronically, pursuant to Virginia state law and Albemarle County ordinance, because the COVID-19 pandemic makes it impractical and unsafe to assemble a quorum physically in a single location. The meeting is being communicated to the public electronically through Zoom and streamed live on the Albemarle County Public Schools website.  and public comment may be offered through the Zoom waiting room feature in accordance with the school board's protocol or by written submission. And now to introduce the members of our board, Dr. Kate Akoff.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 111.219,
+    "end": 113.201,
+    "text": "Kate Akoff, Jack Jewett District.",
+    "speaker": "kateacuff",
+    "tags": [
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 114.483,
+    "end": 120.11,
+    "text": "John O. Alcaro. John O. Alcaro, at large. Katrina Carlson.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 121.191,
+    "end": 122.613,
+    "text": "Katrina Carlson, Rio District.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 123.254,
+    "end": 123.774,
+    "text": "Judy Lee.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 124.435,
+    "end": 125.837,
+    "text": "Judy Lee, Ribana District.",
+    "speaker": "judyle",
+    "tags": [
+      "public_addressing",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 126.526,
+    "end": 131.374,
+    "text": " Dave Oberg. Dave Oberg, Whitehall. Ellen Osborne.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 132.095,
+    "end": 133.778,
+    "text": "Ellen Osborne, Scottsville District.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 134.74,
+    "end": 143.734,
+    "text": "I'm Graham Page, Samuel Miller District. And our student rep is AJ Johnson. I'm not sure whether AJ has joined in yet or not.",
+    "speaker": "grahampaige",
+    "tags": [
+      "logistics_info",
+      "hedge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 145.317,
+    "end": 145.597,
+    "text": "He's on.",
+    "speaker": "kateacuff",
+    "tags": [
+      "logistics_info",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 148.342,
+    "end": 168.941,
+    "text": "All right, AJ. He's here. All right, let us know you're here, AJ. Say something.  All right, moving along then. Could I have a motion to approve our agenda for tonight? I move that we approve the agenda.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 170.142,
+    "end": 170.462,
+    "text": "Second.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "procedural_move",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 171.964,
+    "end": 184.478,
+    "text": "It's been moved and properly second that we approve the agenda. Moved by Ms. Del Cairo, second by Ms. Osborne. Any discussion of the motion? If not, Ms. Johnston, could you please take the role?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "vote_call",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 185.977,
+    "end": 203.883,
+    "text": " Mr. O'Carroll? Yes. Mr. Oberg? Yes. Ms. Osborne? Yes. Dr. Aka? Yes. Ms. Lee? Yes. Ms. Colson? Yes. Mr. Page?",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 204.384,
+    "end": 204.624,
+    "text": "Yes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 205.686,
+    "end": 206.347,
+    "text": "Motion carried.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 207.288,
+    "end": 211.674,
+    "text": "Thank you. We now need a motion to approve the consent agenda.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 212.956,
+    "end": 215.68,
+    "text": "I move that we approve the consent agenda.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 217.263,
+    "end": 218.164,
+    "text": " Second. I second.",
+    "speaker": "kateacuff",
+    "tags": [
+      "procedural_move",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 219.286,
+    "end": 233.063,
+    "text": "OK, moved by Mr. Alcaro, second by Ms. Lee and Dr. Acuff that we approve the consent agenda. Discussion on the motion? If not, Ms. Johnston.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "vote_call"
+    ]
+  },
+  {
+    "start": 234.185,
+    "end": 234.825,
+    "text": "Mr. Oberg?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 236.187,
+    "end": 237.669,
+    "text": "Yes.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 237.689,
+    "end": 238.33,
+    "text": "Ms. Osborne?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 239.051,
+    "end": 239.291,
+    "text": "Yes.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 239.752,
+    "end": 247.101,
+    "text": "Dr. Acuff? Yes. Ms. Lee? Yes. Ms. Colson? Yes. Mr. Alcaro?",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 248.296,
+    "end": 259.572,
+    "text": " yes mr page yes motion carried motion carries thank you um we now have an announcement from dr harriston dr harriston",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 275.785,
+    "end": 278.99,
+    "text": " Dr. Harrison, we are waiting for your announcement.",
+    "speaker": "grahampaige",
+    "tags": [
+      "request_action",
+      "follow_up_request",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 289.067,
+    "end": 336.344,
+    "text": "Mr. Page, I think if Dr. Harrison is not on right now, I can share his announcement. Today, Dr. Harrison sent me a text and he let me know  that there are two new sessions that are being offered through adult education through the Open Doors magazine. One of them is called What is Cultural Responsive Teaching? And the other one is an anti-racism orientation, unpacking what it means to be anti-racist.  And both will be offered once to the general public. And there'll be Zoom classes that are being offered through the Open Doors magazine. Did I miss anything, Dr. Harrison?",
+    "speaker": "matthewhaas",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "follow_up_request",
+      "defer_to_expert"
+    ]
+  },
+  {
+    "start": 337.245,
+    "end": 437.704,
+    "text": "I apologize. I couldn't get unmuted, or I couldn't get off my video. But I think you did a great job in my stay. But I just also wanted to add that we  This is of course done through our Open Doors catalog and registration is now open. We have about 50 different in-person and virtual classes that are being offered. Our community members have a variety of choices in classes from real creative sort of classes like raising chickens from eggs to beginner and advanced use of Excel to  staying safe in social media, to stone carving, to one of my favorites, the kids in the kitchen series. Kids are baking things such as holiday cookies, pizza night, cupcakes, and also taco Tuesday. We also would like the board to know that we're featuring two classes that may be of interest to them. The first is what is culturally responsive teaching?  And this class will be taught by an equity specialist on October 13. And the second is anti-racism orientation, unpacking what it means to be an anti-racist. That class will also be taught by an equity specialist. And I will place a copy of the link to the Open Doors digital sign-up announcement in the chat for board members if they want to review some of the offerings. Thank you, sir, and board members.",
+    "speaker": "bernardhairston",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 439.034,
+    "end": 441.078,
+    "text": " Thank you very much, Dr. Hairston.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 442.14,
+    "end": 500.597,
+    "text": "Thank you. Thanks, Dr. Hairston. And I just had two quick announcements. One, I just want to thank all the staff at Stone Robinson. I had a great visit at the school today. I really appreciate Ms. Stokes and her staff allowing me to just be around the building. And there's a lot of great teaching and learning happening.  The second thing is that throughout the course of this school year we are we we have invited our school principals to attend board meetings, just to be in the presence of the board and to  in many ways, gain a greater, bigger picture understanding of all the things that are happening in the school system outside their school, just as a form of professional development. And tonight, we do have Josh Walton, of course, from Walton Middle School, and Chad Radliff from the Lab School that are just here to visit tonight. Thank you.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "give_update",
+      "acknowledge",
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 503.834,
+    "end": 663.692,
+    "text": " Okay, thank you, Mr. Radcliffe and Mr. Walton. And welcome to our board meeting. Tonight, we have sort of the sad time that we are losing our student rep that has been with us for the last three months, AJ. And to sort of commemorate this occasion, here's a letter that we will be sent to AJ.  DAAJ, on behalf of our school board and school division, I want to express our admiration for your contributions this year as a representative of more than 13,000 students. This past quarter has called us to make important decisions to increase our support and protection of students, not only through a pandemic that brought great risk into our communities, but through such urgent policies as that which expands the protection of some of our most vulnerable students.  What has impressed us all is how consequential a representative can be, even without formal voting authority. Your willingness to speak up, to bring issues into clarity by sharing students' insight and experiences, and the thoughtfulness of your advice has led to better decisions by our board. When we created this position, our goal was not only to enhance the quality of our decisions,  for students and families, but to provide student leaders with the opportunity to learn more about representative governance, collaboration, and the courage of sharing convictions. If the state designed an SOL test for such public service, they would have to create a grade of A++++ for UHA. I hope you won't mind, but I want to share something you said in your application.  You wrote that your interest represented you going after something I've never imagined myself ever doing. It's me trying to achieve something that I never felt I could achieve. I think you expressed what many of our students and adults, I might add, have thought.  Congratulations on being such an outstanding role model, and through your engaging and collaborative leadership style, demonstrating that unity of purpose always is a process of addition. Best wishes for much success this year at our community lab school. Sincerely, Graham Page Chair, Albemarle County School Board. Hear, hear.  AJ, I don't want to put you on the spot, but do you have any comments for us at this time?",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "acknowledge",
+      "ask_question",
+      "reassure"
+    ]
+  },
+  {
+    "start": 671.12,
+    "end": 673.483,
+    "text": "We're having a little trouble hearing you, unfortunately.",
+    "speaker": "judyle",
+    "tags": [
+      "express_concern",
+      "request_action"
+    ]
+  },
+  {
+    "start": 673.503,
+    "end": 717.458,
+    "text": "Yeah. AJ, are you on? No. We can't hear you. No. OK, something is wrong, AJ.  All right, maybe we can try to come back to you at a later point because right now we can't hear anything that you were saying. All right. All right, moving on with our agenda, our next item is public comment. Ms. Carlson.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 720.948,
+    "end": 824.301,
+    "text": " Yes, sir. So I will start by reading the public comment guidelines. School Board invites and actively seeks the public's input in the matters relevant to school board governance and provides time during its business meetings to hear from Albemarle County residents and community members. As authorized by Ordinance of the County of Albemarle, the School Board will hold its meetings electronically during the COVID-19 pandemic.  The school board is nevertheless committed to encouraging public comment, despite its need to meet on a virtual basis. For this reason, there will be two ways for the public to provide comment. First, as always, written comments can be submitted to the school board clerk prior to the start of the meeting and will be given to all school board members for review, or you can email us directly, or ask the school board together. Second, as long as the school board holds its meetings electronically, members of the public wishing to provide public comment during the meeting may sign up online by 2 p.m. the date of the meeting.  Tonight we have 12 speakers. One of them just dropped out. So 12 speakers, which means that each speaker will have two minutes to speak. I will try to indicate when you have a minute left, but it's not a great notification. It's my finger up. So you want to look out for it, please, or be cognizant of your timing yourself. Speakers during the meeting or those submitting written comments should state their name and address our magisterial districts.  speakers should limit comments to those matters that are relevant to school board governments or the operations of the school division. Although the school board will not provide or will not respond to comments made during the public comment period, school board members may address comments at the end of the meeting agenda under other business. And Chair Page, I see that AJ mentioned that he had fixed his sound. Did you want to loop back to that right now or you want to do it later in the meeting?",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "logistics_info",
+      "public_addressing",
+      "clarify",
+      "procedural_move",
+      "request_action"
+    ]
+  },
+  {
+    "start": 824.402,
+    "end": 825.964,
+    "text": "I'll go after public comment.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 826.383,
+    "end": 843.553,
+    "text": " after public comment. Okay, so the first three speakers are going to be Lori Tamburino, Suzanne Daly and Shawna Hunter. So Miss Tamburino, if you are on. Hi, I'm here.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 843.633,
+    "end": 847.58,
+    "text": "Sorry, I was supervising bath time. So I had to switch places with my husband.",
+    "speaker": "lauritamberrino",
+    "tags": [
+      "acknowledge",
+      "clarify"
+    ]
+  },
+  {
+    "start": 848.362,
+    "end": 851.327,
+    "text": "Okay, it is your time to go. You can start when you're ready.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 851.813,
+    "end": 991.2,
+    "text": " Great, thank you. So first, I just want to say thank you to the school board and to Superintendent Hawes for all of the diligent work and focus that was given to the situation at Mountain View back in the late spring and early summer with the fifth graders, rising fifth graders. I'm a parent of two kids at Mountain View in the Scottsville district, and we appreciate the fifth graders being able to stay at Mountain View this year. So thank you for that.  I'd like to speak tonight briefly about the busing situation and the lack of bus drivers. And just wanted to offer some ideas and suggestions for ways to possibly bridge that gap with the driver shortage. I know that there are other districts in other states that have reached out to their National Guard.  to get drivers. So if that's something that the school board has considered. There's also been some districts that have paid parents to be the drivers for their kids to kind of help if there was issues with paying for gas or things like that, or giving gas cards to families that might be an impediment to getting their kids to school.  Other ideas would be, especially for our elementary kids, school gets out pretty early if you're going to do pickup. Also, because of the pickup lines being so long, at least at Mountain View, when I go to pick up my kids, I have to get to school at 145 and sit there in my car with my baby until dismissal starts at 225 in order to not be  stuck out on Avon Street, which is a safety issue, and basically and stopped traffic. So, you know, maybe there's a situation where we could, especially for the elementary kids, have parents sign up for supervising sessions after school for an hour of recess time and let the kids play and then have pickup times be at 330 or something that might  allow for more parents to be able to pick up and not be on the bus. So I think there are just some creative solutions and I'm happy to be part of that.",
+    "speaker": "lauritamberrino",
+    "tags": [
+      "public_addressing",
+      "acknowledge",
+      "express_concern",
+      "policy_proposal",
+      "ask_question",
+      "logistics_info",
+      "request_action"
+    ]
+  },
+  {
+    "start": 992.441,
+    "end": 1009.041,
+    "text": "Sorry, I didn't give you the one minute. Sometimes I forget. Thank you for providing comments. So the next speaker, thank you for those. The next speaker will be Suzanne Daly. Hi, Ms. Daly, whenever you're ready.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1009.173,
+    "end": 1142.927,
+    "text": " Hi there. I'm in the Rio District. So I have emailed every single one of you a document with compiled research on the effects of masking on school-aged students. I received no response. I realize that the school board is impacted by a top-down effect for COVID protocols, but there are things that are within your control, and you have chosen to shirk your responsibilities to read, understand, and use data and statistics to drive decision-making for our children. Remember that ACPS teaches statistics to our kids.  As a pediatric speech-language pathologist, the research on the harmful impact of masking is daunting. But before I get to that, I want to share that children have a .000005 chance of dying from COVID. How does this stack up against children killed in car accidents? They are 11.5 times more likely to die in a car accident than from COVID. 11.5. A risk-reward calculation should and must be used when making decisions that impact our children. Back to masks. The great news about the kinds of masks our kids wear to school  is that they're 10 to 12% effective, according to a recent study at the University of Waterloo.  Said differently, masks are 88 to 90% ineffective. Why does that matter? Because as the paper I emailed all of you delineates, masking impacts the social-emotional development of at-risk children, literacy and phonological development of early readers, speech-language development and self-advocacy for children with special needs, and a significantly decreased acoustic environment for all in a classroom. While some of you are at a local gym working out within six feet of your trainer unmasked, you know who you are,  Our children are trying, trying their best to breathe, read lips and facial expressions, learn phonemes and hear clearly while an unbreathable barrier with 10 to 12% efficacy is strewn across our children's faces. On a related note, as a former scholastic and collegiate athlete and former varsity coach at an ACPS high school,  I find it appalling that you would be requiring vaccinations for student athletes as yet another power grab and mass shaming incident. These athletes who drive themselves to practices and contests are 11 and a half times more likely to kill themselves getting there than they are of ever dying from COVID, yet you're giving them an ultimatum. If you want to play the sport you love, you must sacrifice your own bodily autonomy to us, even though the risk of you dying from this thing is so nil. It's time for some perspective. Thank you.",
+    "speaker": "suzannedaileyms",
+    "tags": [
+      "express_concern",
+      "cite_external_source",
+      "opinion",
+      "public_addressing",
+      "disagreeing",
+      "request_action",
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 1143.43,
+    "end": 1161.569,
+    "text": " Thank you for those comments, Ms. Daly, and that was perfectly timed. Thank you for paying attention to that. The next speaker will be Shawna Hunter. And then the three speakers following that will be Julie Dupree, Lucy Spencer, and Joanne Solis.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 1162.01,
+    "end": 1165.654,
+    "text": "So we can get prepared. Shawna Hunter has not joined the meeting.",
+    "speaker": "Unknown",
+    "tags": [
+      "give_update",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 1166.675,
+    "end": 1172.661,
+    "text": "OK. So Julie Dupree, you are on.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1175.408,
+    "end": 1176.309,
+    "text": " All right, can you hear me.",
+    "speaker": "juliedespres",
+    "tags": [
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1177.009,
+    "end": 1177.75,
+    "text": "Yes, ma'am.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 1178.651,
+    "end": 1188.66,
+    "text": "Sorry, I'm just learning how to use zoom thing. All right. I don't see myself. So I just start talking. Yep, you can start talking and I'll start up now. There I am. Sorry.",
+    "speaker": "juliedespres",
+    "tags": [
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1189.361,
+    "end": 1191.303,
+    "text": "So you can start talking and then I'll start the timer.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 1192.384,
+    "end": 1318.523,
+    "text": "Okay, thanks. My name is Julie. And I'm in the Scottsdale district. It's been my son's dream to play varsity soccer since he was four years old.  So I have some questions and comments about the new mandates. How can you mandate an injection for my son when studies show kids his age are 3.7 times more likely to get heart inflammation than to be hospitalized with COVID? When the people you're following orders from are corporations that are knowingly killing tens of thousands of people and have been paid out millions in lawsuits?  when you are not mandating the unvaccinated athletes to test weekly when we know that vaccinated people are spreading the virus? How can you mandate weekly tests for my son when tests are inaccurate and the FDA has told us they don't work to differentiate the cold, the virus, or a flu? You are mandating an injection for my child that, quote, mirrors a mild cold or allergy symptoms or stomach illness, end quote, as said by the Baker Butler newsletter to the parents this week.  You and I may disagree on who we trust, as far as coven, or the injection goes and I'm personally more scared of the injection than the virus and if there's a risk there needs to be a choice. And I choose to take my chances with the virus, not the injection This is my child, encourage us parents, no matter what side of the engine.  injection we are on. These are huge medical decisions and hard either way, but it's not your choice. So tell me why my son needs to be put through more stress, wondering if he'll get to play each week. Tell me why you're breaking a 70 plus year code that states that voluntary consent is essential, should and should be such as to yield fruitful results.  When will you stand up for our kids? When will you be more concerned about their mental and emotional wellbeing rather than the choices that we're making as parents? This mandate may take my son's high school varsity dream away, but I'd rather that dream than his life. Thank you.",
+    "speaker": "juliedespres",
+    "tags": [
+      "public_addressing",
+      "ask_question",
+      "express_concern",
+      "request_action",
+      "cite_external_source",
+      "opinion"
+    ]
+  },
+  {
+    "start": 1318.543,
+    "end": 1389.027,
+    "text": "Thank you for those comments, Ms. Dupree. The next speaker will be Lucy Spencer.  Ms. Spencer has not joined the meeting. So I'll mark her. The speaker after that will be Joanna Saliedi. I'm sorry, I'm not pronouncing that right, Saliedi. While we give her a few seconds, the three speakers who will be following her are Sarah  Rymold, Catherine Zoll, and Sandra Holbrook. I probably should just increase the font size on my Excel. So Joanna, I see you on, but you're not unmuted. So I don't know if you stepped away. I'm going to skip over you and we'll try again at the end. So we will follow up with Sarah Rymold.  Hello, Ms. Reimold, I see you. Can't hear you.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "public_addressing",
+      "logistics_info",
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1389.868,
+    "end": 1390.348,
+    "text": "Am I muted?",
+    "speaker": "mayakumaza",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 1392.791,
+    "end": 1399.437,
+    "text": "You're muted. Happens to the best of us. Sorry, hopefully you can hear the dog.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "public_addressing",
+      "logistics_info",
+      "reassure",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1400.678,
+    "end": 1502.854,
+    "text": "OK, I'm Sarah Reimold, and we live in the Samuel Miller School District. And I would like to comment on the requirement for athletes to get the COVID-19 vaccine.  or submit to weekly testing. Data from the Blue Ridge Health District portal shows clearly that there's been zero deaths under age 40 in the entire health district since March. So this is not something that is actually a risk to children in this area. And there's also no data that the shots are safer than that. There's just not.  Data from Albemarle County Schools says that over 80% of the students have already been vaccinated. So why are students being coerced into taking a medical intervention that has a risk of serious adverse events, especially for the 16 to 19 age group, referring to my myocarditis. Just recently at the CDC meeting, Dr. Matthew Oster recently told the FDA task force that mRNA vaccines are linked to this serious side effect in that age group.  And are you, the school board, going to be financially responsible for the care or the medical bills of a child who's injured by this because they were coerced into taking this experimental injection that's liability-free and is made by criminals? I hope that someone sues you because it's ridiculous that you would require that of children.",
+    "speaker": "sarareimold",
+    "tags": [
+      "public_addressing",
+      "express_concern",
+      "ask_question",
+      "opinion",
+      "cite_external_source",
+      "request_action"
+    ]
+  },
+  {
+    "start": 1509.668,
+    "end": 1511.51,
+    "text": " Ms. Brown, would you have a few seconds left, are you done?",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "ask_question",
+      "request_action"
+    ]
+  },
+  {
+    "start": 1512.592,
+    "end": 1515.215,
+    "text": "That's really all that needs to be said, I think.",
+    "speaker": "sarareimold",
+    "tags": [
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1515.936,
+    "end": 1535.463,
+    "text": "Thank you for your comments. The next speaker will be Catherine Zoll and Sandra Holbrook. So Ms. Zoll, let me see if I see you.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 1535.483,
+    "end": 1672.39,
+    "text": "Hi. Hi.  Thank you for providing this forum for us to be heard, first of all. Honestly, you know, when I approached this meeting today, thinking of speaking about all that's going on with COVID and the response within the schools, I found it quite, quite overwhelming. I just, I really decided to narrow in on one point. And that's the point that we're trying to play a role that is not  the role we're supposed to be playing here. We're trying to play a medical role. Our role as educators is to provide people with information, reliable statistics and resources, and educate them and help them make the best decision for the safety of their children. And instead, we're addressing everybody's fears with, this is what we're going to do to make you safe. We're going to make this decision for you. But that's not our role.  None of the people on the school board or in the school system are hired medical professionals that have been hired by families. Your role is to educate. And so therefore, instead of making mandates on people's health concerns, you should be providing statistics and reliable information in a newsletter or some sort of board that's created  from volunteers, I'm a medical professional, I'll volunteer, I'll go through studies, put out a newsletter once a month, and tell them the reality of things, because people are just scared. And so all these parents think, I'm so scared because of what's being told to me by all these officials. I need to comply to this in order for my kids to just get back to a normal life. And it's just so wrong. And it's such an abuse of power. And it's not our role.  It's not the education system's role to make a medical decision for any individual. It's encroaching on people's civil liberties. And when you do things like that, like the lady previously mentioned, you become liable.",
+    "speaker": "katiezoll",
+    "tags": [
+      "public_addressing",
+      "express_concern",
+      "opinion",
+      "policy_proposal",
+      "request_action",
+      "defer_to_expert"
+    ]
+  },
+  {
+    "start": 1674.132,
+    "end": 1699.943,
+    "text": "Ms. Stoll, your time is up. Thank you for those comments.  The next speaker will be Sandra Holbrook, and I'll just announce the rest of the speakers after that will be BJ Panku, Danielle Mace, and Allison Nagel. So Ms. Holbrook, I see you. Don't hear you. You're muted.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "procedural_move",
+      "logistics_info",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1702.606,
+    "end": 1707.271,
+    "text": "Can you guys hear me now? Yep. Hi. Can I get started?",
+    "speaker": "sandraholbrook",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1708.352,
+    "end": 1709.573,
+    "text": "Yes, ma'am. Sure.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 1709.89,
+    "end": 1825.093,
+    "text": " I'm in the Ravana district. I oppose the policy requiring all student athletes to receive the vaccine or be subjected to weekly testing. The recent CDC update shows the vaccine is not as effective with the Delta variant as it was with the Alpha variant. This is evident as we see vaccinated staff members continue to get infected. If the goal is to prevent the spread of the disease, then all should be tested instead of just singling out a small minority.  This is clearly not equitable and creates barriers. The children of parents that have the flexibility or means to take them to get tested will be able to play sports. Those without will not. It is in direct contradiction to ACPS's value statement of, we will mitigate barriers and provide opportunities for every student to be academically successful. We know that playing sports allows students to do better academically.  Proposing to test these athletes during the school day singles them out amongst their peers and teachers. Kids notice everything. It risks violating their medical privacy and FERPA. It seems the purpose of this policy is to make things more difficult for families that have chosen not to vaccinate their athletes. Healthy, active teens are in the lowest risk category. Regarding quarantining policies, I wholeheartedly support quarantine measures if they are indeed preventing the spread. Unvaccinated students are required to quarantine if exposed.  Since the vaccine shows decreased efficacy against the Delta variant, should we not be quarantining everyone considered a close contact? Considering the interruption to education and the burden to families that quarantining causes, is ACPS collecting data to determine if it is effective? Does the data show that the students who are quarantined are subsequently testing positive? What is the threshold for determining if quarantining is worth the negative impact it is causing students and families?  For the sake of transparency, will the board please share that information with the community? Thank you.",
+    "speaker": "sandraholbrook",
+    "tags": [
+      "express_concern",
+      "ask_question",
+      "request_action",
+      "follow_up_request",
+      "policy_proposal",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1827.557,
+    "end": 1840.2,
+    "text": "Thank you for those comments, Ms. Holbrook. The next speaker will be BJ Panku. I'm imagining I did not pronounce your name right. And for that, I apologize.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1840.3,
+    "end": 1937.138,
+    "text": "That's all right. Can you hear me? Yes.  Okay, thank you all for letting me join and for all your service to the community. And I have to say hi to Dr. Haas every time I see him. And my comment has to do with the COVID-19 test, which are not approved or licensed by federal government. They are emergency use authorization only.  And according to Title 21 of the Federal Food, Drug and Cosmetic Act states, the option to accept or refuse administration of the product or the consequences, if any, of refusing administration of the product and alternatives to the product that are available and of their benefits and risks. And this is being mandated for unvaccinated.  or people that prefer not to say, and we all know that people who are vaccinated are contracting COVID, so why is it not the same for both? At the end of the day, we know that all of you want the best for the students, and there's no denying that. It's just a matter of,  Are we looking at all the information and quality research that we can, or are we only getting our information from one source? And thank you for your time.",
+    "speaker": "bjpankau",
+    "tags": [
+      "express_concern",
+      "cite_external_source",
+      "ask_question",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 1940.562,
+    "end": 1948.112,
+    "text": "Thank you so much for those comments. The next speaker will be Daniel Mace.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1950.555,
+    "end": 1951.396,
+    "text": "He's not in the meeting.",
+    "speaker": "Unknown",
+    "tags": [
+      "logistics_info",
+      "clarify"
+    ]
+  },
+  {
+    "start": 1952.978,
+    "end": 1962.696,
+    "text": "Let me mark it on my sheet.  The following speaker after that will be Allison Nagel, who I believe I saw on already. Dr. Nagel.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "procedural_move",
+      "logistics_info",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1964.14,
+    "end": 2106.678,
+    "text": "Hi, it's Nagel. Thank you.  Sorry about that. No, that's totally fine. This is a rough way to start your meeting. So I appreciate that you guys take the time to listen to all of us parents about lots of concerns. I know that you're doing your best. So my name's Allison Nagel. I'm a clinical psychologist. I'm a mom to a little boy with special needs named Carter, who until recently was a student at Brownsville in the special education preschool program there.  With only two minutes, I just want to present four points for your consideration regarding the mask mandate for all students in the county. For some context, I'm 100% pro-masking, pro-vaccine mandates, hugely support the spirit behind the policies that are there to protect our kids, and my specific concern is for how this is impacting children with disabilities.  So first, the lack of flexibility in the mask policy to accommodate disabled students contributes to inequity in learning opportunities for our most vulnerable kids. It's not in accordance with CDC policy. It's not in accordance with the state of Virginia policy, both of which allow for exemptions in the case of disability. Second is that the policy is only not illegal and discriminatory because, according to the county, you guys have provided an acceptable alternative, right?  So for disabled children, offering virtual learning to those who simply cannot access that form of education is not acceptable it is not at all the same. My child has attended to a screen, exactly zero times in his entire life.  He received speech therapy, physical therapy and occupational therapy during the school day, none of those services can be replicated online and none of them are presented as alternatives there was no access to the services, the disruption in his services would have been hugely impactful to him.  Third, I know you are facing impossible situations, and you're making impossible choices. And I completely get that. But you took a challenge right the challenge is how do we educate children who cannot wear masks because they are disabled.  And he took it and he thrust it back at parents who were just trying to do our best. And we got no warning. So I got a call that told me that my child had four days to show vast improvement in a skill that he simply does not have that we worked on for 18 months. And that if he did not show improvement, he could not come back to school. Am I out of time?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "express_concern",
+      "cite_external_source",
+      "request_action",
+      "give_update",
+      "acknowledge",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 2107.239,
+    "end": 2113.684,
+    "text": "Yes, I'm sorry, Dr. Nagel. Please feel free to follow up with email. All the speakers, please feel free to follow up with email.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "follow_up_request",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2113.704,
+    "end": 2120.295,
+    "text": "I've called like everybody, but I should email. That's the next step.  Yes, and calling is also good.",
+    "speaker": "Unknown",
+    "tags": [
+      "give_update",
+      "request_action",
+      "reassure"
+    ]
+  },
+  {
+    "start": 2120.796,
+    "end": 2150.55,
+    "text": "Sorry, that's personal moment because there was someone who called me who I didn't write it down and I couldn't call them back maybe. So I was pretty. Thank you. Sorry about that. So the next speakers were through the list. I just want to really quickly cycle back through because I did see one of them on so Miss Hunter.  Yes, ma'am. Can you hear me? Yes. And real quick after that, we'll go through Lucy Spencer, Joanna Salidas, and Daniel Mays and see if they're on. Hello, Ms. Hunter. You can go.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "acknowledge",
+      "logistics_info",
+      "ask_question",
+      "request_action"
+    ]
+  },
+  {
+    "start": 2151.205,
+    "end": 2218.855,
+    "text": " Okay, hi, I'm actually in the Rio district. And I'm actually in support of the mass mandate, just because I'm on the other side of the situation. I'm not an educator, but I'm in healthcare. And so I work with children, and I just want to offer just insight. I have three children that are in the Rio district. And so I'm not willing to risk them dying, or  a possibility of dying. That possibility makes me make them wear their mask every day and also fill out the questionnaire honestly. And so I just urge everyone else to do that as well because we are all in this together. I know everyone is frustrated. I am as well. But my frustration lies  It's just minute to think that one of the children in the community or in our area could possibly die. That's what makes them wear their mask. And I just urge everyone else to do that as well. That's it.",
+    "speaker": "shawnahunter",
+    "tags": [
+      "express_concern",
+      "opinion",
+      "public_addressing",
+      "request_action"
+    ]
+  },
+  {
+    "start": 2221.258,
+    "end": 2243.813,
+    "text": "Thank you for those comments, Ms. Hunter. The next speaker, who I also see on, actually, Lucy Spencer. If Lucy Spencer is on, I do not see her.  So after that, Jennifer, she's not only correct. Correct. OK, after that will be Joanna Salinas, who I do see on. Miss Salinas, you can speak when you're ready.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "procedural_move",
+      "clarify"
+    ]
+  },
+  {
+    "start": 2246.938,
+    "end": 2382.314,
+    "text": "OK, so you hear me? Yep. OK.  Thank you, members of the school board for your time and attention. People often reduce issues like whether vaccine mandates are moral to scientific questions. Science does give us valuable facts like at the FDA hearing on whether to approve boosters for all. A scientist reported the rate of vaccine induced myocarditis in 16 and 17 year old boys  to what has one in 317 science also tells us valuable information about coven risk, like it is highly dependent on age, and secondarily obesity, even though sometimes young and healthy people die for children the flu is more dangerous than coven even though children to can die.  But science only gives us information about the questions that are asked. For example, the CDC told us that teens are more likely to be hospitalized from COVID than from vaccine-induced myocarditis, but there have been no published studies directly comparing teen hospitalizations from COVID to teen hospitalizations from all vaccine side effects or the extent to which either category of hospitalization depends on obesity or other health factors.  Science gives population-level risk factors, sometimes broken into demographic groups and often not. For each of us as individuals though, of course, it cannot tell us whether risks of the vaccine outweigh the risks of COVID. Given that all pharmaceutical interventions involve risk, we have to ask, who is best suited to evaluate the individual factors that go into a cost-benefit analysis that may involve serious injury or death?  It is clear to me that values, not science are required to answer this question. We've heard a lot of messaging that the benefit is worth the risk, but the benefit to whom compared to the risk to whom, given the difference between demographic groups and risk.  For both the vaccine and the virus, it is clear that mandates, in fact, sacrifice the health of some for others. What I ask from each of you is that you take the time to sincerely listen inside yourself to your heart's deepest wisdom or to pray if you pray for guidance on this matter. Is this decision regarding this life or death matter yours to make for the children and staff in this district? Thank you.",
+    "speaker": "joannasalidis",
+    "tags": [
+      "public_addressing",
+      "opinion",
+      "request_action",
+      "express_concern",
+      "cite_external_source"
+    ]
+  },
+  {
+    "start": 2383.656,
+    "end": 2401.851,
+    "text": "Thank you so much for those comments.  The next speaker, Daniel Mace, I do not see on. Ms. Johnston did just send me a notification that Lucy signed on. And Lucy, since you're here and you had signed up, if you're available right now, it's your time to speak.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "logistics_info",
+      "public_addressing",
+      "request_action"
+    ]
+  },
+  {
+    "start": 2401.871,
+    "end": 2517.447,
+    "text": "Hi, thank you for having me. Sorry, I'm out waiting on a COVID test. So hopefully that comes back soon. I didn't see that email earlier today.  My name is Lucy Spencer. I am a parent and employee here at Alamaro County Schools, and I'm concerned about transportation, just like you are. I have two girls in middle school, and I work in the elementary schools, which means our schedules are opposite.  Their bus usually comes around 810 in the morning and so I've been able to because I'm not a classroom teacher and I have some flexibility I'm able to adjust my schedule a little bit. We've been getting phone calls this week that our transportation would be one hour late. I'm unable to make that work.  do my job for the teachers that I serve each day. I called the school to see if there would be availability for early morning drop-offs, as there have been in the past, obviously prior to COVID, in order to support me in trying to do the job that I was hired to do and to support my girls so that they're not missing instruction.  I know that there are, these are difficult times and you can't create people out of nothing, but there are some other consequences that that are affecting teachers and people and I think we need to be thoughtful about all the consequences when decisions like this are being made.  And I'm pretty fortunate. I'm in a family that has two cars. I'm in a family that has relatives nearby. But I'm not sure that's the case for everyone. So I just would hope that you would think about all of us and how these decisions are impacting everyone. Thanks.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "express_concern",
+      "request_action",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 2530.133,
+    "end": 2531.275,
+    "text": " You're muted, Katrina.",
+    "speaker": "davidoberg",
+    "tags": [
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2534.059,
+    "end": 2548.14,
+    "text": "Like I said earlier, it happens to the best of us. And I have said quite a lot, which was, one, thank you, Lucy, for those comments. I hope you feel better soon and that your COVID results are negative. And then I was just saying that that concludes public comment, and I hand it back to you, Chair. Thank you.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "procedural_move",
+      "acknowledge",
+      "reassure",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2548.941,
+    "end": 2575.849,
+    "text": "OK, thank you so much, Vice Chair Carlson.  AJ has been able to solve the problems with the computer. So we'll hear from AJ on his last night with us as our rep. AJ. Are you there, AJ?",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "give_update",
+      "procedural_move",
+      "public_addressing",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 2581.137,
+    "end": 2582.719,
+    "text": "It's still not working, yeah.",
+    "speaker": "kateacuff",
+    "tags": [
+      "give_update",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 2585.197,
+    "end": 2612.352,
+    "text": " OK, AJ, it's still not working. We'll come back to you again then, AJ. Hold on. See if you can get it solved. So sorry. Our next item on the agenda, the COVID-19 update, Dr. McLaughlin and Ms. Gomez.",
+    "speaker": "grahampaige",
+    "tags": [
+      "request_action",
+      "procedural_move",
+      "logistics_info",
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2615.69,
+    "end": 3115.429,
+    "text": " Good evening, board members. I'm Pat McLaughlin, chief of strategic planning for the school division. And I'm here tonight to provide a COVID-19 status update, as well as an update on our staff vaccination program. And with me tonight is Eileen Gomez, our school nurse coordinator and our COVID coordinator who can provide some insights into any questions you may have. And also joining us tonight is Ryan McKay from the Blue Ridge Health Department, who can also give us some information later in the  presentation. So let's get started. So as you know, we have realigned the format of our update with the most recent guidance provided to us by the Virginia Department of Health. And as all public schools in Virginia are required to open five days a week for in-person instruction, the newly updated guidance provides five steps for school divisions to consider as operational decisions are made during the 21-22 school year. The first of these steps is to evaluate the level of community  disease transmission at the local level. So the level of community transmissions discernment is determined using two measures. The first is the total number of new cases per 100,000 people in the past seven days. And the most recent data we have is from Tuesday, September 21. And at that time, our seven day  total per 100,000 people was 276 cases, putting us in the high transmission category. The second measure is the percent of NAAT tests that are positive during the past seven days. And our latest percent positivity is 5.4%, which puts us in the moderate transmission category. And when those two indicators are at different levels, the VDH recommends using the indicator with the higher value. So our community transmission level at this time  is in the high category, as you can see the entire Commonwealth of Virginia. So the second step is to understand the community level of vaccination coverage. And as I've said before, this continues to be a bright spot in Albemarle County. In Albemarle, we have 86.3% of our 12 to 15 year olds vaccinated with one dose, and that's up from 84.3 the last time we spoke.  and we have 87.7% of our 16 and 17-year-olds with at least one dose of vaccine up from about 86.9. In terms of fully vaccinated students in those populations, our 12 to 15-year-olds have hit 77.9% up from 75.2, and our 16 and 17-year-old age group is at 80.9 up from 79.1%.  And the third step in our operational decision-making is to consider the level of impact that the virus is having within our schools. So now that students have returned to school, we can again use this metric as an operational strategy. And as expected, we continue to have positive cases in our schools, and the vast majority appear to be isolated cases. We are, however, tracking a small number of suspected connected cases where there are at least two or three cases in one class.  We'll continue to work with the Blue Ridge Health Department to determine if these are actual school to school transmissions. And so we are probably hovering between the low and the medium depending on the outcome of of those findings at the Blue Ridge Health Department.  One of the second criteria we have a student absenteeism, and we have started to put a little bit more of a metric around this, we are going to use our school year 1819 attendance rate as our baseline. That year, our division average and 95% attendance rate over the course of the year.  And since our last board meeting, our overall attendance rate in our schools was also at 95% for non-COVID absences. So our non-COVID absences are really staying about the same as our baseline is. When we look at today's COVID absences, we see that 2.7% of our students were working from home today due to COVID quarantine requirements. So our actual attendance rate was closer to 92% with that factored in.  So this would probably put us at the slightly above baseline or the medium level of impact for student absenteeism. And finally, we look at staff capacity. And as we speak to principals throughout the division, I really feel that we've got to classify our staff capacity as strained in the medium level here. We are seeing multiple schools in which teachers and administrative staff are having to cover classes for absent teachers because their positions were not picked up from a substitute.  That's a strain on a school. We'll continue to monitor all of these factors, both at the school and the division level, and we'll continue to make operational decisions on a school by school basis based on the level of impact at that particular school.  And as a final piece of our report, I'll remind the board of our layered approach to prevention strategies in our schools. We have and continue to have, we feel, strong mitigation strategies, which include promoting vaccination, consistent and correct use of masks, physical distancing, enhanced ventilation, a proper hand-washing and respiratory etiquette, cleaning and maintaining healthy facilities, having everyone stay home when they're sick and get tested, and contact tracing in combination  with isolation and quarantine.  In addition to our COVID metrics tonight, I'd like to provide you with some updated information about the status of our staff with regard to the COVID vaccine. As we shared at our last meeting, we've been collecting vaccine status information from our staff. This chart shows the updated information between our last meeting and now regarding all of our full and part-time regular employees. So as you can see, about 90% of all of our employees are fully vaccinated.  We've broken that out, broken that our teachers into a separate group. And here you can see that about 96 percent of our teachers are fully vaccinated. We know that these numbers will fluctuate as we gain and lose employees and as vaccination status changes for some employees.  When we take a deeper look into our teachers, you can see the breakdown between our instructional levels. We have about 95% of our elementary teachers, 97% of our middle school teachers fully vaccinated. This high rate of vaccination is especially helpful to know as most of our students at these levels are not yet able to receive the COVID vaccine themselves. And we've also begun collecting data on our temporary employees as well as our regular employees who have been hired.  And as you can see from this chart, our athletic coaches, short and long term substitutes, student teachers, new hires, and other temporary employees also have a high rate of COVID vaccination. And we'll continue to collect the information from this group as new folks come on to those positions.  And I'd also like to provide the board with a brief overview of the COVID testing program. As a reminder, any employee, regular or temporary, must participate in weekly COVID testing if they are not fully vaccinated. We began this testing last Wednesday and to date have received the results of 194 tests. We're awaiting results of 83 recent tests and have 28 employees who will need to test by tomorrow to be compliant with the testing regulation.  While Genetworks indicates a turnaround of testing results in 48 hours, at this point, we are seeing a better than average return of 18 hours for those tests. In this first round of testing, we've had two positive tests. And as a reminder, all of our employees may utilize our four testing sites regardless of their vaccination status. They can come get a test anytime they'd like.  And finally tonight, we are happy to say we've got Ryan McKay back with us from the Blue Ridge Health Department, and I was going to turn the floor over to Ryan, just to give you a brief update of what he's seeing, and we're also happy to take any questions from the board. So, Ryan.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "public_addressing",
+      "defer_to_expert",
+      "procedural_move",
+      "logistics_info",
+      "reassure"
+    ]
+  },
+  {
+    "start": 3119.138,
+    "end": 3338.374,
+    "text": " Thank you for the opportunity to come and speak. My name is Ryan McKay I'm the director of policy planning and coven operations for Blue Ridge. So, as you know, and the community knows we've seen a pretty significant surge related to the delta variant, and just sort of going backwards a little bit. As we've mentioned in other forums.  Delta arrived here in Virginia and specifically the health district right around the same time that the executive orders expired so we've lost any of the mandates that were in place regarding social distancing masking limits to the number of individuals who could attend social gatherings or events.  And so that combination of the Delta variant and the opening up of our community and our society has really contributed both equally into where we stand at this point. We have seen a pretty significant surge, obviously with schools in place and children back on buses and in elementary, middle and high schools.  we are expecting to see cases emerge. I think that the benefit to having gone through this for the last year, year and a half, is that schools across the district and specifically with Albemarle County have done a tremendous job to mitigate the risk to the extent possible.  And I think important in that is that relying on the schools to do the contact tracing, once a case does emerge, and if that child has been in school whether infectious quickly identifying those individuals so that they can work on contact tracing. And that's one important change I think we want to highlight tonight.  So in the past we've been contacting families whose children are identified as close contacts. And what we recognize is that we're duplicating a lot of the effort that's already been put in place by school nurses and administrators who have already reached out to families.  And so what we're doing is we're going to continue to collect those line lists, rely on the contact that schools have made to those families, but we're not going to duplicate that effort anymore. And what this does is it allows us to focus on some of the community cases that we haven't gotten to in a timely fashion related to this particular search. And by doing so, we actually think we're going to minimize the number of children who may come to school because they would be put in quarantine prior to arrival.  So it's just an example of how much confidence we have in the school's ability to identify close contacts and then provide that information in a timely manner.  We continue to prepare for boosters. The FDA approved late last night boosters for certain groups. One which is kind of a broad category right now is 18 to 64 year olds who work in an institutional or occupational place that presents some sort of exposure risk. We don't have details on what that really means and we'll need to wait for Virginia Department of Health to approve all of that.  And obviously we're keeping a very close eye on what the FDA may do with Pfizer for 5 to 11 year olds. This is really the next big step in providing another layer of mitigation for schools for children who want to come to school and really minimizing the risk again to another extent possible using that.  No trends right now in terms of cases. We're seeing a little bit of a dip, but I don't want to say that we're on a downward trend with the current surge. So really critical that we continue to maintain all of the mitigation strategies that have been successfully implemented thus far. I'm happy to answer any questions you may have from the public health perspective.",
+    "speaker": "ryanmckay",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "clarify",
+      "reassure"
+    ]
+  },
+  {
+    "start": 3344.6,
+    "end": 3386.39,
+    "text": "Ryan, this may be completely out of left field. And if it is, I apologize.  You can just laugh at me and tell me to go away. I was contacted by a parent this morning who asked if it's not possible to do an antibody test because some people who have had COVID  have a certain level of immunity that may be comparable to having had a vaccine. Is that true? And if so, is there a test that could be quantified to say, hey, look, you have the antibodies, and so it would not be necessary to get a vaccine?",
+    "speaker": "davidoberg",
+    "tags": [
+      "ask_question",
+      "defer_to_expert",
+      "request_action",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3388.694,
+    "end": 3435.075,
+    "text": "Well, I don't know if there's a test, but what I can say is that if an individual has tested positive for COVID,  they don't have to quarantine up to 90 days after that incident with COVID. Once 90 days is expired, we would have to put them into quarantine because there is the risk that they would get another infection. So vaccine is really what's going to be the long-term solution to preventing illness, serious health outcomes like hospitalizations or death.  So while it may be okay for a while post-COVID experience to have those antibodies, that wanes. And so really vaccination is the one thing that's going to last far beyond that 90-day period once someone has recovered from COVID.",
+    "speaker": "ryanmckay",
+    "tags": [
+      "give_update",
+      "clarify",
+      "hedge",
+      "reassure"
+    ]
+  },
+  {
+    "start": 3439.865,
+    "end": 3476.301,
+    "text": " Ryan, can you talk a little bit about what the testing situation is I seem to hear from a lot of people that they can't get a test and I know that you know we have opportunities for kids to get out of quarantine, if they can test negative but then  they're having difficulty finding those tests. And then also, second part of that is, and I know that Patrick and I have had a back and forth on this, but I just want to have it out for people to hear about it. You know, Charlottesville is one of the divisions that's part of this statewide testing program, and we're not. And so I just want to hear, you know, what your guidance has been on that.",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "defer_to_expert",
+      "express_concern",
+      "clarify",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3478.07,
+    "end": 3792.235,
+    "text": " So first part, availability of testing. It has increased a little bit. I think what's the challenge is depending on the situation. So symptomatic versus asymptomatic testing. Primary care providers, physicians' offices, family practices aren't going to test unless someone is symptomatic with COVID. And in a lot of cases, they'll require sort of an evaluation before then.  to make sure that the child is actually at risk based on potential exposure history. Asymptomatic testing is a little bit harder to come by. There are a few places that do offer it. We offer it at all of our testing sites, the ones that we run in Charlottesville and Albemarle, Wednesday, Thursday, and Friday.  We do ask that people pre-register, which makes it a little more difficult. We've had open slots over the last few weeks. So individuals may see a long line, but it's not that we don't have tests. It's a little bit more about the time and the wait. So it is a little challenging, but we do offer a lot of free testing. And our UVA offers Monday and Tuesday.  And then occasionally, Dr. Vergolis from UVA has set up some sites with his team. I know Jack Jewett was used a couple of times in the last two weeks, and I believe tonight there's one at Charlottesville High School. So it's available. It is a challenge for individuals to find it. We're working on expanding ourselves to be able to provide more testing in the community.  and in more rural areas. So, for example, if we set up a site in Crozet-Afton area, that would hopefully serve the western part of the county and, in addition, some folks in Nelson County. So it's there. It's a little difficult to find, but particularly a few Monday nights in Nelson County, we just didn't have a ton of people.  It's a little bit of a drive, but it is available. I think weekends are also difficult to find testing, which has presented a challenge, certainly for students in Albemarle County when the testing on the eighth day was required. I think lifting that will provide some more opportunities for parents who need symptomatic testing to get tested. And then hopefully once we're back up and running with some more staff on our side, we'll be able to increase that access.  Second part. So pool testing in the VISTA program with VDH, I know they're promoting this extensively throughout Virginia, there's a lot of different avenues with it. One of the things that we've advised schools, and I believe Dr. Bonds has mentioned this in other meetings with Charlottesville City.  is that there is a resource requirement to it that I think is a little bit more of a heavy lift than what we would expect. There's planning involved, there's logistics, identifying a location within a school, coordinating with students and families to get consent forms. So while the program does offer some staffing support, there is a lift on the school end. And I think there's an operational decision that schools have to make and consider  when they're doing that. In particular, it's going to be potentially on the nurses, given that there's consent forms, there's a little bit of a medical component to it. And if your nurses are the ones that are also doing the case investigation and contact tracing within the schools, it's a decision about that level of burden. I think the other thing too is a lot of this is to prevent in-school transmission from occurring. And as we just heard from Dr. McLaughlin, in-school transmission isn't really occurring. I know you're keeping an eye on a couple of cases in one classroom,  But the preventative measures that you've already been using are really working and have been really successful. And I think even the numbers for in-school transmission last year, especially during the surge in February and March, were extremely low.  It is appropriate and we would recommend it when schools have had significant difficulty keeping transmission outside of school and unable to do it inside of school. There are some sort of smaller parts of that program that you may find to be more beneficial. Teams, for example, would be another area where that testing could take place. But again, I think it's looking at what's currently happening within the school.  Is in-school transmission occurring at a regular rate? And if so, and if you can't identify the reason why, that might be an opportunity to reconsider that. Schools in our district have been tremendously successful. They're gonna make decisions based on their need, obviously, but from what we're seeing with Albemarle County and a lot of the other schools, I'm not sure that it would add much benefit, given the percentage of students that you would be required to test, so about 20%, and in the number of cases you may find.  Again, those individuals who test positive as part of the pool process would still continue to go to school until the individual PCR test comes back. So it wouldn't necessarily reduce the number of students going into quarantine.  That's kind of our perspective and our thought on it. It really depends on the current situation within the schools. It really depends on what we're seeing in that in-school transmission and then the operational readiness of the school system to support it, even if most of the lift is done by the vendor.",
+    "speaker": "ryanmckay",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "clarify",
+      "opinion",
+      "reassure",
+      "express_concern",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3795.14,
+    "end": 3795.441,
+    "text": "Thank you.",
+    "speaker": "judyle",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3798.053,
+    "end": 3814.338,
+    "text": " Ryan, a follow-up to Judy's question. You named several sites where testing is available. Is there a website that includes the UVA, the health department, ACPS's testing sites? Is that all on your website?",
+    "speaker": "kateacuff",
+    "tags": [
+      "follow_up_request",
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 3814.658,
+    "end": 3845.386,
+    "text": "Yes, it's on our website. We have on our homepage a link for testing. I'm happy to drop it into the chat box here real quick. It lists all of the upcoming events.  VA or others, we try to get them on there as quickly as possible. But they're updated on a weekly basis, and we'll continue to do that. Always good to check with pediatricians and primary care providers as well, because they also have, obviously, appointments. And I know some of them have really expanded their testing on a day-to-day basis.",
+    "speaker": "ryanmckay",
+    "tags": [
+      "give_update",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 3851.714,
+    "end": 3856.36,
+    "text": "Are there other questions from the board for Ryan or for Dr. McLaughlin?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "public_addressing",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 3857.639,
+    "end": 3874.043,
+    "text": " I actually had a related one for Dr. McLaughlin. Those cases that we're keeping an eye on, and maybe Ryan too, do we know where, like, do we have any sense of if there was transmission in the school, where it was happening? Was this a bus situation, a lunch? Like, do we have any sense of that?",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "defer_to_expert",
+      "clarify"
+    ]
+  },
+  {
+    "start": 3874.984,
+    "end": 3877.648,
+    "text": "I'd like to defer that question to Eileen.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "defer_to_expert",
+      "request_action"
+    ]
+  },
+  {
+    "start": 3882.935,
+    "end": 3899.421,
+    "text": "We have a handful of cases that are from the same class.  And it does seem like lunch might be responsible for that because sometimes we'll get a second case of a student who sits near another student during lunchtime.",
+    "speaker": "eileengomez",
+    "tags": [
+      "give_update",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3907.191,
+    "end": 3916.924,
+    "text": "And will that, will we be able to make any sort of changes in procedure based on that information?",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 3919.486,
+    "end": 3931.929,
+    "text": " I think we were going to look at those cases with the health department and make a determination as to if we can change, make any changes to the policy, the way we're having the students eat lunch.",
+    "speaker": "eileengomez",
+    "tags": [
+      "give_update",
+      "defer_to_expert",
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 3935.175,
+    "end": 3935.536,
+    "text": "Thank you.",
+    "speaker": "judyle",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3940.645,
+    "end": 3971.923,
+    "text": "There are other questions.  If not, thank you, Dr. McLaughlin, Mr. McKay, and Ms. Gomez for your presentation. Thank you very much. Thank you, everyone. Thank you. Our next item is our school board self-evaluation. Allison Lenny is going to lead this portion of our work session. Ms. Lenny.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "acknowledge",
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 3972.484,
+    "end": 3975.767,
+    "text": "Hello, everyone. How are you?",
+    "speaker": "allisonlinney",
+    "tags": [
+      "public_addressing",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 3976.54,
+    "end": 3977.241,
+    "text": " Good seeing you.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3977.701,
+    "end": 4005.805,
+    "text": "Yes, indeed. Let's get started. I was just thinking, my name is Allison Linney. Well, I suppose I wasn't thinking about that. I knew that. But my name is Allison Linney. I'm the president of Allison Partners. And it's been my pleasure to work with the school board for several years when they wanted to have someone help them facilitate a conversation. I cannot believe it has been 15 months since I've been on the Zoom with you all. Does it feel like that long, Dr. Acuff?",
+    "speaker": "allisonlinney",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "logistics_info",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 4006.426,
+    "end": 4007.668,
+    "text": " We've missed you, Allison.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4008.169,
+    "end": 4140.405,
+    "text": "Aw, thanks. I was glad when Graham asked me back. You never know, right? In my line of work, you're not sure when you get to come back. But it's a pleasure to be with all of you. And we have an hour today before the break to do a bit of self-evaluation. And just to remind you and the public, on our agenda, there is a link to the self-evaluation form that six out of seven of you filled out.  where you were able to submit to Ms. Johnson your evaluation of the board, your self-evaluation, and then she compiled that into a total summary document that is available on the website. And so in the second tab of that spreadsheet, there are several reflection questions that the folks who put this together for us, this template that's used in many other school districts, recommend. And so I picked three of them since we have just 60 minutes today.  And I wanted to pause and first sort of check in with everyone, as always, to see if you think I picked the right three, and if there's anything else that needs to be discussed about what I have chosen, along with Mr. Page's good guidance and counsel, to see if you all agree that this is the best way to spend your time today, okay? So let me go ahead, and let's see, I think I can share my screen. Can everyone see if I have sharing rights? I do, thank you.  Okay, let's take a look at this. So these are the three of the questions that I picked for us. What are the top two or three positive takeaways that stand out to you about how your board operates? What are the top two or three growth areas you would identify? And are there lessons or action items you would prioritize based on your assessment and reflections? What are they? And what next steps are you considering?  So with those in mind, let me just pause for a moment. I'll stop the share so people can kind of come off mute. We've all worked together a lot in the past, so I'm really open to your thoughts on whether or not this is the best way to spend our time tonight. Anyone have a comment or a question about what I have proposed?",
+    "speaker": "allisonlinney",
+    "tags": [
+      "give_update",
+      "ask_question",
+      "request_action",
+      "procedural_move",
+      "logistics_info",
+      "public_addressing",
+      "clarify"
+    ]
+  },
+  {
+    "start": 4145.17,
+    "end": 4179.246,
+    "text": "A comment, Allison, not about what you've proposed, but just  We completed the self-evaluation early in the year. And even though the year before, we decided we would do it all toward the end of the year. So that's a mismatch, I think, in this cycle, that a board's work begins really each year in January. And to fill this out in, I think we filled it out in May. So I think that was, in some ways, premature. I'm not sure we'd have exactly the same scores.",
+    "speaker": "kateacuff",
+    "tags": [
+      "give_update",
+      "express_concern",
+      "opinion"
+    ]
+  },
+  {
+    "start": 4179.783,
+    "end": 4200.633,
+    "text": " Okay. And as a reminder to all of us, our intention had been to talk about this in June. I know that's not to your point, Dr. Acuff, but we were meant to speak on this in June, but we had a lot of folks at different schools during that meeting. And then you all had a very busy summer of trying to prepare everyone to return to school.",
+    "speaker": "allisonlinney",
+    "tags": [
+      "logistics_info",
+      "clarify",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4202.576,
+    "end": 4222.778,
+    "text": "I do understand that, but I think there was a lapse in scheduling it in June to begin with.  because we had decided the year before that that was too early. Okay. Got it. So that's why I meant about cross signals. Okay. Got it. Well, we will definitely take that into consideration for next year.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "express_concern",
+      "clarify",
+      "reassure"
+    ]
+  },
+  {
+    "start": 4222.838,
+    "end": 4244.201,
+    "text": "Any other process comments like that? My hope is that these three questions are also ones you can answer  In general, even without looking at what you put on the spreadsheet, but I do think your combined sense of yourselves is probably an important input.  Ms. Carlson, did you come off mute? I did.",
+    "speaker": "allisonlinney",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "prioritization",
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4244.681,
+    "end": 4265.339,
+    "text": "I agree with the three questions that you chose. I was just going to add that something that would be helpful for me is having the results of this assessment that we did last year, which I think we had difficulty finding. So I didn't know if any other board member had kept a copy or had a copy of it. Just I'm very curious to see how we assessed ourself this year on this tool versus last year.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "agreeing",
+      "request_action",
+      "follow_up_request",
+      "ask_question",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 4266.319,
+    "end": 4270.843,
+    "text": "I may have a copy. I'll look for it and shoot it out to everybody if I find it.",
+    "speaker": "jonnoalcaro",
+    "tags": []
+  },
+  {
+    "start": 4271.324,
+    "end": 4271.704,
+    "text": "Thank you.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4272.427,
+    "end": 4294.948,
+    "text": " Anyone else before we get started? All right, then. I will pause and ask if someone would like to go first. If not, you know I will possibly voluntold you. So who would like to answer the first question? And I have put the three questions in the chat box for us.",
+    "speaker": "allisonlinney",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "request_action",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 4300.293,
+    "end": 4358.222,
+    "text": "I can jump in.  Get off the firing range quickly. I don't plan to hurt anyone today. I put two, one just based on the rubric, and I'm in agreement with two things that would do really well are superintendent relationships and relationships with school administration in general. I think we all scored ourself pretty highly on that. And then I put the policy and governance section.  as another one we scored really highly on, which now I'm trying to pull up what those points were, but which I probably should have done before I volunteered myself. Oh, yeah, the process by which we adopt and review our policies. I think that's seen improvement over the last year, last two years in terms of us having the equity checklist and just the way we've been checking in with it. I've been happy and I think we gave ourself a really good score on that as well.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "give_update",
+      "opinion",
+      "prioritization",
+      "reassure",
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 4362.877,
+    "end": 4458.064,
+    "text": " In terms of the two or three positive takeaways, I think that the top one for me is that we all seem to have, we don't seem to have, but we all have a very common purpose, which is it's all about the kids. And nobody, I mean, I've not seen any variance from that. And it's one of the things that I truly respect about this board.  I think that there is a strong feeling of trust among us because we know each other better even though we haven't been in person with each other in a long time. But I think through our conversations and through conversations, individual conversations, we all understand that we are coming from the same place and there's a feeling of trust.  And I think that the third one, at least for me, is that there aren't any hidden agendas. Everybody speaks directly about what their feelings are, asks questions, and pursues the answers to those questions in a very positive way.  And except for Dave, who's been bugging me for a while. So anyway, those are my three.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "opinion",
+      "reassure",
+      "acknowledge",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 4459.726,
+    "end": 4480.127,
+    "text": "Dave, I'm so surprised by your comment. I mean, I just I've never seen such disruption in one of our meetings. Right, Mr. Oberg? Yeah. Indeed, Mr. Oberg, it wouldn't be the same for me if you weren't here to insert humor. I appreciate you. OK, someone else. Answers to number one.",
+    "speaker": "allisonlinney",
+    "tags": [
+      "express_concern",
+      "public_addressing",
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4481.947,
+    "end": 4516.847,
+    "text": " Um, I appreciate the fact that there's no grandstanding among any of us. I appreciate that. And also appreciate the fact that we, we do seem to do our homework and read the materials and things ahead of time.  You know, some of my questions I know get answered before the meeting, and I'm sure others also reach out to staff prior to meetings so that we kind of know what we're talking about when things come up. You know, we've done the reading and asked the questions some, so I appreciate that.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge",
+      "reassure"
+    ]
+  },
+  {
+    "start": 4523.513,
+    "end": 4620.409,
+    "text": "Great. Well, I'll go.  I mean, so much of what our public comment is and so much of the work that we've done in the past year has been, how do we get our kids back in school? And we've had the bi-weekly COVID reports and the transportation issues and the space issues, but we've still managed to keep our eye on our development of a final strategic plan.  of the strategic plan is focused on addressing in concrete ways the achievement gap and centerpiece of that plan is a reaffirmation of our anti-racism policy. And we did this in a very turbulent time. So I'm very pleased that we were able to do that. I mean, something that's really not on the sheet is  I think our adaptability in terms of changing information, and I know it's been confusing to many people in the community, and notwithstanding some of the comments, we all do read a lot and study the issues. And we are here to use our best judgment, weighing the benefits for almost 14,000 students and our 2,500 staff.  And a given parent might not weigh it in exactly the same way. We hear that frequently. But I think we have a balanced board, and we really do the hard work of making those decisions.",
+    "speaker": "kateacuff",
+    "tags": [
+      "give_update",
+      "reassure",
+      "acknowledge",
+      "prioritization",
+      "public_addressing",
+      "opinion"
+    ]
+  },
+  {
+    "start": 4626.194,
+    "end": 4685.395,
+    "text": " I can, I can go next. My two main takeaways, I think, would be sort of overlapping some of the ones that some people have already mentioned. And one would be  On our board I think we are really pretty united in terms of our purpose in terms of trying to provide the best education for all of our kids here now mall county. And so even though at times we may not agree on everything. Still, we aren't, we don't become disagreeable, we are still united as a board.  And then also my second main takeaway is our ability doing these last 12 months at least to make some really tough decisions under really, really difficult circumstances and to try to move forward with, again, the best interests of our students in mind. So those were my two main takeaways from this year.",
+    "speaker": "grahampaige",
+    "tags": [
+      "give_update",
+      "opinion",
+      "acknowledge",
+      "reassure",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 4688.75,
+    "end": 4692.769,
+    "text": " Anyone else want to chime in before we move on to where we might be able to improve?",
+    "speaker": "allisonlinney",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4694.605,
+    "end": 4753.165,
+    "text": " Mine also overlap Jono's and Kate's. One thing that I really come to appreciate about our board, and I think it's really been evident in the past year and a half because we've been in the circumstance we've been in, is that we all come with a very unique perspective. And I think that we are true to those perspectives in a way that is collaborative. I think that  the way that our meetings have been structured has given us all the opportunity to really air those perspectives and take others in and think about them. And I think that we've been really thoughtful about that. And I appreciate that. And then on Kate's point, our strategic plan is really unapologetic. And I think that we're united behind it. And I think that's a real strength. Wonderful.",
+    "speaker": "judyle",
+    "tags": [
+      "acknowledge",
+      "opinion",
+      "agreeing",
+      "reassure"
+    ]
+  },
+  {
+    "start": 4758.106,
+    "end": 4775.929,
+    "text": " AJ, I'm not sure what the status is of your microphone, but I should confess, many, many moons ago, I was the student member on UVA's Board of Visitors. And so the student member position holds a dear place in my heart. I'm thrilled that we have one. And if there's anything you'd like to comment on what you've experienced, I'd welcome your input.",
+    "speaker": "allisonlinney",
+    "tags": [
+      "request_action",
+      "acknowledge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 4778.853,
+    "end": 4783.398,
+    "text": "Well, I just, I really like how every, oh, can you hear me?",
+    "speaker": "aj",
+    "tags": [
+      "ask_question",
+      "opinion"
+    ]
+  },
+  {
+    "start": 4783.899,
+    "end": 4787.083,
+    "text": "Yeah, now we can. Wonderful. I'm so glad to hear your voice.",
+    "speaker": "allisonlinney",
+    "tags": [
+      "acknowledge",
+      "reassure"
+    ]
+  },
+  {
+    "start": 4788.042,
+    "end": 4814.701,
+    "text": " Um, well, I'm just very happy with, I don't know, everybody's very welcoming, and is very friendly with each other. And I really like how, you know, everybody's just very responsible and respectful towards everybody, you know, and I've really enjoyed my, my time here, even though it's been, you know, a short couple of months, I've really had fun and enjoyed speaking out and giving my opinion.",
+    "speaker": "aj",
+    "tags": [
+      "opinion",
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 4815.762,
+    "end": 4874.597,
+    "text": "Thank you.  Well, I know how much they have appreciated the student voice and how much extra time it takes. So I'd like to thank you on behalf of our community as well. Wonderful. Okay, let's move on. Talk a little bit about where we'd like to be in terms of our improvement areas. So to remind you, the second question was, what are the top two or three growth areas that you would identify based on the self-assessment? And I also think it's perfectly appropriate to add in  To Dr. Acuff's point, we filled these out in May. I think it's that you all, if there's one thing I've come to admire about you all, you're constantly questioning how you could do better. And so you don't need to limit yourself to what was in the compiled spreadsheet. More than welcome to bring up things that you'd see that you'd like to improve from the last few months as well. Let's see. Mr. Alcaro, I bet I can count on you to kick me off.",
+    "speaker": "allisonlinney",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "ask_question",
+      "prioritization",
+      "reassure"
+    ]
+  },
+  {
+    "start": 4879.403,
+    "end": 5034.383,
+    "text": " I'd be happy to. Yeah, I think there are three things that stand out to me. One is, and this is post COVID, is that we need to, I think as a group, have a more public presence in our magisterial districts, in our schools.  I know that just about everybody has still been going to see their schools during this period. And I hear about it when I'm in a school. And so it's very, very appreciated. And it really gives us a chance to see what's happening and how the kids are doing. And we all do have myriad stories about that. The second one is continued PD.  And I think professional development is something that we're pleased where we are, but we can be better. And we can be better from learning more. And having conversations like these is a big part of it. But I think more PD, we had a great book study last year that was extremely worthwhile, in my opinion. And then the third one is,  really working on developing the anti-racism policy and preparing our students for the most diverse population ever in the United States, that they will all be coming of age during that period. And I think preparing them  through some of the things that we're doing and other things that will come through Dr. Hairston and his group and from members of the board, I think will be of great importance for all of us. And I would also throw in just a fourth one, I'll make it quick, is I'd really love to have all of us have a strong interest in the CIP projects.  and to give a lot of thought to what our priorities should be. I know we're going to be getting a presentation on that coming up in October. And I sure would love everybody to be actively involved in that.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "policy_proposal",
+      "prioritization",
+      "request_action",
+      "opinion",
+      "express_concern",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5034.403,
+    "end": 5055.255,
+    "text": "Thank you so much. And I also, I neglected to mention in case people were wondering, I will be taking care of summarizing these notes for you. So just in case you were busy trying to take notes and listen to one another, I can cover that part for you.  and we'll get those to you as quickly as I can after the meeting. Thank you, Jono. Who would like to go next?",
+    "speaker": "allisonlinney",
+    "tags": [
+      "give_update",
+      "reassure",
+      "logistics_info",
+      "request_action",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5063.604,
+    "end": 5142.198,
+    "text": "Well, I think Jono and I have been in capital improvements meetings for the past two days, but it is an area that I would echo that we need to spend a bit more time rather than at the very end of the year when it comes before the school board.  I guess the takeaway for me is although I'm very proud of the work we did in the strategic plan and the urgency that we have expressed to Dr. Haas and the cabinet about learning losses, we now have learning losses conflated with achievement gap and  I want us to not wait until the end of the year to see how we did. I mean, I really do want us to have a quicker feedback loop in terms of the progress, substantively what's being done, what needs to be done. Is there anything else the school board can do? I know they're doing early assessments this fall to look at learning loss, but we need to pay very close attention to what that looks like.  Thank you. I know that was only one, but no, that was two.",
+    "speaker": "kateacuff",
+    "tags": [
+      "express_concern",
+      "prioritization",
+      "request_action",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 5142.839,
+    "end": 5143.48,
+    "text": "You were focused.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5147.405,
+    "end": 5246.826,
+    "text": "I can chime in, please. But I would agree with John on, I guess I would categorize it broadly as public engagement. It's been something that's been particularly difficult this last year because of covid. I know that I haven't been to as many schools or events as I would normally get to. It's been difficult.  In the beginning, Zoom made it seem like it was actually easier because you got to kind of pop into things. But I would look forward to in the next year figuring out ways that we could have more engagement with people. Focus on the achievement was my biggest one. And I am basing that on the rubric. The rubric for the evaluation is how to have high performing success and student achievement for all students. And that's one that I think we scored in total  fairly low, so just having it as a consistent point of our agenda items and meetings and a focus on the data and metrics and agenda. So at a majority of its meetings, the school board considers agenda items specifically related to advancing student achievement. I think we could work on that, which brings me to my third point, which is something I have heard feedback from various members. And it's something I think we've struggled with for a while is just agenda development and getting sessions and work sessions and items that were  passionate about and that we want to hear about. And I know we're doing some work with that. I know Jono and Judy have been meeting to try to get through some work sessions, but we've done various things in the past where we've tried to brainstorm. And I think it's just, there's some lack of clarity around like really what we're doing and how it's done. So those are my three items. Thank you.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "give_update",
+      "agreeing",
+      "prioritization",
+      "express_concern",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5250.586,
+    "end": 5327.183,
+    "text": " Once again, I'm basically, my second other things with Katrina's, it's the data and action around student achievement. I feel like we're doing that more, we're going in that direction more, and especially with the equity dashboards. I think that will, you know, as those are presented to us, and as we take a deeper dive into those, we'll have a better understanding.  of really where we are. I think that's one thing that I don't have a great sense of. I mean, I have some sense of how we're doing and what the problems are, but I'm someone who really likes to get into the numbers. So that's a quality of high-performing boards.  So that, and then also in agreement with being out in communities, I feel like very often, you know, we hear from the same sets of people and then their partners. And, you know, I would love for us to be more in the communities in ways that they can trust us, especially like ESOL communities, communities of colors.  of color so that we can really understand a lot of the experiences that they're having.",
+    "speaker": "judyle",
+    "tags": [
+      "prioritization",
+      "request_action",
+      "agreeing",
+      "express_concern",
+      "opinion"
+    ]
+  },
+  {
+    "start": 5330.929,
+    "end": 5371.386,
+    "text": "Just to piggyback off of Judy's, although I know we're going one by one. No, we're going to come back. Yeah, that's fine. I noticed when I was looking through what other people's results or compiled results that there were people who put notes like, I don't know. I don't know the answer to some of these questions. I thought that was indicative of their needing to be growth.  I don't know the full school improvement plan for every. So those are the kinds of things that go along with how I think we're having an increased focus, but we certainly could focus more on achievement, how our schools are doing, what we're doing in individual schools, things like that, because I didn't have the answers to every question on the self-evaluation, and I probably should know them.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "express_concern",
+      "prioritization",
+      "hedge",
+      "clarify"
+    ]
+  },
+  {
+    "start": 5373.508,
+    "end": 5378.993,
+    "text": "Good. Ms. Osborne, may I call on you?",
+    "speaker": "allisonlinney",
+    "tags": [
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 5379.673,
+    "end": 5444.567,
+    "text": "Sure.  I would say things related to advancing student achievement and specifically think about the session where school board members learned about the reading program.  And, you know, not being a teacher, I felt like, you know, this is like really cool information because it was more than just here's this problem. It was here's this problem. And here's one thing that we are trying to do to fix it. And it made me feel a little more engaged and informed as to what the staff were doing. And I feel like more things like that, more,  I mean, we know what some of the problems are. And it just really resonated with me that, and here's a potential solution kind of thing, or here's one thing that we're working on. And I really liked that focus, Tom, about this is something we're working on. This is why it's relevant. And it gave me a little bit of science understanding about reading that I really appreciated. Things like that, I feel like are good growing areas.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "policy_proposal",
+      "prioritization",
+      "opinion",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 5450.47,
+    "end": 5451.351,
+    "text": " Mr. Oberg.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 5453.515,
+    "end": 5456.659,
+    "text": "I miss you. Do you miss me?",
+    "speaker": "allisonlinney",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 5459.063,
+    "end": 5594.563,
+    "text": "I'm having a challenge with this. Yeah. Okay. I'm just having a challenge with this. Okay. And I'll explain to you why. Please. I am. I'm systemically a very hopeful person, a very positive person. Okay.  And I have been so discouraged over the past two or three months.  Partly because of the pandemic. I just, I feel terrible that our kids are being put in the position they're being put on I was really one of these Polly any people who thought you know what we're going to come out of this in the summer in the fall we're going to be back to normal it's going to be great. And it frankly kind of breaks my heart that we can't do that.  I don't doubt for a moment that we are doing everything we possibly can. And I get pretty damn discouraged when people make accusations about oh you this is a power grab or you don't care about the kids, I just, I get that irritates me so badly.  because I know how passionately the people on this board and the public employees at Albemarle County Public Schools care about our children. I mean, that's just I mean, we bleed for them. And so I just get discouraged. And, you know, it felt like before the pandemic hit, we were really on a roll. We were we were starting to become, you know, proactive as opposed to react.  We had, you know, we had, we had, you know, we had a perfectly balanced budget. We had, we had new programs that were going to be effective. And I feel for the past, the pandemic has put us back into a, into a largely reactive role where we're trying to, we're spending so much time trying to put a, put out fires and, and, and just keep the kids in school and keep the program so the kids can play sports.  And so I have a tough time doing this evaluation and I'm sorry for that. I'm just, I'm just discouraged.",
+    "speaker": "davidoberg",
+    "tags": [
+      "express_concern",
+      "reassure",
+      "acknowledge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 5597.526,
+    "end": 5616.203,
+    "text": "I appreciate your candor. I truly do. And I'll watch what you all do every month and just think, my goodness, um, it is a lot to manage and to try to do well. And I know how passionate all of you are. Mr. Page, would you like to add anything?",
+    "speaker": "allisonlinney",
+    "tags": [
+      "acknowledge",
+      "reassure",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 5618.275,
+    "end": 5678.008,
+    "text": " Maybe the only thing I could add, and this would be something I think that would be more on me than on anybody else on the board. I know that sometimes we have received emails, and quite often those emails are completely outside of my expertise of knowledge.  And so in most cases I've tried to forward those ones up the chain, but still I'm not sure whether or not I know that I'll have to try to really improve on communicating  or answering emails more effectively. It's been really, really difficult this past year. And, but that's still something that I realized that I think I should be working on more effectively.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "conceding",
+      "express_concern",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5680.131,
+    "end": 5699.007,
+    "text": "Thank you. AJ, anything you'd like to add? Anything you've seen that you think this group of folks could improve? I mean, I think you guys handled things very well.  Come closer to the microphone for us, AJ. Well, I think you guys handle things very well.",
+    "speaker": "allisonlinney",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "reassure",
+      "logistics_info",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5699.047,
+    "end": 5714.202,
+    "text": "I haven't seen anything that made me doubt anybody or anyone. I think you guys handle your job very, very well, just by my eyes. So I don't have any critiques or suggestions or anything. I think you guys do great.",
+    "speaker": "aj",
+    "tags": [
+      "reassure",
+      "opinion",
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5714.222,
+    "end": 5718.887,
+    "text": "What's it been like in terms of how they integrate you in the process?",
+    "speaker": "allisonlinney",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 5719.643,
+    "end": 5738.27,
+    "text": " I feel everybody's made me feel like, you know, it's okay for me to say things like that. It's all right for me to, you know, state my opinion, you know, whenever there's time. And, um, you know, I, I feel like everybody values me here. Like I don't feel disvalued at, at any point. I've never felt that way. I feel very respected.",
+    "speaker": "aj",
+    "tags": [
+      "reassure",
+      "opinion",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5739.612,
+    "end": 5761.835,
+    "text": "As you roll off. I know that one of the things that the board really appreciates is if you can think of anything else that can be done to more fully integrate you that's feedback they'll appreciate.  But I also put you on the spot. So I mean, it's just hard to think about because I feel like I haven't had any thoughts of like, I don't know anymore.",
+    "speaker": "allisonlinney",
+    "tags": [
+      "request_action",
+      "follow_up_request",
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5761.875,
+    "end": 5768.496,
+    "text": "I feel like you guys have just done so good with it. I don't it's kind of hard to.  think of something to add.",
+    "speaker": "aj",
+    "tags": [
+      "opinion",
+      "acknowledge",
+      "hedge",
+      "reassure"
+    ]
+  },
+  {
+    "start": 5768.516,
+    "end": 5789.898,
+    "text": "AJ, the only way I could make you feel more is if I attacked you. I really have not done that to our students. When you say, everybody lets me speak, I want you to know, I am killing myself not to interact. But thank you for being on the board. Thank you.",
+    "speaker": "davidoberg",
+    "tags": [
+      "express_concern",
+      "reassure",
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 5790.538,
+    "end": 5829.854,
+    "text": "Indeed. Indeed. And AJ, I don't think you should underestimate what it means to have a student  say the things that you're saying in terms of what's been a really challenging year for this group of humans who it's nice to hear that you feel this way about the experience. So it means a lot to them, I'm certain of that. So we're doing just fine on time. Before we move on to question three, I don't want this to be just a recitation of your answers to questions. Let me pause for a moment and just as Ms. Colson did, is there anything you wanna  engage across the comments so far or expound on or make connections?",
+    "speaker": "allisonlinney",
+    "tags": [
+      "acknowledge",
+      "reassure",
+      "follow_up_request",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 5836.384,
+    "end": 5889.793,
+    "text": "I could add on to Mr. Page's comments about the email and just offer solidarity that it's been really tough. Our email management went from  a much smaller set of emails to manage to what often feels overwhelming and it's just hard to something that I've always that i've had a difficult i've actually spoken to someone to get advice, because it's a lot of times you can't really give a personalized reply when you have 100 emails in a day, so is it better to give a reply that's just. saw your email.  Thank you, which is kind of a form reply and I don't have an answer. So I think that's one area that it's not just you, it's probably all of us who could do some work and it might actually even be helpful just to have some guidelines because I'll admit my email process is very hit or miss. Like some days I'm like, let's do it. And then other times it's just piles up, you know.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "express_concern",
+      "acknowledge",
+      "reassure",
+      "request_action"
+    ]
+  },
+  {
+    "start": 5890.955,
+    "end": 6005.374,
+    "text": "And the irony is what,  when I try to pass it up the line, I've had people get mad at me because I didn't take interest in their issue. And it's like, well, I I don't I didn't know the answer, so I pushed it to the person who I thought would know the answer. It's not that I'm not showing interest. I do show interest. And yet if.  I mean, so yeah, I mean, there is a certain level where email communication is just totally unsupportable about a lot of issues. And yet if you, my frustration is you can't hear tone in an email. And so if somebody is upset with you, my experience is they're gonna hear whatever you said in a negative tone.  And so I actually had a circumstance at one point where I had somebody, and it was a client, I was an attorney, but the client wrote a completely inoffensive positive thing. And it was like, you did really well today. But unfortunately, the person who received the email heard it as, well, you did really well today and filed a complaint. And so we could use,  a better system on how we manage our email communications as a board. Because when an email comes to the board, unless it's specific to me, I'm not going to address it. I assume that the chair or that will be addressed. But then we get an email that says, well, you didn't respond to me. I didn't know it was directed to me. So yesterday, I actually wrote back an email and said, is this specifically addressed to me? Because it was unclear.",
+    "speaker": "davidoberg",
+    "tags": [
+      "express_concern",
+      "policy_proposal",
+      "clarify"
+    ]
+  },
+  {
+    "start": 6007.582,
+    "end": 6024.207,
+    "text": " Yeah, that's another point is that it's hard to tell when things are addressed to you or not. I really think there's probably room for, I bet we could brainstorm ideas to have like a more effective communication system, unless I'm standing alone, but it sounds like I'm not, like Graham has a lot. I agree with you, Katrina.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "express_concern",
+      "policy_proposal",
+      "agreeing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6024.248,
+    "end": 6057.44,
+    "text": "I think that we don't have, we have guidelines for just about everything else, but we really don't have a set of guidelines on what we should do when we get emails.  you know, and I understand we, you know, pass them, pass them to the person who most has, you think has the best answer. But first of all, I don't always know who that person's going to be. And secondly, I don't want to be perceived as passing the buck.",
+    "speaker": "davidoberg",
+    "tags": [
+      "express_concern",
+      "request_action",
+      "clarify"
+    ]
+  },
+  {
+    "start": 6057.46,
+    "end": 6091.268,
+    "text": "And it's also somewhat problematic given the recent  There was a recent case in other Charlottesville FOIA case where someone had put a FOIA request buried in a very long email address to someone. And, you know, so there's like an obligation to read emails. I'm just kind of curious, like maybe if we can loop a staff member in not to make our staff have to do anything additional so they can shoot that down if they want, but loop someone into the emails. Cause even that sometimes I just, I like realize that Matt hasn't been made aware of an issue or something that's been directed to just one board member. So I don't know. I'm open to thoughts.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "express_concern",
+      "request_action",
+      "follow_up_request",
+      "hedge",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 6093.374,
+    "end": 6095.937,
+    "text": " That would really value any PD.",
+    "speaker": "judyle",
+    "tags": [
+      "opinion",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 6096.637,
+    "end": 6102.023,
+    "text": "Do emails that go to the school board go to non-school board members other than Jennifer?",
+    "speaker": "davidoberg",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 6103.485,
+    "end": 6104.906,
+    "text": "They're forwarded to Dr. Haas.",
+    "speaker": "Unknown",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "defer_to_expert"
+    ]
+  },
+  {
+    "start": 6105.747,
+    "end": 6106.147,
+    "text": "Thank you.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6111.933,
+    "end": 6131.42,
+    "text": "It sounds like that definitely rises to the top as one of the things to kind of see if we can come up with some better practices. And I would also say making sure the public knows what those practices are.  so that they can have reasonable expectations about how, what they can expect in terms of engaging with you in that format.",
+    "speaker": "allisonlinney",
+    "tags": [
+      "prioritization",
+      "policy_proposal",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 6132.321,
+    "end": 6177.652,
+    "text": "And it's really helpful if we know either what school your child attends or what district that you live in, because some of the ones that come to the whole school board, you know, or they're obviously not in my district, but if it's something going on at a school in my district or a family in my district, I kind of want to respond. But if it's just a general,  thing to everybody without mentioning a school, it's hard to know. One thing that I think is, I mean, Kate and I have both been in the situation of answering emails on behalf of the board, as well as Graham and Katrina do now.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "logistics_info",
+      "request_action",
+      "express_concern",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6177.672,
+    "end": 6238.654,
+    "text": "And it was particularly  active last spring, not this just past, but a year ago. And, you know, there were times that I just couldn't come up, have a good solid answer.  And I did want to go back to every single person with something. And in part, it's just saying, I got your email, I read your email. I thank you for what you're saying. And as more things develop, I'll try to come back to you.  That way, at least there's a personal touch going out. I know that all of us read these emails. I mean, it's not a matter of ignoring emails. But when you're not getting a response at all, people can feel slighted. And just some verbiage when there's a lot going on, a lot coming in.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "reassure",
+      "express_concern",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6239.444,
+    "end": 6261.098,
+    "text": " Well, I will definitely highlight this as a potential prioritization. And that sort of brings us to question three. When you all listen to the things that you said in terms of both where you're doing well and where you might want to improve, are there next steps or action items that you'd like to prioritize or discuss prioritizing today?",
+    "speaker": "allisonlinney",
+    "tags": [
+      "prioritization",
+      "ask_question",
+      "request_action",
+      "procedural_move",
+      "give_update",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 6267.592,
+    "end": 6312.128,
+    "text": " I'll be glad to mention one, and this is something that I need to be doing. And if any of you feel the same way about your situation, I'd love to have a chat with you at some point. I need to go back and develop, I used to have this, but I need to go back and develop a good working relationship with the members of the Board of Supervisors.  I used to talk to, go for coffee, or at least talk on the phone with each of them at least once every quarter, if not every six weeks.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "request_action",
+      "follow_up_request",
+      "acknowledge",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 6312.715,
+    "end": 6328.108,
+    "text": " And in the COVID period, you know, there's one who I've stayed in pretty close touch with, and another one is right behind, you know, the frequency.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6329.101,
+    "end": 6349.81,
+    "text": " and need to do it whether it's on Zoom or whether it's in person or whether it's over coffee. And that's a big one because they control a lot of our strings and we need to have them understanding what we're doing. And that's basically it.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "logistics_info",
+      "prioritization",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 6361.687,
+    "end": 6411.403,
+    "text": " OK, I can go next, I guess. My two main things, I think, have already been mentioned with other questions. But one would be implementing the foundation, trying to make sure that we have this to gather funds or to help us gather funds for programs that may not be in the budget. And then the other one would be combining two things, anti-racism policy along with the strategic plan.  and following the guidelines that those two things together would be setting for us. I think if we follow the course that's being outlined by the combination of those, it would be something that would really help us here in the county. So those three things, foundation, anti-racism, strategic plan.",
+    "speaker": "grahampaige",
+    "tags": [
+      "policy_proposal",
+      "prioritization",
+      "request_action",
+      "opinion",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6415.788,
+    "end": 6541.425,
+    "text": " I would agree with Graham that the strategic plan, you know, it shouldn't be oops, we finished it and we're going to put it in the shelf. We really do need to have it as a living document. I don't know. Right now we have the anti-racism checklist for every policy evaluation we do or new policy. I don't know what we can do, exactly how we're going to keep it as a document on our desk when we're having our meetings. But I think we do need to do that.  I think echoing Jono about interacting with the supervisors, like Jono, I keep in touch with a couple quite a bit, but we really don't get together much until the end of the year when, you know, we hear everything there is to know about HR and health insurance and capital improvements and budget and are terrified. And there's not a lot of  proactive discussion of opportunities where we can collaborate. And I think we could pursue that better. Katrina and I were going to set up a climate or sustainability committee and coordinate with the county. And we really have it has been a casualty of this past year of COVID. I'll blame it on COVID. But  But I think we can do a better job and just broadly communicating with our teachers, staff, families, community. We can probably do a better job and walking the schools is a good idea, but I think it needs to be more robust than that. I mean, right now, the main communication that goes out to the community  And it's a very good one is, you know, the superintendent's weekly letter. But I don't know if if there's something more we could do or should do. I don't know. I think in terms of dealing with the board of supervisors.",
+    "speaker": "kateacuff",
+    "tags": [
+      "agreeing",
+      "policy_proposal",
+      "express_concern",
+      "prioritization",
+      "hedge",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6542.722,
+    "end": 6606.719,
+    "text": " And I think john and I and Graham talked about this three or four years ago, we just did never get around to being getting it done. But from my perspective, some of the, some of the things that make our board work is when we go.  down to Williamsburg and have the chance to just have a dinner together and not talk about school board, not talk about that, but just talk about our families and what's going on and build those personal relationships. We don't really have a chance to do that inter-board. And so I think it would be worthwhile when the pandemic is over and I'll probably be off the board by then, but for the Duke boards to have a retreat, not a work retreat, but a retreat  where you could just get together and sit on a porch and drink a mint julep and just get to know each other. Because I think we've lost some of that and the pandemic has exacerbated that at the very minimum.",
+    "speaker": "davidoberg",
+    "tags": [
+      "policy_proposal",
+      "express_concern",
+      "opinion",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 6613.565,
+    "end": 6621.192,
+    "text": "Anyone else want to chime in on things we should prioritize that haven't already been said?  or echo things that have been said.",
+    "speaker": "allisonlinney",
+    "tags": [
+      "prioritization",
+      "request_action",
+      "public_addressing",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 6621.212,
+    "end": 6664.613,
+    "text": "The only other one that comes to mind, I think, is to make sure that we really communicate to our teachers how much we really appreciate them. I think because of everything that's happened over the last 18 months,  some of our teachers might have a pretty low morale right now. And so I think we really need to make sure that we let them know just how much they are appreciated. And so that they can see that it's really coming in a truthful and honest way. I'm not sure how else we can do that, but I think that's something too that we really need to look at.",
+    "speaker": "grahampaige",
+    "tags": [
+      "express_concern",
+      "request_action",
+      "prioritization",
+      "opinion"
+    ]
+  },
+  {
+    "start": 6668.656,
+    "end": 6736.602,
+    "text": "One thing.  Good. I'm adding on to that one thing that I'd like to see kind of tied together a few things something that we'd implemented right before the start of coven and it never really got off the ground was having coordinated days at each school where to board members would get to go and we bring bagels or whatever treats.  And teachers can drop in and talk to us one on one and make their concerns and I thought that was a good program we only got to do it at like three schools and then it stopped but it's like a way to show appreciation and one of the best ways to show appreciation is, you know, give an opportunity for them to actually speak to you about their concerns and not in a public forum which I'm sure a lot of teachers don't want to come and give public comment to make their  their opinions and views heard, so I would love to see that re-implemented, and that would tie into my second thing, which is that more public engagement. I would love help on that, and just having things set up for what to do. It's been really odd with COVID, not really knowing when you should be going into a school, and so something I'd like to see growth on.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "policy_proposal",
+      "request_action",
+      "follow_up_request",
+      "logistics_info",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 6738.151,
+    "end": 6756.153,
+    "text": " And I think just on those two things also, just to include all of our community of staff, I think there are many concerns across the board and that we have appreciation for everyone across the board. And it's important to engage with everyone.",
+    "speaker": "judyle",
+    "tags": [
+      "express_concern",
+      "reassure",
+      "request_action"
+    ]
+  },
+  {
+    "start": 6760.038,
+    "end": 6922.463,
+    "text": "Along the similar lines,  I did this with Katrina and with Steve Colazar, Ellen's predecessor, with Kate, with Dave. This is going back two or three years ago. And I would like to do it again, and be happy to talk with anybody about it, is that we did a reach out to parents in each of the different magisterial districts.  who were parents who we normally didn't hear from, who weren't comfortable, you know, doing something with, you know, talking to the school board, who weren't writing into us, who weren't calling us. And I would say that the one that we did in Kate's district and the one we did in  Ellen's now district were the two best because we had great turnout. And we learned a lot from that. I still remember the stories in both of those. And in Whitehall, we had pulled pork. That's true. That's true. That was pretty good barbecue. Yeah, that was good. And it was great for us. But we only had three parents who came.  You know, and so food wise, that was definitely the best. But that's something that I think we need the communication within our own divisions with parents. And so I think that could be a value. And then the other one that I'm going to talk with Jim Foley about  is to go down and spend an hour or two hours sitting in the lunchroom at the bus barn. And the last time I did that was two years ago. And I talked to probably 75 drivers who were coming through that room. Maybe 60-ish, but it was well over 50.  that, you know, it's just the thing of getting out and getting out and talking to the people who we want to trust us, you know, and to, you know, and it gets into the teachers, it gets into the staff, it gets into the parents and put ourselves out there. And I think it could be a good thing if we go in twos, a la Katrina's statement.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "request_action",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 6927.117,
+    "end": 6942.088,
+    "text": " Okay, we're getting close. You know how I like to wrap up a minute or two before your break and give you a chance to have one. But does anybody have any, anyone didn't have a chance to chime in on this last question or just any closing points?",
+    "speaker": "allisonlinney",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "follow_up_request",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 6952.902,
+    "end": 6988.088,
+    "text": " All I would say, Allison, Katrina and I redid this document, what, two, three years ago, Katrina? I mean, it may be worth a fresh look again. I mean, I think the whole issue of school board adaptability, I mean, there's things, I mean, I think  I think the whole community has been extraordinarily adaptable and have had to under duress. But I think we have, too, under some very difficult circumstances. And I think we should reflect on that also going forward.",
+    "speaker": "kateacuff",
+    "tags": [
+      "give_update",
+      "request_action",
+      "acknowledge",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 6989.75,
+    "end": 7028.1,
+    "text": "Great. All right. Well, as always, I will work to summarize these notes and look to you all to check my work.  when I do that and make sure that it represents the dialogue that you had and the work that you'd like to do going forward. So with that, I yield back to Mr. Page. I hope I've done what was hoped for in about 50 some odd, eight minutes. And thank you. The other thing I'd just like to say is I think I have a decent appreciation of how hard you all work and how seriously you take this work. And I'm grateful for your service to our community.",
+    "speaker": "allisonlinney",
+    "tags": [
+      "give_update",
+      "follow_up_request",
+      "acknowledge",
+      "procedural_move",
+      "hedge"
+    ]
+  },
+  {
+    "start": 7029.312,
+    "end": 7030.153,
+    "text": " Thank you, Allison.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7030.534,
+    "end": 7641.638,
+    "text": "Thank you, Allison. Great to see you. Thank you so much, Allison, for leading that discussion very effectively, as you always do. So thank you. And we do look forward to receiving the notes from the session. Thanks, Allison. We are now scheduled for a 10-minute break. So we'll reconvene at 837. Thank you.  It is now 837 calling the meeting back to order. Second part of our work session on school size will be introduced by Dr. Haas. Dr. Haas.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "follow_up_request",
+      "logistics_info",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 7643.161,
+    "end": 7739.619,
+    "text": "Thank you, Mr. Page. I will just take a moment to share why we are having this work session tonight.  The Long Range Planning Advisory Committee has requested that the school board develop and approve a policy to provide direction on the goals for school sizes to help them guide their planning for the future. Our goal in planning this work session for you is to provide a context for school size in ACPS and for you to talk about your thinking on school size as a board.  From your conversation and the ensuing notes, I suggest that Ms. Schmidt, Ms. Kumazawa, and I work with Dr. Acuff and Mr. Alcaro, who are our board's capital committee representatives, to draft verbiage for goals for desired school sizes for ACPS for future planning. We will bring the draft to the board for feedback and eventual approval.  Once approved, the verbiage would be embedded in policy FB, facilities planning. Policies are reviewed every five years, as you all know, and so the board will have future opportunities to review and make sure these goals make sense. The purpose of the school board's discussion tonight is to consider the efficacy of expanding and or constructing school buildings and making future plans. It is not intended to be a way to close existing schools.  And so with that, I'm going to turn things over to our Director of Budget and Planning, Maya Kumizawa.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "logistics_info",
+      "acknowledge",
+      "clarify",
+      "defer_to_expert",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 7746.008,
+    "end": 7749.253,
+    "text": "Let me just pull the presentation up.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 7749.273,
+    "end": 7749.754,
+    "text": "There we go.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7750.675,
+    "end": 7819.487,
+    "text": "Good evening, school board members. I'm Maya Kumizawa, Director of Budget and Planning. And I'm here to facilitate the beginning of a discussion around school size, as Dr. Haas has introduced.  First, a recap of the timeline. This is just a proposed timeline for now, and we would adjust this as needed or based on your recommendations. But again, we are here due to the Long-Range Planning Advisory Committee's request that the school board consider the school size policy for future planning. So I plan on providing you with some data around our current state and financial considerations.  And then I will hand things over to Chris Gilman, our research coordinator, to present findings on our community survey and EAD research. After that, we'll spend some time in breakout groups for you to have in-depth conversations at the elementary, middle, and high school levels, and those will be facilitated by instructional staff members. To begin, here's a snapshot of our comprehensive elementary, middle, and high school enrollments.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "public_addressing",
+      "procedural_move",
+      "defer_to_expert"
+    ]
+  },
+  {
+    "start": 7820.108,
+    "end": 7827.239,
+    "text": " These figures are as of fall 2019, which is before the beginning of the pandemic, our peak enrollment.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "clarify"
+    ]
+  },
+  {
+    "start": 7828.281,
+    "end": 7875.192,
+    "text": "You can see that our elementary schools range from 196 to 849, a difference of 653 students. Our middle schools range from 341 to 915, a difference of 574 students. And our high schools range from 1,198  to 1,907, a difference of 709 students for that school year. How does this compare to other school districts in Virginia? We developed an unscientific group of peers. They are suburban counties similar in size by enrollment and number of schools. These eight other counties are shown here and are listed in order of average elementary school size.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "ask_question",
+      "request_action",
+      "hedge"
+    ]
+  },
+  {
+    "start": 7875.779,
+    "end": 7884.97,
+    "text": " Note these numbers are different from the previous slide for ACPS since they're comparing last year's enrollment numbers reported to the BDOE.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "clarify",
+      "cite_external_source"
+    ]
+  },
+  {
+    "start": 7886.152,
+    "end": 8131.962,
+    "text": "In parentheses next to each school, you'll see how many schools are represented. The dotted horizontal lines that are going across represent our school divisions minimum, average, and maximum elementary school enrollments.  You can see here that our average aligns with the peer group's averages. Our smallest school, however, is smaller than most, and our largest school is larger than most. Moving on to the middle school level, similarly with the elementary schools, our average middle school size aligns very closely to this peer group's average middle schools. What's notable on this chart is that the range between  smallest and largest schools are much tighter in other districts. With the exception of Montgomery County, if you look just at the top of each cluster, the heights are not as wide ranging as ours. At the high school level, we see the biggest differences with the selected peer group. Our largest high school, Albemarle, is an exceptionally large school, pulling us towards the right side of the graphic.  Hanover County and Frederick County have a higher average than us, but you can see that their schools are more similarly sized. Next, I'm going to move forward to some financial considerations. 94% of our school-based budgets represent FTE costs, so I'm going to focus our attention there. Each school is provided with a base level of staffing represented by the navy blue.  and they include positions such as principals, directors, nurses, and lead custodians. They are provided no matter what the size of the school is, similar to fixed costs in a business. On top of this base level of funding, schools are provided positions that are generally dependent on a projected enrollment. The most relevant example of this is our classroom teachers. The specifics of FTE allocations are established in our adopted staffing standards.  There are also many other positions that are determined based on intervals or steps, which are a hybrid of these two types of costs. Here's some examples of financial impacts by size of school. At the elementary level, as you might imagine, budgets increase as the school size increases. On a per pupil basis, costs go down as school size increases.  While the per pupil cost between these three schools might not seem too significant, when you multiply the difference by the number of total students, you can see a significant total cost impact as shown in the last column. This is mostly due to the mix of base and variable costs as shown on the previous slide. At the middle school level, the cost differences are more visible. A lot of this has to do with demographic differences across these schools.  But at Walton, for example, staffing allocations are based on a whole harmless enrollment of 425 students in order to ensure that we offer a comprehensive middle school program to these students. In our high schools, two good schools to compare operating costs are Monticello and Albemarle, since their demographics are more similar to each other.  As you can see, the small per pupil cost difference when applied to large numbers of students have significant financial implications. Finally, a quick note on capital costs. On the left are some examples of recent expansion projects, and those may include renovations as well. On the right are recent estimates and the long-range planning advisory committee report of what new construction buildings may cost.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "clarify",
+      "cite_external_source",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 8132.785,
+    "end": 8137.071,
+    "text": " As you might imagine, it is more cost effective to expand a school than to build a new one.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "opinion"
+    ]
+  },
+  {
+    "start": 8139.074,
+    "end": 8143.401,
+    "text": "And I will change directions here and turn the presentation over to Mr. Gilman.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 8147.227,
+    "end": 8709.214,
+    "text": "All right. And I believe Maya is going to continue the slides for me. So I will say next to indicate when to go next. We conducted a survey with the community. We reached out to everyone in the community and said, tell us a little bit about your experience in being in school.  and what you think are the right sizes, both in terms of minimum and maximum for our schools by level. We presented them with a little bit of information to begin with. So it showed them the average school size at the national level, at the Virginia State level, and then our school level, so that they could have a perspective on where would some boundaries potentially be.  We then gave them a series of options to select from as their ideal minimum and ideal maximum. For the minimums, we tried to identify the point at which we were thinking about theoretically the smallest school in our division. And we were also kind of roughly matching the cut point for the Hold Harmless funding that Maya mentioned, because we would ideally not recommend schools go below that Hold Harmless level.  At the maximum, we were looking at extending beyond where our largest schools were. We were also looking at extending beyond the scope of our current staffing standards. If we were to build schools that large, we would have to either reconsider our staffing standards or adjust our staffing models to accommodate schools that large. We also attempted to reduce the numerical gaps between any of the response options.  to the extent possible, so that people could feel like they were choosing something close to where they honestly felt they were, as opposed to a large, you know, 500 student gap, which felt like they were just getting lost in the abyss. We tried to provide as many options as possible to reduce those options. Next. So for our survey, we had over 3,000 responses, nearly 3,100 responses, which is excellent for our community.  The responses were largely by parents. We also had a very large response rate by students. We directly sent the survey out to students to try to solicit their feedback. We can look over on the right, we can see the demographic breakdowns for the race ethnicity. We can see we're kind of close in some of our groups, but we're maybe a little heavy on the white, a little light on that black and Hispanic, maybe a little heavy on the Asian as well.  close to a good demographic representation, probably ideal considering real world circumstances and a lot of external factors that affect people's ability to participate in these kinds of surveys. So I would say overall, a very high quality representation of where our community is in terms of demographic representation. Next. So these are the results that we will present.  For the minimum enrollment size, the community was pretty consistent and wanting somewhere between two and 350 students, which very tightly aligns with our minimum schools right now. When you look over on the left, you'll see a weighted score and a plurality score. The plurality score is whichever bar is the farthest to the right. The weighted score is using a weighted average of all of the scores. And so it's intended to give you a sense of, if you looked at the plurality and budged, which way would you want to budge?  So for minimum, ideally, we would keep schools at 200. But if we had to go bigger as a minimum size, the community would support going a little bit bigger. It's also possible they'd support going smaller if we allow that option to be visible. But given our hold harmless staff, then we didn't allow that option visible. The maximum, you can see that the plurality was at 500 with the weighted at 510. So they're really tightly in agreement that about 500 is where they want to see elementary schools stop growing.  And that's where the community largely has agreement about that decision. And so if the board were to present something in a policy around 500, there would be quite a bit of community support for that decision. Next. Middle schools were similarly in agreement. At the minimum, there was somewhere between three and 450 students, which is right in line with actually many of our middle schools. If you look at Walton, Lakeside, Jewett, Burley, they were all  kind of in that range with Lakeside, Burley, and Jewett kind of extending past that range slightly. So we're very much in alignment with where we are as a school division. When you look at the maximum, they're looking at a cap of about 600. If you had to push up, there would be a little bit of community support for pushing up beyond 600, but not a lot, which would primarily impact schools like Henley, which is well in excess of 668 students. And the next.  The high school, this is the one of the places that was the most interesting data point that we received. So the minimum was exceptionally consistent. They wanted small minimums for high schools. We didn't go below 1000 because that's a difficult number to project because that impacts things well beyond the considerations of this particular survey, including VHSL sports and  program after school programs, etc, etc, so it was very difficult to go beyond below 1000 as an option, because we simply don't have a school at that point. And even if we were to add let's say another high school or various centers we likely wouldn't go below 1000 at any of our schools. The maximum had a lot of variability there really wasn't a lot of consensus within the Community about what would be a good maximum size.  The plurality of support was behind about 1,200 students, which is slightly in excess of where Monticello and Western Albemarle High School are right now, but could push up to about 1,400, which sits right around where our average is for all of our high schools. There doesn't seem to be a lot of support for that 1,800, but there was a considerable amount of support for around 2,000, which was an interesting data point  We don't have a lot of information about why people would think that a school that large that's so out of line with the rest of our state, as well as the market comparison that Maya showed us. We're not really sure why there's that support there. So after we completed this, we also did a review of some existing research on school sizes. If we click next, we reached out to EAB, and they did some research on ideal school size.  And so I'm going to shift hats a little bit to go from statistics to economics. Economics is not my background, so I apologize to anyone who's listening who knows this stuff way better than I do. I'm using some terms loosely, but the idea that we got was there's not a lot of consistency in the research. There is some, there's plenty of research out there about ideal school size, but there's no one definitive answer of where is that ideal. What they identify are two competing priorities. The first is the  The economies of scale right so as some resources are fungible you can increase the student enrollment without increasing that resource let's say a principal right, we can have a principal school of 100. We can also have a principal of school 300 so the cost for that principal doesn't change across the number of students enrolled. Except that the cost per pupil changes, so there creates an economy of scale.  What the research did identify was the law of diminishing returns, which is where when you reach a point that the economies of scale begin failing. And it's specific to students who need specialized support. And so that was, if you look in that very far right column, the special education and disadvantaged populations, this is where the economies of scale begin to falter. And so if we give an example like  Albemarle high school with roughly 2000 students enrolled and we have roughly 10% of our students identified as special education. That means there are potentially roughly 200 students who are in need of special education services at Albemarle high school. If we average roughly 10% 10 students on a caseload you're talking about 20 special education folks working at Albemarle high school in concert with one another.  If anyone sat in a room of 20 people and tried to find agreement, you'll understand the law of diminishing returns when it comes to some of these specialized populations. Similarly, when we look at our students that are from economically disadvantaged homes, they receive special economic support around things like Title I. So if we start to increase the number of Title I teachers in a school, so you start to have five, six, seven, eight Title I teachers,  it becomes very difficult for them to have productive PLC conversations. And so again, the law of diminishing returns becomes a problem. So there's not a right answer, but the idea is trying to maximize the economies of scale. But stopping before we hit that law of diminishing returns is what the research tells us is sort of the best idea. And I believe that's the end of my section.",
+    "speaker": "Unknown",
+    "tags": [
+      "give_update",
+      "public_addressing",
+      "cite_external_source",
+      "clarify",
+      "reassure"
+    ]
+  },
+  {
+    "start": 8711.156,
+    "end": 8773.245,
+    "text": "Thank you, Chris.  So the next piece of our agenda is to get into smaller groups to discuss these topics. But before we do that, do you have any initial or clarifying questions? Keeping in mind that there will be staff present in the smaller rooms to answer further questions. All right. So what we're going to do is break you into three rooms based on school level.  I ask that you spend about 10 minutes discussing question number one. What information do you find the most compelling? And then for the second 10 minutes, please discuss question number two, which is, do you have enough information to develop a preliminary recommendation? If yes, what would that be? And if no, what other information would you like in order to move forward? We've assigned school board members and instructional staff",
+    "speaker": "mayakumaza",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "ask_question",
+      "logistics_info",
+      "request_action"
+    ]
+  },
+  {
+    "start": 8773.799,
+    "end": 8782.31,
+    "text": " into these groups and we plan on having you in there for about 20 minutes in total and we will give you a five minute warning.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "logistics_info",
+      "give_update"
+    ]
+  },
+  {
+    "start": 8784.793,
+    "end": 8792.063,
+    "text": "Does that sound good to everyone? All right. Jennifer, can you go ahead and move us over?",
+    "speaker": "mayakumaza",
+    "tags": [
+      "public_addressing",
+      "request_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 8792.123,
+    "end": 8793.985,
+    "text": "Yes.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 8828.187,
+    "end": 8832.832,
+    "text": " That was interesting, instead of pushing the little button to go to classroom one.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "opinion"
+    ]
+  },
+  {
+    "start": 8838.798,
+    "end": 8848.648,
+    "text": "I was thinking that, John, but I think this is like the third week in a row work session in a row. I've been in this room. I'm kind of ready to get to a different room.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "express_concern",
+      "request_action",
+      "hedge"
+    ]
+  },
+  {
+    "start": 8848.708,
+    "end": 8851.211,
+    "text": "Yeah.",
+    "speaker": "michelecastner",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 8852.472,
+    "end": 8855.055,
+    "text": "So this is the room that is being live streamed.",
+    "speaker": "Unknown",
+    "tags": [
+      "logistics_info",
+      "clarify"
+    ]
+  },
+  {
+    "start": 8857.87,
+    "end": 8858.271,
+    "text": " Okay.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 8868.186,
+    "end": 8884.452,
+    "text": "So, Michelle, I didn't, or Ms. Kastner, I didn't write down the questions. Do you have a chance, or could you put them in the chat? Well, I think the first question was, was there anything compelling to you based on what was shared in that presentation?",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "request_action",
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 8886.052,
+    "end": 8909.648,
+    "text": " And then the next part was in regard to if you think you had enough information to make a recommendation. And if not, what more information would you need? So I can chime in by saying one thing I found compelling was the EAP research.",
+    "speaker": "michelecastner",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "opinion"
+    ]
+  },
+  {
+    "start": 8910.789,
+    "end": 8944.968,
+    "text": "Just my visual person was on the right side. It was about how  There has been research to support that smaller school size, particularly help economically disadvantaged students where they have the most impact. And I guess one thing I'd be curious is if that's broken down by age range like elementary versus middle versus high school, there's a different effect.  in different locations, but I would imagine that that'd be particularly important in elementary school, because I feel like that's where you're getting the building blocks that set you up for success in middle school or high school.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "clarify",
+      "cite_external_source",
+      "opinion"
+    ]
+  },
+  {
+    "start": 8945.889,
+    "end": 8960.507,
+    "text": "Yeah, one of the things that we got sent earlier was about elementary schools from the EAB about elementary schools. It seemed to say that that was the case specifically for elementary schools. And so I felt that was pretty compelling.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "cite_external_source",
+      "give_update",
+      "opinion"
+    ]
+  },
+  {
+    "start": 8962.816,
+    "end": 8971.999,
+    "text": " And I would agree with that, based on my experiences as elementary principal in all sizes.",
+    "speaker": "michelecastner",
+    "tags": [
+      "agreeing",
+      "opinion"
+    ]
+  },
+  {
+    "start": 8979.404,
+    "end": 8989.93,
+    "text": " It's always so hard on zoom because I can't tell if people are like waiting. I don't know what it is, but I guess when you're in person, you can more accurately read as someone's about to speak. So John, if I'm cutting you off, please feel free to.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "hedge",
+      "reassure",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 8991.554,
+    "end": 9067.137,
+    "text": "I found a lot of it to be compelling.  And, you know, in the EAB stuff we were sent, and then the working information from Fairfax, you know, was interesting. Although, boy, they sure do some big schools up there with a couple thousand for an elementary school. I'm not sure that, you know, I've got enough  understanding to make a preliminary recommendation, you know, I'd like to get talked through what some of those options would look like. And I'd like to have that report, you know, maybe up and back a bit so that we can really, you know, start to winnow it down.  But it's very compelling information. It's interesting to see what the survey had to say. Right.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "opinion",
+      "hedge",
+      "follow_up_request",
+      "request_action",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 9068.018,
+    "end": 9068.88,
+    "text": "Go ahead.",
+    "speaker": "michelecastner",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 9068.9,
+    "end": 9101.724,
+    "text": "I was going to say the information that I would find helpful would be how do teachers and staff feel about school size? Because we want them in situations where they can do their best.  You know, is there a general thought of the smaller, the better you're for camaraderie, or is it a bigger, better, more people? You know, I don't know. So we heard from parents, but I'd be interested in knowing what teachers and other staff and principals think.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "follow_up_request",
+      "express_concern",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 9103.686,
+    "end": 9152.097,
+    "text": "Right. I mean, based on my experience of 25 years, I would say that teachers and staff would probably lean towards  anything under 500. For a variety of different reasons, in terms of a smaller community, you know, I think that it's kind of that magic number, anything above 500, the needs just are greater. And I think our division does a great job of providing differentiated staffing.  But I would say in general, based on my experience, anything under 500 seems to be like that ideal number for an elementary setting.",
+    "speaker": "michelecastner",
+    "tags": [
+      "opinion",
+      "hedge",
+      "reassure",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 9154.58,
+    "end": 9199.226,
+    "text": "One of the things that isn't taken into account in this and that has been a top priority  for the community as a whole over the last five or six years has been, if it's not the number one priority, it's always been the number two priority, and that's smaller class sizes. And so- That's interesting. This adds another layer of how many of those classes should there be.  But I think as a general rule, I think our division has actually done fairly well with class size.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "prioritization",
+      "opinion",
+      "reassure",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 9199.286,
+    "end": 9234.245,
+    "text": "I came from Northern Virginia, where the class sizes were on average, we would have 30 students in an elementary classroom. So when I came to Albemarle, I was actually pleasantly surprised by the class size, especially at the lower elementary level.  for K1 and 2 and 3rd grade. So I find that part interesting because I think we strive to keep our class sizes fairly low at the elementary level for sure.",
+    "speaker": "michelecastner",
+    "tags": [
+      "opinion",
+      "reassure"
+    ]
+  },
+  {
+    "start": 9237.949,
+    "end": 9244.555,
+    "text": "Other divisions. Really good at that. I mean, I think it was 18 to 21. Yeah. It's kind of a range.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "give_update",
+      "hedge"
+    ]
+  },
+  {
+    "start": 9247.618,
+    "end": 9315.406,
+    "text": "So I think.  One thing I struggle with, with, with the section of the long range planning committee wanted either a policy or some kind of recommendation in place, but there's a, which is we need to provide them, but it feels a little bit too big picture in that I think small school sizes and small class sizes are clearly going to be the ideal. The question is going to be what are we actually capable of  doing and implementing. And so that part, kind of the nuance of how we word our recommendation. Maybe I'm making an assumption. Maybe it's not just a given that smaller is better. So if the point of this is to kind of get how we feel, I would say for elementary school, I think small is good.  But I don't know if that's reasonable. And if we have to decide where schools are going to be small or not small, I guess we should try to make them smaller where there's a higher concentration of economically disadvantaged students. But I don't know if that's really feasible or not. So it's a little hard to kind of get into the nuance because a lot of financial constraints.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "opinion",
+      "express_concern",
+      "policy_proposal",
+      "prioritization",
+      "hedge",
+      "clarify"
+    ]
+  },
+  {
+    "start": 9316.387,
+    "end": 9317.008,
+    "text": "Sorry.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 9317.495,
+    "end": 9323.301,
+    "text": " I was just going to say, and even building in like space and a lot of. Which is what I was going to say.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "hedge",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 9323.341,
+    "end": 9387.566,
+    "text": "I mean, because I agree with the great info we got regarding operating costs, you know, differences and how that all weighs in there. But putting the CIP hat on, you know, we've got I think I just wrote down five.  elementary schools that are larger, or at least, I'm sorry, four, with Brownsville, Crozet, Baker Butler, Mountain View, and I just stopped at that point. I think there may be one more. And so setting up a policy for sizes of schools begs the question, what do we do?  you know, and what are the financial constraints of limiting or making smaller the existing large schools? I mean, I think that's a whole conversation in and of itself.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "agreeing",
+      "policy_proposal",
+      "ask_question",
+      "express_concern",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 9387.586,
+    "end": 9397.621,
+    "text": "It's like, it's not going to be a retroactively applicable policy because we're obviously not going to split all our schools into, especially if they're already, if they're functioning as they are.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "clarify",
+      "reassure"
+    ]
+  },
+  {
+    "start": 9398.462,
+    "end": 9405.478,
+    "text": "Right.  But I mean, or how do we do it? I mean, I completely agree.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 9406.219,
+    "end": 9422.342,
+    "text": "Johnna, can you give us an update? I know I should be able to list these off my head, but what are, and maybe I'm putting you on the spot, but for the CIP, what are the ones that are the next up? Because I know we do have plans for addressing our elementary schools.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "request_action",
+      "give_update",
+      "ask_question",
+      "hedge"
+    ]
+  },
+  {
+    "start": 9425.849,
+    "end": 9444.381,
+    "text": " Just so I guess one thing I will say while you are you already look like you've already found it but I am feeling pretty good about our elementary schools, other than it seeming like less there's less concern about all of our schools and more it's like there's specific ones we need to work on.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "opinion",
+      "express_concern",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 9444.361,
+    "end": 9457.034,
+    "text": " Maybe becomes more handy when it's like we're getting to the high school level where there's. And maybe not. I don't know. That's just in my head. I'm feeling pretty good about elementary other than the specific ones we're working on, which maybe we have plans.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "opinion",
+      "hedge"
+    ]
+  },
+  {
+    "start": 9457.935,
+    "end": 9458.435,
+    "text": "Mountain View.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 9459.096,
+    "end": 9464.461,
+    "text": "Yeah, Mountain View is is there.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 9464.541,
+    "end": 9590.193,
+    "text": "They want to look at the capacity situation there and what to do, because there's already a project that started. To enlarge it.  But there is also the number three thing on the list was elementary school in the northern feeder pattern. And so, and that was looking more at Brookhill, as opposed to looking up as far north as North Point. And then skipping down from there.  you know, it goes through all the renovations, which are, you know, of course, really important and a couple of other things. But number 10 is elementary school land acquisition in the Western feeder pattern. And, you know, so that is one, because if you remember in  that report, it showed that in Appendix E, and this is over 20 more years or 25 more years, but you know, Brownsville-Crozet was looking at a possible added 1,155 students. Let's cut that in half, you know, and it's still  600 kids, you know, so there's gonna need to be something else out there according to that logic. The next two highest, just so you know, were Baker Butler, Baker Butler-Hollymead at 833, and I beg your pardon, number two was actually Albemarle High School at 881. But there were some that had minimal under 100.  you know, new students over the next 25 years. So, you know, there are some that we're probably not going to need to do anything with, you know, in that timeframe. So, yeah.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "prioritization",
+      "cite_external_source",
+      "opinion",
+      "hedge"
+    ]
+  },
+  {
+    "start": 9591.214,
+    "end": 9593.036,
+    "text": "Oh, sorry. No, no, no.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "interrupt_overlap",
+      "acknowledge",
+      "disagreeing"
+    ]
+  },
+  {
+    "start": 9593.116,
+    "end": 9606.313,
+    "text": "That's good. I was going to say, in terms of Mountain View, that seems to be the big questionnaire, and it would be my opinion, I'm curious what y'all think, but it would be my opinion that that's one I don't want to see continually get",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "opinion",
+      "follow_up_request",
+      "express_concern",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 9607.289,
+    "end": 9651.785,
+    "text": " bigger and bigger. I think we're kind of at the limit of where the community is comfortable with the number they're comfortable with and where the research is starting to point to there being problems with having a school that big. I know that I think that would fall into the category where we don't want to continue to just grow it. We'd want to look into and there's continued growth in that area. I don't think the county expected there to be as much growth in that area as there has been. And I don't see it slowing down. I know we were looking at  property over there at some point, and it's, there's a lot of interest in that area. So I would want, the Long Range Planning Committee, I would say I'd want alternatives for either another school or another way to handle that that's not continually expanding Mountain View.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "express_concern",
+      "request_action",
+      "policy_proposal",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 9652.806,
+    "end": 9714.06,
+    "text": "And right now, they are almost 100 students over. And that's using the 1920  And your 2019-2020 enrollment for the last year, it was 662, which is about 40 over. And you're right. I mean, there's going to be continued growth. Although, I would admit that the growth that the long-range planning folks showed was 267.  over the next 25 years. So. You know, it gets into a lot of different conversations from the CIP point of view about, you know, what what can we afford to where should we put those resources? And I agree. I think Mountain View's, you know, right up there near the top.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "give_update",
+      "prioritization",
+      "agreeing",
+      "cite_external_source",
+      "opinion"
+    ]
+  },
+  {
+    "start": 9715.101,
+    "end": 9717.925,
+    "text": "Yeah, it's it's got we got to have some relief out here.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "express_concern",
+      "request_action",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 9727.962,
+    "end": 9747.769,
+    "text": " Should we get to discuss other ones, or should we continue with elementary? I can just provide the perspective of the fact that both my kids attend Agner Hurt, and that there was a recent redistricting there. That was a solution. And Michelle, you could speak to all of this, and you were a wonderful principal there, although slightly before my kids started. Yeah, it's hard.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "defer_to_expert",
+      "opinion"
+    ]
+  },
+  {
+    "start": 9748.35,
+    "end": 9781.603,
+    "text": "It's hard to redistrict. I would say the top two elementary schools that need the relief is Brownsville and Mountain View. Yeah.  just as the current need that I think we need to, we're trying to attend to. So we'll have an addition at Crozet soon that will help. So I think the next one would be Mountain View in terms of elementary. And I will say, I don't have the perspective of having attended Mountain View alone.",
+    "speaker": "michelecastner",
+    "tags": [
+      "opinion",
+      "prioritization",
+      "give_update",
+      "acknowledge",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 9781.703,
+    "end": 9812.172,
+    "text": "I know quite a few family, or you know, having my family attend, I know quite a few families that attend there  there, there is, I have heard about it being very large. And I know my own kids experience that I've heard is very personal. And, you know, like they, my boys share, there's like the music teacher, the one music teacher, they all have the, they know all the teachers, they know a lot of the students. And it's, I see a benefit in that. I know that's anecdotal evidence, but I would hope that we could, we could replicate that at other schools as well.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "opinion",
+      "policy_proposal",
+      "hedge"
+    ]
+  },
+  {
+    "start": 9814.295,
+    "end": 9847.291,
+    "text": " And I think that the next one down the list might well be Baker Butler. And they have been talking, teachers have been asking me for a few years when there's going to be a redistricting there. And I think that that's something we're going to have to keep on our page.  as a possibility over the next few years because that's one of those that's got a big chunk of new students coming in as well.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "policy_proposal",
+      "prioritization",
+      "give_update",
+      "opinion"
+    ]
+  },
+  {
+    "start": 9857.386,
+    "end": 9870.777,
+    "text": "So. Well, thank you for your thoughts and reflections. I think I'm hoping that you get to go to the other rooms. So that you can.  Yeah. I'm not, I'm not sure if you're going to be able to.",
+    "speaker": "michelecastner",
+    "tags": [
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 9871.357,
+    "end": 9878.086,
+    "text": "We can decide right now. So no one's on the spot. Who's presenting the summary. Since I brought it up, it's not me.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 9878.927,
+    "end": 9885.776,
+    "text": "Ellen has been dying to do it. So.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 9887.718,
+    "end": 9916.594,
+    "text": "John, oh, you, I doesn't seem like Ellen wants.  So I'm very curious what they had to say about the high schools that's kind of where I have the most questions around what's the ideal I know we're doing work there, though, with the center model and kind of getting this children, the ability or young adults, the ability to get out of their base schools, but I'm very curious about that one.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "follow_up_request",
+      "ask_question",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 9922.413,
+    "end": 9928.903,
+    "text": " And that was number one on the list for the CIP from the long-range planning group.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "prioritization",
+      "give_update",
+      "cite_external_source"
+    ]
+  },
+  {
+    "start": 9931.447,
+    "end": 9963.546,
+    "text": "Here's a chance where I get to tell you that I went to high school that had, I think it was like 36 or so students in total, seven in my graduating class, only two boys. One of them was my brother, who was slim pickings. I think I'm going to leave.  more towards the smaller school, but I take it that my experience is probably not the best metric to base it off of.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "opinion",
+      "hedge",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 9963.566,
+    "end": 9964.867,
+    "text": "Well, good. Thank you, everybody.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 9970.793,
+    "end": 9972.454,
+    "text": "We're not done. We have to keep talking.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "procedural_move",
+      "request_action"
+    ]
+  },
+  {
+    "start": 9973.916,
+    "end": 9977.479,
+    "text": "So why is the high school thing the priority, John?",
+    "speaker": "ellenosborne",
+    "tags": [
+      "ask_question",
+      "prioritization",
+      "clarify"
+    ]
+  },
+  {
+    "start": 9981.172,
+    "end": 10035.883,
+    "text": " Well, I think, Ellen, that if, for example, in this exercise, the minimum is at 1,000 for the high schools and the recommended maximum or voted maximum was 1,200-ish, we've got Albemarle with 1,900 and some odd.  And so if we were going to try and make that, you know, to fix that, that's where we're going to get into the center issue. We would probably need a second one pretty quickly. Or, you know, it could very well be that we're going to need to keep an idea alive about a new high school.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "policy_proposal",
+      "express_concern",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 10036.775,
+    "end": 10039.419,
+    "text": " But we're not maxing out center enrollment, are we?",
+    "speaker": "ellenosborne",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 10042.243,
+    "end": 10053.579,
+    "text": "Depending on where they end up with the decision as to where they would be sending people. And I don't know that that's one.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "hedge",
+      "clarify"
+    ]
+  },
+  {
+    "start": 10055.142,
+    "end": 10062.192,
+    "text": "But the center isn't full, so we could still be having more kids go there to lighten the load at some of the high schools.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "policy_proposal",
+      "opinion",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 10063.614,
+    "end": 10065.617,
+    "text": "Well, if you figure it out.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 10066.643,
+    "end": 10070.148,
+    "text": " What's that? Yeah. We have space at KTEC.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "clarify",
+      "logistics_info",
+      "give_update"
+    ]
+  },
+  {
+    "start": 10071.049,
+    "end": 10108.911,
+    "text": "I just feel like there's more options at the high school level, even including virtual, whereas the elementary school that shapes your concept of learning and your feelings about learning is so incredibly important because those are things that get ingrained in you when you're a little and will carry with you. But at the high school, you have a lot more options and you can adapt to either going to the center  or KTEC or virtual, there's just more options. You can do more. And so when there are more options there and there are fewer options at the elementary school, that's why I would place the importance on the elementary school.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "opinion",
+      "prioritization",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 10110.974,
+    "end": 10114.197,
+    "text": "Gotcha.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 10114.357,
+    "end": 10152.321,
+    "text": "And one of the things, I mean, going along those lines and being supportive of that concept is, I think that's why we're gonna be doing a lot of renovation work.  in those schools if we're not going to be putting other facilities up. Because there's a lot of issues in Albemarle in particular and in Western in particular. They're the oldest schools. Okay, there we go.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "opinion",
+      "policy_proposal",
+      "prioritization",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 10158.595,
+    "end": 10175.73,
+    "text": " All right, thank you all for engaging in those discussions.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 10176.171,
+    "end": 10187.961,
+    "text": "What I'd like to do now is for one school board member in each group to provide a two minute recap of your answer to number two.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 10188.582,
+    "end": 10197.52,
+    "text": " Which is, do you have a preliminary recommendation at this point, or what other information would you like to have before putting anything forward.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "request_action",
+      "clarify"
+    ]
+  },
+  {
+    "start": 10198.321,
+    "end": 10206.878,
+    "text": "And we'll go backwards this time and maybe start with the high school group. Those who are placed in breakout group number two.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "procedural_move",
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 10208.225,
+    "end": 10222.487,
+    "text": " We didn't get to that question. I think one thing that we said that we might need more information on would be what different communities think about the schools. Is that right, Kate?",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "request_action",
+      "clarify",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 10224.745,
+    "end": 10236.621,
+    "text": " Right. If someone who was going to Albemarle High School loved 2,000 students and someone who went to Monticello loved 1,100, we don't have that. That could skew the data. I don't know.",
+    "speaker": "kateacuff",
+    "tags": [
+      "express_concern",
+      "hedge",
+      "clarify"
+    ]
+  },
+  {
+    "start": 10237.042,
+    "end": 10246.254,
+    "text": "Right. But we didn't actually talk about question two at all, really, if my recollection is correct. And is it, Kate?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "follow_up_request",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 10248.077,
+    "end": 10249.639,
+    "text": "We talked about a lot of things.",
+    "speaker": "kateacuff",
+    "tags": [
+      "give_update"
+    ]
+  },
+  {
+    "start": 10249.687,
+    "end": 10253.932,
+    "text": " Right, but not related to size and other information we might like to have.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "clarify"
+    ]
+  },
+  {
+    "start": 10253.972,
+    "end": 10278.023,
+    "text": "And I think the bottom line is we're not we're not ready to make a recommendation. I think Chris Gilman, who was in our section, offered to disaggregate the data by maybe location or see what I mean, see and maybe even disaggregate it with respect to the student responses. Do they like their size of their school? That would be helpful.",
+    "speaker": "kateacuff",
+    "tags": []
+  },
+  {
+    "start": 10279.657,
+    "end": 10285.622,
+    "text": " And AJ, do you have anything else to add from our group?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "request_action"
+    ]
+  },
+  {
+    "start": 10285.642,
+    "end": 10309.242,
+    "text": "You guys summed it up pretty well with like, you know, the meeting information from the students about how they feel about, you know, the school, especially since like, you know, our mall compared to like, community lab are very two different sizes and people in those, you know, each school is going to have a different opinion. So I, I think that is the first important step into thinking about school sizing.",
+    "speaker": "aj",
+    "tags": [
+      "agreeing",
+      "acknowledge",
+      "opinion",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 10309.947,
+    "end": 10311.731,
+    "text": " Right. All right.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 10314.478,
+    "end": 10321.655,
+    "text": "Thank you. Mr. Oberg, would you like to report on the middle school breakout group?",
+    "speaker": "mayakumaza",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 10322.437,
+    "end": 10388.588,
+    "text": "I would, and I just want to point out for the record that our group did finish the second question.  So I'm not judging the first group. I'm just saying that ours followed the instructions. Thank you very much. We said we'd like a little bit more information regarding the academic performance of the different schools. And we'd also like to know, at what point at the levels do you start losing the opportunity to offer courses? Because as the fewer students you have,  the less courses you can offer for variety sake. So we'd like to see that sort of broken out. But we said that anything lower than 400 is too small. 500 is kind of too small, but it's acceptable. But our suite number is about 650. But we agreed that Henley is too big.  Did I forget anything, Judy?",
+    "speaker": "davidoberg",
+    "tags": [
+      "give_update",
+      "clarify",
+      "request_action",
+      "ask_question",
+      "express_concern",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 10390.355,
+    "end": 10391.318,
+    "text": "I don't think so. Good job, Dave.",
+    "speaker": "judyle",
+    "tags": [
+      "disagreeing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 10394.752,
+    "end": 10398.105,
+    "text": "All right, thanks. And then finally, the elementary school group.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 10399.452,
+    "end": 10472.66,
+    "text": " Well, we will bow down to the middle school group because we didn't come to a decision for a recommendation. And it was very interesting looking over the slides and getting a feel for what the survey had to say. And then we've raised the subject too of class size.  And which has been at or near the top of the list for the community's wishlist for years and years. And so how would you do it? So we talked a little bit about the CIP side of that. And obviously, we're not in a position to make any decisions at this point. But I think there was an agreement that  focus on elementary schools more so even than high schools should be viewed as a priority for what we end up doing on a CIP point of view.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "give_update",
+      "policy_proposal",
+      "prioritization",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 10477.468,
+    "end": 10481.434,
+    "text": "Was there any more information that you wanted staff to bring back?",
+    "speaker": "mayakumaza",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "request_action"
+    ]
+  },
+  {
+    "start": 10484.502,
+    "end": 10510.999,
+    "text": " I generally wanted to know what teachers and other staff thought about school size, if they had a preference and felt like they worked better one way or another. I wanted some more granular data on the student achievement and our impact on student learning and school size and how that is broken up between high school, middle school, and elementary, because we were pretty strong in elementary being",
+    "speaker": "ellenosborne",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "follow_up_request",
+      "clarify"
+    ]
+  },
+  {
+    "start": 10511.755,
+    "end": 10520.047,
+    "text": " we thought elementary would be one of the important areas where you really want to get smaller school size, especially if you have economically disadvantaged students, but I'm curious.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "opinion",
+      "prioritization",
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 10521.529,
+    "end": 10527.137,
+    "text": "Yes to both of those. And we thought Michelle did a great job running ours.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "agreeing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 10529.38,
+    "end": 10564.476,
+    "text": "Just I'm out of turn again, but one of the things we also talked about is whether the respondents evaluation of  school size was influenced by the fact that many of our schools are overcrowded and kids are in trailers, you know, are the responses that a school is too big, you know, impacted by the fact that we've got 16 classrooms in the parking lot behind Albemarle High School or we have eight classrooms outside Henley or we have how many classrooms we have.",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "interrupt_overlap",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 10564.608,
+    "end": 10588.641,
+    "text": " HAB-Michael Leccesereeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "speaker": "davidoberg",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 10589.026,
+    "end": 10603.122,
+    "text": " Thank you all. We've all taken some notes down and we will get to work, see what we can do for a follow-up session that we're planning in October. This was good, Maya.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "acknowledge",
+      "give_update",
+      "logistics_info",
+      "reassure"
+    ]
+  },
+  {
+    "start": 10604.163,
+    "end": 10606.566,
+    "text": "I thought this was really well done. Good work session.",
+    "speaker": "davidoberg",
+    "tags": [
+      "acknowledge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 10608.848,
+    "end": 10661.621,
+    "text": "And we did send background materials, and I understand there hasn't been that much time to really dig into that. So in terms of next steps, please  review those materials, continue to ask questions. And we will return in October with that additional information. We will work with Dr. Acuff and Mr. Alcaro as our CIP advisory committee members. And again, the proposed timeline would be to have something by the end of October. That is only if we get there, but that's a goal we have set for you all.  Are there any final questions before we end this work session on school size? All right. Thank you all.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "request_action",
+      "give_update",
+      "logistics_info",
+      "follow_up_request",
+      "hedge",
+      "acknowledge",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 10661.661,
+    "end": 10677.724,
+    "text": "Thank you. Thank you, Myra, and thank you to the entire team on presenting the workshop for us. Do we have any other business by board members or by the superintendent?",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 10680.826,
+    "end": 10704.201,
+    "text": " I feel like I'm like super redundant today, especially, I don't know why, but I just wanted to say, AJ, I really appreciated everything that you said. I know that we had this like weird back and forth, the sound on Zoom, but I just, I felt like, you know, you really brought an authentic voice to our board and it was really important and I really appreciate that. So thank you very much.",
+    "speaker": "judyle",
+    "tags": [
+      "acknowledge",
+      "reassure",
+      "opinion"
+    ]
+  },
+  {
+    "start": 10705.413,
+    "end": 10708.659,
+    "text": " Yeah, I'd like to echo those same sentiments, AJ.",
+    "speaker": "grahampaige",
+    "tags": [
+      "agreeing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 10708.699,
+    "end": 10727.873,
+    "text": "And please stay in contact with us. If any time during the year, if you can think of something that you think would be important for the board to know, please make sure that you relay that information to us. Because we really appreciate every time that you had some input, doing board discussions was always valuable.",
+    "speaker": "grahampaige",
+    "tags": [
+      "request_action",
+      "follow_up_request",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 10729.836,
+    "end": 10730.357,
+    "text": "I'll make sure to do that.",
+    "speaker": "aj",
+    "tags": [
+      "reassure",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 10734.556,
+    "end": 10751.305,
+    "text": " Any other school board business or superintendent's business? Okay, if not, our September 23rd meeting is adjourned. Bye guys.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 10751.446,
+    "end": 10752.43,
+    "text": "Okay, bye.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "public_addressing"
+    ]
+  }
+]

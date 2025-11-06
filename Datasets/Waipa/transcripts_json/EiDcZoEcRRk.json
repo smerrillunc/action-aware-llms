@@ -1,0 +1,523 @@
+[
+  {
+    "start": 0.924,
+    "end": 2.725,
+    "text": " I eat cake because it's my birthday.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "provide_information"
+    ]
+  },
+  {
+    "start": 3.205,
+    "end": 5.146,
+    "text": "Liz is coming through now. Oh, cool.",
+    "speaker": "asut",
+    "tags": [
+      "report_back",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 7.547,
+    "end": 18.911,
+    "text": "Morning, Liz. Morning, Philip. And we're live. Hi, everybody.",
+    "speaker": "governanceofficer",
+    "tags": [
+      "public_address",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 20.192,
+    "end": 21.292,
+    "text": "Morning.",
+    "speaker": "lizstolwyk",
+    "tags": []
+  },
+  {
+    "start": 22.933,
+    "end": 25.554,
+    "text": "Just a reminder to everyone that we are actually live streaming now.",
+    "speaker": "governanceofficer",
+    "tags": [
+      "procedural_move",
+      "public_address"
+    ]
+  },
+  {
+    "start": 28.092,
+    "end": 57.723,
+    "text": " Thanks, Jenny. Thank you. OK, well, it's 10 o'clock and we're not expecting anyone. Well, we've got a couple more that could come in, but we might as well start the meeting. We've got a quorum. So welcome, everyone, and this is an extraordinary  District Promotions Committee meeting. So the apologies, Jenny, there isn't any, is there?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move",
+      "public_address",
+      "ask_question",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 59.004,
+    "end": 64.106,
+    "text": "No formal apologies, Jim. So the only person we're actually missing is Kevin at this stage.",
+    "speaker": "governanceofficer",
+    "tags": [
+      "report_back",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 66.827,
+    "end": 99.031,
+    "text": "Maybe we should just put him in as an apology, and I'm quite happy to move that. Is there a seconder then for Kevin? I'll move, Jim. Yeah, move, second. All those in favour? Aye.  If I don't see anyone waving their hand frantically, I'll take it. There's no one against it. Any disclosures of members' interest? OK, item three, any late\u2014oh, sorry, Philip.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "ask_question",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 99.831,
+    "end": 109.914,
+    "text": "Sorry, Jim, just Cunnery-Cambridge, perhaps. Just disclosure of people's interest or my interest there, members' interest.",
+    "speaker": "philipcoles",
+    "tags": [
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 110.074,
+    "end": 177.683,
+    "text": "What was that for, Philip? Cunnery-Cambridge.  Oh, okay, yeah. All right, apart from that, there's no other disclosures. Any late items? No, there are none. Confirmation of the order of the meeting.  It's going to be hard to juggle this one round. Let's move, Clare, seconded Marcus. All those in favour? Aye. Contrary? Carried. So we've got the confirmation of the minutes of the meeting. It's at 5.1, which is  Were there any\u2014well, mover and seconder to receive those minutes first, Liz and seconder, Ann Philip. All those in favour? Aye. Contrary? Carried. Were there any matters arising from those minutes that anyone wanted to raise?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "confirm_next_step",
+      "summarize_outcome",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 178.564,
+    "end": 190.242,
+    "text": "Yeah, I've got a couple of things, Jim. On page nine,  of the minutes themselves. I think it's the agenda. It's page three of the minutes.",
+    "speaker": "Unknown",
+    "tags": [
+      "clarify_point",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 190.762,
+    "end": 192.162,
+    "text": "Yeah.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 192.202,
+    "end": 229.631,
+    "text": "The third paragraph says that Pirongia craft markets are cancelled. It's actually the Pirongia craft day. I just thought the way it's worded, it's, you know, there is a monthly Pirongia markets that is actually still operating, but it's the Pirongia craft day that's been cancelled. And that's the one that might not actually restart again.  And then further down the page, the second to last paragraph before the resolution, it states that 187,500 is there, but in actual fact, that differs from what's on the schedule, which the resolution point B is 187,000 straight. And that's also the total that's at the end of the schedule.",
+    "speaker": "Unknown",
+    "tags": [
+      "clarify_point",
+      "provide_information",
+      "express_concern",
+      "cite_reference"
+    ]
+  },
+  {
+    "start": 244.783,
+    "end": 248.205,
+    "text": " So Amber, so is it 187 or 87-500?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 248.705,
+    "end": 288.73,
+    "text": "I will have to check against. I thought it was. Hang on, be with me. I'm just going between screens. Where are we? District Promo. I thought it was with the 500, but I might have to check in with Sam.  Yeah, okay. I don't think it's gonna matter for just how much we're talking about now, but I will double check in with Sam after the meeting and I will make sure our lines flip around to everybody. Yeah, there's three 500 amounts in the schedule, yeah. Yeah, so we may have just missed one off.",
+    "speaker": "asut",
+    "tags": [
+      "assign_action",
+      "confirm_next_step",
+      "report_back"
+    ]
+  },
+  {
+    "start": 289.57,
+    "end": 296.732,
+    "text": "Yeah, and then it also affects the amount on page 12 of what's been retained, whether it's 13,000 or 12,500.",
+    "speaker": "Unknown",
+    "tags": [
+      "clarify_point",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 299.69,
+    "end": 325.788,
+    "text": " yeah yeah so i will check that as well cool yeah i will go through and double check that against sam's notes from the last meeting um yeah and then sure that's updated yeah and then there's a final one on page 35 um which is that still in the minutes i don't know um uh and that's where it's got oh that might be actually part of the um",
+    "speaker": "asut",
+    "tags": [
+      "assign_action",
+      "confirm_next_step",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 326.76,
+    "end": 337.225,
+    "text": " Agenda item, again, it says there's 11,000, but not 9,000 status for minutes. Yeah, yeah, so it's carried forward, yeah.",
+    "speaker": "Unknown",
+    "tags": [
+      "clarify_point",
+      "provide_information",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 337.606,
+    "end": 341.007,
+    "text": "Yeah. So I will triple check that one today. Yeah.",
+    "speaker": "asut",
+    "tags": [
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 341.568,
+    "end": 375.5,
+    "text": "That last one, Claire, is not in the minutes, so obviously we can fix that, but hey, thanks for picking those up. Was there any other issues in the minutes that anyone wanted to speak to?  Okay, so with just fixing up those references to the dollar amounts and the prongier market day, as opposed to a craft day, is someone prepared to move its true and correct record? And we can fix those up?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "call_vote",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 376.16,
+    "end": 376.861,
+    "text": "Yeah, yeah.",
+    "speaker": "Unknown",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 377.301,
+    "end": 399.3,
+    "text": "Yeah, Philip and  Who's seconding it? Liz, thanks. All those in favour? Bontree, carried. So item six, the District Promotions Fund allocation report. Amber, do you want to?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "summarize_outcome",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 400.879,
+    "end": 464.867,
+    "text": " Oh, so we had two come into this fund, one of which we've just been updated that has been cancelled. So we won't be discussing the New Zealand National Bridge event.  that has been called off. So the Cambridge Cycling Festival. I think we all know what this is about. So this is the big Victoria Street shutdown and the cycling event for kids all the way up to elites. And the reason that this application came in a little bit later outside of the funding round was Sarah Olmer  The organiser and her team are looking to try and join this event with possibly the Christmas parade and a few other options, but those conversations have fell through a little bit, so they've gone to stick with their usual date in April. Yeah, so it's a fantastic event, great numbers. As I said, it brings in families and young kids, but all the way up to the elite side of cycling. Yeah.  Any questions?",
+    "speaker": "asut",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "ask_question",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 465.748,
+    "end": 472.27,
+    "text": "Yeah, I think this is pretty straightforward. We've certainly funded this event in the past, so I'm happy to move the recommendation.",
+    "speaker": "lizstolwyk",
+    "tags": [
+      "state_opinion",
+      "provide_information",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 473.35,
+    "end": 475.531,
+    "text": "Thanks, Liz. Claire, were you wanting to?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 476.092,
+    "end": 479.253,
+    "text": "Oh, well, I'm really happy to second it. I think it's a great opportunity.",
+    "speaker": "Unknown",
+    "tags": [
+      "agree",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 479.873,
+    "end": 483.594,
+    "text": "So we have a mover and seconder. Is there any discussions, anything anyone wants to add?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 484.875,
+    "end": 497.671,
+    "text": "No, just a shame that we don't have the bridge tournament.  seven days it would have been fantastic for Cambridge one of the biggest you know bigger economic opportunities for accommodation providers but anyway so lovely.",
+    "speaker": "lizstolwyk",
+    "tags": [
+      "express_concern",
+      "community_reference",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 498.111,
+    "end": 500.131,
+    "text": "Do you think they'll try and come back at another time?",
+    "speaker": "asut",
+    "tags": [
+      "ask_question",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 501.352,
+    "end": 521.639,
+    "text": "Oh look really hard to say um the event is always run at the Kingsgate or what is now Distinction Hotel um you know they've been very loyal there it was only because of the um you know that wasn't an option that we took the booking but  We'll just have to wait and see. But it would be fantastic to host them again in the future. I've certainly kept the door open.",
+    "speaker": "lizstolwyk",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "defer_decision",
+      "state_opinion",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 522.319,
+    "end": 543.487,
+    "text": "Cool. I agree with that. And my wife's an avid bridge player. And she was actually playing in the finals for the New Zealand champion at that event. But they're going to be able to do it online over the next couple of weeks. So hopefully, she'll be the New Zealand champion shortly.",
+    "speaker": "philipcoles",
+    "tags": [
+      "agree",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 545.927,
+    "end": 555.853,
+    "text": " Might have to do a Homer Champs news story on social media with that one, Philip. Keep me posted. Like your champion? I'm not joking. It'd be great.",
+    "speaker": "asut",
+    "tags": [
+      "assign_action",
+      "ask_question",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 556.453,
+    "end": 566.94,
+    "text": "She's won it a couple of times now, or once, and she's represented New Zealand as well, so a few years ago. I'll keep an eye out online.",
+    "speaker": "philipcoles",
+    "tags": [
+      "provide_information",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 567.14,
+    "end": 575.837,
+    "text": "Thanks, Philip.  So, yeah, the bridges has been cancelled. So we don't I don't think we need to discuss that one any further. No, no.",
+    "speaker": "asut",
+    "tags": [
+      "report_back",
+      "summarize_outcome",
+      "close_discussion",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 575.897,
+    "end": 595.802,
+    "text": "So that just needs to come out of the recommendation then. So it's just A and B. Oh, hang on, D. So D becomes C in the recommendation. Yep, I think so. Can we can we just pull it out like that, Amber? Have they withdrawn or have we still got to",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move",
+      "clarify_point",
+      "ask_question",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 598.799,
+    "end": 613.17,
+    "text": " I think we'd do it as a withdrawn because we've never really been in this position or I haven't thus far. So I think it would just be withdrawn for C. OK, so we have a mover and seconder.",
+    "speaker": "asut",
+    "tags": [
+      "procedural_move",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 613.23,
+    "end": 633.942,
+    "text": "So with just that, it'll be A, B and D will become C. Is everyone happy with that? All those in favour? Aye. Contrary. Carried.  And we're now on to item seven, Community Event Fund.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "call_vote",
+      "summarize_outcome",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 633.962,
+    "end": 733.69,
+    "text": "So we've got two applications in this one, both of which are new. So I guess we'll start with Bicycle Revolution. So this is a sister program, I suppose you'd call it, or parent program to the Cambridge Cycling Festival.  I guess it's a suite of events and activations that revolve around cycling, and the Cambridge Cycling Festival will be a part of this moving forward. This will be the first year that this is going to take place, and it's gonna be a variety of events and activations with schools, with businesses, within the community, cafe crawls, education schools, quite a big program of plans is what Sarah and her team have got.  Because it's in its first year I have recommended partial fund. I think it's worth getting behind at this stage in the game but I'm optimistic as to what the benefits may be moving forward because it's in its kind of initial stages but I'm really keen to get behind it with the community event fund and see how it moves over the next 12 months.  Yeah, there's going to be a lot of online tools and things as well and resources for the public. So it's very different to what we've had before. It's not all just a physical event, but I think it's probably going to be something that we're going to see trending over the next few years with events becoming virtual, having to move and shake between physical events and things online. So be quite good to partner with to start off with a small amount and see where it goes. All right.",
+    "speaker": "asut",
+    "tags": [
+      "provide_information",
+      "policy_proposal",
+      "state_opinion",
+      "evaluate_option",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 735.574,
+    "end": 736.717,
+    "text": " Everyone happy with that? Liz?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "ask_question",
+      "call_vote"
+    ]
+  },
+  {
+    "start": 737.198,
+    "end": 759.363,
+    "text": "Yeah, I just had a question, actually. Is it the same entity, Amber, that's applied?  So I just want to make sure that, and I'm totally supportive of the recommendation and everything, but I just wanted to check the validity of the application. So is the same entity applied to the District Promotion Event Fund and to the Community Fund, and how does that work?",
+    "speaker": "lizstolwyk",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "express_concern",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 759.383,
+    "end": 813.16,
+    "text": "Yeah, so it's both run under Cambridge Cycling Festival Inc, so from that side of it, and because  any organization can apply for multiple events through the funds as long as each event is its own request and recommendation or approval for funding. So although the cycling festival is a part of this, it's not  It's a part of the whole bigger programme, but the events that I'm keen to see us partner with are different ones. I think moving forward, my recommendation to the organiser would be to put one application in and have it as a full suite, assuming that everything sits within that brand or bicycle revolution. But for this first year, I suggested that they keep it separate, ensuring that they were two different events that we would be partnering with.  I hope that makes sense.",
+    "speaker": "asut",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 814.141,
+    "end": 840.031,
+    "text": "Absolutely, and having that information is helpful. I guess I just wondered if it just provided other opportunities for other events over multiple days. I guess I just wouldn't want to see this become the norm where we'll have multiple applications from large events. I agree with you that going forward, one application per entity is probably more appropriate.",
+    "speaker": "lizstolwyk",
+    "tags": [
+      "agree",
+      "express_concern",
+      "clarify_point",
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 840.713,
+    "end": 866.705,
+    "text": " Yep, okay, yeah, so that would be the ideal way forward. I can ensure that we do that. And as I said, if it was, say, an organizer that had two very different events, so a promotions company that had, let's say, a rowing event and a cycling event, I would recommend it to be separate, but something where it's a part of a program or a suite of events or a year-long program, I would recommend one application with more detail pulled apart within that, I think. Yeah, cool.",
+    "speaker": "asut",
+    "tags": [
+      "provide_information",
+      "assign_action",
+      "policy_proposal",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 868.877,
+    "end": 874.02,
+    "text": " Yep all right and the second one Misty Flix Amber.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 874.601,
+    "end": 965.8,
+    "text": "So this is something new for us as well. Misty Flix is organised by a I guess it's one individual at the stage but she has a lot of partners around the Waikato with previous little film festival showcases and she's obviously really keen to bring something to Waipa  She's been talking to the cinemas in Te Amatu and Cambridge and they are both really keen to get on board. I think it will be quite a neat opportunity to see how the public respond to an event like this. It's not something I've seen through the funding process before and it's not something I've just seen on the radar either.  So she'll be working with local filmmakers from around the Waikato, but also Waipa based as well, but bringing the two showcases to our local cinemas, which I think is great for business, particularly after seeing the story from the Te Aumutu cinema with their numbers declining during the lockdown periods. Yeah, I've suggested a partial fund just because it's,  on the smaller scale in terms of that Bahama Champions brand benefit that we can get back but also it's its first year so some of the items in the budget I think could be worked through but I also think there's a lot of opportunity for us to partner from a results perspective too in terms of getting the message out through marketing and communication so yeah a partial fund is what I've recommended it would be really cool to get them started and hopefully over the next few years get them coming back and then work on that showcase.",
+    "speaker": "asut",
+    "tags": [
+      "provide_information",
+      "evaluate_option",
+      "state_opinion",
+      "persuasion_attempt",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 967.472,
+    "end": 969.433,
+    "text": " What's the actual funding for?",
+    "speaker": "lizstolwyk",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 971.653,
+    "end": 1008.426,
+    "text": "So, in terms of what they're going to be showcasing, there's hirage for the Cambridge cinema. Te Aumutu, I understand, has given it as contra. There is some licensing fees and then around marketing, promoting the event, both events to the community as well. So those are those top three spaces. There will be ticket sales, but they are  I think they were under $25 or under $30. I can't remember off the top of my head now. So somewhat palatable, I think, for their target market. Yeah.",
+    "speaker": "asut",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 1012.308,
+    "end": 1042.927,
+    "text": "OK, any other questions? OK, everyone happy with that then? Mover and seconder? Moved Marcus, seconded Philip. All those in favour?  All right. Contrary. Carried. So that's the end of the formal agenda. Were there any matters of general business anyone wanted to bring up? Merv, is there any news on the netball or tool? No, there's not.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "call_vote",
+      "summarize_outcome",
+      "close_discussion",
+      "confirm_next_step"
+    ]
+  }
+]

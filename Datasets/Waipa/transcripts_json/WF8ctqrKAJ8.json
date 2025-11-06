@@ -1,0 +1,662 @@
+[
+  {
+    "start": 0.291,
+    "end": 51.349,
+    "text": " to the September meeting of the Strategic Planning and Policy Committee. Unfortunately, we're back doing it this way for now. Hopefully we will migrate at some point back to chambers or a blended way of meeting into the future. But for now, this is the best we have. So I hope you're all safe and well.  So let's just kick off with our agenda there. Apologies, I believe we have everybody on deck. Graham indicated to me he may have to sneak off at some point during the meeting, which is fine. Marietta isn't here, but I don't have any apologies for her. So if we could perhaps, I'll happy to move Graham's apology in terms of his absence during the meeting, and Philip, you'll second that. All those in favour say aye.",
+    "speaker": "susanoregan",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "assign_action",
+      "reassure_stakeholders",
+      "provide_information",
+      "public_address"
+    ]
+  },
+  {
+    "start": 52.45,
+    "end": 52.61,
+    "text": " Aye.",
+    "speaker": "Unknown",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 53.651,
+    "end": 138.686,
+    "text": "Against. Carried. Right, just moving on then to disclosures, disclosure of members' interests. I'm not aware of there being any. No, that's fantastic. So we will move on. Late items. Similarly, I'm not aware of there being any late items at this point. No, nobody's waving frantically at me, so that's good. So we'll move on to the confirmation of the order of meeting.  No changes. Lou's waving his hand around. I take that as moving. Claire, you looked like you were about to do something, so I'll take that as a second. All those in favour, say aye. Aye. Against. Carried. This is a bit like an auction, really, isn't it? Anyway, so then we'll move on then to the confirmation of our minutes from our meeting on August the 3rd. And as is our usual practice, we'll just  I'll mention the page numbers and if anybody has any corrections or comments they wish to raise in respect of those, please do so. Page 8 and 9. 10, 11. 12 and 13. 14 and 15. 16 and 17. They all look pretty good to me.  So, Roger, you're happy to move those? Andrew, you happy to second? Thank you. All those in favour, say aye.",
+    "speaker": "susanoregan",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "confirm_next_step",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 139.847,
+    "end": 139.967,
+    "text": "Aye.",
+    "speaker": "Unknown",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 140.587,
+    "end": 160.897,
+    "text": "Against? Carried. Now, Miriata has arrived. Welcome, Miriata. Good morning, Ng\u0101i Tate. Okay, so, just on- Sue, is Jim with us? Is Jim with us? Jim's here. Oh, yeah, cool. Yep, he's there. Right next door to you, Graeme.",
+    "speaker": "susanoregan",
+    "tags": [
+      "summarize_outcome",
+      "public_address",
+      "community_reference",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 161.751,
+    "end": 165.054,
+    "text": " Oh, thanks, Jim. Good to see you.",
+    "speaker": "grahamewebb",
+    "tags": []
+  },
+  {
+    "start": 165.594,
+    "end": 181.962,
+    "text": "Right, so this moves us to our first substantive item, which is the WIPA 2021 Housing and Business Capacity Assessment. Now, I understand David Topman is not feeling so well today, so  Kirsty is going to present this on his behalf. So welcome, Kirsty, nice to see you. Thank you, T\u0113n\u0101 koutou katoa.",
+    "speaker": "susanoregan",
+    "tags": [
+      "procedural_move",
+      "assign_action",
+      "public_address"
+    ]
+  },
+  {
+    "start": 182.002,
+    "end": 230.511,
+    "text": "Through you, Madam Chair, I'd ask that the report be taken as read. Elected members may recall that this was workshopped with you back on the 10th of August. So the purpose of this report is to formally report the findings to you for receipt. There are two attachments, an assessment report on housing development capacity and one relating to business development capacity.  As you're aware, this assessment is required to be undertaken on a three-yearly basis pursuant to the requirements of the National Policy Statement on Urban Development, and it has been taken led by Market Economics through the Future Proof Partnership. Happy to take any questions, but please be kind. I'm filling in for David, so he's well familiar with the content.",
+    "speaker": "kirstydowney",
+    "tags": [
+      "procedural_move",
+      "provide_information",
+      "cite_reference",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 232.032,
+    "end": 243.541,
+    "text": "Excellent.  No, very comprehensive report there. Are there any questions or discussions? I imagine Roger will. Oh look, look at that, I'm psychic. I knew Roger would have something to say. Roger.",
+    "speaker": "susanoregan",
+    "tags": [
+      "state_opinion",
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 244.142,
+    "end": 273.572,
+    "text": "Thank you, Madam Chair. No, it's just the...  the confirmation of our concerns in terms of the availability of affordable housing comes through quite clearly there. And obviously it's a continuing area of discussion that we're going to have to get into to see how we can encourage more affordable housing to be available. Yep. So just a statement there really.",
+    "speaker": "Unknown",
+    "tags": [
+      "express_concern",
+      "prioritize_issue",
+      "state_opinion",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 274.03,
+    "end": 281.912,
+    "text": " Yeah, and we're certainly not on our own. I mean, that's a nationwide challenge, isn't it? Yeah. Anybody else, Jim? And then Luke.",
+    "speaker": "susanoregan",
+    "tags": [
+      "community_reference",
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 281.972,
+    "end": 337.218,
+    "text": "Yes, excuse me. Look, it's a little bit along the same lines. It's interesting, isn't it, that all three of the councils have got sufficient land identified for urban development, and yet we still have this problem of affordability.  I suppose the criticism from central government is that councils generally are holding up land supply, and that's not actually the case. So, we obviously need to be looking further to the actual causes of the unaffordability of housing across the subregion, at least as far as this report's concerned. So,  It's interesting, isn't it, that the criticism, there's not enough zoned land, and yet we've got this report saying that all three councils in the future proof area have got sufficient for the long term, the 10 to 30 years.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "state_opinion",
+      "express_concern",
+      "disagree",
+      "build_on_point",
+      "prioritize_issue",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 338.819,
+    "end": 340.24,
+    "text": "Yeah.",
+    "speaker": "Unknown",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 340.3,
+    "end": 342.481,
+    "text": "Lou, did you have anything, something you want to add and then Phil?",
+    "speaker": "susanoregan",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 345.551,
+    "end": 391.897,
+    "text": " Madam Chair, just quickly, in the report, I just noticed the idea that they told us to be aware of the relocation of areas of interest, such as the park, Titanium Park, where residential zones can be created and it can take away from current CDBs. So they're just saying that we've got to be aware in our planning that we don't allow a residential relocation. We had this situation in Hamilton with the base  taking away from the central city. And this is something they just said in that report to be aware of. So with titanium doing what it is down Rokahia and Peacock Road, we don't want to see a reallocation of a central district business area. Just a point to be made that was made in",
+    "speaker": "loubrown",
+    "tags": [
+      "express_concern",
+      "provide_information",
+      "cite_reference",
+      "community_reference",
+      "prioritize_issue",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 394.648,
+    "end": 421.472,
+    "text": " Through you, Madam Chair, I think point to note, thank you, Councillor Brown, that obviously this is one piece of work, but it feeds into other works, such as the review of the future proof strategy, the work that we'll be doing as a district in terms of the development of the district wide spatial plan and looking at our own growth strategy as we develop that plan. So there are a number of things that we need to pull together and ensure are aligned. Thank you.",
+    "speaker": "kirstydowney",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 422.75,
+    "end": 424.691,
+    "text": " Thanks, Kirsty. Philip, did you have something you want to add?",
+    "speaker": "susanoregan",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 425.471,
+    "end": 459.404,
+    "text": "Yeah, thanks, Madam Chair. Yeah, the other challenge that's come out recently as well as with the banks and builders is that  Builders are struggling to keep to their budgets, to their plans, building plans, and the costings and everything to build a house. And then the banks are gonna be tougher lending money on building sections too. So how that's gonna affect affordability, whether that's, it's probably gonna make it worse, so not better, but it's another challenge for everybody there too.",
+    "speaker": "philipcoles",
+    "tags": [
+      "provide_information",
+      "express_concern",
+      "state_opinion",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 461.805,
+    "end": 466.705,
+    "text": "Yeah, there are lots of levers in there, aren't there? Lots of factors feeding into it.  Anybody else have any, oh, Claire.",
+    "speaker": "susanoregan",
+    "tags": [
+      "provide_information",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 467.625,
+    "end": 536.502,
+    "text": "Yeah, thanks, Susan. It's just building on this affordability issue because I'm just blown away by the amount of detail and effort that must have been put in to this assessment. And yet we know it's not gonna deliver affordable houses. And I would really like to see some initiatives to actually either focus on what's causing the unaffordability. So perhaps on the demand side or initiatives  that council or central government can be getting underway to actually deliver some affordable housing. And I do appreciate what Phil said, actually, because it's a message that is filtering through quite strongly now, that the supply chain is in real trouble, and it's just gonna mean, yeah, materials are gonna get scarcer and therefore more expensive. I'm just feeling really impatient that some of us knew all along, actually, that it wasn't the supply that was the problem,  and still nothing's being done. And is there anything that we can do to move things along so that we can actually make a difference with having affordable housing available?",
+    "speaker": "clairestpierre",
+    "tags": [
+      "build_on_point",
+      "express_concern",
+      "policy_proposal",
+      "ask_question",
+      "prioritize_issue",
+      "agree"
+    ]
+  },
+  {
+    "start": 542.267,
+    "end": 542.567,
+    "text": "Phil.",
+    "speaker": "susanoregan",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 543.188,
+    "end": 605.992,
+    "text": "Yeah, thank you again, Madam Chair. I mean, affordability, how are we going to address this? I mean, as I reported a few weeks ago,  three sections sold in Cambridge North for over $600,000. So how do you get that down? And it's the only way of getting that down by sections being smaller and houses going up rather than spreading. And I think we've got a discussion later on with the workshop with Richard Bix and John Miles about where future land is. And so maybe there's an opportunity to discuss that further later. But  You know, we're going to have to go, as Kevin Honest keeps telling me, you're going to have to go up more than go out, and big sprawl. So yeah, that's how we, how do we get that 600,000 down to afford it? You know, once you get 600,000, it only goes one way, doesn't it, price, so. Sorry, Mike then Clare.",
+    "speaker": "philipcoles",
+    "tags": [
+      "express_concern",
+      "ask_question",
+      "provide_information",
+      "cite_reference",
+      "policy_proposal",
+      "build_on_point",
+      "community_reference",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 609.467,
+    "end": 676.208,
+    "text": " Yeah, through the chair. Good morning, everybody. I think one of the realities is, and it's not a nice reality, is that we live in an extremely desirable part of the country on extremely expensive land. And it is just a fact. So a developer is there to primarily develop land to make an income. And unless you're going to change that, I really personally can't  I can't see developers dropping $100,000 or $150,000 or $200,000 on sections, because supply and demand is a basic principle of economics. And though it might be nice to hear, in this area, in Waipa, it is one of the most desirable places, proved by all the stats that we get through Informatrix, for people to want to come and live, work, play, and all the rest of it.  So I hear what people are saying, but I really think we have to be realistic, too, of what we are living in. And we are living in a place that people want to live. And that gets back to basic economics.",
+    "speaker": "mikepettit",
+    "tags": [
+      "state_opinion",
+      "provide_information",
+      "evaluate_option",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 678.61,
+    "end": 739.067,
+    "text": "Yeah. Yeah, thanks, Mike, and they're valid points, but we do have like a housing working party that hasn't met for ages.  I don't know if there's any initiatives there. We were actually following up some things. And I must say that one of the most promising things was the fact that this council had the foresight to purchase some land that wasn't zoned residential and is now being rezoned. And that does have the potential to actually create some affordable offerings, I guess.  I'm a bit disappointed that we haven't had more happening with the Housing Working Party because that would be the place to progress it really. And I don't know if anyone knows when we're meeting next or if some of these items could actually be teased out a bit more there and some sort of initiatives sort of earmarked for progressing.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "provide_information",
+      "express_concern",
+      "ask_question",
+      "build_on_point",
+      "equity_reference",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 741.152,
+    "end": 746.537,
+    "text": " Clare, I think Tony Quickfall wanted to make a comment there on the affordable housing plan change 21.",
+    "speaker": "susanoregan",
+    "tags": [
+      "procedural_move",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 747.717,
+    "end": 887.022,
+    "text": "Thank you, Susan. So, yeah, just listen to the discussion. There's a couple of things that the council is on. So, we've got plan change 21 underway, as you recall. One of the work streams of that is to look at affordable housing for Waipa in conjunction with Hamilton City and Waikato District.  So that's underway at the moment. We've got David Mead, he's been working with the Queenstown Lakes District Council and advising nationally on that, doing the work for us. So he's preparing an issues and options document, which we expect to come out October, November, probably more October. That will give us a really good steer for what affordable housing means in the subregion, but also specifically in the Waip\u0101 district around both what's causing it,  What are some of the policy responses and specifically how can we apply inclusion and rezoning? I know that was of interest, so that's a piece of work stream that's underway at the moment. We'll be reporting back on that when that comes through. The other piece of work that you may not be aware of, so we're having direct discussions with developers. We've got a number of applications in at the moment in greenfields.  We've connected one developer with Kainga Ora, so they're talking offline around how they can find additional land in Waipa that the developer has not yet identified with Kainga Ora funding it, so they're working together. We've had four other developers, these are large scale ones coming from Queenstown, who are interested in the affordable housing discussion.  They're open and receptive to including affordable offering and part of the at-scale developments. The price points I'm talking about is around $650 to $700 to $750. When we spoke to the developer from Queenstown, he asked, is that just the land values? That was really interesting. We said, no, that's land and house.  So we took a bit of a double take with that one. So there's quite a lot of discussion happening. A lot of it with the developers is voluntary, so we are persuading them as often and as frequently as we can to come on board. But really, I think, as Philip said, it's back in their court because there's nothing we can mandate at the moment. So there was quite a lot of work, so I just thought I'd introduce that because it might be useful for you.",
+    "speaker": "tonyquick",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "persuasion_attempt",
+      "prioritize_issue",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 889.836,
+    "end": 906.004,
+    "text": " Yeah, thanks for that, Tony. Yeah, it's kind of terrifying when you think that an affordable home is somewhere between six and 700,000 though, isn't it? But yeah, interesting double take in terms of the land prices from your people down the line though, isn't it? Clare.",
+    "speaker": "susanoregan",
+    "tags": [
+      "express_concern",
+      "state_opinion",
+      "build_on_point",
+      "agree"
+    ]
+  },
+  {
+    "start": 907.225,
+    "end": 927.059,
+    "text": "Yes, so another side of it is houses that are bought for investment and are left empty. That's part of the equation too.  I think I've raised it before. Is there anything we could do to identify how many houses we think might be empty in Waip\u0101? Because I know from a Waikato-wide point of view, it's about 10% of the housing stock.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "ask_question",
+      "provide_information",
+      "community_reference",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 929.881,
+    "end": 936.263,
+    "text": "I don't know that we have any more refined data than that. Is anybody able to help us on that one? Waip\u0101-specific sense?",
+    "speaker": "susanoregan",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 937.103,
+    "end": 960.255,
+    "text": "No, I know that Auckland's looking at it. It came up in the media a few weeks ago in Auckland.  the response here was it's really difficult for local government to influence any of that. It's kind of, I think what I understood from the response from Auckland Council, it's beyond local government mandates to be able to influence. So it's really a national problem, that particular problem, I think. No, we don't have any data on that, sorry.",
+    "speaker": "tonyquick",
+    "tags": [
+      "provide_information",
+      "defer_to_authority",
+      "state_opinion",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 960.735,
+    "end": 962.096,
+    "text": "Yeah, thanks Tony. Mike?",
+    "speaker": "susanoregan",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 966.033,
+    "end": 1027.854,
+    "text": " Just to comment on that, a couple of anecdotal comments, talking to a couple of investors in town who have got rental properties, and two things. One is, one said they've stopped renting their properties, and they're now taking a room themselves in theory, and they are getting boarders in, so they don't have to have rental agreements or the rest of it because of all the new legislation around rental properties.  and not so much around the heating and that sort of thing, more around the rights of the tenants. So that's how they've got around it. I talked to another one and they said that with the growth that's been happening like 26% over the last year, they've chosen to actually have no tenants and just work solely on capital gains. So the policies of the government, they've  Yeah, it'll be interesting if they work long-term. People are finding ways around it and alternatives in a buoyant market, which is really unfortunate.",
+    "speaker": "mikepettit",
+    "tags": [
+      "provide_information",
+      "express_concern",
+      "state_opinion",
+      "evaluate_option",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 1030.096,
+    "end": 1037.681,
+    "text": "Yeah, they're certainly unintended consequences of that legislation, aren't they, in compounding the problem. Madam Chair? Go ahead.",
+    "speaker": "susanoregan",
+    "tags": [
+      "state_opinion",
+      "express_concern",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1038.361,
+    "end": 1101.688,
+    "text": "Yeah, just one. Tony, I was down at the Local Government Conference in Queenstown some years ago,  And one of the tours was to affordable housing in the middle of quite a flash suburb. But what they've done was absolutely brilliant. You would not have known that the affordable housing was any different, really, except that they never had a garage. There was a saving between one and 150,000 by not having a garage. There was parking on the street. There was very little land on the affordable housing because they were two stories. And I'm wondering whether we need to have a look  at some of those little issues like, you know, permeable, certain amount of permeable surface to cater for these things. But it looked like any other suburb, it didn't detract from the quality of the houses around there. And they had a system down there where I'm pretty sure the houses were in a trust so that the person didn't jump in and buy affordable house at 600 and then sell it for a million in so many years time. So there's some dollar things I think we need to look at to try and get that corrected.  Thanks.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "provide_information",
+      "policy_proposal",
+      "equity_reference",
+      "community_reference",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 1103.429,
+    "end": 1207.958,
+    "text": "Madam Chair, do you want me to, I can- Yeah, Tony. So the issues and options for what we're doing, we'll look at that. So we'll look at typology and the developers tell us that the way they can get affordable housing is just reduce the footprint. So your building costs about $3,000 a square metre for single storey, about three and a half thousand for double storey. And so what we're told from developers, experienced developers, is they can, you know, at a hundred square metres, 80 square metres, they can deliver.  an affordable house, provided they get the land supply at a cost that they can make it work for them. So I think there's enough tools already, and it comes down to what we're already, I guess, advising that the constraints we've got in the current district plan, we're looking at those a bit more positively under the National Policy Framework for Urban Development. So we're sending the signals that we're encouraging if people have got right urban design, smaller density. So that's one component.  Retention covenants is another component, so very, very good point, Graham, around under the Special Housing Act that Hamilton City did, I think they had around 10% in one of these special housing areas. The first buyers got the capital gain and they flipped it. Yeah, so what you'll see in the issues and options is a concept overseas that's quite common that's not really mature enough in New Zealand. It's called retention covenants.  Queenstown use that in their housing trust. And so what it means is in perpetuity, you're covenanted that any future purchases are locked in to either a cap kind of capital value or some kind of value retention that they don't just get the benefit and then flick it on. So that's part of what we're looking at as well. Great.",
+    "speaker": "tonyquick",
+    "tags": []
+  },
+  {
+    "start": 1210.801,
+    "end": 1279.69,
+    "text": "Susan. Hazel.  You know, it's really been interesting, but who do you think that these affordable houses are going to be for? I've listened to you now taking them, going up, and I agree with that, but to have hardly any lawn around the house. And I've just been saying goodbye to my neighbor on the back fence who shifted into an affordable home, house,  with no, very little, very little grass around it, but they can't stand it. They're nearly being driven mad by the kids, what to do with the kids when the mother's got all the housework to do. I just wonder who are we building these affordable homes for and is it a healthy way to go about it? I just, it's certainly from a young family point of view,  It seems to me that, and those kids spend a heck of a lot of time out playing on the street too. So I just, that's my comment.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "express_concern",
+      "ask_question",
+      "community_reference",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 1282.552,
+    "end": 1433.797,
+    "text": "Wayne, did you have something to add? Yeah, Susan, can I just make some observations? Yeah, please. So it's certainly pleasing that the report has identified that we've got sufficient development capacity of the short, medium, long term. So that's great. And that's part of,  I guess an outcome of the way that we've planned here at Waip\u0101 in terms of identification of our growth areas, our 2050 growth areas, bringing forward some of our growth areas that were post-2035 earlier so that developers can actually undertake development earlier. And we've seen that happen in areas like T2, for example, where we've done the plan change and that's  that's created the opportunities to develop retirement village and sections. So, and we're working, as Tony was saying, we're working closely with developers and what their offerings are and their structure plans and their growth and their development requests. So, working closely with the developers and also PC13, where we're taking off the deferred status and bringing them into the residential areas. So, we're creating these mechanisms  to allow for these developers to develop. So that's great that we're getting a sufficient development capacity. Yes, certainly affordability is a real key issue and unsurprisingly identified in the report and across the regions. And as already mentioned, Tony, in particular, I talked about Kainga Ora. We're also working with M-HUD as well, Ministry of Housing, Urban Development, who owns big pieces of land, particularly in Cambridge North, that will provide perhaps an offering there as well.  and trying to create affordability. It's providing a range of tenure so that we do have the offering across our towns and across our district. And that's what part of PC 21 that Tony talks about. So that's that's really important. So I think this this report is really important. I think it's really important. I think it's really important. I think it's really important. I think it's really important. I think it's really important. I think it's really important. I think it's really important. I think it's really important. I think it's really important.  is a really great report and allows us to really focus in on some of the key issues, something that Councillor Clare's picked up in relation to monitoring some of those key indicators. So that's just my observations. Thanks, Madam Chair.",
+    "speaker": "wayneallan",
+    "tags": [
+      "provide_information",
+      "state_opinion",
+      "build_on_point",
+      "prioritize_issue",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 1435.317,
+    "end": 1443.159,
+    "text": "Thanks, Wayne. It's pretty good summary of the report. I think we sort of discussed this. Oh, Liz, did you have the final closing statement? Thank you.",
+    "speaker": "susanoregan",
+    "tags": []
+  },
+  {
+    "start": 1444.007,
+    "end": 1485.23,
+    "text": " Yeah, I just wanted to highlight in the report, which is an excellent report, by the way, but the industrial land that's highlighted, that I guess it does kind of give an indication that we need to really closely monitor this. And I just wondered, Kirsty, how we might be doing that.  um and it just talks a couple of times about you know keeping a really close eye on it but perhaps can we have regular um updates on that because it is something I get questioned about um you know by a number of people who work in that space they they do actually feel that we're going to run out um and you know I guess I don't want to be caught out either by just ensuring we um  We have all the monitors in place.",
+    "speaker": "lizstolwyk",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "prioritize_issue",
+      "community_reference",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 1486.652,
+    "end": 1538.593,
+    "text": "Through you, Madam Chair, so we have a district growth programme steering group that meets monthly. We are looking at data gathering and monitoring across the district in terms of the different land types.  So, you're aware that we report through to you that quarterly district growth report. So, we could talk at that steering group about how we utilise that to report back to you. I'm just responding to points that Councillor St Pierre made also earlier about housing affordability.  and you're correct, Councillor St-Pierre, about the Housing Working Party. So we can follow up and come back to you as to when there can be further reporting back through that forum. Yep, I've made a note of that and we'll follow up with Debbie and Ken specifically. Thank you. Thanks very much, Kirsty.",
+    "speaker": "kirstydowney",
+    "tags": [
+      "provide_information",
+      "build_on_point",
+      "assign_action",
+      "confirm_next_step",
+      "report_back"
+    ]
+  },
+  {
+    "start": 1539.494,
+    "end": 1575.707,
+    "text": "Thanks, Kirsty. Okay, so I think we've discussed this one as far as we can take it. Really good report. Can I have somebody who's happy to move that recommendation appearing  on page 18, just to receive the report. Andrew, and seconded by Philip. All those in favour say aye. Aye. Against. Carried. Thank you very much. Thank you, Kirsty. And Wayne and Tony for your comments. So moving on then to our next item, which is the termination report for the development of beekeeping by law. And I think we have Graham Pollard there. Welcome, Graham.",
+    "speaker": "susanoregan",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "summarize_outcome",
+      "provide_information",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 1577.36,
+    "end": 1664.467,
+    "text": " Thank you, Chair, and good morning, everybody. If I may, I'd like to take the report as read. This question of a bylaw arises from the decision in Plan Change 18, basically saying that the provisions for beekeeping are not really appropriate in an effects-based district plan. So as an alternative, you could say that this is Plan B.  The question is, do we have a bylaw or not? We've got three options to either not have a bylaw at all, which really leaves us with no regulatory enforcement backup if these provisions still come out of the district plan. Second option is to develop a beekeeping bylaw. Or the third option, which we  are recommending to you as staff, that if we're going to make one bylaw on bees, why not include all the other animals and poultry keeping in residential areas and take those provisions out of the district plan at a later date? So I'm afraid the question really comes down to, is it a bylaw for bees or not for bees? Okay, thank you, Graham.",
+    "speaker": "grahampollard",
+    "tags": [
+      "procedural_move",
+      "provide_information",
+      "policy_proposal",
+      "evaluate_option",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 1665.572,
+    "end": 1667.393,
+    "text": " Roger, I see you waving your hand around there.",
+    "speaker": "susanoregan",
+    "tags": [
+      "procedural_move",
+      "public_address"
+    ]
+  },
+  {
+    "start": 1668.973,
+    "end": 1700.423,
+    "text": "Yes, thank you, Madam Chair. Graeme, no problem with the bees included in this, but I can't see any reference or rationalisation to including chooks and other animals. It just seems to mention the rationale for the beekeeping by-law without any, as I say, rationalisation for other animals.  Chooks, I could possibly understand, but what other animals are we talking about? Does this include everything?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 1704.505,
+    "end": 1706.845,
+    "text": "Would you like me to start? Yes, sure. Thank you.",
+    "speaker": "grahampollard",
+    "tags": [
+      "ask_question",
+      "confirm_next_step",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1709.186,
+    "end": 1727.92,
+    "text": "Good morning.  The bylaw would include other animals such as pigs, chickens, your friendly alpaca, next door, everything but dogs. And the racialisation of- As well. Pardon?",
+    "speaker": "Unknown",
+    "tags": []
+  },
+  {
+    "start": 1728.821,
+    "end": 1729.262,
+    "text": "Roosters.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "provide_information"
+    ]
+  },
+  {
+    "start": 1730.532,
+    "end": 1772.483,
+    "text": " Yes, and the rationalisation is the same rationalisation as for bees, is the fact that we have these provisions in the district plan. The district plan comes out of an effects-based regime under the Resource Management Act, and the working group believes it's more appropriate for animal nuisance to be dealt with via a bylaw.  because then you're dealing with the issue as a nuisance comes up rather than having to go back and basically look who's got pigs or who have bees and trying to retrospectively enforce.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "policy_proposal",
+      "evaluate_option"
+    ]
+  },
+  {
+    "start": 1776.585,
+    "end": 1779.366,
+    "text": "OK. Does that clarify things for you, Roger?",
+    "speaker": "susanoregan",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1780.137,
+    "end": 1792.921,
+    "text": " Yeah, I mean, it's logical when you mention it, but I just thought it should have been in the paper to rationalise the extension from bees to other animals. I accept that, yeah.",
+    "speaker": "Unknown",
+    "tags": [
+      "state_opinion",
+      "express_concern",
+      "agree"
+    ]
+  },
+  {
+    "start": 1793.661,
+    "end": 1801.003,
+    "text": "Thanks, Roger. Lou, did you have something you wanted to add? Yeah, you're muted, Lou.",
+    "speaker": "susanoregan",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1801.843,
+    "end": 1840.573,
+    "text": "Sorry, I was on mute. I'm quite supportive of this because in our discussions when we sat  at the regulatory meeting on this, we felt that this was something that could be developed, that most other councils do have that in place at the moment. And they operate with a bylaw, which individually goes out and takes the actual nutrients that we're dealing with and regulates that, rather than having a regulatory plan that takes everything and has to register everybody for that issue. So I just felt that having that option number three is really good.  And I'd actually like to actually move that we accept the option number three, put it into place.",
+    "speaker": "loubrown",
+    "tags": [
+      "state_opinion",
+      "provide_information",
+      "policy_proposal",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1843.975,
+    "end": 1845.296,
+    "text": "Okay. Oh, Jim.",
+    "speaker": "susanoregan",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1846.376,
+    "end": 1912.75,
+    "text": "Yeah, thanks Madam Chair. It was just a question really, and it's going back a fair bit, but there used to be a whole lot of New Zealand standard bylaws that we could just pick up and adopt without going through too much expense and actually developing our own or,  pick up on one because they're pretty stock standard nuisances that they create across the country. And as I say, there used to be a whole suite of standard bylaws that councils could adopt without too much expense. So if we're going down the path, and I certainly support the recommendation to go for the third option, because it's surprising even  with the demand for sections, there's still sections in the residential area that are being used for grazing horses, aren't they Hazel? Well, it keeps the grass down. But look, it can cause a problem. So look, if we need a bylaw, don't let's spend too much time reinventing the wheel.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "state_opinion",
+      "provide_information",
+      "express_concern",
+      "persuasion_attempt",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 1914.131,
+    "end": 1934.429,
+    "text": "Yeah, that makes sense. Graeme, did you want to  Yeah, that's the exact approach that we're taking, looking at bylaws that other councils have already got in place and just trying to mould those to suit Whitepath.",
+    "speaker": "susanoregan",
+    "tags": [
+      "agree",
+      "ask_question",
+      "provide_information",
+      "policy_proposal",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 1934.849,
+    "end": 1942.771,
+    "text": "So we'll certainly be doing that. We don't want to go around doing too much reinventing of wheels.",
+    "speaker": "grahampollard",
+    "tags": [
+      "confirm_next_step",
+      "reassure_stakeholders",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 1945.533,
+    "end": 1953.596,
+    "text": " Thank you. And please, Graham, don't ever think of putting canaries on there, will you? The thought hadn't crossed my mind.",
+    "speaker": "grahamewebb",
+    "tags": []
+  },
+  {
+    "start": 1955.437,
+    "end": 1957.778,
+    "text": "Happy to second that, Madam Chair. Happy to second that.",
+    "speaker": "mikepettit",
+    "tags": [
+      "agree",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1959.058,
+    "end": 1995.625,
+    "text": "Okay, so Lou's moved it and Mike has seconded it. The recommendation's appearing there on page 347. Everybody, all those in favour say aye. Aye. Against? Carried.  Thank you, rather fitting as it is be Awareness Month, of course. So thanks very much. Thank you. Wonderful. So that moves us then on to our next matter on the agenda, which is a resolution to exclude the public. Who is happy to move? Bruce is happy to move that for me. Clare will second it. All those in favour say aye. Aye.",
+    "speaker": "susanoregan",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "summarize_outcome",
+      "confirm_next_step"
+    ]
+  }
+]

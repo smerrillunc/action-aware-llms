@@ -1,0 +1,806 @@
+[
+  {
+    "start": 15.869,
+    "end": 16.93,
+    "text": " Are you typing clear?",
+    "speaker": "andrewbrown",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 17.771,
+    "end": 24.136,
+    "text": "Yep, sorry. I'll get everybody to start talking to mute their microphones, please.",
+    "speaker": "hazelbarnes",
+    "tags": [
+      "assign_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 24.156,
+    "end": 26.718,
+    "text": "It is quite a loud keyboard.",
+    "speaker": "andrewbrown",
+    "tags": [
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 27.058,
+    "end": 28.459,
+    "text": "We're now live streaming.",
+    "speaker": "lizstolwyk",
+    "tags": [
+      "public_address",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 30.321,
+    "end": 43.651,
+    "text": "Thanks, Sam. Are we about a minute away? It is one o'clock, but we're still waiting for... We're still missing Phillip and Mike.",
+    "speaker": "kenmorrisg",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 45.057,
+    "end": 74.675,
+    "text": " Thanks Jenny, I've got it. Oh, fabulous. Yep. I'll get Marty to show me how to overcome that. He's out tramping the tiara, the one that goes from North Cape to Bluff and he's doing the tikawiti bit. So when he comes back, he can show me how to do this again and I'll write it down. Okay, no problem. Disappeared off the laptop completely. Okay.",
+    "speaker": "hazelbarnes",
+    "tags": [
+      "assign_action",
+      "confirm_next_step",
+      "agree"
+    ]
+  },
+  {
+    "start": 93.285,
+    "end": 101.728,
+    "text": " Hey, so Sam, I assume, so the three we are waiting for, there's been no apologies from any of them and they were at service delivery this morning?",
+    "speaker": "kenmorrisg",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 102.428,
+    "end": 108.711,
+    "text": "No apologies to my knowledge, Ken. I might just try and give them a call. Yeah, definitely nothing from my end either.",
+    "speaker": "lizstolwyk",
+    "tags": [
+      "provide_information",
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 108.731,
+    "end": 111.972,
+    "text": "Susan, Melissa as well.",
+    "speaker": "philipcoles",
+    "tags": [
+      "provide_information"
+    ]
+  },
+  {
+    "start": 112.572,
+    "end": 118.694,
+    "text": "We'll give them a couple of minutes and then we'll get started. It's not like it's a massive agenda or anything, so.",
+    "speaker": "andrewbrown",
+    "tags": [
+      "procedural_move",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 119.634,
+    "end": 120.155,
+    "text": "That's fine.",
+    "speaker": "lizstolwyk",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 134.5,
+    "end": 141.523,
+    "text": " Here's Philip. Oh, OK.",
+    "speaker": "rogergordon",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 141.563,
+    "end": 144.404,
+    "text": "Yeah, so in fact, it might only be Mike, is it?",
+    "speaker": "kenmorrisg",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 145.084,
+    "end": 145.785,
+    "text": "That we're waiting for?",
+    "speaker": "kenmorrisg",
+    "tags": [
+      "clarify_point",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 146.505,
+    "end": 146.765,
+    "text": "Jim?",
+    "speaker": "kenmorrisg",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 147.946,
+    "end": 148.526,
+    "text": "Jim's here.",
+    "speaker": "andrewbrown",
+    "tags": [
+      "report_back"
+    ]
+  },
+  {
+    "start": 150.087,
+    "end": 151.447,
+    "text": "I just like, to my knowledge.",
+    "speaker": "lizstolwyk",
+    "tags": [
+      "state_opinion",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 152.268,
+    "end": 154.268,
+    "text": "Yeah, yeah, I think it is only Mike we're waiting on.",
+    "speaker": "kenmorrisg",
+    "tags": [
+      "agree",
+      "provide_information",
+      "report_back"
+    ]
+  },
+  {
+    "start": 157.03,
+    "end": 158.03,
+    "text": "I'll give him a call now.",
+    "speaker": "lizstolwyk",
+    "tags": [
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 158.87,
+    "end": 159.13,
+    "text": "Cool.",
+    "speaker": "kenmorrisg",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 160.211,
+    "end": 182.322,
+    "text": "Yeah, it is. It's only Mike.  So, Hazel and Graham, could I remind you and Philip to just mute your microphones when you're not speaking? Thank you. We'll give Mike one more minute and then we'll get cracking.",
+    "speaker": "andrewbrown",
+    "tags": [
+      "assign_action",
+      "procedural_move",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 211.658,
+    "end": 216.419,
+    "text": " I just spoke to Mike, he will be joining us very shortly. Okay.",
+    "speaker": "lizstolwyk",
+    "tags": [
+      "provide_information",
+      "report_back"
+    ]
+  },
+  {
+    "start": 219.38,
+    "end": 323.736,
+    "text": "Oh well, in that case we might as well get started with the  so I will declare the meeting open. And with Mike joining us shortly, there'll be no apologies. Is there any disclosure of members' interests? Nope, there being none, we'll move on. Late items. Anyone have a late item they wish to? Nope, okay. Confirmation of order of meeting. We have a recommendation. Could I have a mover, please? Thank you, Susan. Thank you, Marcus.  All in favour, please say aye. Aye. Contrary, no. Carried. Okay, so into the report. Oh, sorry. Confirmation of order of the minutes. Confirmation of the minutes, at least. From 19 May. Do we have any comment amendments to the minutes? Clare's looking happy. That's a good sign. Who was that moving?  Ah, Marcus, thank you. I'll second it, Andrew. Thanks, Lou. I'll get you next time, Roger. All in favour, aye. Aye. Contrary, no. Carried. OK, moving on to the reports. I'm looking forward to having diligent. It's going to be good. Yeah, yeah.  Okay, so here we go. Quarterly Property Services Report. Ken, straight to John, or do you wish to? Look, I'm happy for John to go straight on to the report. Yeah. Oh, welcome, Mike. John, it's all yours. Good afternoon, everyone.",
+    "speaker": "andrewbrown",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 323.856,
+    "end": 537.469,
+    "text": "Yeah, I take the report as read. It's pretty straightforward. There's a couple of items I just wanted to raise and give you a heads up about. One of them is in relation to the Cambridge  Town Hall, I don't know that all are aware or not, but a couple of weeks ago when we had that heavy downpour, I think we had about 90 or a hundred mils in average Sunday night a couple of weeks ago, the ceiling in the Edwardian room partially collapsed. So probably about a quarter of it has come down and that is a result of water damage.  So we've been up on the roof of that area. The roof is pretty well past its use by date. It's been painted previously, but when they repaired it, they've just siliconed up holes and things like that, and that silicon's worn out. The roof is rusting. The flashings are shot, so  We've started work this morning on replacing that portion of the roof. So that's on the Lake Street side near the bus stop. So all of that roof on the parapet and the flat bit there is being replaced at the moment. So they've started work today. We're not too sure what we may or may not uncover. There could be damage to timber and a few other things, but we don't know until we get the roof off.  The weather is predicted to be fine this week. So hopefully we'll get a good run at it and get that portion replaced. But looking at the state of the roof there, if the rest of the roof is anything like that, I'd suggest that we may be up for a complete roof replacement going forward in the not too distant future. We've also had Chemwash up there last Friday. So they took basically  ranger, the boot of a ranger or the back of the ranger, they completely filled that up with leaves and that would come out of the gutters. So that's all being cleaned out again. But with those trees there, we probably need to look at doing that on a more regular basis through autumn, probably monthly, I would suggest rather than six monthly because it's just flying back into the building.  So that's where we're at with that. So hopefully that work to replace the roof will be completed late this week or early next week. The other one is the Vale Court complex and looking at building those 10 units on that site. We've now got the land use consent approved for that. So we'll be moving forward with regards to getting designs done, drawings teed up and  and that out to tender as soon as we can. And the other one is that with regards to the guest light theater, they've been talking about the car park there for a number of months, I suppose, that work has started this morning. So that's underway to regrade that. And that should be finished by Friday night. So that's pretty much all I've got with regards to ENSA.  So I'm happy to take any other questions you have.",
+    "speaker": "johnmiles",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "prioritize_issue",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 539.09,
+    "end": 540.752,
+    "text": "So we have any other questions?",
+    "speaker": "andrewbrown",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 542.433,
+    "end": 546.117,
+    "text": "It looks like Phil does, but we don't have any audio from him.",
+    "speaker": "lizstolwyk",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "report_back"
+    ]
+  },
+  {
+    "start": 546.897,
+    "end": 549.76,
+    "text": "Oh, it makes it difficult.",
+    "speaker": "rogergordon",
+    "tags": [
+      "express_concern"
+    ]
+  },
+  {
+    "start": 550.52,
+    "end": 553.343,
+    "text": "Andrew, a question.",
+    "speaker": "andrewbrown",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 553.773,
+    "end": 566.238,
+    "text": " Hey, John, just in terms of that pensioner housing contract, is there any ability for us to put into that contract a preference for local building firms?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "policy_proposal",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 568.139,
+    "end": 610.553,
+    "text": "Yeah, well, I'd certainly be talking to Adele on those sorts of things and other issues. And yeah, we'll certainly be looking at putting it out to as many locals as we can.  Yeah, I just think putting some weighting on local builders, even if there was a marginal cost increase over the lowest tender that we should be looking seriously at local operators if we can possibly do it.",
+    "speaker": "johnmiles",
+    "tags": [
+      "assign_action",
+      "policy_proposal",
+      "prioritize_issue",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 611.6,
+    "end": 613.501,
+    "text": " Okay, I think Ken's got a comment.",
+    "speaker": "andrewbrown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 614.682,
+    "end": 679.468,
+    "text": "Yes, so through the Chair and in relation to your question, Your Worship, so tomorrow morning we have a workshop where we're going to socialise with you the beginnings of a strategy, a procurement strategy, which actually does have a focus on local contribution.  In fact, I believe, actually, you were circulated with that draft strategy on Friday night. So, if you've had the chance to read it, it is very much still in draft. But we'll certainly have a good talk about that tomorrow. But, Your Worship, in terms of what you've just suggested, there's certainly provision for what you've suggested in that strategy.  and our intention is that we get that, you know, up in a more formal environment soon. But tomorrow is a good chance to talk about that. Great. Bruce. Then we're going to try and go to Phil, but Bruce, sorry.",
+    "speaker": "kenmorrisg",
+    "tags": [
+      "provide_information",
+      "cite_reference",
+      "confirm_next_step",
+      "reassure_stakeholders",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 679.488,
+    "end": 680.308,
+    "text": "Yeah, carry on.",
+    "speaker": "andrewbrown",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 680.368,
+    "end": 697.643,
+    "text": "OK, no, that's all right. John, in relation to the Harbour Memorial Hall and that we're only making 8% NBS, what's the long term future of that whole building, really?  The back end, I would say, had it, but what's your opinion of how we should move forward with that in the long term?",
+    "speaker": "philipcoles",
+    "tags": [
+      "ask_question",
+      "defer_to_authority",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 698.863,
+    "end": 775.597,
+    "text": "Well, I think the issue there is that building has got the public toilets at the front, which are in good condition, really. So to build another public toilet somewhere apart from there, I'd imagine it's a substantial cost to do that.  We've got, it's a priority building given its location on a main thoroughfare. We've got 12 and a half years to bring it up to code. So what I was intending doing was to look at what we could do. It's really where it become from the stage back where it becomes two levels because of the sloping site, the back of the property is two levels high.  So the intent was to see if we can, even if you could potentially frame that up and cut that back into the property off, I don't know, but that's something we'll be doing moving forward is to looking at how we can make that structurally sound. But to me, to try and think about removing it and building public toilets somewhere else, you know, I don't know why they cost so much, but they seem to-",
+    "speaker": "johnmiles",
+    "tags": [
+      "provide_information",
+      "prioritize_issue",
+      "evaluate_option",
+      "state_opinion",
+      "confirm_next_step",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 785.878,
+    "end": 847.108,
+    "text": " So just with regards to the town hall, as you said, on the eastern side is where the repairs have been done. On the western side, which is the Victoria room. So a couple of questions. What's to say that that's not going to happen on the Victoria room? That's the side where all the trees are.  As you know, the wallpaper's peeling off the walls there. There's damp in the ceilings in some of the rooms. How do we know it's not going to happen there? I'm talking to Miff McDermott, our CEO at Destination Cambridge. She doesn't wish to rent that room out. That's where the contract is to hire the hall out.  I mean, it is a disgrace, that room. But who's to say it's not going to leak? I mean, it did leak a couple of years ago on a Sunday. We had a meeting in there, there's water coming down the walls. So what have you got to say about that room, please?",
+    "speaker": "philipcoles",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 848.269,
+    "end": 915.65,
+    "text": "Yeah, I was up there last week. Obviously, there's water coming in somewhere. I'd imagine it's potentially from the gable or from the flat roof around the bay window there.  So the intent is to get this part of the roof fixed first, so that we can make that area water type and then get a roofing expert up there to look at the whole roof. And if it's anything like the condition of what we're taking off, let's suggest that we need to replace the whole roof on that site. We were lucky to, we managed to,  obtained the same guttering profile and downpipe profile from, we sourced that from Christchurch. So it's a heritage building, I've spoken to Heritage New Zealand, and they were happy for us to replace the roof in an emergency situation. But yeah, going forward, we need to assess that whole roof. And we'll be doing that as soon as we can.",
+    "speaker": "johnmiles",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "confirm_next_step",
+      "assign_action",
+      "defer_to_authority",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 917.102,
+    "end": 942.979,
+    "text": " And okay, and with regards to cleaning out the gutters, I think you said it needs to be done on a regular basis. Miff was saying to me before that when you do get heavy rain, the water just comes over the side of the gutter onto the ground. So as I said, the majority of the trees are on that Western side, on that Victoria Rim side. So it'd probably be suggested that gets done on a weekly basis at this time of year. We'll look at that, please.",
+    "speaker": "philipcoles",
+    "tags": [
+      "provide_information",
+      "express_concern",
+      "prioritize_issue",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 943.744,
+    "end": 1055.263,
+    "text": " Well, it's about $2,000 a clean because of what we've got to do. We have cleaned, well, looking at the amount of debris in the gutter, I'm not too sure that we've actually taken everything out of there when we've cleaned them. You know, we filled a ranger up, the back end of a ranger up with mud and stuff that came out of those gutters.  I'd suggest that probably on a monthly basis will suffice. But in saying that, because of the amount of weight that's been in the gutters, the roof is higher than the gutter. So the roofs, you know, when it comes down the roof, it just pours straight off the edge rather than into the gutter. The other issue that we've had is that there's some, there was a down pipe missing. There's no diffusers on it. So when the rain comes off the top roof,  It goes into three or four downpipes and goes into that secondary roof. There's no diffusers on those downpipes. So it simply comes down at a torrent. The downpipes are right on a join. So they were nailed rather than tech screwed. So those nails have lifted. There's dead pigeons, all sorts of things under there.  and the roof has been put on and it's only been left one corrugation rather than a couple of corrugations. So all the water is pouring down on a joint and that's part of the problem. So there's a whole bunch of issues that we need to address there from looking at it. Yeah, and as I say, we need to put a regime in place where during autumn, we need to clean those gutters out on a regular basis.",
+    "speaker": "johnmiles",
+    "tags": [
+      "provide_information",
+      "express_concern",
+      "policy_proposal",
+      "evaluate_option",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 1056.73,
+    "end": 1071.236,
+    "text": " Yeah, and we've had autumns for a long period, over 100 years while this building's been up, but obviously health and safety, I can understand health and safety and getting up there and what the cost is and everything to do with that.",
+    "speaker": "philipcoles",
+    "tags": [
+      "express_concern",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 1071.336,
+    "end": 1089.072,
+    "text": "But there's probably a huge cost for the repairs on the eastern side currently. What's the cost there, do we know? To replace our roofs, about $26,000.  and to do the other repairs inside?",
+    "speaker": "philipcoles",
+    "tags": [
+      "ask_question",
+      "provide_information",
+      "express_concern",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1089.732,
+    "end": 1122.66,
+    "text": "Well, as to do the roof, the flashings, the downpipes, the guttering, we haven't got a price on the roof, the ceiling inside yet, because I need to assess the rest of the ceiling. It's plaster board, whether or not we remove that whole ceiling and put a new ceiling up, that's what we need to assess. We need to get in there and see whether, once we've got the roof off,  we can see if there's other water damage, and maybe that whole ceiling needs to come down.",
+    "speaker": "johnmiles",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "confirm_next_step",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 1123.72,
+    "end": 1137.085,
+    "text": "Okay, and with regards to the eyesight destination Cambridge, which takes the bookings for the town hall, we've been instructed not to take any bookings for two months. Is that still the likely timing?",
+    "speaker": "philipcoles",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 1139.138,
+    "end": 1145.419,
+    "text": " So, yeah, could we, could they maybe take this conversation offline? It sounds more of an operational matter now, not governance.",
+    "speaker": "lizstolwyk",
+    "tags": [
+      "procedural_move",
+      "defer_decision",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 1145.8,
+    "end": 1191.277,
+    "text": "Yes, thanks, Liz, you're right with that. The only comment I'm going to make is, and John, I'm sure you're totally on top of this, and, you know, the maintenance repairs that are required need to be done properly. But I'm sure you and Phil can get together to discuss the TIN tax of it. So, thanks for that.  I welcome Phil Lyons. Sorry, we got a little bit confusing there with the Phils, but just one thing I wanted to bring up, John, you note in the report that the expenditure's down by 600,000, mainly due to things not happening over the COVID lockdown. Do I assume correctly that that will be, you know, those works will be done, but coming into the next financial year?",
+    "speaker": "andrewbrown",
+    "tags": [
+      "ask_question",
+      "assign_action",
+      "express_concern",
+      "agree"
+    ]
+  },
+  {
+    "start": 1193.017,
+    "end": 1236.496,
+    "text": " Some of those costs are cleaning and electricity and things like that, because the buildings have been closed down. And Karapiro was another one. So, yeah, so mostly they weren't physical works as such, just because we're in a lockdown situation. But anything that was programmed was, we went through our budgets fairly,  significantly a couple of weeks ago to reprogram that work, so some has been moved out, but yeah, the plan is to still try and get on top of those maintenance jobs.",
+    "speaker": "johnmiles",
+    "tags": [
+      "provide_information",
+      "summarize_outcome",
+      "report_back",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 1236.716,
+    "end": 1249.823,
+    "text": "But in saying that, we're, as a property group, we're really under-resourced at the moment because of the amount of staff that left in the last three months, so we're dealing with that as well.",
+    "speaker": "andrewbrown",
+    "tags": [
+      "provide_information",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 1251.23,
+    "end": 1274.384,
+    "text": " I'm right. Whoops, there we are. Hear me now? Yeah. Hi John, just on the ongoing discussions with Tainui regarding crossing the town belt for the C2, C3. Any update on that as yet? Yeah, that's something that I'm not particularly involved with myself.",
+    "speaker": "rogergordon",
+    "tags": [
+      "ask_question",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 1274.445,
+    "end": 1299.719,
+    "text": "That was a report we gave to Gary Dietz  and Gary was going to contact and have a meeting with the, I think it was the CEO of Tainui. I'm not too sure whether that's happened or not yet, but that was certainly the plan that Gary would go and have that conversation with senior management in Tainui.",
+    "speaker": "johnmiles",
+    "tags": [
+      "report_back",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 1301.841,
+    "end": 1302.101,
+    "text": "Okay.",
+    "speaker": "rogergordon",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 1303.862,
+    "end": 1313.815,
+    "text": "Okay, is there anyone, any further questions?  No, there being none, we have a recommendation. Do I have a mover, please?",
+    "speaker": "andrewbrown",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 1315.036,
+    "end": 1356.117,
+    "text": "Sorry, could I just, I have a note, just click over onto the next page. And looking at the contracts database and the data cleansing you're doing, how do we look at the graph there? And do I take it that those percentages refer to the total of 199 contracts?  If that is the case, that means that you've got 93 that you, it's a considerable workload that you've got to get through to kind of update all those contracts, isn't it? Yeah, it's a substantial workload, but we're working through that.",
+    "speaker": "rogergordon",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "express_concern",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 1356.377,
+    "end": 1387.774,
+    "text": "We got Leanne on board now and she's, as part of the restructure, we restructured those positions. So there's one person responsible for leasing.  So now that we have got some data in the database, we can start going through all those leases that are in need of some work to get them up to a standard that both Bruce and myself want them to be in. It is a bit of a mess at the moment, but we're working our way through that.",
+    "speaker": "johnmiles",
+    "tags": [
+      "provide_information",
+      "assign_action",
+      "prioritize_issue",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 1388.774,
+    "end": 1389.975,
+    "text": "What's your timeframe for that, John?",
+    "speaker": "rogergordon",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1391.93,
+    "end": 1397.272,
+    "text": " I'd imagine it will take the best part of 12 to 18 months to get through that process.",
+    "speaker": "johnmiles",
+    "tags": [
+      "provide_information",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 1399.413,
+    "end": 1403.455,
+    "text": "We're not exposed in anywhere there from not having full leases in place?",
+    "speaker": "rogergordon",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 1404.156,
+    "end": 1420.005,
+    "text": "A lot of them are community leases, they're minimal rentals. In fact, I think Bruce told me yesterday we've got one rental at 10 cents per annum. 10 cents?  10 cents, that's correct.",
+    "speaker": "johnmiles",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 1420.265,
+    "end": 1422.206,
+    "text": "Oh, I'm going to review that.",
+    "speaker": "rogergordon",
+    "tags": [
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 1423.547,
+    "end": 1460.187,
+    "text": "Yeah, so when you look at them, they're not generally, we charge an admin fee as well. So quite often the admin fee of $240 is considerably more than the rent. I guess going forward, that's something that we need to look at as an organisation as well, with regards to how those rents are structured and those types of things. But that, yeah.  And if you take out a couple of those rentals, two rentals probably covered 90% of the income. So the others covered very little. They're basically a peppercorn really.",
+    "speaker": "johnmiles",
+    "tags": [
+      "provide_information",
+      "prioritize_issue",
+      "evaluate_option",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 1461.368,
+    "end": 1492.218,
+    "text": "I've just got another question as well. That's to do with the water tower at Resthaven. I've got a feeling that somebody said to me, isn't there a similar water tower outside of Victoria Park in Auckland?  and didn't they have the same challenge? So there may be an indication of an already found solution for the water tower in Cambridge. Are you aware of that and any more information on that?",
+    "speaker": "rogergordon",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "cite_reference"
+    ]
+  },
+  {
+    "start": 1493.238,
+    "end": 1511.379,
+    "text": "I was only aware that this was one of two in the country. Yeah, so it's a substantial amount of money to bring that up to code.  So that's... Yeah, Ken.",
+    "speaker": "johnmiles",
+    "tags": [
+      "provide_information",
+      "express_concern",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 1511.859,
+    "end": 1513.96,
+    "text": "Sorry, John. Ken's got a comment there.",
+    "speaker": "andrewbrown",
+    "tags": [
+      "procedural_move",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 1514.54,
+    "end": 1563.051,
+    "text": "Look, I was just going to say through the chair, yes, I do recall, and we're probably talking about two or three years ago now, I do recall discussion around that Victoria Park Auckland water tower and the mechanism that they used in regard to, you know, to sorting the earthquake prominence of that.  and I know that our professional advisors, whose name escapes me, John, you might be able to help. BCD? Yes, so BCD were very aware of the treatment that they'd used at Victoria Park in Auckland. So yes, it's definitely been in our thinking and in the design that they came up with. Good, thank you.",
+    "speaker": "kenmorrisg",
+    "tags": [
+      "provide_information",
+      "defer_to_authority",
+      "build_on_point",
+      "agree"
+    ]
+  },
+  {
+    "start": 1563.591,
+    "end": 1566.946,
+    "text": "May I?  May I ask John a question, Andrew?",
+    "speaker": "hazelbarnes",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1567.406,
+    "end": 1567.827,
+    "text": "Certainly.",
+    "speaker": "andrewbrown",
+    "tags": [
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 1570.008,
+    "end": 1604.907,
+    "text": "Look, I was just looking through the agenda to see if there was any more discussion on the grandstand at Kihikihi Domain. And I'm just wondering, is it in order for this meeting? I'm just looking through  I've been looking through all the minutes, the agendas to see where does this land? Is this an appropriate place to ask, say, what's happening about the Kihikihi domain grandstand and what's happening about the management plan for the Kihikihi domain? So does that sit with finance or where does it sit?",
+    "speaker": "hazelbarnes",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "procedural_move",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 1606.107,
+    "end": 1610.348,
+    "text": "The management plan now sits with Sally Chutey from Parks.",
+    "speaker": "johnmiles",
+    "tags": [
+      "provide_information",
+      "report_back"
+    ]
+  },
+  {
+    "start": 1610.928,
+    "end": 1615.157,
+    "text": "Oh, Sally, okay.  And what about, and the grandstand?",
+    "speaker": "hazelbarnes",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1615.897,
+    "end": 1621.702,
+    "text": "The grandstand, we haven't progressed that at this stage with regards to what to do with it.",
+    "speaker": "johnmiles",
+    "tags": [
+      "provide_information",
+      "defer_decision",
+      "report_back"
+    ]
+  },
+  {
+    "start": 1622.843,
+    "end": 1626.786,
+    "text": "Thank you, John. All right.",
+    "speaker": "hazelbarnes",
+    "tags": [
+      "close_discussion",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1628.147,
+    "end": 1628.867,
+    "text": "Liz.",
+    "speaker": "andrewbrown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1628.887,
+    "end": 1639.716,
+    "text": "Yeah, sorry. Hey, a quick question, John, the upgrade to the Gaslight Theatre car park, is it a sealed upgrade or is it just a maintenance, do you know?",
+    "speaker": "lizstolwyk",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1640.637,
+    "end": 1662.549,
+    "text": " It's sealed, so it goes from the concrete apron crossover that goes across to writing for the disabled, and then pretty much everything else that's in front. So, yeah, it's sealed. Thank you. I'm not too sure the standard of the seal, chip seal, I think it is. Yeah, it's chip sealed, Bruce.",
+    "speaker": "johnmiles",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 1665.451,
+    "end": 1679.658,
+    "text": "Okay, so if there's nothing further,  I have a recommendation to receive the report of John Moles, property manager. Thank you, Roger. And a seconder. Thank you, Bruce. All in favour? All right.",
+    "speaker": "andrewbrown",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 1680.099,
+    "end": 1680.759,
+    "text": "Aye. Aye.",
+    "speaker": "philipcoles",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 1681.52,
+    "end": 1715.385,
+    "text": "Contrary, no. It's carried. Thanks, John, very much for that. Yeah, difficult time for you guys, I have no doubt. But yeah, okay, all good.  All right, moving on. Item eight, recommendation to go into public excluded. Could I have a mover, please? Susan. Yeah, I'll move, Andrew. Who was that? Jim. Ah, okay. Jim, seconded Susan. All in favour? Aye. Yeah. Contrary, no. That's carried.",
+    "speaker": "andrewbrown",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "summarize_outcome",
+      "confirm_next_step"
+    ]
+  }
+]

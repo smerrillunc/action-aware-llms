@@ -1,0 +1,317 @@
+[
+  {
+    "start": 0.131,
+    "end": 0.631,
+    "text": " for lateness.",
+    "speaker": "wayneallan",
+    "tags": [
+      "clarify_point",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 1.212,
+    "end": 2.912,
+    "text": "So, yeah.",
+    "speaker": "loubrown",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 3.012,
+    "end": 37.526,
+    "text": "OK, cool. Sweet. Right. Good morning, everyone. Thanks for attending the Regulatory Committee meeting on the 14th of December. So we have some apologies. I'll move Liz as an apology and also Roger for lateness. So can I have a seconder? I'll second that. Thanks very much. All those in favour say aye. Aye.  I know Gerry Kessels, who did that Blue Water Ecology report for the EBLs, but I don't think it's",
+    "speaker": "marcusgower",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "public_address"
+    ]
+  },
+  {
+    "start": 56.82,
+    "end": 64.725,
+    "text": " an interest that would stop me from participating. You know, he's on the committee for the Pirongi Restoration Society with me.",
+    "speaker": "Unknown",
+    "tags": [
+      "express_concern",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 65.325,
+    "end": 108.9,
+    "text": "That's fine. Yeah. Yeah. We'll note that. Any late items? No late items. Great. And can we have a mover and a seconder for the confirmation of order of the meeting, please? Happy to move. And clear. All those in favour? Aye.  Great. Confirmation of minutes of the meeting on the 21st of September, 2020. Can I have a mover and a seconder to confirm those? I'll move that way, yeah. Yeah, Lou and Clare. All those in favour? Aye.",
+    "speaker": "marcusgower",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "ask_question",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 109.34,
+    "end": 109.54,
+    "text": "Aye.",
+    "speaker": "Unknown",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 110.161,
+    "end": 117.806,
+    "text": "Great. Is there anything that's been brought up through  through those minutes, Clare?",
+    "speaker": "marcusgower",
+    "tags": [
+      "ask_question",
+      "report_back"
+    ]
+  },
+  {
+    "start": 117.846,
+    "end": 122.331,
+    "text": "No, no, all of them are perfect, actually, which is pretty neat. Yeah. Great.",
+    "speaker": "Unknown",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 123.052,
+    "end": 145.577,
+    "text": "Yeah. Right. Moving along to the quarterly report from our Consent Team Leader.  I'm pretty much happy to take it as read and fine to take questions if there's any specific questions on the report.",
+    "speaker": "marcusgower",
+    "tags": [
+      "procedural_move",
+      "state_opinion",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 145.757,
+    "end": 152.798,
+    "text": "Eddie Tuiavii Yep, I'm happy to take it as read. Is there any questions for Quinton?",
+    "speaker": "quentinbudd",
+    "tags": [
+      "agree",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 163.36,
+    "end": 163.881,
+    "text": " Not for me.",
+    "speaker": "marcusgower",
+    "tags": [
+      "disagree"
+    ]
+  },
+  {
+    "start": 164.901,
+    "end": 169.646,
+    "text": "No, just that it's been a busy time. But not a question, comment. Yeah.",
+    "speaker": "Unknown",
+    "tags": [
+      "clarify_point",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 170.446,
+    "end": 217.748,
+    "text": "OK. Just a point from me, Mr. Chair. I think it's important that all the decisions, whether they're made by this committee or independent panels or commissioners, that the minutes of those decisions come back through this committee.  and we want to do that on a quarterly basis. So you'll get a quarterly meeting, at least four next year, and you'll have these quarterly reports come through that will incorporate any decisions that have been made by independent hearing commissioners or panels. So I just sort of make that point because in the report, there are a couple of decisions by those independent hearing commissioners together with four-odd decisions from the hearings panel, so.",
+    "speaker": "wayneallan",
+    "tags": [
+      "procedural_move",
+      "clarify_point",
+      "provide_information",
+      "confirm_next_step",
+      "report_back"
+    ]
+  },
+  {
+    "start": 220.742,
+    "end": 245.282,
+    "text": " Thank you for that. Now on to\u2014oh, can I have a mover and a seconder for the report, please? Be accepted. Clare, all those in favour? Thank you very much. And now we will move on to the item 7, request to determine number of environmental benefit lock entitlements. And who is handling that?",
+    "speaker": "marcusgower",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 247.452,
+    "end": 251.374,
+    "text": " I think we've got Dawn here for that report, Mr. Chair. Oh yeah, I see Dawn there.",
+    "speaker": "wayneallan",
+    "tags": [
+      "procedural_move",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 252.194,
+    "end": 253.095,
+    "text": "That is me.",
+    "speaker": "marcusgower",
+    "tags": [
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 253.115,
+    "end": 470.183,
+    "text": "Good morning. Apologies, I'm not sure where my camera has gone to. That's OK. Ng\u0101 mihi nui ki a koutou, everybody.  My name is Dawn Pritchard. I'm a planner for Waip\u0101 District Council and the author of the report requesting a number of environmental benefit lots to be determined. Before I continue, is it OK that I use the acronym EBL in lieu of having to say environmental benefit lots? Is that OK? That's fine. Thank you. Thank you. I'll take my report as being read and we'll summarise the key points and happy to answer any questions thereafter. Great.  COGSWARES on behalf of Buchanan Farm Limited have written to Council and provided an ecologist report requesting six EBLs being awarded in exchange for the protection of five forest blocks located at 5 Bar 370 Aspen Road to Middle. These blocks have been described as regenerating indigenous scrub and forest remnants with predominant tawa  p\u016bk\u0101tea, poutaka, broadleaves, scrub kahikatea and k\u0101nuka present. These blocks lie within two gully systems and cover approximately 18.12 hectares. Included for permanent protection is an additional one to almost three hectares of exotic grasses with some indigenous regeneration occurring.  Our streams flow through all five blocks, which provide really good fish habitat, and the blocks act as a stepping stone for indigenous birds, including Kiriru and Tui, to move between the district's larger reserves, and it was suggested that long-tailed bats are also likely present here. I undertook an assessment against relevant criteria in the district plan for EBLs,  and can confirm that with the exception of Block 5, the blocks are located within identified significant natural areas. With that being said, Block 5 will meet the criteria to become significant following some restoration. It was also confirmed that all of the blocks are entirely within the biodiversity corridor, specifically the indigenous forest corridor.  The applicant's ecology report from Blue Wattle was referred to council's ecologist, Boffa Miskell's Andrew Blaney. Mr. Blaney advised that the Blue Wattle report was well-written and agreed with the overall assessment that the blocks proposed to be protected do actually qualify for EBL entitlements and will result in significant biodiversity gains.  Mr Blaney concluded in his comments that he is too supportive of six EBL entitlements being awarded, more specifically five EBLs for blocks one to four and one EBL for block five once restored.  To sum up, and bearing in mind that the number of EBLs recommended to you this morning is consistent with other similar significant natural areas and EBLs awarded to that proposed, that in my opinion, due to the size of the forest blocks to be protected and having them identified as being significant with biodiversity values that will positively contribute to the public good, and more importantly, with the advice provided from council's ecologist,  that the overarching recommendation is for six EBL entitlements being awarded to the applicants, subject to those conditions in section seven of my report being met, which relates to a management and restoration report being provided at the time of any subsequent subdivision consent being applied for. I'm happy to take any questions.",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "provide_information",
+      "cite_reference",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 472.663,
+    "end": 476.344,
+    "text": "Right, thank you very much for that, Dawn. I believe, Lou, you had a question",
+    "speaker": "marcusgower",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 478.345,
+    "end": 490.751,
+    "text": " Yeah, quickly, Dawn, I was just going to ask, in the second lot though, see, there was a race that actually bisected it. It was a farm race or an access track. Is that going to be independently fenced off or is that going to be closed off?",
+    "speaker": "loubrown",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 492.272,
+    "end": 499.376,
+    "text": "Yeah, I believe they're just going to, again, plant out. That will be confirmed once that restoration management plan comes through.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "defer_decision"
+    ]
+  },
+  {
+    "start": 501.677,
+    "end": 502.497,
+    "text": "Cool, thank you.",
+    "speaker": "loubrown",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 504.298,
+    "end": 505.479,
+    "text": "Is there any other questions?",
+    "speaker": "marcusgower",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 508.397,
+    "end": 544.367,
+    "text": " Yeah, I've just got a little query about one of the conditions, that's all. The recommendations, yeah, so that's under the reasons for the decision, sub-clause C, which is on page 265 of our agenda, and, well, it sits in the last page of your report, Dawn.  Yeah, and it's just the second line in C. Yeah, reliant on the ongoing protection of the areas identified. That's all. Of, isn't it? Of, yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "cite_reference"
+    ]
+  },
+  {
+    "start": 544.527,
+    "end": 547.009,
+    "text": "Oh, thank you. Thank you, Claire. I'll fix that up.",
+    "speaker": "Unknown",
+    "tags": [
+      "confirm_next_step",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 547.649,
+    "end": 549.29,
+    "text": "Yeah, that's all, yeah.",
+    "speaker": "Unknown",
+    "tags": [
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 551.331,
+    "end": 555.613,
+    "text": "Yeah, it's a really nice block of land. And it's great to see some of this being protected.",
+    "speaker": "marcusgower",
+    "tags": [
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 556.134,
+    "end": 568.554,
+    "text": "Indeed. Yeah, I really like the photos too, which show just, yeah,  the size of the trees that are there and all that, and the topography as well. Yeah, I was very pleased with the report.",
+    "speaker": "Unknown",
+    "tags": [
+      "agree",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 570.335,
+    "end": 587.538,
+    "text": "Cool. Right, any further questions? Nope. So can I have a mover and a seconder then for the recommendations? Lou and Poto. All those in favour? Aye.",
+    "speaker": "marcusgower",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "call_vote"
+    ]
+  },
+  {
+    "start": 587.898,
+    "end": 588.178,
+    "text": "Aye.",
+    "speaker": "loubrown",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 588.618,
+    "end": 592.439,
+    "text": "Yep, again, it's carried.  Thank you very much Dawn.",
+    "speaker": "marcusgower",
+    "tags": [
+      "summarize_outcome",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 592.66,
+    "end": 593.323,
+    "text": "Thank you.",
+    "speaker": "Unknown",
+    "tags": [
+      "close_discussion"
+    ]
+  }
+]

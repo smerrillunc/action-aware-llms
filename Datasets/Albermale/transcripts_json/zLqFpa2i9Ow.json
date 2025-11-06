@@ -1,0 +1,1793 @@
+[
+  {
+    "start": 0.031,
+    "end": 5.417,
+    "text": " Okay. Is there anybody here? With the exception of Graham and I'm sure he'll be here. In just a minute.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 6.258,
+    "end": 11.884,
+    "text": "I don't think Judy's on yet either. Yeah. Judy's not going to be with us tonight. Okay.",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "acknowledge",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 11.904,
+    "end": 21.996,
+    "text": "Yep. Hello.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 22.496,
+    "end": 85.393,
+    "text": "Graham. Hi, how are you?  I would like to call this business meeting of the Albemarle County School Board for July 16 to order. And we will start with a moment of silence.  OK, before we get on to our first order of business, just a couple of things. One, I'd like to do a microphone check. And I don't know how everybody else's screen looks, but if Jennifer, you're in my top left-hand corner, would you start? And we'll go across to the board and then down the row.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "request_action",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 86.214,
+    "end": 91.859,
+    "text": "OK, I'm Jennifer Johnston, clerk for the school board. John O'Connor, at large.",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 91.879,
+    "end": 92.88,
+    "text": "I'm the school board attorney.",
+    "speaker": "clarekeiser",
+    "tags": [
+      "clarify",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 93.839,
+    "end": 95.701,
+    "text": " I think it's random.",
+    "speaker": "kateacuff",
+    "tags": [
+      "opinion",
+      "hedge"
+    ]
+  },
+  {
+    "start": 96.582,
+    "end": 98.584,
+    "text": "OK. Dr. Acuff.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 100.165,
+    "end": 102.127,
+    "text": "Kate Acuff, Jack Jewett District.",
+    "speaker": "kateacuff",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 102.888,
+    "end": 103.669,
+    "text": "Ms. Osborne.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 104.57,
+    "end": 106.191,
+    "text": "Ellen Osborne, Scottsville District.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 106.892,
+    "end": 110.916,
+    "text": "Mr. Oberg. Dave Oberg, Whitehall District. Ms. Schmidt.",
+    "speaker": "davidoberg",
+    "tags": [
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 114.9,
+    "end": 115.521,
+    "text": "Ms. Schmidt.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 117.283,
+    "end": 120.306,
+    "text": "I had to find the button. Roslyn Schmidt, Chief Operating Officer.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 121.066,
+    "end": 133.067,
+    "text": "Thank you. Ms. Pitsenberger.  Thank you.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 135.25,
+    "end": 137.732,
+    "text": "Mr. Page. I'm Page from the law district.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 139.113,
+    "end": 145.139,
+    "text": "Dr. Haas. Hi, good evening. This is Matt Haas, superintendent. Good to see you all.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 145.159,
+    "end": 148.001,
+    "text": "Mrs. Colson. Katrina Colson, Rio District.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 149.623,
+    "end": 150.384,
+    "text": "Dr. Kaiser.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 155.629,
+    "end": 157.25,
+    "text": "Sarah Kaiser, assistant superintendent.",
+    "speaker": "clarekeiser",
+    "tags": [
+      "public_addressing",
+      "clarify"
+    ]
+  },
+  {
+    "start": 159.352,
+    "end": 160.313,
+    "text": "Ms. Collins.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 161.879,
+    "end": 164.201,
+    "text": " Good evening, Debbie Collins, Deputy Superintendent.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 165.202,
+    "end": 165.883,
+    "text": "Mr. Foley.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 171.248,
+    "end": 173.25,
+    "text": "Jim Foley, Director of Transportation.",
+    "speaker": "jimfoley",
+    "tags": [
+      "public_addressing",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 175.132,
+    "end": 188.545,
+    "text": "Thank you. Dr. Hairston. Good evening. Bernard Hairston, Assistant Superintendent. Ms. Johnson, as in Ashby.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 189.875,
+    "end": 197.862,
+    "text": " Hey, that's me. Hi, good evening. Ashby Johnson, Principal Jack Jupp Middle School.",
+    "speaker": "ajohnson",
+    "tags": [
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 198.983,
+    "end": 204.007,
+    "text": "Thank you. Ms. Duvall.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 204.027,
+    "end": 206.549,
+    "text": "Renee Duvall, Routing and Planning Transportation.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 208.15,
+    "end": 210.052,
+    "text": "Thank you. Mr. Asher.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 214.716,
+    "end": 217.098,
+    "text": "Hello, I'm Jim Asher, the Principal at Burley Middle School.",
+    "speaker": "jimasher",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 218.119,
+    "end": 219.78,
+    "text": "Thank you. Ms. Wood.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 223.625,
+    "end": 225.927,
+    "text": " Hi, I'm Megan Wood, Principal of Sutherland Middle School.",
+    "speaker": "meganwood",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 226.768,
+    "end": 228.39,
+    "text": "Thank you. Mr. Kirst.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 231.153,
+    "end": 237.88,
+    "text": "Kevin Kirst, Executive Director of Special Education and Student Services. Thank you. Mr. Thomas.",
+    "speaker": "kevinkirst",
+    "tags": [
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 241.424,
+    "end": 245.708,
+    "text": "Good evening, everyone. Jay Thomas, Director of Secondary Education. Thank you.",
+    "speaker": "jaythomas",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 245.748,
+    "end": 246.969,
+    "text": "Dr. Diggs.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 250.073,
+    "end": 252.315,
+    "text": "Hi, Christine Diggs, Chief Technology Officer.",
+    "speaker": "christinediggs",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 253.207,
+    "end": 304.275,
+    "text": " Thank you. And there's one screen that showing all of our county public schools, but doesn't have a name associated with it. Whoever that mystery person is, if you'd like to share with us who you are, that'd be great. And if not, that's okay too. Okie doke.  A couple of things. One is I just want to remind everybody that in terms of any votes that we take this evening, that's going to be on a roll call basis. And as I had said earlier, I think before we got started, that Ms. Lee is not going to be joining us tonight as she is a bit ill. Our first order of business is the approval of the agenda.  May I have a motion to approve the agenda?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "public_addressing",
+      "request_action",
+      "logistics_info",
+      "give_update",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 306.038,
+    "end": 306.719,
+    "text": "So moved.",
+    "speaker": "kateacuff",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 308.061,
+    "end": 318.898,
+    "text": "And a second? Second. We have a motion to approve the agenda. I have a second. All in favor? Oh, Ms. Johnson, I forgot, within a minute.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move",
+      "vote_call",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 320.3,
+    "end": 321.001,
+    "text": "Mr. Page?",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "public_addressing",
+      "request_action"
+    ]
+  },
+  {
+    "start": 321.402,
+    "end": 321.662,
+    "text": "Yes.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 322.063,
+    "end": 330.676,
+    "text": "Ms. Colson? Yes. Ms. Osborne? Yes. Dr. Acuff? Yes. Mr. Oberg?",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "vote_call",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 331.196,
+    "end": 331.577,
+    "text": "Yes.",
+    "speaker": "davidoberg",
+    "tags": [
+      "agreeing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 331.844,
+    "end": 332.706,
+    "text": " Mr. Alcaro?",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 333.248,
+    "end": 377.916,
+    "text": "Yes. The motion passes. Before we go on to the consent agenda, I just want to do a couple of quick thank yous. The first one of which is to the Board of Supervisors.  I just want to take a moment on behalf of the school board to thank the Board of Supervisors, which last night passed a non-emergency ordinance pursuant to Virginia Code 15.2-1413 that provides, notwithstanding any contrary provision of law, either general or special, any locality may, by ordinance, provide a method to assure continuity in its government.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "vote_call",
+      "acknowledge",
+      "give_update",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 378.419,
+    "end": 381.963,
+    "text": " in the event of an enemy attack or other disaster.",
+    "speaker": "kevinkirst",
+    "tags": [
+      "express_concern"
+    ]
+  },
+  {
+    "start": 383.024,
+    "end": 479.793,
+    "text": "Such ordinance shall be limited in its effect to a period not exceeding six months after any such attack or after a disaster has been averted and shall provide for a method for the resumption of normal governmental authority by the end of the six month period.  Among other things, the ordinance supersedes the Freedom of Information Act's requirements for quorums of public bodies to be physically assembled and the restrictions on participating electronically during the COVID-19 disaster.  Because its scope specifically extends to the school board, it allows the school board to meet virtually and continue with its essential functions without confining subject matter of its meetings to just the emergency itself.  This is what I announced in our first Zoom meeting that we anticipated coming in the middle part of this month. It happened as of last night. And I think all of us are genuinely appreciative of what the Board of Supervisors did. I also want to thank Mr. Holden for working with Mr. Kampner, who's the attorney for the Board of Supervisors  on this issue and for guiding us through the virtual meeting process as a whole. So thank you, Mr. Holden. Our next order of business is approval of the consent agenda. May I have a motion?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "give_update",
+      "acknowledge",
+      "request_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 482.796,
+    "end": 483.516,
+    "text": "So moved.",
+    "speaker": "kateacuff",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 485.178,
+    "end": 485.859,
+    "text": "Do I have a second?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 488.661,
+    "end": 492.084,
+    "text": "Second. OK. We have a motion. We have a second.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 493.926,
+    "end": 495.147,
+    "text": "Ms. Johnston?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 496.477,
+    "end": 506.01,
+    "text": " Ms. Carlson? Yes. Ms. Osborne? Yes. Dr. Acuff? Yes. Mr. Oberg? Yes. Mr. Page?",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "vote_call",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 506.371,
+    "end": 506.611,
+    "text": "Yes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 507.633,
+    "end": 508.374,
+    "text": "Mr. Alcaro?",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "public_addressing",
+      "request_action"
+    ]
+  },
+  {
+    "start": 509.015,
+    "end": 560.951,
+    "text": "Yes. Okay. The motion passes. Next up, and I'm going to ask the board to now mute your microphones if you're not speaking, and then to turn them on when we do want to speak.  Our next subject is public comment. Another thank you is in order here because I want to thank Mr. Holden, Dr. Diggs, and Ms. Johnston for taking the bull by the horns and making public comment work in time for our target date of tonight's meeting. I think it's still going to be a work in progress for a couple of meetings, but I want to thank the three of you especially for making this happen. Thank you very much.  Do we have anybody signed up for public comment, Jennifer?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "acknowledge",
+      "ask_question",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 561.472,
+    "end": 561.692,
+    "text": "No.",
+    "speaker": "cpitsenb",
+    "tags": [
+      "disagreeing"
+    ]
+  },
+  {
+    "start": 562.694,
+    "end": 573.813,
+    "text": "Okay. Mr. Page, would you like to read the guidance for the record and just to get it out so that everybody's heard the new revisions?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "request_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 574.695,
+    "end": 710.638,
+    "text": "Right. I'll read mainly the  the changes that will be enforced while we are doing virtual meetings. As authorized by ordinance of the county of Albemarle, the school board will hold its meetings electronically during the COVID-19 pandemic. The school board is nevertheless committed to encouraging public comment despite its need to meet on a virtual basis. And because of that change, we'll have two main changes or two main ways of having people communicate with us.  First, written comments may be submitted to the school board clerk prior to the start of the meeting and will be disseminated to all of the school board members for review. Secondly, members of the public wishing to provide public comment during the school board meeting may sign up online at our website by 4pm the day before the meeting. The clerk will email Zoom links to the speakers on the day of the meeting so that they can log into the meeting to provide comment.  Before electronic public comment commences, the vice chair will announce the order in which the speakers will comment. Public commenters will initially be admitted to a waiting room on Zoom until it is their turn to speak. They will be able to hear the meeting in progress while they wait. Each speaker's access to the public comment will be activated when it is that speaker's turn to provide comment to the members of the school board.  Speakers will be notified when they reach the two-minute mark, and at the three-minute mark, the speaker's Zoom link will be automatically deactivated. Although the school board is confident that public comment will proceed in an orderly and respectful manner, upon instructions from the chair, the clerk may deactivate the speaker's mic at any time.  Speakers during the meeting or those submitting written comment should state name and address or magisterial district. Simply stating Albemarle County for your address is not adequate. Although the school board will not respond to comments made during the public comment period, school board members may address comments at the end of the meeting agenda under other business. So those are the primary changes that we'll be having while we are having a virtual meeting.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "logistics_info",
+      "clarify"
+    ]
+  },
+  {
+    "start": 712.76,
+    "end": 720.749,
+    "text": "Very good. Thank you, Mr. Page.  Next up is spotlight on education. Ms. Osborne.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 722.793,
+    "end": 917.629,
+    "text": "Yes, thank you. So we have a resolution. I'm going to read it now. It's in regard to the Child Nutrition Services. Whereas on Friday, March 13,  Virginia Governor Ralph Northam ordered the closing of all schools in the Commonwealth for a period of two weeks to protect against the spread of the coronavirus. And whereas this action to protect public health through the closure of schools meant that students who participated in the federal government's free and reduced lunch program lost their access to the nutritious meals provided each day at school and  Whereas in Albemarle County Public Schools, thousands of students were negatively impacted by this loss of access. And whereas among the school division's four values is its young people, specifically their academic and personal development, their health and well-being,  And whereas in response to the closure of schools, the division's child nutrition department immediately began to plan to meet the needs of all children for healthy breakfast and lunches on a daily basis.  And whereas within one business day of the governor's closure announcement, Child Nutrition Team members, under the guidance of Director Christina Pitzenberger, had organized a food distribution program. And whereas the program began with six school sites throughout the county, serving more than 1,000 meals a day to students and their siblings 18 years of old and younger. And whereas on March 23rd,  The governor extended the closure of all K-12 schools in the Commonwealth through the end of the current academic year, and whereas the Child Nutrition Office continued to monitor the need among its students and all communities across the county for healthy meals and to work with the Department of Transportation in setting up additional food distribution sites,  And whereas, as the result of this ongoing planning and teamwork, the office now distributes breakfast and lunches to students in 21 locations at schools and communities. And whereas, since March 17th, the Child Nutrition Office has provided more than 30,000 meals to students from all schools and locations in the county, and is continuing to evaluate the needs to further expand this service.  Now therefore be it resolved that the Albemarle County School Board expresses its deep appreciation to Ms. Pitsenberger and her highly dedicated and skilled team for their invaluable support in meeting the nutritional and health needs of thousands of Albemarle County public school students and their siblings, and for doing so through such an expeditious and increasingly inclusive plan.  And be it further resolved, the school board also salutes the contributions of the transportation department, its director James Foley, and his team for enabling the food distribution program to bring its services directly to the neighborhoods where students reside, thereby expanding participation in this vitally beneficial program. Thank you.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "give_update",
+      "acknowledge",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 921.17,
+    "end": 942.537,
+    "text": " Thank you very, very much. And Ms. Pitsenberger, Mr. Foley, Ms. Duval, I know you're all with us. We'd love to see you. And we thank you, as the resolution says. And we appreciate everything you're doing. You have our deepest respect. Thank you all.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 943.158,
+    "end": 953.715,
+    "text": " Thank you. Thank you. I appreciate the resident, the recognition resolutions very appreciated and it's an honor on behalf of the fabulous team to accept that.",
+    "speaker": "cpitsenb",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 954.676,
+    "end": 999.534,
+    "text": "And a special thanks to the transportation team who really has been working alongside with us to help really extend that service out to the sites beyond the six feeding sites that we have.  Rosalyn Schmidt and Jennifer Butler-Phil have been real instrumental in getting the media releases out, building services and getting supplies for us that we need, the face masks and such. It's just no surprise, the schools just truly work collaboratively to really meet the needs of the students. And the real reward is when you're out and you see the real sincere gratitude from those that are receiving the service.  have actually served over 1,300 per day twice this week. So it continues to grow.",
+    "speaker": "cpitsenb",
+    "tags": [
+      "give_update",
+      "acknowledge",
+      "public_addressing",
+      "opinion"
+    ]
+  },
+  {
+    "start": 1001.256,
+    "end": 1003.158,
+    "text": "Thank you so much. Mr. Foley.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1003.859,
+    "end": 1032.687,
+    "text": "Chairman Alcaro and the rest of the school board, I want to thank you for this recognition. It's been a pleasure to work with Christina and her staff. I'd like to salute Rene Deval, who's on here, Bill Morse, who couldn't make it, and our drivers and shop staff that  have made this possible. So it's a real bright light in this dark time. And I know Christina and I feel great about it. So Renee, do you want to say a couple words?",
+    "speaker": "jimfoley",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "request_action"
+    ]
+  },
+  {
+    "start": 1035.11,
+    "end": 1038.595,
+    "text": "I'm the best one, sir.",
+    "speaker": "bcostakalbemarleor",
+    "tags": [
+      "opinion",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1038.635,
+    "end": 1056.414,
+    "text": "Renee is the one that routed all these buses in a very short time. So very impressive work.  Thank you to both of you in transportation and to your entire teams, you know, in both departments, and we'll get copies of this resolution out to you within the next couple of days.",
+    "speaker": "jimfoley",
+    "tags": [
+      "acknowledge",
+      "give_update",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 1056.754,
+    "end": 1097.962,
+    "text": "Thank you very, very much. Thank you. Great job.  Next up, before I turn this over to Dr. Haas for announcements, Matt, I just want to compliment you on both the videos that you have put together and put out over the last couple of weeks. They're warm, caring messages that go out to not only our school community, but our entire community. Lainey is a terrific camera woman.  And Louie added a little bit in the first one. And so they just had Matt written all over them. And they were just so well done. Thank you, Dr. Haas.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "opinion"
+    ]
+  },
+  {
+    "start": 1098.222,
+    "end": 1364.31,
+    "text": "Thank you very much, John. I really appreciate it. And we're going to send out another one tomorrow. It'll be briefer and a little more formal, because we're going to send out an introduction to our new budget survey that we're going to send out tomorrow to the whole community. I really appreciate your kind words. That means a lot to me.  Um, I don't have any announcements that are business related. I do want to just say four things. One is I want to really thank the school board for continuing to have your meetings, not only on a regular basis, but you've added additional meetings, uh, to work with staff on, uh, operational issues around, um, that was my dog Louie, uh, barking in the background. Um,  to work on operational items and just learn about what we're doing in response to the COVID-19 closures. A lot of boards around the state have suspended their meetings. They're not taking on new technology the way you have, and you've really transitioned extremely well into this. You are also, as a board, on the cutting edge in terms of having public comment now at your meetings. You would be hard-pressed to find  very many school boards around Virginia during this time having public comment at their meetings. They've probably just flipped over to getting emails or finding some other way for people to write into the board. That says a lot about our school board as a body, that you want feedback from the public, and you want it in person, and you want to have that personal connection.  We need your leadership. We need your guidance. And we always need your wisdom in working our way through these times. And without having meetings with you, we would not be able to do that. Every cloud has its silver lining. The bad news is never the last news. But we need your guidance and leadership to get to that part of the conversation. And thank you. Speaking of that, speaking of good news, I just want to say that I'm super proud  of all of our teachers, our administrators, our support staff, for standing up a 14,000-student virtual school in very little time. It's not perfect, but we're not going to let perfect get in the way of doing good for our community, and that's what we're doing. We have many opportunities to continue to learn and get better at having a virtual school, but necessity is the mother of invention.  That's where we are right now. We are inventing a virtual school, and I wouldn't want to be doing it any other place except Albemarle County with the outstanding educators and support staff that we have. I want to mention that, speaking of which, I just want to mention right before this meeting, Debbie and Claire and I sat in on a meeting with our representatives from the Albemarle Education Association, Amy Gairdner,  Cheryl Knight, Becca Saxon, Mary McIntyre, and Vernon Lecte. And we had a wonderful conversation with them. They asked a lot of questions about the budget. And what really came through for me was their real care for their colleagues and wanting to make sure that they're supported in the work to support children and that  their needs are being met as we try to wrestle with the realities of a drastically reduced budget going into next year. I think they've tuned in for this meeting. They told me they would. So I want to give a shout out to that team. It was a real pleasure meeting with you all this afternoon. And I really appreciate you taking up an hour to do that among all the other things you have. And finally, since he's here tonight, I saw him earlier, I want to give a shout out to Josh Walton during our leadership team meeting.  This week, Rosalind Schmidt passed off the leadership pencil to Josh. It's our peer recognition award that's passed among our 70 plus leadership team members for doing great work that reflects the values of the community. And Rosalind said it well. She said that Josh is a high level professional and he's amazingly compassionate and caring. So Josh, I just want to congratulate you for that. Thanks for the opportunity for announcements, Jono, and that's all we have.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "give_update",
+      "acknowledge",
+      "reassure",
+      "logistics_info",
+      "public_addressing",
+      "opinion"
+    ]
+  },
+  {
+    "start": 1365.708,
+    "end": 1385.87,
+    "text": " Okay, thank you, Dr. Haas. Any announcements from the school board? Nope, going twice, sold. Next up is other business or business, superintendent business, school board business. Dr. Haas, any for that?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "ask_question",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1386.311,
+    "end": 1392.998,
+    "text": "I do. Actually, I'm gonna turn things over to Debbie at this time, and then I have one more after that. So go for it, Debbie.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "procedural_move",
+      "defer_to_expert",
+      "request_action"
+    ]
+  },
+  {
+    "start": 1393.737,
+    "end": 1408.05,
+    "text": " Good evening. As Mr. Thomas, Director of Secondary Schools, is with us tonight, we wanted him to update the board on the status of high school verified credits, since we will not be using SOLs to verify those credits this spring. Mr. Thomas?",
+    "speaker": "debbiecollins",
+    "tags": [
+      "request_action",
+      "public_addressing",
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1408.975,
+    "end": 1458.675,
+    "text": " Good evening, board members. Thank you, Jay Thomas, Director of Secondary Education. Just very briefly, with the leniency from the State Department of Education, what we are doing is able to verify, in order for our kids to graduate high school, they need to verify certain classes. That's some SOL-tested classes. You pass the class, you pass the SOL, that verifies it, that puts you on track to graduate.  In a nutshell, what's happening is the state has removed some of the obstacles of that because we can't test this year. And when the students pass their class, they automatically verify the class that they are in this year toward graduation and moving forward. So they made it very easy. We just wanted to let you know that. It's a one-time deal for this year because of the situation we're in. But those kids will stay on track to graduate and will not have to go back and take those tests at a later date.",
+    "speaker": "jaythomas",
+    "tags": [
+      "give_update",
+      "clarify",
+      "reassure",
+      "cite_external_source",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1463.853,
+    "end": 1464.434,
+    "text": " Thank you, Jay.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1465.135,
+    "end": 1470.844,
+    "text": "Sure. John, I think you're saying something, it looks like, but you're muted. Yes, indeed.",
+    "speaker": "jaythomas",
+    "tags": [
+      "acknowledge",
+      "interrupt_overlap"
+    ]
+  },
+  {
+    "start": 1470.864,
+    "end": 1474.911,
+    "text": "I was saying thank you as well. Okay. Dr. Haas.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "defer_to_expert"
+    ]
+  },
+  {
+    "start": 1475.271,
+    "end": 1486.008,
+    "text": "Thanks, Jay. Hey, and so I also want to bring Christina Diggs on real quick just to talk about something that happened on Monday. Thank you, Dr. Haas.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "request_action",
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1486.068,
+    "end": 1541.164,
+    "text": "Good evening. I'm Christine Diggs, Chief Technology Officer.  I wanted to share with you how the role of our technology service desk has changed over the past month. Typically, our service desk is for our employees to get help with their technology needs and questions. But as of last month, we've been sharing the service desk phone number with our families as well. We thought it would be important for them to provide them with a simple, straightforward way to get assistance with the technology devices and programs that are now a big part of their home experience.  As our service desk now helps both our families and our employees, they set a new record on Monday when they responded to 86 work tickets and 81 phone calls. Our three service desk engineers, Peter Small, Ian Davidson, and Michael Gagner are doing a great job in this new paradigm. And we're finding it's been very helpful to our families. Thank you.",
+    "speaker": "christinediggs",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "public_addressing",
+      "reassure",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1543.887,
+    "end": 1644.908,
+    "text": "Thank you very much. Any business from school board members?  Okay, I just have a couple of items I want to make the public aware, and to remind everybody on the board that we have meetings, not only tonight, but for the next three Thursdays. Tonight's our April business meeting next Thursday is our April work session.  May the 7th is our 2pm COVID update meeting along with another issue that will be discussed this evening. And May 14th is our May business meeting. And just to follow through, that's followed by our May 28th work session, our June 5th board retreat, and then the  regular board meeting, which would be, I believe, on June 11th. So it's going to be a busy, busy time coming up. I just want to let the public know what we're doing. And one other quick thing is that for the second year in a row, Albemarle County High School students won both of the grand award honors, along with 44 other science awards in the Virginia Piedmont Regional Science Fair  on March 4th at JPJ. I hope that we can have some or all of these students join us when we get back to our regular meetings in Lane Auditorium. And so next up is the Special Education Advisory Committee Annual Report. And Mr. Coase, would you host that?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "logistics_info",
+      "public_addressing",
+      "give_update",
+      "request_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1645.242,
+    "end": 1705.185,
+    "text": " Yes, I'd like to do just a little bit of an intro. Again, I'm Kevin Kirst, your Executive Director of Special Education and Student Services. The Special Education Advisory Committee is composed primarily of a group of parents of children with disabilities who represent the majority of schools in our school division. Their primary responsibility is to inform the superintendent and the school board on the needs of children with disabilities that are educated and served by Albemarle County Public Schools.  They're also highly valued by myself and my administrative team is they are a great group of individuals to share and bounce ideas off of during the course of the year and quite honestly, especially during the course of this year, which we shared thoughts, just two nights ago.  Stephanie Hicks is with us tonight. She is the Special Ed Advisory Committee Chairperson that is going to review with you the Special Ed Advisory Committee Annual Report. And with that, I'd like to turn it over to Stephanie.",
+    "speaker": "kevinkirst",
+    "tags": [
+      "give_update",
+      "public_addressing",
+      "defer_to_expert",
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1705.205,
+    "end": 2017.997,
+    "text": "Hi, everyone. Well, this is a new one for all of us, so bear with me here. But first of all, thank you for letting me join in.  And I want to let you know how very, very much we do appreciate our special educators. We appreciate all they do on a regular basis, but even right now, they are making a difference every day as we all try to adjust to the new normal. This report was written before the virus changed our education model, so it may not feel as relevant right now, but the recommendations are going to be key when we get back into the classroom, which hopefully will be sooner rather than later, and will help us with the continuing improvement of the ACPS special education model.  Our first point was that we would really like to see Albemarle County implement the Safe Schools Ambassador Program. It's already in use in 41 states and over 2,000 schools to reduce bullying in the school systems. It's research-based. It's been field-tested. The process is they recruit students in grades four through 12. They look for the social leaders, the social influencers, and they train them in how to defuse, safely defuse a bullying situation.  We know that students are present in the majority of bullying incidents, and this is their chance to step up and help often before teachers or administrators can even get to the scene. The study showed that the State Schools Ambassador Program decreases bullying and all the costs of the associated related suspensions. It increases attendance, it increases academic performance, it increases the respect for diversity, which goes on to our second point, diversity.  The special education advisory committee members are requesting that special education be considered in the culturally responsive teaching initiative. Our students, many of them have a culture of their own. If you Google autism culture, you'll get multiple results on autism awareness and neurodiversity organizations. The deaf and hard of hearing have had a culture of their own recognized for decades. And even ADHD has a culture of its own.  If you doubt that one, try attending their international conference and watch the attendees just come alive when they're surrounded by people who really understand them and who know what's going on in their world. They talk about overcoming challenges and they talk about adapting to their situations, but they also really celebrate their gifts. And folks with ADHD have a lot of gifts that often get missed in the typical classroom setting.  Our third priority is to include the SPED community in the contemporary schooling initiative. We had a wonderful presentation on what's coming up with contemporary schooling, but it worried us a bit to know that Murray and the Community Public Charter School are moving away from the mastery learning and into a new IB program. Our students with some challenges are losing a valuable opportunity for learning there. That mastery model worked particularly well for a number of our students with some disabilities.  If the SPED is included in the planning, we can make sure that all our students have a place in this new venture. It's exciting. We want to be involved. Our fourth priority is additional training for teachers and staff on ADHD and on the executive function challenges that come with it.  We hear this from parents, from students, from teachers, from administrators, that our schools really need more training in this. It affects all students with or without disabilities. That part of the brain that regulates executive function doesn't fully come online until about age 25 and sometimes later. So all of our students would benefit. Also, our students would benefit as the teachers gain a little better control of the classroom. If you're not having to stop  and work with those students who ADHD behaviors are disrupting learning, you get more time for teaching. And we're talking about approximately 11 percent of the students in our school system having ADHD. So every classroom is affected. Our final priority is ensuring that families get the information they need to work with the schools to help our students. Albemarle County Public Schools is leaving the Parent Resource Center, and a lot of us have counted on that resource.  We want to be sure that we get a parent-centered, student-focused, and most importantly, impartial source of information. I have two special education students of my own, and the process was initially terrifying and a bit contentious even. Once I knew how the process worked, I understood the acronyms, I was able to develop the relationship with the teachers and the administration, the entire process changed.  And I know for other parents, this process can go from frightening to uplifting when they know what's going on and how to work with the schools instead of feeling like we're working against them. As SEAC members, we hear this from a lot of parents frequently. The process is scary if you're not used to it and the acronyms are confusing.  That's the end of the presentation part. I do really want to say thank you so much to Kevin Kirst and Katie Kompel and the entire special education team for their exceptional support of our students and especially during this incredibly challenging time. Thank you to the school board for letting me present this evening.",
+    "speaker": "stephaniecarter",
+    "tags": [
+      "policy_proposal",
+      "request_action",
+      "prioritization",
+      "express_concern",
+      "acknowledge",
+      "cite_external_source",
+      "hedge",
+      "public_addressing",
+      "opinion"
+    ]
+  },
+  {
+    "start": 2019.682,
+    "end": 2047.8,
+    "text": " Thank you, Ms. Hicks. I really appreciate your coming and being a part of this. So thank you so much. I got a lot of notes on this. And Mr. Kearse, could I just ask you one quick question for the benefit of the board and of the public? Would you explain about what the Parent Resource Center is and why we're stepping away from that and how that's going to be, that void might get filled in?  Sure.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "public_addressing",
+      "acknowledge",
+      "clarify",
+      "defer_to_expert"
+    ]
+  },
+  {
+    "start": 2048.121,
+    "end": 2098.204,
+    "text": "So the Parent Resource Center is, I mean, it's a beautiful title, right? It's a center, a person provides services through the center for parents in our community. This year, and for years past, it has been provided by the Piedmont Regional Education Program. Deborah Anama is the Director of the Parent Resource Center at PREP.  Because of some of, well, it's nothing short of radical changes that the Virginia Department of Education has instituted just in terms of funding and securing funding for the Piedmont Regional Education Program with Albemarle County Public Schools, we had to restructure services. So we were looking as one of the,",
+    "speaker": "kevinkirst",
+    "tags": [
+      "give_update",
+      "clarify",
+      "cite_external_source",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 2100.175,
+    "end": 2115.973,
+    "text": " One of the services to bring in house was the parent Resource Center and we were going to we are our plan is to fill that service with someone in house for Alamaro County employee employees and for parents of children.",
+    "speaker": "kevinkirst",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 2117.084,
+    "end": 2132.773,
+    "text": " in Albemarle County Schools. Right now we share through PrEP that service with, I believe it's eight other surrounding school divisions, but we are looking to move that to Albemarle County Public Schools as a sole provider for Albemarle County families.",
+    "speaker": "kevinkirst",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "policy_proposal",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2134.596,
+    "end": 2140.948,
+    "text": "Great. Thank you very much. Do any other board members have questions for Ms. Hicks?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2142.768,
+    "end": 2162.974,
+    "text": " I guess I was just, I don't know if it's for Kevin or Stephanie. Are there any, what particular challenges are there right now for special ed students during this period of distance teaching, whatever we call it?",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "defer_to_expert"
+    ]
+  },
+  {
+    "start": 2163.975,
+    "end": 2171.104,
+    "text": "Yeah. I mean, Stephanie, you, from a parent perspective, you certainly could answer that one. Why don't you take that?",
+    "speaker": "kevinkirst",
+    "tags": [
+      "request_action",
+      "defer_to_expert",
+      "public_addressing",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2172.147,
+    "end": 2249.719,
+    "text": " I'm fortunate. It's a little easier in my house because my children are a little older and actually one of them is now in college upstairs, but in college. The challenges are that it's very hard to get the services in terms of speech or OT or PT. Some of those just really don't come across as effectively online, even if you've got the best person on the staff providing services. It's a tough one.  And our students are really rocked by the loss of the very dependable schedule, particularly students on the spectrum. They really count on that. They're missing their teachers, their classmates. They're missing knowing what's going to happen every day and knowing what's expected of them. And I know for us personally, our case manager has been wonderful. She's checking with us, checked with us multiple times before we even started distance learning. And she's had a Zoom conference with my daughter already.  And that does help, but unfortunate helps for my children. It's not helping for all children and for all ages. And we know they're trying so hard. We love our special education teachers, case managers, they're wonderful. But some of them have admitted that quite frankly, they're terrified. How are they going to give these wonderful services and this amazing education under this new system?",
+    "speaker": "stephaniecarter",
+    "tags": [
+      "give_update",
+      "express_concern",
+      "acknowledge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 2252.683,
+    "end": 2269.199,
+    "text": "Yes, wonderfully put, Stephanie.  Just regular barriers that children with disabilities have in our public schools are exacerbated when you can't be in the same space with them to provide all that Stephanie mentioned. So it's compounded.",
+    "speaker": "kevinkirst",
+    "tags": [
+      "agreeing",
+      "acknowledge",
+      "express_concern",
+      "opinion"
+    ]
+  },
+  {
+    "start": 2270.099,
+    "end": 2310.909,
+    "text": "I would also encourage that when we do start looking at moving back into a classroom, we help prepare these students. For some of them, it may be like starting school for the very first time.  these large gaps, when you think about when they come back in August after three months away, and that's three months that we anticipated and where their lives can go on as normal, we can expect to see some behavioral issues, some definitely executive function issues, getting back into the schedule, back into listening and following directions and planning to get their assignments done and working with teachers. We just need to know that that's coming so that our teachers  and our staff are not surprised.",
+    "speaker": "stephaniecarter",
+    "tags": [
+      "express_concern",
+      "policy_proposal",
+      "request_action",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2314.435,
+    "end": 2347.6,
+    "text": "Well, can I have a question for Kevin too? Just to reiterate, when we make the changes with PrEP, our students will not be affected adversely at all. All services that PrEP is now providing for us will be provided in-house, correct?  Yes, so the yes the to answer that, because I don't want to say any effect it's all services are level like we are not cutting services we are not pulling away from services on the issue would be right like value and.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "express_concern",
+      "defer_to_expert"
+    ]
+  },
+  {
+    "start": 2348.407,
+    "end": 2373.604,
+    "text": " We'll use Parent Resource Center. Is that as good as it was at the Piedmont Regional Education Program? That's different. Like we will provide the service, but that, you know, the value added pieces is what I'm looking to meet and enhance. But the level of service by no means is being decreased. No, we are not cutting services for children. We are moving them in-house. That's correct.",
+    "speaker": "kevinkirst",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "express_concern",
+      "reassure"
+    ]
+  },
+  {
+    "start": 2379.153,
+    "end": 2380.074,
+    "text": " Any other questions?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2381.696,
+    "end": 2431.074,
+    "text": "Just a comment. I'll be brief, Jono. The past several years with the special ed report, it has really focused on teacher education and not just the special ed teachers having a greater depth of professional development about special ed. And I thought it was interesting  And maybe Bernard can address this too, that it also be incorporated in this culturally responsive teaching initiative. These are all of our students and all of our teachers should have some of the skills at least that they need to deal with their particular learning needs. It's more of a comment.",
+    "speaker": "kateacuff",
+    "tags": [
+      "opinion",
+      "defer_to_expert",
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 2432.597,
+    "end": 2432.937,
+    "text": "Thank you.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2434.773,
+    "end": 2440.742,
+    "text": " Ms. Hicks, thank you for being with us tonight. We really enjoyed it and look forward to seeing you again soon.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2441.282,
+    "end": 2444.267,
+    "text": "Thank you for letting me join in. Have a lovely evening. Thank you.",
+    "speaker": "stephaniecarter",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2445.849,
+    "end": 2451.197,
+    "text": "Mr. Kurtz, you are up again with the special education annual plan.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2451.778,
+    "end": 2682.27,
+    "text": "I am. I'm presenting to you my annual plan for special education tonight for your review and consideration. It'll appear on the consent agenda, hopefully, without any issues in the future.  The plan is required. Why an annual plan? It is required in order for Albemarle County Schools to secure over $3 million in federal funding that flows through the Virginia Department of Education. So sometimes you may hear when we do budget, oh, that's flow-through money for special ed. That's where that comes from.  The annual plan that document, and it's relatively clunky right it's a product of the Virginia Department of Ed, although it does its job is broken into two essential parts, the first of which really involves Albemarle County Schools, the superintendent and the school board.  Assuring the state and federal government that we're going to comply with all applicable federal and state laws in doing our business that's both hiring and of individuals, including individuals with disabilities and educating children with disabilities. That's the first part. So it's just a host big list of assurances.  that we take seriously and we comply with. The second part of the document really goes into the accountability in terms of what our plan is for spending the money that would be awarded to us in this grant. And that second part has a few sub parts. Three main ones I just want to point out because sometimes it raises questions for the school board. The first of which is called coordinated early intervening services. And that's required when a school division has been found  to have disproportionate identification of children of minority groups in special education, over-identification, particularly in Alamaro County schools of students of the Black ethnicity group for various, a few, two or three categories in special ed. Therefore, we have to put 15% aside of that $3 million plus grant to,  try to prevent over-identification. We do that, we've done that for a number of years by funding intervention specialists around a little over six full-time equivalents that are broken out over all of the schools in Albemarle County.  The second part of the grant is what's called set aside. There's a calculation that's to be funded for kids that are unilaterally placed by their parents in private, parochial, or independent, or even homeschool programs in Albemarle County. These children are eligible for special education, and we do this fancy calculation. It's not a whole lot of money, but we set it aside. That's where its name comes from.  for their services. And that funds about, I'm looking to do two days of a special education teacher and some speech and language services for a small group of those kids. There's about 38 of them. And then lastly, is the remaining  a little over $2.5 million. And that, quite honestly, goes straight into staffing, special education teachers. It is the bulk of the grant award, and it is the primary support that drives our special education services in the division. And that approximately funds about 32 full-time  Special educators, depending on salary, right, and how we do all the calculations. But generally speaking, that's about 32 full-time teachers. That's my plan that I've put in front of you to review. And for any public comments, are there any questions?",
+    "speaker": "kevinkirst",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "public_addressing",
+      "request_action",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 2682.29,
+    "end": 2683.112,
+    "text": "I have a question.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 2683.652,
+    "end": 2685.055,
+    "text": "Yeah.",
+    "speaker": "cpitsenb",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 2685.075,
+    "end": 2709.012,
+    "text": "I don't know how to get my video on.  So for the money that we set aside for, because we over-identify certain subgroups, you're saying we've done the same thing pretty much every year. Have we ever thought about doing something different? What are the options? Has it improved at all? I guess I'm just, when I hear that, I wonder if we've thought about doing something.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "logistics_info",
+      "ask_question",
+      "request_action",
+      "clarify",
+      "express_concern",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2709.127,
+    "end": 2858.668,
+    "text": " So it has improved Katrina that that was one of the, especially early on response intervention. Now it's called a multi tiered system of supports. We saw a significant decrease in over identification.  that was quite inspiring, quite honestly, and a lot of great gains. We still continue to, and all of the schools are on board with progress monitoring, we have management systems for our support system, and we're close. When I've been reviewing the last two years, particularly three years, we're talking singular students, whereas before it felt  quite honestly, like overwhelming, right? Like 30 children in a group, how do you, you can't just go and find them not eligible, right? You can't kick kids out of special ed. So, but now we're getting to like singletons and it is incremental because that's the challenge is you can't just go out there and go, you know, you child, I have to knock you off the rolls because you're,  you're of a minority, it doesn't work that way. It goes into practices, and we've been addressing that head on through other means, not just RTO. As early as the first semester this year, we've been working on methodology, especially with speech and language pathologists, because one of the group were children of  Hispanic groups being found eligible for speech and language impairments. So we were looking at our practices of identification for speech and language impairments and brought someone in from John. Oh, I don't want to say because I just went blank in my brain. The teacher university down in New York City brought her up to do training on dynamic assessment.  And the same with school psychologists, looking at best practices with identification and working with teams. So we are looking at spreading out that issue, working with particular schools as well. So yeah, it's not all eggs in one basket, as much as trying to diversify where our efforts are.  But it's coming close. It really is in Singleton type children. We get our reports each year from the Department of Ed. So I'm really hopeful that pretty soon we can, it's not a have to, that we actually choose to do intervention specialists and tiered systems of approach in the school.",
+    "speaker": "kevinkirst",
+    "tags": [
+      "give_update",
+      "reassure",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 2858.688,
+    "end": 2861.972,
+    "text": "Thank you.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2861.992,
+    "end": 2869.338,
+    "text": "Any other questions?  Mr. Kearse, thank you very, very much. Thank you very much.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2869.358,
+    "end": 2870.32,
+    "text": "We appreciate it.",
+    "speaker": "meganwood",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2870.34,
+    "end": 2878.732,
+    "text": "Thank you. Next up is Away for the Day. And Ms. Collins.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2879.333,
+    "end": 2892.612,
+    "text": "I'll start this. We have Mr. Thomas and the middle school principals with us this evening to give the school board an update on this year's practice at our middle schools regarding cell phone usage. And I think Mr. Thomas, you'll start us.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "request_action",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2893.638,
+    "end": 3306.593,
+    "text": " Absolutely. Good evening, everyone. This is Jay Thomas, Director of Secondary Education. So we're here to talk about our Way for Today initiative that we did this year. So just quickly, a little background and research. A Way for Today is actually a national organization. And I have it linked here in the Google Slides that you can go to to see. But why did we get this started? A couple of our principals last school year, knowing that this is cell phones in our schools have been an issue for a couple of years now,  tried to pilot at the end of last year and some of their classes, what would it look like if kids were were told you have to put your cell phone away before you step into our classes, and they had success with that and so this past summer the principals and myself and Debbie got together and we.  worked out procedures that we would do to pilot this initiative division wide this upcoming year. So the first thing we did is actually developed out a white paper on the wide again that's linked here having some research about the benefit of putting the cell phone away and and why we would ask folks to put the phone away during the school day.  And we actually did a survey later, we'll share with you some of the results of those WISE. What we did is we developed out some common practices and protocols. So the procedures at each of our middle schools are all the same for this initiative. They developed out common language that each of the middle school principals put in their middle school handbook. So it's the same language that went out to all of our students and families. We notified all of our families through Blackboard Connect  prior to the beginning of the school year that this practice was going to happen. And they actually started it after Labor Day. And from the time that school started until Labor Day, they actually had an adjustment period for students and really developed out some slides and through their developmental design or other times, really took the time to sit down with the students in the classes and explain to them why they're going after this initiative division-wide as a pilot.  so that the kids understood. It's not just saying put your cell phone away, they were telling them why it's important to have that cell phone away and be present in your classes during the day. So the initiative is actually during the school day, so it's from 9 to 4.05, so the students can still bring their cell phones. They can use them on the bus before school, on the bus after school.  And there's some other exclusions we'll talk about that we allow them to use your cell phone for as well but once that tardy bell rings until the end of the day at 405 the kids are expected to have those cell phones away, hence away for the day.  Naturally, with any initiative that you do, there's going to be either some pushback or some people, the students that have some different opinions on having their cell phones out. Our principals were very proactive and wanted this not to be punitive in any way, shape, or form as far as suspensions for students. So again, they were really proactive up front, advertising this to families, doing lessons with the students.  And really, it's coming down to when a staff member or a student, for the most part, says, hey, put your cell phone away. If they see it, they are very compliant. Each school has had three to five incidents max of students who were repeat offenders. And for those cases, all they did is ask the kids to come in, sit down with them, have a conversation, try to build a relationship with a student, helping them understand why they need to have those cell phones put away.  And they've called the families and the families have been extremely supportive. So again, when you look at, you know, 75% way through the school year only having three to five multiple incidents among kids. That's really, really successful. So we talked earlier about the practices and procedures.  for during the day but we allow the kids to bring the school, the phones to school as we talked about but the phones are allowed to be used for any after school events there's our kids stay after school for just a plethora of reasons. And so we don't want to minimize the safety needs or the need to have those phones after school.  So for wherever they are, they can have those phones and also we had a conversation about field trips. And we all felt it was really important to actually allow the students to have their cell phones or devices on field trips for multiple reasons. One, it's just a great way to be able to document your trip or your experience. Taking pictures, being able to take notes on your phone.  And additionally, gosh forbid that the student turns the wrong corner or gets lost in a store or location that they are, they have quick, easy access if they have their phone to be able to get ahold of somebody and be safe. So what our principals have done now is spent some time before field trips and the teachers have had conversations with kids about what's the proper phone etiquette for this trip we're going on. When would it be appropriate to pull it out or not pull it out and why?  I talked earlier about, when we talked about some of the whys, we're asking students to put that away. We asked our teachers about halfway through the year, four big questions we really wanted to collect some data about. And we used a Likert scale that you can see up here. It goes from agree to disagree. And here are the four questions. 92% of our teachers, this survey went just to teachers, 92% of our teachers felt like distractions in my classroom had been minimized. They either agreed or somewhat disagreed with, or somewhat agreed with that.  Again, 92% of our teachers felt like students are better able to focus in classrooms. 78% of our teachers taking the survey agreed or somewhat agreed that there seems to be fewer instances of cyber bullying. And 86% of our teachers felt like student interactions with each other in the classroom  is happening more because the cell phones are put away. So again, that's feedback we got from our teachers halfway through the year, which makes us feel like in their eyes, they're seeing some big improvements with the practice. So what are our next steps? Well, as we did a survey with the teachers, we would like to get a survey out to our students and families once we end the school year here and see what they think about how the Away for the Day practice is going in our middle schools.  We are, we've been talking and meeting regularly as a middle school group and we're considering revisions of some language for next year we're waiting until we get some feedback from the families and students as well but smart watches and Bluetooth other Bluetooth devices are starting to become a distractions in place of cell phones. So, we might expand the.  the pilot to include those smart watches and Bluetooths as well. So we'll do all that at the end of this year and re-look at our language as we implement it again for next year. So actually all of our principals are with us today and they're gonna start out. We'll start out with Jim Asher, but we're gonna introduce themselves and share one highlight or comment from each of their schools.",
+    "speaker": "jaythomas",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "policy_proposal",
+      "follow_up_request",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3308.837,
+    "end": 3364.437,
+    "text": "So good evening, school board members. I'm Jim Asher, the principal at Burleigh.  And I'm just gonna add a little information about when we rolled this out the away for the day at the start of the school year, which now seems like a lifetime ago. But at that time we did hear a great deal of support from parents, but we also did hear from some who took issue with the program. But in speaking with those parents, it was really a misunderstanding because some thought that phones were banned from the school.  And they were a little worried about their student, for security reasons, making sure they had the phone at the end of the day. So once we talked that through and they realized that it wasn't that the phone was banned, that they could bring it and the phone just had to be off and away, then that really worked out everything. The misunderstanding was cleared up. And really, I think we just about had, if not total support of the program.",
+    "speaker": "jimasher",
+    "tags": [
+      "give_update",
+      "clarify",
+      "reassure",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3369.817,
+    "end": 3401.102,
+    "text": " Good evening. I'm Megan Wood from Sutherland. And I would just like to reiterate what Jim was saying in terms of parent support. At the beginning of the year at our open house and back to school night, I got a lot of comments from parents after my presentation about how much they appreciated the way for the day. And I got emails from parents. And so I've received a lot of feedback from parents that were really positive about how thoughtful we were about the cell phone usage in the school and how much they really appreciated.  on what we were doing.",
+    "speaker": "meganwood",
+    "tags": [
+      "public_addressing",
+      "give_update",
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 3416.221,
+    "end": 3508.06,
+    "text": "One thing that struck me very early on was my first year to my fourth year and how much it seemed as if kids were more reliant on their phones and how things like  lunch and lunch recess and recess, it was more of a fight to get them off their phones to interact with each other. And so this past year threw away for the day, I got a lot of comments from teachers and you saw 86% of teachers said that they felt their classroom interactions improved amongst peers. I will say that at lunch and at recess,  I've gotten a lot of feedback from teachers and parents speaking on behalf of their student saying that instead of 10 kids sitting at a lunch table and half of them being on their phone to check Instagram or Snapchat or whatever, they're now having improved communications and interactions with each other. And then, like I said,  We have lunch recess. And so instead of kids staying inside during lunch to be on their phones or continue whatever they were doing, they're now getting outside and having a better outdoor experience. So all in all, just that unstructured time where kids don't just reach for their phone because now they can't, they are now improving their interactions with each other. And I feel like the mood has dramatically increased. Thank you.",
+    "speaker": "bcostakalbemarleor",
+    "tags": [
+      "give_update",
+      "opinion",
+      "express_concern",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3512.41,
+    "end": 3599.87,
+    "text": " Thank you, Beth. Good evening, school board and everyone else. I just wanted to add that we had a culture of using phones in proliferation at Walton prior to this, and some for good and some for not so good, obviously, as a distraction. So teachers were begging for this, but one of the things that happened when we implemented it, they were very thankful, but they also were concerned because there were times when  kids could use their phones for educational purposes. So we did develop some ways that some protocols for making sure they did that thoughtfully. For example, yearbook class, students would use their phones to take pictures of various things around the building. It was just sometimes a lot easier to use their phone than the yearbook cameras. Or for things like Google Expeditions, having student phones adds to the ability to have more expeditions happening in a classroom.  So we developed protocols where there were press passes and those kinds of things so that students could continue to use their phones and do it thoughtfully. And that also included things like field trips. We certainly don't want to send kids to DC who've never been there before and not give them the opportunity to take pictures and bring back memories. So all in all, we've seen a lot of good come out of this in terms of less distractions while also balancing that with what we know are some good educational reasons to have cell phones.  Thank you, Josh.",
+    "speaker": "joshwalton",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "reassure",
+      "public_addressing",
+      "opinion"
+    ]
+  },
+  {
+    "start": 3603.496,
+    "end": 3672.063,
+    "text": "All right, good evening, school board members and everyone else. I'm Ashby Johnson. I'm the principal over at Jewett. I just want to thank you all again for supporting us and allowing us to do this this year, the Away for the Day. We at Jewett have seen a significant decrease in the amount of issues or conflict that are brought to our attention that happen  or previously happened during the school day as a direct result of social media or texting or just some sort of cell phone related issue. We've seen a significant, significant drop in that this year, just in terms of the things that we have to deal with or mediate that come along with just the middle school age and sort of the social drama that comes with it. So by taking the cell phone away, it's really helped us and our kids to be able to stay focused on the learning as opposed to  the social aspect during the school day. So we at Jewett, and I know the other middle schools as well, have just seen, have been very grateful that the cell phones are put away and we don't have to worry about the distraction that comes along with them. So I appreciate that. And thank you guys again so much.",
+    "speaker": "ajohnson",
+    "tags": [
+      "give_update",
+      "public_addressing",
+      "acknowledge",
+      "reassure"
+    ]
+  },
+  {
+    "start": 3677.711,
+    "end": 3782.832,
+    "text": "Any questions? One, Chad Ratliff coming from Community Public Charter School.  I'm just, I just wanted to say that we saw exactly the same results as you've heard from the comprehensive school principals, overwhelmingly positive from teachers, students, and parents. It has been just a huge change for the better for us and to add even a couple other dimensions to it and a couple other perspectives as a parent of a seventh grader myself,  I actually saw a little bit of the peer pressure to even have a phone subside. It was a little less this year than it was last year here and at home. And when thinking about the difference and how much less time I spent with the middle school on, particularly as Ashby mentioned, that cell phone drama with middle school students compared to last year,  I also having a high school in the same building, it was also a noticeable difference in how much time in the day that we would be spending not talking to middle school students about cell phone usage, the drama or the inappropriate times, but continuing to talk about those things with high school students. So it was kind of an interesting thing for me to see both of those things in the same building.  But in sum, I just wanted to thank the board on behalf of all the principals and the central office for letting us get together and put this together and give it a try. And I think it was very successful. Thank you.",
+    "speaker": "chadratliff",
+    "tags": [
+      "give_update",
+      "opinion",
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3782.852,
+    "end": 3828.663,
+    "text": "Just in closing, before we take a couple of questions from you guys, I honestly, I mean, publicly, I think I've said I had a lot of concern about this initiative when we piloted this at the beginning, and just that it might cause a lot of problems.  And I told at least one of the principals that, that I was concerned. And the principals did a wonderful job of working together, of communicating to all of their stakeholders, their teachers, their students, their families, the why behind why they wanted to have these cell phones put away. And it's been a very wonderful, very pleasant experience this year so far with our students and our staff. So if you guys have any questions, I know they're all available to help answer any specific questions you might have.  Any questions from the school board?",
+    "speaker": "jaythomas",
+    "tags": [
+      "give_update",
+      "express_concern",
+      "acknowledge",
+      "defer_to_expert",
+      "ask_question",
+      "procedural_move",
+      "reassure"
+    ]
+  },
+  {
+    "start": 3828.683,
+    "end": 3832.583,
+    "text": "Jay, is there any particular reason to limit it to middle school?",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 3833.153,
+    "end": 3862.722,
+    "text": " No, the pilot this year was the middle school principals coming to me and Debbie and asking, hey, is this something that we can do? And so we met with them and strategically went through the process of developing everything we shared with you. About a month ago or so, we have shared the results with the high school principals to ask them if they were interested in piloting this as well. So those conversations have begun at the high school about whether we would move that way or not.",
+    "speaker": "jaythomas",
+    "tags": [
+      "give_update",
+      "clarify",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 3867.545,
+    "end": 3904.913,
+    "text": " I have one question, and that is, I guess it's more of a comment, is that after a couple more years, all three of the grades that are sixth graders this year, they'll all be gone. And the kids who are coming up will just know that when you get to middle school, you can't have your cell phone. And then it's just going to be part of the culture. And I think that that's going to be, that'll take a lot of pressure off  of everybody because not only will the students know, the teachers obviously will know, but their parents will know as well. Absolutely.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "opinion",
+      "reassure",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3906.916,
+    "end": 3940.163,
+    "text": "You could also, I mean, it strikes me that if we were, if we were, my life might be in danger if we said high school kids couldn't have their cell phones with them. I have a 16 year old, but it might, would it be feasible to do it on like a  a like a day a week, or maybe, you know, from nine until 11, or something like that. So you're not saying hey, look, high school kids can't have their cell phones, but give them a break. Yeah. Does that make sense at all?",
+    "speaker": "davidoberg",
+    "tags": [
+      "policy_proposal",
+      "ask_question",
+      "opinion",
+      "hedge",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 3940.504,
+    "end": 3992.44,
+    "text": "Absolutely, Dave. And that's a that's a that's a great, great comment. And I think you're hitting the nail on the head. We've had a  We've had a lot of conversations with the high school, high schools around us or I have at least started calling some of my friends that are high school principals and there's a handful of places that are doing it and they're all doing it a little differently. So that's the conversation we started with principals last week. Is this something you want to do or not?  What would it look like? How would we do this without following something similar to the middle school folks? Not having this be punitive as far as discipline and what would be the yin and the yang of when you could use it, when you couldn't use it. So we literally just started those conversations before we went out with the COVID-19. So I know we'll continue those conversations with the high school folks as well to see what that looks like at the high school and what we might wanna try to pilot, whether it be this upcoming year or next year.",
+    "speaker": "jaythomas",
+    "tags": [
+      "acknowledge",
+      "agreeing",
+      "give_update",
+      "reassure",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 3998.528,
+    "end": 4018.166,
+    "text": " Any other questions? Mr. Thomas, to all the principals, thank you so much for being with us this evening. I think this is a great program and we hear a lot about new normals. I have a feeling this will be one of our new normals within the system very soon. Thank you.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "acknowledge",
+      "opinion",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4018.526,
+    "end": 4019.367,
+    "text": "Absolutely. Thank you, sir.",
+    "speaker": "jaythomas",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 4023.27,
+    "end": 4031.1,
+    "text": "OK, next up is the  the 2021 budget development update. Ms. Schmidt.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4031.587,
+    "end": 4132.502,
+    "text": " Rosalyn Schmidt, Chief Operating Officer. Good evening. I'm going to provide a brief intro as Ms. Kumazawa brings the slide deck up. She's going to provide a brief update on our budget development process for next year. I know we're all anxious to get into the numbers, but tonight, with the exception, I think, of one slide, we're going to talk about process and priorities. Staff is diligently analyzing scenarios and options and planning next week's work session with a lot more detail.  As Mr. Alcaro stated at the beginning, we're going to be spending a lot of time the next couple of weeks, and there'll be budget updates along the way. But next week's work session will be in depth on the figures. So before I hit it off, just a quick update on the current fiscal year, fiscal year 20. As you recall, we presented that we are anticipating some revenue decreases in our current year.  So in anticipation of those decreases, this slide shows the strategies we're employing to manage that reduction. And due to the uncertainty of everything, we are just making all efforts to retain as much fund balance as possible as we close out this year. So these are some of the items going on right now, including evaluating discretionary spending. We have all schools and departments forecasting purchases. We are continuing to compensate all regular employees.  but we have frozen hires and current vacancies. Continuing to monitor revenues. And again, our goal is to end this year in as conservative manner as possible. So with that, I'll hand it over to Ms. Kumazawa to talk about the next fiscal year.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "prioritization",
+      "procedural_move",
+      "reassure"
+    ]
+  },
+  {
+    "start": 4147.535,
+    "end": 4465.615,
+    "text": " Hi, sorry. I am Maya Kumazawa, Director of Budget and Planning. Can you hear me? Okay. I'm going to jump right into FY21 and starting on the revenue side. What you see here on the slide are estimated revenue changes for FY21 as they currently stand. These still may change as there is still a lot of uncertainty, but we thought we would update you as best as we could  at this point in time. The estimates were actually just developed today using the latest information released by the VDOE. The dollar changes you see here are presented in two ways. If you take a look at the first row, you can see the change from what was adopted in your balanced funding request for FY21. We thought that since your funding request represented a needs-based budget, it made sense for you to compare where we are now  which is a $15 million total decrease from where we were not even two months ago. In the second row, we've shown here the change in revenues when compared to the current year FY20 adopted budget. We're currently estimating that in order to develop a new balanced budget, we will need to cut our expenditures by about $1.8 million, as you can see in the bottom right,  from the current FY20 year. Keep in mind that we have under-projected enrollment for the FY20 budget. So that means we have to find ways to distribute that $1.8 million loss in resources for next year when we're at the same time facing an enrollment growth of 500 students. Even before we had these revenue updates, we've been scrubbing the budget and working on various scenarios and alternatives.  I want to provide you with a little bit more detail about what came out in the governor's budget and what went into our state estimate, which is still subject to change. The governor this week released his revised budget, and it mostly represents what I would consider a best case scenario. This is mostly due to the fact that SOQ re-benchmarking was maintained, which means that basic aid funding and revenues tied to the LCI  our enrollment growth and the increasing costs of SOQ-funded positions remains mostly intact. There were some reductions made, most notably a portion of an increase in at-risk funding and a compensation supplement, as no compensation increases are being recommended at state and local levels. The largest uncertainty as it relates to state revenue  is our portion of state sales tax revenue. Our current estimate assumes sales tax revenue that is 60% of the original forecast provided by the state. Again, this is highly preliminary and we continue to analyze the best estimate for this as the state has indicated that they would not be re-forecasting their estimates at this time due to too much uncertainty.  Switching gears now to expenditures and the development of our expenditure side of the budget. Staff is working on a revised budget, building it from the ground up. And in order to do this, we wanted to provide some priorities that we've listed here on the slide for your review and feedback.  This is the most important step for you in developing a budget since we will use these as guiding principles when making difficult decisions. There are student learning and equity. These priorities have not and will not change as they serve as the foundation of our strategic plan in any economic circumstance. Other priorities listed here are keeping current employees employed,  building in contingencies to build that resilient budget and continuing stakeholder engagement efforts. Finally, I wanted to share our updated budget calendar for the next month. It'll go by very quickly. We're here today and have shared with you the estimated impacts of the governor's revised budget.  Hopefully beginning tomorrow, we'd like to release a budget survey for about a week to receive the community's input on high-level items like our budget priorities. And then on April 23rd, as Rosalyn mentioned, your work session will be focused solely on budget development. And we plan on coming back to you with revenue updates if there are any, and more specific expenditure recommendations and scenarios for discussion.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "policy_proposal",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 4466.776,
+    "end": 4476.885,
+    "text": " After that, we plan on finalizing the budget and coming back to you on May 7th with a recommended budget for your consideration alongside public comment.",
+    "speaker": "kevinkirst",
+    "tags": [
+      "give_update",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 4477.506,
+    "end": 4531.314,
+    "text": "Please note that this is a new date that we're proposing on May 7th there. A week later, both the school board and the board of supervisors are scheduled to adopt the FY21 budget, which would meet our deadline per state code to adopt by May 15th.  And then lastly, listed here is the June 3rd budget appropriation. And if there are any initial amendments to be made since the May 14th date, say we get new information or we find something else, there will be an opportunity to make amendments at that time. So that's it for now. If there are questions you have, or if you'd like to discuss anything,  turn that over or pull back if you, if there are any other slides you want me to pull back up I can do that.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "follow_up_request",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 4535.461,
+    "end": 4549.565,
+    "text": "I just want to say I think we jinxed ourselves by having a balanced budget. We were so pleased with ourselves because we, yay, we did the balanced budget.",
+    "speaker": "davidoberg",
+    "tags": [
+      "opinion",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 4550.247,
+    "end": 4599.169,
+    "text": "Yeah.  Well, there's still a lot of work to do. And Ms. Kumazawa, I appreciate your taking us through that. And Ms. Schmidt, next week's going to be a busy session. And I understand there's going to be about a 20 or 25 minute presentation. Then the rest of the time is conversation. And so anything you can send us during the week.  you know, in terms of information and ideas and things that you're thinking about that we can be, you know, chewing on as well and help us get prepared, I think would be greatly appreciated by everybody. Any other questions, comments?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "logistics_info",
+      "request_action",
+      "follow_up_request",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4601.332,
+    "end": 4629.69,
+    "text": "Just, I mean, our assumptions for the budget are  that we're going to start some sort of, I've heard suggestions from senior staff that we may, if everything was hunky-dory, even start school earlier. This is all based on the normal start date, plus minus whether we're in person or not, correct? I mean, we're not",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "hedge"
+    ]
+  },
+  {
+    "start": 4630.548,
+    "end": 4646.793,
+    "text": " Well, that's as you can tell, we intentionally did not show any expenditure assumptions. So we're just showing the revenue side of it. As we mentioned, scenarios and options, those are all things we have to take into account with what our calendar looks like. So yeah.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "clarify",
+      "give_update"
+    ]
+  },
+  {
+    "start": 4646.973,
+    "end": 4651.48,
+    "text": "Yeah.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 4651.5,
+    "end": 4655.6,
+    "text": "OK, well, we will see you all next week.  If I could just clarify.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "logistics_info",
+      "clarify",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4656.301,
+    "end": 4681.598,
+    "text": "So as we are going to push out a survey and what we are surveying our community is on those priorities. And so we would just like your feedback on the priorities that she presented, the student learning, equity, current employees, contingency and stakeholder engagement. That's what our survey is going to be based around. So if you have any additional feedback on that before we push that out to our community, we'd appreciate it.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "request_action",
+      "prioritization",
+      "logistics_info",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 4684.717,
+    "end": 4707.159,
+    "text": " And I think in part what you're asking for Rosalyn and correct me if I'm wrong is you're looking for us to give an approval. We don't need to vote for it, but just to be in favor of sending that out. Yeah, we're just looking for a nod that these priorities, you would be in agreement with that these should be guiding our recommendations and decisions.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "clarify",
+      "request_action",
+      "ask_question",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 4709.001,
+    "end": 4711.483,
+    "text": "Yes.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 4712.847,
+    "end": 4715.01,
+    "text": " Other thoughts, other comments? Yes.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4716.512,
+    "end": 4742.77,
+    "text": "OK. I just have a factual question. I know we are, historically, we're in the teacher hiring situation. And we're talking about, well, this school year, freezing. But what are we doing at this point with respect to hiring new teachers, which is our biggest expense is our staff, of course.",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 4743.593,
+    "end": 4785.357,
+    "text": " At this point, we've asked all of our principals to hold in the hiring process to give us... Sounds like Claire somewhere. Yes, I'm here. This is Claire Kaiser, Assistant Superintendent. We've asked all of our principals to hold in the hiring process. We were at the point where we had made just a handful of external offers of still working through some transfer processes.  And we are hopeful that as we come to a closer consensus on what we're looking at and the impacts on staffing, that we'll be able to lift those freezes kind of situation by situation as we move forward. But for right now, everything is on hold.",
+    "speaker": "clarekeiser",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "reassure",
+      "clarify"
+    ]
+  },
+  {
+    "start": 4787.86,
+    "end": 4788.34,
+    "text": "Thank you, Claire.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4791.063,
+    "end": 4803.661,
+    "text": "Any other questions from the board or any concerns about sending out the survey? Or can we just say, let's do it?  OK, I'm sorry, was there a question?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4804.082,
+    "end": 4805.146,
+    "text": "No, I just said, let's do it.",
+    "speaker": "kateacuff",
+    "tags": [
+      "clarify",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4805.647,
+    "end": 4811.306,
+    "text": "OK, I think we've got to go ahead, Rosalyn. Let's move forward with it.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move",
+      "request_action"
+    ]
+  },
+  {
+    "start": 4812.309,
+    "end": 4812.65,
+    "text": "Thank you.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4813.573,
+    "end": 4824.515,
+    "text": "OK, thank you.  COB, Steve Armstead --\"And next up is the Red Hill addition and renovation phase two, capital funding requests.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4825.116,
+    "end": 4970.599,
+    "text": "Rosalyn.\" Yes, this is mine as well. I don't have any slides for this. It's a brief update, but before I speak about the Red Hill project specifically, I want to provide a brief  update on CIP. That update is that at this point, no major decisions have been made. We're working very closely with local government staff to debate the best, most conservative path forward and debating what critical projects should proceed in these uncertain times. So again, no decisions have been made. We're monitoring cash flow and just taking this step by step. But in the short term, we're keeping projects  on track to ensure that nothing slips in the event that they do get a green light. So as you know, two of our major FY20 capital projects are the planned addition onto Red Hill and a planned addition on Scottsville. So both are in monitor phase right now, but we want to make sure  That if they get the green light, we're good to go. So this one specifically around Red Hill, the item is for information only. It'll be on your consent agenda next week for action. So this is just considered your first read. And of course, it's also obviously contingent on the project proceeding.  So if you recall, when we presented the design for Red Hill, we first shadowed some potential budget challenges. Nothing due to any scope creep, but just rather the small nature of that project and how it was initially budgeted. So bids were received on Monday. Unfortunately, the project did come in over budget. But the good news is that the Scottsville project bid a couple of weeks ago and was under budget pretty significantly. So we are recommending that the  the board request money be transferred from the Scottsville project to the Red Hill project. This would take Board of Supervisor approval. We didn't have the specific amount when the agenda item was posted, but I have it now and it will be a part of the agenda item next week. The amount we're requesting is $919,748, so just about $920,000.  About half of that is the add alternates for that project, including that stage addition, if you recall that, and some restroom upgrades. So by transferring that full amount, that would allow all additive alternates to be accepted. But again, this is for information only. And so are there questions or comments before this is put on the consent agenda next week?",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "request_action",
+      "follow_up_request",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 4974.072,
+    "end": 4984.825,
+    "text": " Most projects will proceed, but it's just that since Scottsdale is under and Red Hill is over, the two sort of balance each other out.",
+    "speaker": "grahampaige",
+    "tags": [
+      "give_update",
+      "reassure",
+      "clarify"
+    ]
+  },
+  {
+    "start": 4985.26,
+    "end": 5024.254,
+    "text": " At this point, we don't know if either project will proceed at this point. We're still in a monitor phase. We just wanted to get these actions put in place in case it gets a green light, because this will be on your agenda for action next week. And then the Board of Supervisors action for May 6. So there's a series of meetings just to have this financial action. But again, there's no direction on whether the projects are going to proceed or not at this point. We'll know in the next couple of weeks.  I had a question, and perhaps the train's too far down the track, but since we can't anticipate or we think that there might be some kind of recession, is there any way to re-bid?",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "ask_question",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 5024.494,
+    "end": 5036.527,
+    "text": "You know, it's kind of, since it's a changing time, do we go off of a bid that was put in when we were in a different financial situation, an economic situation, or can we get these projects re-bid, or is there too much sunk cost already?",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "clarify",
+      "request_action"
+    ]
+  },
+  {
+    "start": 5036.907,
+    "end": 5050.136,
+    "text": "So there's a couple different  purchasing regulations that allow rebid so we could look into that. I would say the Scottsville bid was very favorable. So I would not recommend going out on that one. Yeah, I don't want to rebid that one.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "clarify",
+      "request_action",
+      "opinion"
+    ]
+  },
+  {
+    "start": 5050.156,
+    "end": 5052.699,
+    "text": "I want to rebid on the bid though.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "request_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5053.16,
+    "end": 5072.295,
+    "text": "The challenge is we are so cyclical in our school years and getting work done in the summer, you wouldn't have time to rebid and start the work in the summer. So we do have that option to rebid, but it would delay when the work could start.  we wouldn't have time to rebid it, get it under contract and be able to start in the summer.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "logistics_info",
+      "clarify",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 5073.256,
+    "end": 5080.143,
+    "text": "So how does this work with the uncertainty of whether or not we're going to go forward? When are we going to have clarification on that? I mean, it sounds like it might be delayed anyway.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "express_concern",
+      "follow_up_request",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5080.944,
+    "end": 5083.026,
+    "text": "Correct. So that's, uh, we'll know in the next couple of weeks.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "acknowledge",
+      "give_update"
+    ]
+  },
+  {
+    "start": 5085.609,
+    "end": 5093.618,
+    "text": "And would we still be able to make a decision at that point to rebid? Uh, maybe, maybe we don't want to rebid. I just, I've heard, you know,",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "ask_question",
+      "hedge",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 5094.56,
+    "end": 5097.928,
+    "text": " Yeah, over and now there's a completely different economic situation.",
+    "speaker": "bcostakalbemarleor",
+    "tags": [
+      "acknowledge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 5097.988,
+    "end": 5127.404,
+    "text": "So these bids were received on Monday. So it's a, it is a recent bid. These are contractors who were placing bids right in the middle of this uncertainty. I will say we, the  The next highest bid was within $1,100, which is a very, very narrow margin. So that's also an indication of people being aggressive and also a good set of plans as well. We do have the opportunity to negotiate with the lowest bidder, which we will do as well.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "reassure"
+    ]
+  },
+  {
+    "start": 5130.529,
+    "end": 5133.574,
+    "text": "Thank you.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5133.594,
+    "end": 5147.495,
+    "text": "I just want to say that  With the transfer from Scottsville to Red Hill, I'm very pleased that we're able to do all the options that were presented earlier, the stage. That was just a much better outcome.",
+    "speaker": "kateacuff",
+    "tags": [
+      "opinion",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5149.058,
+    "end": 5149.438,
+    "text": "I agree.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "agreeing"
+    ]
+  },
+  {
+    "start": 5152.784,
+    "end": 5176.779,
+    "text": "Other comments? Thank you, Rosalyn. Thank you. OK, we'll look forward to seeing that on the consent agenda next week.  OK, does anybody have any other business? Any other board members? OK, I think that with that, we are adjourned. Thank you, everybody.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "acknowledge",
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 5177.681,
+    "end": 5178.422,
+    "text": "Thank you, John.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5178.923,
+    "end": 5179.123,
+    "text": "Thank you.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge"
+    ]
+  }
+]

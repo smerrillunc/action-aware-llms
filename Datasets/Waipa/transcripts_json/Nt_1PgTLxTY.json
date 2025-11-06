@@ -1,0 +1,145 @@
+[
+  {
+    "start": 5.637,
+    "end": 6.298,
+    "text": " Hi Gary.",
+    "speaker": "garyderbyshire",
+    "tags": []
+  },
+  {
+    "start": 9.459,
+    "end": 33.415,
+    "text": "Hey guys, how you doing? Good. A little technical hiccup. Live streaming on YouTube now by the looks of it. So we can't swear any longer if something goes wrong. Apparently not.  But all mine, Ps and Qs, please.",
+    "speaker": "angeholt",
+    "tags": [
+      "public_address",
+      "procedural_move",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 34.516,
+    "end": 43.641,
+    "text": "I'll do that. Hi, Joe.",
+    "speaker": "garyderbyshire",
+    "tags": [
+      "confirm_next_step",
+      "agree"
+    ]
+  },
+  {
+    "start": 44.501,
+    "end": 45.502,
+    "text": "Hi. Hi, Gary.",
+    "speaker": "angeholt",
+    "tags": []
+  },
+  {
+    "start": 46.182,
+    "end": 111.058,
+    "text": "G'day, how's it going, Lou, all right? Good, good, good. How's yourself? Yeah, pretty good. Can't complain. Dying to get back to work. I see there's more and more cars out there at the moment. Getting a bit slack on it, I think.  yeah yeah yeah i'm busy five days a week i'm not lily hayward when you realize that right i've got it um how am i gonna thanks joe i've got it great just got to work out how i've rearranged myself now i thought i was so smart as well yeah  Is this it Joe, everybody who's meant to be here?",
+    "speaker": "garyderbyshire",
+    "tags": [
+      "ask_question",
+      "provide_information",
+      "procedural_move",
+      "public_address"
+    ]
+  },
+  {
+    "start": 112.158,
+    "end": 115.12,
+    "text": "We've got Richard. Richard's missing.",
+    "speaker": "angeholt",
+    "tags": [
+      "report_back",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 118.761,
+    "end": 119.702,
+    "text": "Are we still trying to log on?",
+    "speaker": "garyderbyshire",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 144.564,
+    "end": 192.995,
+    "text": " I suppose we probably should start should we because in case there are some keen people watching us on live stream so welcome everybody and hello to anyone that has joined us for the live stream we've hopefully actually got a nice short meeting this afternoon so first off can I ask for apologies please  No, no and apologies. So we can move on to disclosure of members' interests. So can I just remind everyone that if you do have any interest in any of the things that we're about to discuss, where a conflict would arise, can you please let us know about those now? All good for me.",
+    "speaker": "angeholt",
+    "tags": [
+      "public_address",
+      "procedural_move",
+      "ask_question",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 194.267,
+    "end": 201.41,
+    "text": " Madam Chair. Oops, something's got stuck.",
+    "speaker": "garyderbyshire",
+    "tags": [
+      "procedural_move",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 201.87,
+    "end": 209.494,
+    "text": "So that was me. Sorry, that was me. Feedback, I've changed devices. Oh, okay. All right, go again, Gary.",
+    "speaker": "angeholt",
+    "tags": [
+      "procedural_move",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 209.834,
+    "end": 211.635,
+    "text": "Yeah, no, I'm all good. Thanks very much, Madam Chair.",
+    "speaker": "garyderbyshire",
+    "tags": [
+      "agree",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 212.155,
+    "end": 293.188,
+    "text": "Okay, thank you. And everyone else is happy? Yep. Okay, no sound must be a good thing. Right, item four, late items.  Sally, are you, or Joe, I presume we've got no other, no late items to add this afternoon. Okay, so can I please have someone move that the order of the meeting be confirmed as outlined in our agenda? Lou, I've got another waiver. Gary, thank you. Oops, hang on, I've just got to swap mouses.  OK, so our next item, of course, is our draft annual plan submission. Now, I'm not going to read through all of that for you because seeing as that was the only thing on our agenda, I assume you all have read that. So we probably can most likely just jump down to our recommendation.  Well, actually, firstly, is there anything anyone wanted to change in that or are we all, in essence, happy with what's outlined in that report for our submissions?",
+    "speaker": "angeholt",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 293.928,
+    "end": 311.813,
+    "text": "No, I'm all good with everything as it's been modified slightly. So no, I'm all happy with that. Madam Chair had a really good read through it. So plenty of consideration given to the submissions. Unless somebody has got something there that they'd like to raise issue one, I'm OK with it.",
+    "speaker": "garyderbyshire",
+    "tags": [
+      "agree",
+      "summarize_outcome",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 312.472,
+    "end": 362.855,
+    "text": " Okay, lovely. Anyone else? Okay, let's get on then. So our recommendation is that A, the information contained in the report Te Aumutu Community Board Draft Annual Plan Submission of the Chairperson of the Te Aumutu Community Board, Angela Holt, be received, and B, the Te Aumutu Community Board approve the draft submission on the 2020-21 Annual Plan included in this report for submission to Waipa District Council  by Friday, 24th of April, 2020. So can I have someone to move that for me, please? Cain, thank you. And to second it, Jill, super. Done and dusted. So I'll just, that pretty much will close our meeting then. I like that.",
+    "speaker": "angeholt",
+    "tags": [
+      "procedural_move",
+      "confirm_next_step",
+      "summarize_outcome",
+      "close_discussion"
+    ]
+  }
+]

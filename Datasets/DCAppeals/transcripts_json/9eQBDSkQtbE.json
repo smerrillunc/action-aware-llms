@@ -1,0 +1,2289 @@
+[
+  {
+    "start": 3.307,
+    "end": 20.328,
+    "text": " All persons having business before the Honorable Associate Judges, now presiding over District of Columbia Court of Appeals, draw near and give your attention. God save this United States, and this honorable court is now in session. Please come to order.",
+    "speaker": "courtroomclerk",
+    "tags": [
+      "court_opening",
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 24.433,
+    "end": 85.299,
+    "text": " Good morning and welcome everyone. The COVID-19 pandemic has required us to make a lot of changes. Although the court is working in deciding cases, we are now having oral arguments remotely. Those arguments are being streamed live on YouTube and they're available thereafter and the links to view them are available on the court's website.  Court staff has been working hard to try to get the judges and counsel ready to conduct remote arguments, but technical problems may arise, and if they do, we ask your patience. We have two arguments on this morning's calendar. I want to mention at the outset that Judge Stedman is refused from the second of the cases, and he's been replaced by Judge Nemecher. So after the first argument is finished, we will take a brief recess, and then Judge Nemecher will replace Judge Stedman.  Turning to the first case, the first case on the calendar is Sergio Velasquez Cardozo v. United States, number 17 CF774. Counsel, you may proceed.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "court_opening",
+      "court_procedural_remark",
+      "case_call",
+      "case_transition",
+      "judge_procedural_directive"
+    ]
+  },
+  {
+    "start": 85.9,
+    "end": 184.533,
+    "text": "Good morning, Your Honor. My name is Matthew B. Kaplan. I'm, as you said, appellant for Sergio Velasquez Cardozo. And I respect, if it's okay with the court, six minutes of rebuttal time. Your Honor, just let me start with the substantive kidnapping issues.  It's undisputed in this case that, under the facts of this case, the government must prove both a seizing and separately and independently a holding and detaining. In our view, these concepts require some dominion and control over the person, over the victim. That did not happen here.  The victim ER's forward motion was briefly impeded. It was stopped, according to the police officer witness, for a quote, split second. According to ER, the contact between the assailant and the victim lasted, quote, moments. And the victim shrugged the assailant off and continued to walk forward. Shrugged is the word of the victim.  We have cited several dictionary definitions, which we think we get to the issues, what does the words seizing and the words holding and detaining mean.  We cited several dictionary definitions, and we've also pointed to the, suggested that the Fourth Amendment, Fourth Amendment case law might be a useful guide to what- Mr. Kaplan, can I ask you about the Fourth Amendment case law analogy?",
+    "speaker": "matthewkaplan",
+    "tags": [
+      "opening_argument",
+      "substantive_argument",
+      "reserve_time",
+      "legal_citation",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 184.613,
+    "end": 220.84,
+    "text": "Because if it's a useful guide, and we're focusing on cases like California versus HUD-RED, and what's said there, why would this not, if a police officer walked up to someone who is, you know, going about his or her business,  officer suspects of criminal activity and man up and bear hugged, unable to walk. Although briefly, why would that not be a seizure under Fourth Amendment purposes that would be completely unlawful unless there was the kind of justification that was required?",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question",
+      "legal_citation",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 221.938,
+    "end": 256.539,
+    "text": " First of all, you dropped out slightly there, Judge McLeese, but I think I understood your question. It's not, obviously, we suggest we could look, the Fourth Amendment case law can be looked to as a guide, but it's obviously not a direct analogy. I mean, the most obvious difference is a police officer is armed, a police officer has the authority of the state behind them, and when a police officer, I think the point we're trying to make is the Fourth Amendment, one of the Fourth, the Fourth Amendment test is,  Does the individual feel free to leave? And if a police officer... Again, let me ask my question a little bit differently.",
+    "speaker": "matthewkaplan",
+    "tags": [
+      "acknowledge",
+      "hedge",
+      "legal_citation",
+      "substantive_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 257.0,
+    "end": 263.526,
+    "text": "Assume we agreed with you that the Fourth Amendment is a good analogy. Do you think what happened here was a seizure for Fourth Amendment purposes?",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 265.207,
+    "end": 314.241,
+    "text": " No, I don't. And again, it was not a police officer. In fact, she didn't know who it was. Someone reached around her and grabbed her. That's certainly true. Had it been done by a police officer, would it be a seizure? It would be different. And one thing, Your Honor, you mentioned the word bear hug. And that does, the police officer, actually it's a former police officer at the time that it was testimony, used the words bear hug. But I think to me, bear hug implies a firm grasp. I think it's clear from his testimony, that's not what he was saying. In fact, what he actually said in his testimony  was that he initially, he thought these were like, it was a very quick hug, and he thought they were like two friends, you know, would exchange a hug. And what he thought was very strange is after, immediately after this hug, the assailant turned and walked away. So it was a very brief, fleeting, non-forceful contact. So, I mean,",
+    "speaker": "matthewkaplan",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 317.623,
+    "end": 336.917,
+    "text": " I take, I think, I guess, could you just articulate what your test is for when something rises to the level of when somebody has been held and detained? Is it that they have to, at least for a moment, think they can't get away? What would you, you know, what would a jury instruction look like in your view?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 340.707,
+    "end": 383.847,
+    "text": " First of all, I think the most important point is something more than would have happened here. And I think that may be an appropriate test is whether the person reasonably thinks that they're detained. The person thinks that they're free to walk away, which the victim here did, because she did, in fact, walk away.  some meaningful... Can I ask you, I'm not sure that's quite right. Let me just ask you, I don't want to interrupt your answer to Judge Field's question, but just on the factual point you're raising, I thought the evidence was that the victim had to use force of her own, or I don't know about had to, but did use force of her own by throwing her elbow backs or pushing her elbow backs or shrugging her, some force of her own in order to, before she was able to then resume walking.",
+    "speaker": "matthewkaplan",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "fact_statement",
+      "hedge",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 384.367,
+    "end": 385.948,
+    "text": "Am I misunderstanding the record or",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 387.113,
+    "end": 397.8,
+    "text": " Well, Your Honor, the word that she used was shrugged. I shrugged, I quote unquote shrugged. I shrugged him off. Well, again, we do need to view the evidence here in the light most favorable to the verdict.",
+    "speaker": "matthewkaplan",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 397.88,
+    "end": 407.106,
+    "text": "And so there were other terms, including throwing elbows back and the like, that might sound perhaps more favorable to the jury's verdict.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 408.697,
+    "end": 463.963,
+    "text": " Again, I think if you look at the entire, it's not very long, the entirety of the victim's testimony is she just, someone reached around her, and because of the fact someone reached around her, she was stopped for, her forward progress was implemented, was impeded for a moment, and she kept on walking. In our view, for kidnapping, for the detention, the seizure, for holding and detaining and seizing for kidnapping, it's gotta be something more,  meaningful than that temporary transitory impedance of her forward progress. I mean, what really happened here is she was, I think even interpreting the evidence most in favor of the government, is someone reached around her and touched her in a very inappropriate way. But there was no force, there was no detention, there was no holding onto the facts. I want to wrap back around to Jill's question because",
+    "speaker": "matthewkaplan",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "fact_statement",
+      "hedge",
+      "case_transition"
+    ]
+  },
+  {
+    "start": 465.27,
+    "end": 550.343,
+    "text": " It's hard for us to write an opinion that says we don't know what the law is, but it requires more than what was here because this was, in one of the words, appreciable, not appreciable. We really would want to ordinarily give better guidance than that. One of the issues, there was a time when we had a body of law.  where we did try to grapple with those and had ideas about what was it incidental that increased risk. And part of the reason, for better or for worse, one could agree with this or disagree with this, the court ended up kind of abandoning that line because it was very hard to figure out how to administer the test. And so if we are requiring more than transitory seizure, more than transitory inability to move freely, what  What can you give us any help about how we would formulate that beyond just saying, you know, more than transitory, the word appreciable.  If you look in the dictionary for that, I would have thought this is appreciable in one of its normal senses. The officer and the complainant both were able to detect and perceive that she had been walking freely and then all of a sudden she wasn't, if briefly. So I would think it was appreciable in one of those senses of that term. So, I mean, are we talking five seconds or are we talking, what do you have in mind for us to give guidance if we were going to go that route?",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 551.16,
+    "end": 569.93,
+    "text": " I think, you know, we give a Black's Law Dictionary of C's, which means to take possession of. And I think there's got to be some exercise of dominion or control over the person, over the individual, which is a meaningful sense. And I think that's what. Well, this is, I think, very meaningful. I mean, I think this was very meaningful to the complainant.",
+    "speaker": "matthewkaplan",
+    "tags": [
+      "legal_citation",
+      "substantive_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 569.99,
+    "end": 592.825,
+    "text": "And I would have thought it would be very meaningful to me if I were walking down the street and someone grabbed me in the way they just grabbed me or so.  I'm not sure the word meaningful is going to necessarily favor your client on the facts of this case or be very helpful as a test. So again, imagine that this case was exactly like it was except the testimony was that the bear hug lasted for five seconds. Would you say kidnapping sufficient or not?",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_comment",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 594.983,
+    "end": 616.917,
+    "text": " I think it depends in part on the reasonable perception of the victim. The victim felt confined and couldn't get away. I'm saying imagine the evidence in this case was exactly as it was, except the only additional piece of evidence was rather than saying transitory or the various words that were used here, all the temporal words said five seconds.",
+    "speaker": "matthewkaplan",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 617.297,
+    "end": 619.799,
+    "text": "But the evidence was otherwise exactly the same, sufficient or not sufficient.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_comment",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 620.803,
+    "end": 639.919,
+    "text": " I don't think that would be sufficient to be under, really, for a person to be under the dominion or control of an assailant. But of course, that's not the case here. This is the case of a split second, and really, it's an unconsented touching is what, in our view, happened here.",
+    "speaker": "matthewkaplan",
+    "tags": [
+      "substantive_argument",
+      "concession",
+      "hedge",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 640.48,
+    "end": 667.575,
+    "text": "Council, can you just articulate for me what distinction you're offering from Richardson, where, on my reading,  Court says, you know, appellants argue that the pension needs to be for a prolonged or appreciable length of time. And the court seems to say, we disagree. That is not the test. It doesn't need to be for an appreciable length of time. And so what is your distinction of Richardson?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 668.976,
+    "end": 733.182,
+    "text": "Well, first of all, I think at Richardson, the focus of the case was on whether it would be  kidnapping had to involve some conduct separate and dependent from another offense. And I think the length of time or some language to that effect in Richardson, which I think is, in our view,  But one of the arguments that we've made here in a supplemental brief is that, which I don't think was addressed in Richardson, I don't think it was addressed in any other court's case, although the trial court focused on it, is whether there was a seizing or a holding and detaining here in the first place. And it may be true, I mean, assuming for the sake of argument, the most brief of seizing is the most brief of holding and detaining, and we've got to have both those things together.  constitutes a kidnapping. But our argument here, at least in the supplemental brief, is there was no seizing and there was no holding or detaining. And therefore, you don't have a- I mean, it sounds like an artificial distinction.",
+    "speaker": "matthewkaplan",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "record_reference",
+      "hedge"
+    ]
+  },
+  {
+    "start": 733.442,
+    "end": 753.281,
+    "text": "I mean, it sounds like you're trying to sneak in the back door. A seizure or detention doesn't need to be for any appreciable length of time, but a grab or a hold needs to be an appreciable length of time to constitute a seizing or detention.  They sound like six on one hand, half dozen on the other. It sounds to me like an argument that's been foreclosed by those other cases.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_comment",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 754.842,
+    "end": 837.959,
+    "text": "Well, again, I would respectfully disagree. I don't think those cases address the issue of whether a seizing had occurred here. And I think the point we're trying to make is that this brief incidental touching was simply  cannot reasonably be construed as a seizing or holding and detaining. The individual was never seized. She was never held. She was never detained. So you don't get to the issue of, if that didn't happen, you don't get to the issue of, did it last long enough? Let me, if there are no further questions about that, I just want to touch briefly on the sex offenses felony arguments that we make.  Our overarching, one of our overarching arguments on the sex offenses cases is that the ASAA needs to be looked at as a whole, not independently, section by section.  It's a carefully laddered, integrated statute. And one of the provisions that most seemingly applies to the unconsented touching in this case is misdemeanor sexual abuse. In our view, the improper to effectively read third degree and fourth degree sexual abuse in a manner that essentially obviates, makes superfluous,",
+    "speaker": "matthewkaplan",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "disagreement",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 841.084,
+    "end": 841.424,
+    "text": " offense.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 843.427,
+    "end": 864.803,
+    "text": "As the third degree sexual abuse, in our view, there's no way a reasonable jury could find that this case involved the use of such physical strength or violence as sufficient to overcome or restrain or injure a person.  They're simply well, I guess it seems like that's a little sir.",
+    "speaker": "matthewkaplan",
+    "tags": [
+      "substantive_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 864.863,
+    "end": 899.646,
+    "text": "I mean, if we conclude for purposes of kidnapping that the evidence was sufficient that there was a seizure and holding and detaining.  then would it follow that there was a use of force that meets the definition for purposes of third degree because there would have been force that was sufficient to detain because there was in fact detention. So are they sort of tied or do you think that somehow it's possible, do you think the concepts of detain are different for kidnapping and for third degree offense?",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 901.467,
+    "end": 916.521,
+    "text": " I do think there's a difference. I mean, the definition for third degree requires physical strength or violence, which I don't think there's any evidence of here. And I think you could have a kidnapping without the use of strength or violence.",
+    "speaker": "matthewkaplan",
+    "tags": [
+      "substantive_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 917.281,
+    "end": 939.806,
+    "text": "Right. But so why was if I'm walking along and someone comes behind me unsuspecting and bear hugs me so that I can't walk, if briefly,  Why isn't, again, assuming there isn't a requirement of duration for restraint, then why wasn't that, why couldn't a reasonable fact finder find at least that there was the use of physical strength sufficient to very briefly restrain it?",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 940.847,
+    "end": 958.892,
+    "text": "Again, I think I would go to the, to what the testimony actually was in this case. That it was a very brief, again, I think the bear hug language is misleading because that's clearly not what he, he didn't mean a bear hug in the sense that a bear would actually hug a person. He meant a very brief touching.  Well, bear hug is figurative anyway.",
+    "speaker": "matthewkaplan",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 958.912,
+    "end": 965.153,
+    "text": "I mean, I don't know the bears hug people. I wouldn't want to get a bear hug from a real bear, for sure. I think that's a figurative expression in all sentences.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_comment",
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 967.254,
+    "end": 985.577,
+    "text": "But again, the police officer described it as almost as if a friendly hug. The victim described it as a momentary touching. I don't think that crosses the line into physical strength or violence. Although, again, I don't think it's the exact same test as for kidnapping.",
+    "speaker": "matthewkaplan",
+    "tags": [
+      "fact_statement",
+      "substantive_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 988.193,
+    "end": 1002.71,
+    "text": " If you ask the victim here whether or not she felt the force was used, I kind of imagine she would probably say, yes, she was pretty shaken up by this event. I mean, to have somebody come behind you and suddenly see",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_comment",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1007.974,
+    "end": 1026.412,
+    "text": " Well, it certainly was an unconsented under the facts here. If there's anything to show that it was for purpose of sexual gratification, it was certainly an unconsented touching, but certainly I'm not trying to minimize what happened here. But I don't think the statute encompasses just a mere touching.",
+    "speaker": "matthewkaplan",
+    "tags": [
+      "substantive_argument",
+      "concession",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1028.253,
+    "end": 1110.56,
+    "text": "Can I ask you about third, I'm sorry, fourth degree? Yeah, sure.  I know that your view, in essence, is that for purposes of fourth degree, the incapacity or incapability, to be a little more close to the exact term, can't be shown essentially by surprise. And I guess I wonder, I'm interested in your comments on the letter, the case that the government cited in its 28K letter.  Just more specifically, if you look at the statutory language, what's wrong with the following view? Viewing the evidence in the light most favorable to the jury's verdict, your client knew and had reason to know.  that there was no way that the complainant was gonna be able to decline participation in the sexual conduct that he planned, sexual contact that he planned. He's gonna run up behind her and grab her from behind and touch her on the breasts and the buttocks without her even knowing that he was coming. Why doesn't that, in sort of ordinary language, mean that he, your client, again, a reasonable jury could find, that your client knew or had reason to know that the complainant was not capable of declining participation in that conduct?  was never given an opportunity to do so, she had no possibility to do so. What's wrong with that as a matter of kind of ordinary language?",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question",
+      "legal_citation",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 1112.162,
+    "end": 1130.011,
+    "text": "I think, for one thing, I think the statute needs to be interpreted as a whole, and I think  You can certainly envision cases of unconsented touching where maybe the victim has the capacity to say no. But I think if you adopt the government's- I don't think that's remotely hard.",
+    "speaker": "matthewkaplan",
+    "tags": [
+      "substantive_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1130.071,
+    "end": 1204.772,
+    "text": "I mean, if somebody started walking toward, there are millions of cases, millions is probably, there probably literally are millions, but there are certainly thousands of cases where somebody, you know,  starts indicating that there's about to be some sexual contact and the complainant says, no, I don't want that, don't do that. And then it's done anyway. That's probably, although there are plenty of times where it doesn't happen that way and there is no notice, it seems to me that at least this common problem is a setting where the complainant is aware that there's imminent sexual conduct.  it would have been capable of declining, or in fact did decline, and the defendant persisted anyway. So I don't know if, to the extent you're suggesting that incapacity by surprise would somehow make every non-consensual sexual touching fourth degree sexual abuse, I'm not sure that seems obvious to me. In fact, it seems not obvious to me, but I don't, you know, feel free to try to persuade me otherwise, but I would have thought there are, you could read,  hundreds of cases on west law where there not only was the opportunity to decline but there was in fact a declination of participation in sexual contact.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_comment",
+      "substantive_argument",
+      "disagreement",
+      "hedge",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 1206.573,
+    "end": 1252.962,
+    "text": "I would uh point your honor to the to the to the to the you know there doesn't seem to be well our position is consistent with the case law in in  jurisdiction. My understanding or my reading the case is this statute has only been implied with some applied with some disability on the part of the victim. And, you know, as we say in our brief that's consistent with the  the federal case law as well, where the federal courts have interpreted this term incapacity to mean some kind of incapacity on the part of the victim. And I get our view is that this is fundamentally different. Can you remind me whether you can you remind me whether you had pointed us to any cases that expressly say, you know, the government has proceeded here on a theory of incapacity by surprise.",
+    "speaker": "matthewkaplan",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "rebuttal_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1253.462,
+    "end": 1258.545,
+    "text": "And that's just not the capacity of our statute. Or did you find cases",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_comment",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 1261.945,
+    "end": 1278.053,
+    "text": " a relevant one, but a somewhat weaker one, which is when you look at the cases that you found, they all seem to involve more where the incapacities in the condition of the complainant rather than in the situation more broadly.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_comment",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 1278.733,
+    "end": 1281.955,
+    "text": "Is it the latter or are there actual cases you're aware of that have said",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 1282.368,
+    "end": 1324.109,
+    "text": " No, it's the latter. And I think it's the function of the reality that cases like this do not get prosecuted under the D.C. statute or the federal statute that this case was prosecuted under. We cited a number of cases, and that seems to be the consistent view of the federal courts is that you look at whether the victim has an incapacity. I think that makes sense and is consistent with the statute.  But you're correct, Your Honor. I think because the situation doesn't usually come up, we don't have a case that specifically says what you're asking if we have a case along those lines. I would just- Do you want to comment on the case cited by your opponent in the 28-K letter?",
+    "speaker": "matthewkaplan",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "concession",
+      "acknowledge",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 1324.17,
+    "end": 1332.773,
+    "text": "Yeah, I believe the case arising from Missouri, and I don't think that's terribly relevant.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_comment",
+      "disagreement"
+    ]
+  },
+  {
+    "start": 1334.405,
+    "end": 1366.759,
+    "text": " For one thing, it's almost over 100 years old. It refers to a totally different, it refers to a rape statute. And as I understand the holding of that case, it was that a doctor who, the issue is consent, and the doctor who essentially covertly raped the victim during a medical examination, whether there was consent there under the  100-year-old Missouri, a rape statue, and the court said there was no incense. I don't think that case has any significant relevance to this case that we're dealing with today.",
+    "speaker": "matthewkaplan",
+    "tags": [
+      "legal_citation",
+      "fact_statement",
+      "rebuttal_argument",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 1367.64,
+    "end": 1400.098,
+    "text": "I know you're over time, but I did want to, before we finish up, and we'll give you a little bit of time to rebuttal also, I just wanted to hear you quickly on the merger of third-degree sexual abuse and fourth-degree sexual abuse. And I had a specific question at the outset about that.  Do you agree that in trying to analyze that question, we should be applying the Blackburger test where we look at the elements of third degree sexual abuse and we compare them to the elements of fourth degree sexual abuse and we figure out whether each of them requires proof of something that the other does not?",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question",
+      "time_management",
+      "reserve_time",
+      "judge_procedural_directive",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 1401.259,
+    "end": 1408.364,
+    "text": "I think it's settled in this court that the Blackburger test needs to be used, yes, your honor.",
+    "speaker": "matthewkaplan",
+    "tags": [
+      "legal_citation",
+      "hedge",
+      "agreement"
+    ]
+  },
+  {
+    "start": 1409.936,
+    "end": 1439.175,
+    "text": " And if you were going to just briefly summarize, why is it you think that, can you give me an example? Maybe the easiest way to do this is just give me a concrete scenario where you think, here's a case where the defendant, it's very easy to find cases where the defendant committed fourth degree sexual assault, but did not commit third degree. But your view is that there is no way a defendant could commit third degree sexual abuse without committing fourth degree sexual abuse as well. Is that right?",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 1441.001,
+    "end": 1448.667,
+    "text": " Actually, a prior public counsel made that argument in the opening brief, and we stand by that argument, yes, Your Honor.",
+    "speaker": "matthewkaplan",
+    "tags": [
+      "record_reference",
+      "substantive_argument",
+      "agreement"
+    ]
+  },
+  {
+    "start": 1448.827,
+    "end": 1521.603,
+    "text": "And I guess I have just one concrete question about that. So if you look at third-degree sexual abuse, one way of committing it, it's option two, is by essentially threatening the victim that if the victim doesn't comply with the sexual contact issue,  some other person will be subjected to death, bodily injury, or kidnapping. So that's one way you can commit third degree sexual abuse.  Fourth degree sexual abuse expressly excludes that as a way you can be found guilty of fourth degree sexual abuse. If you look at subsection one, it says you can violate it by threatening or placing the other person in reasonable fear other than by threatening or placing that person in reasonable fear that any person will be subjected to death, bodily injury, or kidnapping. And so it seems like this is kind of a quirk of how these statutes are written.  That seemed at least one way in which one would have committed third-degree sexual abuse but couldn't have been found guilty of fourth-degree sexual abuse because that's just excluded categorically from fourth-degree sexual abuse. Do you have a reaction or thought on that?",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 1522.284,
+    "end": 1529.306,
+    "text": " I think that I think let me put it this way. I think we'll stand on our briefs on that point.",
+    "speaker": "matthewkaplan",
+    "tags": [
+      "reserve_time",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1530.427,
+    "end": 1535.368,
+    "text": "All right. Okay, we'll give you a few minutes of rebuttal and we will hear now from the United States.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_procedural_directive",
+      "reserve_time",
+      "case_transition",
+      "time_management",
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 1537.489,
+    "end": 1539.31,
+    "text": "Good morning. May it please the court.",
+    "speaker": "nicholaspcoleman",
+    "tags": [
+      "court_opening"
+    ]
+  },
+  {
+    "start": 1539.43,
+    "end": 1621.659,
+    "text": "Nick Coleman for the United States. I'd like to begin by addressing the  kidnapping arguments before proceeding to the sexual abuse arguments. And what I hear appellant making here today are essentially two arguments as to why there was insufficient evidence of kidnapping. The first is sort of a factual challenge in arguing that somehow this victim was not in fact seized and detained.  And then the second is that even if she was detained, that it somehow wasn't long enough. I think the testimony of both the victim and Officer Stoddard establishes that she was in fact detained. If you look at that testimony, Officer Stoddard  uses the term bear hug. He says that, as he says, at least for a split second that she wasn't able to keep walking forward. The victim also says that in the moment that she was grabbed from behind, she couldn't walk forward. And she did have to use force to break free, whether it was shrugging or using her elbows. In other words, she was, in fact, grabbed, which we'd submit most people would understand to be a seizure, and she was helped.  She was held there until she broke free.",
+    "speaker": "nicholaspcoleman",
+    "tags": [
+      "opening_argument",
+      "substantive_argument",
+      "fact_statement",
+      "rebuttal_argument",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 1622.36,
+    "end": 1644.051,
+    "text": "Counsel, just I want to read from your opening brief and I just want to see if this is your view still. You say ER was walking swiftly toward her apartment. When appellant grabbed her, he briefly prevented her continued forward movement. That obstruction constitutes a seizure and is sufficient to establish kidnapping. Is that the government's position? That obstructing somebody's forward movement is a kidnapping?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 1644.672,
+    "end": 1660.657,
+    "text": " Well, it has to be it's so I would submit if if by that you mean your honor to sort of you suddenly step in someone's way and force them to go around to the answer probably be no. Here I think the point is that she was grabbed.",
+    "speaker": "nicholaspcoleman",
+    "tags": [
+      "substantive_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 1660.918,
+    "end": 1680.523,
+    "text": "Let me give you a hypothetical let's say we're all in the courtroom instead of doing this virtually.  And Mr. Kaplan starts heading out and you want to say, you know, nice job. So you brush his shoulder to get his attention and to stop him. You're trying to stop him so that you can say, hey, good job. In that circumstance, did you kidnap Mr. Kaplan?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_comment",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 1681.479,
+    "end": 1692.765,
+    "text": " No, because I don't think we would call that a seizing. In other words, tapping somebody to get their attention, that's not going to be a seizing. And it's not a holding or detaining.",
+    "speaker": "nicholaspcoleman",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "hedge",
+      "disagreement"
+    ]
+  },
+  {
+    "start": 1693.205,
+    "end": 1711.875,
+    "text": "Let me flesh out the hypothetical. Because again, this is language from your brief, where you say briefly preventing somebody's continued forward movement is enough. So maybe it's not a brush. Maybe it is actually a forceful, hey, stop, Mr. Kaplan. I want to talk to you. And you grab his shoulder enough so that he breaks his stride.  Is that a kidnapping?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question",
+      "record_reference",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 1712.595,
+    "end": 1745.53,
+    "text": "So if I'm grabbing on to Mr. Kaplan and I'm holding him, he's trying to move. And in the moment that I'm grabbing him or holding him, he cannot move. Yes, under the literal terms of the statute, that is a seizure and a detention. And now, is there a battery that isn't a kidnapping?  So yes, in the sense that if I punch somebody, I'm not necessarily holding them.",
+    "speaker": "nicholaspcoleman",
+    "tags": [
+      "substantive_argument",
+      "concession",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 1746.37,
+    "end": 1757.016,
+    "text": "I assume you've obstructed their movement by punching them. I mean, unless they happen to be falling back to begin with and you manage to sneak a punch in there, it strikes me that you've altered their course of movement.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_comment",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1757.596,
+    "end": 1804.479,
+    "text": "Okay, so I think I understand the question that you're asking me.  In this case, the fact that the victim is trying to walk forward, she's grabbed, the fact that she can't move is what shows that she was held or detained. I don't think- She had been sitting on a park bench, no more kidnapping because she wasn't trying to move? Well, I think if you're sitting on a park bench and he still comes up from behind and grabs onto her,  and then holds her and she has to break free in order to get up off of there. The jury would have enough evidence to find on that testimony. So you keep on layering a second element on which I agree appears in the statute, but I'm unclear on your view what work it's doing.",
+    "speaker": "nicholaspcoleman",
+    "tags": [
+      "acknowledge",
+      "substantive_argument",
+      "fact_statement",
+      "disagreement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1805.079,
+    "end": 1817.191,
+    "text": "You said if he grabs her and holds her,  I think my question is, what's the difference? Can you grab somebody without holding them? Can you hold somebody without grabbing them?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 1819.593,
+    "end": 1836.5,
+    "text": "So again, I'm not sure that in the practical world it is easy to grab somebody without actually holding on to them.  I'm trying to focus on what the statute says here and to focus on the elements as they've been written by Congress.",
+    "speaker": "nicholaspcoleman",
+    "tags": [
+      "fact_statement",
+      "substantive_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1839.101,
+    "end": 1874.277,
+    "text": "Let's talk about them for a second then. You've got this long list of verbs, seizing, confining, and vaguely enticing, decoying, kidnapping, abducting, stealing, or carrying away, and holding and detaining them. My question to you is, can you hold and detain somebody?  Haven't you read out that first list of verbs or the second? You can't hold or detain somebody without doing one of the various things like seizing somebody in the first part of the statute. I'm not sure I understand. Can you seize somebody without holding or detaining them?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 1876.018,
+    "end": 1941.827,
+    "text": "I think probably it's hard to do, except in perhaps the instance where your seizure  doesn't succeed in the sense that you never actually detain the person. In other words, in the case of me trying to grab Mr. Kaplan, I reach out for him. I'm able to brush my hand on his shoulder, but he's able to step out before my hand can grasp him. In that case, obviously, I certainly haven't held him.  Right. So, you know, the trying to sort of get to, I think what this does show is that there is  What the kidnapping statute is designed to do is to say that you've got to, you have to do one of those things in that first list of verbs. In this case, that did happen. There was a seizure, a bear hug from behind. You also have to hold or detain. That did happen here.",
+    "speaker": "nicholaspcoleman",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "concession",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1942.347,
+    "end": 1951.59,
+    "text": "My question, counsel, is having held or detained somebody, haven't you necessarily also seized them? And under that definition, haven't we read an element out of the statute?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 1952.521,
+    "end": 2017.023,
+    "text": " No, because you could find some. Well, OK, so again, the other aspects there talk about sort of abducting or enticing decoying. I mean, obviously, Congress was trying to be very broad here talking about how the holding or detention started. OK, so in other words, they're being very inclusive into how it occurred, because obviously you could entice, you know, a child with candy or something into  a van, that's the classic definition of kidnapping of children. And then the holding. Now, you may, in order to continue the holding or detaining in that point, have to make a seizure if the victim tries to get away, then you're going to grab on.  But I think sort of the holding or detaining can also, that's why I think the statute also talks about confining, because you might never actually grab onto the person, but you might, if they were in a room with only one exit, stand in their way and prevent them from leaving, and then you hold or detain them in that room.",
+    "speaker": "nicholaspcoleman",
+    "tags": [
+      "substantive_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2018.388,
+    "end": 2036.92,
+    "text": " So is your answer then implying that you think the word seizing in the kidnapping statute requires physical contact, like grabbing type seizing, rather than the kind of seizure you can have in the Fourth Amendment, where you stand by somebody with a gun and say, don't move. You think that's not a seizure, that there wasn't physical contact, and instead that's been under confining?",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 2037.852,
+    "end": 2060.604,
+    "text": " I think seizure could also occur under those circumstances. I think, really, when you read that first list, what Congress is trying to do is make sure that a jury, which has to apply this statute, understands that however the holding or detention started, it's a kidnapping. They could have just excised the whole list, right?",
+    "speaker": "nicholaspcoleman",
+    "tags": [
+      "substantive_argument",
+      "hedge",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 2061.99,
+    "end": 2070.476,
+    "text": " They could have just said whoever shall be guilty of holding and detaining or with intent to hold and detain an individual right that's that's your reading of the statute.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_comment",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 2071.877,
+    "end": 2125.771,
+    "text": "Well, that again I'm not sure because again, you could imagine juries, having some wanting to know well.  when we talk about holding or detaining a person, for example, if I detain a person by, you know, if what I do to Mr. Kaplan on the way out of the courtroom, I know he's got to get to his meeting, but I decide to sort of bore him with 30 minutes of conversation about the case.  You know, in colloquial language, you could say, well, I'm sort of detaining him by talking his ear off. But obviously that, you know, unless somebody thought that that was invagling or enticing, then I don't think that that's certainly a seizing of his person. I think Congress wanted to make sure that, you know, there was a sort of wrongfulness or illegality at the beginning of the holding or detention.",
+    "speaker": "nicholaspcoleman",
+    "tags": [
+      "substantive_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2126.903,
+    "end": 2130.287,
+    "text": " I appreciate that. You know, you're giving him. I'm sorry. Go ahead.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_comment",
+      "acknowledge",
+      "judge_interruption",
+      "judge_procedural_directive"
+    ]
+  },
+  {
+    "start": 2131.167,
+    "end": 2220.584,
+    "text": "Well, I was just there was a period where this court tried to impose various limits on the statute and other courts, not all of them, courts are divided around the country about how to address statutes like this.  But Judge Deal's hypothetical, and my example was very similar than I had in mind, which is I'm walking down the street and I kind of lose my balance. And I grab a hold of the arm of somebody who's next to me, who I don't know at all. I just grab a hold of them and using them as kind of somebody to balance. And they stop moving because they can't move. And I'm not trying to do, I have no malign purpose or anything like that. But on the other hand, I grabbed a hold of them and I stopped them from moving, if temporarily.  It seems like on your definition of the statute that fits literally and your point is, of course, no one will ever prosecute that, but it is disturbing. I think this is a 30 year offense. It's an incredibly serious offense, and it doesn't really have a culpable mens rea requirement explicit in it. It's not like with a bad purpose.  It's with a hint, you know, intent to hold for ransom or reward or otherwise. So maybe, you know, to use as a balance. And so it's very natural for courts to want to be looking at the words like seize or hold or detain to find limits before a 30-year crime is committed. And it is disturbing and understandable why courts are grappling with this. If your answer to Deb Seals' hypothetical or to mine is,  Yeah, you know, something that seems like totally innocent conduct that people would do without a lot of compunction is actually literally a 30-year felony. That's a pretty disturbing consequence.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_comment",
+      "substantive_argument",
+      "policy_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 2221.327,
+    "end": 2242.238,
+    "text": " Right, so I do think that normally when juries are instructed on the kidnapping statute that they are told that the seizure can't be by mistake or accident. And certainly in general- That's true, but my hypothetical and Judge Deal's hypothetical, there is that mens rea requirement that's read in as often is, that it has to be at least intentional, maybe reckless, who knows.",
+    "speaker": "nicholaspcoleman",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2242.459,
+    "end": 2278.919,
+    "text": "Right, it has to be- But both Judge Deal's hypothetical and mine, right, but both Judge Deal's hypothetical and mine are directed at settings where  You know, the defendant without hypothetical defendant, without any malign purpose, consciously decides, oh my gosh, I need to hold on to this person. I'm going to hold on to this person briefly, you know, not in any outrageous way, not for any malign purpose, but it seems to be a seizure, very fleeting. And it seems to be detaining or holding very fleeting. And it is disturbing if the tech, if your answer is technically that's a 30 year felony, but don't worry, people won't prosecute you. And if they did, juries would know enough not to convict you.  I mean, that's an answer, but it's a pretty disturbing.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_comment",
+      "policy_argument"
+    ]
+  },
+  {
+    "start": 2279.499,
+    "end": 2311.102,
+    "text": "Well, again, though, but I think that that's where we have to invoke another principle that this this court has applied, which is to say that where no mens rea is specified in the statute, that the court will imply at least something along the lines of  at least recklessness and perhaps something even higher. That's in order to get rid of accidents. I think George McClease has already tried to clear that confusion away.",
+    "speaker": "nicholaspcoleman",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2311.202,
+    "end": 2351.45,
+    "text": "Both of our hypotheticals assume an intent to do the thing that you think is holding or detaining somebody.  In my hypothetical, you are very much intending to stop Mr. Kaplan from leaving the courtroom. In Judge McCleese's hypothetical, he is very much intending to grab that person in order to stabilize himself. So I don't know why you keep wanting to say, you know, intent's going to do all the heavy lifting here. We're assuming there's some intent to grab someone. And I think the disturbingness of that being a kidnapping  exists even when you say that was purposeful and willful grabbing of somebody. And so I don't think leaning on intent is doing you much good.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_comment",
+      "disagreement",
+      "rebuttal_argument",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 2352.111,
+    "end": 2421.938,
+    "text": "So I think two points to be made. First is that, you know, it's the although kidnapping can be punished by up to 30 years, it certainly doesn't have to be. There is no mandatory minimum. And so at sentencing, a judge can distinguish between sort of  kidnappings, which in colloquial terms are thought of as incidental or brief or not very significant in setting the sentence. And to some extent, yes, charging discretion does play a role in deciding whether or not a crime is going to be charged. But that's true for every kind of offense. A lot of statutes are broadly worded and could be read to apply to a number of different situations that we might say, well, that seems benign, it seems  too much but that doesn't mean that the elements of the statute have to be rewritten because it isn't clear that there is a either a sort of practical way to do that nor is it necessarily particularly when the legislature has spoken about how this statute is supposed to be created they get to decide what the elements of the offense are.",
+    "speaker": "nicholaspcoleman",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "concession",
+      "hedge",
+      "policy_argument"
+    ]
+  },
+  {
+    "start": 2423.299,
+    "end": 2453.318,
+    "text": "I appreciate that point counsel but let me let me just try this one more time.  out the list of words, dating, I'm sorry, seizing, confining, and vaguely and all that. And I just say whoever shall be guilty of holding and detaining, and then I also cross out for ransom reward or otherwise. That I think leaves me with the statute that you think we have. You don't, you think ransom or reward or otherwise doesn't do any work, right? It doesn't matter. For whatever reason, if they hold somebody that's good enough, right?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 2454.503,
+    "end": 2474.211,
+    "text": " Well, certainly Congress decided to say or otherwise. And so they created the purpose. They have made it for pretty much any purpose. But that is true of that's been true of kidnapping. And it would still be true of kidnapping, regardless of how long a seizure or detention occurred. My question, the question is very simple.",
+    "speaker": "nicholaspcoleman",
+    "tags": [
+      "substantive_argument",
+      "concession"
+    ]
+  },
+  {
+    "start": 2474.251,
+    "end": 2480.554,
+    "text": "We can cross out those words ransom or reward or otherwise. Right. Under your reading of the kidnapping statute, it does no work.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_comment",
+      "judge_procedural_directive"
+    ]
+  },
+  {
+    "start": 2482.454,
+    "end": 2493.822,
+    "text": "So I think  You know, again, you'd have to ask Congress why they decided to write it the way they did. I think the ransom or reward is to make clear that that is one purpose. It does.",
+    "speaker": "nicholaspcoleman",
+    "tags": [
+      "substantive_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2494.622,
+    "end": 2496.463,
+    "text": "Why would you make that clear when it can be anything?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 2497.603,
+    "end": 2509.269,
+    "text": "Again, I'd have to I'd have to direct you to Congress as to why they wrote the statute the way that they did. I don't think you have to direct him to Congress to add to answer Judge Deal's question, which is true or false.",
+    "speaker": "nicholaspcoleman",
+    "tags": [
+      "hedge",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 2510.565,
+    "end": 2520.743,
+    "text": " The statute would have the same scope if those words were deleted. That's just a simple true or false. You could explain maybe that, you know, who knows why, but it's a very simple yes or no answer. I believe that the answer is.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "judge_procedural_directive",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2522.883,
+    "end": 2534.467,
+    "text": " So the reason why I hesitate to answer clearly one way or the other is because that isn't the question that's been presented here today. In other words, we have not been here. Actually, it is a question that has been presented by a judge.",
+    "speaker": "nicholaspcoleman",
+    "tags": [
+      "hedge",
+      "concession",
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 2534.507,
+    "end": 2545.81,
+    "text": "Understood. It is a question that has been presented by a judge. So I think I don't know is a good answer, but I'm not sure I'd rather not answer it as a good answer. So if you don't know, that's fine.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_comment",
+      "acknowledge",
+      "hedge",
+      "judge_procedural_directive"
+    ]
+  },
+  {
+    "start": 2546.509,
+    "end": 2569.186,
+    "text": " I think the answer is, I suspect that by putting in otherwise, it has made ransomware reward as a practical matter so much superfluous in the sense that it's no longer required for a conviction. I would want, however, I think before making an official statement on behalf of the government as to whether it has placed a role, I would want to look at that, I think, a little bit more clearly.",
+    "speaker": "nicholaspcoleman",
+    "tags": [
+      "substantive_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2569.666,
+    "end": 2613.268,
+    "text": " And can I ask the same question with regard to the first list of verbs and I will I will take your reservation that you know maybe  some more time to think about it before officially representing this, but if I just say whoever shall be guilty of or of aiding and abetting in, and then I cross out seizing, confining, and vaguely enticing, decoying, kidnapping, abducting, and taking away any individual, but I cross out that whole sentence, I just say holding or detaining, or with intent to hold or detain, shall be guilty of kidnapping,  My understanding of your position is that that's a kidnapping in all circumstances, that one cannot hold or detain somebody without checking one of those earlier herbs off. So we might as well get rid of those too.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question",
+      "judge_procedural_directive",
+      "reserve_time"
+    ]
+  },
+  {
+    "start": 2614.529,
+    "end": 2723.328,
+    "text": "So I wouldn't, again, to say that I would get rid of it is a little bit sweeping. We've been focused here on whether in this case there was a seizure, whether in this case there was a detention or holding.  Now, whether you could construct this as a matter of linguistics in a way to understand holding or detaining, that essentially, because they're gonna begin by one of the ways that's described in Congress, maybe you don't need that anymore. I suppose that's possible, that you could write a statute that way. That isn't the way the statute is written. What I'm focused here on today  And as I understand, appellants arguments they are focused on is whether or not there has been a seizure and whether there's been a holding or detention. And I think the evidence here is clear that yes, both of those occur. Uh, so it's certainly if the argument is that the detention must last a certain amount of time before there is such a thing as a seizure or a holding or detaining,  resubmit that there is no support, certainly in the statute for that and none in this court's case law. Uh, Judge Steel, as you pointed out earlier in your discussion with Mr Kaplan, this court in Richardson has said that there isn't an exception for kidnappings that are momentary. Uh, and I think that, you know, that is sufficient to answer the question today. Was there a seizure?  Was there a holding or detaining? The answer is yes, because it occurred. It was something that was perceived by both the victim and Officer Stoddard. The jury clearly chose to credit that testimony, and thus there was sufficient evidence to sustain this kidnapping conviction.",
+    "speaker": "nicholaspcoleman",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "legal_citation",
+      "fact_statement",
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2725.252,
+    "end": 2747.969,
+    "text": " Now, Councilor, you're over time, but there are at least two other issues I'd like to hear from you briefly on, and my colleagues may have other areas of interest too, but I'm interested in the sufficiency of the evidence with respect to incapacity by surprise, and I'm also interested in virtue of third degree and fourth degree sexual abuse. So if you can quickly touch on those two points, I'd be interested to hear your thoughts.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "time_management",
+      "judge_procedural_directive",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 2748.559,
+    "end": 2821.34,
+    "text": " All right, so so first with respect to fourth degree sexual abuse, you know, the question, again, I think you know the statute is written to say that if the victim is incapable, essentially, of either decline of declining consent or refusing consent.  that that qualifies as fourth degree sexual abuse. And the reason why we cited the case from Missouri is not so much because the statute it was applying is on all fours with this one. That obviously isn't the case. It was applying the much older definition of rape before states and jurisdictions like the District of Columbia broke it down into different degrees. But it makes, I think, a very common sense point, which is that if  If the defendant acts in such a way, by taking him by surprise, so that it deprives the victim of the ability to say no, or to refuse consent, or just as a practical matter, to defend herself, then he has essentially taken that away, and that is a manner in which the sexual offense can be committed.",
+    "speaker": "nicholaspcoleman",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "concession",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2827.281,
+    "end": 2828.623,
+    "text": " the opportunity to.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_comment",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2829.764,
+    "end": 2845.282,
+    "text": "And as Judge Uplis pointed out, every unwanted touching virtually is going to be, under your interpretation, a violation of the statute, of this particular part of the statute, it seems to me.",
+    "speaker": "judgesteadman",
+    "tags": [
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 2846.131,
+    "end": 2892.203,
+    "text": " So, I guess I didn't interpret judgment places question that way but perhaps I wasn't hearing it properly, but as I understand the point that he made was that in fact it is possible to commit sexual touching without doing it by surprise.  And I would submit that doing it in that manner, it's still a crime, it's still very bad, but it isn't bad in the same way or as bad as when you do it in a manner where you give the victim essentially no warning and no ability to essentially communicate lack of consent.  As a matter of ordinary language, it seems to me incapable is kind of an ambiguous term.",
+    "speaker": "nicholaspcoleman",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "disagreement",
+      "hedge",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2892.644,
+    "end": 2997.495,
+    "text": "I mean, if you said about me, is he incapable of doing calculus, which I think I could remember and do at least some of.  I would say generally I'm not incapable of it. Now if you asked if you looked at me while I was asleep and said, you know, is he incapable of doing calculus and be like, well, it depends, not generally maybe right now. And so what kind of incapability is the statute directed at is in a way part of the question.  Is it sort of longer term or, and you know, sleeping is a good example because there are a lot of cases about sleeping. But sleeping also seems to be at least although a temporary condition of the complainant rather than something that is kind of outside the complainant and really more about the situation more generally. So it is kind of interesting that  So far, at least, the parties have directed us only to a Missouri case under a very different statute, set of provisions from a long time ago. And Mr. Kaplan's point is, if this is the kind of thing that really is taking advantage of the incapable, then why don't we have cases in D.C. about it? Why aren't there other cases around the country about it?  And in fact, there is more law out there that the parties haven't pointed to, and it's not entirely uniform about how to look at all this. And some statutes are expressed about it. But it seems as though the language by itself is somewhat ambiguous. And you could think that incapability really means sort of preying on those people who are weak and unable.  rather than kind of taking advantage of an opportunity to surprise a perfectly capable person, but you're just taking advantage of surprise. So do you agree that you think ordinary language, the only way to read incapable is to include surprise?",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 3001.971,
+    "end": 3067.469,
+    "text": " Like a lot of terms, it could be read different ways, but I do, one point I would like to make, because Mr. Kaplan has cited a number of cases applying the federal statute. And I think there's a very key distinction between the federal statute, which is 18 U.S.C. 2242-2. There's a key distinction between that and D.C. 's fourth degree statute. The federal statute talks about a person being  physically incapable of declining participation in or communicating willingness to engage in that sexual act. So it uses the term physically incapable. The D.C. statute does not say physically incapable. It just says incapable. Physically incapable, I would  submit could well be read to sort of limit incapability to situations in which the victim is perhaps drugged, intoxicated, asleep. In other words, there's some physiological barrier to being able to either withhold or decline consent.",
+    "speaker": "nicholaspcoleman",
+    "tags": [
+      "legal_citation",
+      "substantive_argument",
+      "rebuttal_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3068.009,
+    "end": 3087.26,
+    "text": "It's weird that you go to those examples, because that sounds like mental incapacity to me, not physical incapacity. If they were in the right state of mind, they could very well say no, but they are  too drugged up to do it. So that might be the reason why you might not put the word physical physically incapable in there is because you want to incorporate mental capacity as well.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_comment",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 3087.841,
+    "end": 3137.439,
+    "text": "Well but I think that there on that point both the fourth both DC statute and the federal statute have the same prong about talking about being  incapable of appraising the nature of the conduct, which there goes to sort of the inability to understand. And whether that could be temporary or not temporary, you know, probably had to be fleshed out. But I think that is a key distinction, nevertheless, the idea of either incapable versus physically incapable. And, you know, the DC statute  omitted the term physically incapable. So again, I just don't think that what we have here is a statute that doesn't cover this just just so I understand how you read the fourth degree sex assault statute.",
+    "speaker": "nicholaspcoleman",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "hedge",
+      "concession",
+      "disagreement"
+    ]
+  },
+  {
+    "start": 3138.465,
+    "end": 3165.47,
+    "text": " If this same set of facts happened, except Mr. Cardozo announced himself, that he was facing her, and from 100 yards away, he said, I'm gonna hug ya, and I'm gonna touch ya, and you can't stop me. And being perhaps a larger man than Planet, she could not fend him off, and he managed to hug her and grab her. Was she incapable of declining?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 3166.857,
+    "end": 3282.978,
+    "text": " No, because there again, I don't think incapable is limited only to the sort of, again, the physical ability to fight somebody off. But in that case, she is capable of communicating lack of consent. She's capable of declining it.  There, that's really more of a third degree sexual abuse charge because there you're using the defendant is using force to overcome or her resistance or to restrain her while he commits the crime. And I think that does point up if in this particular case to use its set of facts, if the jury had decided along the lines of what Mr. Kaplan is arguing that, well,  You know, maybe he really didn't use force to restrain her. Maybe when, you know, maybe the officer was wrong to say that he was actually bear hugging her. Maybe he just put his hands around her, but he wasn't actually restraining her. But he still snuck up behind her and did that in a way so that she wouldn't know what he was doing until it was too late and couldn't consent. Perhaps the jury might've had, might've wondered, well, was force used in this case? And if they had decided  were not sure, they nevertheless could have convicted of the fourth degree sexual abuse by saying that even if we're not sure whether he used force, now we obviously argue that he did, and the jury clearly accepted that he did use force.  But they might have decided that in this case, we're not sure if he was using force to restrain, but he certainly did sneak up behind her and did so in a way and use that element of surprise to essentially deprive her of the ability to say no. And I think that- Well, we're really running out of time, but I did want to quickly ask you about third degree and fourth degree merger.",
+    "speaker": "nicholaspcoleman",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "hedge",
+      "time_management"
+    ]
+  },
+  {
+    "start": 3284.638,
+    "end": 3308.625,
+    "text": " Two questions, one of which is, are you aware of any statute that we have where we have said that a defendant can be convicted both of X degree and X plus one degree of a name defense? So multiple degrees worded in that way. Is that something you've ever seen before? Or would this be the first time where we had so concluded?",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 3310.493,
+    "end": 3346.277,
+    "text": " I personally am not aware of one. That doesn't mean it's not there since obviously I don't claim to be able to know that. I think one thing to sort of bear in mind is that fourth degree, although they're called degrees, that doesn't necessarily mean that they are lesser included of each other. In other words, they can be written in such a way that the elements don't merge.  They may, that degree is being used here, it seems to me, to sort of communicate a level of severity as opposed to whether one is necessarily a lesser included of the others.",
+    "speaker": "nicholaspcoleman",
+    "tags": [
+      "concession",
+      "hedge",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 3347.713,
+    "end": 3375.687,
+    "text": " And the second question I had was, in your brief, if I understand your discussion of kind of how to apply the Blackburger-Elements test, I thought your brief said, if I'm recalling correctly, that third-degree sexual abuse requires use of force, and that that was part of your explanation. And that doesn't seem to me a correct premise for how you would analyze them. Is that your theory about why it is that they don't merge is because third-degree sexual abuse requires use of force?",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question",
+      "legal_citation",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 3376.482,
+    "end": 3381.806,
+    "text": " Well, certainly the way it was charged in this case, I don't, I'm sorry, I don't have the statute.",
+    "speaker": "nicholaspcoleman",
+    "tags": [
+      "fact_statement",
+      "concession",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3381.946,
+    "end": 3390.131,
+    "text": "I don't think we ordinarily do merger analysis by the way in which a case is charged rather than by the element, the statutory elements of the offense.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_comment",
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 3390.531,
+    "end": 3411.645,
+    "text": "Right, but there are subparts to different statutes. I guess I wanna just pull up the, and I apologize, I don't have it right in front of me, the third degree statute. As I vaguely recall,  There are a couple of different ways. It has four subparts.",
+    "speaker": "nicholaspcoleman",
+    "tags": [
+      "fact_statement",
+      "hedge",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3411.745,
+    "end": 3436.22,
+    "text": "Use of force is number one, and there are others about rendering people unconscious or the like. Is it implicit in your answer that you just gave that you think that the way we should be doing the merger analysis is to look at any particular subpart and say, well, this is third-degree sexual abuse force, subsection one, and we figure out whether that merges with some subsections of fourth-degree sexual abuse. Is that how we should be doing it?",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 3437.34,
+    "end": 3507.235,
+    "text": " I think you do, because a statute can chart, you know, call a crime committed in a couple of different ways in defense, but still call it all the same crime. I think you do have to look at the elements sort of, you know, as they, you know, the way that they're charged shows you sort of what the elements, assuming, you know, the charge in language is not, doesn't track, as long as it tracks the statute,  In this case, yes, force was the element that was charged. It's not that he rendered her unconscious. So that aspect of the third degree charge was not used and it was not an issue in this case. But yes, force was the element that was charged for purposes of third degree and fourth degree involves the, in our view, the use of surprise  which is how the victim was not capable of providing consent. Those are two different elements. One is not required for third degree, one is not required for fourth degree, and thus under the Blockburger test, they do not work.",
+    "speaker": "nicholaspcoleman",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3508.195,
+    "end": 3530.062,
+    "text": "I'm sort of surprised at that. I always thought under Blockburger, you look at the statute, not the subdivisions of the statute. I mean, sometimes statutes have  You can do it A, B, or C. Sometimes they just have a statement that says anyone who does X or Y or Z is guilty of it. You look at all three.",
+    "speaker": "judgesteadman",
+    "tags": [
+      "judge_comment",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 3530.582,
+    "end": 3569.678,
+    "text": "I do want to make clear that I'm not trying to sort of change our approach to Blockburger here. I guess my point is this. The elements of these two offenses don't  overlap here completely. Each does have an element that the other does not. And this case, although we normally don't use the facts, obviously it's not a fact-based analysis, but this is a case that shows how you could commit one offense without committing the other and vice versa.  be okay. Thank you, Council.",
+    "speaker": "nicholaspcoleman",
+    "tags": [
+      "legal_citation",
+      "substantive_argument",
+      "concession",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3569.698,
+    "end": 3578.224,
+    "text": "We're well over time. Unless any colleagues have further questions, we'll wrap this up and give Mr Kaplan three minutes of rebuttal. Thank you.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "time_management",
+      "reserve_time",
+      "court_procedural_remark",
+      "judge_procedural_directive",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 3578.244,
+    "end": 3587.951,
+    "text": "Thank you very much for your time and would respectfully urge the court to affirm. Thank you, Mr Kaplan.",
+    "speaker": "nicholaspcoleman",
+    "tags": [
+      "substantive_argument",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3587.971,
+    "end": 3594.576,
+    "text": "You're muted. I apologize for that.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_comment",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3595.698,
+    "end": 3753.846,
+    "text": " I'll be brief, Your Honor. Opposing counsel talks about the intent of Congress, and I think that's important. This statute is under a section of DC code called entitled kidnapping. It's a 30-year felony. I think that needs to be taken into account in interpreting the provisions of the statute.  And it simply seems to me inconceivable that Congress would have intended the type of conduct that the government is now contending is covered by this statute to be deemed a kidnapping offense. And I would specifically direct the court to the Supreme Court's case in Chatwin, where the Supreme Court makes exactly this point that we can't consider  that this is a kidnapping statute. And obviously, the court was dealing with the federal statute. But the court's point was that we're dealing with kidnapping here. This is a very serious offense, and we cannot have trivial conduct be deemed to be a kidnapping, and that Congress could not have intended that.  know, the government sentiment, Judge Deal may have quoted this, but the government says in his brief, the district's kidnapping provision captures all conduct obstructing or forcing the movement of another without their consent. And I don't think the government is retreating from that position. I mean, this is, we cited the example in our brief, someone blocking another person from  leaving the subway car. In the government's interpretation, that would seem to be kidnapping. And our view is that that clearly could not have been what Congress intended. Unless there's any other questions about kidnapping, let me turn just briefly to the  to the incapacity, to the issue of incapacity under a fourth degree sexual abuse. I mean, the statute says that the person, for a conviction, the person must be either A, incapable of appraising the nature of the conduct. And clearly here, there's no allegation the victim knew what had happened the moment she was touched. B, incapable, declining participation in sexual conduct.  She did decline, and she said no immediately when she was touched, and she walked away. And see- Well, Mr. Kaplan, on that point, I think you might not be chopping the issue up with the sufficient temporal granularity.",
+    "speaker": "matthewkaplan",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "rebuttal_argument",
+      "fact_statement",
+      "policy_argument"
+    ]
+  },
+  {
+    "start": 3755.607,
+    "end": 3806.89,
+    "text": "And there are a bunch of cases that are like this where someone will be asleep, and someone will begin assaulting them while they're asleep, and they couldn't, they were unable to appreciate it and decline then, but they wake up in the middle and say no,  And cases around the country that take that form, what they say is, well, we're going to talk about the assault at its beginning and its inception. And there, there was sexual contact or whatever the particular statute prohibits at a time at the beginning where there was inability. It's not a defense that eventually the victim wakes up and is able to resist, whether successfully or unsuccessfully. So if your client, at the moment of the touching,  I think you would agree that there wasn't a practical opportunity for the complainant to express disinterest in having that, or lack of interest in having that contact.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_comment",
+      "legal_citation",
+      "substantive_argument",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 3807.631,
+    "end": 3829.436,
+    "text": "But you're right, I don't think it can be reasonably said there was incapacity. When someone's asleep, there's a mental incapacity.  physically unable to consent. There was no incapacity on the part of the victim. She knew what happened and she did refuse to consent. She indicated a lack of consent immediately. And I think- Thank you, Counselor.",
+    "speaker": "matthewkaplan",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "concession"
+    ]
+  },
+  {
+    "start": 3829.456,
+    "end": 3843.965,
+    "text": "We're well over time. And so I appreciate everybody's arguments. We will take the matter under advisement. The case will be submitted. We will now stand in a brief recess while we reconstitute the panel. Thank you very much, Counselor.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "time_management",
+      "acknowledge",
+      "judge_procedural_directive",
+      "court_procedural_remark",
+      "case_transition"
+    ]
+  },
+  {
+    "start": 3849.242,
+    "end": 3890.322,
+    "text": " this court to take some short recess.  is back in session. Please come to order. Good morning everyone.",
+    "speaker": "courtroomclerk",
+    "tags": [
+      "court_procedural_remark",
+      "court_opening",
+      "time_management"
+    ]
+  },
+  {
+    "start": 3890.743,
+    "end": 3917.614,
+    "text": "Sorry for the delay. We're having some technical difficulties. We are back and  We'll call the second case. Before I do that, I will indicate, I mentioned before that Judge Nebaker was gonna be replacing Judge Stedman, but Judge Nebaker will be taking the case, the argument on the tapes. So we'll call the second case, which is Gary Youngblood et al versus DC Board of Zoning Adjustment, numbers 19AA294 et sec. Counsel, you may proceed.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "court_procedural_remark",
+      "case_call",
+      "case_transition",
+      "judge_procedural_directive",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3922.341,
+    "end": 4003.323,
+    "text": " May it please the court. My name is Heather Benno and I represent the petitioners and appellants, property owners and neighbors at Beekman Place and one other property. Good morning and I will ask to reserve three minutes for rebuttal.  This petition seeks review of an order of the Board of Zoning Adjustment granting special exception to allow the expansion of Meridian International Center operations with a new conference center and construction of a mixed-use building with even more event space and between 111 to 115 condo units.  To get to the heart of the matter, the ANC1C08, Ms. Fox Perry, testified at the hearing in this matter regarding MIC's operations.  Quote, even though it was anticipated as functioning like a private school, it's functioning as a private event center, as much as anything else. In 2017, MIC had 149 events, 87 of which were private rentals, 39 weddings. You know, when that happens, the entire neighborhood turns into a parking lot.",
+    "speaker": "heatherbenno",
+    "tags": [
+      "opening_argument",
+      "reserve_time",
+      "fact_statement",
+      "substantive_argument",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 4005.222,
+    "end": 4019.901,
+    "text": " Half the time. Councilor, just so I understand where you're going with this. Is your argument that in order to be a school for zoning purposes, it needs to be primarily a school, that it's primary function, or can that be a secondary function?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 4022.023,
+    "end": 4061.066,
+    "text": " It has to be a function and as the court analyzed in the neighbors on Upton Street case, the primary issue, what the court said in that case far more significant is what the record actually shows about what goes on at the school on a daily basis.  So you have to look at what goes on on a daily basis at the property at issue in order to determine. But I think Judge Diaz's question is to a degree legal about what is your position about what makes a school can permissibly do?",
+    "speaker": "heatherbenno",
+    "tags": [
+      "legal_citation",
+      "fact_statement",
+      "substantive_argument",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 4061.646,
+    "end": 4103.742,
+    "text": "And so I understand one of your broadest arguments seems to be really none of what they're doing is school-like. It's not educational in the right way.  But then you have, seems like another argument, which is, well, even if some of what they do is schoolish enough, is educational enough to qualify it as a private school, it's doing too much other stuff. And are you, just to draw an example, so,  Can a private school, in your view, consistent with a special use exception, can it have some private events, you know, after the hours it kind of rents out its space and does a little bit of that, but not very much of it? Or can it be only school uses, however you're going to define what a school use is?",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_comment",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 4104.83,
+    "end": 4143.714,
+    "text": " Yes, they can have some private events your honor to address this and we addressed it directly in the brief as did the ANC one see when she said that in one of the prior applications for a special exception, the board found that.  that the institution was allowed to have the number of dances typical to a regular college. That's not the exact quotation, but I could find it in the record for you if you wanted to see it. And do you know off the top of your head what regulations you think govern the extent to which something that is let's say primarily a school",
+    "speaker": "heatherbenno",
+    "tags": []
+  },
+  {
+    "start": 4145.32,
+    "end": 4169.029,
+    "text": " and therefore, let's say, an appropriate entity to get a special use exception. How much of that it can do or what governs the limitations, if any, what regulation do you think governs the limitations that may exist on the ability of something that is to a degree a school to be using its property primarily, largely, exclusively for things that are not school-related?",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 4170.669,
+    "end": 4171.57,
+    "text": "Do you have a reg?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 4174.099,
+    "end": 4175.879,
+    "text": " Yeah, do you have a regulation that you could point us to or?",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 4176.56,
+    "end": 4296.975,
+    "text": "Well, the regulation that I am relying on is the regulation for the special exception and the special exception review. So. Essentially, the BZA is authorized to grant it when it will be in harmony with the general purpose and intent of the regulations, of course, and secondly, will not tend to affect adversely the use of neighboring property in accordance with the zoning regulations, zoning gaps.  And finally, of course, they can set special conditions. So it's actually the regulations themselves on the on 11 X DC Mr 104 the private school plan regulation.  The regulations specifically say, and that's why our argument is that the BZA didn't do its job at actually analyzing its own regulations, that the private school may be located so that it is not likely to become objectionable to adjoining a nearby property because of certain activities and adverse impacts like noise, traffic, number of students, or otherwise objectionable conditions.  The number of staff, for example, between MIC operations in their conference center, their staff and the number of staff at the Levine School was somewhat comparable. There are actually more staff at MIC. So what we're arguing is that simply relying on saying that there's some instruction that takes place opens the door to almost anybody, any residential  at private residents could say that they host events that are of an instructional nature. Certainly all the conference centers and all the hotels in the district could make the same argument and could justify turning a residential zone essentially into a completely different use or justify a different use.",
+    "speaker": "heatherbenno",
+    "tags": [
+      "legal_citation",
+      "substantive_argument",
+      "policy_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 4297.195,
+    "end": 4355.107,
+    "text": " There are kind of two related issues. I know that you, in my mind, you, I think, acknowledge that we ordinarily will give great deference to the BZA's interpretation of its own regulations. I know there's some dispute in the Supreme Court about how much, whether that should continue to be the law or if so, how. And there'd be interesting questions about whether we would be affected by any of that dispute. But taking as a given that we need to give the BZA a lot of deference here.  What then comes is, let's say it is a little hard to figure out the line between something that is educational enough that you could call it a school and something that you just can't reasonably call a school. If that's a hard line to draw, it seems that we're gonna need to give a fair bit of deference to the BZA wherever it settles. Do you agree with those general comments or do you take issue with some aspect of that set of remarks?",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_comment",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 4355.886,
+    "end": 4369.835,
+    "text": " The aspect that I take issue with is giving the BZA great deference to the extent that it does not have to engage in legal analysis at all. And that's what happened here.",
+    "speaker": "heatherbenno",
+    "tags": [
+      "substantive_argument",
+      "disagreement",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 4369.895,
+    "end": 4387.786,
+    "text": "I was thinking of that as almost a second issue, which is whatever deference we're going to give, there are principles of administrative law that require explanation and adequate explanation. And I gather that a part of your point is  It's hard to figure out what exactly the line is between a school or not a school, but you think the BCA hasn't adequately explained what it's doing here.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_comment",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4388.747,
+    "end": 4409.459,
+    "text": "Well, it simply relied on the on the regulation and the definition alluding to the Webster's Dictionary and in no way even followed the instruction of the court in analyzing the activities on a daily basis as it applies to the application of this definition in the case. Well, what I mean, their explanation is",
+    "speaker": "heatherbenno",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "rebuttal_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 4412.514,
+    "end": 4489.067,
+    "text": " A private school is not a defined term. The regulations tell us if you don't have a defined term, go look at a particular dictionary. When we look at that dictionary, we see that there's a pretty broad definition. You know, something that can be viewed as a school if it's, you know, there's some educated learning that happens there.  And we're going to pick that definition, and we're going to say that, as we have for the last 60 years, that at least some of what MIC does makes it a school. And it's not a public school, so it's a private school.  why isn't that an adequate explanation? What do you think? I mean, I get your point that maybe there's an argument that even if that's true about some of what MIC does, it does so much other stuff that there's like a primary purpose test or a primary function test. So I got that thought. That's less an explanation point and more a substantive argument you have about the only way it's reasonable to interpret this regulation. But it seems like a pretty understandable explanation. It just seems as though in part your point is,  That's just too broad. That's unreasonably broad. If you take that definition, it'll go so far that it can't be what a reasonable interpretation of this regulation is. Am I right? That's a part of your argument.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_comment",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 4489.527,
+    "end": 4588.916,
+    "text": "That is a large part of our argument on the statutory construction because the way that the BZA interprets the definition is so broad that it allows itself to apply it in an arbitrary manner. That's the whole problem. And I have to point out that  The police here did not distinguish the Levine School or the court's treatment of that school and analysis in that case where I understand the special exception was granted, but it's clear that the court didn't simply say, oh, there's some instruction here, so that's it. The court looked at whether or not the school's allegations that it was functioning as a community center actually held water.  The school, in fact, provided instruction and analyzed the number of students enrolled. And it compared it to what other educational institutions might look like as opposed to trade schools. And that's how it was able to determine that it was a school. And so we're not arguing that you abandon the Webster's dictionary definition. We are providing deference to the BZA's interpretation of the regulation and using that.  definition, but simply saying that the BZA is not empowered, is not allowed such deference that it is able to make arbitrary and capricious determinations. So if hypothetically in this case we're remanded and the BZA fleshes out facts that it lays out on page 31 of its decision, page 203 of the joint appendix,",
+    "speaker": "heatherbenno",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement",
+      "record_reference",
+      "concession"
+    ]
+  },
+  {
+    "start": 4589.761,
+    "end": 4613.626,
+    "text": " where it says, you know, it's a nonprofit organization, it offers educational and cultural exchange programs. If it said it offers 20 such programs a year, it has, you know, four instructional seminars per quarter, is that gonna satisfy your complaint? I mean, is it just a matter of fleshing out the details? Or is it that- Well, in this case- Please, go ahead.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "judge_procedural_directive"
+    ]
+  },
+  {
+    "start": 4615.156,
+    "end": 4649.776,
+    "text": " The reason why that's important is because the BZA is essentially a trier of fact. And we have the opportunity, the neighbors have the opportunity to challenge the veracity and credibility of the applicant and to say, hey, this is not happening. Okay, they're alleging that they have these many events, but this is what we see on the day to day.  And because that analysis did not take place, there was no balancing of of kind of the day to day operations of M.I.C. with, you know, it's it's council.",
+    "speaker": "heatherbenno",
+    "tags": [
+      "substantive_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 4649.816,
+    "end": 4665.247,
+    "text": "It's a little hard to hear you making that process argument when this argument was raised until after the hearing. I mean, the reason you didn't have an opportunity to flesh those facts out, I think is you didn't raise it.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_comment",
+      "disagreement"
+    ]
+  },
+  {
+    "start": 4667.248,
+    "end": 4719.39,
+    "text": " Um, on, so of course the neighbors are talking about impacts to themselves and they did submit testimony and the ANC did testify and also made this argument after the fact. But this is not in terms of the day to day operations, all of that was in the record that did not need to come from the neighbors themselves. They are providing evidence about the, um,  I guess, bad faith in dealing with the applicant in the past. But because the BZA didn't consider basically that back and forth and didn't, essentially they just shirked their responsibility of truly analyzing whether or not this event space or MIC functioned as a school. And so- Can I ask you legally, I get your point.",
+    "speaker": "heatherbenno",
+    "tags": [
+      "fact_statement",
+      "substantive_argument",
+      "record_reference",
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 4722.061,
+    "end": 4782.411,
+    "text": " The BZA didn't explain enough, but it also just went too far. It can't be enough that if you can say about a location, a use of a location,  that something educational happens there that we're going to call it a school for purposes of special use regulations. I understand that argument, but if we're going to be persuaded by it, it might be important to be able to say to us, okay, here is at a bare minimum what needs to be required more than that. So what is it you think that the BZA just couldn't, you know, it's like the bedrock bare minimum that  that it's just unreasonable for the BCA not to insist on? Is it that at least half of the events by hour are educational? Is it they use the word student to describe who they're dealing with? Is it that it is not commercial? I mean, what do you think the bedrock things are that would have been more in the realm of what would make a definition that the BCA could accept within the realm of reasonable ones?",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 4785.554,
+    "end": 4892.696,
+    "text": " I think we would encourage the court to to instruct the BGA to analyze factors. So there are a number of factors. For example, when we look at the Levine School, they looked at whether or not individual or classroom instruction was provided. They looked at whether or not they did outreach to students and how they did that.  They looked at how students presented themselves and activities to the community. They looked at national associations that the school was associated with, like the National Association of Schools and Music. So these were all kind of measures that the court was able to take to assess whether, and it's not any one of those things that would be definitive as to what on the question of the school, but cumulatively to be able to analyze  That point of law. And, and we would add one additional thing. And, and that is that the employees also brought this out in their brief. They're not even arguing that that MIC would be you would be under the regulations, using the property as an educational use and in fact they distinguished, they said it's not, it's not really important.  whether or not the term educational use applies here because that's not the word school. Well, you know, that would be one useful thing that the BZA could do is look at other sections of the regulations and see how education is treated in analyzing these. Yeah, I'm interested in that answer because you did cite another, I mean, although private school is not a defined term, private education is a defined term.",
+    "speaker": "heatherbenno",
+    "tags": [
+      "court_procedural_remark",
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement",
+      "policy_argument",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 4894.017,
+    "end": 4949.235,
+    "text": " And but that definition, it's a little unclear to me, but that definition seems like it might exclude the Levine school even. And so it seems to say.  educational, academic, or institutional use with the primary mission. So that might be some guidance about how important the educational uses have to be relative to other uses. Providing education and academic instruction, that provides district or state mandated basic education or educational uses. And if it has to be district or state mandated, I mean, there's no legal obligation mandated by the district that kids get, or even kids or adults get,  music education of the kind they'd get at the Levine School. So I'm wondering whether if that definition were carried over, it would have some pretty significant consequences, including meaning that the Levine School case was incorrectly decided.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_comment",
+      "judge_question",
+      "hedge",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 4950.045,
+    "end": 5061.015,
+    "text": " Well, we're not arguing that that definition should be applied here to the T but simply that it should be used, at least considered in analyzing whether or not educational activities take place and to what extent the, the  the institution is in fact a school. So we do believe that the statute and the regulations provide the guidance that would be necessary for the BZA and that the BZA's regulations can be consistently interpreted, but that with the BZA kind of refusing to  adopt any kind of test here, besides just alluding to the Webster's dictionary, it seems like those tools are just not being used. And therefore, the purpose of the BZA in ensuring harmony and trying to mitigate against adverse impacts and neighbors  Also in pursuing the goals of the zoning regulations and the zoning laws, they're basically not being upheld. So unless there are other questions about the school argument, we did raise a bunch of other issues in our brief related to statutory construction and regulatory construction, just in terms of how people should be able to understand these regulations.  But again, we don't think that any one particular factor needs to be dispositive, but for purposes of consistency and to avoid arbitrariness, the BZA should be employing a test and using it when it decides applications like this, even though it didn't do so here. Then we wanted to turn to the second issue, which is on... I'm sorry, just so I give you a chance to articulate it.",
+    "speaker": "heatherbenno",
+    "tags": [
+      "substantive_argument",
+      "concession",
+      "hedge",
+      "record_reference",
+      "case_transition"
+    ]
+  },
+  {
+    "start": 5061.035,
+    "end": 5063.797,
+    "text": "And what is the test you think they ought to be applying?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 5065.62,
+    "end": 5075.652,
+    "text": " Um, a test that examines the day to day operations of the school looking at whether that's not a test that's a that's a mode to looking at whether or not a test is satisfied.",
+    "speaker": "heatherbenno",
+    "tags": [
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5075.712,
+    "end": 5096.697,
+    "text": "So what is what is the bar that we're looking that you would have easy a.  measure this against? Put aside the process, put aside, you know, how, you know, the various factors they look at. What's, what's the question at the end of the day is just, you know, the basic, is it a school without rounding, you know, you don't have any more you want to layer into that?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 5098.606,
+    "end": 5115.261,
+    "text": " Um, well, of course, I do. That one particular question is just dispositive, because it doesn't get the special exception if it does not function as a school. And as we did, I guess, I guess I don't find the question so meaningful.",
+    "speaker": "heatherbenno",
+    "tags": [
+      "substantive_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5115.281,
+    "end": 5143.468,
+    "text": "I don't know, you know, don't really know what that means. So what are we to look at, to try to flesh that out? What  sources, can we look to just say, oh, you know, it needs a student body, it needs a faculty, it needs classes on a daily basis. I mean, where would we derive those types of requirements for, or are you just saying it's kind of a field test, it's a totality of the circumstances, and you feel it out, and you give deference to the BZA and their attempt to feel it out?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 5144.328,
+    "end": 5200.092,
+    "text": " I was arguing honestly, what I thought was less controversial, that it would be something like a totality of the circumstances test, where the BZA would have to take into account all of the facts on the record and apply it here. And I don't think that there's one or another factor that's dispositive on whether something is a school, but seeing in the context of the  the purpose of the zoning regulations, the school should be functioning to a certain extent consistently with educational, the way that educational use is used by the regulations and other places, not necessarily requiring to the T every single requirement, but at least consistent with the spirit of those rules. In order to- So can I, just to get a sense of like where, where you would, I mean,",
+    "speaker": "heatherbenno",
+    "tags": [
+      "substantive_argument",
+      "policy_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5201.092,
+    "end": 5250.353,
+    "text": " Totality of the circumstances test can be amorphous, and so it can be hard to get a sense of what it is you have in mind. It can help a little bit if, for example, if I started up a for-profit company where I had all day long, I have people who I call teachers come in and teach what I call classes, and people pay what I'm going to call tuition.  And that's the only thing I do, I'm for profit. Is that, does it depend on what my subjects are? Does it depend, you know, if that is my model, those are my labels, and what I'm doing is, I don't know, teaching,  You know, it's a teaching sculpting. I assume that's like the Levine School, that would be okay?",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_comment",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 5251.634,
+    "end": 5297.818,
+    "text": "Let me just extrapolate that one step further. To me, that sounds okay. But if it's taking place on top of a condo building, or let's say it's taking place in my single family home, and I  would like to build a large conference facility in my backyard because I have programming at my institution.  And I believe that that would be a benefit to the institution. So the point here is that it's not just the functioning, it's the zoned use. And I understand that and I understand your idea about primary use, but just a slightly different hypothetical.",
+    "speaker": "heatherbenno",
+    "tags": [
+      "substantive_argument",
+      "policy_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5297.838,
+    "end": 5332.442,
+    "text": "Imagine a set of sculpture or music. I'm running what everyone would normally think of as a gym.  But I call it an adult, a physical education center, and I call the people who come, you know, students, and I call the staff who work with them trainers or faculty, and I have spin classes, and I have yoga classes, and I say, that's just my physical education school. Would you say that's fine, or would you say, look, on any reasonable application of the multi-factor test that you have in mind, that would be on the wrong side of a reasonable outcome?",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 5333.277,
+    "end": 5407.525,
+    "text": " That would be a gem. Yeah, it's an interesting question. I would look forward to seeing the way the court would treat a case like that. But I think here, I mean, right, obviously, there is no bright line rule that's going to jump out saying, oh, that is a school. I mean, at the top of my head, I don't  I'm not personally aware of any physical education school that exists. But maybe I just haven't heard of it. Music schools, however, are fairly common and the court did address that in the case. So maybe that example would be a little bit different. But I think the point is that you have to look at the use  that is already zoned for the property, you have to look at the daily operations of the institution, you have to look at the definition, and you have to look at the impact to a certain extent in order to analyze whether that institution is functioning enough like a school so that it would not be disruptive.  Council, I apologize because you were trying to move off the school discussion which we spent a lot of time on to get to some of the other, you know, some of the points we're already over time.",
+    "speaker": "heatherbenno",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "hedge",
+      "acknowledge",
+      "concession",
+      "time_management"
+    ]
+  },
+  {
+    "start": 5407.545,
+    "end": 5417.477,
+    "text": "I do want to give you at least a couple minutes. If you want to pick you know what your, your main remaining point that you'd like to make sure you get a chance to say some things about and then we will give you your time rebuttal.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_procedural_directive",
+      "time_management",
+      "reserve_time"
+    ]
+  },
+  {
+    "start": 5417.977,
+    "end": 5463.503,
+    "text": " Thank you. Yeah, I mean, just to point out a couple of issues on the hoarding or lack of affording the ANC1C great weight in her concerns and the impacts. It is our position that it's clear that listing off the concerns is not enough.  they have to actually be addressed. And so stating that the ANC had a concern with traffic, or had a concern with noise, or had a concern with the comp plan, and simply dismissing it by relying on an MOU, that actually may or may not be enforceable.",
+    "speaker": "heatherbenno",
+    "tags": [
+      "substantive_argument",
+      "policy_argument",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 5464.124,
+    "end": 5503.446,
+    "text": "Council, can I ask you a question just to, it might help you, might help me.  When I feel like a lot of what the BZA said in response to the agency concerns, but remembering right was.  They can do more noxious things as a matter of right with regard to traffic and they can do more noxious things with regard to the height of the building and the density of the building. So you don't really have much of a complaint with what they're doing. The complaints that you have are things that have nothing to do with the exception that they're seeking because they could do all that anyway.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 5506.709,
+    "end": 5754.713,
+    "text": "What's wrong with that?  That's why I was going to start with the quotation from Miss Fox Perry, where she says directly to this point, quote, the other thing too, is that we're being told, look only at the conference center and not at the 111 unit condominium building because the building is by right. The components of this project, however, are inseparable from each other.  You've got the motor court, the parking garage. They're all going to be shared. It is really impossible to separate them, and that the burdens, the impacts from both should be considered. And so that is our point there, that yes, of course, there is a matter of right. But we're not talking about conceivably what the applicant could do in another hypothetical world. We're talking about what they're planning  to do and the actual concerns that neighbors, as represented by their elected official, ANC, voiced. And so that's why, as a matter of right, it doesn't discount the concerns that they have. Because actually, the conference center is a huge portion of this development. As MIC explained itself,  reason for the condominium building is to support its operations. Its operations are of the set of the event planning type or of the event space that we discussed earlier. And so these two facilities are joined. So it is impossible to say what the actual impact would be in some other plan that would allow, you know, lower density residential housing across the entire piece of property, because that's not what's presented before us.  And that may be completely impractical given the fact that there are two national historical landmarks on the property as well.  I just want to say in closing, because we are over time, that we did deal with, and there was some confusion or back and forth, I would say, in the briefs about the issue of the comp plan. And it is not our position that the BZA implements the comp plan. We did not argue that in the brief. Simply we argued that it is actually the ANC's obligation to look at planning documents of the district.  And she, in her job, in her responsibility of analyzing the impacts of this project, looked at the comp plan and identified discrepancies. And the BZA did not deal with those discrepancies. Understanding that it's no expert in the comp plan, it could at least have answered those concerns. And it just did not.  And it's our position that that cannot be great way to simply ignore the impact by alluding to either an MOU or that may or may not actually be enforceable. And there's things that I can raise. We brought them up in the brief about why those MOUs were problematic. For example, one of the parties didn't even exist at the, you know,  For example, the condominium association doesn't exist so we don't know how we would be working with them or implementing that mo you and then finally on the comp plan that we have a right.  as district residents and the neighbors to look to the future of what DC is going to look like and what that neighborhood is going to feel like living there with this additional conference space and with this additional large building that changes the landscape. So it, you know, it is not affording great weight  to simply dismiss concerns, valid concerns, that the ANC presented by alluding to the Zoning Commission's decision. When you go to the Zoning Commission's decision on this point, and it doesn't address the substance of the matter.",
+    "speaker": "heatherbenno",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "fact_statement",
+      "policy_argument",
+      "legal_citation",
+      "time_management"
+    ]
+  },
+  {
+    "start": 5755.774,
+    "end": 5763.84,
+    "text": "All right, thank you, counsel. We have your argument. We'll give you four minutes in rebuttal, if I recall. That's what you asked for. And we'll hear now from opposing counsel.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "acknowledge",
+      "reserve_time",
+      "judge_procedural_directive",
+      "case_transition"
+    ]
+  },
+  {
+    "start": 5766.862,
+    "end": 5920.118,
+    "text": "Good morning, Your Honor. May it please the court, Deborah Baum on behalf of the intervener, M.I.  C9, owner LLC, on behalf of the Berlin International Center. I'd like to address initially our standing argument. As the court knows, we've moved to dismiss the case altogether on the basis of standing and for summary disposition in response to the petitioner's motion for summary reversal.  On the standing point, the analysis that Judge McLeese laid out in the opinion of the DC Library Renaissance case gives a wholesome discussion and analysis of the District of Columbia constitutional law and standing. And I think this case stands quite in stark contrast to the DC Library case, and specifically,  For standing under this court's jurisprudence, there must be constitutional standing, which requires an injury in fact that has to be real, concrete, and particularized. And that injury has to be fairly traceable to the challenge of action. And third, it has to be likely redressed by a favorable decision in this matter. Second, with respect to prudential standing, they can't  Conditioners can't litigate generalized grievances. And there's a very helpful zone of interest analysis in the D.C. library case. I think in this case in particular, though, I'm not challenging the zone of interest per se, but the injury here that's alleged is in stark contrast to that in the D.C. library case.  The petitioners claimed that as a result of the decision they were challenging, their library was going to be closed, and they said the new one was going to be inadequate. It was concrete, the court held, and particularized. The issue is that it's much more analogous to the claimed injury, if you will, in the York Area Tenants Association case, where the court held that there was no standing.  But if I remember that Buda case correctly, it was sort of this very vague, you know, quiet enjoyment of our homes without putting any meat on the bones.",
+    "speaker": "deborahbaum",
+    "tags": [
+      "opening_argument",
+      "substantive_argument",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 5920.178,
+    "end": 5951.282,
+    "text": "And here we have  You know, there's gonna be a lot of very noisy construction, there's gonna be an increase of traffic, it's gonna be more dangerous to traverse this street, and possibly somebody could get hit. We live right next to it. That seems like an awful lot of injury that would be very well redressed if this exception were not granted to them. So I mean, it looks like the union market case to me, and I guess I don't see what you're pointing to as the difference between this case and that for standing purposes.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_comment",
+      "judge_question",
+      "fact_statement",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 5951.948,
+    "end": 5979.903,
+    "text": " Well, Your Honor, thank you. I'm focusing more particularly in this case on the prongs that require. I think that this injury that's claimed is actually more akin to the York Area Tenants Association because if you look at the specific injury that these particular petitioners claim in their letters that were sort of boilerplate, almost identical to one another.",
+    "speaker": "deborahbaum",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5981.571,
+    "end": 6005.467,
+    "text": " Because they all live in the same building, they're all going to suffer from the exact same arc. I mean, it's not a surprise that they all have the same complaint about a lack of parking and construction. I mean, I don't, not to speak for any other member of the panel, but you know, I'm not, I don't think you really have a leg to stand on on standing. I mean, I would, I'm curious to hear about why M.I.C. is a school. That's what I'm more interested in.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_comment",
+      "disagreement",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 6006.726,
+    "end": 6194.863,
+    "text": " May I just make one point with respect to standing then, understanding and respecting your honor's view on that. I think that the point that I'm trying to make on standing here is that, and it's related to what the Petitioner's Council was talking about at the end of her argument, which is their concern. And if you look at, I'm just reading from the letter, this is, I believe it's at the joint appendix at 405.  a record 405, I apologize. They say the project, which will add more than 110 units of residential housing as a conference center. And I quote, will create an undue burden through the influx of residential and construction related traffic, loss of parking and an inevitable increase in noise and congestion.  And the noise and congestion was akin to what was claimed in York area tenants. But more importantly, the focus was on and the identified impact was the influx of residential and construction related traffic. And the important point here is that those two issues, the residential use is not being challenged, it's a matter of right.  That would not be regressed here. It's not fairly traceable to the challenged action here. It's not traceable to this being a school or not. And second, construction is legally irrelevant under the St. Mary's case. And the BZA addressed that point, particularly at joint appendix 190 in the order. So under this court's decision in the St. Mary's case, you can't look to the impacts of construction because construction is gonna happen at any development.  And my point here on standing is simply that these particular petitioners were citing injuries that they claim would be the natural outgrowth of this residential project and construction related activities is what they were focused on in talking about these particular impacts.  We submit that that's not tied to the challenged action and not likely addressed by a favorable decision. But understanding the court's perspective and interest on the school aspect, I listened with interest, of course, to the arguments of counsel with respect to the school issue.  And it's a little bit ironic, and I would submit procedurally unfair, to say you didn't even flesh this out at the hearing when Judge Steele, as you noted, I was thinking the same thing when that argument was being made, this issue wasn't even raised by anybody until their post-hearing briefs. So it wasn't fleshed out. It wasn't the subject of a lot of  testimony the way it was in the Levine school case. Council on that point, are you arguing that we should just not decide, not review the BZA's ruling on the merits on that issue because the issue was defaulted as not presented before the BZA?",
+    "speaker": "deborahbaum",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "record_reference",
+      "fact_statement",
+      "rebuttal_argument",
+      "concession",
+      "policy_argument"
+    ]
+  },
+  {
+    "start": 6194.883,
+    "end": 6247.613,
+    "text": "Or are you making a somewhat more limited kind of, you know, when you're trying to take into account the reasonableness of the discussion of the BZA, you should factor in when it was raised?  If you're raising the former, there is a complication, which is the BCA itself did not treat the issue as defaulted. It decided. The BCA said, kind of observed, well, it seems like it was kind of belatedly raised.  But it didn't actually say it's defaulted. We are rejecting it on that ground. And we're ordinarily not in a good position to affirm an administrative agency on grounds that the agency itself didn't rely on. So I just want to be clear. Are you asking us to rule? It doesn't matter whether the record right now  supports the idea that this is a school and it doesn't matter whether the BZA actually explained all of that because the issue is just defaulted and should not be considered on the merits or is your argument more limited.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 6248.374,
+    "end": 6336.313,
+    "text": " The latter. The latter, Your Honor. We did not make that argument. We didn't think it would be appropriate to. The BCA did consider it. But it is rather, as Your Honor more eloquently than I can, stated, you have to take into context when you're talking about what's in the record the fact that it wasn't raised until the post-hearing briefs. But the issue here is that counsel made a lot of arguments about how one should look at school, what a school is or what a school isn't.  to the matter, though, here is, you know, if one is a school, if a use is a school use, there are a whole host of regulatory requirements that go along with that. So I think that's probably, as a practical matter, why you don't see people clamoring to be treated as a school, because then you have to go through the special exception process and make all kinds of showings, which was done here.  But the bottom line with respect to the regulations that are on the books now is that there is no definition of private school. And CTA regulations say where there's no definition, you look to Webster's Dictionary. They may not like the Webster's Dictionary definition, but that's what the regulation says. You look to the Webster's Dictionary definition.  And the Webster's Dictionary definition is very broad. And it says a school is, quote, an establishment offering specialized instruction, close quote. Now, if there was--.",
+    "speaker": "deborahbaum",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement",
+      "concession",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 6336.913,
+    "end": 6351.94,
+    "text": "Council, can I just test that for a second? I assume if I were to go get a job at McDonald's tomorrow, they would have to provide me some instructions on how to work the cash register, on how to keep the assembly line moving. In your view, is McDonald's a school?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6353.806,
+    "end": 6366.778,
+    "text": " If McDonald's wanted to come in with a purpose of offering instruction on if they had a special facility on how to training their people. We've got a one week training program for all new employees.",
+    "speaker": "deborahbaum",
+    "tags": [
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 6367.578,
+    "end": 6379.048,
+    "text": "And we instruct them on how to do, you know, use the fryer, how to flip the burgers, how to use the drive through. That's that is, let's say they've got that. Is that is that a school?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 6380.737,
+    "end": 6413.336,
+    "text": " In theory, Your Honor, if they wanted to submit that they were a school instead of a by right use in the commercial zone, I can't fathom why they would want to do that.  under these definitions, in theory, they would. Is my house a school if I have a book group once a week where a group comes in and we, back in the day when we weren't doing things remotely, people came and we talked about books and we mutually educated each other about books once a week?",
+    "speaker": "deborahbaum",
+    "tags": [
+      "substantive_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6414.616,
+    "end": 6440.143,
+    "text": " Or just to give you another piece of the hypothetical, my children don't live at home with me anymore, but when I had children who were living at home with me, my wife and I certainly thought that a big part of what we were doing with our children was educating them about a lot of things, you know, about how to behave and many, many things. So it was my house, a school, because a lot of what was going on there, if I was doing it right and as I was trying to do it, there was a lot of education going on there.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 6441.689,
+    "end": 6462.527,
+    "text": " I like to think I did that with my children in my house too, but I don't think I would call my house an establishment. And this definition talks about an establishment. And again, as a practical matter, if the floodgates opened and everybody wanted to be treated as a school, I can't imagine why they would, because again, it carries with it a whole host of regulatory requirements.",
+    "speaker": "deborahbaum",
+    "tags": [
+      "hedge",
+      "disagreement",
+      "policy_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 6462.787,
+    "end": 6481.353,
+    "text": " Counsel, I don't think judgment places or my questions are getting a sort of a practical concern. I think they're getting at a more linguistic concern. Of what we mean when we use the word school and let me run down a few things that I think of when I think of a school and get your answer to them. How many teachers are on faculty at your school.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_comment",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 6484.663,
+    "end": 6493.586,
+    "text": " I don't know that off the top of my head. There are, they offer instruction. It's a, it is, do you think the answer might be, is there anyone even called a teacher?",
+    "speaker": "deborahbaum",
+    "tags": [
+      "hedge",
+      "fact_statement",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6494.046,
+    "end": 6498.587,
+    "text": "Yeah. Is there anyone called a teacher or instruction who were instructor who works at your institution?",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 6499.087,
+    "end": 6521.41,
+    "text": "I suspect they're called instructors. I'm sorry. Does the record indicate whether there's anyone who is labeled an instructor whose job title is teacher instructor or some word that makes you think of education?  I don't know that off the top of my head, but I will. And I understand, I mean, again, there's a fairness point here, which is you didn't really know that you were going to need to develop a record on this.",
+    "speaker": "deborahbaum",
+    "tags": []
+  },
+  {
+    "start": 6521.61,
+    "end": 6674.45,
+    "text": "And so if the court, I mean, I think that at a minimum, if the court has further concerns about it, there would be a remand where you would have an opportunity to create a full record if there's any concern that there needs to be further proceedings. So I get that point. But just in terms of, I mean, the BZA concluded that the current record was enough to establish  that this is a school. And so I apologize for interrupting Judge Steele. He was asking a question about faculty, but he had some others that are similar to ones I was thinking of. Like, do you have, you know, do you, is there, are there any payments that are called tuition? Are there any, are the people who come and get educated called students? So there are all those questions. And are they, are the events called classes?  What are they called? If they're called conferences, what does that mean? Those all seem potentially relevant if you're trying to figure out whether it's just a reasonable thing to call a school linguistically or maybe in a regulatory way. So that's, and I don't mean, again, I kind of jumped into the middle of Judge Diehl's question, so I want to make sure he gets back in, but the related- I have the same questions. Yeah, but the other piece of it is that your opponent is making an argument and made an argument in front of the BZA of,  that is along the lines of there has to be some quantitative inquiry too. And so if I call, and this Judge Deal's original hypothetical was about that, if most of what I do is running a McDonald's, but once every two months I train new employees for a half hour and I call it a class, I have someone whose job it is to go around the country who's called, you know, the teacher and I call the people, you know, trainee students.  That feels like it's educational and the line between it and the Levine School is hard to draw. But if it is a fragmentary piece of what is mostly being done there, whether you call the establishment as a whole a school, linguistically or as a reasonable regulator, seems a harder question. And your opponents in specific argue that that's true about what's happening here in that even if the conference activities, some of the conferences are educational in character,  over half of what's being done by event counting is private events that, I mean, maybe, you know, I've gone to weddings where I learned things. So maybe you could think of a wedding as an educational event. But, you know, it's a pretty, you know, that gets even more expansive on what is or is not educational. So that's a lot together. But I'm interested in your thoughts about the adequacy of the BZA's explanation  the extent to which you w this and the extent to wh again, this was not a foc",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_comment",
+      "judge_question",
+      "judge_interruption",
+      "court_procedural_remark",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 6681.047,
+    "end": 6709.43,
+    "text": " a lot of evidence submitted at the hearing because nobody raised it. This use has been characterized by the BZA as a school since 1960, through a series of decisions. Now, the court in Tiber Island said, and there's a whole body of case law, saying that the BZA can't arbitrarily, without process, change its interpretation of its own regulations.  But does that bind us in some way?",
+    "speaker": "deborahbaum",
+    "tags": [
+      "fact_statement",
+      "legal_citation",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 6709.53,
+    "end": 6734.645,
+    "text": "I mean, if the BZA has called it a school forever and we've never said actually, yes, this is a school, then what effect does that have on our review? If the BZA can't turn on a dime and change its mind the first time it's brought to our attention, as far as I can tell, we've never said anything about whether or not MICA is a school. Are you suggesting that we're bound, that this court is bound by a past BZA interpretation?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 6736.078,
+    "end": 6761.803,
+    "text": " I'm not suggesting that this court is bound by a past BZA interpretation at all, but rather that this court is bound to defer to the BZA's interpretation and also bound by this court's precedent that says the BZA can't change the way it interprets something without process and explanation. And so, frankly, if- Right, although if there were a remand, process by way of evidence would be available.",
+    "speaker": "deborahbaum",
+    "tags": []
+  },
+  {
+    "start": 6761.843,
+    "end": 6812.572,
+    "text": "But can I ask you about your practical point?  When Judge Diehl and I have asked some questions that reflect some concern about, wow, this could be a very expansive concept of school, and almost anything could be viewed as a school, if all you're doing is requiring non-zero educational activity in some respect, your comment, one line of assurance you give us is, well, you know, practically that's not a problem, because it's really not that great a deal to be a school. Most people won't want to be a school.  So on the other hand, M.I.C. seems to want to be a school for purposes of this. Are you saying we would be doing your client a favor if we say, you know, give it up. Don't be a school anymore. That's hard. Your lawyer said that's harder than not being a school. So we'll give your lawyer the request of making your life easier by not having you take on the difficult burdens of being a school. I assume that's not what you want.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 6813.288,
+    "end": 6940.615,
+    "text": " No, no, Your Honor, of course, it's not. My point there was simply in response to what I understood to be the court's question saying, couldn't this really open the floodgates and my house could be a school and McDonald's could be a school? My point was simply, as a practical matter, I don't think we've ever gotten there. If that happened, I suspect they'd probably change the regulations.  But what we're looking at right now is a regulation that says look to Webster's and Webster's says an establishment offering specialized instruction. No one has ever thought to change that, obviously, because it hasn't become an issue because for precisely the reasons I described, there are people clamoring to be treated as a school, but  In terms of what's on the books here, I would say that if in fact the BZA had said, well, I'm going to apply some kind of a test that says you have to be at least X, and I think you probably have to defer to them anyway, but there would be an argument that that was actually contrary to what is on the book. The definition, there is no definition of private school. The regulations clearly say where there isn't, look to Webster's,  And what Webster says is an establishment, an establishment, not a home, an establishment, which I think is fairly read as some kind of an institution, offering specialized instruction. Now, in the record, in this case, was Meridian describing its core mission as educating leaders. That's its core mission, educating leaders.  People educate, as Your Honor noted, we educate our children at home in one way. People educate in a whole host of different ways. And I don't think it's for the court or the BZA to dictate, and they are not purporting to, how education must take place or what you call the instructors. The definition in Webster's speaks to instructions.  And that is part of the core mission of this establishment.",
+    "speaker": "deborahbaum",
+    "tags": [
+      "rebuttal_argument",
+      "substantive_argument",
+      "record_reference",
+      "policy_argument",
+      "acknowledge",
+      "hedge",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 6941.255,
+    "end": 6996.417,
+    "text": "Can I ask you if you have an answer to the question that I asked your opponent? Let's assume that we think a private wedding is not educational. And I don't think you all have argued that the private weddings fit within the definition. What regulation says that if you're a school and you are allowed to be where you are because you're doing educational things,  you can do some non-school things there. I know there are, there's some definitions of what things are school things, like, you know, sports facilities are school things because they really are educational. But is there, what regulation do you think governs non-educational, non-private school uses of a special exception establishment that is, assume it actually is generally appropriately viewed as a school? Is there a regulation that you would point us to that tells us  that that's allowed at all? And if so, how much of it is allowed?",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 6997.177,
+    "end": 7086.811,
+    "text": "Well, I don't, for example, in the public school definition, it talks about, you know, ancillary uses that are often associated with schools. It's not just the educational. I don't have the regulation right in front of me, but I know that I agree with that regulation that sweeps that kind of thing in. And frankly, in the earlier orders, I think it was the 1960 order. One of the conditions was that the number of  dances, for example, be held to a number that's comports with what is normal for schools and universities at the time. And so, you know, there are a whole host of schools that are subject to extensive regulatory frameworks under the zoning regulations, colleges and universities. And there are concerts, there are weddings, there are all manner of things that happen there, because exactly as your honor pointed out, that's all part of  the educational experience on the one hand, and frankly, as a practical matter, those are nice venues people like to use. And so that is something that is specifically addressed in this order. The BZA took it on head on, and the way it did with the other concerns raised by the ANC, I would respectfully disagree with my opponent with respect to the care and attention  that the BZA showed to the ANC's concerns. It walked through each and every one of those concerns. Can I ask you one?",
+    "speaker": "deborahbaum",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement",
+      "rebuttal_argument",
+      "hedge",
+      "agreement",
+      "disagreement"
+    ]
+  },
+  {
+    "start": 7086.891,
+    "end": 7225.808,
+    "text": "I know Judge Seele may have additional questions too, but there's one area that we haven't discussed yet that is, I think it's briefed in part as a component about giving adequate weight to the ANC. But to a degree, it's a discrete point, which is to what extent in applying it, fulfilling its regulatory function,  is the BZA permitted to or required to consider comprehensive plan elements and zoning maps and all of that. And I found that very confusing. The BZA said not our job and cited some of our cases that seem to say that. But your opponents argue that  So those cases are out of date, that in fact the zoning regulations and the comprehensive plan have been amended in ways that make it quite explicit that the PCA needs to be taking those things into account in various ways. And that there are also some of our cases that now say the PCA is supposed to be looking at this, that, or the other thing.  So I found that all very complicated and I'm curious what your response is on the topic of whether the BZA was correct to say when we're figuring out whether the specific requirements of 901.2 have been met.  we don't need to think about the comprehensive plan. I mean, 9012B itself says, you know, refers to, 9012A says we'll be in harmony with the general purpose and intent of the zoning regulations and zoning maps, which I assume are like the generalized policy map and the future land use map.  But then there's some other provisions that are cited that expressly say, either authorize or seem to require the BZA to be thinking about, what does the comprehensive plan show that people care about in planning? And if someone is saying, I want a special exception, and you're trying to figure out as a BZA, are there adverse effects?  Well, let's look and see what the comprehensive plan thinks is important. And if it's undermining the comprehensive plan, then that might be an adverse effect. So can you just shed a little bit of light on whether you think the BCA was right to say, you start saying comprehensive plan and we start zoning out, no pun intended, because that's not our job.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "legal_citation",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 7226.497,
+    "end": 7376.214,
+    "text": " Well, I'll try to shed a little light on it, Your Honor, but it is complicated. But to the extent that there are decisions cited with respect in the briefs, particularly with respect to this issue, it's because this court decided in 2019. So it's hardly out of date to the extent that our adversaries have suggested that the Citizens for Responsible Options  case was decided in between the decision by the BZA in this case and the briefing in this court. And that case specifically says that the BZA does not have authority to implement the comprehensive plan. The regulations say that the BZA may, and this is what counsel for the petitioners has latched onto, the BZA may  consider and cite to consistency with the comprehensive plan as one of the bases for its granting and application. So it certainly may look at it, but the BZA correctly cited this court's authority, saying that it did not have authority to specifically implement the comprehensive plan. Our point in our briefs was this is not to say that it is irrelevant to the process, because the Office of Planning  is a body that is tasked with interpreting and applying the comprehensive plan. And so in fact, in its report, which it submitted to the BZA and to which the BZA is legally required to give great weight, the Office of Planning does consider the comprehensive plan in consistency with the comprehensive plan. And so in this case, to make the record even stronger, the BZA said,  We hear you on the comprehensive plan. We're without authority to actually implement the comprehensive plan. That's not our job. However, here are the issues that have been raised, traffic, parking, noise, et cetera. Those are all land use criteria that are woven into the comprehensive plan, both in the land use map and other aspects of the comprehensive plan. And then the BZA,  meticulously walked through each and every one of those. So while it essentially said, not our job, it didn't stop there. It went on to carefully walk through page after page after page of discussion of precisely those factors.",
+    "speaker": "deborahbaum",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement",
+      "rebuttal_argument",
+      "record_reference",
+      "hedge"
+    ]
+  },
+  {
+    "start": 7376.735,
+    "end": 7382.097,
+    "text": "And are you trying a distinction in that answer between implementing the comprehensive plan and considering it?",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 7384.03,
+    "end": 7394.816,
+    "text": " To some degree, yes. It's certainly not precluded from considering it. And the regulations specifically say it may look to consistency with the comprehensive plan and supporting its decision.",
+    "speaker": "deborahbaum",
+    "tags": [
+      "concession",
+      "legal_citation",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7395.277,
+    "end": 7437.852,
+    "text": "Well, one of the regulations, 10A DCMR 2504.5,  says require the BZA to look to the district elements of the comprehensive plan and its accompanying maps. So I think they're not all just permissive. Some of them seem to be, and then that's the word is look to, so I'm not sure where you fit that into a spectrum if you're creating a spectrum between implement and consider.  Well, that seems that seems very familiar with that regulation and you think that it's not mandatory or you think that regulation is inconsistent with our case law or how would you respond to what that regulation seems to require the PCA to do?",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 7438.692,
+    "end": 7514.983,
+    "text": "I think that the regulation I think look to is different from, you know, this is the criteria I think look to is  consider, certainly, and they did consider. But the decisions of this court have said the BZA is without authority to implement the comprehensive plan and to basically enforce it. The body that has the authority to do that is the zoning commission. The zoning commission can do that. And in fact, in this case, as the record shows, the petitioners had the opportunity to and you can go to the zoning commission  but it's the zoning commission that has in the land use framework in the District of Columbia, the authority to actually implement the comprehensive plan. And the BZA may consider it, absolutely may look to it and did, and analyzed each and every piece of it. And again, this is one of those arguments where on the standing point, I come back to, there's just no connection here between whether the relief sought  would, in fact, regress the alleged injury because, in fact, the BCA has already gone through every single piece of those land-use factors, every single one of those land-use factors.",
+    "speaker": "deborahbaum",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "legal_citation",
+      "record_reference",
+      "fact_statement",
+      "concession"
+    ]
+  },
+  {
+    "start": 7515.909,
+    "end": 7519.89,
+    "text": " Thank you, Council. Again, unless Judge Geo looks like he may have a question.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "acknowledge",
+      "judge_procedural_directive"
+    ]
+  },
+  {
+    "start": 7519.91,
+    "end": 7561.43,
+    "text": "I just have, you know, really, it's not so much a question as if I want to give you an opportunity to see if you can provide any record sites for things that might answer some of our questions about whether or not this is a school. So like what I've what I've been able to find, which is from the application and it's around elsewhere in the record is four times a quarter. You hold events once a year. You hold what looks like a big gala.  You know, as to who's teaching those events, who the students are, if they're tested, is it the same or is it just a rotating group? Is there a citation in the record? I didn't see anything answering questions like that. If you want to point me to anything, this is just an invitation to do that.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question",
+      "record_reference",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 7562.411,
+    "end": 7631.137,
+    "text": "Thank you, Your Honor.  I have, I'm looking now at page 178 of the, of the joint appendix. And this is page six of the BZA's order. We don't have the sites back to the record on lying at my fingertips, but where this particular part of the order, and I'm starting in paragraph 12, the order talks about Meridian being a premier  nonprofit global leadership organization that offers educational and cultural programs, et cetera. Paragraph 13, Meridian's programs include experiential learning via tours and activities in other cities, as well as various training programs, expert panels, and related events, et cetera. And then paragraph 14 has more detail on that. If the court would like, I would be happy to submit record sites to the evidence  that supports those findings of the BZA. But the BZA did make those specific findings about the educational programs. And they say that they even include work with the DC public schools.",
+    "speaker": "deborahbaum",
+    "tags": [
+      "record_reference",
+      "legal_citation",
+      "fact_statement",
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 7633.439,
+    "end": 7647.331,
+    "text": "No need for my perspective. I mean, the things that are in the BZA opinion itself, I'm not questioning.  Um, so I don't I don't have any need for further record citations as to those facts. Okay, thank you very much.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_comment",
+      "record_reference",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7647.351,
+    "end": 7665.675,
+    "text": "I know my time is long up and unless the court has further questions, I will submit and respectfully suggest that this court because the issues are so plain on the face of the decision, the B. Z. A. S. Decision that we submit that it was appropriate for summary affirmance. Thank you.",
+    "speaker": "deborahbaum",
+    "tags": [
+      "time_management",
+      "court_procedural_remark",
+      "substantive_argument",
+      "court_closing"
+    ]
+  },
+  {
+    "start": 7666.255,
+    "end": 7672.533,
+    "text": "Thank you, Council. We're here now from Council for Petitioners.  You're muted.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "case_call",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7676.742,
+    "end": 7717.489,
+    "text": "Thank you. A new challenge.  Just to get to the point here on the issue of the school, I'm not going to go back and forth again. But I mean, I think that your honors understand that we have great concern with the ability of the BZA to consistently and non-arbitrarily apply that one sentence from Webster's dictionary. And again, we're not disputing the fact that the regulations adopt the definition. It's simply that it's the BZA's job to apply the definition  I mean, it seems quite easy to apply consistently and non-arbitrarily to me.",
+    "speaker": "heatherbenno",
+    "tags": [
+      "substantive_argument",
+      "concession",
+      "hedge"
+    ]
+  },
+  {
+    "start": 7717.949,
+    "end": 7718.79,
+    "text": "Everything's a school.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 7720.53,
+    "end": 7852.618,
+    "text": "I guess if everything's a school, then everything is also not a school at the same time. And the term school means nothing. And I guess that makes it very difficult for neighbors to know how to address these types of applications.  Um, but yeah, it's something that should have been explored at a minimum. I do want to then go to the issue of impacts because I didn't spend a lot of time talking about that. And, um,  My miss them brought up the fact that there were some impacts that were raised in the testimony that she's arguing are not fairly traceable to it being a school or to the relief side. And it's very clear when we started this argument I pointed specifically to that.  That passage that portion of testimony that indicates that this is fairly traceable to the to the school which is not only building a new conference center, but despite it.  It's assertions that it's not really going to be augmenting operations at all, it is adding a conference center. It is an additional conference center whereas now all of their operations are in the mansions.  That's what the applicant is saying, that they are going to build this building to relocate the parking garage, to redo this entire scheme, and to factor in this new residential project. So it's not that the impacts are only traceable to something that's available by right, and I'm gonna discuss that in a moment.  But the project itself is intimately tied with the expansion or the addition of this new conference center. Can I ask you a question about impacts it's very detailed and I just, it just popped into my head and I don't remember the record, clearly answering it though that doesn't mean it doesn't, I just don't remember it.",
+    "speaker": "heatherbenno",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "record_reference",
+      "hedge",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 7853.73,
+    "end": 7877.362,
+    "text": " I know there was an assurance that the number of events was not going to increase as a result of this. Was there any assurance about the magnitude of any particular individual event? That is to say that if they now have a certain amount of conference space and they'll have more, does that mean that they might still have 50 events, but they'll be able to invite  More people more often, or I know their caps on what they can do.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 7877.863,
+    "end": 7913.867,
+    "text": "There are caps on how many people can be there at any given time, there are a number of requirements but my concern and the concern of the neighbors and the concern of the ANC is has always been that.  This applicant has a bad history with MOUs, and we don't even know who we're dealing with when it comes to some of the people that are supposed to enforce these MOUs. So we would have wanted, and when we raised in our brief, for some of the conditions to be integrated into the decision, for them to be conditions of the BZA's order. But they're not, and it relies on this.",
+    "speaker": "heatherbenno",
+    "tags": [
+      "fact_statement",
+      "substantive_argument",
+      "policy_argument"
+    ]
+  },
+  {
+    "start": 7914.347,
+    "end": 7915.588,
+    "text": "Did you ask the BZA for that?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 7917.549,
+    "end": 7938.263,
+    "text": "You mean at the proceeding below? At any point.  And while you're looking for that, I'm right that some were, not all were, but some of the MOU agreements were actually incorporated as part of the order here.",
+    "speaker": "heatherbenno",
+    "tags": [
+      "hedge",
+      "fact_statement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 7938.303,
+    "end": 7938.683,
+    "text": "Is that right?",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 7939.143,
+    "end": 7943.625,
+    "text": "Yes. Some were. Not all. Not all. Yeah. I mean, it's not. I didn't mean to interrupt.",
+    "speaker": "heatherbenno",
+    "tags": [
+      "acknowledge",
+      "concession",
+      "hedge",
+      "agreement"
+    ]
+  },
+  {
+    "start": 7943.665,
+    "end": 7970.849,
+    "text": "I know you were about to try to answer Judge Steele's question. I apologize again to Judge Steele.  But I just wanted to clarify one aspect. Do you know whether it was made explicit to the BZA by petitioners before the BZA ruled, we want the MOU in total to be incorporated into, or in critical parts that weren't included, to be included in whatever order you issue if you do approve, which we don't think you should do?",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 7972.516,
+    "end": 8100.306,
+    "text": " What, what I can find and what I can if it would be helpful I can file this afterward to a list of record sites, um, my, my understanding is that they presented certain aspects of the mo us that were actually useful.  The ANC, in her testimony and after the fact, also addressed the problems with the MOUs and the fact specifically that with enforceability and not only related to the MOU, but the fact that  The whole process basically relies on good faith when these petitioners have been trying to work with this applicant for many years and abiding by MOUs. And the testimony shows and the record shows that they have consistently violated those. And so here, the petitioners are really saying,  The conditions that we understand to be useful, I could find the site. I don't have it available right now as to where this came up in the hearing. My understanding is that they would have wanted them integrated into the order. But simply referencing the MOUs raises a variety of issues that Ms. Fox-Perry also raised.  In particular, we can look to the, the Department of Planning report here, and we cite this in our brief, where in analyzing the impacts here.  The Department of Planning basically relied on, the report did not assess MIC's operations or otherwise indicate that any attempt had been made to determine whether the operations were appropriate or the impacts.  I think we're well over rebuttal time and I'm not sure now is the time to start getting that far into the weeds.",
+    "speaker": "heatherbenno",
+    "tags": [
+      "fact_statement",
+      "record_reference",
+      "legal_citation",
+      "substantive_argument",
+      "time_management",
+      "hedge"
+    ]
+  },
+  {
+    "start": 8100.426,
+    "end": 8111.552,
+    "text": "So I think we have your arguments and everybody's arguments. We appreciate the arguments of council. I'll give you 15 seconds if you want to wrap up in a sentence, but then I think we'll wrap it up.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_comment",
+      "time_management",
+      "judge_procedural_directive"
+    ]
+  },
+  {
+    "start": 8112.313,
+    "end": 8147.061,
+    "text": "Okay.  Again, I am happy to file that if it would be helpful. Just on the point of impact again opposing council raised the issue of construction traffic. And we would argue that the law on this is that construction impacts are relevant when harm will result from the structure as built with the zoning relief and as we've been arguing  this structure incorporates expansion of MIC operations. So we don't believe that that argument really holds water. Okay. Uh, thank you. Thank you counsel. I think we have your argument.",
+    "speaker": "heatherbenno",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "court_procedural_remark",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 8147.281,
+    "end": 8155.825,
+    "text": "Uh, the case will be submitted and, uh, we will now, uh, I think be adjourned if I am understanding our situation properly.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "court_closing",
+      "judge_procedural_directive",
+      "case_transition",
+      "hedge"
+    ]
+  },
+  {
+    "start": 8156.366,
+    "end": 8158.327,
+    "text": "Thank you. Your honor. Thanks.",
+    "speaker": "deborahbaum",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 8159.267,
+    "end": 8160.448,
+    "text": "This court is now adjourned.",
+    "speaker": "courtroomclerk",
+    "tags": [
+      "court_closing"
+    ]
+  }
+]

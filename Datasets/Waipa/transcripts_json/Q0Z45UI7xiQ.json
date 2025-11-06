@@ -1,0 +1,3312 @@
+[
+  {
+    "start": 0.051,
+    "end": 1.012,
+    "text": " Yep, she's on.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "report_back"
+    ]
+  },
+  {
+    "start": 1.892,
+    "end": 23.003,
+    "text": "Yep, right. My phone started to go off. It was no caller ID, so turn it off. OK. Welcome, everybody, to the June meeting of the Cambridge Community Board. Do we have any apologies? Apologies? No?",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "public_address"
+    ]
+  },
+  {
+    "start": 24.063,
+    "end": 38.412,
+    "text": " So I just I mentioned I may need to leave a little bit earlier this evening so if that happens I'll just let Karen know and exit quietly. Okay well hopefully we won't be going on too long or as long as that.",
+    "speaker": "elisebadger",
+    "tags": [
+      "provide_information",
+      "procedural_move",
+      "confirm_next_step",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 39.693,
+    "end": 99.8,
+    "text": "Okay, disclosure of members interests. Do we have any of that? No? Hi Liz.  No disclosure of members' interests, good. Late items, any late items? No, we've gone and put the phone box on for next time. Confirmation of the order of meeting, we'll head straight into the discretionary fund applications on page 12, whatever number item that is. What number is that one, Karen?  Do we have Destination Cambridge online yet?",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "confirm_next_step",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 99.84,
+    "end": 107.542,
+    "text": "Harriet and Ruth are talking to the public forum.",
+    "speaker": "Unknown",
+    "tags": [
+      "report_back",
+      "public_address",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 108.262,
+    "end": 134.675,
+    "text": "Okay, we'll go straight to the public forum then with Harriet and that's on page  What page is that on? She says looking. Karen, what page are we looking at? I should have marked it.",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 134.795,
+    "end": 135.976,
+    "text": "It'll be page three.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 136.716,
+    "end": 150.694,
+    "text": "Page three, that's how dumb I am tonight. Page three, public forum. But they have put in some information, haven't they?  Well, I've read it earlier, so it must be here. What page is that?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 156.275,
+    "end": 162.456,
+    "text": "I've got that on page 36. 36. No, 86. 86.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "cite_reference",
+      "clarify_point",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 163.816,
+    "end": 164.036,
+    "text": "Yeah.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 165.136,
+    "end": 166.096,
+    "text": "Thank you, Graham.",
+    "speaker": "suemilner",
+    "tags": []
+  },
+  {
+    "start": 167.537,
+    "end": 181.815,
+    "text": "So is it technically a public forum or are we moving that agenda item up to be after the public forum?  Sorry, I don't want to be pedantic. We need to move the order of meeting if we're going to be doing that.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 182.035,
+    "end": 196.6,
+    "text": "The order of meeting. So, if we move that item 12, which is the discretionary fund applications, we hear that now and then we'll go through the rest of the agenda after that.",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "prioritize_issue",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 198.961,
+    "end": 204.123,
+    "text": "Just had a text from Alana. She's struggling to get in. Would, Kieran, would you be able to do something about that maybe?",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "assign_action",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 209.617,
+    "end": 215.179,
+    "text": " Yes, can't work out whether I'm on mute or not. Yes, I can. I'll give her a shot. Oh, here she is. She's coming in now.",
+    "speaker": "Unknown",
+    "tags": [
+      "assign_action",
+      "confirm_next_step",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 216.1,
+    "end": 233.446,
+    "text": "Right. Thank you. Just in terms of dealing with the discretionary fund applications now, I just noticed that at the moment, running in the agenda, the discretionary fund applications actually come after the Treasury report and the budget update.",
+    "speaker": "suemilner",
+    "tags": [
+      "provide_information",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 234.306,
+    "end": 260.114,
+    "text": "So whether you'll  wanting to be doing those before you consider the discretionary fund applications. So you could always hear from those people in the public forum and deal with the agenda in the same order, or you might want to bring, if you want to bring the discretionary fund applications forward, you might also want to look at whether you want to bring the other items forward as well.",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "evaluate_option",
+      "procedural_move",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 266.411,
+    "end": 301.469,
+    "text": " i just thought we could bring those items forward that would make it a bit easier for those who've come to present rather than waiting for everything if they're here now it's just whether you want to have had a look at the budget and where that all sits first before you consider those applications well i think if we hear from them um and we can after we've heard everything and they can do their presentation and then  we can make the decision after we've done the budget update thing.",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "prioritize_issue",
+      "clarify_point",
+      "confirm_next_step",
+      "defer_decision"
+    ]
+  },
+  {
+    "start": 302.109,
+    "end": 309.09,
+    "text": "So kind of keep it the same, same order of the run sheet and so have them present in the public forum?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "clarify_point",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 309.73,
+    "end": 373.995,
+    "text": "Yes, yes. So same order, yep. Okay. So public forum. So where are they at the moment? We've got them both there, have we?  Harriet and, yep. Just trying to get to item 12 in my agenda. I've got pages and pages here.  Right, so do we have Destination Cambridge there? We've got Harriet. Okay, hi Harriet.",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "confirm_next_step",
+      "public_address"
+    ]
+  },
+  {
+    "start": 374.015,
+    "end": 643.882,
+    "text": "Would you like to do your presentation at this point? Hi, so I'm Harriet, I'm the manager at Cambridge Community House and I think quite a few know of the house. I've got a few familiar faces in front of me, which is awesome.  I'm gonna tell you a little bit about Cambridge Community House in case there's some things that you don't know. We run the only full wrap service for family and social services in Cambridge for our community. We've been running for 35 years. I've been lucky enough to be the manager for the last 18 months and have really seen a massive increase over that time itself in the number of people and families coming and seeking support from us.  So just had a look at the numbers, being a numbers person myself, I had a look at the numbers and we've actually doubled the number of people, families, the number of people coming and seeking support from Cambridge Community Houses actually doubled over the last four years. That's a huge increase. And yet our funding hasn't increased in line with that. So we're really kind of struggling to make sure that we've got enough funding to provide the services that we need to for Cambridge. And we're also expecting, obviously, population increasing to continue as well.  So we really stand for empowering our community by having a strong and connected community. We're all about, as I said, we have that full wrap service. We are the only one in Cambridge. And we also like to collaborate really strongly with other agencies in Cambridge, such as Salvation Army.  various other churches that run programmes, youth programmes and those kind of things. So, we really do like to tie in closely with other organisations in Cambridge to make sure that the community is getting what they need. So, if somebody comes to us and they need support, we'll see what services we can offer, but also look to the community as well. So, we're really working in tandem with everybody just to get the best for the family that are in need.  We do get some government funding for some of the contracts that we do, alcohol and drug work, we've got family violence, we've got general counselling as well as financial mentoring, but I have to say that the funding that we get from the government doesn't actually cover the salaries for the team, let alone all of the operational costs that go alongside that.  And tonight, I really did want to focus on our financial mentoring service, because that's a service that we use to really provide a lot of that wraparound service for clients. So, we'll have somebody come in, and they may have just been made redundant. Let's face it, we're really all seeing a lot of that happening now with COVID-19, and we're anticipating more once the government subsidy finishes this week and next week. So, we're expecting those numbers to increase.  But we use that service, instead of just providing a budget for somebody on a piece of paper and away they go, we actually walk alongside them. We call it a strength-based service, so we're actually giving them short-term support with, with other needs and that wrap, wrap support, so that might be food, furniture, household goods, bedding, clothing, you name it, we'll, we'll help them with that sort of short-term support, while we get them back on their feet financially. And what we're doing is we're walking alongside them, we're not fixing things for them, but we're walking with them,  talking to creditors and anybody else that we need to, like I said, alongside them so that they have a sense of, of control over their finances. They're learning and they're able to then stand on their feet financially and have that stability going forward. It's very much strength based in that we are, I won't say educating because it's not the right word, but we're enabling them to take control of their financial situation going forward. So, that's kind of what we do with that service and, and we don't get funded for all of the, the wraparound stuff that we do with that service.  And yet that's how we really empower people and see the magic and see the great results that we do. So we will continue to provide that service because it works. And so that's kind of what we're seeking funding for through the discretionary fund is to help us provide that service, to provide staff and my team with more hours to be able to see more people as they're certainly trickling in through the door at the moment. I'm expecting a big impact soon too with COVID-19.  Yeah, I just, I think that's probably all I really want to say at this moment, but there may all be questions and I'd love to hear them. Okay, thank you, Harriet.",
+    "speaker": "harrietdixon",
+    "tags": [
+      "public_address",
+      "provide_information",
+      "express_concern",
+      "community_reference",
+      "equity_reference",
+      "prioritize_issue",
+      "persuasion_attempt"
+    ]
+  },
+  {
+    "start": 644.383,
+    "end": 650.627,
+    "text": "Has anybody got any questions for Harriet? No?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 652.768,
+    "end": 693.493,
+    "text": "So I'd like to make a comment, if I could please. Harriet, hello again. We met you submitting into the council the other day and  I know from living here for a number of years, just what a fantastic job you guys do. So, well done. Congratulations on that. When you submitted the other day to Council, you were looking for about fifty thousand because of the extension, which is great. And I think about eleven thousand, you're in deficit in the annual accounts, if I can remember right. So, there was a consideration of sixty one thousand.  Am I correct on that?",
+    "speaker": "grahamewebb",
+    "tags": [
+      "ask_question",
+      "provide_information",
+      "state_opinion",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 693.953,
+    "end": 703.655,
+    "text": "I think that was. I think ongoing for the next financial year, we were looking at more like 50000 for operational costs from council. Yeah, yeah.",
+    "speaker": "harrietdixon",
+    "tags": [
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 704.335,
+    "end": 715.638,
+    "text": "How are you feeling about being able to pick up money from some of the entities that you've applied for in the end, which is actually quite substantial? How are you feeling about the possibility of getting money from them?",
+    "speaker": "grahamewebb",
+    "tags": [
+      "ask_question",
+      "evaluate_option"
+    ]
+  },
+  {
+    "start": 716.158,
+    "end": 716.758,
+    "text": "From council?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 717.754,
+    "end": 721.537,
+    "text": " I know from the entities that you've applied for before, like lotteries and stuff like that.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "provide_information",
+      "cite_reference"
+    ]
+  },
+  {
+    "start": 722.158,
+    "end": 756.249,
+    "text": "Okay, yes. I'm very concerned about this upcoming year. I have to say a lot of funders have already freezed their funding and are not putting their hands in their pockets, unfortunately, at the moment. Yeah, I'm really concerned. There's not going to be the money going into these trusts and into these fundings for the next few years, so I'm anticipating it's going to be a hard slog to make the money that we need to for funding. It's about  We rely on funding about $200,000, $250,000, something like that each year in funding grants alone. Thank you.",
+    "speaker": "harrietdixon",
+    "tags": [
+      "express_concern",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 758.911,
+    "end": 760.452,
+    "text": "Does anybody else have questions? No?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 766.135,
+    "end": 851.709,
+    "text": " So, I was hoping there would be other questions, didn't want to hog the meeting. What I'm going to ask, what I'm going to ask of the board and Harriet and staff who are listening in is we are in very, very tight times for money and we are going to go, I believe, and have a lot more requests from people and  I'm very, very supportive of what we gave you the other day, although it hasn't been fully confirmed. And we won't know about your success or otherwise until the end of June. And I'm wondering whether the board should wait until that decision has been made before we consider giving money or $5,000 from the board to the Cambridge Community House. And there's no other reason that I want to see that other than there won't be enough to go around  And if the council is deemed to be successful in getting the 61,000 year after, then it's possibly prudent for us to look at funding some of the other ones who may be missing out. I just don't want to see  people coming in on two different avenues out of the same money pot when someone down the road is very, very deserving. But I just want to strike that with you to see what the other board members and yourself think about that.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "express_concern",
+      "state_opinion",
+      "policy_proposal",
+      "defer_decision",
+      "ask_question",
+      "prioritize_issue",
+      "community_reference",
+      "persuasion_attempt"
+    ]
+  },
+  {
+    "start": 853.451,
+    "end": 892.895,
+    "text": "Yeah, from a personal perspective, the community house, I think it's always, yeah, difficult to know where the funding is going to come in or not from any any resource. And it's always better to to try and get the money in.  There, there's other funding that I'm hoping will come in before the end of the financial year, and if it doesn't, we'll have even more of a deficit, so I've got a cork between a rock and a hard place. And, and this, this money that I've asked for from the discretionary fund will make a huge difference. It will-, and it will make a difference now. I will be able to put more bottoms on seats in my financial mentoring service and get more clients seen and more families seen now, rather than waiting for, for the council funding. That's the difference it'll make.",
+    "speaker": "harrietdixon",
+    "tags": [
+      "express_concern",
+      "provide_information",
+      "prioritize_issue",
+      "state_opinion",
+      "community_reference",
+      "persuasion_attempt"
+    ]
+  },
+  {
+    "start": 893.63,
+    "end": 917.541,
+    "text": " So, does your end of your financial year tie in with the 30th of June, as does the council? So, I'm not saying you can't get that money. I'm just saying, is it prudent for us to sort of wait? I know you're breaking your neck to get your funding and it's always secure when you do that. But I'm just saying, you know, we do have some time to work in with that in terms of satisfying you with both avenues, that's all.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "express_concern",
+      "evaluate_option",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 918.557,
+    "end": 923.878,
+    "text": " Well, that decision is ultimately your decision as the board, so I'll leave you to make that decision.",
+    "speaker": "harrietdixon",
+    "tags": [
+      "defer_to_authority",
+      "defer_decision"
+    ]
+  },
+  {
+    "start": 924.418,
+    "end": 928.539,
+    "text": "OK, thank you. Thank you, Sue.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 928.759,
+    "end": 934.3,
+    "text": "I thought that was actually really worthwhile, what you just said. Mike, you wanted to say something?",
+    "speaker": "suemilner",
+    "tags": [
+      "state_opinion",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 934.88,
+    "end": 954.65,
+    "text": "Yeah, not sure if this is for Harriet or someone else, but is the Community House Trust a regular recipient of the discretionary grant funding or not?  I'm not sure about previous years, but I know last year we received a thousand dollars towards our building fund from the Cambridge Discretionary Fund.",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "ask_question",
+      "provide_information",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 954.971,
+    "end": 956.211,
+    "text": "Yeah. Thanks.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 958.352,
+    "end": 967.275,
+    "text": "Mike, can I just answer that as a longstanding member? They have normally got some money. We've tried to satisfy everybody with at least some money over the years. Yeah.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "provide_information",
+      "build_on_point",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 967.636,
+    "end": 970.317,
+    "text": "Yeah. So you agree with that, Sue?",
+    "speaker": "grahamewebb",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 971.137,
+    "end": 978.966,
+    "text": "Yes, I think that's fair. We do try to.  each year when we have the discretionary fund round, which is a wee bit later in the year. Yes, we do.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 980.206,
+    "end": 982.848,
+    "text": "Of course, it's prior to Harriet because you've only been there 18 months.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "clarify_point",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 984.229,
+    "end": 1002.343,
+    "text": "Yes, that's right. And I know from Robin Parker, who's a long term trustee of ours, that when she applied to the council last time for funding and wanted to talk to the council about funding, so it's probably about two years ago, she was told to come and speak to you guys at the discretionary fund. Yeah, she did that.",
+    "speaker": "harrietdixon",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "community_reference",
+      "agree"
+    ]
+  },
+  {
+    "start": 1004.943,
+    "end": 1020.195,
+    "text": " Graham, I think that's quite good for us newbies, especially to know that because having been in these charities, I know it's really hard getting money. If there's one thing worse than getting turned down for a grant, it's not getting a grant that you would routinely be expecting. So yeah, it's good for us to know, so thanks for that.",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "agree",
+      "state_opinion",
+      "provide_information",
+      "express_concern",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 1021.957,
+    "end": 1042.976,
+    "text": "Yes, so we will have that discretionary round later in the year. OK, well, thanks, Harriet, for your presentation and talking to us. You're welcome.  we'll have a wee discussion later on and hopefully we'll be able to let you know in a wee while. Thank you very much.",
+    "speaker": "suemilner",
+    "tags": [
+      "provide_information",
+      "confirm_next_step",
+      "reassure_stakeholders",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 1045.758,
+    "end": 1049.041,
+    "text": "Who have we got next? Thank you Harriet.",
+    "speaker": "elisebadger",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1051.423,
+    "end": 1054.926,
+    "text": "Okay we've got somebody else who's going to present too, haven't we?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1064.077,
+    "end": 1073.106,
+    "text": " You have Ruth Nichols from Violence Free Waipara as the other speaker for your public forum. Yes, we do.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "report_back"
+    ]
+  },
+  {
+    "start": 1074.328,
+    "end": 1075.028,
+    "text": "Is Ruth there?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 1075.709,
+    "end": 1211.413,
+    "text": "Yes, I'm here. Can you hear me? Yes, we can see you.  Can you not see me? Hold on. Can you see me now? I can see you, Ruth. OK. Hello. So my name's Ruth Nichols. I'm from Violence Free WIPA. I'm the coordinator here in Cambridge, and I started in February of this year. So it's been an unusual time with Violence Free WIPA, because as soon as we started having some things that were going to start happening, COVID happened, so everything got shut down.  So we've actually gone about a new way of trying to keep reaching people and keep educating people and raising that awareness through having opening up an Instagram account, linking it with our Facebook website, Twitter, things like that, as well as doing some online activities like we joined in with the Haka against violence, which was all online and it was a competition run from down in Christchurch.  So that was interesting. But basically, violence-free YPAS is really about just kind of getting all the little groups working together so that there's no one silo working.  So that's one prong. And then the next prong is really just about educating and raising awareness. So I've come in, like I said, I'm only for Cambridge. And so I'm trying to do it a little bit differently to make it cater more to Cambridge. We also have another facilitator over in Tiabunu, and it's a completely different community than what we have here.  So we're just, yeah, we're trying to tailor a little bit more. Sorry, I'm rambling a little bit. I'm a little bit nervous. I've never done this before. So forgive me. That's all right, Ruth. Thank you. So what we've actually applied for the funding for this with you guys is actually for the white ribbon. So there's an event in November. I don't know if any of you, I'm sure you've all seen it, where you pass out white ribbons and it's, again, to raise awareness.  Because of everything that's happened this year, we actually have to buy all the things to pass out, like the little white ribbons, balloons, anything like that. Banners, just, yeah. So we have to get all of those things, which we haven't had to do before. So that's what I've put in the application for funding for. Okay.",
+    "speaker": "ruth",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "express_concern",
+      "prioritize_issue",
+      "public_address"
+    ]
+  },
+  {
+    "start": 1213.274,
+    "end": 1223.156,
+    "text": "Well, thank you. It's really helpful. That's very clear. And  I do know that the program is very good, particularly in the high schools, so.",
+    "speaker": "suemilner",
+    "tags": [
+      "state_opinion",
+      "agree"
+    ]
+  },
+  {
+    "start": 1223.977,
+    "end": 1260.862,
+    "text": "Yeah, that's the Love Me Not program. So that's, we're actually going to be doing that at the end of term three or beginning of term three. Sorry. So that's exciting. And we've also actually just gotten an email today from the RSCC with some of the, their youth pastors that work with youth in middle school and in high school, asking me to come and talk with them a little bit about, you know, if they think someone might be having some domestic violence at home,  what they can do, what kind of agencies they can let them know about. Obviously, there's confidentiality, so they can't tell me who the children are, but they can let the children know where they can go to get some help. Yeah.",
+    "speaker": "ruth",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "report_back",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 1261.602,
+    "end": 1272.025,
+    "text": "Thank you. So a question for Ruth. Ruth, I'm Graham Webber, Councillor. Do you run out of the Cambridge Community House as well?",
+    "speaker": "grahamewebb",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1273.303,
+    "end": 1285.253,
+    "text": " I will be once it's built. I'm fortunate enough, we have a home office here, so I've been doing pretty much everything from home and then going and meeting with people. Yeah.",
+    "speaker": "ruth",
+    "tags": [
+      "confirm_next_step",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 1285.553,
+    "end": 1307.432,
+    "text": "Greg Morgan Sure. Yeah. Yeah. So that's great that you're using that facility because there's some synergies there, I think, that you can all springboard off. Do you agree with that?  So I think Council's going to try and I'm hopeful that the Council will try and help you get those extensions at the house done, because it's critical with all the goings on there. So, yeah.  Thanks.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "ask_question",
+      "build_on_point",
+      "agree",
+      "prioritize_issue",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 1307.492,
+    "end": 1332.752,
+    "text": "And even just like I've recently been working with Shama Ethnic Group, and that's in Hamilton, because they have a few women who are here in Cambridge. And they wanted to do something just like even a really basic thing, like with some of the younger mothers, just teaching them like cooking, like people who actually left a violent relationship, just basic cooking skills and things that a lot of us take for granted. So that would be really good to have that here in Cambridge instead of having to go to Hamilton.",
+    "speaker": "ruth",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "policy_proposal",
+      "state_opinion",
+      "equity_reference"
+    ]
+  },
+  {
+    "start": 1337.293,
+    "end": 1346.134,
+    "text": " Thank you for that. We'll have a discussion later on and we'll let you know. So thank you very much, Ruth. We appreciate you coming along.",
+    "speaker": "suemilner",
+    "tags": [
+      "confirm_next_step",
+      "reassure_stakeholders",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 1346.355,
+    "end": 1347.155,
+    "text": "Thanks, Ruth.",
+    "speaker": "Unknown",
+    "tags": []
+  },
+  {
+    "start": 1348.675,
+    "end": 1348.975,
+    "text": "Bye.",
+    "speaker": "elisebadger",
+    "tags": [
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 1351.035,
+    "end": 1368.72,
+    "text": "Now, do we have coming... Do we have Destination Cambridge? Are they presenting tonight? No, Destination Cambridge is not presenting tonight. Right. So we'll discuss these later on in the agenda.  Hi Alana.",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "provide_information",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1369.34,
+    "end": 1370.301,
+    "text": "Hi, I made it.",
+    "speaker": "elisebadger",
+    "tags": [
+      "provide_information"
+    ]
+  },
+  {
+    "start": 1372.562,
+    "end": 1375.904,
+    "text": "You wanted me to do an update before it would let me in.",
+    "speaker": "alanamackay",
+    "tags": [
+      "clarify_point",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 1376.544,
+    "end": 1403.624,
+    "text": "Oh right. Oh that's good. So we've just finished the discretionary fund applications. I don't know how much you heard of that Alana. I made both of those. Yeah so we'll perhaps talk about those after we've done our treasury report and  Just before we leave the applications, can Karen help us please?",
+    "speaker": "suemilner",
+    "tags": [
+      "provide_information",
+      "ask_question",
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 1404.585,
+    "end": 1425.229,
+    "text": "Does Destination Cambridge for the Christmas Parade still have the $5,000 sponsorship from New World? Yes. Because that's kind of missing if they do get that or if they pulled out. They have for years and years and years sponsored the Christmas Parade with $5,000. No, I don't know, sorry.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "ask_question",
+      "provide_information",
+      "express_concern",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 1426.842,
+    "end": 1447.253,
+    "text": " no no i wondered about that too graham thanks for bringing it up i thought that was something that was missing has anybody the grapevine there's a new world of food out of it i just presumed they had seen they weren't seen it wasn't there but yeah",
+    "speaker": "Unknown",
+    "tags": [
+      "agree",
+      "ask_question",
+      "express_concern",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 1447.909,
+    "end": 1454.711,
+    "text": " to check up on. Maybe we should get that clarified, you know, before we proceed with the allocation.",
+    "speaker": "suemilner",
+    "tags": [
+      "clarify_point",
+      "defer_decision"
+    ]
+  },
+  {
+    "start": 1454.731,
+    "end": 1459.212,
+    "text": "We can talk about what it's worth or whatever. Liz, sorry, are you are you privy to anything there, Liz?",
+    "speaker": "grahamewebb",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 1459.712,
+    "end": 1479.837,
+    "text": "No, I look, I used to run the Christmas parade, of course, when I was managing the ice site. And you're quite right, New World were the major sponsor. I'm pretty sure last year it was still called the New World Christmas Parade. So I'm presuming that it is still there, but I couldn't confirm that.  Yeah.",
+    "speaker": "lizstolwyk",
+    "tags": [
+      "provide_information",
+      "agree",
+      "state_opinion",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1479.857,
+    "end": 1501.304,
+    "text": "To be fair, I think if they are still in there, it puts a different slant on the whole thing. And once again, I think the money is extremely tight and we need to be prudent at this particular time. And it's probably something that we certainly need to check up on before we really take it to the next level. But somebody else might have a view on that.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "state_opinion",
+      "express_concern",
+      "defer_decision",
+      "evaluate_option"
+    ]
+  },
+  {
+    "start": 1504.526,
+    "end": 1505.426,
+    "text": "Yes, go ahead, Jim.",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1506.053,
+    "end": 1520.636,
+    "text": " I just\u2014no, I think what Graeme said before is very wise. As Mike said, we're all newbies, just about. And being careful with the money right now is probably exceptionally wise.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "agree",
+      "state_opinion",
+      "prioritize_issue",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 1521.876,
+    "end": 1554.212,
+    "text": "Yes. I think so. I think we'll\u2014we may need to just go back to them and see what the story is. Okay. Yeah.  So we'll just, after the budget update, we'll make a decision about grants. And now we'll go to confirmation of minutes, which is on page five.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree",
+      "assign_action",
+      "defer_decision",
+      "procedural_move",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 1562.377,
+    "end": 1570.761,
+    "text": " Before we do that, did you want to move in a second to the order of the meeting? Because we did chuck it around a bit. Oh, I think we didn't.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "procedural_move",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 1570.801,
+    "end": 1575.963,
+    "text": "Sorry. Did we have anything there? Did we do that? No, that's OK. Karen?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 1576.304,
+    "end": 1579.785,
+    "text": "It's only a stupid formality. I'm happy to move. I'll second.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "state_opinion",
+      "procedural_move",
+      "agree"
+    ]
+  },
+  {
+    "start": 1581.106,
+    "end": 1623.013,
+    "text": "You guys have been done. Oh, it's been done. OK. OK, well, now we'll go to the  minutes okay confirmation the order of minutes which is on that's item number seven why doesn't this index say page number sorry yeah some of us need page numbers okay so it is anybody got a page number karen well it finishes on page 10 finish oh that's",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "clarify_point",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 1623.797,
+    "end": 1626.978,
+    "text": " Pages 5 to 10. Thank you.",
+    "speaker": "Unknown",
+    "tags": [
+      "cite_reference",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1627.818,
+    "end": 1655.937,
+    "text": "Righto. Okay, so is everybody happy with the minutes? Yes. Got anything they'd like to say that should be there that's not? No? Would somebody like to move that these minutes are a true and correct record of the last meeting? Oh, somebody does, Elwynn does.  Can't hear you, Elwynn.",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 1656.657,
+    "end": 1657.997,
+    "text": "I'm happy to second, Elwynn.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "agree",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1659.998,
+    "end": 1661.218,
+    "text": "Okay, all those in favour?",
+    "speaker": "suemilner",
+    "tags": [
+      "call_vote",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1662.118,
+    "end": 1662.558,
+    "text": "Aye. Aye.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 1663.158,
+    "end": 1677.421,
+    "text": "Aye. Right. Then we'll go to the quarterly reports. District growth, item number eight. I haven't got so much to speak to that.",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 1678.621,
+    "end": 2019.634,
+    "text": "Yes, you have indeed, Madam Chair. It's Wayne Allen here, so for those that  I think everybody does. I'm the group manager of district growth and regulatory services. So good evening to all of the board tonight. So this is just the quarterly district growth report for the period of 1 January to 31 March this year. It's quite a detailed report and provides a snapshot of the growth and regulatory services related matters arising at national, regional and local levels.  No decision-making required from the committee tonight on this report. It's just primarily for your information purposes and just an opportunity for me to talk to a couple of items throughout the report. Just to make an apology, the report should have been into your agenda for May. It just didn't get into the boards, either Te Amaru or Cambridge boards report. It has gone through the Strategic Planning and Policy Committee agenda.  So they're aware of it. So for those councillors who are on the committee, this was probably just a rehash of what you've heard previously. But I'll try and focus it on the Cambridge side. So Parts 3 and 4, the reporter's information from our strategy team. Part 3 deals with the number of documents released by central government for public submission and which Waip\u0101 Council has lodged submissions on.  not all are related to growth, but just gives you an indication of the sorts of things that are coming through from government and the various documents that are coming through and the submissions that we are responding to from our strategy team. Part four of the report just discusses some of the things that are going on in the sub-regional planning initiatives. So, again, it's mainly from our strategy team in regard to things that are happening at a more of a regional level.  Just want to really focus more on the other sections of the report. Part five of the report provides an update of the strategic planning work undertaken at the local level. So, in particular, the updates of the structure plans for the various growth cells is provided. And of significance, really, here for Cambridge is the work we're doing in the C1, C2 and C3 growth cells. And that's  the new growth areas out to the west of Cambridge. So, just some of the updates here. We've reached agreement with 3M as a significant developer in the C2 growth cell on the intersection treatment between the growth cells C2 and C3. So, C3 is the area by Te Awa, sort of between the town belt out to St. Peter's on the south side of Cambridge Road.  and C2 is the area to the north on the other side of Cambridge Road. So the intersection treatment be a single lane roundabout with a north-south and east-west pedestrian and cycle underpass. But we want to make sure that through our land purchase that we future-proof it for a four-lane roundabout in the future. So design work is underway for that roundabout, for the collector roads that are going into C2, the stormwater swales,  the water supply, pump stations and all of those infrastructural issues. Discharge consent for the stormwater for the C1, 2 and 3 area is expected shortly from the regional council. We've agreed on conditions, so we should have that through very shortly. We're still working with St Peter's on the easements works to get the infrastructure in.  Approval has been given to 3Ms for the development lots. So those are the areas to create for public infrastructure, the reserve areas, the swales, the collector roads, the allotments for the primary school. So that approval with the development lots has been approved and we're expecting a resource consent shortly from 3Ms for their main stage subdivisions and development.  I'll come in with a designation for that primary school in the next few months. So we'll be processing that application. Just moving around a bit to the north of that C1 area, which is we're just still working on the design for the intersection on the Victoria Road opposite Norfolk Drive. So we're still working on the design for the intersection on the Victoria Road opposite Norfolk Drive. So we're still working on the design for the intersection on the Victoria Road opposite Norfolk Drive. So we're still working on the design for the intersection on the Victoria Road opposite Norfolk Drive.  working through expressions of interest on that. Foodstuffs, as I understand, still indicated their desire to establish a supermarket in that C1 area. So, we'll work closely with them once we are to get that intersection and so they can get the road into service that C1 area to develop the supermarket. Cambridge North is the other area of interest. So,  Land purchases have been completed for the northern edge of the Cambridge North to connect up to the northwestern stormwater retention pond. And we're still securing the stormwater discharge, which goes out to the north to the Mangaone out to Hautapu. But there's a lot of interest in the remaining parts of Cambridge North and some exciting developments coming along. So... Wayne, can I just...",
+    "speaker": "wayneallan",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "summarize_outcome",
+      "public_address"
+    ]
+  },
+  {
+    "start": 2020.94,
+    "end": 2045.116,
+    "text": " Can I actually explain to the new board members that on page 16, there's a reference to Chartwell Properties Limited. Just wanted to brief them and say that is the St. Peter's entity. That's their name, the Chartwell Properties Limited. And that's across the road. It's next to Te Awa in that cell, that's all. They might not know the different name, that's all.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "clarify_point",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 2045.136,
+    "end": 2308.453,
+    "text": "Yes, that's a good point.  because they've already got a resource consent for their development. And also there's a building conceded for a childcare facility in there as well. So they're not dependent on the stormwater outcomes as the other remaining parts of C2. So that's why they're ahead of the other developments in C2.  So just moving through on item six is just detailing some of the district plan developments and the implementation. We're looking at promoting a number of district plan changes, primarily looking at some of just removing some of the complexly unnecessary compliance. Some of the rules are not working so well. It's reducing the cost of compliance for some of our customers. So you will be sending through some of those changes through to the board so they can see those as well.  Further in item six, we provide information on resource consents and building consents. So I'm going to try and share a screen here. Hang on a second. So hopefully you can just see this. Some information on building consent applications received and  It's just interesting in terms of the numbers there because, you know, there's been concern about a drop in the numbers of applications that might be received post the lockdown of Level 3 and 4. So interesting in May there, you know, we're back up to 152 applications received. So we're really back to the sort of the average of applications that we're getting.  throughout the course of the year. So, and as we sort of go down, these are the numbers of building consents granted and issued. So, again, in May, 116 applications, building consents were granted for that period. And so when we look at, say, value of building consents, so big  big value there, $43 million worth of applications received in May. Obviously, a reduced amount in April in the lockdown periods, but yeah, there's some significant developments in there. I'll just talk to that shortly. And the value of building consents finalised, so issued, so we issued around $23 million in May, but the team's been working through April, so you can see a big amount of consents that have been issued  So the inspections seem to be, they seem to be fully booked as normal as well. So the team's working pretty busy in terms of doing inspections. So just to have some particular night, you know, we've had some significant developments of building consents lodged. You've got a big trade depot warehouse, 34,000 square metres. That's a huge building. We've got a lot of construction going on. We've got a lot of construction going on.  $24 million. So that's going to be located at Sharp Road next to the Tapito 7 warehouse. There's a new medical centre, Practices and Tenancies at 1913 Cambridge Road. That's next to the Athletics Club there by the Town Belt. $1.5 million. New childcare centres I just mentioned in the Chartwell Investments area at 1896 Cambridge Road. $1.6 billion. Big dollar values. So  That's good for Waip\u0101. You know, on the back of some really disappointing news with the Bunnings closures in our towns of Taumata and Cambridge. So it's good to have resilience there in terms of some of the big investments coming through. And we hope that the investments continue through the course of the year.  I just take that as read for the for the board. So, Madam Chair, that's really the report. And as I say, it's it's really there for just the board to receive. Oh, thank you, Wayne. Really good report, really informative. And thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you.",
+    "speaker": "wayneallan",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "summarize_outcome",
+      "policy_proposal",
+      "agree",
+      "procedural_move",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 2324.912,
+    "end": 2330.937,
+    "text": " It's good to see it. Does anybody have any questions for Wayne? Or Happy?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 2332.839,
+    "end": 2364.811,
+    "text": "Once again, Madam Chair, a very good report, Wayne, and my second read of that.  I'd just like to say to members, if you want to know exactly what's happening in Waip\u0101, the quarterly report is well worth sitting down and going through. It's got everything there that is happening in terms of structures, resource consents, what's happening, dog control, the whole nine yards. And it's a reference. If you get a call from somebody, you say, hang on, I've read something like that. You can go back and pick up that in confidence and know that it's actually what's happened.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "provide_information",
+      "cite_reference",
+      "persuasion_attempt",
+      "reassure_stakeholders",
+      "public_address"
+    ]
+  },
+  {
+    "start": 2366.052,
+    "end": 2374.235,
+    "text": "Yeah, so really worthwhile.  Would somebody like to move that we receive this report?",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2375.516,
+    "end": 2376.057,
+    "text": "I'll move that.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2377.117,
+    "end": 2381.66,
+    "text": "Seconded. Seconded. Who's that? Owen or Jo?",
+    "speaker": "suemilner",
+    "tags": [
+      "agree",
+      "procedural_move",
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 2382.581,
+    "end": 2384.242,
+    "text": "I seconded. I don't know who moved.",
+    "speaker": "elisebadger",
+    "tags": [
+      "agree",
+      "clarify_point",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2386.823,
+    "end": 2409.118,
+    "text": "Somebody has moved. Well, I'll move then. So Lisa's seconded. Okay, all those in favour? Aye. Aye. Right, thank you. That is moved. Right, so now we come to the  I'm the manager of the water services. So, I'll present you the quarterly report. Again, it's the same as Wayne's. It's just for your information.",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "provide_information",
+      "report_back"
+    ]
+  },
+  {
+    "start": 2409.158,
+    "end": 2557.453,
+    "text": "No decisions are needed. And hopefully you've all read it and asked lots of questions. So, I'll present you the quarterly report. Again, it's the same as Wayne's. It's just for your information. No decisions are needed. And hopefully you've all read it and asked lots of questions.  So I'll just highlight a couple of things in it, but not in too much detail. Again, just really the key highlight from the executive summary is the great work, even if I say so myself, my team done during the drought and managing to keep water flowing, particularly in Tiamutu. So that was a huge challenge for us with the lack of water in the stream. So yeah, we did really well to get through there. And then just after we got out of that, we ran into COVID. So it's been a challenging,  six months for us. I think I've only been here seven. So yeah, it's been a whirlwind. So you'll note, during alert level four and alert level three, we only responded to major incidents. We didn't respond to minor complaints or minor leaks. And there wasn't that many, so we haven't had to play catch up too much. See, our treatment plants and reticulation were compliant  for bacteria and protozoa, and reticulation zones were fully compliant for this reporting period. However, we've done some audits and found we missed two samples in July and October, which means that for the year, we'll be non-compliant for the Pucrimu scheme for two missed samples. So that's the rules.  And our procedures are being reviewed to ensure that error doesn't happen again and to make sure we're compliant next time around. And the last bit in the executive summary is the water services team. It says there that the team restructure is planned. So that's been approved by the exec last week. And so we'll be talking to the team next week around the restructure. It's a growth restructure, so there's  up to an increase in eight from 36 to 44 staff. So it's a growth restructure, not a restructure of people losing their jobs. So it's a good news story, not a bad one. Hopefully they'll see it that way.",
+    "speaker": "martinmould",
+    "tags": [
+      "provide_information",
+      "summarize_outcome",
+      "reassure_stakeholders",
+      "defer_decision",
+      "confirm_next_step",
+      "report_back"
+    ]
+  },
+  {
+    "start": 2560.735,
+    "end": 2562.736,
+    "text": "Does anybody have any questions for Martin?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 2563.617,
+    "end": 2665.015,
+    "text": "Yeah, I've got a little bit more. You've got a bit more? Yeah, there's quite a lot there. So I just go through to  Section nine, I think, is just shared services. So I don't know if you're aware of shared services, but that's an agreement between Hamilton City Council, Waikato District Council and Waipa District Council to deliver our drinking water testing. So they do the samples, the two that were missed, they carry out all the samples and they do all the testing in the lab in Hamilton. And we all pay for that between us, the three councils.  but with Watercare taking over Waikato's water business, Waikato District Council are leaving shared services. So we're just having to review how much they pay for their exit clause and then how much more we'll have to pay each year because there's only two people paying the overheads instead of three. So we're just going through that process at the moment. And I think the last thing was the current and upcoming section 11.  So if you're aware that the Memorandum of Understanding between Council and EWI for the Cambridge Wastewater Treatment Plant has been signed by Council and I think we're just waiting for EWI to sign it. So that's a huge milestone that's taken a long time and a great deal of work to achieve that. And currently we're starting with stormwater and wastewater networks have been inspected and maintained in readiness for the winter period. So we usually go through and clean out  known trouble areas and get them ready for winter. Okay that's all and happy to answer any questions.",
+    "speaker": "martinmould",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "summarize_outcome",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 2667.336,
+    "end": 2668.537,
+    "text": "Does anybody have any questions?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 2669.641,
+    "end": 2684.57,
+    "text": " A little bit of information. Martin talked about the Waip\u0101, Waikato and Hamilton. We share the lab and the costs there. Waikato have done a deal with Auckland Water, so they're now getting their water from the north. I think I'm correct there, Martin, aren't I?",
+    "speaker": "grahamewebb",
+    "tags": [
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 2684.59,
+    "end": 2690.302,
+    "text": "They still get their water from the same place, but all the services are carried out by Watercare.  it's managed by WaterCan now. Yeah.",
+    "speaker": "martinmould",
+    "tags": [
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 2690.683,
+    "end": 2699.805,
+    "text": "Martin, just a question regarding the closure of the Cambridge and Kaipeke Road. Is that all finished now? And is the road fully open both ways?",
+    "speaker": "grahamewebb",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 2700.965,
+    "end": 2723.429,
+    "text": "Yep. So, yeah, so I think they finished on Friday. And so it's open, I think it's only 50k at the moment, but yeah, it's open both ways. So the contractor still got some work to do on both ends of the pipe and some work, some small pieces of work, but there won't be any major road  roadworks needed again. So that's a long time. Thank you. Thank you very much.",
+    "speaker": "martinmould",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "summarize_outcome",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 2723.569,
+    "end": 2731.231,
+    "text": "Yeah. Yeah. That's why I asked. You get quite a few phone calls. When? OK, I'll find out. Thank you.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "agree",
+      "ask_question",
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 2731.591,
+    "end": 2737.293,
+    "text": "I think a media release went out today saying it was all done. Hi there, Martin.",
+    "speaker": "martinmould",
+    "tags": [
+      "provide_information"
+    ]
+  },
+  {
+    "start": 2737.653,
+    "end": 2743.114,
+    "text": "Just a quick question on Hicks Road Spring. Is that now fully flow in its full flow?",
+    "speaker": "andreewilten",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 2744.815,
+    "end": 2746.515,
+    "text": "Yes, all except the last three",
+    "speaker": "martinmould",
+    "tags": [
+      "agree",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 2747.538,
+    "end": 2747.738,
+    "text": " Ah, yes.",
+    "speaker": "andreewilten",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 2748.799,
+    "end": 2758.704,
+    "text": "The steags, the gardeners, and the boughs, we're still working through them. Hoping to get gardeners' boar in the next month. And then the steags after that.",
+    "speaker": "martinmould",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 2759.384,
+    "end": 2761.045,
+    "text": "Yeah, oh, excellent. Thank you.",
+    "speaker": "andreewilten",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 2762.186,
+    "end": 2762.726,
+    "text": "Great.",
+    "speaker": "andreewilten",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 2763.606,
+    "end": 2789.271,
+    "text": "All right. No, that's a very good report. Really interesting. Good to see where we're at. Would somebody like to move that we accept the report, please? Yeah.  Thank you, Alwyn. Do we have a seconder? Yeah, Alana. Thank you, Alana. All those in favour? Aye. Thanks very much, Martin. Cool, thank you. Appreciate it.",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "summarize_outcome",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 2789.991,
+    "end": 2793.474,
+    "text": "Thank you, Martin. Have a good evening. OK, great summer, Martin.",
+    "speaker": "martinmould",
+    "tags": [
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 2793.494,
+    "end": 2797.236,
+    "text": "Your team did really, really well, mate, under really trying conditions.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 2797.796,
+    "end": 2799.637,
+    "text": "Thanks, Graham. That's good.",
+    "speaker": "martinmould",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 2800.498,
+    "end": 2804.0,
+    "text": "OK, so we move on to the Treasury report.",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2806.839,
+    "end": 2817.223,
+    "text": " Page 78. Thank you, Graham. I took the liberty of writing them down today. Oh, well done.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "cite_reference",
+      "report_back",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 2818.004,
+    "end": 2823.626,
+    "text": "We all have to remember that, don't we? Oh, we're going to ask Karen to number them from now on.",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 2826.807,
+    "end": 2834.911,
+    "text": "Well, even if it's just the page of the next, you know, what do you call it? Yeah, next, yeah.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 2837.978,
+    "end": 2878.159,
+    "text": " Okay, so we have got a Treasury report. Tells us we've got 2036 in uncommitted funds. And so what have we got at the moment?  We have a total of 2036 and 14. How much were we asked for today? Lots. Yes.",
+    "speaker": "suemilner",
+    "tags": [
+      "provide_information",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 2882.44,
+    "end": 2895.805,
+    "text": "But if all our recommendations are going through to replace some of the money, there's going to be an increase in that account. Yes. Sarah, today, I suppose we can nut through it.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "provide_information",
+      "assign_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2896.765,
+    "end": 2906.542,
+    "text": "Yeah.  We've got six thousand that came back from Anzac Day. Yeah.",
+    "speaker": "suemilner",
+    "tags": [
+      "provide_information",
+      "report_back"
+    ]
+  },
+  {
+    "start": 2912.124,
+    "end": 2917.966,
+    "text": "Is there any problem with rolling the discretionary funds through to the next financial year? They don't get taken off us?",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 2919.5,
+    "end": 2964.413,
+    "text": " No, the discretionary funds do roll through into the coming year. Just notice that's in the next report, the budget update report, that you need to pass those- Resolutions. Resolutions to put the money back. So yeah, those need to be passed first before you start counting them in the- Okay. So you may just want to  you know, receive the Treasury report and then move on to the budget update, which is probably more informative and will give you a clearer picture of, if you pass those resolutions, what might be left. \u2014 OK, so that makes sense.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "procedural_move",
+      "clarify_point",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 2964.433,
+    "end": 2967.814,
+    "text": "\u2014 Can I ask a question just about the Treasury report?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 2967.834,
+    "end": 3006.742,
+    "text": "Is that OK? And this might just be me being really slow on the uptake, but is the discretionary grant  amount that's separate to the amount that's in is the sister city's its own little fund that's separate to the discretionary money is that right yes it is yes it has its own yeah yeah code and and it's quite separate from the discretionary fund okay and and there's a lot of money in there because there hasn't been all those expected expenses that we were because of covid is that right in terms of conferences and things like that",
+    "speaker": "elisebadger",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 3007.742,
+    "end": 3053.105,
+    "text": " Yes, there was some money that you weren't expecting to have in the Sister Cities budget because of those conferences that didn't go ahead. One thing to just note about the Sister Cities budget is that it does operate in terms of  And those years that it doesn't have a delegation, it effectively saves up money for those years that a delegation does come through. So it operates on carrying over money into the next year for when you have a delegation.  Yeah, there will be in those years you don't have anything going on, there will be a high balance, but they will be used up when you've got those visits.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "reassure_stakeholders",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 3054.186,
+    "end": 3056.167,
+    "text": "Thank you, Jane.",
+    "speaker": "elisebadger",
+    "tags": []
+  },
+  {
+    "start": 3056.227,
+    "end": 3119.939,
+    "text": "Sue Graham speaking. It does look like next year we'll possibly have a sister city visit from Lurkie Noire and in the field days next year from Bihoro. And I got an email from the mayor a couple of days ago indicating  they have formed a rugby team up there because of the World Cup in Bihoro. And they want to keep the association with the Cambridge High. And I had a feeling they were saying it may well be a rugby team visitor or something. So I was quite excited about that because I made a comment in Tokyo when I had dinner with the mayor that we certainly need to, well, I said we, but I was really talking about them. They really needed to bring in a lot  younger group of people to make the sister city survive because, you know, several people in their 80s have been down here three times and the younger people were certainly missing. And in the letter that I got, email I got, I think they certainly took that on board. I'm sorry to digress.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "report_back"
+    ]
+  },
+  {
+    "start": 3121.681,
+    "end": 3130.128,
+    "text": "I think it was well worth the digression. Good to know. I've got a rugby team. That could make a difference.",
+    "speaker": "suemilner",
+    "tags": [
+      "state_opinion",
+      "provide_information",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 3131.663,
+    "end": 3133.964,
+    "text": " They might have 15-sized halfbacks, I'm not sure.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "provide_information",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 3137.164,
+    "end": 3158.15,
+    "text": "Yes, so we've possibly got, and of course, next year, because this year's Sister City Conference has been cancelled full stop, next year's Sister City Conference is actually in Wellington. Yeah. Because they're marking an anniversary and a pile of other things.",
+    "speaker": "suemilner",
+    "tags": [
+      "provide_information",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 3158.858,
+    "end": 3169.566,
+    "text": " So, Sue, could I please move that the recommendation that we receive the Treasury report so that we can go on to the next slide? Yes. Yeah.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "procedural_move",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 3169.626,
+    "end": 3170.666,
+    "text": "OK, do we have a seconder?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3171.347,
+    "end": 3171.967,
+    "text": "Yeah, I'll second.",
+    "speaker": "alanamackay",
+    "tags": [
+      "agree",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3173.128,
+    "end": 3182.134,
+    "text": "Who is that, Liz? Alana. Alana, sorry. OK, all those in favour? Aye. Right, all those in favour?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "call_vote"
+    ]
+  },
+  {
+    "start": 3183.035,
+    "end": 3183.335,
+    "text": "Aye.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 3183.355,
+    "end": 3200.592,
+    "text": "Aye. Thank you. Motions carried. Right.  Page 83. Page 83. Gosh, what would we do without you, Grant? Budget update. Anzac funding.",
+    "speaker": "suemilner",
+    "tags": [
+      "summarize_outcome",
+      "procedural_move",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 3200.732,
+    "end": 3206.976,
+    "text": "Okay.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "agree",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 3208.857,
+    "end": 3216.282,
+    "text": "So... Kevin, do you want to throw it with us?",
+    "speaker": "wayneallan",
+    "tags": [
+      "ask_question",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 3223.033,
+    "end": 3430.115,
+    "text": " OK, so obviously, due to Covid, Anzac Day didn't happen and the Cambridge Community Board had set aside $6,000 to cover the costs of that, of the running of that with an additional $495.26.  that had been left over from the Armistice Day commemorations, the Cambridge Community Board put that through towards the Anzac Day commemorations. Obviously, since then, Anzac Day got cancelled because of COVID-19. So we've got $6,495.26 that can be returned to the uncommitted funds  for use, again, for discretionary spending. So if you returned that $6,495, you would have your uncommitted funds would then total $8,801.40, which gives you a little bit more money to use for discretionary grants, et cetera.  At the same time, not at the same time, the Christchurch memorial happened on the 15th of March, and there is unfortunately a little bit of money, extra money needed. In 2019, the board set aside some money to go towards this. Unfortunately, it's not quite enough. There is a shortfall of $171.43 in the budget.  but we do have that money available and uncommitted funds, whether or not you put that extra 6,000 in or not. The sister city's budget, I think you've pretty much covered it already, but we will be going over that again in July, just to give you guys an overview. That budget was originally set before the new community board came on board. So it would be best that we revisit it so that you can have a greater understanding of it.  But like I say, that'll be happening in July. And then of course, I've done a bit of ringing lately, and there is an outstanding, currently outstanding discretionary grants that haven't claimed their money, totaling $5,000. One was $500 for the New Lives Annual Animal Rescue.  and four thousand for the home of cycling and i've heard back from the new animals new lives animal rescue and they'll be sending us a bill very shortly um and i shall have to give home cycling another um call just to see what's happening there um yeah and also uh the board last year purchased memorial medals memorial medals um for  their own display cabinet, as well as to go to, they also went to Cambridge Museum, and we are still waiting an account from them to get that paid off. Any questions?",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "summarize_outcome",
+      "confirm_next_step",
+      "procedural_move",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 3431.995,
+    "end": 3450.956,
+    "text": "I have a question, Kieran, and I might be asking the obvious here, so apologies if I am. So in terms of those committed funds, that money's already being set aside, is that right? Yes. So if they don't want it or don't need it, et cetera,  there's an opportunity to move it back, is that correct?",
+    "speaker": "elisebadger",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 3452.516,
+    "end": 3463.36,
+    "text": "Yes, but we need to have word from them to say that they don't want it. Yes, sure. As yet, we haven't had any word saying, anybody say to us, we don't want the money, so yeah.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 3463.38,
+    "end": 3468.962,
+    "text": "Yeah, sure. And it will just sit there until they need it in the new year, financial year as well. Okay.",
+    "speaker": "elisebadger",
+    "tags": [
+      "agree",
+      "provide_information",
+      "confirm_next_step",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 3471.602,
+    "end": 3472.122,
+    "text": "Yes, Jim.",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3474.388,
+    "end": 3485.974,
+    "text": " Can I, is Karen just raising a question about this, the Christchurch Memorial Service Fund, whatever it was called, you called it? Yep. Shortfall of 120, what was that for?",
+    "speaker": "jimgoddin",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 3487.275,
+    "end": 3513.456,
+    "text": "The plaque, there was the plaque for which there was a stand and a plaque that was put by the tree that was planted and the cost of that was  more than was what was expected last year. Greg Morgan So did the last committee\u2014sorry, I'm just\u2014did they not have a quote to work to, or did they not\u2014what\u2014?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 3514.177,
+    "end": 3529.642,
+    "text": "Hon Paula Bennett We had a bit of a quote from Mr Coles, who was organising it, who said, oh, it'll be about $500. And he also said, and they'll see us right. Greg Morgan Yes, I remember you telling me that.",
+    "speaker": "suemilner",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "agree"
+    ]
+  },
+  {
+    "start": 3529.942,
+    "end": 3537.19,
+    "text": "And is that\u2014so that's\u2014  they'll see us right. We've now got to pay them another hundred and twenty something dollars.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 3537.51,
+    "end": 3546.135,
+    "text": "That's right. Because they didn't actually provide a proper quote and we took Mr. Cole's word.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree",
+      "provide_information",
+      "clarify_point",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 3554.219,
+    "end": 3579.852,
+    "text": "Sue, we need to be adamant that the process needs to be followed. Yes.  I got the brass plaque for the Anchor Memorial, and Council needed a quote, which I got. And I think we need to be really, really strong on that as a group, not this group, but the last group. I went ahead and did that, and it probably wasn't the correct thing to do.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "procedural_move",
+      "report_back",
+      "express_concern",
+      "state_opinion",
+      "persuasion_attempt"
+    ]
+  },
+  {
+    "start": 3580.352,
+    "end": 3584.615,
+    "text": "Yeah, that's right. Yes, that was done under the last board.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 3586.194,
+    "end": 3591.217,
+    "text": " I realise it's done under the last board, but do we have to pick up the tab? Can we not go and say?",
+    "speaker": "jimgoddin",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "evaluate_option",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 3592.417,
+    "end": 3594.358,
+    "text": "Ask Mr. Coles to supply the rest?",
+    "speaker": "suemilner",
+    "tags": [
+      "assign_action",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 3595.899,
+    "end": 3599.401,
+    "text": "Well, I wasn't going to say that, but you said it.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 3599.521,
+    "end": 3619.526,
+    "text": "It's through you, Madam Chair. Did we make a move to increase the amount in one of our meetings or not? No, that wasn't us. Okay, I'm just checking.  So that money decisions was all the previous board's decisions. Is that correct? Yes. Yeah.",
+    "speaker": "elisebadger",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 3619.926,
+    "end": 3620.967,
+    "text": "OK.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 3621.868,
+    "end": 3631.077,
+    "text": "All right. Thank you. Just getting up to speed. Yeah. And I concur with what's being said that in the future we shouldn't make any decisions without having a formal quote. It's a board.",
+    "speaker": "elisebadger",
+    "tags": [
+      "agree",
+      "state_opinion",
+      "policy_proposal",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3631.117,
+    "end": 3634.6,
+    "text": "You've got to put forward a quote. It's not a self-employee business.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "assign_action",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 3636.221,
+    "end": 3640.205,
+    "text": "That's right. So we have learned from that one.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 3643.913,
+    "end": 3668.747,
+    "text": " Is there any chance of approaching Philip and talking about the situation that has developed and see if he's able to come on board? Of course, if he doesn't, then, you know, we're obligated, I think, to actually pay the people that did the park. But like I've always said, there's no harm in asking. You can only be told to go jump.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "ask_question",
+      "persuasion_attempt",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 3671.611,
+    "end": 3679.514,
+    "text": " Has this account not been paid? Are we still dicking them around over $120 or has the council paid it and we've just got to allocate it somewhere?",
+    "speaker": "jimgoddin",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 3679.574,
+    "end": 3683.915,
+    "text": "No, it can't be paid until you allocate them the money, so they're waiting for us to pay.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 3684.576,
+    "end": 3687.477,
+    "text": "This needs to be rectified then.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "prioritize_issue",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 3687.557,
+    "end": 3697.06,
+    "text": "Yes, we can contact Phil and say the bill has come out larger than you told us it would and we need a balance.",
+    "speaker": "suemilner",
+    "tags": [
+      "assign_action",
+      "provide_information",
+      "express_concern",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 3699.441,
+    "end": 3716.373,
+    "text": "Problem.  Yes, I think we can still I think we can still move a resolution, which is here to actually to pay the bill and then just try and recover the shortfall from Phil on a nice basis, I think. Yeah, I think so.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "procedural_move",
+      "policy_proposal",
+      "evaluate_option",
+      "state_opinion",
+      "agree"
+    ]
+  },
+  {
+    "start": 3717.133,
+    "end": 3740.607,
+    "text": "Through you, Madam Chair, is that standard process that if a board member recommends something makes a mistake and there's a shortfall that they're then  held accountable for that in the future financially? I don't know if that sounds like, but you know, feel free to clarify there. I just want to make sure we're acting with integrity around this.",
+    "speaker": "elisebadger",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 3743.088,
+    "end": 3787.302,
+    "text": "It's not normal standard practice. We're often not in this scenario. As I think everyone said, we're not, this has not been an ideal process and terms are kind of going forward. We can certainly make sure that  particularly around this table, that there are no more purchases without a quote. So we can certainly kind of manage it going forward. It is unfortunate that this has happened in terms of that money. We do need to try and get that invoice paid, because that has been outstanding. Yes, but no, it wouldn't be normal practice in terms of the board member.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "procedural_move",
+      "reassure_stakeholders",
+      "assign_action",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 3788.939,
+    "end": 3830.825,
+    "text": " Can I just say that I've never been one to stifle enthusiasm from members, and I'm absolutely sure that Philip was passionate and enthusiastic, but it just has to be done the correct way for accountability. Otherwise, it just doesn't work for council and the board. So on my time on the board, I haven't known this to happen, but it just has to be done properly.  I don't see anything wrong with paying for it and asking Phil to contribute the shortfall with the understanding that we just can't have members going around saying, oh, I will quote about this and they'll see us right, because that's not correct.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "express_concern",
+      "state_opinion",
+      "policy_proposal",
+      "clarify_point",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 3831.505,
+    "end": 3831.805,
+    "text": "No.",
+    "speaker": "suemilner",
+    "tags": [
+      "disagree"
+    ]
+  },
+  {
+    "start": 3834.566,
+    "end": 3875.061,
+    "text": "Through you, Madam Chair, I'm interested to hear other people's opinions about this, but I don't feel comfortable if we as a board approach a previous board member and ask  them to cover that cost you know like we make mistakes we're fallible people and something about that doesn't sit right with me but I'm happy to hear what other people think about that I wonder if it was whoever the chair was of that previous board or whoever was the council rep that you know I don't know just seems",
+    "speaker": "elisebadger",
+    "tags": [
+      "express_concern",
+      "state_opinion",
+      "ask_question",
+      "defer_to_authority",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 3877.19,
+    "end": 3905.973,
+    "text": " I know where Graham's coming from, and I think that under the circumstances, because of the way it was handled and dealt with and no proper process was followed, there's no harm in asking. I mean, none of us run businesses like that. Yes, but there are other points of leadership in that process, like the Chair, who could have",
+    "speaker": "jimgoddin",
+    "tags": [
+      "state_opinion",
+      "express_concern",
+      "build_on_point",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 3906.259,
+    "end": 3951.51,
+    "text": " being part of that. So I don't think it's that one board member's responsibility. I think it's the entire board's responsibility. They had every opportunity to say, hey, we haven't seen a quote for this. We're approving this much money, but we don't know that's how much it costs. So I don't think it's fair to say it's this person's fault when the whole board approved the funding of that process. And in the same way for us, I think we all would be held accountable for a decision we made as a board. Everyone was present on those meetings. You can see it in the minutes.  that funding was allocated by the board. So, for me, if we want to follow due process, I would like some clarification if acting in this manner is, in fact, within normal due process. And, Mike, you had something to say.",
+    "speaker": "elisebadger",
+    "tags": [
+      "state_opinion",
+      "ask_question",
+      "clarify_point",
+      "summarize_outcome",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 3953.396,
+    "end": 3974.681,
+    "text": " I have nothing to add apart from on with you, Elise. It's a collective responsibility. If you approve a quote, and it's not really a quote, I think that the board wears that. Fortunately, this is only $170. So it's a matter of principle rather than a practical sort of problem. But yeah, look, I think it should just be paid, lesson learned and move on. Yeah.",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "state_opinion",
+      "agree",
+      "policy_proposal",
+      "persuasion_attempt"
+    ]
+  },
+  {
+    "start": 3974.881,
+    "end": 3976.062,
+    "text": "Thank you, Mike.",
+    "speaker": "elisebadger",
+    "tags": []
+  },
+  {
+    "start": 3979.322,
+    "end": 3992.582,
+    "text": "So is anybody else got anything to say on that one?  somebody like to move that we just pay the account and someone says lesson learned, we move on.",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 3992.963,
+    "end": 3995.304,
+    "text": "I would definitely like to move that we pay it.",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "procedural_move",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 3996.345,
+    "end": 4015.498,
+    "text": "I second that, Mike. Well, it's in the recommendations A, B and C. The only other thing I'd like to add before we do that is you can see that our uncommitted funds would go up to 8801 if we returned some of the unspent money.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "agree",
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 4016.45,
+    "end": 4037.602,
+    "text": " And that is fantastic because it does give us some discretion if we have other groups coming along. This is what I was trying to raise tonight. So there's quite a bit of extra money there, which could well help other groups applying later on in the year. But I'm happy to support the recommendations. Okay.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "state_opinion",
+      "agree",
+      "prioritize_issue",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 4037.942,
+    "end": 4095.972,
+    "text": "All those in favour? Aye. Aye. That's carried. Thank you.  right so now we do move to the discretionary discretionary fund applications um destination cambridge who have sent us um page 86 guys yeah yes um this is for their christmas rate i think  It's a valid point to find out, as someone mentioned before, about what's happened to the sponsorship. Are they going for sponsorship? Have they tried? Does anybody else have a view on that one? Can I ask, I think it's vital that we find that out.",
+    "speaker": "suemilner",
+    "tags": []
+  },
+  {
+    "start": 4096.591,
+    "end": 4119.169,
+    "text": " and perhaps let this lie until our July meeting. I don't know anything else we can do at this stage because we don't meet before then. And I'm actually in favour of talking to MIFF and seeing what the situation is before we proceed. That's all soon.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "defer_decision",
+      "state_opinion",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 4122.08,
+    "end": 4136.25,
+    "text": " I'm with you on that one, Graham. I think we need to find out what the story was. I was surprised that they hadn't mentioned a sponsorship, and it's certainly always been there, so if there is some reason that there isn't, it would be nice to know.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree",
+      "prioritize_issue",
+      "express_concern",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 4137.071,
+    "end": 4137.291,
+    "text": "Yeah.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 4139.192,
+    "end": 4148.799,
+    "text": "So, are we all happy if we defer that one till next month and somebody will have a discussion with them and see what the story is?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "defer_decision",
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4149.94,
+    "end": 4150.02,
+    "text": "Yes.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 4151.26,
+    "end": 4178.977,
+    "text": " Okay, is there somebody who would like to speak with Mip on this one? You can? If you could, Jim, just find out, you know, do they not have the sponsorship this year? And who else are they going to? Because I'm sure we weren't the only people that were contributing towards the parade each year. Let's see what else is going on. So everyone's happy if we defer that one?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "assign_action",
+      "defer_decision",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4179.583,
+    "end": 4195.032,
+    "text": " Would you like to pass a recommendation on them in turn? So deal with this one now. So pass a recommendation just to say that the Cambridge Community Board defer a decision on the Destination Cambridge funding until the July meeting.",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "policy_proposal",
+      "defer_decision",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4195.652,
+    "end": 4196.913,
+    "text": "Yeah, I think that would be.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 4197.914,
+    "end": 4207.439,
+    "text": "So, Jo, I was going to wrap that up in with the last one, the Cambridge Community House, because it's very, very late in June that we would know the council's decision on the 61,000.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "procedural_move",
+      "provide_information",
+      "defer_decision",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 4209.873,
+    "end": 4238.182,
+    "text": " okay well we can do all we can do some recommendations at the end if that's what you would prefer yes yes but i think i think the white power free violence one is capable of being finalized tonight that's in my view yes they too and i think that's a very good one and certainly worthwhile that one so they're asking for",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "state_opinion",
+      "procedural_move",
+      "prioritize_issue",
+      "agree"
+    ]
+  },
+  {
+    "start": 4240.085,
+    "end": 4245.747,
+    "text": " $1,292.50. Are people happy with that amount?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 4247.248,
+    "end": 4247.888,
+    "text": "Yes.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 4247.908,
+    "end": 4267.516,
+    "text": "Can we just formulate something on the other two first? Sorry, that we defer the destination Cambridge and the community house until further information. That would probably cover both those two. And then we have a separate resolution for the violence-free white path. Sorry, Sue. That makes sense.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "procedural_move",
+      "defer_decision",
+      "policy_proposal",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 4269.193,
+    "end": 4271.735,
+    "text": " No, that would be good. OK, certainly.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4272.075,
+    "end": 4285.447,
+    "text": "I've got that the Cambridge community for the book community for the first consideration of the Cambridge Community House and Destination Cambridge fund discretionary fund applications until the July meeting.",
+    "speaker": "Unknown",
+    "tags": [
+      "defer_decision",
+      "procedural_move",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 4287.328,
+    "end": 4292.492,
+    "text": "All those in favour? I'm happy to move. Who's moving? Graham's moving?",
+    "speaker": "suemilner",
+    "tags": [
+      "call_vote",
+      "procedural_move",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 4292.532,
+    "end": 4293.373,
+    "text": "I'm moving, yes.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4293.914,
+    "end": 4306.169,
+    "text": "Are we a seconder? Thank you, Jim.  All those in favour? Aye. Pass. Thank you. OK, so that sorted that one.",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "summarize_outcome",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 4307.15,
+    "end": 4318.941,
+    "text": "Can I just ask a question of Graham there? Is it a rule, Graham, that we can't give a discretionary grant if they've had separate council funding or is it just a consideration for you?",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 4320.488,
+    "end": 4363.678,
+    "text": " No, there is no rule regarding that. My only concern was the situation with the COVID and the amount of people that might come back and ask us for a contribution. But I am conscious of the large amount that the Cambridge Community House have requested. And I think I just don't want to  I just don't want to\u2014my feeling is to have some money there for the ones exactly like the violence-free Waip\u0101, so that we're not out of funds and one entity doesn't get  What do you mean? A majority of what's available in a tight financial times. Yeah. Yeah.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "express_concern",
+      "state_opinion",
+      "prioritize_issue",
+      "community_reference",
+      "equity_reference",
+      "evaluate_option"
+    ]
+  },
+  {
+    "start": 4363.698,
+    "end": 4379.628,
+    "text": "Cool. I understand that. Thanks for that clarification. And just a follow on question. So you referred before to a funding round at some stage. I'm still a little bit vague about this. It seems like these things just come dribbling in the whole time. Can you give a bit of background on the funding round when that happened?",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "express_concern",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 4380.509,
+    "end": 4418.035,
+    "text": " No, we do have funding rounds, but we've always kept some in reserve for things that just pop up. Normally, in the early part of the board, we would sort of empty the coffers. And then when we went on our rural tours, we would find people asking us if we had any money in the discretionary.  for some project that they might have had in the hall or the play centre or the school out in the rural areas. And then, of course, people got to know that they could come in on a monthly basis and request a few dollars. And that was the whole idea of not cleaning out the Treasury before in one go. Yeah, yeah. Karen, are you right there, Sue?",
+    "speaker": "grahamewebb",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 4418.395,
+    "end": 4450.745,
+    "text": "Yeah, yeah, that'd be right. And yeah, it's important that we've got some of those little ones that pop up.  funding round? Well we do have a funding round each year later in the year where quite a number of groups submit and they would like funding and we sit down and we go through them all on math. When's that? About 20 different groups would reply and that was about August, September.",
+    "speaker": "suemilner",
+    "tags": [
+      "provide_information",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 4451.385,
+    "end": 4455.446,
+    "text": "And what kind of percentage would we allocate in that funding round of our discretionary fund normally?",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 4458.237,
+    "end": 4465.059,
+    "text": " We normally just, most of it, we do, we need very little back.",
+    "speaker": "suemilner",
+    "tags": [
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 4465.999,
+    "end": 4471.1,
+    "text": "Yeah, okay, thanks. So 80 or 90% maybe? Probably, yeah.",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "provide_information",
+      "ask_question",
+      "state_opinion",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 4471.22,
+    "end": 4473.721,
+    "text": "Yes, I think so.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 4474.101,
+    "end": 4475.801,
+    "text": "Thank you. Clarity.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 4476.181,
+    "end": 4531.318,
+    "text": "Can I just ask a question, sir, or make a comment?  Yes. While I do definitely agree with you, Graham, on the holding back funding, I think we need to be really careful that we're not holding on to money that could be very useful in a very important time right now. And I know we're just talking about next month, but just also going forward, like there is a lot of need at the moment. And I just want to be careful that we're not being too, you know, do you know what I'm trying to say? Restrictive.  Yeah, and Cambridge Community House is such a wraparound charity. You know, it is violence-free, WIPA, very deserving, but very specific in their goals. While the community house would do everything from literally giving people food to helping people with their budgets. And it just seems like it's really important right now. So. Oh, it is, and I think it'll get due consideration from council.",
+    "speaker": "jodaviescolley",
+    "tags": [
+      "agree",
+      "express_concern",
+      "persuasion_attempt",
+      "provide_information",
+      "community_reference",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 4531.799,
+    "end": 4583.199,
+    "text": "Now, Mike, you talked about, you know, when do the funding rounds now  The application to the council from the Cambridge Community House was the fifty thousand dollars came out of left field. They can't complete or pay for the completion of the alterations and extensions unless that fifty came in. And that's an example of what we get in the board. I'm not advocating to hold on to money at all, but I didn't want to see five thousand of the eight thousand  go to the community house when they're already up applying for 61. And if they don't get 61, we can certainly reconsider it. But if they don't go for that, then there's $8,000 there that's available for other people to come in and ask us for a top up. So I'm trying to spread it. I'm trying to make everybody, you know, happy and not double dip. That's all.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "express_concern",
+      "state_opinion",
+      "policy_proposal",
+      "community_reference",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 4584.28,
+    "end": 4602.958,
+    "text": "Yeah. And we will, you know, when we do the  community discretionary grants later on this year. There's a huge amount of groups and they're all very worthy. They come to it, you know, and it's really difficult trying to decide what we are. Yeah.",
+    "speaker": "suemilner",
+    "tags": [
+      "provide_information",
+      "defer_decision",
+      "express_concern",
+      "community_reference",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 4603.158,
+    "end": 4627.426,
+    "text": "Yeah. Every councillor to a tee was very, very impressed with the work that the Carriage Community House was doing.  And I'm sure that they'll get a very, very good hearing at our final deliberations. And I just don't see anything wrong with just waiting until we hear that before we do allocate 5,000, 2,000, 1,000, whatever. I'm just thinking that's the way to go. Yeah.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "state_opinion",
+      "defer_decision",
+      "community_reference",
+      "reassure_stakeholders",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4628.786,
+    "end": 4635.27,
+    "text": "Even though that's for a different purpose?  So that's for the building rather than the running costs? Yes, yes, yes, yeah.",
+    "speaker": "alanamackay",
+    "tags": [
+      "clarify_point",
+      "ask_question",
+      "agree"
+    ]
+  },
+  {
+    "start": 4636.951,
+    "end": 4651.636,
+    "text": "I guess I was just thinking that really a month for some of the people who would benefit from that funding is a lot of time. You know, for us to wait doesn't affect us, but for people who would be receiving some of that funding on the front line, you know. Yep, yep.",
+    "speaker": "jodaviescolley",
+    "tags": [
+      "express_concern",
+      "prioritize_issue",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 4652.516,
+    "end": 4681.991,
+    "text": "Oh, I'm on your side, don't worry. You're very welcome to go and give them $5,000. It doesn't worry me. I'm just pointing out that there could be other people coming in the door.  And it is not all lost. We might decide that we could afford to give them four or three or whatever, but it's just that three weeks that we wait for the council decision, which might just turn us to thinking, by hokey, we've had seven or eight other applications coming in and we just can't afford to give them that five, but we give them one thousand, which we gave them last year from the board.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "express_concern",
+      "state_opinion",
+      "evaluate_option",
+      "reassure_stakeholders",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 4682.292,
+    "end": 4751.726,
+    "text": "Through you, Madam Chair, just in terms of whether we defer this decision about them.  And your point, Graeme, you say that more applications will come in, but we're not going to be looking at any applications until next month, by which point our discretionary funds will have gone up again. Is that correct, with the new financial year?  Does that go over in July? New allocations? So, in my mind, I'm sort of thinking, well, we've got $8,000 now, which is available for somebody, and then in July, next month, when we can say we reconsider this, we'll then have a much bigger pot. But surely we've got some money here that's available, and even if we don't say, we don't feel comfortable with 5,000, surely it would be more valuable for the community, which is the goal, I guess, if we actually said, well, look, here's a portion,  or whatever we think. But I feel like sitting on it for a whole month seems like too long. And keeping with your point, Joe, about there being people who could benefit from that financial contribution right now for the next three or four weeks. Yeah.",
+    "speaker": "elisebadger",
+    "tags": [
+      "defer_decision",
+      "ask_question",
+      "clarify_point",
+      "express_concern",
+      "policy_proposal",
+      "build_on_point",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 4752.326,
+    "end": 4753.708,
+    "text": "Yes, you could do that. Yes.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "agree",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4754.708,
+    "end": 4755.369,
+    "text": "That's my thoughts.",
+    "speaker": "elisebadger",
+    "tags": [
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 4757.49,
+    "end": 4788.618,
+    "text": "I would through you, Madam Chair. I would certainly not be  overly confident in giving out a thousand five thousand straight or straight off straight up not what they asked for i mean as graham says there's going to be a lot of people out there and we don't know what's going to happen yeah i'm just certainly going to be very difficult i think we are going to see a lot more applications probably sooner rather than later",
+    "speaker": "jimgoddin",
+    "tags": [
+      "procedural_move",
+      "express_concern",
+      "state_opinion",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 4791.376,
+    "end": 4801.72,
+    "text": " I mean, to be fair, we have got another 6,000 going back into the pot because some of it hasn't been picked up. So, I mean, if you wanted to give them a couple of grand, just, yeah, just whatever you want to do, Elyse, just, yeah.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "provide_information",
+      "policy_proposal",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 4803.12,
+    "end": 4816.945,
+    "text": "Oh, well, not just me. The whole board. Yeah, Elyse. Yeah, Elyse, give them money away. So I would like to know what everyone else thinks about that. Yeah, me too.",
+    "speaker": "elisebadger",
+    "tags": [
+      "ask_question",
+      "state_opinion",
+      "agree",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 4818.826,
+    "end": 4840.935,
+    "text": " I'm just trying to go through the history and help the board get an understanding of why we do hold, not hold money back, it's, we don't empty the coffers because, you know, there are other applications coming in and at this time we kind of feel, we don't kind of feel, we know there is going to be a lot more coming in. So, you're always cool, I'm just, I'm just trying to help. Yeah, thank you Graeme.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 4842.357,
+    "end": 4855.406,
+    "text": " Sorry, question. Are organisations able to apply to us more than once in a year, or are they limited to one? Well, they do apply more than once a year.",
+    "speaker": "alanamackay",
+    "tags": [
+      "ask_question",
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 4855.426,
+    "end": 4857.187,
+    "text": "They can apply more than once, can't they?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 4857.387,
+    "end": 4858.508,
+    "text": "Right.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 4858.528,
+    "end": 4865.873,
+    "text": "They cannot apply twice for the same project. Theoretically, organisations can apply more than once. Yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 4865.893,
+    "end": 4868.034,
+    "text": "Because it's not for the same project.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 4869.858,
+    "end": 4881.729,
+    "text": " That's correct. And in the last, I think it was in the last financial year, the community house had already come to us for funding towards their building project.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree",
+      "provide_information",
+      "community_reference",
+      "report_back"
+    ]
+  },
+  {
+    "start": 4883.517,
+    "end": 4917.667,
+    "text": " Well, if, sorry, through you, Sue, I apologise. If, Graham, if you think they may be more than likely successful with their council funding, could we give them a small amount now to show that we are understanding of, you know, what they're needing with the hope that council also helps them out and we could look at further funding down the track? Absolutely.  I don't know just what everyone else thinks that's just those are just my thoughts.",
+    "speaker": "jodaviescolley",
+    "tags": [
+      "policy_proposal",
+      "state_opinion",
+      "ask_question",
+      "persuasion_attempt"
+    ]
+  },
+  {
+    "start": 4919.611,
+    "end": 4972.01,
+    "text": "Sue could I make a comment please? Yes.  I think I'm probably a little bit on Graham's side on this one. The financial fallout from COVID-19 has hardly started. It's going to be in the 12 months to come than it is right now. Personally, I find that nature of these discretionary grants pretty hard to deal with. I really like the idea of  having a you know one funding round where we give out 80 or 90 percent and if that funding round ends up a few thousand dollars high because we've carried over from this year I think that's that's not a bad outcome and it'll likely come at a relatively appropriate time when when business pressures and therefore family financial pressures are really beginning to bite once the government wage subsidy starts running out and that sort of thing.",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "agree",
+      "build_on_point",
+      "state_opinion",
+      "express_concern",
+      "policy_proposal",
+      "evaluate_option",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 4975.853,
+    "end": 4977.894,
+    "text": " Thank you, Mark. I think you've made a very good point.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 4982.418,
+    "end": 4996.307,
+    "text": "It's a shame Harriet isn't here for this discussion, because she'd probably be able to give us a bit of statistics on how many families she's feeding and all that kind of stuff, which might help us. But yeah, no, that is a good point.",
+    "speaker": "jodaviescolley",
+    "tags": [
+      "defer_to_authority",
+      "agree",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 5000.35,
+    "end": 5022.291,
+    "text": "Just a reminder, you've got a  a motion on the floor moved by Graham and seconded by Jim at the Cambridge community for the first consideration for the Cambridge community house and the destination Cambridge discretionary funds until the July meeting so you still have to pass that motion yet.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "summarize_outcome",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 5026.232,
+    "end": 5027.833,
+    "text": "Do we wish to proceed with that motion?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5031.685,
+    "end": 5039.128,
+    "text": " Or, Alana, if you want to move a different one, please do. Don't let me tell you what to do.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "defer_decision",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5042.209,
+    "end": 5057.815,
+    "text": "No, and no, certainly likewise. I mean, Alana and Jim, do you have any particular feeling either way? Through you, Madam Chair, I know they do excellent work.",
+    "speaker": "jodaviescolley",
+    "tags": [
+      "ask_question",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 5060.098,
+    "end": 5114.641,
+    "text": " and maybe we give them two and a half grand now and hold the document, just cut it back to two and a half for now and consider the balance at a later date. I'm worried that everyone's going to come knocking shortly.  just from other organizations from Lions Club for instance that I'm in you know the applications are starting to roll in there as well lots of people are out there looking for money and there will be a time when we're almost we will have a I expect we will have an awful lot and we're going to be juggling you know and we're going to have to it's going to be tough love at some point",
+    "speaker": "jimgoddin",
+    "tags": [
+      "policy_proposal",
+      "express_concern",
+      "persuasion_attempt",
+      "defer_decision",
+      "prioritize_issue",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 5121.482,
+    "end": 5130.368,
+    "text": " Joe, can you give us, I mean, this is your committee, isn't it? The community house. Can you give us, is there a sense of urgency? Are they in a cash flow crisis or anything?",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "ask_question",
+      "assign_action",
+      "express_concern",
+      "community_reference",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 5133.75,
+    "end": 5214.964,
+    "text": "Are you asking me, Mike? Yeah, sorry.  Well, from sitting with them in our social services committee, especially the last one, there was a lot of very basic charity going on in the sense of feeding families. And I think about people who, you know, the working poor who are really doing it tough, and we're doing it tough right from the beginning of level four.  So for me, it seems a shame not to give them something now that could really benefit people in the community. But I also understand where the rest of you are coming from. So, I mean, I'm happy just for what the majority thinks. I mean, I agree there will be other people coming to ask us for money. How much of a, you know, I'm not trying to say, you know, it's,  It's always worthwhile thinking about the others that will, you know, want funding. But when I think about things like the Christmas parade versus people who are really doing it tough in the community, yeah. I mean, those things are important, but I'm just wondering whether right now it could be good to give them something.  Through you, Madam Chair, if that's OK.",
+    "speaker": "jodaviescolley",
+    "tags": [
+      "express_concern",
+      "state_opinion",
+      "prioritize_issue",
+      "agree",
+      "community_reference",
+      "equity_reference",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 5216.104,
+    "end": 5240.209,
+    "text": "Mike, I just remember her speaking in the public forum and she did kind of intimate that they were in something of a cash flow challenging time because they were not sure about other funding routes that were taking. That was just the impression I got that she felt like they were under a fair bit of pressure to meet some of those operating costs. But yeah, that's all that's all I kind of got from what she said today.",
+    "speaker": "elisebadger",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 5241.95,
+    "end": 5277.876,
+    "text": " Yes, you're right, Elise, they are.  the reason the council and the proposal she put was to clear their debt of 11 from a council commitment on top of the 50. So, if you, Jo, if you think that they are in a, you know, can't do the next three weeks until they know how they're getting on, then perhaps, you know, taking up Jim's suggestion of giving them some cash might be  socially very, very good.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "agree",
+      "provide_information",
+      "policy_proposal",
+      "build_on_point",
+      "persuasion_attempt",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 5279.761,
+    "end": 5283.33,
+    "text": "Even if it's just a partial, yeah, a smaller amount, that's something.",
+    "speaker": "elisebadger",
+    "tags": [
+      "agree",
+      "evaluate_option"
+    ]
+  },
+  {
+    "start": 5287.784,
+    "end": 5310.543,
+    "text": " The two and a half grand halfway option works for me. I've got no problems with the cause here at all. I'm just trying to strategically use our limited funds as best way as possible. And Jo, I totally take your point about Christmas parades. I look at the eyesight and you look at their accounts and it's a pretty serious business. It's impossible to make money in the first place.",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "state_opinion",
+      "evaluate_option",
+      "agree",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 5315.254,
+    "end": 5340.002,
+    "text": " Well, maybe we need to think, I mean, they've asked for the community house has asked for how much? Five. We gave them two and a half. That's a thing. How would people feel about that? Yeah, I'm happy with that.",
+    "speaker": "suemilner",
+    "tags": [
+      "community_reference",
+      "ask_question",
+      "state_opinion",
+      "evaluate_option"
+    ]
+  },
+  {
+    "start": 5340.042,
+    "end": 5343.063,
+    "text": "Yeah, it's good. Yeah, more than happy.",
+    "speaker": "andreewilten",
+    "tags": [
+      "agree",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 5343.563,
+    "end": 5345.816,
+    "text": "Yeah.  Yes.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 5347.417,
+    "end": 5351.957,
+    "text": "Karen, don't we need to withdraw something? Haven't we put a proposal for?",
+    "speaker": "jimgoddin",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5355.038,
+    "end": 5377.877,
+    "text": "Yes, yes, you do. You have. Yes. It's been a while since I've had to deal with this one, but yes, I have got a motion on the floor with a mover and a seconder. The mover and seconder, Graham and Jim, you two can choose to withdraw it.  or you can choose to vote on it. And in which case then it depends what way it goes, whether it goes forward or not, so.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "clarify_point",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 5378.678,
+    "end": 5382.139,
+    "text": "I'm happy to withdraw, Grant. I am. I'm happy to withdraw.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "procedural_move",
+      "agree"
+    ]
+  },
+  {
+    "start": 5382.239,
+    "end": 5388.561,
+    "text": "All right, then that motion has been withdrawn. Okay, so we need a new motion.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 5390.682,
+    "end": 5395.584,
+    "text": "I think Jo and Elyse might want to do this one.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "assign_action"
+    ]
+  },
+  {
+    "start": 5396.464,
+    "end": 5404.27,
+    "text": "Yeah, that's a good idea.  So Jo, Denise, you want to move a motion?",
+    "speaker": "suemilner",
+    "tags": [
+      "agree",
+      "procedural_move",
+      "assign_action",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 5404.51,
+    "end": 5405.25,
+    "text": "Yeah, I'll move that.",
+    "speaker": "jodaviescolley",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5407.571,
+    "end": 5418.834,
+    "text": "To move that we give Cambridge Community House $2,500. From the board's discretionary funds. From the board's discretionary funds.",
+    "speaker": "elisebadger",
+    "tags": [
+      "procedural_move",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 5421.275,
+    "end": 5428.177,
+    "text": "That the Cambridge Community Board allocate $2,500 plus GST to the Cambridge Community House from the board's discretionary fund.",
+    "speaker": "Unknown",
+    "tags": [
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 5429.118,
+    "end": 5436.306,
+    "text": "Including GST?  Sorry, who was moving that, sorry?",
+    "speaker": "elisebadger",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5436.987,
+    "end": 5442.172,
+    "text": "I'll move that. And Elyse, you're seconding, is that right?",
+    "speaker": "jodaviescolley",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 5442.192,
+    "end": 5451.801,
+    "text": "Yeah, I can second, yeah. Okay, all those in favour? Aye. Aye. Motion is carried, thank you.",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 5452.401,
+    "end": 5481.424,
+    "text": "Sue, Sue, that will  work out quite well, like for the next three weeks waiting for a decision from Council. Because if we go by what Jim said is coming in to, Jim, is it Rotary? We should be starting to get some spill off in terms of applications or people asking for application forms to get something out. So it'll give us three weeks of, hey, what's happening and see where they're all heading.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "state_opinion",
+      "evaluate_option",
+      "build_on_point",
+      "provide_information",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 5482.344,
+    "end": 5510.979,
+    "text": "Yeah, that's right.  Okay, all right, thank you for that. We will now move on to Cambridge Community Board Working Groups, pages 98 to 100. Pardon me Sue, we have not had any formal decision made on the violence-free WIPA or the",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "cite_reference",
+      "defer_decision"
+    ]
+  },
+  {
+    "start": 5513.873,
+    "end": 5516.494,
+    "text": " Sorry, I thought we were in the Destination Cambridge.",
+    "speaker": "Unknown",
+    "tags": [
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 5517.375,
+    "end": 5520.736,
+    "text": "No, there were no motions made.",
+    "speaker": "suemilner",
+    "tags": [
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 5521.597,
+    "end": 5523.198,
+    "text": "Oh, sorry.",
+    "speaker": "Unknown",
+    "tags": []
+  },
+  {
+    "start": 5526.439,
+    "end": 5536.064,
+    "text": "So, I think we were deferring. Can we just say we're declining Destination Cambridge at this point?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "policy_proposal",
+      "defer_decision"
+    ]
+  },
+  {
+    "start": 5537.225,
+    "end": 5540.226,
+    "text": "No, you asked me to go and talk to them and come back.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "clarify_point",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 5544.966,
+    "end": 5553.948,
+    "text": " So we move that we decline at this point and Jim to speak with them. Or do we withdraw that entirely?",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "assign_action",
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 5558.409,
+    "end": 5572.633,
+    "text": "You could either decline or you could defer it. There was that original recommendation that I talked about. Maybe the Cambridge Community Board deferred the decision on the destination Cambridge until the July community board meeting.",
+    "speaker": "Unknown",
+    "tags": [
+      "defer_decision",
+      "community_reference",
+      "provide_information",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 5573.867,
+    "end": 5576.508,
+    "text": " Yep, we could do that. That's a good idea.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 5576.608,
+    "end": 5579.23,
+    "text": "Or you could decline, it's up to you.",
+    "speaker": "Unknown",
+    "tags": [
+      "defer_decision"
+    ]
+  },
+  {
+    "start": 5579.27,
+    "end": 5587.434,
+    "text": "We're seeking more information, so we better just decline at this stage. Deferred. Deferred? Deferred, sorry.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "defer_decision",
+      "procedural_move",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 5587.794,
+    "end": 5588.735,
+    "text": "Deferred, okay.",
+    "speaker": "Unknown",
+    "tags": [
+      "defer_decision",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 5588.755,
+    "end": 5590.535,
+    "text": "Deferred, deferred.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "defer_decision"
+    ]
+  },
+  {
+    "start": 5591.236,
+    "end": 5594.557,
+    "text": "Okay, do we have a mover and a seconder for this?",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 5595.118,
+    "end": 5595.858,
+    "text": "I'm happy to move.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5596.539,
+    "end": 5601.921,
+    "text": "Thank you, Joe. I'll second that. Thank you, Joe. All those in favour? Aye.",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "agree"
+    ]
+  },
+  {
+    "start": 5602.542,
+    "end": 5614.637,
+    "text": "Thank you.  So I'm happy to move that the No Violence WIPA get what they're asking for. I think they're heavily involved.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "procedural_move",
+      "policy_proposal",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 5614.697,
+    "end": 5616.918,
+    "text": "They are a very good group, yes.",
+    "speaker": "suemilner",
+    "tags": [
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 5620.14,
+    "end": 5622.001,
+    "text": "Second that. Did you move it? I second it.",
+    "speaker": "elisebadger",
+    "tags": [
+      "agree",
+      "procedural_move",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 5622.661,
+    "end": 5622.941,
+    "text": "Yeah.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 5623.502,
+    "end": 5624.882,
+    "text": "Was that a move? I second.",
+    "speaker": "elisebadger",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "agree"
+    ]
+  },
+  {
+    "start": 5626.303,
+    "end": 5627.524,
+    "text": "How much was that one? $1,292.",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 5628.424,
+    "end": 5633.967,
+    "text": "Yeah. That would mean that the Cambridge community",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "build_on_point",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 5635.281,
+    "end": 5646.425,
+    "text": " forward approved the payment of what was it $1,292.50 plus GST from the discretionary fund to Violence Free Waip\u0101.",
+    "speaker": "Unknown",
+    "tags": [
+      "report_back",
+      "summarize_outcome",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 5647.025,
+    "end": 5659.61,
+    "text": "Yes. Thank you. Someone's moved it. I second. I moved it. Yeah. I moved it. Brown's moved it. Lee's seconded it. All those in favour? Aye. Aye. Thank you. It's carried.",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 5660.435,
+    "end": 5665.716,
+    "text": " We can treat those two discretionary grants as a reallocation of the ANZAC money, and I think that's quite appropriate.",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "state_opinion",
+      "policy_proposal",
+      "evaluate_option"
+    ]
+  },
+  {
+    "start": 5666.197,
+    "end": 5672.998,
+    "text": "Yeah. Yes. OK. Yes, Jim.",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5673.599,
+    "end": 5686.382,
+    "text": "Sorry, just a query. Karen, you say that plus GST, the figures are plus GST. We say on this thing, it's got nothing, no mention about GST. Council grants always plus GST.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 5688.262,
+    "end": 5706.829,
+    "text": " Yeah, basically everything's always plus GST. If they're not GST registered, obviously they can't charge for the GST, but if the organisation is GST registered, then it'll be, so the 2,500 plus whatever the GST amount is on top of that. That's all I need to know, thank you.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 5708.029,
+    "end": 5732.846,
+    "text": "Okay, right, now we can move on. The Cambridge Community Board  working groups, page 98. So we are going to work our way through this. So can I take it that everybody has read this document?",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 5744.113,
+    "end": 5746.495,
+    "text": " Yes, I certainly have. Yes.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 5747.516,
+    "end": 5767.149,
+    "text": "Right. And so we would be happy to receive the report. Cambridge Community Board Working Groups that's been submitted, that's been provided by Karen. Yep. I'm happy to move that if someone wants to second it.",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "call_vote"
+    ]
+  },
+  {
+    "start": 5768.83,
+    "end": 5769.591,
+    "text": "I'm happy to second.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5770.511,
+    "end": 5854.095,
+    "text": "Okay. Thank you, Jim. All those in favour?  Right. Chairperson's report is a verbal report and it's very short. It's been a different month with no committee meetings due to COVID-19. And we need to be aware of what's happening in the community. Some groups are really busy, as we've seen, supporting people in the community. And this  may well be reflected in applications for grants later on in the year so I think we need to be very aware of what's happening in the community so that when we do get the applications for grants we actually do know what's and understand what is happening. So that's really my report for the month. I think we're all tied up with that at the moment. Okay does anybody oh so somebody has to receive my report.  seconder I will thank you Owen all those in favor aye right now we now go on to the reports from meetings on behalf of the Cambridge Community Board I don't know if anyone's had these meetings this last one yes",
+    "speaker": "suemilner",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "prioritize_issue",
+      "procedural_move",
+      "call_vote",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 5856.218,
+    "end": 5885.847,
+    "text": " Yes, so the Autumn Festival, we met last Thursday. Just a bit of a tidy up and starting reporting back to sponsors and those kind of things. And we've set the dates for next year. So I think off the top of my head, it's going to be the 19th to the 28th of March. So things rolling, contacting all the performers and groups that we deal with. So far, we've had nothing but positive responses and everyone's keen to get things happening again.",
+    "speaker": "alanamackay",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "reassure_stakeholders",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 5886.824,
+    "end": 5890.067,
+    "text": " Brilliant. Thank you. Chamber of Commerce, Jim.",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5891.167,
+    "end": 5931.333,
+    "text": "\u2014 Yeah, we have had a meeting in May. It was more around helping businesses that have put their hand up, asking for assistance. Some interesting stats. 278 people applied for the dole in Waipara in March. As a result of COVID-19, they had an increase of 278 people.  So, there's a lot of people out there that have lost their job within the district and there's more to come, no doubt. So, it was more, there wasn't a huge amount discussed, it was more around how we can help businesses, what we can do for them.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "report_back",
+      "provide_information",
+      "summarize_outcome",
+      "express_concern",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 5932.253,
+    "end": 5937.797,
+    "text": "Loretta Kreet Thank you, Jim. Oh, and Community Arts Council.",
+    "speaker": "suemilner",
+    "tags": [
+      "public_address",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 5937.897,
+    "end": 5939.979,
+    "text": "There's nothing to report. Good.",
+    "speaker": "andreewilten",
+    "tags": [
+      "report_back",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 5942.0,
+    "end": 5943.401,
+    "text": "Jim, Information Centre.",
+    "speaker": "suemilner",
+    "tags": [
+      "provide_information"
+    ]
+  },
+  {
+    "start": 5944.202,
+    "end": 5947.484,
+    "text": "Jim Tawhai Meetings next week. Loretta Kreet Righto.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "procedural_move",
+      "confirm_next_step",
+      "agree"
+    ]
+  },
+  {
+    "start": 5948.365,
+    "end": 5952.204,
+    "text": "Thank you.  Mike, Safer Community Charitable Trust.",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5952.605,
+    "end": 6018.921,
+    "text": "Yeah, I had a meeting the other day before we went down the levels. There were more than 10 present, including the police, and none of us got arrested, I can add. And there was very little social distancing in that building too.  But just a couple of points of note out of that. The previous meeting, there'd been quite a lot of dissatisfaction expressed about the Safer Communities Trust relationship with the civil defense part of council. I'm pleased to report that over the COVID stage four lockdown, that relationship improved remarkably because of the fact that we're working together. And so,  they're trying to sort of maintain that momentum, but that seemed to be a real success. Secondly, they're quite worried about funding like everyone else. No immediate crisis or anything. I've got a few funds in the bank, but, yeah, it's definitely seriously on their radar. That's me. Thanks, Sue. Thank you.",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "summarize_outcome",
+      "community_reference",
+      "express_concern",
+      "reassure_stakeholders",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 6019.842,
+    "end": 6021.123,
+    "text": "Social Services Committee, Jo.",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6022.185,
+    "end": 6115.332,
+    "text": " Yes, as you can imagine, we were quite busy over the last couple of months. Most of what we discussed was food parcels and getting food to people, both through the community house, but as well as the Salvation Army. And even things like a lot of people who didn't have computers in their home,  who couldn't get out to banks to pay their bills. So the community house were working a lot with people who couldn't do that and helping them get their bills paid and things like that. The lady from the women's refuge was quite positive with the situation in Cambridge. She said there wasn't a spike in any family violence stuff within Cambridge, which was different from her Hamilton.  situation but she did say that food was a really big thing within her organisation and again just the Salvation Army working very closely with people  But yeah, just lots of volunteers, a welfare number, an 0800 welfare number that was accessed. Over 40 people rang to ask for grocery assistance and hospital visits, things like that. So they were really busy, but in all, it seems like some of that has settled initially, but yeah, it was a very long meeting, as you can imagine.",
+    "speaker": "jodaviescolley",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "report_back",
+      "summarize_outcome",
+      "equity_reference"
+    ]
+  },
+  {
+    "start": 6118.13,
+    "end": 6132.64,
+    "text": " Thank you. Okay, Elyse. Right. Okay. I think she's gone. I think she has. Yeah. Okay. Water treatment plant, Graeme?",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 6135.162,
+    "end": 6145.35,
+    "text": "Oh, you just heard the agreements about to be signed from Wayne Ellen today. There's been no meetings, but that's the latest update with Iwi and what have you. Yes. Yeah.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "report_back",
+      "provide_information",
+      "community_reference",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 6145.37,
+    "end": 6155.808,
+    "text": "Okay. The Historical Society.  No meetings, the museum's been closed, but we've got one next week. Council, Graham and Owen.",
+    "speaker": "suemilner",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "assign_action",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 6157.569,
+    "end": 6187.084,
+    "text": "Wow, we've had some pretty good meetings on Zoom, that's for sure. I think last week we spent seven hours doing this submission. Seven? Seven. We took a 30 minute break, it was a big day. That was great, that was a big day. Wednesday. And we came back Wednesday and we did another two or three then as well, so.  But that was submission, so it wasn't extreme two days, but yeah, we're surviving on Zoom. It's not quite the same. I'm looking forward to being in a people contact one, but hopefully soon.",
+    "speaker": "andreewilten",
+    "tags": [
+      "report_back",
+      "state_opinion",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 6187.885,
+    "end": 6201.733,
+    "text": "Yeah, yeah, that'd be good. Okay, so the next meeting is going to be the 1st of July at six o'clock, location to be determined. So it may not be a Zoom meeting, it may be a real face-to-face one.",
+    "speaker": "suemilner",
+    "tags": [
+      "provide_information",
+      "procedural_move",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 6202.719,
+    "end": 6217.373,
+    "text": " It has to be. It has to be. Well, our next council get together is about the 17th. And I'm asking the mayor and the chair executive, especially if we go down to the next level that we do get together. Yeah. Yeah.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "assign_action",
+      "confirm_next_step",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 6218.995,
+    "end": 6226.682,
+    "text": "OK, so we're going to close the meeting at this point for a coffee and biscuits time.",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "close_discussion"
+    ]
+  }
+]

@@ -1,0 +1,2127 @@
+[
+  {
+    "start": 0.689,
+    "end": 89.883,
+    "text": " And I call this meeting of the Albemarle County School Board to order. We will have a moment of silence.  Thank you. This announcement has to be read into our minutes meeting. The minutes of this meeting should reflect that this meeting is being held electronically, pursuant to Virginia state law and Albemarle County ordinance, because the COVID-19 pandemic makes it impracticable and unsafe to assemble a quorum physically in a single location.  The meeting is being communicated to the public electronically through Zoom and streamed live on the Albemarle County Public Schools website. Public comment may be offered through the Zoom waiting room feature in accordance with the school board's protocol or by written submission. And now to introduce to everyone the members of our board, Dr. Kate Acuff.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 89.903,
+    "end": 94.467,
+    "text": "Kate Acuff, representing the Jack Jewett District.",
+    "speaker": "kateacuff",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 94.936,
+    "end": 98.179,
+    "text": " John O. Alcaro at large. I'm jumping the gun, Graham.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "interrupt_overlap",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 99.48,
+    "end": 100.562,
+    "text": "All right, Katrina Coulson.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 101.322,
+    "end": 103.444,
+    "text": "Katrina Coulson, Rio District.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 103.464,
+    "end": 104.045,
+    "text": "Judy Lee.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 104.806,
+    "end": 106.467,
+    "text": "Judy Lee, Rivando District.",
+    "speaker": "judyle",
+    "tags": [
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 107.288,
+    "end": 111.933,
+    "text": "Dave Oberg. Dave Oberg, Whitehall District. Ellen Osborne.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 112.553,
+    "end": 114.115,
+    "text": "Ellen Osborne, Scottsville District.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 114.615,
+    "end": 134.301,
+    "text": "Graham Page, Samuel Miller District. And Mr. Angel Pelkey. Angel Pelkey, student rep. All right, thank you.  We will now have the approval of our agenda. I need a motion. I move that we approve the agenda.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "request_action"
+    ]
+  },
+  {
+    "start": 135.062,
+    "end": 135.683,
+    "text": "Second. Second.",
+    "speaker": "judyle",
+    "tags": [
+      "procedural_move",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 136.864,
+    "end": 144.112,
+    "text": "OK, moved by Mr. Alcaro, second by Ms. Lee that we approve the agenda. Ms. Johnston, could you take a roll call vote?",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "vote_call",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 145.093,
+    "end": 145.814,
+    "text": "Ms. Osborne?",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 147.296,
+    "end": 147.536,
+    "text": "Yes.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 148.317,
+    "end": 151.46,
+    "text": "Ms. Colson? Yes. Mr. Oberg?",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "public_addressing",
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 152.802,
+    "end": 153.042,
+    "text": "Yes.",
+    "speaker": "davidoberg",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 153.663,
+    "end": 161.536,
+    "text": "Ms. Lee? Yes.  Dr. Acuff? Yes. Mr. Alcaro? Yes. Mr. Page?",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "vote_call",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 161.896,
+    "end": 162.137,
+    "text": "Yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "agreeing"
+    ]
+  },
+  {
+    "start": 163.058,
+    "end": 163.599,
+    "text": "Motion passes.",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "vote_call",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 164.22,
+    "end": 169.487,
+    "text": "Okay, the motion passes. We need a motion to approve the consent agenda.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 171.23,
+    "end": 173.634,
+    "text": "I move that we approve the consent agenda.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 174.595,
+    "end": 174.935,
+    "text": "Second.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 175.817,
+    "end": 184.95,
+    "text": "Okay, moved by Mr. Alcaro, second by Ms. Osborne that we approve the consent agenda. Ms. Johnston, roll call, please.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "vote_call"
+    ]
+  },
+  {
+    "start": 185.251,
+    "end": 199.71,
+    "text": " Mr. O'Carroll? Yes. Ms. Lee? Yes. Dr. Acuff? Yes. Ms. Colson? Yes. Ms. Osborne? Yes. Mr. Oberg? Yes. Mr. Page?",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "vote_call",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 200.17,
+    "end": 216.339,
+    "text": "Yes. Our motion passes so we approve the consent agenda.  Moving now to announcements, we have two special announcements tonight. And Mr. Pelkey is going to make our first announcement. So Mr. Pelkey.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 220.303,
+    "end": 471.963,
+    "text": "Thank you, Chairman Page. I would like to read a letter for the board appreciation month. So dear Chairman Page and members of the school board, it was just over a year ago  that I read with great interest and anticipation that this board sought to establish a direct link between ACPS students and the elected body that governs them. It was a new policy adding a student representative to this board. A good deal of my anticipation is summed up by something Utopia, Edutopia,  has written that historically school boards have been formed to keep the public in public education. They're uniquely American and provide the conduct that delivers the community's values and will into its schools. It's an exaggeration to say that the decisions, it is not an exaggeration to say that the decisions they make often have a greater long-term impact on our communities than those of any other elected body at any other level of government.  That was inspiring and piqued my interest in further research. The most recent Gallup poll, for instance, told me that only 13% of all Americans have a good deal of confidence in Congress, but more than three times as many Americans have a good deal of confidence in their public schools. In the year of the pandemic, confidence in the public school systems have reached their highest levels in 17 years. As a student,  We have learned about the evolution of our democratic system, including what has made it so necessary to the life, liberty, and pursuit of happiness, not just in our country, but for billions of people all over the world down through history. Having the privilege to sit among you teaches me the same values. I have witnessed the deliberation in respectful way in which you have examined issues that will shape my future and that of my peers for a lifetime.  I admire your openness to all points of view, including mine, I might add, and your respectful and welcoming of opinions from as many constituents as possible, including, sorry, as possible. I'm grateful that you have not turned away from the most difficult decisions during this eventful year, but have embraced every opportunity to serve the best interests of those you represent.  Your policy on student representation says you seek to provide, quote, opportunities for students to serve their community, end quote. But you have provided me and my peers much more than that. At a time when it can be, it can reasonably be argued that faith in our democratic institutions have been shaken. And when the importance of public servants dedicated to the health, safety, and success of our communities have never been more urgent. You are teaching us about what has made our imperfect nation more perfect.  So on this occasion of School Board Appreciation Month, in its theme, quote, 115 years of providing leadership, advocacy, and support, end quote, I would like to share with some words from Governor Ralph Northam. Governor Northam notes that, quote, the education of Virginia's school-aged children is a foundation upon which economic, social, and intellectual strength of our commonwealth is built, and that locally elected,  and locally appointed school board members play an important and vital role in our representative democracy. As the decisions of local school boards directly influence instruction on Virginia's public schools and that leadership of our school board affects development and future of our children and ensure that students are prepared to compete in local, state, national, and global economies. On behalf of all those I represent,  Thank you for your service to our future and for the positive difference you're making in our lives and for teaching us about the highest American ideals of public service. Respectfully, Angel Pelkey.",
+    "speaker": "angelpilkey",
+    "tags": [
+      "public_addressing",
+      "acknowledge",
+      "cite_external_source",
+      "opinion"
+    ]
+  },
+  {
+    "start": 473.345,
+    "end": 482.499,
+    "text": "Thank you. Thank you very, very much, Mr. Pelkey. Very beautiful. Any other board members would like to comment on Mr. Pelkey's statement?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "ask_question",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 484.582,
+    "end": 488.548,
+    "text": "I just think he did it with mic drop. Well done.",
+    "speaker": "davidoberg",
+    "tags": [
+      "acknowledge",
+      "opinion",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 489.541,
+    "end": 494.631,
+    "text": " Nicely done, Angel. It was beautifully written and nicely delivered.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 497.477,
+    "end": 505.272,
+    "text": "Okay, thank you again, Mr. Pelkey. We now have a special announcement by Mrs. Osborne.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 506.095,
+    "end": 682.123,
+    "text": " Yes, I have a resolution. So whereas this past year, in the words of our state of the division report has been a year like any other filled with challenges and opportunities not easily imagined in February of 2020.  And whereas the events and decisions of the past year have made the business of our school board, more complicated and consequential for the health of our students and staff into their academic, social and emotional well being.  And whereas during this highly volatile Tom the board's connection to students, staff and families became even stronger as the number of opinions and insight offered to the board through emails and messages multiplied as much as 100 fold.  as the number of participants at board meetings increased to thousands, as public comment was made more accessible, significantly increasing the number of speakers able to interact with board members, and whereas the transition from in-person to virtual meetings continues to present unplanned management duties, the fulfillment of which are crucial to the effective and responsive functioning of the board,  And whereas during this period of time, one constant has been Ms. Jennifer Johnston, who this year was appointed for the 20th consecutive year to serve as a clerk of the board. And whereas Ms. Johnston has performed the new requirements presented by the pandemic while executing the board's priority to expand community engagement, and while also fulfilling her already considerable legal duties as board clerk.  And whereas each year, Virginia School Board Association designates one week in February to build awareness of the role board clerks play in assisting school board members, superintendents, and our local schools. And whereas the association reminds us of how especially important this constant awareness is this year when Mrs. Johnston has been so instrumental to our success  as we have managed through the barrage of changes resulting from the pandemic. Now therefore be it resolved that the Albemarle County School Board publicly expresses its deepest appreciation to Ms. Jennifer Johnston for her exceptional service and support of our work and therefore of the thousands of student and staff members we serve.  And we call upon all constituents to join with us in recognizing Ms. Johnston's invaluable contributions to public education in Albemarle County and to join us in thanking her for two decades of outstanding service as the clerk of the Albemarle County School Board. Thank you.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "procedural_move",
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 687.689,
+    "end": 688.23,
+    "text": "Thank you.",
+    "speaker": "danarobb",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 689.881,
+    "end": 705.595,
+    "text": " Thank you very much, Ms. Osborne, and thank you, Ms. Johnston, for all of the services that you provided to our school board. And if they have not already been delivered, I think you're gonna get some flowers at some point in time. Have you already received them?",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 705.615,
+    "end": 707.737,
+    "text": "They were delivered today. They're beautiful, thank you.",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "acknowledge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 708.017,
+    "end": 723.911,
+    "text": "Okay, thank you very much then. Thanks again for your services. Our next item, any school board or superintendent business.  So Dr. Haas or anybody on the board with additional business.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "follow_up_request",
+      "request_action"
+    ]
+  },
+  {
+    "start": 724.912,
+    "end": 998.022,
+    "text": "I don't really have any, what I would call serious business. I did want to say that I had a real, I had a great treat yesterday. I was asked to attend the WPAT television program at Albemarle High School. And the, the anchor of that program, his name is Ikhlas Khan.  And he's a senior at Albemarle High School, and he's a terrific student. And I would say that he was as tough on me in the interview as any of our local media ever is in terms of his questioning around COVID-19 planning and all those other things. But the thing that we realized pretty quickly was Ikhlas was actually a kindergartner with my daughter.  at Agner Hurt. And so he's a great kid. And so it was just really a wonderful experience. It reminded me that we're all in this together, that this is a family, and that the community here is really very small. You hear all the time that Albemarle Charlottesville is a big area. It's a big town, but it feels like a small town. And seeing Ikhlas and having that really great moment with him  And, of course, I couldn't help it, but when I got home on Wednesday night, I dug up my daughter's kindergarten yearbook, and there he was. He was so cute. And he was in Ms. Fox's class at Agnehert. And they went through K through five together, and then he went to Burnley, she went to Jewett, but then they'd been back at Albemarle together. And so it was really just a wonderful treat to do that. I also,  Today I stopped by in the morning over at Burleigh Middle School and Graham you'll enjoy this in particular because I had the chance to run into Don Byers, who was in the graduating class of 1959.  from Burleigh High School. And Don was there to, as part of their Black History Month celebration, to be on their radio program and talk to all the children tuning into their radio program that right now is being run by Diane Harding. Normally it's run totally by students, but there was just a handful of students in the building today. A lot of great staff over there working with the students.  And it just struck me that Don, he graduated in 1959, and here we have these sixth, seventh, and eighth graders running into the building that here it is 2021, and 62 years later, and they're all burly bears together. It was really wonderful.  On Tuesday, I sat in on Rob Garland put together a wonderful field trip, a virtual field trip for his photography students over at Monticello High School. He invited Pete Souza, who was the White House photographer for Barack Obama and also Ronald Reagan,  And it was wonderful because not only did he talk about the photos and show a lot of his portfolio, he really explained to the students the technical aspects of the photography work that he did. And he was great. He was so gracious and the students asked incredible questions about his work.  And right now, and as much as I love school board meetings, I wish I could be continue to be at Mountain Views Black History Night celebration that started at six o'clock, I got to be there for the introduction of it.  But I found out that it goes into all these breakout sessions with some really great community people from our area that are going to be giving presentations and Malik Poindexter, who's a culinary arts teacher at Albaugh High School is going to be making an apple tart.  And I was really hoping to just stick around for that, but I had to leave and come to the school board meeting. I'll tell you what, we've got some just outstanding educators in our school system that are keeping great things going for our students. And of course, our students are showing a lot of grit and hanging in there, whether they're coming into the school or working from home, we really appreciate it. So thank you for indulging me to say that during superintendent's business.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "give_update",
+      "public_addressing",
+      "acknowledge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 998.474,
+    "end": 1028.775,
+    "text": " Yes, I have a quick announcement to I wanted to give a shout out to K tech, they had their technical eats bus today serve lunch for two and a half hours I believe 11 to 130 new math right and if you all remember that's the bus that the other students actually put together and turned into that travel kitchen, and I think it went really well I drove by I think to did Ellen and Kate Did you manage to get out there.  Yeah, they served over, they had over 150 tickets, which is more plates than 150.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "give_update",
+      "public_addressing",
+      "logistics_info",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 1028.895,
+    "end": 1031.239,
+    "text": "So it's quite a big deal.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "express_concern",
+      "opinion"
+    ]
+  },
+  {
+    "start": 1032.581,
+    "end": 1048.005,
+    "text": "That's awesome. And as another announcement, the reason I was driving by is I was volunteering with the Virginia Discovery Museum. They're creating 750 take home boxes of activities for every fourth grader in Albemarle County. So I'm also really excited about that. So positive things happening all around.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "give_update",
+      "opinion"
+    ]
+  },
+  {
+    "start": 1050.162,
+    "end": 1067.192,
+    "text": " Okay, thanks very much Vice Chair Carlson for that update. Any other board member business? If not, we will now have our public comment by Vice Chair Carlson.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1068.657,
+    "end": 1176.227,
+    "text": " I'm going to start by reading the public comment guidelines. The school board invites and actively seeks the public's input in the matters relevant to school board governance and provides for time during its business meetings to hear from Albemarle County residents and community members. The school board wishes to maintain appropriate meeting decorum so that persons can observe and hear the proceedings of the school board and that attendees online are not subject to inappropriate language and conduct. As authorized by ordinance of the County of Albemarle, the school board will hold its meetings electronically during the COVID-19 pandemic.  We are nevertheless committed to encouraging public comment despite the need to meet on a virtual basis. For this reason, there are two ways for the public to provide comment. First, as always, written comments may be submitted to the school board clerk prior to the start of the meeting, and they will be given to all school board members for review. And then secondly, as long as the school board holds its meetings electronically, members of the public wishing to provide comment during the school board meeting may sign up online by 2 p.m. the day of the meeting.  Before electronic public comment starts, I'm going to announce the order in which the speakers will comment. We only have three speakers today, so I'll announce all three.  And then they will speak, you have three minutes to speak. And when you reach the two minute mark, I will try to give you a one minute warning. It's not that great, but I'll hold my finger. Speakers during the meeting are those submitting written comments should state their name and address or magisterial district and speakers should limit comments to those matters that are relevant to school board governments or the operations of the school division. Lastly, although the school board will not respond to comments made during the public comment period, school board members may address comments at the end of the meeting agenda under other business.  And with that, I will flip the list. We're going to have Janie Ekman, Vernon Lecte, and Crystal Seek. So Janie Ekman, if you're on. We have a lot of people in the meeting today.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "public_addressing",
+      "logistics_info",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1179.21,
+    "end": 1187.441,
+    "text": "Here. I see her. OK. I'm here. Oh.",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1187.461,
+    "end": 1320.0,
+    "text": "I'm Janie Ekman.  You can start now. Okay. My name is Janie Ekman. I am a member of the Church of the Incarnation and a member of IMPACT. I live in the Rivanna District and I'm here tonight to urge you to prioritize providing after-school care for preschoolers next school year. Bright Starts is a great program and I'm glad that the county is able to provide preschool education  to many of our most at risk children. But for many parents, and especially single parents, the lack of after school care makes it very difficult to get their children into preschool. My grandson Vinny is in preschool this year. My daughter is a single parent who works full time and is only able to make it work by having my husband and I pick him up from preschool  and care for him until she is done with work. I've seen how important it is for Vinny to be able to be in preschool, and I'm glad that we can help our daughter by caring for him. But I know that there are many other families who don't have relatives or neighbors that can help out. I know that the school budget is tight this year because of COVID, but if we want to recover from this pandemic,  we need to make sure that families can get back to work and have their children taken care of. And I know that you as a school board know how important it is for children to get a preschool education so that they can succeed later in life. The state regulations are changing on July 1st this year to make it easier for schools to provide afterschool care for preschoolers.  This is a very important issue to ensure racial and economic justice in our county. Please make it a priority to have after school care for preschoolers as part of the upcoming budget for the next school year. Thank you.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "request_action",
+      "prioritization",
+      "express_concern",
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 1323.305,
+    "end": 1330.615,
+    "text": "Thank you for those comments, Ms. Eckman. The next speaker will be Vernon Leckley, and I see him right there.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1330.635,
+    "end": 1388.948,
+    "text": "Good evening.  My name is Vernon Lecte, and I'm a teacher at Elmira High School. Two weeks ago, the school board voted to approve the stage four plan for reopening after delaying the start time for two weeks. While I appreciate having more time for teachers to get fully vaccinated before many students return to in-person instruction, I'm still very concerned that our current plan mitigation strategies will not be able to stop the community spread of COVID-19. Two weeks ago, the CDC updated its indicators and thresholds for community transmission of COVID-19.  The CDC also specified that if the two indicators suggest different levels, the actions corresponding to the higher threshold should be chosen. With that knowledge, the school board should be aware that Albemarle County is at the highest level of community transmission of COVID-19. We have been at this level since December. Cases in the county are higher than when you approve the stage four plan. Will the county's public health COVID indicators as recommended by the CDC have any impact whatsoever on the county's decision to return to stage four?",
+    "speaker": "vernonliechti",
+    "tags": [
+      "public_addressing",
+      "express_concern",
+      "cite_external_source",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 1389.839,
+    "end": 1399.652,
+    "text": " The CDC recommends at the highest level of community transmission that elementary schools should be in hybrid learning mode or reduced attendance and physical distancing of six feet or more is required.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "cite_external_source",
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 1400.573,
+    "end": 1509.451,
+    "text": "Middle and high schools should be in virtual only instruction unless they can strictly implement all mitigation strategies and have few cases. Schools that are already open for in-person instruction can remain open, but only if they strictly implement mitigation strategies and have few cases.  It would be helpful if the division could clarify the strictly implement all mitigation strategies and what ACPS considers to be few cases. These are terms that come from the CDC, so I would feel more comfortable if we as a county could clarify what we are determining as strictly implementing all mitigation strategies so staff can be able to effectively report that the mitigation strategies are being strictly enforced.  It would also be helpful if the county could explain the measure for what few cases represent, according to the new CDC guidelines, so we can make certain we are following these necessary guidelines to protect our students, families, and staff. I also wanted to mention the aspect of teacher morale. Many teachers are feeling extremely overwhelmed with the increased workload this year, the changing schedules, the increased responsibilities and duties. Teachers are doing everything in their power to make this year as good as possible for our students.  Responsibilities and duties are increasing, while time for planning our classes is diminishing. How can we be as good as possible in instructing our students, especially in new learning environments, if we feel overworked and do not have consistent time to prepare our lessons or give comprehensive feedback? Stage four is another big transition. Teachers will be given even more responsibilities and duties while trying to manage the already overwhelming amount of changes and transitions that have occurred so far this year.  Overwhelmed staff will not be able to provide a better education for our students. We need the school board, the school division, and the entire Albemarle community of parents and students to understand this. Thank you for your time.",
+    "speaker": "vernonliechti",
+    "tags": [
+      "policy_proposal",
+      "request_action",
+      "clarify",
+      "express_concern",
+      "cite_external_source",
+      "public_addressing",
+      "opinion"
+    ]
+  },
+  {
+    "start": 1512.897,
+    "end": 1519.729,
+    "text": "Thank you very much for those comments, Mr. Lechte. The last speaker that we have signed up is Ms. Crystal Seek.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1521.903,
+    "end": 1652.373,
+    "text": " Good evening, I'm crystal seek. And while I'm often watching these on live stream. I've actually never given public comment before so I'm a bit nervous. But the issue of after school care is important enough to the members of our community that I'm going to move outside of my comfort zone this evening to speak on behalf of my neighbors.  I'm in Rivanna District, and I have two children at two different high schools in the county. I'm a steward member at the Charlottesville Vineyard Church and a network member of Impact. Before the pandemic, some close friends of mine had a child in the preschool program at Hollymead.  They loved the program and their little boy was learning so much. Mom stayed home alone with three other little ones while their preschooler and kindergartner were at school. Because the preschool program ended a little earlier than kindergarten and no busing was allowed for preschoolers, picking up her preschooler presented a challenge for the afternoon routine, as she often had to wake the littles from their naps in time for pickup.  If we set aside funds for an after school care program for preschoolers, they could stay until their parents work day ends, which would allow for more eligible children to attend the program. For the situation my friends experienced, mom could wait until the littles woke up from their nap to pick up the little guy.  Or dad could pick them up after work if the kids at home were a challenge for mom that day. For other families, their preschoolers could stay in after school care with older siblings, allowing for pickup at the same time for both or all of their children.  I've heard the county school board discussing, you guys, how much you and the community who elected you want to see more equity in our county educational programs. Our achievement statistics for socioeconomic disadvantaged students were already disproportionate to their peers before the pandemic. And we are concerned that the achievement gap will widen with so much online and unsupervised schooling across the county over the last year.  This makes a strong preschool program with afterschool care critically important for next school year to prevent further widening of that achievement gap. I urge you to include afterschool care for preschool in the budget. Thank you.",
+    "speaker": "crystalseek",
+    "tags": [
+      "public_addressing",
+      "policy_proposal",
+      "request_action",
+      "express_concern",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 1654.817,
+    "end": 1659.605,
+    "text": "Thank you very much for those comments, Ms. Sieck. Chairman Page, that concludes public comment.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1660.887,
+    "end": 1672.359,
+    "text": "Thank you very much, Ms. Paulson, and thanks also to all of our speakers.  We will now have our COVID-19 update by Dr. McLaughlin and Ms. Gomez.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1680.349,
+    "end": 1717.943,
+    "text": "Good evening, school board members. I'm Pat McLaughlin, chief of strategic planning for the school division. And I'm here tonight with Eileen Gomez to give you our COVID update for February 25th.  So as you recall, we recently switched to some modified guidelines for making reopening decisions in the division. One of those, however, remains determining the level of community transmission. And that's something the board has asked for frequent updates on from our team. So I'll turn things over to Eileen now to take you through the latest Albemarle County and City of Charlottesville case incidents and positivity data.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "public_addressing",
+      "defer_to_expert",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1719.172,
+    "end": 1815.193,
+    "text": " Thank you. Good evening. Our numbers over the past two weeks show an increase in both case incident and percent positivity for Albemarle County and the city of Charlottesville, as you can see here for the case incident for Albemarle County. The next slide shows an increase in the percent positivity for Albemarle County.  And then you can see that the next slide shows a little fluctuation in the numbers for Charlottesville, but the overall trend is increasing. And finally, the percent positivity for Charlottesville is also fluctuating a bit, but the overall trend is increasing. You may have seen in the news that many of these cases can be attributed to the University of Virginia students.  You may recall that the numbers for students who live on campus are reported in Albemarle County's numbers, and the number for students who live off grounds are reported in the Charlottesville numbers. According to Dr. Carlos Armengol, a pediatrician with Pediatric Associates here in town, who has been monitoring the data, up to 90% of these cases in Charlottesville and Albemarle can be attributed to UVA. If we remove these cases,  the incident would be dramatically lower. This phenomenon is not unique to Charlottesville. It's being experienced in other college towns as well. Fortunately, Dr. Armengol has agreed to discuss the impact of UVA on our district and localities numbers after Dr. McLaughlin reviews the CDC core indicators for our area. Dr. McLaughlin.",
+    "speaker": "eileengomez",
+    "tags": [
+      "give_update",
+      "cite_external_source",
+      "clarify",
+      "defer_to_expert"
+    ]
+  },
+  {
+    "start": 1815.68,
+    "end": 1894.52,
+    "text": " Yeah, so thank you, Eileen. The CDC indicators, which are 14-day trends, kind of mirror what we're seeing with the seven days. We're seeing that trend in our case incidence rate go up significantly, and we're seeing our positivity rate  rise a bit too. And both of those put us in the highest level of transmission, highest level of risk for case incidents, the lower level of risk for percent positivity. And again, it's important to note that regardless of where those two indicators are, when you have all five key mitigation strategies in place, that has a significant impact on reducing the spread in schools.  And as Eileen alluded to, we are very lucky to have with us tonight, Dr. Carlos Armengol. Dr. Armengol is a pediatrician who's been a member of our COVID task force. If you recall, that task force includes local physicians, members of our health department, and leaders from both our public and private schools in the health district.  and he's been closely monitoring the local metrics. And it can come and give some context to these numbers tonight, as Eileen mentioned, particularly in regard to the impact that the University of Virginia has on them. So Dr. Armengol.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "clarify",
+      "reassure",
+      "defer_to_expert",
+      "acknowledge",
+      "cite_external_source"
+    ]
+  },
+  {
+    "start": 1900.289,
+    "end": 1906.217,
+    "text": "Good evening. How's everybody doing tonight? Is it possible to share my screen?",
+    "speaker": "carlosarmen",
+    "tags": [
+      "public_addressing",
+      "ask_question",
+      "request_action"
+    ]
+  },
+  {
+    "start": 1906.838,
+    "end": 1913.046,
+    "text": " Yes, let me stop sharing mine and you should be able to share. Okay.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "logistics_info",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1913.166,
+    "end": 2573.156,
+    "text": "So first, thank you to the board for allowing me to address you all. I think Eileen and Dr. McLaughlin have already told you who I am and what I do, but I also want to disclose that I am the parent of two Monticello High School students.  And so you all should be aware of that and that I will be happy to return them to school on March 15.  I want to say that beginning in July, I decided to start putting together daily numbers in a way that I could understand them. I found the numbers that were being published on the Virginia Department of Health websites inadequate for me. And so that's how this project got started. And then shortly thereafter, the UVA COVID tracker  was started, and so then we had two different websites putting up different numbers, and I found it useful to combine those numbers on one data portal, if you will, so that I could follow the numbers a little easier. So this is stuff that I've been putting together since August 1st, and every day I go in and I update the numbers. It actually doesn't take very long, but it allows me to generate some information  might be useful for you all. Let me see if I can get to the screen here. Okay, so the first thing I wanted to show you guys was  the daily cases in the Blue Ridge Health District since August 1st. And you can see some interesting points here if you follow the dates. This area here is the first bump that we got from the return of the UVA students at the end of August. And we had a case increase there, and then the university instituted some restrictions on gatherings and social distancing, and those cases came down.  Here, right before Thanksgiving, we're in pretty good shape community-wide. We are just sort of seeing the sort of baseline case incidents throughout the entire district. This is early December here, where we started seeing a bump from Thanksgiving, and then we saw additive effect. We got Christmas here, and then we got the New Year's numbers here. And that's really where we were in mid-January,  we had our highest community incidents to date. And I'll remind everyone that the university students weren't even around during those two months, so they really weren't part of the equation. Things started to improve dramatically after mid-January, and you can see we're headed for a fairly steep decline in cases. The university students returned in the end of January, first few days of February.  I believe they started classes February 1st. And as you can see thereafter, the case incidence jumped. And really that increases what we've seen out of the university. You can see a similar result of that in the positivity trend. This is a 14 day positivity rate. And again, starting in the early, late summer, early fall,  And we were doing quite well until the university students returned. And our models here in red, and you can see that we've had a steady increase in the 14-day positivity rate, and Charlottesville is in blue, and again, a steady increase. These numbers are quite low. Comparatively, you can see what Fluvanna is doing, what Green is doing, what Nelson County is doing.  And their numbers are significantly higher. The reason that our numbers are much lower in terms of percent positivity is a result of the skew that you get from the number of tests being done on university students. So, what I wanted to show you guys was  the number of tests that we're doing. One second. This is the UVA COVID tracker. Many of you have probably already seen it. And starting a few weeks ago, they started publishing their actual test numbers. Prior to a few weeks ago, it was anyone's guess how many students were being tested each day. But now they have that data, and they  added that data retroactive to the 1st of January. So now you can see how many tests are doing. And you can see as the students return that the number of tests they started doing each day on students increased dramatically. And so you can see that they're doing roughly about 24 to 2,500 tests a day on average on the students. You can see that data too  district wide. If you look at. If you look at the district, this is a graph here of the entire district and test done and you can see that. This is the number of tests that we're doing on average each day. It's roughly around 3000 now and you can then compare those numbers.  to the UVA numbers, and you'll get something that looks like this. And so the blue shaded area is the university students who are being tested, and the red is the whole district, the Blue Ridge District entirely. And there's  There's a little delay in the reporting, so try not to focus on the very most recent day. Focus on the last week. And you can see that pretty consistently, the district is averaging around 300 to 3,000 tests a day, of which roughly 2,400 to 2,500 a day are from UVA students alone. So roughly about 83% in that neighborhood each day are university students who are being tested.  You can do the same sort of calculations with the number of cases. And you can see the case trends in the students. This is UVA students, and this is the last couple weeks here. And you can see, actually, even in the last few days, things have improved to some degree. But you can see the dramatic increase that we've seen.  peaking just a few days ago, hopefully peaking just a few days ago. And you can see that reflected in the Charlottesville, this is a combination of the Charlottesville Albemarle case numbers. As Eileen explained very well earlier, the university students are counted in two localities. If you live on grounds, you're an Albemarle resident, and if you live  Off grounds, you're generally in the city. So you can't really tease out how many in each locality are being tested or how many in each locality have a positive case. So what I've done is basically combine the numbers for both Charlottesville and Albemarle so that I can see what is happening community-wide. And you can see that there's been a steep increase. And again, this is mostly UVA students.  And you can see the same in the whole district we've already seen this year. So then if you look at. Them together, the blue line here is the average student cases. It's a seven day moving average, and then the red line is the combination of Charlottesville now and the yellow is the whole district.  Like I was saying earlier, you can see the bumps that happened at Thanksgiving, at Christmas, and at New Year's. And you can see that the university had very little part in that. There weren't really many students around. And then they returned here, and you started to see a large increase. But what you didn't see was a large increase in cases outside the university. You can see that  of the cases that we were seeing in Charlottesville-Albemarle and in the district, the majority of them were in UVA students. And if you do the math here, as Eileen said earlier, at the peak here, roughly 80% of the district cases were in UVA students. Roughly 90% of the cases in the Charlottesville-Albemarle area were university students.  Again, in the last couple days, these numbers have started to trend down. I hope that continues. We'll know roughly in a few days if that is going to continue as such. As you all know, the university has put in stricter gathering policies, and so I believe that that will help decrease the case counts that we're seeing coming out of the university.  I also wanted, I don't have the.  I don't have any information to show you, but I wanted to share with you also that we've been tracking what happens in our office. Again, I work at Pediatric Associates, and we've been keeping counts. We've been testing our patients since the beginning of the pandemic in March. And our case count in our office has come down considerably over the last six weeks, basically since mid-January.  we've seen a steep decline in the number of positive cases. And so that's been encouraging. And I think that's a reflection of what's really going on in the community as opposed to what's going on over in the university. If anyone has any questions, I'm happy to answer anything.",
+    "speaker": "carlosarmen",
+    "tags": [
+      "public_addressing",
+      "give_update",
+      "clarify",
+      "cite_external_source",
+      "follow_up_request",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2573.176,
+    "end": 2579.867,
+    "text": "I have a question. Are you testing asymptomatic children or just symptomatic children?",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 2581.113,
+    "end": 2593.355,
+    "text": " be in our office only testing symptomatic patients.",
+    "speaker": "carlosarmen",
+    "tags": [
+      "logistics_info",
+      "clarify"
+    ]
+  },
+  {
+    "start": 2593.375,
+    "end": 2723.322,
+    "text": "So one last piece I wanted to share with the board, and certainly if more questions come up for Dr. Armengol, we can  ask those of him. But before we close out our COVID update, I wanted to update you just a little bit on some of the preparations we're making for stage four as we move into that next month. As you know, one key element of our plan is providing training for both our students and our staff as they return to school. And all principals have developed training materials that they're using with both staff and students  to make sure that they're aware of how to properly implement and abide by our mitigation strategies. And in addition to this, our communications team is in the process of filming informational videos that can be used by staff and students to reinforce those practices and procedures. That filming is wrapping up early next week and they'll be available for viewing soon after that.  We also know that our mitigation strategies are our best defense against the spread of COVID, and it's crucial that we're following them consistently and correctly. So to ensure that's happening, we're developing a tool to use in schools to audit the implementation of those strategies by conducting school walkthroughs.  That tool is currently under construction and will be in use during stage four. So we'll have some clear data about how well we're doing there. And finally, the best way to know if our mitigation strategies are in place, quite frankly, are to see them for yourselves. And to that end, our principals from your respective districts will be reaching out to you soon after the start of stage four to invite you to take school tours to see both our mitigation strategies  and our instructional practices in action. And we're confident that all of these strategies will help us maintain an environment that has the smallest chance for COVID to spread within the schools. And so, like we said, we're happy to take questions. Dr. Armengol is here if you've got questions specifically for him or any questions about what else is taking place as we prepare to move into stage four in about two weeks.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "reassure",
+      "defer_to_expert",
+      "request_action",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 2725.259,
+    "end": 2800.322,
+    "text": " Dr. McLaughlin, may I say one more thing? Of course. I did want to point out, there was some discussion about CDC indicators earlier, and I have done the math as well on that. And if you combine the Charlottesville Albemarle area, we're clearly in the red zone. There's no argument about that. But if you  run the math and subtract out all the UVA cases, we're more in that orange level, which is the 14-day cumulative case total of about 160 cases. So that's a little bit more reassuring to me than being in the red level. I also wanted to state that those indicators came out, and they're not based on any actual information that transmission occurs in schools where mitigation strategies are taking place. That was the CDC's  effort at trying to give schools guidance, but it wasn't based on information that was readily available to them. That information has started to come out and it's been very promising and I'm sure most of you have heard of the studies down at Duke that were done in areas with case numbers much higher than what we're dealing with here and successfully having school in person.",
+    "speaker": "carlosarmen",
+    "tags": [
+      "give_update",
+      "clarify",
+      "cite_external_source",
+      "reassure",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2806.495,
+    "end": 2898.957,
+    "text": " I appreciate the information provided us, doctor. I'm. I'm a little concerned that it seems it seems and I understand that the the the step that has not been. Stated is that UVA is not going to impact the rest of the community, which I don't know that that's been established.  And if you haven't established that, then it strikes me that what we're talking about is, well, we don't like the outlier of that group, so we're just going to exclude that. We're not going to count them. And without them, we're doing fine. And I'm not saying that that's anybody's intention, but when we're looking at the numbers, I think the numbers are what they are.  I mean, you know, if, I mean, the reality is whether they're counted in Charlottesville or counted in Albemarle, they are in our community. And if you go down to Barracks Road or go down to the corner, you're going to interact with those same students.  So I accept the fact that there's a certain distancing between the campus and the rest of the community, but I don't think it's as solid a wall as it seems by taking those numbers out and saying, well, we won't count these because that doesn't reflect our community. I think, frankly, it does.",
+    "speaker": "davidoberg",
+    "tags": [
+      "express_concern",
+      "clarify",
+      "opinion",
+      "acknowledge",
+      "disagreeing"
+    ]
+  },
+  {
+    "start": 2899.966,
+    "end": 2958.627,
+    "text": " I think you're correct. I think that it is important to account for them. But I think it's also important to recognize that the university has a unique role in that they're putting many of the on-grounds housing kids in isolation and quarantine. And you can see that on their tracker as well. And those students are being kept out of the circulation, if you will. Of course, they have less control over the off-grounds housing kids.  That's reassuring. And then the fact that they are instituting some restrictions is helpful. And I think you'll know in the next week or so whether that's being successful or not. And if it's not, then you have more to worry about, because then I think you will see more community spread as a result of the university students. But I am hopeful that the trend that you're seeing in the last few days is going to continue.",
+    "speaker": "carlosarmen",
+    "tags": [
+      "acknowledge",
+      "agreeing",
+      "reassure",
+      "express_concern",
+      "opinion"
+    ]
+  },
+  {
+    "start": 2962.032,
+    "end": 2988.613,
+    "text": " I do also want to note that the UVA restrictions do not include for work. They do include, you know, volunteering, but they don't include work. And so that doesn't affect the students that we have working in our schools. Also that on grounds housing accounts for a small percentage of UVA students.",
+    "speaker": "judyle",
+    "tags": [
+      "clarify",
+      "give_update",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 2995.597,
+    "end": 3011.746,
+    "text": " Dr. Armengol, I appreciated how you've structured your data and wonder if you might share it next. We have a meeting next week and I think the following week as well. Could you possibly update us then or provide it to Dr. McLaughlin?",
+    "speaker": "kateacuff",
+    "tags": [
+      "request_action",
+      "follow_up_request",
+      "acknowledge",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 3012.407,
+    "end": 3050.376,
+    "text": "Sure. And as as I've taken on a role in the  the task force that Eileen was mentioning. Eileen and I are literally in constant communication. There are a few days where we don't exchange emails for some reason. So I am always happy to answer questions. It doesn't even have to be at a meeting if you guys want to reach out. And the data that I presented to you is available online. You guys can look at it anytime you want. Eileen has the link. So yes, I'm happy to present data whenever you guys want to see it.",
+    "speaker": "carlosarmen",
+    "tags": [
+      "give_update",
+      "reassure",
+      "logistics_info",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3057.443,
+    "end": 3685.275,
+    "text": " Are there other questions for Dr. Armengol or Dr. McLaughlin or Ms. Gomez? Dr. Armengol, again, thanks for being here and providing the information to us. Thank you very much.  There being no other questions at this time, we'll take a 10-minute recess, and we'll reconvene at 731. 731.  It is now 7.31. We will continue with our program or with our meeting as shown on the agenda. The 2021 Budget Development Work Session. Ms. Kumazawa and Ms. Schmidt, we're ready.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "acknowledge",
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 3686.076,
+    "end": 3760.965,
+    "text": "Ready. Good evening. My name is Rosalyn Schmidt, Chief Operating Officer. I'm going to just briefly frame this work session and then hand it over to Ms. Kumazawa, our Director of Budget and Planning.  So this is our second budget work session. And while the budget document is complete and detailed and highly technical document, the draft funding request is just that a draft and not finalized. Our teams are continuing to scrub numbers and fold in the latest information available. We work closely with local government, particularly on compensation and benefits. Yesterday, Mr. Jeff Richardson, county executive, presented his recommended budget to the Board of Supervisors.  So tonight you will see some technical adjustments, which will slightly increase some items from the draft funding request. But most notably, you will see some significant savings based on recent analysis. So the first half of the work session will focus on new expenditures and compensation. And then the second half will be a broader discussion on expenditures. We've taken your feedback from the last work session, incorporated more orientation to the budget book, including page numbers so that you can follow along.  And we've also provided written responses to the good questions you guys have asked since the last board meeting. So with that, I'll hand it over to Ms. Kumazawa. Thanks.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "clarify",
+      "acknowledge",
+      "defer_to_expert",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3763.287,
+    "end": 4108.815,
+    "text": "Thank you, Ms. Schmidt. Good evening. My name is Maya Kumazawa, Director of Budget and Planning, and I'm glad to see everyone again this evening. Here's a quick review of our work session topics.  Tonight's session is the second of three working meetings to cover various topics as they relate to the draft funding requests. As Ms. Schmidt mentioned, the agenda will be split into two main sections. The first section will focus on fiscal year 22 expenditure changes, and we will be recommending some recent changes and updates here. And then in the second part of the work session, we will be doing a deep dive into our expenditures using the budget book as a guide.  You'll see throughout the presentation on each slide references to page numbers. Those are to your draft funding request book, if you'd like to follow along. And we'll also check in between each of these sections to see if you would like a break. And as was the case last week, we'll pause after each individual topic for questions and discussion as needed. We will first review the budget to budget expenditure changes.  This slide is here to reorient you to our primary expenditure drivers. Today, we'll be discussing three categories. So our agenda is very full, non-discretionary, operational restoration, and compensation in this order. Section A in the budget book is the easiest place to find all of these new items in a summary format. That begins on page A29 in your budget book.  First, we'll talk about our non-discretionary expenditure changes. Here's a list of all of the non-discretionary budget to budget changes that we are currently anticipating. A description of all these changes are listed on pages A32 to A33. The two items that you see there in bold at the top are baseline adjustment and healthcare rate increase are two that we will review in more detail over the next couple of slides.  but I'll pause here to see if there are any questions about any of the other items that are not involved. We do have some staff on hand if you have any questions. If not, I will just continue moving forward. Here's an overview of what our baseline adjustment means since it's a pretty significant amount. This adjustment is calculated each year  as we develop the new fiscal year's base budget. A base budget doesn't include any changes in assumptions we make, such as changes in compensation, and it also does not include any new items like new proposals. The fiscal year 21 adopted budget amount is $193.7 million. To build the base for FY22, we take the same number of FTEs, and as you know, our budget mainly comprises FTEs,  So we keep the FTE number flat and we update all of our salary and benefit assumptions to our most recent information to what's current. This captures FTE cost changes due to turnover, turnover in different positions, and also the employee benefit choices that employees make from year to year. Some other adjustments when we build the base budget include minor or technical adjustments.  and also the elimination of any one-time items budgeted in the previous year. For FY22, this results in a baseline adjustment savings of about $1.5 million. And we use this base budget of $192.3 million to build up our budget from there. The next major piece to the non-discretionary expenditure changes is the healthcare fund contribution.  You may recall in the draft funding request that we proposed a significant increase in healthcare costs. This was due to a 6.5% increase in plan year 2021, which we did not budget for during fiscal year 21. Since a plan year runs from January to December, we also have to absorb the costs for any increase during plan year 2022, in fiscal year 22. So it's about half and half.  The rate increase in plan year 22 is a proposed 6% increase. While staff continues to keep these rate increase assumptions, in working with local government, it is now proposed that there is a one month holiday on the employer side during the current plan year. This will essentially eliminate one month of health care costs to our division.  In budget costs, this equates to about a 1% rate increase versus the originally planned 10% rate increase. And it is also equivalent to a savings of about $1.4 million. So in this table, you can see that the rate increases are not proposed to change. There's just an addition of a one-month holiday during the second half of this current plan year.  There have been some questions about the impact on employees. There's been no change to the strategy for employee premiums, and there's no increased plan for that. Are there any questions about this recommended change?",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "public_addressing",
+      "clarify",
+      "ask_question",
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 4110.818,
+    "end": 4159.11,
+    "text": "One question, and that is in terms of activity or expense with claims during this last year,  How significant have the COVID claims been for any of our employees? Has there been a surge in that? Because I know that the policy was expanded to cover  all of those expenses. And I'm just curious as to if that is a contributing factor for increases in employer premiums.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "express_concern",
+      "request_action"
+    ]
+  },
+  {
+    "start": 4160.452,
+    "end": 4167.461,
+    "text": "I'm not qualified to answer that question, but if another staff member has any information on that.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "defer_to_expert",
+      "request_action",
+      "hedge"
+    ]
+  },
+  {
+    "start": 4167.501,
+    "end": 4216.653,
+    "text": "Hi, this is Claudine. Can you hear me?  Okay, um, I do not have the budget numbers. This is where our health fund analysts would come in handy. But the one thing I can tell you is that we were, we've been very fortunate to date, in that we've only had one high cost claimant from COVID. And that that high cost claimant reached our stop loss threshold of 225,000. We had two other hospitalizations. But other than that, it, it has not impacted us severely.  We have picked up extra costs due to paying for virtual healthcare services, but that's about as much specifics as I can give you at this time.",
+    "speaker": "claudinecloutier",
+    "tags": [
+      "give_update",
+      "defer_to_expert",
+      "clarify",
+      "hedge"
+    ]
+  },
+  {
+    "start": 4218.216,
+    "end": 4218.937,
+    "text": "Thank you, Claudine.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4219.438,
+    "end": 4219.818,
+    "text": "Thank you.",
+    "speaker": "claudinecloutier",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4222.683,
+    "end": 4232.863,
+    "text": "I have a question. Somehow my brain is just not comprehending this one month holiday.  It seems like we could maybe take 12 months of holiday then. I don't understand it.",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 4235.526,
+    "end": 4290.537,
+    "text": "The rate increases are based on, are near the increase in expenditures for the health care fund. So it is a general best practice to increase rates at the same rate that expenses are increasing. And that's why the rates are planned to increase from year to year. But in doing a more  comprehensive analysis on where we are with the fund balance in the health care fund, it was determined that we could draw down on our fund balance more to a level more than what was planned. So the holiday is really a way to use our reserves and to pay to sort of make up for those lost revenues into the health fund.  I don't know if Roslyn or Jackson have anything further to add on that.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "clarify",
+      "defer_to_expert",
+      "reassure"
+    ]
+  },
+  {
+    "start": 4297.57,
+    "end": 4302.236,
+    "text": " Okay, Maya. Actually, Graham, could I could I finish that?",
+    "speaker": "Unknown",
+    "tags": [
+      "interrupt_overlap",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4302.256,
+    "end": 4319.477,
+    "text": "I still don't understand that. Sorry. So it sounds like if you're drawing further down the one month holiday, like that isn't the thing. Like when I look at this chart, it's like, oh, the thing that has changed is the one month holiday. But that's not actually the thing. It's is it the drawing down that's more the thing that makes it different?",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 4327.54,
+    "end": 4409.607,
+    "text": " So month to month, we will still see the rate increase. So the contribution that the school division makes into the healthcare fund on behalf of employees, that amount is still representing that 10% rate increase from fiscal year to fiscal year. So every month, so for 11 months, we would put in an amount that is a 10% increase. For one month, we get to skip that contribution.  and not contribute into the healthcare fund. So the way we're budgeting for this is decreasing the rate. You're right. It is equivalent to a rate decrease from our original increase. That's why we go from 10% increase to a 1% increase. Because if you even out that one month break throughout the fiscal year, then in essence, you are decreasing the rate.  And that's what that 1% represents. It's just the strategy that, and I can get you a more detailed answer on this from the staff more closely involved with this, but the strategy that has been chosen is to continue with the rate increase and just implement a one month holiday on top of that. And we can provide you with a more succinct explanation of that.",
+    "speaker": "mayakumaza",
+    "tags": []
+  },
+  {
+    "start": 4410.278,
+    "end": 4429.179,
+    "text": " I think that last point was a great point. Again, mathematically, either you pay 11 at the increased rate and the 12th month not, or 12 at the not. Mathematically, it's the same. Again, we have a more detailed analysis with that team that we can provide. And I would just add that, Ms.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "acknowledge",
+      "clarify",
+      "give_update"
+    ]
+  },
+  {
+    "start": 4429.199,
+    "end": 4445.16,
+    "text": "Lee, you kind of hit the nail on the head. The holiday is a way to draw down  the fund balance. It's just a different strategy for that. So I think you probably got it better than you thought you did. Okay.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "acknowledge",
+      "agreeing",
+      "reassure",
+      "clarify"
+    ]
+  },
+  {
+    "start": 4445.18,
+    "end": 4445.46,
+    "text": "Thank you.",
+    "speaker": "judyle",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4458.158,
+    "end": 4637.537,
+    "text": "Were there any other questions about this change?  Okay. We will move next to our restoration expenditures. I've summarized three items on the slide that are proposed to be restored in the funding request. We'll go through each of these in a little bit more detail. This slide lists all of the operations reductions that were made last year in order to develop a balanced budget in May during a time of great economic uncertainty.  We're proposing to restore less than half of this list. The transfer to the Learning Resources Fund adds $500,000 in expenditures, and the restoration of 6.5 out of the 15 FTEs adds about $600,000 in expenditures, for a total of $1.1 million of budget-to-budget increase for these items.  While we've updated the name from the textbook replacement fund, the learning resources fund essentially serves the same purpose. It's an internal service fund within our special revenues funds and provides instructional staff with necessary and contemporary learning resources that support the implementation of curriculum frameworks. Some examples of these were provided to you in our written responses to your questions and they're also posted on our website for the public.  This slide is included here to show you where the six and a half FTEs that we're proposing to restore are included. You can see they're generally spread throughout our division. This slide is a little bit different from the FY21 reduction slide. While these items were not reduced during FY21, they were unfunded needs. The top grouping in this list, these were discussed during last week's  work session, and the updated needs have been addressed at this point. However, we'd like to bring back one unfunded proposal for restoration, which is the restoration of the school bookkeeper proposal. Here's a little bit more information about this proposal. The first piece proposes a reclassification of existing staff. We're proposing an update to the staffing standard of office associates based at our elementary schools.  due to the increasing demand and workload placed on these positions. The cost of increasing their position responsibilities is about $191,000. I'll go into a little bit more detail on this on the next slide. The second piece to this proposal is the addition of one FTE to serve as a floating or itinerant bookkeeper for the schools. The position would provide support, training, and a general resource to our bookkeepers.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "clarify",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 4638.31,
+    "end": 4643.878,
+    "text": " Over the years, we found a lack of consistency across the schools and the need for more centralized support.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "express_concern",
+      "give_update"
+    ]
+  },
+  {
+    "start": 4648.665,
+    "end": 4700.295,
+    "text": "Here's what the change in the staffing standard would look like. Currently, on the left, each elementary school is allocated one 12-month FTE, in addition to 10-month FTEs based on the size of the school.  The proposed staffing standard on the right would allocate two 12-month FTEs to each elementary school and additional 10-month support based on the size of the school. As you can see, the total FTEs of each school would not change, but the cost to reclassify one FTE at each school is about $13,000 per school. The cost of this reclassification differs from what you see in the draft funding request as we've updated and refined the methodology for calculating this.  Are there any questions about our operational restorations?",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "logistics_info",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 4702.577,
+    "end": 4743.748,
+    "text": "I have one, Ms. Kumazawa. One of the positions that we approved for last year's budget and then immediately had to withdraw when we when COVID hit was for mental health and counseling coordinator. Both the literature and many of the letters that we get are  about concerns of the mental health of our students. So I am questioning why that remains an unfunded category. I would be in favor of considering putting that back into the budget.",
+    "speaker": "kateacuff",
+    "tags": [
+      "policy_proposal",
+      "express_concern",
+      "ask_question",
+      "request_action"
+    ]
+  },
+  {
+    "start": 4745.028,
+    "end": 4771.255,
+    "text": " Dr. Acuff, that's a great point. We don't have it in the budget because we were the benefactor of a half a million dollar grant from an anonymous donor. That is allowing us to actually move forward. We're getting ready to hire that position now. So it's not in the budget because we were able to fund it through an alternative means for now. So thank you for bringing it up. We're right on the same page.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "give_update",
+      "acknowledge",
+      "clarify",
+      "reassure",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 4771.943,
+    "end": 4810.337,
+    "text": " Outstanding. I've also had some letters. Well, we all have talking about staff and teacher mental health. Is that all handled through the health plans or do we have any on site support for staff? And could that be covered by some of the grant that we did receive? And that's sort of an open question, I know you can't  you know, address it completely. But we have had a lot of letters talking about the stress and the mental health of staff.",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "request_action",
+      "hedge"
+    ]
+  },
+  {
+    "start": 4810.937,
+    "end": 4811.619,
+    "text": "Yes, yes.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 4812.38,
+    "end": 4824.158,
+    "text": "I would like to at least get a handle on how can they seek care, but maybe at a different meeting. Well, we do have Claudine Cloutier here tonight who",
+    "speaker": "kateacuff",
+    "tags": [
+      "request_action",
+      "follow_up_request",
+      "defer_to_expert",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4824.526,
+    "end": 4867.11,
+    "text": " spoke a few minutes earlier about the health care plan. So I'm not going to call on her to address it. But I think your point was extremely well taken. And we do have a robust employee assistance program that's been heavily utilized this year, not just by Albemarle County Schools employees, but also the local government employees. So we know that resource is getting tapped into and used. But your point around  teachers, other staff at the schools having access while on the job to just someone to talk to or check in with is certainly something that we would look into. So thank you.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "acknowledge",
+      "give_update",
+      "reassure",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 4867.791,
+    "end": 4869.453,
+    "text": "I would appreciate that. Thank you.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4872.716,
+    "end": 4906.812,
+    "text": "I have a question about the bookkeeper restoration. On a previous slide, it said it was because of student  growth, right, as a result of student growth. So, but I remember that, you know, obviously, because of COVID, we did not have that growth that we expected. And then we sort of flattened out to last year. So I guess I just want to get a sense of what that's going to do for our strategic priorities.",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 4909.323,
+    "end": 4928.445,
+    "text": " I can address the growth piece. The reason why it says student growth there, this is over years and years of our division growing and our staffing standards needing an update to meet the demands that schools need. So it's not necessarily a year to year need and that's why we bring it forward today.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "clarify",
+      "give_update",
+      "reassure"
+    ]
+  },
+  {
+    "start": 4929.826,
+    "end": 5120.394,
+    "text": " And I, I think that's a great question it really is because um you know bookkeepers are one of those behind the scenes employees that I talked about a lot when I say that you know if you want to really get fit and you know build muscle and everything you don't go to the gym you go in the kitchen.  And that's the work, the finance department, the bookkeepers, they're behind the scenes. And so one example of just having the right staff on hand at the schools during the right times is that business transactions that impact students and can impact their opportunities at the schools take place year-round now.  You know, at one time we used to, you think about the schools, right? And May or June, the school closes, the building is shuttered and everybody just kind of heads their way. And most of the operations that need to take place could be picked up again toward the fall and you carry on with it. What we've seen over time in Albemarle is that, that has, that structure has stayed in place long past the growth of the school system.  the complexity of the work and the increasing of financial transactions that take place throughout the year, such as people contributing for field trips, athletic fees, all kinds of fundraising that goes on. We've had a few really glaring examples at some of our bigger schools  of issues that develop that really impact people. You know, we'll have sometimes contacts from parents that say, I've turned in five, six checks over the last seven months and none of them have cleared through my bank account yet. And lots of times it's because the bookkeepers at the school are just swamped. The other piece is that around customer service for our families and for our students, during the summertime,  Right now at our schools, there's just one OA who's responsible for everything all summer. And so what happened in the elementary schools, there's a little more coverage at the high school level. So what happens is lots of times people come in looking to be able to pay for something or be able to have access to an opportunity that they need to have, and we're just not able to cover it. So this one was one I do think it's really long overdue.  The bookkeeper software is really important. And having that itinerant bookkeeper is, I think, also really important because we do have turnover with our bookkeepers. And especially in small schools like Scottsville, Red Hill, that person's a key person in the school. And while you're going to have sometimes weeks before a new bookkeeper gets hired, the operation just kind of shuts down.  I really endorse adding this proposal. It really is one of those backbone proposals for the work that we do to support our students' opportunities. So that's why I think it's important.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "give_update",
+      "express_concern",
+      "policy_proposal",
+      "opinion",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 5122.856,
+    "end": 5123.157,
+    "text": "Thank you.",
+    "speaker": "judyle",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5133.748,
+    "end": 5270.839,
+    "text": "Is it OK if I continue?  Next, we will move on to compensation, and I will kick off this section, but then hand things over to Ms. Dana Robb from our HR department. Here's a summary of what we presented in the draft funding request as changes from the fiscal year 21 adopted budget. You can see the four categories that we have, and we'll talk about each of these in a little bit more detail. The total changes in the draft funding request in this category are $7.7 million.  We'll first review the part-time health insurance spending proposal. Currently, part-time employees who are less than 0.5 FTEs do not receive health insurance benefits from the county. However, part-time employees who are between 0.5 and 0.69 currently receive prorated health insurance benefits. For example, if you are a 0.5 half-time FTE, you pay the  employee premium that a full-time employee pays, but in addition, you're also paying 50% of the employer's contribution. This may be over $4,000 per year, the additional piece. The proposal recommends a change that all part-time employees who are between 0.5 and 0.69 receive benefits at the same rate as a 0.7 FTE. So in our 0.5 FTE example,  their share of the employer contribution would now be 30% or about $2,400. Compared to the original 50% burden they had before of 4,000, they would see savings of about $1,600 per year. This banding methodology lines up well with our current banding of 0.7 to 1 FTEs. A technical adjustment in this proposal is that we would like to expand the proposal to include  same benefits for our dental insurance plans as well as our medical. Are there any questions on this one? I'll now turn the presentation over to Ms. Dana Robb to discuss our minimum pay rate proposal.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "procedural_move",
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 5275.342,
+    "end": 5320.217,
+    "text": " Thank you. Good evening. I'm Dana Rob, the program manager for compensation rewards. And this afternoon I will be reviewing our recommendation regarding increasing to the $15 minimum for our school division employees. As you may recall last year, we were poised to move ahead increasing our minimum full-time pay rate to $15 an hour. That was paused due to the pandemic. And we are now bringing this forward for consideration for the upcoming year.  The school division has about 18% of employees that are currently making less than the $15 an hour, $15 per hour. These are employees whose positions are in the lower pay grades, such as our custodians, our teaching assistants, and ADP assistants, for example.",
+    "speaker": "danarobb",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 5324.784,
+    "end": 5325.345,
+    "text": "Next slide.",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5329.932,
+    "end": 5685.803,
+    "text": " Our recommended strategy for raising our minimum pay rate includes raising both our VRS and non VRS scale in order to bring the VRS scale to a minimum of $15 an hour. Our goal is to increase all employees to a $15 minimum hour pay rate in future phases. And we are looking at a decompression model that uses a banding strategy that avoids leapfrogging and improves communication to employees.  We feel that moving our full timers to $15 an hour first is the best approach. The estimated cost for this strategy is approximately $2.8 million.  In changing both pay scales to reflect the $15 minimum on the full-time VRS scale, we also have to decompress. So this cost, we're working through our decompression strategy to make sure that we are addressing and avoiding leapfrogging concerns and making sure that we are impacting the employees that we wish to, which are in the lower pay grades.  Next slide, please. This slide helps illustrate the complexity of compression and why we want to be thoughtful in our methodology to address it. On this graph, you will see that there are employees that are currently making between $10 an hour and $20 an hour in the school division. All of these employees will need to be brought to the $15 minimum. For instance, you have an employee who makes a little bit above $10 an hour,  and has one year of experience. An employee who is almost at $14 an hour and has almost 20 years of experience. This is why addressing compression is so important, because we're bringing both of these employees to 15, but then we will apply the compression model remedy to preserve some of the equity between these employees. Next slide.  To solve the compression, we are applying a decompression methodology that utilizes what we call a banding or tiered structure. This means that we are creating tiers in which pay rates are banded together and moved to a new pay rate. An example is in the slide, employees that are making between $10 an hour and $11 an hour are moved to 15. Employees from $11.01 an hour to $12 an hour moved to 15.10.  Please keep in mind, these are just examples. We are still working through the exact strategy, and we may have more tiers, of course, than what is illustrated right here.  There are pros and cons to this strategy. The pros, it does avoid leapfrogging. We do not want to leapfrog employees. We want to make sure that we are placing employees appropriately and not excavating leapfrogging. It is easy to communicate to employees. There will be a table that employees can take a look at. It will show them what the range is, and then they will see that they'll go to  Whatever the designated pay rate will be for that for that group of employees. And we make sure that this is targeting the right group of employees. So this will be for the employees, as we said before, that are in those lower pay grades.  And this allows for a flexible structure and approach. So we, as we are working through the cons of this strategy, that it does arose some equity relationships between employees that are both experience related and performance related, and it can create possible hiring challenges. This flexible approach lets us work with those tiers to make sure that we can minimize those cons with a strategy.  These are examples of employees that will be affected by moving to $15 an hour on the VRS scale and moving to also moving the non-VRS scale. So we're moving both scales and we will be impacting both full-time and part-time employees. And the application of the decompression strategy will impact teaching assistants, office associates, employees in building services and child nutrition, EDEP employees and transportation employees.  We want to take just a minute to also explain what the difference is between the VRS pay scale and non-VRS pay scale. So for our VRS pay scale, those are our full-time employees. They have a mandatory 5% contribution that comes out of their salary and goes into VRS. With this pay scale, our minimum currently is $10.20 an hour. Our proposed minimum pay rate for this pay scale will be moved to $15.  That's a 50% lift. On our non-VRS pay scale, part-time, this is a part-time pay scale. It starts at 972 currently, and it will move to 1429. So that's still a pretty significant lift for these employees.  The last row on this slide just shows that with the $15 an hour and also moving the non-VRA scale to 1429 an hour, with a 2% pay raise, these employees will be moved even further into the pay scales. So for a $15 minimum, they'll be moved to 1530 as an example. For 1429, they'll be moved to 1457. You can go to the next slide.  Are there any questions about the minimum pay rate strategy as I've explained it?",
+    "speaker": "danarobb",
+    "tags": [
+      "policy_proposal",
+      "give_update",
+      "logistics_info",
+      "prioritization",
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 5689.47,
+    "end": 5701.455,
+    "text": "Ms. Rob, I thought you did a great job of explaining it. Could you comment, though, for people listening in and watching exactly what's meant by leapfrogging?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "ask_question",
+      "clarify",
+      "public_addressing",
+      "request_action"
+    ]
+  },
+  {
+    "start": 5702.06,
+    "end": 5753.738,
+    "text": " Yes, so you will have the example with the slide that showed all the dots on it. So you have an employee that's at 10, like I'll just use an example, 10, 20 an hour. That employee, we have to get that employee, full-time employee up to 15.  You'll have another employee who may be making $14 an hour. They also will be moved to 15. But the banding strategy that we're looking at will help move, keep the differential between those employees, because you don't want to just place them at 15. That erases the differentials between those employees. So you'll have an employee that has  you know, almost 20 years of experience, an employee that's been here for a year going to the same spot. So we're trying to avoid that with the banding strategy and making sure that we preserve some of those equity relationships. Does that help?",
+    "speaker": "danarobb",
+    "tags": [
+      "clarify",
+      "give_update",
+      "reassure",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 5754.9,
+    "end": 5756.823,
+    "text": "I'm sure it does. Thank you.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "reassure",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5756.843,
+    "end": 5757.123,
+    "text": "Sure.",
+    "speaker": "danarobb",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 5759.928,
+    "end": 5773.731,
+    "text": "Ms. Rao, could you explain why  Not moving the 285 non VRS people up to 15 at this time is a better plan as you said, um, yes.",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "clarify",
+      "request_action"
+    ]
+  },
+  {
+    "start": 5774.116,
+    "end": 5868.934,
+    "text": " As you, I'm not sure if you recall or not, but we were looking at at one point we were looking at phasing this in when we first started looking at it almost two years ago. So we did look at phasing it in by dollar amount like starting with 1275 then moving 1350 we felt that this is the best strategy, given the available funding.  to get to 15 first for the full timers and then in a later phase, hopefully not too far in the distant future, move the part timers to $15 an hour. We did do some, we haven't finalized the decompression strategy, but we did do some  Previous analysis, just looking at some of the cost for doing all. And it would be almost approximately $2 million more just to move the part timers in addition to what we're estimating right now. Just doing the full time to 15 and then decompressing from there.  But I do want to make sure everyone understands we are not just moving full timers to 15 and not touching part timers part timers are getting moved. So the VR scale when we change the VR scale the non VR scale has to change. So the, the current VRS is  is 1020 so that's going to be going to 15 the non vrs minimum is 971 so that is actually going to be going to 1429 so those employees will be impacted they're just not going to be at 15 yet.",
+    "speaker": "danarobb",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "logistics_info",
+      "clarify",
+      "reassure",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 5869.977,
+    "end": 5881.588,
+    "text": "Yes, I do understand that Thank you what i'm asking is how.  Uh, giving 285 part-time employees, 43 more cents an hour could cost $2 million.",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 5882.649,
+    "end": 5913.563,
+    "text": "Because of the decompression strategy, because when we have, since we have two pay scales, we would have to move the non VRS pay scale. The minimum there would be 15. And so then you would have to change the VRS pay scale that would have to go up 5% for every pay grade.  And so when you look at that, that's where the costing comes in because you're moving the VRS scale even further up additional, you know, additional. And so that's where the cost really comes in and then decompression from there.",
+    "speaker": "danarobb",
+    "tags": [
+      "give_update",
+      "clarify",
+      "express_concern",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5915.085,
+    "end": 5920.754,
+    "text": "But moving 812. Well, that's not 812 employees that we're moving and we're not moving 285.",
+    "speaker": "judyle",
+    "tags": [
+      "clarify",
+      "disagreeing"
+    ]
+  },
+  {
+    "start": 5920.994,
+    "end": 5938.65,
+    "text": "That's just the number of employees that are in those pay scales today. Okay.  Yeah, it's the 448 employees that we showed in the very first that are below 15. OK, and there is also a $1.1 million cost savings.",
+    "speaker": "danarobb",
+    "tags": [
+      "clarify",
+      "give_update",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 5940.052,
+    "end": 5940.232,
+    "text": "Now.",
+    "speaker": "judyle",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5943.196,
+    "end": 5952.309,
+    "text": "Yes, there was from the original draft funding request. We worked through the modeling compression strategies and were able to reduce that cost.",
+    "speaker": "danarobb",
+    "tags": [
+      "give_update",
+      "clarify",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 5954.111,
+    "end": 5997.797,
+    "text": "OK, it's it's just.  It's hard for me to understand why it would cost about the same amount as moving everyone in the full-time. So 2.8 is moving everyone full-time who's under 15 up to 15. And also everyone who's part-time who's under 15 up to 1429 or 1457 with a 2%.  raise, it would cost almost the same, you're saying, to just further move the part-time people who are under 15 up to 15. And I understand about compression. I understand that. But those numbers don't seem to make sense to me. So I just want to make sure that",
+    "speaker": "judyle",
+    "tags": [
+      "express_concern",
+      "clarify",
+      "ask_question",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5999.127,
+    "end": 6011.382,
+    "text": " I mean, since now we have these new numbers from what we had last week, I just want to make sure that there wouldn't be possibly some even new numbers that would allow us to bring our part-time people up to 15.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "express_concern",
+      "ask_question",
+      "follow_up_request",
+      "request_action"
+    ]
+  },
+  {
+    "start": 6012.509,
+    "end": 6036.559,
+    "text": " The 2.8 million is where we stand right now with what the modeling we have done. We are looking at ways to make sure we're minimizing, like we said, the cons of that, so making sure we're preserving some of those relationships. We don't anticipate that it's going to increase the 2.8 million, but the 2.8 million is the maximum right now based on our modeling strategies.",
+    "speaker": "danarobb",
+    "tags": [
+      "give_update",
+      "reassure",
+      "clarify",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6037.703,
+    "end": 6045.638,
+    "text": " Right, and I'm just I'm asking to see what it would look like to get everybody up to 15 since we're so close.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "request_action",
+      "follow_up_request",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 6050.478,
+    "end": 6052.944,
+    "text": " And that doesn't have to be today. I would like to know.",
+    "speaker": "judyle",
+    "tags": [
+      "follow_up_request",
+      "request_action",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6053.685,
+    "end": 6114.58,
+    "text": "I'll just jump in here. I think I want to emphasize it is important to us as well. Right. This is something that is a priority for us as well. Our analysis is expensive and we want to do it as soon as we have the money. And so that could be as early as next year. Right.  As Dan mentioned, they're still scrubbing that compression strategy. And if we find an opportunity where there's savings here that we could do it, absolutely, we will bring it. It does, I hear you, it sounds like it's a small amount to go, but every move you make with those part timers, you have to make another move with the full timers. And so your little move just becomes exponentially greater. And we will continue, it's a whole team that's working on it. And we will continue to,  work on it and try to articulate it better about why, where the costs are. But I do want to just publicly say that we agree with you. It's important. And we want to, as soon as we are financially able to bring everybody up to 15, we will.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "prioritization",
+      "give_update",
+      "logistics_info",
+      "clarify",
+      "acknowledge",
+      "agreeing",
+      "reassure"
+    ]
+  },
+  {
+    "start": 6115.301,
+    "end": 6116.763,
+    "text": "OK. I appreciate that. Thank you, Arjala.",
+    "speaker": "judyle",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6121.19,
+    "end": 6122.352,
+    "text": "Any other questions?",
+    "speaker": "danarobb",
+    "tags": [
+      "ask_question",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 6129.52,
+    "end": 6197.195,
+    "text": " All right, okay, thank you. I just have a few more slides about compensation. We would like to propose a change to the recommendation for the teacher salary increase from 3% to 5% in fiscal year 22. This increase would help us retain and recruit for our teaching positions. It also matches what both the city of Charlottesville and the state have thus far proposed. We plan on funding this increase based on the other reductions that we saw earlier this evening.  Here again is a snapshot of the teacher market data that we use to make our teacher salary raise recommendations. In summary, these are the current revisions that we are proposing at this point in time. And as you know, this is a work in progress. We'll continue to work through our budget and keep you updated as items may change, as we just discussed. And at this point, I will pause and take questions and offer  a break if you all would like, or continue discussing.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "policy_proposal",
+      "give_update",
+      "hedge",
+      "acknowledge",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 6197.215,
+    "end": 6269.892,
+    "text": "Ms. Komisawa, can we go back one slide with the teacher increase or the market basket for teachers?  Right, I mean, I'm pleased that we are now looking at a 5% increase for teachers, but I've said this before, I would very much like us to reconsider our market basket.  seriously, our biggest competitor and comparison group are Charlottesville City Schools. And although it is true that we're a rural and urban county, most of our population, most of our students are in urban areas. And so comparing us with a largely rural community like Nelson County,  I think only brings down the average. Well, Nelson County, I mean, actually, they're doing quite well, but I would just like our HR or whomever does this to rethink our market basket strategy going forward. I mean, no, we can't do that right now, but.",
+    "speaker": "kateacuff",
+    "tags": [
+      "request_action",
+      "express_concern",
+      "follow_up_request",
+      "policy_proposal",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6273.557,
+    "end": 6323.181,
+    "text": "Can I  I'm just add one thing. This is a subset of our adopted market. So I do want to make sure that everyone understands these are all of the counties that are contiguous to us. This is not our full adopted market. So this this market data is a representation of the subset so that we can show you what our competition is surrounding us.  So we do have 26 school divisions across Virginia that are included in our joint board adopted market. And I could send those out to you, Dr. Acuff, just so that you have them, but I just wanna make sure that that was pointed out, that this is not, we're not just comparing to these folks, these school divisions, there are others that we do compare to.",
+    "speaker": "danarobb",
+    "tags": [
+      "clarify",
+      "logistics_info",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6323.617,
+    "end": 6334.471,
+    "text": " Thank you miss Rob, I am well aware that the market basket school districts, it is a longer list than this, I still think we might want to revisit it going forward. Thank you.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "opinion",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 6335.372,
+    "end": 6362.219,
+    "text": "Okay, I have a question i'm really pleased to hear that we are considering moving out teacher salaries up by 5%. But does this chart now reflect that is a 46,503 for zero years, showing a 5%.  increase over what we are now, or would this be what our starting salary would be under that new proposal?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "opinion"
+    ]
+  },
+  {
+    "start": 6363.121,
+    "end": 6375.763,
+    "text": "No, Chairman Page, this is what we're currently reflected. So if we do a 5% increase, then these salaries you see for Albemarle County schools would go up by 5%.",
+    "speaker": "danarobb",
+    "tags": [
+      "clarify",
+      "give_update",
+      "disagreeing"
+    ]
+  },
+  {
+    "start": 6375.845,
+    "end": 6388.959,
+    "text": " OK, good. But I'm really pleased to hear that we are trying to do that, because that's really important to keep us in the market, to make sure that we are able to bring in and retain the best teachers that we can.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "agreeing",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 6392.663,
+    "end": 6488.708,
+    "text": "I'd just like to say that I agree with Dr. Acuff. We tried to really look at the marketplace variations on the marketplace a couple of years ago.  when we ended up going to the straight line and opted to stay with the same ones that we had. One of the things that is a little different between us and our brothers and sisters over in Charlottesville is that their budget this year is paying about $21,000 per student, moving for school year 21-22.  where ours is coming in at about 14,950-ish.  And so there is a disparity in there and a gap that leads not just to the salaries, but to other issues. And with us having a rural aspect to it, that has to have a factor in there. And I think their city council is not  timid when it comes to raising taxes in order to pay for things both in the city and in the schools. That's not a criticism of the Board of Supervisors. I think it's just a difference between the school districts. But I'd like to look at other locations as well.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "agreeing",
+      "give_update",
+      "express_concern",
+      "follow_up_request",
+      "opinion"
+    ]
+  },
+  {
+    "start": 6490.477,
+    "end": 6506.463,
+    "text": " I mean, now's not the time to redo the market basket, but perhaps at the next meeting I'll make a motion that we formally direct staff to look at the market basket and see if that's the best methodology for looking at teacher salaries.",
+    "speaker": "kateacuff",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "policy_proposal",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 6507.966,
+    "end": 6523.54,
+    "text": "And I have a question on that market basket.  Is Prince William, I'm not sure whether you'll be able to answer this now, but I think I know that Prince William is in it. But what about Falkiria and Stafford counties? Are they also in that same grouping?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6524.561,
+    "end": 6526.684,
+    "text": "Falkiria, Stafford County is not.",
+    "speaker": "danarobb",
+    "tags": [
+      "clarify"
+    ]
+  },
+  {
+    "start": 6527.424,
+    "end": 6527.685,
+    "text": "Okay.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6528.305,
+    "end": 6532.21,
+    "text": "Page C13 lists the adopted market. Thank you.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "logistics_info",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6533.151,
+    "end": 6534.012,
+    "text": "Okay. What was that Maya?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 6534.492,
+    "end": 6538.276,
+    "text": "Page C13 lists the county.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "clarify",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 6538.296,
+    "end": 6540.058,
+    "text": "Okay. Thanks.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6543.211,
+    "end": 6548.572,
+    "text": " And then for this, does the classified raise sit at 2% still?",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 6551.041,
+    "end": 6551.483,
+    "text": "Yes.",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 6574.582,
+    "end": 6575.783,
+    "text": " Wow, moving right along.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6576.204,
+    "end": 6577.325,
+    "text": "Would you like to keep moving?",
+    "speaker": "mayakumaza",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 6577.365,
+    "end": 6583.313,
+    "text": "Approximately how much longer do you think your presentation is going to last?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 6583.793,
+    "end": 6588.158,
+    "text": "I think there are fewer slides in the second half, so it depends on discussion.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "opinion",
+      "logistics_info",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6589.5,
+    "end": 6594.726,
+    "text": "OK, well, we are at board. I think we can move ahead, don't you?",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 6595.668,
+    "end": 6596.408,
+    "text": "Let's forge ahead.",
+    "speaker": "kateacuff",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6596.769,
+    "end": 6597.67,
+    "text": "Let's forge ahead.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6603.607,
+    "end": 6941.7,
+    "text": " Great. So the second part of tonight's work session is structured a little bit differently. Before, we talked about major changes that we're seeing between FY21 and FY22. And now we'll take a few steps back and examine our general budgeted expenditures, rather than examining the year-to-year change. Our expenditures are broken out into three primary categories in the budget book. Within the school operating fund,  We have school-based budgets in Section D and department-based budgets as seen in Section E. Separately, we have special revenue funds shown in Section F. Together, they make up the total school budget. I will first review special revenue funds in Section F. Special revenue funds contain programs that typically require separate accounting and reporting of revenues and expenses.  Like the school fund, there are revenues and expenditures, and they must balance. Although accounting for these programs is maintained separately, the services that the students see are integrated within our overall operations. We have three primary types of special revenue funds, and they are listed on the slide. Fee-based services are exactly that. They collect fees that either completely or partially cover their expenditures. Grant programs vary widely from large federal grants such as Title I,  to smaller local programs that may be funded by small grants. And internal service funds are generally replacement programs, whereby the expenditures incurred are not day-to-day operating costs, but require unequal expenditures that are not confined within a fiscal year. The school fund does support these funds through transfers. Next, we'll switch back over to the school fund.  Here's a breakdown of school fund expenditures by object or expense type. As you're aware, a large portion, or 87%, in fiscal year 22 is spent on compensation and benefits. Let's break the school fund down further between department-based and school-based budgets. Here's a list of our school fund departments.  In Section E, you can read a description of each department as well as how their budget will support their strategic goals. While all of our departments vary significantly from the way their budgets are structured, here are some examples of the types of costs that you may find in these budgets. These budgets generally contain FTEs. The FTEs could be located centrally, such as the superintendent.  or the FTEs are located in a department because they can't be associated with a specific school. A good example of this are bus drivers who drive to our schools daily, but cannot be assigned to the schools. On the other hand, custodians are not part of the building services department budget, but rather in school-based budgets because custodians are assigned to specific schools. Other expenditures include operating expenses, including capital outlay,  external payments and transfers, and school expenses. What I mean by school expenses are expenses that are managed centrally, such as building and mobile unit leases and utility costs at the school buildings themselves. The second component of the school fund comprises school-based budgets. You can read about each school-based budget in Section D. I'm going to take some time to break down these  budgets for greater clarity. In general, school budgets comprise three major components. The largest component is compensation and benefits as they relate to our FTEs. You'll see that almost all of school budgets are FTE expenditures. The allocation of these expenditures are detailed in Section G, particularly on pages G20 to G22. The next level up on the pyramid are division allocations.  This small amount includes amounts for supplemental pay as detailed on page G27. Ms. Osborne, this is also where you would find teacher stipend budgets, and we'll follow up in writing with more details about this budget. Finally, the top piece of the pyramid represents the school operations budget. These allocations are detailed on pages G24 to G25.  For your request, we're going to dive into these school budgets a little bit more. On this slide, we represent three different ways to view one example school budget, AgnerHert. On page D11, if you're following along, you'll see that the total budget for the school is $4.7 million. Using the pyramid as previously described, $4.5 million of that, or 96% of the budget, is dedicated towards their FTE allocation.  The remaining $200,000, or about 4%, are split between the division allocation and school operations. On the right side of the slide is simply a screenshot of what you see in your budget book. The top piece summarizes the $4.7 million by object or expense type. All but $67,000 of the $4.7 million are expenses or salary, wages, and benefits.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "clarify",
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 6942.642,
+    "end": 6957.925,
+    "text": " When you compare that top piece to the pyramid, it's apparent that even though the $4.5 million is dedicated to FTEs, there are components of the top two pieces that also comprise expenditures for compensation.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "clarify",
+      "opinion"
+    ]
+  },
+  {
+    "start": 6958.686,
+    "end": 6998.721,
+    "text": "So although it says division allocation and school operations, those could also go towards compensation and benefits. The bottom half of the screenshot shows you the same $4.7 million budget  broken down by program categories. As you might imagine, the majority of the expenditures are instructional, with the remainder representing school nurses, technology staff, including TSSs and LTIs based at schools, and custodians. Now let's dig a little bit deeper into the orange piece of the pyramid, or the base, or FTEs.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "clarify",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 6999.713,
+    "end": 7008.004,
+    "text": " School staffing allocations are determined by applying our adopted staffing standards using our school enrollment projections for next year.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "clarify",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 7008.885,
+    "end": 7052.704,
+    "text": "The staffing standards include FTE allocations for differentiated staffing, which are allocated based on the percentage of economically disadvantaged students per school. In practice, principals are provided allocations in general categories, which they use to develop staffing plans for the next year.  These staffing plans are approved centrally to ensure equitable uses of resources. Now we'll jump up to the top piece of the pyramid, the triangle, school operations. School operations can be broken down into three components as shown on pages G24 and G25.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "clarify",
+      "logistics_info",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 7053.933,
+    "end": 7066.073,
+    "text": " The general allocation, which could range from $51,000 at a small elementary school to $478,000 at our largest high school, are generally used at the principal's discretion.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "logistics_info",
+      "clarify",
+      "give_update"
+    ]
+  },
+  {
+    "start": 7066.754,
+    "end": 7147.331,
+    "text": "However, there isn't much wiggle room for principals in terms of how they spend these funds. From this fund, they must budget for short-term substitute wages, classroom supplies, copy machine leases, and other office supplies.  Also listed on the slide are changes we've made in the last few years to the school operations budget to continue improving on them. So based on that background of our school-based budgets, this is a summary table that we've developed per your request that shows  that compare school-by-school what those school-based budgets are. These show our list of elementary schools. And in the second column, you see the adjusted projected enrollments for these schools. They do not include preschool, and there is a \u2013 preschool does play a small factor in each school's budget. And then columns 3, 4, and 5 are just additional information that might help you provide more \u2013 have more context around what is in these budgets.  And then the last column is the per-pupil expenditure. That's simply column one divided by column two. I'll just pause here for just a few seconds before moving on to the next slide.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "clarify",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 7151.194,
+    "end": 7163.725,
+    "text": "Okay, Maia, differentiated FTEs, those would be like interventionist or something that would be special that that principal recognizes for his or her school, right?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 7166.776,
+    "end": 7167.858,
+    "text": " Yes.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 7167.878,
+    "end": 7168.158,
+    "text": "Okay.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7169.82,
+    "end": 7183.52,
+    "text": "That would include also Debbie Collins, Debbie superintendent. That would also include reduction of class size. Anytime you see a classroom that's less than 20, you know that differentiated staffing was used to accomplish that goal.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "clarify",
+      "give_update"
+    ]
+  },
+  {
+    "start": 7192.753,
+    "end": 7228.491,
+    "text": "This is the same information, but at our secondary schools.  This total here at the bottom that you see, the $154 million, that is the total of all school-based budgets in Section D. So that's actually it for our expenditure overview. So at this point, I'll open it up for discussion, Mr. Page.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "clarify",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 7230.327,
+    "end": 7244.031,
+    "text": " Okay, thank you, Ms. Kumazawa, and Ms. Robb, and Ms. Schmidt. So are there any questions for our team of experts on the budget presentation for tonight?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 7246.475,
+    "end": 7314.964,
+    "text": "I have a question, although I wouldn't classify myself as a team of experts.  And can we go back to the per people expenditure page the school comparison for the high school. I guess a question I have on this is how. How do we calculate the expenditures for students that attend center one and.  My fear or what I'm fearful of is that there are certain students in our system, existing in our system, that because they're participating in certain programs, we're actually, they're getting a much different experience. We're putting a lot more money into certain students. So like the students that get to attend center one, we're in essence spending $25,000 on their education while they're in high school. I don't know what that means in the long run. I guess I'm just kind of curious from an accounting perspective, how do we,  How do we do that? And I point that out because when I asked for this slide last year, I was told that we couldn't give a per pupil expenditure percent to one because we technically count them as part of their base school.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "clarify",
+      "request_action",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 7316.426,
+    "end": 7377.684,
+    "text": "So what I've done here on the slide is this is an adjusted projected enrollment. And at the bottom, this 14,046, that is our total projected K-12 enrollment for next year.  And so we put a projection for how many students might attend Center One next year, set 100, and subtracted those students out of the three comprehensive high schools. So that's how we developed the projection. And while we don't know exactly what the attendance rate is going to be next year, this is just for general planning purposes only. So should the enrollment go up or down, we would adjust  FTE staffing accordingly. And this analysis actually shows that the per-pupil expenditure for Center One is less than our comprehensive high schools, mostly because of the lower overhead at Center One.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "clarify",
+      "logistics_info",
+      "hedge",
+      "reassure"
+    ]
+  },
+  {
+    "start": 7378.705,
+    "end": 7414.673,
+    "text": "Yeah, but I guess the follow-up would be that they are also attending schools at their base high schools, correct?  Like they do some of their classes at their base high school, and some of them at center. But I don't want to necessarily, I just am trying to get my head wrapped around understanding what the center model means from a financial perspective. Another question I had was, how do we incorporate the operational expenses of the schools, like the leases and whatnot into the per pupil calculations? Because I know we have a $600,000 lease for center one. And I guess I'm just curious how we do that.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "follow_up_request",
+      "hedge",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 7416.07,
+    "end": 7422.139,
+    "text": " So none of the schools have leased costs figured into their school-based budget.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update"
+    ]
+  },
+  {
+    "start": 7422.78,
+    "end": 7449.884,
+    "text": "Those are all in the building services department budget. And I mean, we don't lease our school buildings, but we do have leases for mobile units, for example. And those mobile units, those costs are included in the department of building services. So similarly, we've taken the same approach with Center One, whereby that lease lives inside the  building services department budget, and you will not see that on this page. So it's not included here.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "clarify",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 7453.128,
+    "end": 7514.551,
+    "text": "And then I know, Maya, that we had an opportunity to talk before and I've said it, so I'm just going to say it again. The reason why I'm interested in the comparison of the schools is I think it is one way that we can get a better understanding of where  inequities might exist between our schools. And sometimes it's kind of hard. I really appreciate that you added these slides in, this is helpful, but sometimes it's hard based on just the budget book to understand. And especially with like the operational costs separated out, it's kind of hard to understand the money that we're putting into an individual school. So I appreciate you adding these. I still think it's, yeah, I appreciate you adding them. I still think it's an area that I guess I just want to dive into a little bit more. And on that note, I would ask,  I don't know if I'm missing this presentation, but I didn't see it. And sometimes it's hard to process the numbers quickly. I know we went over it together, but I don't have a version of this that I can then go and look at if I wanted to look at it in any detail.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "request_action",
+      "follow_up_request",
+      "express_concern",
+      "acknowledge",
+      "clarify"
+    ]
+  },
+  {
+    "start": 7516.074,
+    "end": 7535.109,
+    "text": "We'll have this posted in ESB on the budget development website.  And this table, for instance, is included in the written responses that were sent out today. There will be several places where you can find it, but you can email at any time and ask for it as well. Thank you.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "request_action",
+      "reassure"
+    ]
+  },
+  {
+    "start": 7537.854,
+    "end": 7559.198,
+    "text": "I want to second that. I appreciate getting this information and especially  with the differentiated FTE, I guess, when I was looking at this in the moments before the meeting, that all didn't sink in. But I was wondering if we could get a sortable version, just so I can sort it and make more sense of it.",
+    "speaker": "judyle",
+    "tags": [
+      "agreeing",
+      "acknowledge",
+      "request_action",
+      "follow_up_request",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 7561.741,
+    "end": 7564.405,
+    "text": "Certainly. Thank you.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7571.725,
+    "end": 7573.889,
+    "text": " Are there other questions from other board members?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 7579.68,
+    "end": 7581.723,
+    "text": "What is post high there on that line?",
+    "speaker": "ellenosborne",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 7584.488,
+    "end": 7590.98,
+    "text": "Post high are special education students that require students post the 12th grade.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "clarify"
+    ]
+  },
+  {
+    "start": 7593.645,
+    "end": 7744.292,
+    "text": "It's a  I don't know, I thought I saw Kevin Kirst on the call earlier, but I would also invite, I know board members had an invitation earlier to get out and visit our schools. I know all the board members love to get out and visit schools, but a school you might not be familiar with actually is Post High. It is actually a house that was bought and renovated into a  a school where our  students who are in our community-based instructional program at the high schools, when they graduate, they graduate from their high school, but they still can stay with the school system until they're 22 years old. So if they choose to, they can enroll at Post High, which it's a place where they have a lot of their medical needs met. They also have community there with several other students and staff.  And in addition to that, it's a work-study program. So the students will come there, they learn and develop work skills, and then they go out into sheltered workplaces in the community where they can continue to build those work skills. Certainly last, this school year, they didn't have Thanksgiving dinner or lunch like they normally do, but  Every year they do that and I would encourage board members to maybe think about that as part of your Thanksgiving plans next year if we're able to visit places because it's a very special school. It was part of the  a wonderful vision many years ago. And I was very familiar with it because it was part of the Albemarle high school budget. So we would, you know, I'd go over and visit pretty frequently from being principal at Albemarle and I still enjoy the students and it's just a, it's a great place to go. But if you ever, if you just want to see it without going in right now, if you're concerned about  transmission, you go to the back of Burleigh Middle School, and when you go to that back parking lot near where the baseball field is, it's a yellow house that's back there. And I know I've seen in years past, I know I've seen Jono come out for graduation. There'll be five or six students graduating each year. I know this is a big explanation, but it's such a special place for our students in Albemarle County.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "give_update",
+      "request_action",
+      "logistics_info",
+      "opinion",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 7745.369,
+    "end": 7776.503,
+    "text": " Just to mention the graduation, there was more joy in that room among the teachers, among the students, among the parents, and it was a real celebration. And I think there were, as Dr. Heisman is saying, six or seven graduates, and it was a fabulous experience.  Oh, please go ahead.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "give_update",
+      "agreeing",
+      "opinion",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7778.046,
+    "end": 7778.767,
+    "text": "No, please, John.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "interrupt_overlap",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 7779.608,
+    "end": 7844.738,
+    "text": "Well, I just wanted to ask a bit of a non sequitur question and a bigger picture. Maybe I should be asking this later. But it was either in 2017 or 18 that we got kind of hit pretty hard with a local composite index calculation that took a chunk out of our budget.  you know, late in the process. And that was for the 2015 year was the year that the calculation was made. And then, and this is what I'm forgetting, if it was last year or the year before,  that we got a lot of that money back and it came back into our system. Are we facing an LCI calculation this year or was it waived and it wouldn't happen until next year? That's correct.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "hedge",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 7845.059,
+    "end": 7857.277,
+    "text": "We are in the second year of our biennium. Our LCI for 22 is the same as 21.  Next year during this process, we'll be talking about whatever that changes.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "clarify"
+    ]
+  },
+  {
+    "start": 7858.599,
+    "end": 7860.262,
+    "text": "Thank you very much.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7860.282,
+    "end": 7872.323,
+    "text": "I'll also add on the written questions that one of the board members asked about that LCI and Jackson prepared, I thought, a very understandable response to that. So I would direct you to that as well.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "cite_external_source",
+      "request_action",
+      "reassure",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7875.374,
+    "end": 7890.976,
+    "text": " That's kind of what triggered my question. And by the way, you know, to everybody who did answer those questions, I thought you did a great job. Just an absolutely great job. Very helpful. And I know I'm going to be reading them a couple more times in the next few days.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 7896.564,
+    "end": 7945.948,
+    "text": "I had just a comment on something that we had mentioned in our check-in earlier.  I thought it was interesting Matt a comment you had made earlier about the rural kind of basis for Albemarle and how we're becoming more more urban and I don't know if he knows I'm talking to him or not I can't tell.  And it was in relation to the principal's discretionary funds and how there's just not a lot of information for board members to know what really is happening at schools. And it makes sense. We want to allow schools to have autonomy and kind of make decisions that are local to their school community. But I guess I'd be curious how, as a board member, I could have a better understanding of what the discretionary funds are being used for in individual principals, because there's a lot of variation between schools. And I guess I'm curious how I'd get that information.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "express_concern",
+      "follow_up_request",
+      "clarify"
+    ]
+  },
+  {
+    "start": 7947.295,
+    "end": 8073.305,
+    "text": " Well, like one thing I was thinking about that when you were asking last time and when we've talked about it recently is I really think that would be a really good work session to have board members sit in with some principals. We've done things like that in the past. And have them really just kind of unpack that little sliver of budget that they actually have to, like Maya was saying earlier, it's got kind of a small amount of wiggle room.  I was explaining to Graham earlier in the week that, you know, when I was principal at Albemarle, I used to go around bragging because I had the biggest budget of all the principals. But when it came down to it, there were so many line items in my budget that I really only had just maybe tens of thousands of dollars out of a total of a million-dollar budget at the school, like for expenditures that I could do much with. That was up to me.  I think it's a great conversation to have with the principals to just get their perspectives on, you know, how they use their funds to go after their school strategic improvement plans, also in alignment with the school division strategic plan. So that's just a thought because I think seeing it on paper is one thing, but then just having a conversation with them might be really engaging for one thing and also enlightening.  and give board members an opportunity to think about what kind of policy decisions they might want to make moving forward. So it's just a thought. We could keep showing you numbers. I mean, Maya's got plenty of numbers to show. But I know in the past, we've had board members talk to  the principles about how to use differentiated staffing and how they decide, you know, how to do their class sizes and things like that. The board members walk away with a really renewed perspective and lots of great ideas come from the board around policy for that.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "policy_proposal",
+      "request_action",
+      "opinion"
+    ]
+  },
+  {
+    "start": 8075.388,
+    "end": 8078.552,
+    "text": "They had a good work session. Yeah, we had",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "give_update",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 8079.258,
+    "end": 8100.081,
+    "text": " We had a work session like that about a year ago. It was really enlightening. So a refresher work session would be good on that, I think. Are there any other questions or concerns from our board members?",
+    "speaker": "Unknown",
+    "tags": [
+      "give_update",
+      "request_action",
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 8101.402,
+    "end": 8140.976,
+    "text": "I have neither of those.  Actually, I just wanted to make another comment. I know that I sent an email earlier this week, but I read through this thing and it was very understandable, very thorough. I'm somebody who reads for a living, but hardly ever in this level of detail with numbers. And I just, I really appreciate the work that went into it. And I don't think I understood last year how much work went into it, but I think with my greater understanding of the,  division this year, I do understand it. So I just, I wanted to thank you for all the work that's gone into it.",
+    "speaker": "judyle",
+    "tags": [
+      "acknowledge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 8140.996,
+    "end": 8152.055,
+    "text": "I would second that and say Maya and everyone, y'all have done an amazing job. Thank you. Very responsive to any feedback we've given, like having the page numbers. Right. Simple, but very much appreciated.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "agreeing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 8152.776,
+    "end": 8165.136,
+    "text": "Yeah, I really appreciate it too. And I think all of our board members do.  because it is really gives us a lot of detail. It gives us all the information really that we need along with your explanations.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 8166.719,
+    "end": 8328.283,
+    "text": "And I think I speak for the staff. I know I do when I say that these question and answer sessions and also the questions that you've been emailing in are just, they're really very good questions. And I can tell that the board is  Not just, it's many times asking questions for understanding, but I also can tell that you're also thinking toward the future with the kind of questions that you're asking. And as often comes up in these meetings, you know, you'll ask a question about our adopted market or about some particular practice in a school. And oftentimes we find out that, for example, our adopted market is 20 years old.  and might be time to revisit that. Or a particular practice at a school has just been in existence for a really long time and may not be tied to anything strategic. And so as you do that, I'm very encouraged by that because I feel like it's constantly moving forward and thinking about continuous improvement.  You know, I had a conversation with a retired superintendent that I really respect a few days ago. His name is Stuart Roberson. And he was superintendent down in Hanover County. And he's known throughout the state. One of the things he was known for, of course, was the budget in Hanover. It's extremely well-developed and articulated, forward-thinking. And he had asked me if we could make a presentation at the next K-12 Advisory Council about one of our equity initiatives.  And I said, well, I mean, we'll make a presentation, but I want to be sure you understand that a lot of our data is still sitting still. And while we're making changes and moving forward, I just want that to be the truth in advertising. And what he said was, but you're striving for continuous improvement and  trying to get better and you're making positive progress. And you may never see the fruit of the labor that you're undertaking right now. I want to encourage the board to keep framing it that way, to keep striving. It can be discouraging to not see the changes that you would like to see immediately. These issues of equity were not built in a day.  They will be improved, and they'll be improved by your questioning, by your study, and by the new policies and decisions that you make as we move forward. So I really appreciate the questions that you're asking.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "acknowledge",
+      "reassure",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 8331.547,
+    "end": 8340.115,
+    "text": "Okay. Thank you, Dr. Haas. And Ms. Kumazawa and Ms. Schmidt, are you going to give us a preview of next week's coming attractions?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 8343.723,
+    "end": 8383.407,
+    "text": " You knew it was coming. Here's just a preview of our next steps next week. At the same time, we will meet for our budget work session number three, where we'll cover proposals, one-time expenditures, and have any continued further discussion about changes or revisions. It is also the public hearing is next Thursday. And then a week after that, we'll meet again to approve the funding request.  And a few days after that, we'll present that funding request to the Board of Supervisors. And I think we've covered questions, so that's all I have.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 8386.072,
+    "end": 8392.042,
+    "text": "OK. Are there any other questions, though, before we move on? No, but look, I'd say I'm proud of myself.",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "public_addressing",
+      "acknowledge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 8392.122,
+    "end": 8410.975,
+    "text": "I've got the 2019. I've been a board member long enough, but 2019, 2020.  2020-21, 21-22. So that's why when I'm talking, I'm like, wait, let me reference the, I'm feeling very studious about this budget stuff. Right.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "give_update",
+      "clarify",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 8410.995,
+    "end": 8412.557,
+    "text": "So a whole collection.",
+    "speaker": "Unknown",
+    "tags": [
+      "clarify",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 8412.698,
+    "end": 8414.059,
+    "text": "Your yearbook collection.",
+    "speaker": "kateacuff",
+    "tags": [
+      "clarify"
+    ]
+  },
+  {
+    "start": 8414.46,
+    "end": 8431.837,
+    "text": "Right. All right. Any other comments before we adjourn?  All right, thank you. So our meeting is adjourned until next Thursday, same place, same time. Thank you.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 8432.702,
+    "end": 8433.467,
+    "text": "Good night, everybody.",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "public_addressing"
+    ]
+  }
+]

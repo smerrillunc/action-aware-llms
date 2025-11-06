@@ -1,0 +1,827 @@
+[
+  {
+    "start": 0.456,
+    "end": 36.577,
+    "text": " Welcome, Jason. We'll get to you in just a moment, get through the formalities. I'm going to be a tick, so we do not have any apologies. Everyone's here. Disclosure of members' interests. Actually, Andrew, sorry, I don't know if, is Bronwyn here, or I don't think Bronwyn's here. No, she's not, and we haven't received any apologies.  Yes. OK, right. OK, so I guess we haven't received any apologies. No. Thanks, Ken. Disclosure of members' interests.",
+    "speaker": "andrewbrown",
+    "tags": [
+      "procedural_move",
+      "confirm_next_step",
+      "public_address"
+    ]
+  },
+  {
+    "start": 40.76,
+    "end": 41.401,
+    "text": "The last item.",
+    "speaker": "jasondawson",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 44.584,
+    "end": 46.145,
+    "text": "Oh, yes, the Waip\u0101 networks.",
+    "speaker": "mikepettit",
+    "tags": [
+      "agree",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 46.505,
+    "end": 102.542,
+    "text": "Yeah, that's fine. Right. Yeah, for sure. Thanks, Marcus.  So, yeah, we'll make a note of that. Late items. OK, there being none, we'll move on to confirmation of the order of the meeting. No need to change there, Ken. No, not that I'm aware of, Andrew. So I think Lou has moved. Do I have a seconder? Thanks, Bruce. All in favour, please say aye. Aye. Contrary, no. Carried. So moving on to confirmation of the minutes.  which is on pages eight, nine, 10, 11. Andrew. Yeah, Claire.",
+    "speaker": "andrewbrown",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 102.562,
+    "end": 111.769,
+    "text": "There's something at the bottom of page 11, that's for the quarterly property services report, item nine on the second line.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "cite_reference",
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 112.37,
+    "end": 112.75,
+    "text": "Yep.",
+    "speaker": "andrewbrown",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 113.542,
+    "end": 119.826,
+    "text": " Yeah, it should be, took the report as read and presented the report.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "procedural_move",
+      "report_back"
+    ]
+  },
+  {
+    "start": 124.609,
+    "end": 185.24,
+    "text": "Right. Oh, yes. Yep, that's fine. We can make that change. Great. Thank you. Thanks, Claire. So that was 11, 12, 13,  We go quite a long way here. 14, 15, 16, 17, 18, 19, 20 and 21. Any further amendments or no? All good.  In that case, thanks, Roger. Moving that we accept as a true and fair record. Do we have a seconder? Thanks, Philip. All in favour, please say aye. Councillors say aye. Contrary, no. Carried. OK, we'll move on to item six. And Steve, are you going to introduce Jason for us?",
+    "speaker": "andrewbrown",
+    "tags": [
+      "agree",
+      "procedural_move",
+      "call_vote",
+      "summarize_outcome",
+      "confirm_next_step",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 185.96,
+    "end": 211.504,
+    "text": "Yeah, happy to. Good afternoon, Councillors. Today's an opportunity for Hamilton Waikato Tourism to present their annual report.  lockdowns, the situation just seems to get worse for the visitor industry. But on the plus side, the visitor economy spend is still very good. So I'll just introduce Jason to present his report. Way to go, Jason.",
+    "speaker": "stevetritt",
+    "tags": [
+      "public_address",
+      "provide_information",
+      "express_concern",
+      "reassure_stakeholders",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 213.906,
+    "end": 221.25,
+    "text": "Kia ora, thanks, Steve. I don't know whether you've got my presentation or do you want me to share or should we just talk through it, Steve?",
+    "speaker": "jasondawson",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "confirm_next_step",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 221.41,
+    "end": 223.551,
+    "text": "You could share, that's probably easier. Oh, OK.",
+    "speaker": "stevetritt",
+    "tags": [
+      "assign_action",
+      "confirm_next_step",
+      "agree"
+    ]
+  },
+  {
+    "start": 224.032,
+    "end": 224.292,
+    "text": "Rightio.",
+    "speaker": "jasondawson",
+    "tags": [
+      "agree",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 229.025,
+    "end": 232.669,
+    "text": " We've got it on our diligence, have we not? Yeah, we do.",
+    "speaker": "philipcoles",
+    "tags": [
+      "confirm_next_step",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 234.931,
+    "end": 238.134,
+    "text": "That's proving a problem, Jason. We do have it on our...",
+    "speaker": "andrewbrown",
+    "tags": [
+      "express_concern",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 241.029,
+    "end": 810.897,
+    "text": " Let's just talk, because look, it's really hard to do presentations on Zoom anyway, so preferences to talk it through. So I'll just pull out some of the key highlights. Thank you all. So it is our annual report for Hamilton and Waikato tourism, mainly to cover the Waipa District Council area from the 1st of July 2020, that year, through to the end of June this year.  So I'll take the report as read, but again, always happy to ask questions at the end of the presentation. So as Steve kind of alluded to, yes, we have had a number of lockdowns throughout this annual reporting period. Again, Auckland is in their fifth lockdown. Now, Auckland, again, is our largest visitor market, does have direct impact for us as a region.  However, although we have closed the year with a bit of a decrease overall for the region, so previously we were in the billion dollar stakes with regards to the amount of funding or money that the visitor economy and events economy was injecting into the Waikato region, we've closed the year out at 785 million. It's still an 11% increase on where we were in 2020,  but obviously it's a decrease from where we were what I call BC before COVID with regards to our financial performance as a visitor sector.  We have obviously KPIs, key performance indicators with all our funding councils, just to make sure that we are still delivering and keeping ourselves honest with what is required for us to still rebuild and reset the visitor sector for the region. Visitor nights, we actually saw a increase. So we just wanted to hold a 0% increase, not very good wording there, but it's really around a hold of visitor nights. We managed to achieve that at one point  187 million guest sites across the region throughout the year. Again, we've talked about visitor spend, we managed to achieve an 11% increase on 2020. Our business events market and conferences has taken a significant growth  trajectory again mainly driven by the Auckland continued lockdowns that has meant conventions and meetings are being pushed out of Auckland and are coming and being hosted in the Waikato so we are now the second largest region in New Zealand only behind Wellington for hosting business events  board meetings, conferences and exhibitions in the country at a 30% market share. We still managed to attract funding out of our industry partners, although they are really hurting and some are having bumper years and others are having their worst operating years ever, we still managed to attract $160,000 out of our industry to partner with  mainly domestic campaigns over the last 12 months. And although our international borders remain closed, we are still trying to keep our international markets inspired and interested. We've managed to do virtual webinar training with travel agents from around the world and wholesalers. So we managed to train 1200 travel agents, which is nearly on par with what we would normally do  with face-to-face training events as well in the before COVID world. So again we're really happy with that and really happy with a lot of the media exposure which I'll talk about soon for Waipou.  So how we closed out for Waip\u0101 at the end of financial year was you actually had a lift of 14%. 138 million was injected into your economy from visitors, business, leisure, and also event goers, which is a fantastic lift from 2020. But the great thing is actually it's a 10.4% increase on BC before COVID. So your 2019 base level, you've actually increased on that. That was 125 million before COVID actually hit our shores.  you're now tracking at 138 million. So we are seeing more New Zealanders than ever exploring our own backyard, which is fantastic. But as we have definitely seen over the last few years with Waip\u0101 particularly, the attraction of Waip\u0101 for people to come and visit, stay, spend and experience events and also shop, which is fantastic and buy local  has been a key driver. It's an attractive destination. The close proximity to Auckland has obviously served you well post lockdown. And again, the extension of the Waikato Expressway has only made you even closer to what I would say to our biggest drive market. So go Waipa, well done.  What we are seeing, though, in other parts of our region, though, is not so great. Waitomo, as a village, is now down 95%. Matamata is down around 45%. Again, very international focused destinations. But again, Waipa, even though you do have a lot of international events, what we are seeing is still a strong domestic proposition for the district.  Commercial accommodation, again, you've bounced back. It resulted in around 193,000 guest nights in your hotels and motels. Again, for those of you who know your district, Poor Hidden Lake Hotel in Cambridge, look, it opened two to three months just before our first national lockdown. So to reopen a brand new hotel during lockdown is never a great thing, but they have managed to glender in the team  to turn it around they became a managed isolation for obviously people that were returning to New Zealand but couldn't stay with friends and family people were paying to stay to do their 14 days isolation self-isolation in the hotel right through to now standing up again for events and been really busy for businesses as well business travelers into the Waipa district so we are seeing some success stories  excuse me, your average stay now has also extended from 1.8 nights to 2.1. So not only are people staying in Waip\u0101, they're actually staying longer. Again, COVID has probably driven a lot of that as well. People are more prepared to travel within their own island rather than actually book flights. So again, a key drive market for yourself and being pretty much halfway to Hobbiton from Hamilton as well as to Rotorua has also put you in a really strong position.  So just a quick overview again of some of the things that we have managed to achieve for the district. A lot of this is contained or the detail in your report around how we have profiled Waip\u0101. But look, some of the great things we've managed to achieve is get Waip\u0101 into what we call the Get Out More New Zealand campaign. This is a North Island drive campaign selling the North Island as for central North Island for drive itineraries because Kiwis love to drive.  The great thing about that is Waip\u0101 being in the middle of our tourism region, so we promote Waip\u0101 very much as a hub destination for people to stay, so that's been really successful. We've definitely managed to profile a lot of Cambridge more recently. Cambridge working with Tourism New Zealand to promote  urban experiences. Tourism in New Zealand and the international space has always been about our landscapes and our natural environment. In the domestic space, Kiwis, we live in a beautiful environment, so we want different attractors to region. So events, urban experiences like Cambridge currently offers, farmers markets and other types of activities and stuff that we'll be promoting, particularly for the district and to other metropolitan areas of New Zealand.  Another key thing is actually this month's issue of Cuisine Magazine is also focusing on Cambridge. Again, we've managed to get Cuisine Magazine back. Kelly Breit, the editor, was here doing what we call a lot of foodie and hospitality showcasing of the Waip\u0101 district. We've got her back and her issue for spring is all around well-being, because it's definitely been a big part. People are coming out of winter. We're feeling quite tired. COVID lockdown continues.  and so a well-being focus promoting resolution retreats, a number of your spas in the area, plus places like Mangatotiri where people can actually what we call forest bathe or reconnect with nature in a very slow-paced way which is really important. We've still partnered with Tourism New Zealand on showcasing the district on the Do Something New New Zealand campaign  There's been a number of 15 to 30 second television commercials that have played on subscription channels as well as mainstream television as well. So that would be really grateful for the support that Tourism New Zealand has given us to profile the region nationally.  And then lastly, Kia Ora Magazine. Look, we've got some really great features we've had around Waip\u0101, particularly as part of our Waikato features. We've already had three issues, February, May and August, that all profiled the region and specifically some of your attractions and events here in Waip\u0101.  And look, a couple of things to wrap up before I'm happy to take questions. Look, the Regional Events Fund, so we are currently lead entity, as many of you know, for the Regional Events Fund, a 3.75 million funding stream to activate events that would replace and create visitor demand. So we have international visitors would normally have been here,  We needed to create demands. The government created the Regional Events Fund. We were grateful. We did manage to successfully release $1.3 million for our first round of the contestable fund. It's a fund that we lead on behalf of Waikato, Ruapehu, Rotorua and Taupo. Unfortunately, the event that we were funding for Waip\u0101 has had to postpone.  and I see obviously Liz is on the call. So that was the great Kiwi Summer Expo at Lake Karapiro. Look we're really excited about this new event. We know it's been something that previously has been a success factor for Waipa around attracting domestic visitors here and again you've got that which I've got behind me the beautiful event platform of the lake itself for water-based activities as well as the land-based event site around it as well. So  Liz, I didn't know whether you wanted to add anything about that. We are looking forward to hopefully hosting the first event soon.",
+    "speaker": "jasondawson",
+    "tags": [
+      "provide_information",
+      "public_address",
+      "report_back",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 811.944,
+    "end": 902.47,
+    "text": " Yeah, look, thanks, Jason. Yeah, I guess we were scheduled to have that event on the 15th of October, that weekend. So we've just shifted it back by three weeks at this point, so hopefully we can roll in November. Although, to be fair, it's just looking less and less likely. I wake up every morning just not knowing what to do, to be fair. But we will just hold out another week or so and then make a final decision. But hey, that particular fund has been a real,  Wow, I think it's a real opportunity for Waipa and we were very lucky in the sense that Karapero actually got two events, Great Kiwi Summer Expo, but also an international event, the Long Horse Weekend, which we will be hosting in February, which is a kind of like an Ironman type event. So  Yeah, we were very lucky. And of course, just up the road, I think Mystery Creek was successful with two events as well. So thanks, Jason. I know you're a real advocate for that fund and it's been, yeah, hopefully it'll be a really great opportunity. But look, just some comments on your report, a really comprehensive report. Thanks again, as always.  Look, what do you say? Tourism, unfortunately, we're just so blessed in the Waip\u0101 in some ways that we rely mostly on domestic tourism, you know, and we were very lucky, I think as a district, that we bounced back very, very quickly after the first lockdown. I suspect this lockdown will be a little bit different in that it's got a much longer tail, as we've all heard, but hey, once we get rolling again, we will be just fine.",
+    "speaker": "lizstolwyk",
+    "tags": [
+      "provide_information",
+      "confirm_next_step",
+      "reassure_stakeholders",
+      "community_reference",
+      "state_opinion",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 903.832,
+    "end": 995.703,
+    "text": " Yes, look, absolutely. And look, and just offering our support, look, our event sector overall, as you're all, some of you may be aware, look, they're finding it really constraining. Obviously, we always say we cannot successfully host events safely in our region until we reach alert level one.  It's not about the limitations on numbers, it's about how we can successfully have up to 100 people, indoor and outdoor now, successfully with dual facilities, dual entranceways and exits, dual toilet facilities, and even more if you have more than 200 people. So again, for us to operate events safely again, we are hopefully looking forward to Alert Level 1 where we can do that.  what that has done for the event industry and look particularly for Waip\u0101, I'm sure Liz is experiencing this with Mighty River Domain as well, as we are seeing a constrained time frame now to host events. So many events that have had to postpone, there aren't many other backup dates, particularly for summer in the Waikato, so we are going to see a bit of a push potentially into April, May next year for some of our events, but  To be honest, that is also a good thing. Our shoulder seasons here have been very quiet, you know, outside of field days for Waip\u0101, we don't have a lot of events in spring and autumn. So again, to be able to secure or postpone or transition some events into our shoulder seasons will just serve the district well, where you can successfully host potentially what we would love year-round events in Waip\u0101 as well. So, well done. Thank you, Jason, for your report.",
+    "speaker": "jasondawson",
+    "tags": [
+      "provide_information",
+      "express_concern",
+      "community_reference",
+      "state_opinion",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 996.978,
+    "end": 1074.722,
+    "text": " Destination Cambridge, we're very optimistic and positive towards the future. And luckily, we've got summer coming up. So hopefully, COVID-wise, we'll be all good there. Our members, as I said, they're positive. We've got a lot of mum and dad accommodation providers. So they're pretty laid back about it, to be honest, because it's not their only income. But as you mentioned about Hidden Lakes,  opening up last year, just before that first lockdown. But since then, they've had a really good year. So although we're in lockdown now, and they'll bounce back when things do open up. So they've got a good business game there. And with Cuisine magazine, as you mentioned, Culinary Cambridge, they were just finished last weekend. That's been pushed out till November.  We really want that to go ahead to showcase all the food and places that we've got here and brings in a lot of business for them. So, hopefully that can all go ahead, but that's for the first week of November now. So, yeah. But thanks for your report. Thank you. Greg Morgan Yeah.",
+    "speaker": "philipcoles",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "state_opinion",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 1075.142,
+    "end": 1114.781,
+    "text": "I'll get to you in just a moment, Mike. I just want to say, Jason, congratulations really on  a great effort in very difficult circumstances. It's obviously been a real challenge for everyone in your industry. And as Liz has already pointed out, Waipara is somewhat insulated, not relying on international tourism to a great extent.  maybe something that we'd like to change in the future. However, yeah, just very well done. Mike, you wanted to. Yeah, yeah, again, well done, Jason, on this report and I guess the state of how Waiap\u0101 is doing overall through this pandemic.",
+    "speaker": "andrewbrown",
+    "tags": [
+      "reassure_stakeholders",
+      "state_opinion",
+      "provide_information",
+      "community_reference",
+      "agree"
+    ]
+  },
+  {
+    "start": 1115.701,
+    "end": 1140.207,
+    "text": " Hey, just on page 34 there, the Matariki events, the initiatives that have begun this year, but of course next year Matariki will be a public holiday in New Zealand, set down for a specific weekend. Is there anything more, any changes that you've heard of or that Waip\u0101 should be maybe looking at in terms of this becoming an official holiday in a specific sort of live event next year across Waip\u0101?",
+    "speaker": "mikepettit",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "community_reference",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 1141.209,
+    "end": 1290.019,
+    "text": " Yes, look, great point. So Matariki for Waikato, we have had a festival here of events for over 10 years. So this was our 10th year of events. What we have seen is because of the public holiday change next year, there has been a lot more awareness about Matariki and celebrating the new year. It's new year for Aotearoa, not just for M\u0101ori, it's for everyone. So I feel  there is definitely opportunities for we've got some future events that are going to apply to the regional events fund because again middle of winter is actually great for things like light festivals or anything that can actually celebrate your district and your stories so I know that there is some a couple of event organizers looking at Waip\u0101 right now potentially for a very much small cut more small small scale community events  that to celebrate Matariki and we're definitely seeing a lot of movement with a lot of the marae who are keen to potentially open what we call open the marae gates to provide some sort of celebration whether it be a hakari, a feast or a talk from someone about the local place name and origin so really fits in quite nicely to Te Arawai journeys. Ideally we want to talk about all history that make up  our places in our town. So I feel that that will be a great opportunity. The other great thing for Matariki being a public holiday is it will drive visitation. So we do see more New Zealanders on long weekends coming into the region. So it's just going to provide another opportunity for us to potentially leverage and extend that stay of people coming into the Waip\u0101. But yes, fantastic.  Thank you for that. Excellent. And the one thing that's actually not in my report, I don't think, so it's only just recently happened for a few people's interests. I've just been appointed to the Regional Skills Leadership Group. We have been appointed by the government by MB to develop regional workforce plans. So I am working closely with Kelly Boozade from the chamber around a workforce strategy or workforce plan for WIPA, given some of the issues we are starting to experience in some of our sectors. And I know one of the work streams is partnering, obviously,  with Cambridge High and a few other high schools as well to look at some of what we call the transition or gateway experiences that we potentially try to attract for secondary school students into the services sector, which I'll be representing as well. So our draft regional workforce plan is due to the government in May next year, but we'll be sharing that and actually engaging with our local government partners as well to look at some of the, excuse me, requirements your sector's also been experiencing with regards to school shortages with our migrant workers.",
+    "speaker": "jasondawson",
+    "tags": [
+      "provide_information",
+      "state_opinion",
+      "community_reference",
+      "report_back",
+      "build_on_point",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 1292.415,
+    "end": 1293.576,
+    "text": " May I ask a question?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1294.157,
+    "end": 1295.058,
+    "text": "Certainly. Absolutely.",
+    "speaker": "andrewbrown",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 1297.12,
+    "end": 1336.082,
+    "text": "I'm quite interested and have you any way of knowing if the caravan, the caravanners and mobile homes have contributed to bypass success that you, and I congratulate you on your report, it just reads wonderfully. I feel quite  uplifted after reading all the stuff. The caravan people and there's so many of them and so many of them have actually taken this opportunity to to get out and go and see things because there's not much else you can do. So have you noticed anything or have you a way of knowing that that there's more of them?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "community_reference",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 1337.215,
+    "end": 1437.826,
+    "text": " Travelling more than ever. Yes, look, absolutely. Hazel, I had a special quote for you in my presentation because I knew you'd want to know about our active motorhome and caravans. We have definitely partnered a lot stronger with New Zealand Motorhome and Caravan Association. As you're probably aware, the membership has ballooned since COVID. We're getting more.  motorhome and caravan ownership in New Zealand than ever before and they're definitely traveling. So our motorhome and caravan show that we hosted here at Field Days last year, fantastic numbers and we're definitely seeing what we call the conversion. So we are seen as a desirable destination  Cambridge definitely is now as a motorhome friendly town, so well done. And we're looking to transition a lot more of our community. So Matamata was our last community that has just moved over to become a motorhome friendly town. And we're currently working with Otorohonga and also Hamilton City because we don't actually have a lot of places within the CBD footprint where people can park their motorhomes and caravans safely. So we are working to try and grow our motorhome friendly town status  which will only extend stay because we know people are definitely coming into Waip\u0101 and into Waikato and it's really around providing those opportunities where they can definitely park safely, potentially overnight somewhere because even though people talk about the loss of accommodation, we do see bigger spend coming out of motorhome and caravans. They spend on retail,  They come to our events, which is fantastic, especially as we've got an accommodation shortage right now, but they also spend on our tourism attractions. So again, they're at their high spend with regards to experience in retail. So yes, they're definitely having an impact with us.",
+    "speaker": "jasondawson",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "evaluate_option"
+    ]
+  },
+  {
+    "start": 1438.358,
+    "end": 1469.392,
+    "text": " Thank you and Te Awamutu will shortly become a motor caravan friendly town because we've got the site and it's just a matter now of the Caravan Association people coming in and we had a meeting with them the other day and it's all going ahead so we won't be far behind. Oh that's fantastic. It's beautiful, it really is a very nice  It's going to be a very nice caravan park just just out on the Pirongi Road out of Te Aumutu. So, yep, that's coming.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "reassure_stakeholders",
+      "public_address"
+    ]
+  },
+  {
+    "start": 1470.012,
+    "end": 1473.693,
+    "text": "Great. Fantastic. Awesome.",
+    "speaker": "jasondawson",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 1474.153,
+    "end": 1487.297,
+    "text": "So do we have any other questions for Jason? OK, no, not to be encased. Thanks, Jason. Great report. Keep up the good work. I know it's very trying, but, you know, you're doing great stuff.",
+    "speaker": "andrewbrown",
+    "tags": [
+      "ask_question",
+      "reassure_stakeholders",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 1488.157,
+    "end": 1488.737,
+    "text": "Thanks, everyone.",
+    "speaker": "jasondawson",
+    "tags": [
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 1489.343,
+    "end": 1513.761,
+    "text": " Okay, so we have a resolution on page 23 to accept Jason's report. Could we have a mover, please? Thank you, Philip. Thank you, Roger. All in favour? Aye. Aye. Contrary, no. That's carried. And we'll move to item seven, Waikato Screen Formation Report. And again, Steve, you're going to introduce.",
+    "speaker": "andrewbrown",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "summarize_outcome",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 1514.161,
+    "end": 1566.205,
+    "text": "Yeah, hello, Ken.  Yeah, I'd like to introduce Waikato Screen. Waikato Screen is the regional film office for the Waikato region. And shortly, Erin Griffiths and Madeline Scholten will explain what that means. As a local film office, Waikato Screen facilitates the relationship between the film industry, the government, and our local communities.  So just to set the context and explain New Zealand film industry a little bit, I'd like to play a New Zealand film profile video and then pass across to Madeline. So I'll just find my video and share the screen.",
+    "speaker": "stevetritt",
+    "tags": [
+      "provide_information",
+      "public_address",
+      "community_reference",
+      "procedural_move",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 1616.358,
+    "end": 1643.893,
+    "text": " Am I the only person with no sound? Yes, there's supposed to be audio. Coming through quite stilted, Steve.  And it sounds like not many of us have sound, if any of us.",
+    "speaker": "eringriffiths",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 1643.973,
+    "end": 1702.24,
+    "text": "I think, no, there's definitely no audio. It's a silent film location showcase.  Unfortunately while the video is playing, look it's Jason here from Waikato Tourism because Erin and Madeline will talk to this, it's just trying to showcase the diversity of not only the locations we have in New Zealand for film and television, it's also around the technology  the production ability, the costuming, the makeup and all the other types of what I would say skills and talents we have in the film industry here. In particular, the team will talk quite strongly about the future of what we try to see us leveraging these opportunities here in the Waikato.",
+    "speaker": "jasondawson",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 1704.773,
+    "end": 1723.142,
+    "text": " Yeah, I'm sorry about that, sorry that didn't work out. No, and also to showcase you, there's probably a lot of things in there that you didn't realize that came from New Zealand. So, but what we'll do is we'll, so I'm Erin from Waikato Screen and Madeline is, Madeline is, I think you'll be able to see her.",
+    "speaker": "eringriffiths",
+    "tags": [
+      "provide_information",
+      "reassure_stakeholders",
+      "community_reference",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1723.582,
+    "end": 1739.353,
+    "text": "Oh yeah, I need to unmute myself, hi guys. So anyway, we'll just talk you through.  Yeah, started with the end of the presentation instead of the beginning. Thank you for the introduction, Jason.",
+    "speaker": "madelienschc",
+    "tags": [
+      "procedural_move",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 1740.273,
+    "end": 1756.54,
+    "text": "Yeah, thanks very much. So I'm Erin, that's Madeline, and together with Paige Larianova, who can't be here today, we're going to tell you a little bit about the Waikato and how it can benefit socially and economically from having a regional film office. So welcome to Waikato Screen.",
+    "speaker": "eringriffiths",
+    "tags": [
+      "provide_information",
+      "public_address",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 1761.022,
+    "end": 1761.382,
+    "text": "There we go.",
+    "speaker": "madelienschc",
+    "tags": [
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 1765.73,
+    "end": 1788.895,
+    "text": " So the international film industry spend in New Zealand about 3.5 billion, of which only 170 million goes to the whole of the Waikato. That's not as much as we're supposed to get. If you take into consideration the GDP of the Waikato is 8.6% and we get about half of that through film at the moment, which means we're currently missing out on quite a lot.",
+    "speaker": "eringriffiths",
+    "tags": [
+      "provide_information",
+      "express_concern",
+      "community_reference",
+      "equity_reference",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 1790.238,
+    "end": 1989.657,
+    "text": " Yeah, so why do we receive this little? And that's because the Waikato is one of the last remaining significant regions without a regional film office. And so you already saw in the video some films that have been shot in New Zealand and the films on the right hand side that you see here are also all shot in New Zealand.  But before we tell you why having a regional film office plays such an integral part, let's first look at some numbers. Because 3.5 billion is not just what the actors get paid, obviously. It's so much more. That's actually only one third.  Above the line and underneath the line, that's two thirds of the money. And that goes to the film industry itself. So that's 32 different roles creating up to 700 jobs. And the other jobs are construction. So to create this or any other set, you need builders, joiners, painters, laborers, electrician, plumbers.  Et cetera. And Peter Jackson's latest movie, Mortal Engine, used their film alone, 60 different sets. So that's quite a lot of jobs that one film can create. But also accommodation. On your right-hand side, you can see a picture of Mulan. All these people in this picture and all the people that are making this film happen have to stay somewhere. So they spent just under 10 million on accommodation alone. I do want to point out that that's over the whole film and not just over this scene.  And then you've got retail and trade. So Milan used 2,130 vendors. Power Rangers, for example, uses 1,200 vendors, and the list can go on. It's a lot of businesses benefiting from film. So this guy, for example, he's the owner of Eco Water, and he made a whole production just for the people on the Hobbit triology set alone.  And then you've got something that is not often connected, which is gaming. So gaming, yeah, film office plays an integral part in this as well, because everything that's being filmed or that you see in the game needs to be filmed in reality first. So this film, for example, or this game, for example, Game of Duty paid just under 50, so five zero million alone on in-screen videos and graphics.  And there is so much more industries that get impacted by the film. So that could be public administration and safety, information media and telecom, education training, scientific, technical, admin and support services, transport, logistics, postal and warehousing, electricity, gas, water and waste, legal services. There's a lot of contracts that need to be signed.  financial and insurance services, manufacturing, and then last but not least, tourism. In 1999, MataMata was best known for its horses and farming. And now it's safe to say that it's best known for Hobbiton, which pre-COVID, Jason, if I'm correct, did 78 million a year?",
+    "speaker": "madelienschc",
+    "tags": [
+      "provide_information",
+      "persuasion_attempt",
+      "prioritize_issue",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 1993.02,
+    "end": 1993.94,
+    "text": "Yeah.",
+    "speaker": "eringriffiths",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 1995.321,
+    "end": 1997.438,
+    "text": "Okay, cool.  So yeah, Erin.",
+    "speaker": "madelienschc",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1997.458,
+    "end": 2116.036,
+    "text": "I was going to say, also with the jobs, if you ever look at the end of the films, it'll have about four minutes of all the jobs that you can have on a film going through the credits. So yes, the film industry does touch a lot of areas. That's why the Regional Film Office is of integral importance. Because if you go and film in another country, you need someone to tell you where to go, who to talk to, who to hire, to help navigate you through all the different legislations and permits.  We as a regional film office facilitate those relationships between the international industry and the government and the community. So we work with producers, directors, location managers, and then we link them up with everybody on the other side, on the New Zealand side of things. So a good example is when  That is when we went to film in Tokoroa, what was just outside, it was a night scene. And because of the influence of Waikato Screen, originally they weren't going to stay in Tokoroa, they were going to actually head out to Rotorua.  and they wanted to bring all of their stuff down from Auckland. So we convinced them that no, they should support local, and so they ended up booking out all the accommodation available in Tokoroa that night. They used the local hiring company, the water suppliers, instead of bringing their things down from Auckland. Also, during that shoot, they had to remove a couple of trees, which were weeds, for a power line.  and we're going into a power line. And so we convinced them that because they cut down these trees, that they should replace it with natives, but it wasn't the best area. So they ended up donating a lot of native trees to the council and which went to the local school that planted these as part of their learning and native nature experience and looking after our environment. So that's one of them.",
+    "speaker": "eringriffiths",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 2118.237,
+    "end": 2163.295,
+    "text": " And the other one is, most recently, we've had three inquiries for WIPA, where Steve has helped us above and beyond. After discussing just one of the production requests, Steve and I met up and he showed me all the beautiful spots in WIPA that match the producer's brief. But not just that, he also introduced us to multiple businesses in your region,  which might be of interest for the production. So that would be a great, or that has been a great link and has been very valuable information because in the end, the production decided to film in Waipa and pay the location owner generously. So yeah, quite lucrative.  Our role is a film office.",
+    "speaker": "madelienschc",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 2164.655,
+    "end": 2334.113,
+    "text": "We've done these and we've done other projects, all in a reactive way. So we're not actually going up here and publicly promoting at the moment because we are not funded at the moment. So once we're fully funded, we will expand our roles. One of the key roles is to improve communication. We want everyone to have a pleasant experience filming. People new to the industry or new to New Zealand that might not be aware,  of the need to obtain resource consents for some filming activities, council approvals for traffic management, approval for public park and access, et cetera. So such a lack of understanding can create a really bad relationship, which means productions don't want to film in those areas because it's too hard and councils and public don't want to film crews there because they're not informed. And if it doesn't happen, it's a huge financial and economic loss to the area and a loss of opportunities.  To stimulate economic development, we do that by linking these films to the local businesses and making sure there's a good connection there, pretty much once again supporting local.  By working together, we hope to have a similar billion-dollar industry in the future years, like Auckland, which, as I said, is in the billions. They employ over 7,500 people in the film industry, and it involves about 1,800 businesses directly that they work with.  We also really want to support and promote our talent. We want, we've got really highly skilled workers in our area. There's also many jobs that we can actually create from people that we could give people for the unemployed, like unemployment, create job opportunities by having these productions there.  Crews that live in our area would be collated on a database and we would link them to the productions before we get this information before it goes public from the New Zealand Film Commission and it's only privy to regional film offices. So then we can actually link these people together with the work that's coming in. And of course, to showcase our beautiful region,  to international directors, location scouts, producers, and actively advocate our areas at international film conferences. We currently feature in the New Zealand Lookbook. This is a visual directory that goes to the top 250 directors of the world. And last but not least, the regional film offices do advocate ecological ethics, making sure that film productions think clean and green and know the opportunities there.  to make sure that that's all covered.",
+    "speaker": "eringriffiths",
+    "tags": [
+      "provide_information",
+      "policy_proposal",
+      "prioritize_issue",
+      "community_reference",
+      "equity_reference",
+      "persuasion_attempt",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 2334.933,
+    "end": 2389.857,
+    "text": " Yeah, so yeah, here is an overview of New Zealand and the regions that are enjoying the benefits of the flourishing film industry include Venture Taranaki, Screen Wellington, Film Otago, Dunedin Film, Screen Canterbury, Eastern Screen Alliance, Screen Auckland and Screen Wellington. Waikato is currently one of the only significant remaining regions that does not have a regional film office.  So a region without a regional film office doesn't have a presence at the table and doesn't have a point of contact within the industry, resulting in production seeking filming elsewhere, as it's nearly mandated for all the big productions to work with a regional film office. So not being there and not existing means that a lot of people don't come and film here. So yeah, we would like to see that.",
+    "speaker": "madelienschc",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "express_concern",
+      "policy_proposal",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 2392.481,
+    "end": 2545.27,
+    "text": " In the past when big productions have come to the Waikato, they not just bring in their crew but they bring with them their supplies, their workforce and it's people that are actually here that we have. We worked on one and they were bringing their own traffic management crews down from Auckland, including their own toilets, arborists,  truckloads of rental gear, and it's all stuff that we have here that, you know, our businesses can happily supply. And one of our examples we like to use is the Hobbit. They had over 140 vehicles that came up from Wellington, 500 crews, all their catering came from Auckland, sorry, came from Wellington. Caravans, they even actually bought chickens, sheep, ducks, goats, and all these farm animals to Matamata, which was quite, you know, it's not like Matamata's got a shortage of farm animals.  So what we want to do is actually put us, Waikato, on the map in the film world.  So we also, I mean the Waikato has a great many advantages over other regions that are currently thriving. It's really close to Auckland's international airport. The landscape in the Waikato is enormously versatile, apart from its iconic black and white sand beaches and forest dunes.  We've lakes, rolling hills, we've got the plains, caves, and the list goes on. It's beautiful backdrops that can emulate many, many different countries, and that's what they're looking for in the film world is, you know, they want to have a place that looks like China or a place that looks like something. And it's also even got its fantastical landscapes, which they've just shown that first teaser picture of the Amazon, a new Amazon Lord of the Rings that's in your area, I'm pretty sure.  The Waikato is home to quite a few high-flying people also in the film industry. We've got great talent here. One of the best location scouts lives in Huntly. An assistant director from the Power Rangers lives in Raglan. And she actually has to leave her three children behind and commute to Auckland every week to do the job she loves. And you find people in the film industry really, really do love their jobs. So anyway, it would be great to keep these people here, keep these family units together.  and they would appreciate that too. The Waikato infrastructure also is much better than many other regions as we've got our airport express motorways and we've even got now our Te Huia commuter train so it's definitely becoming more accessible and closer.",
+    "speaker": "eringriffiths",
+    "tags": [
+      "provide_information",
+      "state_opinion",
+      "persuasion_attempt",
+      "community_reference",
+      "cite_reference"
+    ]
+  },
+  {
+    "start": 2549.05,
+    "end": 2608.542,
+    "text": " Cool. So funding, where are we now? First of all, Hamilton and Waikato Tourism generously provided the opportunity to provide us mentorship, financial governance and accept funding on our behalf or on behalf of Waikato Screen through our initial three-year startup phase.  Because of Hamilton Waikato's support, this has enabled us to successfully apply to the Waikato Regional Council Regional Development Fund, RDF, which has granted us $575,000 based over three years, which  which is 50% of our overall cost for the upcoming three years. We also received 25K from Welltrust convening funds and 5K from the South Waikato District Council to update our business case. And we're currently investigating together with Hamilton Waikato Tourism how to obtain the other 50% of our funds. Yeah.",
+    "speaker": "madelienschc",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 2610.307,
+    "end": 2667.595,
+    "text": " So yes, we're sort of speaking with you today about respectful requests. The Regional Film Office can only truly be successful with the support from you, with number one support, flexibility, and collaboration. We want to really make this work. Productions can require road closes and traffic management plans, permits,  and also with assistance with local iwis, with our communication with stakeholders and businesses. What we would like to ask is that the council acknowledges the partners who have established Waikato Screen to be the Waikato Regional Film Office.  the council that they support and endorse the ongoing operation of Waikato Screen to be a regional firm of the Waikato and that the relationship between Waikato Screen and the council is managed by a business development manager.",
+    "speaker": "eringriffiths",
+    "tags": [
+      "provide_information",
+      "policy_proposal",
+      "persuasion_attempt",
+      "community_reference",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 2669.223,
+    "end": 2687.357,
+    "text": " Yeah, so when we were writing and submitting for the LTP, we were asked where we see ourselves in the next 10 years. So yeah, we've written it down. So in the next 10 years, we want to establish Waikato Regional Film Office, get funded, and triple our multi-million dollar film economy.",
+    "speaker": "madelienschc",
+    "tags": [
+      "provide_information",
+      "policy_proposal",
+      "prioritize_issue",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 2690.929,
+    "end": 2702.278,
+    "text": " Waikato Screen will help grow jobs. We want to help our businesses, retain our highly skilled crew, raise morale and profile to the stunning region, to the film world.",
+    "speaker": "eringriffiths",
+    "tags": [
+      "policy_proposal",
+      "state_opinion",
+      "persuasion_attempt",
+      "community_reference",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 2703.579,
+    "end": 2708.423,
+    "text": "Yeah, so we want our mighty Waikato to become known as the heart of New Zealand screen productions.",
+    "speaker": "madelienschc",
+    "tags": [
+      "state_opinion",
+      "prioritize_issue",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 2710.545,
+    "end": 2725.496,
+    "text": "And that's about, that's it folks. So that sort of hopefully helps you know a little bit about what we're trying to achieve and what we're doing.  So if anybody's got any questions, please feel free.",
+    "speaker": "eringriffiths",
+    "tags": [
+      "summarize_outcome",
+      "close_discussion",
+      "public_address"
+    ]
+  },
+  {
+    "start": 2725.556,
+    "end": 2744.186,
+    "text": "Great presentation. And thanks very much for spending your time with us. There's clearly an opportunity here. Does someone want to stop sharing their screen, maybe? Thank you. Yeah. Do we have any questions?",
+    "speaker": "andrewbrown",
+    "tags": [
+      "procedural_move",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 2745.027,
+    "end": 2780.539,
+    "text": "Oh, look.  Andrew, I've just been so excited listening to this because my son was in the film industry for about 10, 12 years.  and came down to the Waikato to live, where we had nothing, so he had to change his career to actually be here. But, so, have you got anything, I just want to ask, so have you got something in mind to start with, to kick off with, you know? Or are you just waiting to attract something here? You know, looking into the future, what is it that",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 2782.165,
+    "end": 2873.987,
+    "text": " We've actually been operating, Paige Larry-Nova, she's on maternity leave, so she can't be with us at the moment. She actually started, she's your filmy person, and she started three years ago helping and assisting with hiccups. There was constant hiccups that were happening in the film industry, so she put her hand up as a kind of, on an ad hoc basis, to be a kind of a regional film office, and she's been trying to get Waikato Screen off the ground, and as you know, with funding, it can be quite political, so she's been doing that voluntarily.  I've actually, I come from a sales and marketing background but came up from Queenstown where there's a huge amount of film and I just didn't understand why the Waikato hasn't got it. And Madeleines come over from Europe coming from advertising and we've all gone, why is there no film industry here?  so and it's come down pretty much to getting funding and getting started and having support and it is it is that's what's been holding it back at the moment so we have been working there are things that are going on and now we've been very active with the film commission and there's a peak body called our funds which is regional film offices new zealand and um there's work coming in like these things that are happening now we're almost like  Yeah, we're trying to control it all and get ourselves hitting the ground running. So yes, and once we start actually profiling the area, that's another thing again. Already with location managers, knowing that we are semi-operational, we're starting to get a bit of a flood coming in.",
+    "speaker": "eringriffiths",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "community_reference",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 2875.031,
+    "end": 2905.012,
+    "text": " Well, and so would you be encouraging our college students to take this up as a career? You know, they go off and I think Martin went over to Tauranga. There was some certification that he got there before he started. And so I was looking at the careers that our young people might look forward to.  now that it sounds like it's only time before you'll be great.",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "community_reference",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 2905.772,
+    "end": 2934.169,
+    "text": "Operational. There is actually a crew shortage in the whole of New Zealand. They are really looking for crews, hugely. So, I mean, once we get up and running, we would love to support that. We work with the New Zealand Film Commission and it's highlighted that this is an area. Unfortunately, we've got some great courses running in Hamilton  and they actually say your chances of getting a job in this area are zero. So that's not a good sign.",
+    "speaker": "eringriffiths",
+    "tags": [
+      "provide_information",
+      "express_concern",
+      "community_reference",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 2934.229,
+    "end": 2945.413,
+    "text": "We are running it in our KPIs to start working with the universities, but also with high schools and others to create a pathway into our sector.",
+    "speaker": "madelienschc",
+    "tags": [
+      "provide_information",
+      "prioritize_issue",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 2946.113,
+    "end": 2947.953,
+    "text": "Definitely. So there's loads of opportunity.",
+    "speaker": "eringriffiths",
+    "tags": [
+      "agree",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 2948.974,
+    "end": 2951.335,
+    "text": "Thank you. Thank you. Very exciting.",
+    "speaker": "Unknown",
+    "tags": [
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 2951.995,
+    "end": 2952.255,
+    "text": "Mike.",
+    "speaker": "andrewbrown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2954.242,
+    "end": 3015.824,
+    "text": " Yeah, Madeleine, Aaron, great presentation, and I hope Waipa District Council can support that financially as well. We had, on the Cambridge Primary School, we had a parent here, Tim Shortsmith, and he makes props, et cetera, and he worked on Avatar and worked on Lord of the Rings. We have a boy's breakfast.  every year and by a long way he was the most engaging speaker for the children and the adults and we had him earlier this year and the children could really see the scope and just all the different areas that it takes to make up a film so he had a lot of props on he brought along but some little video footage and that sort of thing so it really opened these young children's eyes to the world of film so it would be great to bring  and I totally understand that landscape and there's so much more landscape that wasn't in there that would be, that is great for backdrops for film. So look, I really am supportive and I really hope we can help you get off the ground properly.",
+    "speaker": "mikepettit",
+    "tags": [
+      "state_opinion",
+      "persuasion_attempt",
+      "community_reference",
+      "provide_information",
+      "reassure_stakeholders",
+      "agree"
+    ]
+  },
+  {
+    "start": 3016.644,
+    "end": 3018.625,
+    "text": "Thank you so much, Mike. That's really awesome.",
+    "speaker": "eringriffiths",
+    "tags": []
+  },
+  {
+    "start": 3019.426,
+    "end": 3031.933,
+    "text": "Yeah, thanks for that, Mike. And clearly you are working with Steve on this. And yeah, that's... Yeah, Bexyard Arts has been very helpful. Cool. Susan?",
+    "speaker": "andrewbrown",
+    "tags": [
+      "agree",
+      "build_on_point",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3032.894,
+    "end": 3146.603,
+    "text": " Through you, Andrew. Thank you, ladies. It's a very exciting proposition, and I think we'd be probably foolish to not want to be involved or support it in some way, shape or form. I've just been looking at your website, and I see you might not be able to, probably won't work, but it's Hirini Hall, sorry, Hirini Church, Runyalphia, just down the road. So yeah, you've obviously spotted the place quite well. And if you're ever looking for a really amazing looking farm,  Look no further. You've got one. But look, really exciting. Plays into the whole notion of, you know, promoting arts and culture in our region, which I think is often missing. We tend to have been focusing perhaps a little bit more on our agri-business and visitor kind of economies. And this is like a whole different, yeah, can to open up. So yeah, great work and I look forward to seeing what comes of it. And don't forget about my farm.  On our three-year plan, we actually, we've got it all mapped out of how we'd like to operate over the next three years. And one of it is actually going to your areas, working with the councillors and finding these hidden spots that want to be used. So your farm is definitely going to be on the radar, I'm sure.  just elbow Steve and he'll make sure it all happens. And he's been great as I said I know him and Madeline did one of our first scouting and it's been brilliant having that one person that you can deal with that kind of knows the area and is proud of the area and shows it so well. And a very diverse region like you said before you know your beaches to your plains to your wonderful productive land that can be kind of morphed quite easily with a bit of  and a little bit of love. So yeah, we've got a lot to offer and thank you for seeing it. Yeah, so there's a lot more of the Waip\u0101 we need to investigate as well. So we'd love that from you guys, yeah.",
+    "speaker": "eringriffiths",
+    "tags": [
+      "state_opinion",
+      "agree",
+      "provide_information",
+      "build_on_point",
+      "community_reference",
+      "assign_action",
+      "confirm_next_step",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 3146.643,
+    "end": 3154.989,
+    "text": "That's great. Thank you very much for your presentation. Very informative. And we will look forward to working with you. Yes, Steve.",
+    "speaker": "andrewbrown",
+    "tags": [
+      "reassure_stakeholders",
+      "agree"
+    ]
+  },
+  {
+    "start": 3155.53,
+    "end": 3238.649,
+    "text": "If I could just say it in there, Erin can't always talk about it, but there's a constant stream of location  scouts and people looking at the district, closely followed by non-disclosure agreements. So it's difficult to talk about film opportunities until they're kind of done. And it's difficult, and the film industry is a very private industry. They don't advertise for staff, and this is why regional film offices  is really important because that can maintain confidentiality and still provide support for local business. We came to kind of get a photo kind of look book or a video look book from video that the council owns and has  to put together something, because otherwise it's kind of a blank stare when people say, well, what have you got? So we'll work quietly away on that, guided by the regional farm office. And your farm will be there, Susan, and I'm still waiting for my call back as well.",
+    "speaker": "stevetritt",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "reassure_stakeholders",
+      "defer_to_authority",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 3239.129,
+    "end": 3259.177,
+    "text": "Excellent. Good luck with that, Steve. Thank you. OK, yeah.  That's great, and there's no more comment. There's a recommendation on page 58 to receive the report. So could I have a mover? Thanks, Mike. Thanks, Hazel. All in favour, please say aye.",
+    "speaker": "andrewbrown",
+    "tags": [
+      "procedural_move",
+      "summarize_outcome",
+      "call_vote"
+    ]
+  },
+  {
+    "start": 3259.757,
+    "end": 3259.857,
+    "text": "Aye.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 3260.117,
+    "end": 3266.482,
+    "text": "Aye. Contrary, no. Carried. Thank you ladies and Jason. Thank you very much. Thank you ladies.",
+    "speaker": "andrewbrown",
+    "tags": [
+      "call_vote",
+      "summarize_outcome",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 3266.882,
+    "end": 3269.024,
+    "text": "Lovely, thank you. Does that mean, is this our exit?",
+    "speaker": "eringriffiths",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 3269.484,
+    "end": 3273.427,
+    "text": "It is your exit. We're going to be excluded now, yes. All right, have a good afternoon.",
+    "speaker": "andrewbrown",
+    "tags": [
+      "close_discussion",
+      "public_address"
+    ]
+  },
+  {
+    "start": 3273.447,
+    "end": 3273.827,
+    "text": "Stay safe.",
+    "speaker": "eringriffiths",
+    "tags": [
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 3277.639,
+    "end": 3288.071,
+    "text": " Okay, so item eight is a resolution to exclude the public. Could I have a mover? Thanks, Bruce. Thanks, Susan. All in favour? Aye.",
+    "speaker": "andrewbrown",
+    "tags": [
+      "procedural_move",
+      "call_vote"
+    ]
+  }
+]

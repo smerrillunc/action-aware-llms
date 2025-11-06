@@ -1,0 +1,930 @@
+[
+  {
+    "start": 0.031,
+    "end": 25.719,
+    "text": " Okay, great. So, we are now live on YouTube. So, yeah, welcome everyone to the Regulatory Committee for today. Any apologies? So, no apologies. Any disclosure of members' interests? So, no disclosure of members' interests. And can I have a confirmation of the order of meeting, please? So, Clare and Liz. So, all those in favour, say aye. Aye.",
+    "speaker": "marcusgower",
+    "tags": [
+      "public_address",
+      "procedural_move",
+      "call_vote"
+    ]
+  },
+  {
+    "start": 26.439,
+    "end": 26.519,
+    "text": "And",
+    "speaker": "Unknown",
+    "tags": []
+  },
+  {
+    "start": 29.582,
+    "end": 55.858,
+    "text": " We'll have the confirmation of the minutes from the previous meeting. Liz, do you confirm they're all good? Yeah, and I'll second that as well. So all those in favour say aye, so that's all good. And we have reports. Is there any reports? Sorry, I've gone. The commissioner hearing the report, Marcus?",
+    "speaker": "marcusgower",
+    "tags": [
+      "call_vote",
+      "ask_question",
+      "agree",
+      "procedural_move",
+      "confirm_next_step",
+      "report_back"
+    ]
+  },
+  {
+    "start": 56.438,
+    "end": 58.019,
+    "text": "Yeah. But there was no report.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "clarify_point",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 58.863,
+    "end": 111.705,
+    "text": " No, that's fine. And Section 7, any appeals? No, nothing to report on that either. No, that's fine. And so here we\u2014oh, I'm looking at the wrong thing. Sorry. Two ticks. So we come now to the hearing.  for the resource consent application to establish and operate a medical centre gastroenterology clinic in Cambridge. And we will first off have the... Sorry, I can't find my run sheet. Simone, can you please go through the report and just highlight any outstanding issues and bits and pieces that we are here to address with this hearing, please? Good morning.",
+    "speaker": "marcusgower",
+    "tags": [
+      "procedural_move",
+      "assign_action",
+      "ask_question",
+      "public_address"
+    ]
+  },
+  {
+    "start": 112.336,
+    "end": 345.067,
+    "text": " My name is Simone Williams and I am the planner for Waipahu District Council and the author of the section 42a report which I take as being read. The application being heard seeks to establish and operate a specialist medical centre gastroenterology clinic to be located at 21 Hamilton Road. In terms of the activity status and compliance with the performance standards of the plan the proposal is deemed a non-compliant activity  as medical centres are non-compliant within the residential zone and due to the non-compliance with performance standards for the residential zone. As outlined in my section 42a report, in my opinion, there are two main matters of contention that are relevant to the proposal. The first being character amenity related to the change of site activities and the impact of noise and traffic  arising from the increased vehicle movements and frequency generated from the proposed activity, as well as the appropriateness of parking area with respect to the adjoining residential properties. I will go into these matters in more detail after hearing from the applicant. No submitters. Well, they're present at this meeting. The application was limited notified under section 95B of the RMA  During this time, three submissions were received in opposition to the proposal from the adjacent landowners. It is, however, noted since submissions closed in the release of my section 42A report, submitter from 23A Hamilton Road, Mr. Wylie, and 23 Hamilton Road, PNC Lula, have withdrawn their submissions through negotiations with the applicant for which changes have been made to the landscaping treatment and conditions.  These changes will provide more screening on the site's eastern boundary, which include changing the evergreen trees from Portuguese Laurel to Manolia Blanchard, and the proposed evergreen fence height has been increased from 1.8 metres to two metres. As the fence is now technically considered a building under the district plan, consent for the fence within the 1.5 metre internal boundary setback, Rule 2.4.2.4,  is now required, but not listed in my hearing report, as this was not proposed when the report was written. The applicant will also seek to encourage staff to park as close as possible to the eastern internal boundary, which will help to minimise movement of vehicles in these positions.  These changes and withdrawal of two submissions means that there is only one submission opposition for the committee to consider. I also note that there was an error in my section 42a report, as highlighted by the urban design and landscape evidence prepared by Ms. Hopping, where I had referenced an earlier plan with street fencing consisting of 1.2 metre picket fencing  As confirmed by Ms. Hopping, no street fencing is proposed along Hall Street or Hamilton Road frontages. This error does not change my opinion and my assessment of environmental effects in my section 42A report. I wish to advise the committee that both Council Senior Development Engineer, Mr. Coutts, and Council's Environmental Officer, Mr. Jones, are both available during this meeting should the committee have any questions regarding traffic noise or lighting.  This concludes my introduction. Greg Morgan Great.",
+    "speaker": "simonewilliams",
+    "tags": [
+      "provide_information",
+      "summarize_outcome",
+      "clarify_point",
+      "report_back",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 345.107,
+    "end": 363.633,
+    "text": "Thank you for that, Simone. Now, I forgot to introduce our committee today. So, I'm Chairperson Councillor Marcus Gale from Kiiki. We have Councillor Liz Stolwick, if you just want to say hi, Liz. Councillor Liz Stolwick Hi, everyone.",
+    "speaker": "marcusgower",
+    "tags": [
+      "procedural_move",
+      "public_address",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 363.653,
+    "end": 370.015,
+    "text": "Greg Morgan And we have Poto Williams from our iwi representative from Cambridge.",
+    "speaker": "potodavies",
+    "tags": [
+      "provide_information",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 377.43,
+    "end": 381.412,
+    "text": " she not there? Sorry.",
+    "speaker": "marcusgower",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 382.352,
+    "end": 393.398,
+    "text": "Clare St. Pierre I'm an independent commissioner, but I'm also on the Regulatory Committee for Waipae District Council. Greg Morgan And we also have Councillor Clare St.",
+    "speaker": "potodavies",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 393.438,
+    "end": 395.399,
+    "text": "Pierre as well. Clare St.",
+    "speaker": "marcusgower",
+    "tags": [
+      "provide_information",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 395.459,
+    "end": 398.421,
+    "text": "Pierre Hi, everyone. Greg Morgan Great.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "public_address",
+      "agree"
+    ]
+  },
+  {
+    "start": 398.521,
+    "end": 412.11,
+    "text": "Thank you for that. So now we move on to Applicant's Planner, Tracey Hayson.  So, Tracey, over to you, please. Tracey Haston Thank you and good morning.",
+    "speaker": "marcusgower",
+    "tags": [
+      "procedural_move",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 413.211,
+    "end": 455.829,
+    "text": "As you've heard, my name is Tracey Haston. I'm the planning consultant for the applicant. I prepared the resource consent application. With the permission of the chair, I'd like to provide a brief overview of the proposal. I acknowledge that you have all  received the evidence in advance, but I think it'd be helpful to just go over the main details. Then I'd like to ask the applicant, Dr. Patrick, to give just an overview of what the centre does, how it runs, why they are seeking a site in Cambridge. And then if we can come back to planning evidence and I can answer any planning questions from there. Is that acceptable?",
+    "speaker": "tracyhayson",
+    "tags": [
+      "provide_information",
+      "procedural_move",
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 456.93,
+    "end": 457.15,
+    "text": "Sure.",
+    "speaker": "marcusgower",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 457.99,
+    "end": 547.946,
+    "text": "Thank you.  So in terms of the proposal, Ms. Williams has outlined the details. I'll just confirm that the application is for a specialist medical center. They provide gastroenterology specialist services. Dr. Patrick will give you some more detail on that. It's for a maximum of 11 staff on site at any one time. And that will consist of approximately three specialists,  and part-time staff and administration staff. The hours of operation are proposed to be Monday to Friday, 8am to 5pm and there are 16 car parking spaces in the eastern area of the site proposed. The building is  an existing medical facility that the applicant has in Auckland, and it's proposed to be relocated to the site. It's a purpose-built facility. However, it's been designed and appears as a residential villa, and that would be moved onto the site and then landscaping established from there. In terms of the witnesses we have here today, we have traffic, urban design and landscape, and acoustic.  We also have the architect and the agent's project manager and representative here, and they're able to answer any questions that you have regarding building.",
+    "speaker": "tracyhayson",
+    "tags": [
+      "provide_information",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 549.027,
+    "end": 564.457,
+    "text": "Sorry, can I just also say, Tracey, as well, and to everyone else, we have the plans and bits and pieces ready to share on the screen if you would like them brought up at any time. Sam has them ready to go if you want landscape plans or site plans or whatever on screen.",
+    "speaker": "marcusgower",
+    "tags": [
+      "provide_information",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 565.437,
+    "end": 581.825,
+    "text": " Okay, thank you. That will probably be helpful when we get to evidence, so we'll make a note of that. So if I can just ask Dr. Patrick now to provide an overview of who he is and what the Cambridge Specialist Centre will do and why Cambridge, then we'll come back to planning evidence.",
+    "speaker": "tracyhayson",
+    "tags": [
+      "ask_question",
+      "assign_action",
+      "procedural_move",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 586.021,
+    "end": 887.682,
+    "text": " Good morning, everybody. My name is Alastair Patrick. I'm a gastroenterologist based at Middlemore Hospital and in private in the centre of Auckland. Our background for looking down in the Waikato for a site was that we've been practising in our private rooms here 11 years. So we built 11 years ago, which was designed  to fit with our study. So we have theatres to do endoscopy, and we have some consulting rooms. And over the last 11 years, we've grown now to be the biggest group of our type in New Zealand. And so we've purchased a new piece of land and built a new building and moved into the new building.  And that left us with a beautiful villa that is purpose built for what we do. And it seemed a shame really not to be able to use it for something new. And so we looked around New Zealand for different places where we could potentially move this building and set up a clinic similar to what we've been running up here in Auckland.  And we actually see a lot of patients from the Waikato region who drive all the way up to Auckland to see us for our services because they're waiting so long for these sorts of services locally within the Waikato region. And that sort of got us thinking about the opportunities that might be available down in your neck of the woods. The reason that we built a villa in the first place was the part of Auckland that we're in is also a residential area.  And when patients come for their procedures, they're very nervous and they don't really know what to expect. And it makes a huge difference for them to come into an environment that is familiar, is seen as less threatening than a hospital environment. It's more like coming into someone's home. And this makes a huge difference to the experience of the patient through the procedure and through the experience with our center.  And I think part of the reason for our success has been our facility and how great our facility has been over the years. But we really just outgrew it here in the middle of Auckland. And so when we were looking for a place to move, we looked particularly around the Waikato region, thinking about the catchment extending through across to Rotorua and Tauranga, the whole of the Waikato region, even down as far as Taupo.  Talking to people that we know in the region, medical people, we felt that there was a real need in your part of the world.  Waikato Hospital is about to start bowel screening the next year, and we're gonna end up needing more and more of these sort of services to be performed. And we're all about preventing bowel cancer, so that's mostly what we do. We do screening endoscopies and other procedures, small procedures as well. And so what we're anticipating doing in the Waikato is exactly what we've been doing up here in Auckland for the last 11 years.  It was very difficult to find a site in Cambridge. We looked for a long time, about 18 months, because we needed a piece of land that was of an appropriate size. We couldn't get too far out of town because we needed to be on town supplies for both sewage and water, et cetera. And we wanted to be on a main road so that we're visible and that our impact for the cars that do come and go wouldn't be flowing off onto back streets.  And so we were very pleased when we finally located this position, which is sitting on a corner site in a very prominent place. And so we've now, you know, got three consultants from Hamilton Hospital and a fourth, and then a couple are going to come over from Tower on it. So we're going to have six specialists, as Tracy mentioned, practicing out of the building.  Now, all of these people work in the public system as well, and so they're very much part-time private doctors, which is why the numbers are not dramatic through the centre. The other thing is that the procedures that we do, we're not a GP clinic or an emergency centre.  And so our patients come for a procedure which takes, on average, about half an hour, and most patients would stay for an hour to an hour and a half. Patients also come for clinic appointments, and our new appointments take about 45 minutes. So it depends how late the doctor's running. They're probably there for about an hour as well. And so we don't anticipate there to be a huge number of patients coming through the center like you would with other medical practices.  We also, you know, realize that we're going to be creating jobs within the region, which is obviously a positive thing in these current times, and providing a service to the community. And so that's what we're about, really.",
+    "speaker": "dralasdairpatrick",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "equity_reference",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 893.563,
+    "end": 899.344,
+    "text": "Thank you. Are there any questions for Dr. Patrick before we move on?",
+    "speaker": "tracyhayson",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 899.664,
+    "end": 904.305,
+    "text": "I'm just wondering, like, what is the total number of patients that you've seen in a day all up?",
+    "speaker": "marcusgower",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 908.57,
+    "end": 933.931,
+    "text": " So we would anticipate, at the moment we're not even gonna be running every day of the week at the beginning, because we just don't have the doctors. But we would get through theater probably five patients in a half day, so say 10 patients through the theater in a day. And then through clinic you might get another similar number, maybe a bit more, so maybe 15 patients. So somewhere between 10 to 20 patients a day coming through, I would guess.",
+    "speaker": "dralasdairpatrick",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "report_back"
+    ]
+  },
+  {
+    "start": 935.934,
+    "end": 947.917,
+    "text": " Okay, and would there be any needs, like, if the centre goes, you know, if you had a lot of clients and things, would there be any needs to work on weekends or after hours? Or just literally 8.30 to 5.30?",
+    "speaker": "marcusgower",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 951.138,
+    "end": 990.631,
+    "text": "When you work on a weekend, you pay the staff time and a half, and the doctors all have young families, and so there's not a lot of appetite for Saturday work.  I think if we were open right now, we've already had an approach from Tauranga DHB. They desperately want us to try and help them with their waiting list. You know, and, you know, if there's an exceptional circumstance like that, you know, because of the COVID, you know, shutdown and no work being done for so long, there may be occasionally, but we certainly don't see it being a Saturday clinic by any stretch of the imagination at this stage.",
+    "speaker": "dralasdairpatrick",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "express_concern",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 993.033,
+    "end": 1008.221,
+    "text": "Okay, cool.  Any further questions from the committee? No. OK, that's great. So, can we pass it on to, yeah, expert witnesses now?",
+    "speaker": "marcusgower",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "confirm_next_step",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 1009.122,
+    "end": 1402.288,
+    "text": "Yeah, if we just come back to planning and then we can move on to Mr Constable for traffic.  So just to reiterate, in terms of the application, it is for Monday to Friday, 8 a.m. to 5 p.m. So there's no provision sought for anything outside of those hours apart from potentially a cleaner. So there wouldn't be scope within the consent for weekend work that would have to be dealt with as a separate application. Now, just in terms of the,  submitters and you've heard from Ms Williams that there have been some withdrawals. I'll just comment also on those. We've been in discussions with both the Wailers of 23A and the Lawlers of 23 Hamilton Road over the last couple of weeks and have  agreed some additional landscaping, which was submitted with my evidence on the landscaping plan. And that was just some changes of trees, fencing detail. And on the basis of that, they were both happy to withdraw.  You will have received this morning an amended set of recommended consent conditions, which has been agreed with the submitters and the applicant. And all that all those changes really do is just tighten up the wording. There was some concern that  The consent needed to be quite specific to the activity that we're applying for so that you couldn't say in the future have a general practitioner's clinic move in and operate under that consent. The applicant is more than happy with that. The application is for the specialist center, as you've heard Dr. Patrick speak of. So there's just some tightening of wording around that and also a bit of tidying up of the landscaping conditions and the parking.  happy to answer any questions on those or if you wish to direct them to the experts as we move through. From a planning point of view, you will have read my evidence, I'm sure, so I don't propose to regurgitate it here for you. However, just to confirm that I agree with Ms Williams that the main issues in contention primarily relate to  adverse effects on residential amenity and character associated with a non-residential activity in a residential zone. My overall conclusion has been that the adverse effects are able to be mitigated to a level that they're acceptable or no more than minor. And that's both in terms of the effects on the wider community from having a commercial activity in a residential zone  and also the more immediate effects on neighbours. And that's certainly supported by the withdrawal of the two submissions from the immediately adjoining neighbours. There is a third submitter and that's the owners of 27 Hall Street. We did attempt to engage with them on several occasions and unfortunately were not able to connect. So,  we haven't been able to progress discussions in that regard. However, we are confident and I am comfortable in my opinion that any potential adverse effects have been mitigated on their property and we can speak further to that in our noise and traffic evidence and also the landscape architect can address that for you. And just in terms of the  policies and objectives of the district plan. They're quite clear that there's a limited tolerance for non-residential activity in the residential zone. However, there is quite clear policy in the district plan that says where you have an activity that provides for the health and well-being of the community, and that has a clear need to locate in a particular residential environment,  then those activities are appropriate. And in my opinion, that is what we have here today. We have an activity that is clearly in demand in your region and has some very unique characteristics of why a residential zone is an appropriate location, both in terms of the activity itself and also the characteristics of this site and that it's on a main road, it's on a corner site, it's in an area where there's  a mixed-use character there already. You have a motel directly diagonally opposite. You have resource consent granted for another motel on the corner of Hall and Hamilton opposite the site. And then you have a mix of different types of residential activity and some commercial as well. So, there's quite clearly already a character that may not be typical of a suburban neighbourhood.  And that's why the site was chosen and why in a planning manner, I'm able to support that location. In terms of the operation of the activity and changes that have been made through the application process, there's really only one change from what was lodged and that's a reduction in the number of onsite car parks.  The application was originally submitted with a car parking area of 19 spaces, which was in accordance with the district plan requirement. However, through a section 92 information request from council and advice from council's traffic engineer, we reduced that car parking down to 16 spaces, which is in accordance with the actual demand assessed by Mr. Constable. And that just provided  a smaller parking area, the ability to have more permeable surface on site and meet the actual demand. And then there've been a few minor changes around landscaping, as I addressed earlier. So happy to take any questions regarding planning before we move on to the other experts.",
+    "speaker": "tracyhayson",
+    "tags": [
+      "provide_information",
+      "summarize_outcome",
+      "procedural_move",
+      "report_back",
+      "state_opinion",
+      "agree",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1404.02,
+    "end": 1413.843,
+    "text": " I just have a question about the Auckland site. What zone is that in and has there been any issues around noise and bits and pieces? Is it in a residential kind of environment?",
+    "speaker": "marcusgower",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 1414.323,
+    "end": 1423.406,
+    "text": "Yes, it's located in Renuera in a residential zone and perhaps I could just ask Dr. Patrick to talk about any issues they've had.",
+    "speaker": "tracyhayson",
+    "tags": [
+      "provide_information",
+      "defer_to_authority",
+      "assign_action",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 1425.013,
+    "end": 1488.508,
+    "text": " Yeah, so we're surrounded by houses and we've never had a neighbour who's complained about anything in 11 years. And so, you know, we're not, we don't create noise. We don't have any big pieces of plant. We do have vehicles obviously coming in and out, but it's worked really well in a residential area. It's a,  you know, from the street, people wouldn't even know, except for the signage, that it is a business, because it's a very attractive looking villa. And so, it fits right in, in the middle of Rimura, surrounded by other villas. The zoning now has completely changed with the unitary plan here. And  Unfortunately, now we're surrounded by five-storey apartment buildings. So, things have changed up here in the last 11 years. But certainly, you know, currently it's exactly the same sort of site that we've looked at and got down here in Cambridge. Greg Morgan Great, thanks.",
+    "speaker": "dralasdairpatrick",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "reassure_stakeholders",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1492.411,
+    "end": 1497.115,
+    "text": "Any other questions? Yes, I have a question, Miss Hayson.",
+    "speaker": "tracyhayson",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1498.231,
+    "end": 1518.007,
+    "text": " At number 66 of your application, you copied Davidson Family Trust versus Marlborough District Council, and through that reference, you have discounted Part 2, or you say that Part 2 is not required. Can you please expand on that a little further for me, please?",
+    "speaker": "potodavies",
+    "tags": [
+      "cite_reference",
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1519.167,
+    "end": 1567.148,
+    "text": "Yes, sure. So, I haven't discounted it. What I've said, and this is supported by the case law that I've referenced there, is that  Where a district plan is seen to embody the principles of the RMA in terms of Part 2, so the sustainable management and the various matters that are dealt with under Part 2, where a district plan has picked those up through its policy framework, and in my view, the Waip\u0101 District Plan has, then the courts have said that there's no need to directly refer to Part 2 in an application.  And in my view, your district plan is robust and does give effect to both the RPS and the Part 2 matters.",
+    "speaker": "tracyhayson",
+    "tags": [
+      "provide_information",
+      "cite_reference",
+      "clarify_point",
+      "state_opinion",
+      "evaluate_option"
+    ]
+  },
+  {
+    "start": 1573.754,
+    "end": 1578.219,
+    "text": "Thank you. Does that include your assessment of Section 6c as well?",
+    "speaker": "potodavies",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1579.908,
+    "end": 1602.862,
+    "text": " Yes and I did read the analysis that Ms Williams provided of the various other statutory documents that also give effect to Part 2 and Part 6 in particular and I agree with her opinion and that there were no particular matters that needed to be addressed in terms of this application.",
+    "speaker": "tracyhayson",
+    "tags": [
+      "cite_reference",
+      "provide_information",
+      "agree",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 1604.903,
+    "end": 1605.243,
+    "text": "Thank you.",
+    "speaker": "potodavies",
+    "tags": []
+  },
+  {
+    "start": 1614.6,
+    "end": 1616.261,
+    "text": " Yep, over to you again, Tracey.",
+    "speaker": "marcusgower",
+    "tags": [
+      "procedural_move",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 1616.921,
+    "end": 1626.404,
+    "text": "Thank you. I'd like to ask Mr Constable, Traffic Engineer, to just summarise his findings and answer any questions you have.",
+    "speaker": "tracyhayson",
+    "tags": [
+      "assign_action",
+      "procedural_move",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 1632.466,
+    "end": 1917.62,
+    "text": "Good morning, everybody. Ian Constable, Traffic Engineer.  I was engaged by Dr. Patrick last year to assist with this application from traffic perspective. I had a look at the proposal at the time and decided, yes, I can support this and then proceeded to assist with assisting with the design process and meeting with the council to arrive at the design that we have today.  I assessed my traffic report that the traffic flows that the development activity would generate based on the number of staff that you just heard are going to be going to and from a number of clients that will be processed during the day and other incidental trips like service activity and other visitors and things like that.  I came up with a maximum of 15 vehicle movements in any one hour period. Generally, it would be less than that, but that would be the maximum. Just to clarify, that's vehicle movements per hour, not vehicles per hour. So, you'll get that equates to half of them going in off Hamilton Road, which is where the entry is going to be, and half of them, seven or eight or whatever, exiting to Hall Street, which is where the exit will be.  So, that's kind of the background of the traffic generation assessment. Parking assessment was done in the same manner, taking into consideration numbers of staff, numbers of clients that will be there at any one time. You've heard how this particular centre will operate. The number of parking spaces is less than what the district plan requires. And it's probably fair to say that the  the activity will generate less parking than typical Gs would because just the way they operate. And that's from that, that I'll derive my assessment of how much parking will be needed. And we're providing enough parking to meet that demand. So, which you've already heard. We're also providing parking for two bicycles on the site, just staff, mainly for staff that might choose to travel by bicycle. There's only one required in the district plan, but we're providing two.  But you heard that the main issues in contention are traffic movement and parking activity within the site. And you've heard already that we've reduced the number of parking spaces on the site to try and mitigate those effects. We're taking three spaces out to increase the landscaping and reduce the car park area, that sort of thing.  without compromising the ability of people to park within the site. And I'm quite happy that the amount of parking that's remaining is sufficient to accommodate that. The other issue that was raised is visibility at the site exit.  The remaining submitter has raised concern that the exit driveway has poor visibility to pedestrians passing by, school children, aged persons, that sort of thing on the footpath. I've dealt with this in my evidence. I don't need to go through that again. But just to summarise, I believe that there is ample visibility there. The exit is very narrow. It's going to be no more than  any typical residential driveway, easy to pedestrians to cross. And I do not see any issues with pedestrian safety at that point. You've also heard that staff will be encouraged to park within the site along that side boundary. That will reduce the turnover of parking that's closest to the boundary.  That should assist with the noise and distraction issues relating to the neighbour that's there. I've read through the council officer's report. I agree with everything that's related to traffic and that are the conclusions in that report. I've looked at the conditions relating to traffic and parking and their conditions 20 through 23. I agree with those conditions too. I have nothing more to add to that. I'm happy to answer any questions.",
+    "speaker": "lanconstabletra",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "agree",
+      "reassure_stakeholders",
+      "report_back"
+    ]
+  },
+  {
+    "start": 1922.302,
+    "end": 1932.227,
+    "text": " Any questions there from my committee members? Nope. Okay, thank you very much for your report, Ian. Thank you.",
+    "speaker": "marcusgower",
+    "tags": [
+      "ask_question",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 1933.228,
+    "end": 1941.112,
+    "text": "Thank you. I'd just like to ask Mr. Allerton, the acoustic specialist, to provide his summary and answer any questions.",
+    "speaker": "tracyhayson",
+    "tags": [
+      "assign_action",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 1943.213,
+    "end": 1990.356,
+    "text": "Good morning, everyone. I just thought I'd quickly recap the conclusion from my evidence, which, in effect,  the proposed conditions from the consenting officer are encouraged, maybe with a few small tweaks and maybe just the addition of a condition regarding a double check at building consent stage with regard to the mechanical services plant. So, I think that's all I have to say. Thank you.  But other than that, I think you've all read my evidence. So, if there's any questions, I'm happy to answer those. Greg Morgan Yeah.",
+    "speaker": "damianellerton",
+    "tags": [
+      "summarize_outcome",
+      "provide_information",
+      "policy_proposal",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1991.056,
+    "end": 1994.099,
+    "text": "Councillor, thank you. Councillor Angela Calderon Yeah, thanks.",
+    "speaker": "marcusgower",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1994.259,
+    "end": 2055.216,
+    "text": "Thanks very much. Damien, the question I had was about the background noise that is obviously caused  by the proximity, you know, to Hamilton Road. Because your evidence didn't take that into account. You know, you assessed whether or not it was really the cars parking and doors shutting and things like that. And perhaps the plant would comply with the rules in the district plan.  I just wondered if I could get your opinion on whether or not the ambient noise, you know, the background noise from that traffic flow is probably going to be the dominant sort of effect, I guess, that really, yeah, it's just that you didn't, I didn't know whether or not you took some measurements when you actually did your site visit in preparation of doing your report. If you could give some comments on the level of noise from that traffic.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 2056.093,
+    "end": 2171.584,
+    "text": " So certainly, in terms of this type of activity, a desktop assessment's easy enough to do, because it's a very straightforward sort of proposal with car movements around car parks and so forth. So the first step is really, the first question is, can you comply with the district plan? Because the district plan sets noise limits that protect amenity, and if you can comply with the district plan, it's almost a case of you don't necessarily have to go any further.  assessing the effects, because we're not borderline or we're not looking like we have to rely on the ambient noise. So, that's why we stayed silent on that part, and perhaps I should have elaborated in the section 92 with regard to that. But I can certainly comment on it now. Hamilton Road traffic volumes, I believe, is something like 11,000 vehicles per day.  So, I'd anticipate noise levels at the house nearest, so 23 Hamilton Road, you know, you'd expect noise levels of mid-60s all day long, just from traffic passing by. So, you know, we're talking sort of around 65, which I don't know if that sounds like a lot. It's just sort of fairly constant stream of traffic along Hamilton Road, entering and  exiting Cambridge? Certainly as you go back to the south side of the site, you'd still have noise levels of perhaps early 60s, maybe late 50s. So already, you know, you're talking about 60 decibels down at the property on Hall Street. So again, just 11,000 vehicles per day pass along Hamilton Road is not insignificant.  So you're absolutely right that the ambient noise will be the dominant noise source in the area. It won't be the site activity and it won't be anything to do with the proposal.",
+    "speaker": "damianellerton",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "evaluate_option",
+      "cite_reference"
+    ]
+  },
+  {
+    "start": 2174.185,
+    "end": 2175.986,
+    "text": "Thanks very much. That's really helpful.",
+    "speaker": "clairestpierre",
+    "tags": []
+  },
+  {
+    "start": 2179.128,
+    "end": 2183.69,
+    "text": "Alrighty, Tracy.",
+    "speaker": "marcusgower",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2185.011,
+    "end": 2209.798,
+    "text": "I have a question, please.  I'm just looking at, kia ora Damien, I'm just looking at the conditions, the suggested conditions, and we talk about car park formation and also number 23, which talks about the pavement design and the treatment, the surface treatment. Are they low noise? Are they designed for the low noise as well?",
+    "speaker": "potodavies",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 2210.558,
+    "end": 2239.759,
+    "text": "Yeah, so really,  sometimes it's just stating the obvious. With the new development, most people put in a bitumen surface or maybe a bit of concrete, and it's really just ensuring we don't end up with a coarse chip. And I'm sure Alistair wouldn't do that, but you know, a coarse chip gravel driveway. So it's just making it really crystal clear what the expectations, but yeah, certainly the smooth surface without ruts and potholes is desirable to minimise the noise.",
+    "speaker": "damianellerton",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "express_concern",
+      "state_opinion",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 2240.54,
+    "end": 2240.86,
+    "text": "Thank you.",
+    "speaker": "potodavies",
+    "tags": []
+  },
+  {
+    "start": 2248.833,
+    "end": 2254.775,
+    "text": " There's no more questions for Mr. Allerton. We can move on to Ms. Hopping, Urban Design and Landscape.",
+    "speaker": "tracyhayson",
+    "tags": [
+      "procedural_move",
+      "confirm_next_step",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 2255.555,
+    "end": 2256.155,
+    "text": "Yep, great.",
+    "speaker": "marcusgower",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 2259.496,
+    "end": 2361.471,
+    "text": "Good morning, everyone. I'm Andrea Hopping, Director and Landscape Architect at Tolaga Group Landscape Design. And my evidence in chief was based on the urban design report and plans that I completed as part of this resource consent application.  So in order to assess the visual and landscaping effects of the proposal, I considered the visual catchment and viewing audience from the four sides of the site. The characteristics of these are described in my evidence in chief in order to provide a context of my visual assessment and landscape assessment. So the proposal has been well described and there are several mitigation measures that have been incorporated within the proposal  for a successful integration into this unique setting. And these have also been described in detail in my evidence in chief. Careful and appropriate building selection, context analysis, site design, combined with adopting urban design principles during the design process, add positively to the character, amenity, and wider urban environment. And I'll run through some of the predominant urban  design principles that we've adopted in this situation. So specifically in regard to site composition with location, the building, the car park and associated landscaping. The car park is located in the eastern portion of behind the building. So the landscape mitigation has been designed to conceal it partially from the street so that doesn't visually dominate the site.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "cite_reference",
+      "state_opinion",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 2362.357,
+    "end": 2369.8,
+    "text": " Would it be handy if we had the landscape plan up on the screen? Yes, actually, that'd be great if you can.",
+    "speaker": "marcusgower",
+    "tags": [
+      "ask_question",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 2369.82,
+    "end": 2370.96,
+    "text": "I can, oh, you've got it?",
+    "speaker": "Unknown",
+    "tags": [
+      "assign_action",
+      "ask_question",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 2371.48,
+    "end": 2378.823,
+    "text": "No, it's all right. Sam, we'll just bring that up for you in a moment. Right, there we go. Is that the one that you're after?",
+    "speaker": "marcusgower",
+    "tags": [
+      "ask_question",
+      "confirm_next_step",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2379.604,
+    "end": 2388.927,
+    "text": "No, it's probably the last, the third to last page in that set. Next one, perfect.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2390.728,
+    "end": 2391.268,
+    "text": "Great, thanks, Sam.",
+    "speaker": "marcusgower",
+    "tags": []
+  },
+  {
+    "start": 2392.517,
+    "end": 2414.324,
+    "text": " Sorry, can I just say that that's the original plan, that's not the amended design that was submitted with our evidence. Have you got a copy of that? It was appendix one to my witness statement and also appended to Ms. Hopping's evidence. I can share that if it's easier. I can share it too.",
+    "speaker": "tracyhayson",
+    "tags": [
+      "clarify_point",
+      "ask_question",
+      "provide_information",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 2415.184,
+    "end": 2417.105,
+    "text": "Okay, oh yeah, maybe if you could Tracy.",
+    "speaker": "marcusgower",
+    "tags": [
+      "assign_action"
+    ]
+  },
+  {
+    "start": 2418.555,
+    "end": 2425.317,
+    "text": " Or, Ms. Hopping, do you want to share yours and then you'll just bring up the landscape? Hang on, I can't see the share tab.",
+    "speaker": "tracyhayson",
+    "tags": [
+      "ask_question",
+      "assign_action",
+      "procedural_move",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 2425.337,
+    "end": 2439.64,
+    "text": "Sorry, I just released CNN. And sharing, hopefully. Can everyone see this?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2440.961,
+    "end": 2441.141,
+    "text": "Yep.",
+    "speaker": "Unknown",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 2441.961,
+    "end": 2767.038,
+    "text": "Great. Too many screens on.  So, just to reiterate, the building is in front of the car park and the car park is on the eastern portion. So, it helps sort of screen the car parking from the main corner on Hamilton Hall Street corner and ensures that it doesn't become visually dominant on the site. And creating a permeable  Interactive street boundaries, the building is sited inside the boundary and sits parallel to the street and property lines, as you can see along here. Windows facing the street, street footpath network provide engaging active street frontages whilst maximising safety on and off the site.  And what we've done is removed the 1.8 high solid fences along both street boundaries and replaced them with lower layered amenity planting to provide a more human street scale interface. The vehicle and pedestrian accesses off Hamilton Road are flanked with planting to ensure visibility and convenience. And we maintain that the signage on site will be relatively discreet.  So the overall landscaping treatment is to maintain clear sight lines between the vehicles and pedestrians and provide shade, improve amenity and assist with the visual screening in and around this car park specifically. Accessibility is for all users with clear, safe pedestrian routes to the main entrance. And I consider that the aspects of the design from a landscaper visual perspective ensure the appraisal  does not generate significant adverse landscape or visual effects on the publicly available catchment and viewing audiences surrounding the site. The materials, the forms, the plant species enable the proposal to sit comfortably within the existing residential suburban environment and wider public views will not be significantly affected. If you would like, I could continue on to residential character as it's quite,  a strong point, but it has been well covered in my evidence. The residential character of the site is influenced by its location along Hamilton Road, which is in state, but it's a major arterial road and also by existing surrounding residential and commercial activity.  including the Cambridge Muse Motel, which is in the northwest corner of the site, all of which contribute to the unique character of the immediate local area. The commercial nature of the proposal is of an appropriate scale and is not out of character given this receiving environment. And as previously mentioned, the proposal is not significantly changing the residential character. The design is responding to the site and its context  with the residential character within in terms of architecture and extent of residential and scale planting to provide a positive amenity. Landscaping treatment within the building setbacks responds well to the existing streetscape, allowing the bulk and the location of the building to blend in to the suburban environment. From an urban design perspective, I consider this proposal achieves a more engaging street front for the benefit of the local residents.  within the community and public safety. And in regard to visual amenity, it's in my view that the amenity planting provided within the car park helps break up the hardscape into smaller, visually discrete parking bays, whilst providing the neighbours a bit more buffering. The visual width of the car park along Hamilton Road frontage is also minimised through planting evergreen hedges on either side of the entrance.  So as you can see here, this hedge along this side of the entrance, and there's another one underneath here, are proposed to be 1.5. So it really narrows the entrance so it's not as wide as the whole car park width. I've read all and reviewed the landscape conditions and I can confirm I'm happy with them as proposed.  And I'd like to conclude by saying I agree with Simone Williams' report and that the site is located in a unique localised changing environment where appropriately scaled commercial development on the site is appropriate and not out of character. And from the perspective of landscape residential character and visual amenity and urban design, the proposal incorporates a number of considerations and elements to ensure the development sits well here.  and contributes positive to the surrounding community. Thank you, and I'm happy to answer any questions.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "agree",
+      "cite_reference",
+      "report_back",
+      "reassure_stakeholders",
+      "community_reference",
+      "public_address"
+    ]
+  },
+  {
+    "start": 2769.039,
+    "end": 2783.132,
+    "text": "Great. Is there any questions from my fellow colleagues? No? Okay. Thanks very much for that. Cheers.",
+    "speaker": "marcusgower",
+    "tags": [
+      "ask_question",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 2784.584,
+    "end": 2819.112,
+    "text": " if there's any more technical questions around the building or relocation, which they'd be happy to answer now. Is there any questions for those parties? No. OK. Thank you. Thank you. Thank you. Thank you. Thank you.  But that concludes our witness evidence. Thank you. Awesome.",
+    "speaker": "tracyhayson",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 2819.912,
+    "end": 2839.444,
+    "text": "So the time is 10.50. I'm just wondering, do we want to take a 10 minute break or is everybody happy just to carry on through? Yep. All right. We'll just carry on through then. Cool. Thank you for that. So can we have the applicants now?",
+    "speaker": "marcusgower",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 2843.623,
+    "end": 2847.004,
+    "text": " That's Dr. Patrick. That was a double up, I think.",
+    "speaker": "tracyhayson",
+    "tags": [
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 2847.784,
+    "end": 2871.455,
+    "text": "No, that's fine. So we have the submitters in opposition now. So we only have the submission from Janet Murtag to go through. Sam, do you want to bring that up on the screen maybe and share, and we can flick through that? Or do you want to read through that one?",
+    "speaker": "marcusgower",
+    "tags": [
+      "assign_action",
+      "ask_question",
+      "confirm_next_step",
+      "procedural_move",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 2874.626,
+    "end": 2877.147,
+    "text": " Yep, happy to share if you could just give me a couple of seconds.",
+    "speaker": "Unknown",
+    "tags": []
+  },
+  {
+    "start": 2877.508,
+    "end": 3008.873,
+    "text": "Yep, no worries. I apologise for the not smooth sailing of the meeting. It's you doing this fine, Sue.  Would it help, Sam, if we come back in five minutes, maybe? All right, let's go.",
+    "speaker": "marcusgower",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "reassure_stakeholders",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 3012.134,
+    "end": 3016.236,
+    "text": "Just need to know what page, sorry. I'm on the agenda.",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3018.417,
+    "end": 3018.877,
+    "text": "Page 319, Sam.",
+    "speaker": "potodavies",
+    "tags": [
+      "procedural_move",
+      "cite_reference"
+    ]
+  },
+  {
+    "start": 3039.373,
+    "end": 3047.276,
+    "text": " Great. Do you just want to read that out for us, Sam, so we can hear this?",
+    "speaker": "marcusgower",
+    "tags": [
+      "ask_question",
+      "assign_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3056.139,
+    "end": 3099.365,
+    "text": "Yes, I'll just start from the start. This submission is made by Janet Merrimurta on 27 Wall Street, Cambridge. One. The proposed building is a non-compulsory  Applying activity in a Cambridge residential character area. This does not fit the council's criterion for development. Two, egress onto Hall Street. Hamilton Road is a difficult street to turn right onto, thus most traffic is likely to turn left into Hall Street. Three, the path will be over a busy footpath which is regularly used by school children, walkers, people on bikes and scooters.  Residents from West Haven also walk in Hawke Street and motorized wheelchairs are regularly seen.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "express_concern",
+      "state_opinion",
+      "community_reference",
+      "equity_reference",
+      "public_address"
+    ]
+  },
+  {
+    "start": 3100.986,
+    "end": 3111.329,
+    "text": "Four, the egress is directly along the boundary of my big lawn, thus there would be noise from cars and service vehicles and increasing distance generally.",
+    "speaker": "potodavies",
+    "tags": [
+      "express_concern"
+    ]
+  },
+  {
+    "start": 3112.39,
+    "end": 3148.578,
+    "text": "Five, the proposed building has a setback of only four meters. The standard is 7.5 meters. Six,  There will be reduced visibility for vehicles entering Hall Street with a high fence on the left in the building 254. I am unsure of the effect on my sunshine and humidity due to the elevation. Seven, relative to the likely change to Hall Street, a general notification is expected. Dictated by Janet Muta. Great, thanks for that, Sam.",
+    "speaker": "Unknown",
+    "tags": [
+      "express_concern",
+      "provide_information",
+      "community_reference",
+      "report_back"
+    ]
+  },
+  {
+    "start": 3153.423,
+    "end": 3172.058,
+    "text": " So that is the only submitter in opposition that we have today. So over to you now, Simone, for your report, please. Sorry, hang on.",
+    "speaker": "marcusgower",
+    "tags": [
+      "summarize_outcome",
+      "assign_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3172.158,
+    "end": 3421.263,
+    "text": "If you don't mind, I'm just having a moment.  All right. Do you mind sharing that submission again on the screen? Yes, we'll do. Thank you.  Okay, so the first matter of the submission relates to the non-compliant activity relating to the residential, Cambridge residential character area. As stated in my section 42a report, the site is noted to be within two character streets being both Hamilton Road and 4th Street.  and the second notation for character status is it being located within the Cambridge residential character area. So in terms of the district plan, neither pertain to a certain design or building. Essentially the character street status requires a greater setback from both road frontages  and the Cambridge residential character area provides a greater density of building for subdivision. So the proposal itself does not meet the character street setbacks, but in my report and my assessment of effects,  I consider that the landscaping treatment blends the activity of the building into the surrounding suburban landscape and environment. So then in terms of the egress onto Hall Street, I feel,  Council's Development Engineer Tony Coutts has addressed this in his report. And also the applicants, the applicants, sorry, engineer has also responded to this.  and most of those points too. So those are the majority in terms of grouping those submission points. I feel like they've all been addressed through either the applicant's evidence or in my section 42a report and my assessment of environmental effects. Is there any questions?",
+    "speaker": "simonewilliams",
+    "tags": [
+      "provide_information",
+      "cite_reference",
+      "summarize_outcome",
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 3425.884,
+    "end": 3462.614,
+    "text": "Any questions?  no okay no just uh yeah please carry on with this one oh i um  Sorry, you're muted, Simone.",
+    "speaker": "marcusgower",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 3463.555,
+    "end": 3714.442,
+    "text": "I apologize. OK, so do you want me to run through my statement? Sorry, I don't have the proceeding document, the document for which this hearing is the order of events. Are we at the point of my reply? Correct. Sorry, I apologize. That's all right. No worries. OK.  So, I'd just like to acknowledge the applicant for presenting the information in accordance with the Section 42A report. Council have obviously undertaken a planning assessment for the establishment of the specialist gastroenterology clinic located at 21 Hamilton Road. In my Section 42A report, an assessment of the proposal against subjects and policies of the district plan is included in the consent application.  and in section 11 of my report, my assessment is considered the proposals fit in with the objects and policies of the residential zone and the district-wide transportation sections. Overall, this assessment has concluded that the commercial nature aspect of the proposal does not give rise to conflict within the residential zone or transportation objects and policies of the plan.  In terms of its activity status and compliance, the performance standards of the plan, the proposal's deemed a non-compliant activity due to the nature of the activity being a medical centre and some performance standards relating to the residential zone. So sorry.  An assessment of environmental effects is included in my section 11 of my report. This assessment is considered the perimeter baseline in the receiving environment and effects of the activity with respect to the visual and residential character and amenity, noise and traffic, parking, infrastructure and positive effects. Based on the technical reports submitted with the application and the submissions received,  the further information provided by the applicant, advice from council staff, and my assessment, the overall conclusion I reach is that the actual potential effects on the environment should be, should consent be granted, will be no more than minor. Based on the conclusion of my assessment and the schedule of suggested conditions, should consent be granted, were provided in section, sorry, appendix seven on my report.  In regard to the amended landscaping treatment along the site's eastern boundary, I support the proposed changes to increase the landscaping treatment. And then in response to the acoustic evidence presented for which Mr. Alderton recommends an additional wording to a car parking condition to encourage staff to park as close as possible to the eastern internal boundary, this will help minimise  movement of vehicles in these positions. Mr. Allerton also recommends an additional noise condition to confirm that all operational mechanical services associated with the site will comply with the Wipers District Council noise limits at all times. I'm happy with these recommended changes. And then also in response to the changes sent from the applicant this morning to  many conditions. There is no real planning consequence to these changes and I support those recommended changes. That concludes my summary. Greg Morgan Thank you for that.",
+    "speaker": "simonewilliams",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "summarize_outcome",
+      "state_opinion",
+      "agree",
+      "evaluate_option"
+    ]
+  },
+  {
+    "start": 3714.462,
+    "end": 3729.736,
+    "text": "Is there any questions for Simone on her report? Nope. Okay, that's great.  So we'll go back to you now, Tracy, for your right of reply, please.",
+    "speaker": "marcusgower",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 3731.097,
+    "end": 4036.132,
+    "text": "Sure. Thank you. I'll just reiterate a couple of the points that were made and then provide a short conclusion. So you've heard from Dr. Patrick that there's a real need in this community for specialist gastroenterology services.  and that that's gonna assist the rolling out of the National Bowel Screening Program in your community. And that there are some fairly unique characteristics required for a site location. So this activity is not well suited to a typical commercial zone location, and that's why a residential location like this has been sought.  Essentially, this activity will look like a residential dwelling. It's a beautiful villa. It's going to have extensive landscaping, which, in my opinion, will provide a positive contribution to the streetscape. The existing site has a solid fence along both street front boundaries and, in my view, provides no connection to that streetscape immunity, and this will dramatically improve that.  So really, it's just the car parking area that, from a visual point of view, is not what you'd typically expect in a residential environment. And you've heard from Ms. Hopping how that has been mitigated through some carefully designed landscape treatment, both in terms of larger trees that will provide some canopy cover, and also treatment to the hard surfaces and around that Hamilton Road entry.  So, this is a good outcome for the community and it's able to be operated in a manner that won't create problems for the immediate neighbours or that wider community. In terms of the submission from the owners of 27 Hall Street, I'd just like to address a couple of the points that were made.  I point out that the existing dwelling on the subject site is two-storied and the proposed building is a single story and will be located further away from the boundary. So in effect, we are looking at a reduced dominance and scale through this proposal. It complies with the daylighting requirements, so there's no issue with shading effect.  There's an acoustic fence proposed along the boundary of their property, which Mr. Allerton has stated in his evidence is not actually required for compliance, but it's just an added layer of mitigation and it's a nice to have if you like. And that fence will be treated with landscape planting to provide a softer visual result there for those neighbours. You've also heard from Mr. Constable that the  Access does not pose any safety issues for pedestrians or cyclists on Hall Street. And in fact, this is a very wide street berm and that there's clear visibility for vehicles exiting the site there. In terms of the acoustic matters, just reiterating what you heard from Mr. Allerton, that it is the ambient noise environment that is the dominant acoustic effect here.  and that essentially this activity will not be noticeable in the context of that environment. And I just go further to make the point that for, I think it's 123 hours of the week, this site will be silent. There'll be nothing happening on it.  So it's actually a pretty good neighbor to have. And it's only the 45 hours that it's operating during which the road is busy anyway, that there'll be any activity on site. And furthermore, we now have two residential neighbors on the Hamilton Road side that are happy with the proposal and have withdrawn their submissions.  So just in terms of the planning considerations and to summarise, this is a non-complying activity. It's therefore required to pass one of the gateway tests in the RMA, and that is either that the adverse effects on the environment are no more than minor,  or that the proposal is not contrary to the objectives and policies of the district plan. And in my opinion, and that's supported by Ms. Williams' planning opinion, both of those gateway tests are actually satisfied in this circumstance, and it is appropriate to grant resource consent. Thank you.",
+    "speaker": "tracyhayson",
+    "tags": [
+      "provide_information",
+      "summarize_outcome",
+      "state_opinion",
+      "reassure_stakeholders",
+      "community_reference",
+      "persuasion_attempt",
+      "cite_reference",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 4037.713,
+    "end": 4044.638,
+    "text": "I'm just wondering, Tracey, we have the amended conditions available to share on the screen, if you would like to go through those at all.",
+    "speaker": "marcusgower",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "provide_information",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 4045.774,
+    "end": 4322.449,
+    "text": " Yes, I can do that and point out the changes. Okay, great.  So just to be clear, these conditions were put together by Ms. Williams as recommended conditions of consent. We made some minor tweaks and these further amendments that you'll see as track changes in the document there have been worked on with the submitters over the last week or so. So the additional condition at number two, the Cambridge Specialist Centre is to operate as a specialist medical centre  gastroenterology clinic bracket only. That just serves to be clear that this is not giving consent to anything other than what's been applied for and that if in the future the gastroenterology clinic moved on that any other activity that wasn't essentially exactly the same would have to apply for a resource consent and those differences in effect would be assessed.  No. 3, the addition is the same. It's just clarifying that. If you move on to the next page. No. 7 is just providing some further confirmation that the acoustic  statement that Mr. Ellerton recommended as a condition of consent is to also include consideration of any exterior air conditioning units, which is standard practice.  Then looking at the acoustic fencing, there's just a tweak to the wording and that's to reflect the changes that were made for submitters where they wanted the ability to have that fence up to two meters. And you've heard from Ms. Williams that that in turn introduced a,  However, you'll be aware that with this agreement with neighbours, you're able to have building on a boundary under the RMA anyway. Number nine is just further clarification that the activity must operate in accordance with the Waiap\u0101 district plan. So, if you look at that, you'll see that there's a building on a boundary.  conditions for noise standards and the recommendations of this consent. Signage, it's just detailing that you may only have two signs that were included in the application, which are just small signs really directing clients to the front door and just showing where the site is located. Onto the next page.  A lighting plan, which was not with the original application, was submitted in our evidence. That condition is just referencing that specific plan and just confirming that there shouldn't be any lighting directed towards neighbours, which is not the case. That's the only change to that page. And only minor tweaks on this page, just also confirming that it's the specialist medical centre  and some detail around crossing construction. You heard the discussion around pavement treatment, that's condition 23 just provided a bit more detail around what needs to be provided with the plans and that will go to council for certification. So there's a second check there as well. Parking spaces per spaces at condition 25,  That's the recommendation that the car parks along the boundary of 23 and 23A Hamilton Street are to be used for staff. And that just means that there's less turnover likely of those car parks and the applicants more than happy with that. And finally, that last condition 26 is around the protection of the street tree. I just worked with the submitters on  some clarification of the wording, but essentially that condition remains unchanged in its intent. No changes from there.",
+    "speaker": "tracyhayson",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "summarize_outcome",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4325.871,
+    "end": 4374.586,
+    "text": "Is there any further questions for Tracey at all? Nope. Okay, great. Well, thank you very much for your reports and attendance today.  We will close hearing now and we'll go into committee and to discuss the application. Yeah. So, thank you very much for your attendance. And I'm sorry it hasn't gone quite as smoothly as normal, but interesting time still. So, yes. So, is there anything further at all that anybody wants to bring up? No? All right. Well, have a good day. And you'll hear from  Council with our decision within 20 working days, Tony? Yeah.",
+    "speaker": "marcusgower",
+    "tags": [
+      "close_discussion",
+      "procedural_move",
+      "confirm_next_step"
+    ]
+  }
+]

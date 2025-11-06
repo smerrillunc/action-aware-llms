@@ -1,0 +1,2467 @@
+[
+  {
+    "start": 1.313,
+    "end": 30.831,
+    "text": " Good morning, everybody. I am calling this special board meeting, which is the second half of our retreat for the Albemarle County School Board on June 26th, 2020 to order. And a couple of points of business before moving on into our agenda. First is a microphone check. And so Mr. Page,",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 32.026,
+    "end": 35.33,
+    "text": " Graham Page, Samuel Mella District. Thank you.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 36.292,
+    "end": 42.74,
+    "text": "Is Mrs. Colson with us? We'll get her when she comes on. Dr. Acuff.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 46.565,
+    "end": 49.088,
+    "text": "Kate Acuff, Jack Jewett District.",
+    "speaker": "kateacuff",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 49.109,
+    "end": 50.47,
+    "text": "Thank you. Ms. Lee.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 53.695,
+    "end": 54.916,
+    "text": "Judy Lee, Rivanna District.",
+    "speaker": "judyle",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 55.797,
+    "end": 57.359,
+    "text": "Thank you. Ms. Osborne.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 58.1,
+    "end": 59.702,
+    "text": "Ellen Osborne, Scottsville District.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 60.644,
+    "end": 67.433,
+    "text": "Mr. Oberg.  Dave Obert Magistrate, Whitehall Magisterial District.",
+    "speaker": "davidoberg",
+    "tags": [
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 68.034,
+    "end": 75.224,
+    "text": "Thank you. My name is John O. Alcaro, and I'm the at-large member of the school board. Dr. Haas.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 75.885,
+    "end": 78.288,
+    "text": "Morning, Matt Haas, superintendent.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 79.289,
+    "end": 80.871,
+    "text": "Thank you. Ms. Collins.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 81.512,
+    "end": 83.315,
+    "text": "Debbie Collins, deputy superintendent.",
+    "speaker": "christinethompso",
+    "tags": [
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 85.478,
+    "end": 86.179,
+    "text": "Dr. Kaiser.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 86.92,
+    "end": 89.303,
+    "text": "Claire Kaiser, assistant superintendent.",
+    "speaker": "clarekeiser",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 89.738,
+    "end": 95.685,
+    "text": " Dr. Hairston. Good morning, Bernard Hairston, Assistant Superintendent. Good morning, and thank you.",
+    "speaker": "bernardhairston",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 96.066,
+    "end": 97.007,
+    "text": "Dr. McLaughlin.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 97.567,
+    "end": 101.332,
+    "text": "Good morning, Pat McLaughlin, Chief of Strategic Planning. Thank you.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 102.073,
+    "end": 124.39,
+    "text": "Dr. Diggs. We will get Dr. Diggs when she comes on. Dr. Diggs is not here today, Chairman Alcaro. Thank you very much. Mr. Jeremiah.  Moving on, Mr. Holden.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "public_addressing",
+      "acknowledge",
+      "logistics_info",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 125.211,
+    "end": 128.275,
+    "text": "KEN HOWARD. Ross Holden, school board attorney. TODD BANDUCCI. Ms. Schmidt.",
+    "speaker": "rossholden",
+    "tags": [
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 129.196,
+    "end": 131.459,
+    "text": "ROSALYNN SCHMIDT. Rosalynn Schmidt, chief operating officer.",
+    "speaker": "judyle",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 131.959,
+    "end": 134.743,
+    "text": "TODD BANDUCCI. Thank you. And Mrs. Kallsen.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "public_addressing",
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 138.828,
+    "end": 140.751,
+    "text": "PATRINA KALLSEN. Patrina Kallsen, Rio de Janeiro.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "public_addressing",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 140.771,
+    "end": 384.505,
+    "text": "TODD BANDUCCI. Thank you.  Next up is some legal comments. I will state for the record and the minutes of this meeting should so reflect that the meeting is being held electronically pursuant to Virginia state law and Albemarle County ordinance because the COVID-19 pandemic makes it impracticable and unsafe to assemble a quorum physically in a single location.  The meeting is being streamed live on the Albemarle County Public Schools website and public comment may be offered through the Zoom waiting room feature in accordance with the school board's current protocol or by written submission. Before moving on, there are two other quick things that I wanna just make note of.  And that is a thank you to all members of the school board. We've had four meetings in this last two weeks. And normally in this month, we have two meetings. And we have two meetings next month instead of the normal one that we have in July. And I'm just very appreciative of that.  I also want to say that I'm very appreciative of Dr. Haas, his cabinet, and his staff for being as accommodating of us as they have been through these four meetings and before. They all have full-time jobs during the days.  and with a heck of a lot going on and moving on right now, but also moving forward through unchartered territories. So I thank you one and all for your work, your patience and your unswerving devotion to what it is that you do. I also wanna take a minute because I did not introduce another member of our  group last week. And that was, I think, because Allison Linney is like family to us. And so we all know her, but I realized that not everybody in the viewing public will know who she is. So Allison is the president and founder of Allison Partners, a consulting firm that's founded with the belief that people are at the core of an organization's success and is based here in Charlottesville.  Ms. Linney has an MBA from the Darden Graduate School of Business at the University of Virginia, and she has worked with government and academic agencies, large public and private healthcare systems, large multi-specialty groups, small group practices, HMOs, providers of healthcare information systems, and occupational medicine services, as well as free health clinics  And she has worked with us and been an important part of our processes over the last five years that I've been on the board. I'm not sure how long you were doing it before, Allison. She was selected as the 2018 Charlotte's fit. Come on. I'm going to do this. Nobody needs to know all this. One last thing, because this one's important too.  She was selected as a 2018 Charlottesville Regional Chamber of Commerce Small Business Person of the Year and serves on a variety of University of Virginia boards and community organizations. So Allison, we're very glad that you're here and now everybody knows who you are. And she's got a cool lightsaber.  So moving on with our first order of business, we need to approve our agenda. May I have a motion to approve the agenda?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "logistics_info",
+      "acknowledge",
+      "public_addressing",
+      "procedural_move",
+      "request_action"
+    ]
+  },
+  {
+    "start": 388.368,
+    "end": 388.929,
+    "text": "So moved.",
+    "speaker": "kateacuff",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 390.15,
+    "end": 404.443,
+    "text": "Second. We have a second. Second. We have a second. OK, thank you. We have a motion to approve the agenda and a second. Ms. Thompson? By any discussion of that. OK, now Ms. Thompson.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move",
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 404.744,
+    "end": 420.74,
+    "text": " Dr. Acuff? Yes. Ms. Coulson? Yes. Ms. Lee? Yes. Mr. Oberg? Mr. Oberg?",
+    "speaker": "christinethompso",
+    "tags": [
+      "vote_call",
+      "public_addressing",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 422.481,
+    "end": 422.702,
+    "text": "Yes.",
+    "speaker": "clarekeiser",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 424.103,
+    "end": 424.884,
+    "text": "Ms. Osborne?",
+    "speaker": "christinethompso",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 425.504,
+    "end": 425.765,
+    "text": "Yes.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 426.846,
+    "end": 427.606,
+    "text": "Mr. Page?",
+    "speaker": "christinethompso",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 428.167,
+    "end": 428.447,
+    "text": "Yes.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 429.308,
+    "end": 430.209,
+    "text": "Chairman Elkaro?",
+    "speaker": "christinethompso",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 430.689,
+    "end": 476.483,
+    "text": "Yes. The motion passes. Thank you all.  Our first order of business this morning is, sorry, I want to get this in front of me, is the 2020-21 school calendar. And I'd like to- Hey, John, do we want a moment of silence? It was not on the calendar, but I think that's a good idea. Thank you, Mr. Oberg. We may take one moment of silence before we start with our agenda.  Thank you, everybody. Dr. McLaughlin, would you lead us off in this?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "vote_call",
+      "procedural_move",
+      "ask_question",
+      "request_action"
+    ]
+  },
+  {
+    "start": 477.585,
+    "end": 559.653,
+    "text": "Absolutely. Thank you, Mr. Alcaro. Good morning, board members. My name is Pat McLaughlin. I'm chief of strategic planning for the school division. And in recent weeks, we've shared with you some updated version of our school calendars. And today, we'd like you to take action by selecting a start date for the 2020-2021 school year.  I'll begin with a quick reminder of our timeline. On June 18, we shared with you the results of our calendar survey, and also shared with you our return to school planning guide, which you spent some time unpacking on the 19th. This week and next, we've been meeting with principals and department leaders about possible scheduling scenarios for next year, and today we'll launch a survey for our families to provide feedback about their plans for next year.  Today, we'd like the board to vote in a start date for the 2020-2021 school year, and at our meeting on July 9th, staff will present an attendance schedule for the year. Based on a number of factors, including teachers' desire for additional preparation time, the results of our calendar survey, and the planning of our school schedules, which are beginning to come into greater focus, staff is recommending that we start school on Tuesday, September 8th.  It's important to note that this year's calendar will need to be somewhat fluid and will likely undergo additional modifications once a return to school scheduling plan has been adopted. For example- Did you stop your presentation?",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "public_addressing",
+      "give_update",
+      "logistics_info",
+      "request_action",
+      "vote_call",
+      "policy_proposal",
+      "clarify"
+    ]
+  },
+  {
+    "start": 559.673,
+    "end": 561.895,
+    "text": "I did, yep. I just had that one slide up there.",
+    "speaker": "christinethompso",
+    "tags": [
+      "acknowledge",
+      "clarify"
+    ]
+  },
+  {
+    "start": 562.356,
+    "end": 640.846,
+    "text": "Yep. Sorry. That's okay. For example, if students are not in school every day and we have a built-in planning and development days for teachers each week, we would not need to delineate these days as non-student days in the calendar like we have in the past.  Students would be accessing school on these days, and we would plan to count them as part of the 180 days of the school year. This would allow us to shift the final day of the school year to an earlier date. Should we enter a phase of recovery during the school year that allows all students to return to school in person, that could also have an impact on the calendar. However, our traditional school breaks, including Thanksgiving, winter, and spring break, would not be changed so that families can make plans for these holidays.  We also realized that each of the September date calendar, September start date calendars that we've shared with the board had the final school day where the Juneteenth holiday would be observed next year. We will not have school on this day for students or staff next year and believe our final day of school would likely be earlier that week with the modifications that we may make to the calendar.  Finally, I wanna let the board know that this week we met with the executive leadership team of the Charlottesville City Schools to share our thinking behind our return to school plan and our updated calendar drafts. We'll meet with them again in coming weeks to discuss the board's decision today as they plan for next year. So if there are any questions prior to taking action, I'll be happy to address them now.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "clarify",
+      "give_update",
+      "logistics_info",
+      "reassure",
+      "follow_up_request",
+      "hedge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 644.07,
+    "end": 654.899,
+    "text": "Patrick.  Were the teachers or teacher reps of AEA involved with the calendar design, with the calendar being formulated?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 655.74,
+    "end": 692.028,
+    "text": "We did not reconvene our ACPS calendar committee for this because of the quick turnaround of getting these calendars in front of folks. But we felt like the survey had pretty significant teacher response to it around, you know, whether it was preferential to move things forward with a start date.  and which calendar was preferred by the teachers. If I could, in advance of going into discussion, may we get a motion and a second and then open it up for as much discussion as we need.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "request_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 693.43,
+    "end": 706.552,
+    "text": "And I'm not gonna suggest a date, but if any of you would like to make a motion and then a second on approving the date  Would you step forward?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 711.52,
+    "end": 717.268,
+    "text": "I move that we have the start date September 8th, 2020. Do we have a second?",
+    "speaker": "davidoberg",
+    "tags": [
+      "procedural_move",
+      "request_action"
+    ]
+  },
+  {
+    "start": 717.849,
+    "end": 722.576,
+    "text": "We have a motion and a second. Discussion. I'm sorry for interrupting, Dr. Aco.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move",
+      "acknowledge",
+      "interrupt_overlap"
+    ]
+  },
+  {
+    "start": 724.118,
+    "end": 741.842,
+    "text": "Dr. McLaughlin, I'm assuming that the calendar is  given that our background level of COVID is the same or better than it is right now. And if we had a resurgence as they are in Arizona, for example, we might reconsider.",
+    "speaker": "kateacuff",
+    "tags": [
+      "clarify",
+      "hedge",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 744.252,
+    "end": 779.982,
+    "text": " I think that's right. So let's take this year for an example. We had to write a waiver to the State Department of Education because we obviously weren't able to meet our 180 school day requirement. We anticipate that we may have to write waivers around any calendar next year based on the return to school plan that's there. So again, I think this calendar will need to be fluid  based on where we are in our recovery, whether things spike and we need to step back from as many kids as we have in school or things get better and we're able to get additional students back in school.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "clarify",
+      "procedural_move",
+      "hedge"
+    ]
+  },
+  {
+    "start": 782.387,
+    "end": 782.747,
+    "text": "Thank you.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 785.032,
+    "end": 788.839,
+    "text": "Did we get any feedback from the Charlottesville City Schools regarding this calendar change?",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 790.068,
+    "end": 806.975,
+    "text": " Yes, so we've been very transparent with the Charlottesville City Schools. I met with Beth Chek, who's a member of their leadership team, when we were first getting ready to present this to the board. And then we also met with their executive leadership team earlier this week.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "reassure",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 809.94,
+    "end": 813.966,
+    "text": "And did we get any feedback from Charlottesville City Schools on the counterchange?",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 814.503,
+    "end": 830.562,
+    "text": " Yes, I certainly don't want to speak for anybody on the Charlottesville City Schools. But I think when we met with them this week, they were going to take another look at their calendar and potentially line up with ours. But I, again, can't say that for certain.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "hedge",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 834.506,
+    "end": 835.608,
+    "text": "Any other discussion?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "follow_up_request",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 836.989,
+    "end": 869.868,
+    "text": "I have some discussion. It's not in the form of a question. But we've talked a lot about COVID slide.  And I know that we're, I mean, I know that we're all trying to get our kids in and teach them and keep them safe and, you know, keep our staff safe. And I know we're all trying to accomplish the same things, but I just, I do have concerns about adding two more weeks to what we already know is an educationally damaging time. So I just want to register that that is a concern for me.",
+    "speaker": "judyle",
+    "tags": [
+      "express_concern",
+      "opinion",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 872.472,
+    "end": 969.271,
+    "text": "We're also adding two weeks to the school year.  So it's not shortening the school year. We'll extend the school year out farther to accomplish that. In addition, we are just at the beginning conversations about years beyond the 2020-21 school year to expand learning opportunities and learning time for our students so that we can truly address the COVID slide after  if and when after the spread of the virus is checked. And I think that would be the ideal time to really take a look. Right now, we believe that we will, by moving to September 8th, we'll be more in alignment with phase three of reopening. And at that point, we'll be able to have greater contact with the students.  be able to have more students at school, to be able to accommodate them. And I think that while there have been some school systems that have come out of the gate project, you know, saying they're going to open in August, many school systems around the state who have waited and have been patient and have been looking at the data from their communities, then all of the segmented groups of our respondents responded in favor  We had how many responses, Pat, close to 5,000? Close to 5,000.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "give_update",
+      "clarify",
+      "policy_proposal",
+      "logistics_info",
+      "reassure"
+    ]
+  },
+  {
+    "start": 969.291,
+    "end": 975.78,
+    "text": "That's pretty much, I can't remember a survey that had more responses than that survey.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "opinion",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 976.321,
+    "end": 1026.492,
+    "text": "So that includes teachers. I think teachers had the highest favoritism toward opening on September 8th. Every segment across our community responded in favor of opening on September 8th.  And I'm, you know, I'm not going to wager. However, I would think that the Charlottesville City Schools is going to move in the direction that the Albemarle County School Board chooses to move.  This would be looking at this for one time, one year. And from my perspective as a superintendent in charge of operations of the school system, this would be the most appropriate calendar to use this year. I mean, I thank you, Matt.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "give_update",
+      "opinion",
+      "policy_proposal",
+      "hedge",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1026.512,
+    "end": 1065.235,
+    "text": "I mean, from my perspective, not only I totally understand the concern we've gotten from some parents that  It seems like just kicking the can down the road that it's a further delay. I really substantively don't believe that that's what we're doing. I think that, you know, for me, it was sealed when we got the letter from the principals saying that, hey, we agree with the September 8th. That's what we want to have happen. When all of your principals combine and say that that's what they need to have happen, from my perspective, that's dispositive.",
+    "speaker": "davidoberg",
+    "tags": [
+      "express_concern",
+      "acknowledge",
+      "disagreeing",
+      "opinion",
+      "reassure"
+    ]
+  },
+  {
+    "start": 1067.729,
+    "end": 1098.41,
+    "text": " And for our teachers, I know that we have received some emails. And I think we received one also replying to this. But there was some reluctance about signing contracts with a lot of things being sort of undetermined. So it was the last letter that we received from HR.  into the teachers so that maybe that problem could be corrected so that the reluctance would be not as great on behalf of our teachers for signing contracts?",
+    "speaker": "grahampaige",
+    "tags": [
+      "request_action",
+      "express_concern",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 1100.272,
+    "end": 1144.26,
+    "text": "This is Claire Kaiser. We sent a letter to our teachers yesterday. We have been able to extend the deadline for those teachers on a continuing contract to allow them to hold off on signing their contract until after the actual schedule is determined.  And from there, we'll work with anybody who is hesitant about signing the contract as well. And I would encourage anybody that's in that position, whether a continuing contract teacher or not, to talk with their principal. And we're developing a series of protocols, questions to go through to determine what the needs are to best help the teachers be able to come in and work.",
+    "speaker": "clarekeiser",
+    "tags": [
+      "give_update",
+      "reassure",
+      "request_action",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 1144.28,
+    "end": 1206.233,
+    "text": "My two cents is that  I don't, I would be for the September 2nd start date. The principal's letter was basically, wanted a delayed start with the 8th being preferable, but we're already, I think the second the delayed start, it's only a week difference and it gives us some more flexibility down the road because we don't know what's going to happen. And I don't think as much as you can prepare for things, I think we're going to run into issues once we start up this. And so for me, the week  is kind of balancing the need to get kids in school and realize that we need them there soon and giving us time to work out some of the quirks while still providing a delayed start. And I think it's a little bit of an unfair categorization, Matt, to say that every segment's in favor of the September 8 start date. We got the data last weekend.  Everyone doesn't know. We don't even know what school is going to look like. Like people are taking that survey, not knowing that we're going to have an online component. So for me, I prefer September 2 because I want to get kids in. I'm appreciative of the fact we need a delay. That's what I think.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "opinion",
+      "prioritization",
+      "express_concern",
+      "disagreeing",
+      "clarify",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1210.682,
+    "end": 1234.191,
+    "text": "Any other discussion?  Okay, and Ms. Coulson, we have a motion on the table for September 8th. If that motion is not passed, would you make a motion for September 2nd? Okay, thank you. Okay, any other discussion? Ms. Thompson.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1236.814,
+    "end": 1243.16,
+    "text": "Yes, this is for the start date of September 8th, 2020. Correct. Dr. Acuff.",
+    "speaker": "christinethompso",
+    "tags": [
+      "acknowledge",
+      "clarify",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1243.94,
+    "end": 1244.481,
+    "text": "Yes.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 1245.254,
+    "end": 1252.503,
+    "text": " Ms. Coulson? No. Ms. Lee? Yes. Mr. Oberg?",
+    "speaker": "christinethompso",
+    "tags": [
+      "vote_call",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1253.545,
+    "end": 1253.805,
+    "text": "Yes.",
+    "speaker": "davidoberg",
+    "tags": [
+      "agreeing"
+    ]
+  },
+  {
+    "start": 1254.866,
+    "end": 1255.647,
+    "text": "Ms. Osborne?",
+    "speaker": "christinethompso",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1256.669,
+    "end": 1256.929,
+    "text": "Yes.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1258.03,
+    "end": 1258.771,
+    "text": "Mr. Page?",
+    "speaker": "christinethompso",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1259.412,
+    "end": 1259.652,
+    "text": "Yes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 1260.634,
+    "end": 1261.495,
+    "text": "Chairman Alcaro?",
+    "speaker": "christinethompso",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1262.356,
+    "end": 1280.821,
+    "text": "Yes. OK, the motion passes. And so that can be announced through the school division when deemed appropriate.  Thank you for your work on this, Dr. McLaughlin, and for everybody else who was working with you on that. Thank you all.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move",
+      "logistics_info",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1280.841,
+    "end": 1284.227,
+    "text": "You did a great job working on that calendar with the city. Thank you.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1287.253,
+    "end": 1296.349,
+    "text": "OK. Next up is the Boys and Girls Club of Central Virginia lease agreement. Dr. Acuff, would you lead us in this conversation?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1297.571,
+    "end": 1407.373,
+    "text": "I'd be happy to.  Chairman Alcaro. I sent a memo to all of you on the school board. And as you know, we entered a wonderful partnership with the Boys and Girls Club about a year and a half ago for them to build a 30,000 square foot facility on the Lambs Lane campus. Because of a variety of reasons, they ended up taking a much less favorable location to build that on.  And since that time, they have shared that the building costs are about $3.5 million more than they had originally contemplated. In addition, they went to the Board of Supervisors to get some help in covering that shortfall. And recently, the Board of Supervisors  said no, that given the revenue stream and budget constraints, they could not do so. So here today, in addition, there are many other advantages to building on the preferred site, which was on the driver's course.  in addition to disturbing less natural area, better drainage and a variety of things. But I would like us I would like to make a motion that we authorize our attorney, Ross Holden, to work with the Boys and Girls Club to move the site to their preferred location, which is currently on our driver's range.  and come back to us either on the 9th or at least by the 16th, understanding that everybody is in tight time constraints.",
+    "speaker": "kateacuff",
+    "tags": [
+      "give_update",
+      "procedural_move",
+      "request_action",
+      "follow_up_request",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 1411.799,
+    "end": 1412.52,
+    "text": "Second that motion.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "procedural_move",
+      "agreeing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1414.863,
+    "end": 1418.547,
+    "text": "Johnno.",
+    "speaker": "kateacuff",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1418.567,
+    "end": 1426.377,
+    "text": "I just realized that I was muted. So we have a motion and we have a second discussion.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1427.774,
+    "end": 1468.864,
+    "text": " I have one item I understand what the reasons for this would be moving to the other site. But, um, I hope that we'll be able to communicate in some type of way with the drivers Ed department at our mouth to let them know.  about the reason for the change, because I think it was pretty important that that driver's range remain where it was for our Miles faculty. So I would really like for some type of communications to be sent to them to explain why the change was made, why the change is being proposed to be made.",
+    "speaker": "grahampaige",
+    "tags": [
+      "request_action",
+      "express_concern",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 1470.967,
+    "end": 1475.652,
+    "text": "I understand that Mr. Elkaro met with Dr. Hairston this week.",
+    "speaker": "kateacuff",
+    "tags": [
+      "give_update",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1476.425,
+    "end": 1484.68,
+    "text": " Oh, and not on that subject. But I would like to",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "interrupt_overlap",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1485.352,
+    "end": 1545.561,
+    "text": " get my wholehearted support. I think if there's any kind of silver lining in this, that is the place where that Boys and Girls Club should be. It's safer for the students to walk there. It's killing, that's probably not, catching two birds with one stone, because we've had a lot of community input about what the LAMS area campus looks like. And I don't know if you guys have driven by the driver's range, but it is  It's got barbed wire around about half of it. I'm not sure what function that serves. And it's a little bit of an eyesore right now. Also, we were presented with a lot of data around the safety records. I know that was Steve Colazar's big concern with the driving range. And the data has shown that students that learn to drive in a parking lot with cones, that learn to drive on roads, have the same safety records. It's just as effective as using a driving range.  It's better for the environment. It saves the county money. It's the way to go, and I'm happy that we're revisiting it.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "opinion",
+      "express_concern",
+      "cite_external_source",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 1550.688,
+    "end": 1551.429,
+    "text": "Other discussion?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 1555.115,
+    "end": 1609.466,
+    "text": "Katrina, my vegan daughter says that the appropriate statement is feeding two birds with one scone.  Yeah. For what it's worth, but my concern about. I I'm I'm okay with the will of the, of the board. On this. I'm not thrilled. With the timing. Because it is, you know,  HAB-Jacques Juilland, Moderator, The Habitat Service:\" It felt if it felt to me and it's not anybody on this board's responsibility, but it felt to me that sort of like wow this came up and now it's a sudden necessity that we act and I don't doubt that it is. HAB-Jacques Juilland, Moderator, The Habitat Service:\" But I you know I just full disclosure, it makes me somewhat uncomfortable that this is sort of like.",
+    "speaker": "davidoberg",
+    "tags": [
+      "express_concern",
+      "conceding",
+      "hedge",
+      "opinion",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1610.768,
+    "end": 1612.491,
+    "text": "HAB-Jacques Juilland, Moderator, The Habitat Service:\" bounced up on us again.",
+    "speaker": "bernardhairston",
+    "tags": [
+      "give_update",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 1616.251,
+    "end": 1639.629,
+    "text": " I agree with what Mr. O'Byrke is saying. And that's everything that's been said still doesn't negate the fact that I would like for, um, the driver's ed department at out mile to be contacted and that they be informed as to why this change is being made since we've already said where it would be. And now we are making a change. So I would like. And they were pretty passionate.",
+    "speaker": "grahampaige",
+    "tags": [
+      "agreeing",
+      "request_action",
+      "follow_up_request",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 1640.27,
+    "end": 1660.496,
+    "text": "As I recall, they were there at the, the, they testified.  And sort of, and now it's sort of like we're doing this. And I'm not, this is not casting a spurs or anybody, but it's being done in a way that they're not able to, to really engage with us on it. So I agree with Graham. We need to at least be clear with them about what took place.",
+    "speaker": "davidoberg",
+    "tags": [
+      "express_concern",
+      "agreeing",
+      "request_action",
+      "clarify",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1661.218,
+    "end": 1840.364,
+    "text": "Well, I, I would support that, but if you recall our process, it,  The drivers range was always the first choice, both of Roslyn Schmidt and the Boys and Girls Club, and in the end, after lengthy. We had a program evaluation done of the drivers and program which found no difference, no, no.  advantage to having the driver's course over what we have at the other schools. We still didn't act. We instead did an RFP that delayed the process by four more months, at which time the Boys and Girls Club was concerned about retaining its funders. So they proposed reluctantly the secondary choice.  I don't know if those of you who have not walked that site behind Jack Jewett, it's a sloping ditch. It's a terrible location. It can physically happen. But as you can see from the list of water drainage and clearing out hiking trails and clearing out woods.  It is a much less good sign. They had hoped until the past six weeks that they could get some of that shortfall in funding from the Board of Supervisors. The Board of Supervisors historically has chipped in in certain kinds of communities.  benefit projects, like the new senior center made a small contribution to that. So there was precedence for that. But they were told unambiguously a couple of weeks ago that they would not get any money, in fact, which is unfortunate, the timetable. But that is what the timetable was. I  This is in my district. I'm, of course, particularly concerned with re-envisioning that whole campus. But I think without denigrating in any way the passion of the driver's ed staff, I think that our program evaluation showed it is the quality of the staffing and the program and not specifically that driver's range.  that makes the Albemarle County Public School Drivers Ed Program exemplary in the state. And, you know, kudos to them. And it's one of those awful situations where you have to choose between two goods. And I choose generally a good that will touch more students. And we have three to five hundred students per year that will be touched by the Boys and Girls Club. And I don't want to have  another year of fundraising delay before they break ground.",
+    "speaker": "kateacuff",
+    "tags": [
+      "give_update",
+      "cite_external_source",
+      "express_concern",
+      "prioritization",
+      "agreeing",
+      "acknowledge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 1842.206,
+    "end": 2022.028,
+    "text": "If I might just make a couple of clarification points in it is that, first of all, and Dr. Acuff, I'm not disagreeing with the vast majority of what you say. I don't know that I would term the other location a terrible location. It was not the preferred first location. And to the RFP process,  if we all remember those of us who were on the board, that that was done because it was the right thing to do. We had not set this out for bids. Mr. Page and I sat on the committee to make that decision from the different vendors, and it was the right thing to do. It was not ideal, and it was not, I think,  No, I would say it was appreciated by the Boys and Girls Club. It was probably a frustration. And I know Mr. Pierce is watching this right now. And I think there was a real frustration on it. But in some ways, the timing of this is fairly propitious because the Boys and Girls Club is going through a change of architect. And they have some other work that they have to be doing in terms of redesign.  And so the timing is actually pretty good for this. I understand that we thought this was put to bed, but at the same time, this timing is not all that bad. Yes, I think, Mr. Page, you moved. Mr. Page, that the department will be contacted  I agree with Dr. Acuff's comments that this is a terrific department, there are terrific people in that department, and the success of the program is largely due to that. I do believe, and this is something that some of you will remember from my comments back when this was all going on, that the roads around Albemarle High School  Jack Hewitt, down to Ivy Creek, and down to Greer, and the parking lots involved could all be a fabulous location for the driver's program. I think we would have to probably build a tower or two in there so that instructors could see where the students were and get guidance from having seen them and they don't lose track of them.  But I don't think that this is something that will, in the long term, damage the overall program, not with Karen running it. She'll make it work.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "clarify",
+      "agreeing",
+      "policy_proposal",
+      "reassure",
+      "opinion",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2022.048,
+    "end": 2092.502,
+    "text": "Mr. Chair, can I speak for just a moment? Of course. I'm a little troubled by what Dr. Acuff indicated.  I'm a little unhappy with the way it was stated. And the reason I'm a little unhappy with the way it was stated is that it seems as if the previous board is being chastised because we didn't do the right thing. And I take a certain exception to that. I think we took a careful analysis and we did what we thought was right.  And I don't remember Dr. Acuff telling us we were terribly wrong at the time. She may have. I just don't remember it. But I do remember that the board was pretty clear on the decision. And it was a decision made in good faith. So to the extent that circumstances change or the Boys and Girls Club is no longer happy or what have you, fine, we can reconsider something. But I don't think it's fair to reconsider it as  I just didn't, I didn't appreciate the tone of the comment.",
+    "speaker": "davidoberg",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "express_concern",
+      "disagreeing",
+      "acknowledge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 2094.244,
+    "end": 2103.433,
+    "text": "I apologize, Mr. Oberg, that is not what I intended. I probably got carried away. Thank you both.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "conceding",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2104.254,
+    "end": 2129.815,
+    "text": "One thing that I should add to that is that this was not, and I can assure everybody here, this is not something that was initiated by the Boys and Girls Club.  the reach was going the other way, not from the school board, but at another level of county management, county governance. Other discussion?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "clarify",
+      "reassure",
+      "follow_up_request",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2132.538,
+    "end": 2501.936,
+    "text": "I would just say I sent a message to Katrina because I said I really appreciated her analogy of the of the birds because I have  My expression I've been using with staff is that what we've been trying to do as a school system, which is something that I think you should always try to do, is if you can have more than one thing for students,  then you should always try to have more than one thing for students. So we have a driving range at Alamo High School that's been there for quite some time. At one time was a crown jewel. Members of the Board of Supervisors during that era, I believe it was constructed in the 60s, 70s, really saw that as quite a feather.  or a jewel in the crown of Albemarle County. In fact, I remember one time Dean Tisdat and I were waiting outside of a community meeting over at Jack Jewett one night and an elderly gentleman came, was coming up. Someone was helping him walk into the community meeting and he wanted to be walked over to look at the driving range because  He was so proud of it that during his era on the Board of Supervisors, he had brought state funding to have that driving range constructed. And I can imagine at one time it really was just a beautiful facility. The reality is it is one of two things that we could have for students. But if we've reached a point with the Boys and Girls Club where  They have they're experiencing a fiscal crunch, and they're not able to complete their facility, then I think that this is, again, my opinion as the person responsible for operating.  the school system, my opinion is that we should shift to the one thing, the one, uh, the one program that's going to be the most impactful, uh, for our youngest students, our most vulnerable students, and often our most marginalized students, because they could have an absolutely beautiful crown jewel of a facility that they could go to for their afterschool program, rather than staying at their  school and having to just do the same kind of things they've been doing with the Boys and Girls Club, which is a lot of, I mean, it's quality, but not as high quality as it could be if they were able to use their own facility, which I would add is also going to be able to be used by our school system when it's not being used by the Boys and Girls Club. And we'll be able to use it as a professional development space. We'll be able to hold meetings there and  I've also started a conversation with James Pierce, his staff, Dara Bonham, Ashby Johnson, and Steve Saunders and Jasmine Fernandez to start having a deep conversation about being more proactive and more community oriented with  our Hispanic students in that community, much like has been done in the Southwood community for the Monticello High School feeder pattern. Because here to four, we've not really had a very concerted and friendly leadership outreach to that community. And I see this facility as a real hotspot for that, to be able to help facilitate that and make that happen.  I am very sorry to see any facility be destroyed or to have another facility put on top of it. But my analogy around the birds is right now, we don't just have one bird. At one point, I felt like we had two birds in the hand and no birds in the bush. Now, I feel like we've  The only thing we're going to be left with is what we had with before is one bird in the hand that is really used by a relatively small minority of our students.  I'm sorry, I've had two students to go through the driver's education program. It's extremely high quality program. And I think they're excellent drivers because of it. I really do. We've got great instructors and Karen Waters Wicks does an amazing job. And she does an amazing job of oversight of all of the high school driver's education programs. So I, and I, this is no takeaway from Karen at all, but we have presented the board with data to show that there's no difference in outcomes.  for the students that use the driving range and those that don't. It serves a very small group of students. And my own children have said that of the several days that they spent in behind the wheel, just a fraction of that was spent in the driving range before they got out on the road because the instructor said, well, you're not going to learn to be a good driver on the road by driving in this range for very long. And I think that's true.  So I know I've just said a lot, but I was one of the people very early on that wanted to go through rigorous steps to make sure that there was a fair and open process to provide after school programming for our students. I feel like the Boys and Girls Club has met that. We have fiercely negotiated with them to have an agreement that's very favorable for the school system, and I think as well as them. And at this juncture,  I don't have a vote, but my preference would be to go with the program that's really going to serve our students that are young and vulnerable, especially in the wake of the COVID-19 learning loss, as Ms. Lee pointed out earlier. So those are my two cents. Thank you, Dr. Haas. Actually, more like a dollar. I'm sorry.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "opinion",
+      "policy_proposal",
+      "prioritization",
+      "give_update",
+      "express_concern",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2503.358,
+    "end": 2514.978,
+    "text": "Thank you, Dr. Haas. Any other discussion? Ms. Thompson?  I lost you in here.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "ask_question",
+      "public_addressing",
+      "clarify"
+    ]
+  },
+  {
+    "start": 2516.319,
+    "end": 2521.024,
+    "text": "Oh, there you are. Wait, did Dr. Harrison have something to say? I'm sorry. Dr. Harrison, were you raising your hand?",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2523.386,
+    "end": 2708.486,
+    "text": "Yes, if it's appropriate. I would like to give my two cents as a representative of the driver's education program, as well the extended day enrichment program, both of which will be affected by this decision, if you all care to hear my position. Please. I would like to.  Thank you. Thank you very much. Well, I have not been a supporter of the program from the beginning, just because it has been one that I have observed with political influences.  That was in the best interest of an organization without strong consideration of what is in the best interest long term long term not short term, but long term for our students and families. So, you know,  Our objective as a school division is to improve the quality of life for all of our students. And so when we talk about a child care service that's inexpensive, it's like low or no cost for our low income families, what are we doing to address the core of the problem as to why they are low income families?  And it boils down to the fact that we have miseducated the parents of the children that we're trying to serve right now. So what are we doing in terms of asking the right questions to make sure that we're not continuing to increase the economic disparities that we have by creating another program? Sure, this program will provide childcare service. Then you have to ask the question, should Albemarle County Public Schools be committed to childcare services? Now, also when we,  We talk about replacing or relocating the driver's education range. We certainly should not make a decision today without determining the cost of a driver's education program and as to whether or not we can afford a new driver's education, replacing a driver's education program before we make this decision. So I think that we have to be very careful when we make these decisions.  simply because we're all about long term impact. And, you know, we are looking at a lot of mistakes that we've made historically, and sometimes we repeat decisions by just  considering how we made decisions in the past. Have we really thought about what we're trying to change in terms of serving some of our low-income families? Have we looked at how many of these children are latchkey kids, or whether or not their parents really need to service? So there are a lot of questions that were presented that were not asked. And I'm just encouraging you all not to jump into making a decision right away, such as removing our driver's education program, considering a new up-to-date  facility without understanding the cost, a deadline, and all of those things before we jump into this decision?",
+    "speaker": "bernardhairston",
+    "tags": [
+      "public_addressing",
+      "express_concern",
+      "opinion",
+      "ask_question",
+      "request_action",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 2709.748,
+    "end": 2863.013,
+    "text": "If I may, since Dr. Hairston is a member of my staff, I think that we have provided more than adequate data to the board to suggest that we absolutely do not need a driving range. There is no need to replace the driving range. I think that it would not be in the best interest of our taxpayers to move forward with a program that is not  the standard program throughout Virginia and is absolutely not necessary with the modern technology that is available in our cars today. Perhaps during a time when there wasn't any kind of safety measures in cars, including not a requirement to wear seatbelts when that driving range was built, we no longer need such a, actually kind of a primitive facility to be used to teach our students to drive.  say that capital dollars need to be spent in some other way. Dr. Hairston was part of the RFP process all the way through. We had him to be part of that. I think his voice has been heard loud and clear, well above all the data that absolutely suggests, not only suggests, but encourages us to have a high quality afterschool program right smack in the northern feeder pattern in the urban ring where we do not have one.  So also there was extensive data around the EDEP program to suggest that it does not serve our most needy children. It is a very expensive program and only recently have we begun to adopt measures to use a lottery for that program. And we were looking to expand enrollment in that program this year, but we can't do that because we don't have the funding to do that.  The Boys and Girls Club will be able to do that probably sooner than we will be able to, and they will, in my opinion, be much more welcoming and open to having those students than we have with our own program. I don't want to refute one of my staff members in a board meeting. However, we have put plenty of data in front of the board to show that that driving range is not necessary, but a high-quality afterschool program that's affordable for our children in the northern feeder pattern  is very essential. And again, as the superintendent, I would also say that Rosalind Schmidt did speak to Dr. Harrison about this change in facilities, I believe last week or the week before, so that he would have time to share that with his staff in the driver's ed program.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "opinion",
+      "policy_proposal",
+      "prioritization",
+      "give_update",
+      "acknowledge",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 2864.528,
+    "end": 2887.887,
+    "text": " And with all due respect, Dr. Haas, the data that you're speaking of was shared with the previous board and they did make a decision regarding the driver's education range, not to replace the driver's education range in lieu of the requested site by the Boys and Girls Club.",
+    "speaker": "bernardhairston",
+    "tags": [
+      "disagreeing",
+      "clarify"
+    ]
+  },
+  {
+    "start": 2888.018,
+    "end": 2929.057,
+    "text": " That was during a time when we had a significantly greater account in terms of funding where we could afford to do both. At this point,  not being able to do both. Again, my recommendation to the board is that we do the one thing that's going to benefit the most students, often our most marginalized students. If you can only do one, I think that anybody outside of our school system looking at this decision making process would say, what in the world? Why did you hold on to that antiquated barbed wire fence?  facility when you could have had a Boys and Girls Club facility on that spot for your children.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "policy_proposal",
+      "prioritization",
+      "opinion",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 2929.858,
+    "end": 2974.405,
+    "text": "And if I may remind the board that we are not voting up and down to approve the move, the change, we are voting to have Mr. Holden and possibly Ms. Schmidt  work with the Boys and Girls Club to see if an agreement can be come to from a legal point of view and an operational point of view. That's the issue that we're looking at today. The follow-up to that would come on or about July 9th if Mr. Holden and Ms. Schmidt are prepared to present to us.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "clarify",
+      "request_action",
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 2976.275,
+    "end": 3010.906,
+    "text": " Just one more addition to what Dr. Haas was saying, the boys and girls programming is not limited to after school programming, nor is it limited to the age group that is in the extended day program.  year-round program for students ages 6 to 18. So it will touch every student on that campus would have access to that program. Well, not our pre-K kids, but the others.",
+    "speaker": "kateacuff",
+    "tags": [
+      "clarify",
+      "logistics_info",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3011.768,
+    "end": 3012.409,
+    "text": "On the question.",
+    "speaker": "davidoberg",
+    "tags": [
+      "clarify"
+    ]
+  },
+  {
+    "start": 3015.233,
+    "end": 3021.503,
+    "text": "Please. I have one point before we get to the question. Out of common courtesy, have",
+    "speaker": "grahampaige",
+    "tags": [
+      "request_action",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3022.63,
+    "end": 3044.487,
+    "text": " It's sort of been hinted at in a way, but have we contacted the driver's ed department at our mile to let them know that this tentative change might happen, because I think out of common curse, courtesy, they should be contacted. Again, as I said earlier, Rosalind Schmidt informed Dr. Harrison and as he pointed out that department is under his purview.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "express_concern",
+      "give_update"
+    ]
+  },
+  {
+    "start": 3045.378,
+    "end": 3056.013,
+    "text": " And I did share that information with Karen Waters-Wicks. She is suffering from pneumonia at this point in time. As well, there was not a lot of time to respond.",
+    "speaker": "bernardhairston",
+    "tags": [
+      "give_update",
+      "express_concern",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 3061.781,
+    "end": 3071.294,
+    "text": "Okay. Okay, so. That question's been called. So we have a motion and we have a second. Ms. Thompson.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move",
+      "vote_call",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3072.836,
+    "end": 3084.003,
+    "text": "Yes, Dr. Acuff.  Yes. Yes. Miss Colson? Yes. Miss Lee? Yes. Mr. Oberg?",
+    "speaker": "christinethompso",
+    "tags": [
+      "vote_call",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3085.184,
+    "end": 3085.424,
+    "text": "No.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "disagreeing"
+    ]
+  },
+  {
+    "start": 3088.147,
+    "end": 3088.908,
+    "text": "Miss Osborne?",
+    "speaker": "christinethompso",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3089.428,
+    "end": 3089.648,
+    "text": "Yes.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3091.951,
+    "end": 3092.771,
+    "text": "Mr. Page?",
+    "speaker": "christinethompso",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3093.612,
+    "end": 3093.852,
+    "text": "Yes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3095.073,
+    "end": 3096.054,
+    "text": "Chairman Alcaro?",
+    "speaker": "christinethompso",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3096.895,
+    "end": 3133.162,
+    "text": "Yes. Thank you, everybody. The motion is passed, and we will move forward and revisit this.  hopefully at the July 9th meeting. Thank you. Next up is our last subject before going into professional development. This is the school resource officer question. Allison, I'm going to ask you to facilitate this and walk us through the process. I look forward to this conversation.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move",
+      "logistics_info",
+      "request_action",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3133.763,
+    "end": 3174.986,
+    "text": "Wonderful. Thank you so much.  So thank you so much to everyone for having me today. I wanted to start by finding out what exactly Jamie and the other members of the staff are going to present to us. We did want to let folks know, especially those who were watching last week, we had really hoped to have Dr. King be a part of our conversation today. Unfortunately, he is still on the mend, but doing well. And we all send Dr. King our best wishes.  Fortunately, we have a wonderful team and a lot of depth. So Jamie has prepared a lot of material in consultation and is ready to share it with us.",
+    "speaker": "allisonlinney",
+    "tags": [
+      "give_update",
+      "reassure",
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3177.051,
+    "end": 3506.318,
+    "text": "Good morning, all. My name is Jamie Gellner, division program evaluator.  So I'll just orient us to our timeline here. And that is that last week, the board made a motion to eliminate the daily presence of school resource officers. And Mr. Holden began drafting a resolution, which we'll look at today. I shared with you a drive, which I'll walk through right now, that has a whole bunch of data. And I'm gonna point out to you our student survey data, our principal anecdotal statements, and the EAB research.  And then Mr. Holden will go through the draft resolution. The next meeting, we can provide more information as requested. If you see things over the next week that you have questions or comments about or raises even new questions, you can send an email to me or Dr. McLaughlin and we'll get the answers for you. And then by July 16th, you may approve the draft resolution.  So here are all the files that I sent you yesterday. I apologize for the problems with the Google share, but I think we've got it figured out. And if you can't access it now, please let me know with an email. The folders have the principal statements in there. Our ACPS local climate surveys, the discipline crime and violence report, which is an annual report to the state.  I put in the related school board policies that may be pertinent to this conversation. There's two that are highlighted that specifically mentioned school resource officers. I put in the research brief from EAB, our independent research firm that we partner with. We've got our state climate surveys, the student survey, and late last night, Chris Gilman sent me the disaggregated results and a summary of the comments. So those are also in there, but they won't be in my slideshow.  Some information about threat assessments are in there. And also we put the draft MOU and the resolution that Mr. Holden drafted.  So for the student survey summary, this shares the link with you here if you want to click on it now. We had over 2,000 responses from our students, which is about a third of the student body that we surveyed. Of note on this slide is just that 40% say they rarely or never saw the SRO at their school, while 35% say they see them daily.  Here is a slide that shows the first question we asked was if they knew the role of the SRO. And then these are the questions that break out the things that our MOU state the role of the SRO is. And you can see the level of agreement or disagreement with their knowledge of each statement. These questions here,  are several of the ones that the board asked to add. A few of them we already had in there. And these you can see, if you look in the folder that I shared with you, all of these are disaggregated by the race and ethnicity question that we asked our students. So you can see the results in there. And I apologize for not having them in the slide. It just was kind of a late night change. For the last questions we asked students, have you had, have you or a friend had an interaction with an SRO?  And so they answered yes or no. And question 10, only the students who answered yes answered question 10 about the interaction itself. With our principal comments, seven of our secondary principals responded to the survey that I sent them. They were generally positive comments, and they were supportive of SROs in schools in some fashion, although many of them gave balanced support.  of the pros and the cons. Some of the positives that came up are that these SROs really do build relationships with students and families. It can be a positive first experience with an officer, and they do use their SRO as a resource in their school on various topics, whether it's law, a liaison with the ACPD, is what that should say, not ACPS, or on their threat assessment team. Things that need improvement  is that there has been some turnover and that can be hard for that relationship building. And there are families and students who are anxious when the school resource officer is around. And you can read all of their comments, their full comments in that drive that I shared with you.",
+    "speaker": "jamiegellner",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "procedural_move",
+      "request_action",
+      "follow_up_request",
+      "clarify"
+    ]
+  },
+  {
+    "start": 3506.378,
+    "end": 3517.628,
+    "text": "EAB is our independent research firm that we partner with, and they were able to pull together some studies pretty quickly for us that show",
+    "speaker": "bernardhairston",
+    "tags": [
+      "cite_external_source",
+      "give_update",
+      "clarify"
+    ]
+  },
+  {
+    "start": 3518.283,
+    "end": 3598.398,
+    "text": " that proponents of school resource officers really have three main claims for the positive nature of SROs in school. But in summary, that evidence is inconclusive. And so anecdotally, some teachers and administrators perceive SROs as beneficial to their safety. And we see that in our Virginia State Climate Survey as well. And we see that in our local climate surveys too. However,  Feelings of safety vary by race in the United States. And one study found that 77% of white students report feeling safer in the presence of school security guards, while only 54% of black students feel that way. EAB goes on to say that arguments against SROs state that they may excessively criminalize student behavior. And the research does confirm this argument. So in those  In those files, and especially in the EAB research report, they give you a few alternatives to SROs in schools, and they give examples of school divisions that have taken measures to have SROs leave their schools. So you can read through those examples. And at this time, I will turn it over to our attorney, Ross Holden.",
+    "speaker": "jamiegellner",
+    "tags": [
+      "cite_external_source",
+      "give_update",
+      "request_action",
+      "defer_to_expert"
+    ]
+  },
+  {
+    "start": 3602.302,
+    "end": 3606.816,
+    "text": "Thank you, Jamie.  Jamie, would you be kind enough to put up the resolution on your screen?",
+    "speaker": "rossholden",
+    "tags": [
+      "request_action",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3608.938,
+    "end": 3609.959,
+    "text": "Sure. Let's see.",
+    "speaker": "jamiegellner",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 3628.234,
+    "end": 3978.552,
+    "text": "Thank you. Good morning, board members. Thank you for your time.  I prepared a resolution, not so much for you today to look at it and decide whether this is how you want to address the situation, but rather to provide some structure for your discussions today. We understand your position about the most recent MOU program.  and want to let you know that we certainly will consider and make our best recommendations for a different program for school security. So there's no magic to this. It's not meant to say this is what we want as a school division.  but rather to give you some food for thought. The most important thing, though, for us, for the superintendent and the cabinet, is that we have some direction to pursue. We've had an SRO program for decades. We don't have an off-the-shelf substitute program. That's gonna require some research, some discussion,  before we can bring back to you recommendations or at least options for you to consider hopefully in the near future. But we do need some time to do that. And this is what this resolution is meant to do, to have the board provide guidance to the superintendent on what we should be looking into. Some of the ideas we had, for instance, are the use to which the draft MOU  that has not been even completed yet with the county, but which addresses many of the issues about which you could express concern. And that is making sure that law enforcement does not intrude on the rights and authority of the school division to handle its own disciplinary matters. The draft MOU also states the goals that  Ms. Gelmer was kind enough to put on the screen, and that is to make sure that all children feel safe and secure so that they can thrive in the school system. But that said, we don't have any preconceived notions. These were some ideas that we thought we would put before you for your consideration, for your change, for your modification.  But at the end of your discussions, what we're asking for is a resolution that will guide our actions going forward to make sure that we are able to come back to you with ideas, with options, with recommendations for your consideration to have some type of school security in the ACPS. I will tell you, one thing that you need to know when you have these discussions is that  The state of Virginia, by law, does not require SRO programs. However, if a school division decides that it does want an SRO program, it must follow the model that's put out by DCJS. Now, I wish I could have given you that today as part of your package, and we'll get that to you as soon as possible. However, the website has had technical difficulties for over a week,  has announced that they've had technical difficulties for over a week and that we are unable to access that. However, to give you a good idea of what it looks like, the draft MOU which you have in your possession does follow that. It goes beyond the MOU. It covers everything that the DCGS model has  But it goes further to delineate the responsibilities clearly between the school division and the police department so that law enforcement and school disciplinary matters are clearly separated. And also to provide some additional, I don't know if responsibilities is the right word, but that the SROs in the schools would have  different roles to play, not just to bring students into the law enforcement arena. In fact, one of the major goals of the draft MOU is to, as much as possible, keep students out of the law enforcement chain and allow the school to resolve its behavioral issues on its own without intervention of law enforcement.  But as I said, those are all ideas for your consideration. And what we would just really appreciate is some very concrete direction from you so that we can go forward and provide you with the information that we hope will allow you to develop a new program for security in our schools.",
+    "speaker": "rossholden",
+    "tags": [
+      "give_update",
+      "request_action",
+      "policy_proposal",
+      "clarify",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 3980.523,
+    "end": 4015.778,
+    "text": " Thank you, Mr Holden, and that that's kind of my hope for this for this session on this topic is that have whatever changes we decide to make or to not make that we Have a decision in terms of on the resolution so that we can move forward with this into the next meeting and following meetings.  Any discussion?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 4024.788,
+    "end": 4042.288,
+    "text": "I know we've got a lot of material that the staff has worked so hard to pull together in the last seven days and there's been some dialogue. So I think, Mr. Chair, do we need a motion to open discussion or can we just begin to have people react to what they've seen?",
+    "speaker": "allisonlinney",
+    "tags": [
+      "acknowledge",
+      "ask_question",
+      "procedural_move",
+      "clarify"
+    ]
+  },
+  {
+    "start": 4044.715,
+    "end": 4058.51,
+    "text": " You know, I don't think that we need to have a motion, because this is more about reaching a consensus and having a formal motion to move forward. And that's my belief. If other people see it differently, please let me know.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "opinion",
+      "procedural_move",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 4060.913,
+    "end": 4074.148,
+    "text": "OK, well, then why don't we just start with whatever school board member would like to speak first. Give me a wave and we'll get started. And come off of, let's see, looking for waves.",
+    "speaker": "allisonlinney",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4075.107,
+    "end": 4219.338,
+    "text": " I want to thank everybody for all the information. I think the information that's been provided, and I spent a long time last night trying to read it, is very informative. It's not necessarily what I would have anticipated in terms of  the number of incidents per school and those sorts of things. I just found that some of those numbers are very odd. It strikes me that despite our intent that police officers not become involved in discipline, it seems to me that they must be because the largest number of incidents involve, and I'm breaking it out as the reports that were done, but defiance,  being inconsiderate, using profanity, all of which do not seem to me the kind of thing that an SRO would be the ideal person to deal with. A defiant student doesn't need a police officer. They need an administrator or a teacher dealing with that. And if the teacher can't deal with it, the administrators deal with that. I don't see where that rises to the level of an SRO.  I was concerned about the numbers at some of the schools. I mean, there's a disparity at the different schools. And so, I mean, I'm more troubled, to be honest with you, I'm more troubled by the SRO program now than I was before. I think the information actually makes me feel worse about it. I don't know how anybody else feels about it, but those numbers concerned me. I also wanted to say that I,  I'm not, and I. I like Judy's. I don't know if anybody else saw it yet. Judy wrote a, wrote a. An amendment that amended the resolution and sent it out this morning. That I think better expresses at least my motion from last week.  I don't think the resolution as it's been proposed to us by staff, and I appreciate everything Ross did, I don't think that reflects what my intention was.",
+    "speaker": "davidoberg",
+    "tags": [
+      "express_concern",
+      "opinion",
+      "disagreeing",
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 4224.564,
+    "end": 4265.983,
+    "text": "I'll hop on real quick. Just the second that I liked Judy's amended resolution with one change, and perhaps y'all won't agree, but  I don't like that we say in light of recent national events, because I feel like a criticism that we're getting about this is that we're just being responsive to something that's a hot ticket item right now, when in reality, we regularly, and we should be routinely evaluating our programs and seeing if they're working the way that we want. That's why we're doing this. It's not because of what's on the news or because of pressure. I agree, Katrina. It's what we should be doing as a responsible board. And so I would take out that bill. But otherwise, I agree with the amended one.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "request_action",
+      "express_concern",
+      "opinion",
+      "agreeing",
+      "clarify"
+    ]
+  },
+  {
+    "start": 4266.942,
+    "end": 4290.537,
+    "text": " Would you like me to share the amended one on the screen for discussion? Or Ms. Lee, perhaps tell me how you'd like to proceed. Sure, that would be great. OK. And we need to do this one instead. Does that look OK to everyone?",
+    "speaker": "allisonlinney",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "defer_to_expert",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4292.491,
+    "end": 4300.504,
+    "text": " Dave, can you point me in the direction of the stats that you were referring to? I was trying to look them up while you, because I didn't see one that was broken down by schools.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "follow_up_request",
+      "clarify"
+    ]
+  },
+  {
+    "start": 4304.731,
+    "end": 4310.221,
+    "text": "It was in the Google Drive.",
+    "speaker": "davidoberg",
+    "tags": [
+      "logistics_info",
+      "clarify"
+    ]
+  },
+  {
+    "start": 4312.885,
+    "end": 4315.309,
+    "text": "I need more guidance than that. I got the Google Drive.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "request_action",
+      "clarify",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 4317.432,
+    "end": 4320.315,
+    "text": " Hold on one second, I'll get you a Google Drive.",
+    "speaker": "allisonlinney",
+    "tags": [
+      "request_action",
+      "logistics_info",
+      "reassure"
+    ]
+  },
+  {
+    "start": 4321.235,
+    "end": 4325.839,
+    "text": "David can share his screen too. Okay.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "request_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4325.919,
+    "end": 4328.962,
+    "text": "Nobody wants to see my screen.",
+    "speaker": "davidoberg",
+    "tags": [
+      "express_concern",
+      "opinion"
+    ]
+  },
+  {
+    "start": 4329.002,
+    "end": 4346.157,
+    "text": "Matt, I knew that was a possibility, but I thought I would help Mr. Overg out because, you know. I'm trying to see if he would share his screen, but. I know what you were doing. Can everyone see the crime violence statistics? One more time.",
+    "speaker": "allisonlinney",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4346.862,
+    "end": 4349.646,
+    "text": " It's not Judith's presentation.",
+    "speaker": "grahampaige",
+    "tags": [
+      "clarify"
+    ]
+  },
+  {
+    "start": 4350.307,
+    "end": 4362.763,
+    "text": "Yeah, that was not mine. Katrina, the data you're looking for is in discipline, crime, violence, state reports. My screen is too small. It's a long thing. Yeah.",
+    "speaker": "judyle",
+    "tags": [
+      "clarify",
+      "give_update",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 4365.547,
+    "end": 4376.481,
+    "text": "Thank you, Judith. OK. So should I move back over to our, do we need the Google Drive still? Or should I move back over to the resolution amended?",
+    "speaker": "allisonlinney",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4376.782,
+    "end": 4415.395,
+    "text": " If you all wouldn't mind, I'm just going to ask Jamie, while you're all looking at the revised resolution, I'm going to ask her to go into her Google Drive and dig up specifically what you all are looking for so that for the people that are watching this, they know what you're talking about. Because they can get into it, too. All the Google Drive is available for the public. Because it was too much to add to the board agenda. It's just too much.  there's the link that anybody can use or should be able to use to get into the drive, because those are all public reports.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "request_action",
+      "logistics_info",
+      "public_addressing",
+      "clarify"
+    ]
+  },
+  {
+    "start": 4416.156,
+    "end": 4433.164,
+    "text": "And Mr. Oberg, just a quick clarification about the discipline crime and violence reports. Were you reading those as if those were all incidents that involved our school resource officers? I can't hear you, Mr. Oberg.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "clarify",
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4436.553,
+    "end": 4446.376,
+    "text": " For the, for the sake of knowledge you can't share somebody else's sharing. I tried, but Dr. McLaughlin yeah that is that and if I misread it I apologize.",
+    "speaker": "davidoberg",
+    "tags": [
+      "acknowledge",
+      "conceding",
+      "hedge"
+    ]
+  },
+  {
+    "start": 4446.797,
+    "end": 4506.141,
+    "text": "So my so Dr. King could probably speak to this a little bit better and again we're sorry that he's unable to join us but I believe.  those discipline crime and violence reports are every incident that's happened in the school. The vast majority of those are handled by school administrators. Those aren't necessarily incidents that involve school resource officers. We provided that report as a state report that we send up each year that gives a total look at what each of our schools looks like in terms of suspensions for alcohol, disruptive behavior, infractions, things like that. Basically any infraction that goes into power school  as a discipline infraction is listed in the discipline crime and violence report, but there's no connection between those and school resource officers being involved with those incidents. If that clarifies. So is there any, is there any, that report would be really helpful to me if it did, if we could make it exist or if it did exist to see how many of these.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "defer_to_expert",
+      "clarify",
+      "give_update",
+      "request_action",
+      "hedge",
+      "follow_up_request",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4506.181,
+    "end": 4509.043,
+    "text": "Yeah, that's what I'm saying.",
+    "speaker": "davidoberg",
+    "tags": [
+      "agreeing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4509.123,
+    "end": 4511.886,
+    "text": "I mean, it's sort of like seeing, I mean, I,",
+    "speaker": "mathewhaas",
+    "tags": [
+      "hedge"
+    ]
+  },
+  {
+    "start": 4512.271,
+    "end": 4521.8,
+    "text": " I, how many discipline matters doesn't concern me nearly as much as how many discipline matters or crime matters involved the SROs. How many interactions? Yeah.",
+    "speaker": "davidoberg",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "prioritization",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 4522.12,
+    "end": 4652.595,
+    "text": "Yeah. And one of the things that, um, we, we have talked to Dr. King about is we do want to report, we want to produce a report for the board specifically on, um, on issues where the school resource officer is involved because, um,  Again, as Dr. McLaughlin just said, it's really just a small fraction of issues that the resource officers might be involved with. In Virginia, there are infractions at the school that are  that are actual criminal offenses that must be reported, just reported to the police department. So for example, if a student is found to be in possession of marijuana with intent to sell, like let's say a student shows up at school with a pound of pot,  and it's all packed up and ready to be sold, plus they've got $200 in their pocket and it's halfway through the day, then likely is that they've been selling marijuana at school. And at that point, we're not to investigate those criminal offenses. We have to, by law, reach out to the police department to have an officer come to the school to speak to the student. Those kinds of issues are  are relatively few and far between in Albemarle County schools. So I think that there are very few instances where there's something known as a school-based arrest. And that's not the case, I think, around the nation. I realize we're not talking about the rest of the country, but  I want, you know, and I only I'm only bringing this up because I want to be sure that the board understands that our, our local police department, the officers that work in the schools are not to and do not get involved with things like what we used to call defiance or disruption or  you know, disrespect or those kinds of things.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "give_update",
+      "clarify",
+      "reassure",
+      "cite_external_source",
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 4652.656,
+    "end": 4661.365,
+    "text": "That's why the report scared me a little, Matt, because I was reading it wrong. It looked like they were exactly doing that. So I apologize for my misunderstanding.",
+    "speaker": "davidoberg",
+    "tags": [
+      "express_concern",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4661.505,
+    "end": 4841.235,
+    "text": "Oh, no, that's not, I don't think that's necessarily your, to take the blame for that. I think we should create a folder that speaks to what the actual content of some of the pieces are. We were just trying to accumulate information.  In fact, I'm glad you brought it up because other board members might have looked at it the same way. The other thing I'll say, and then I'll jump back again, is if the board would remember, Dr. King made a presentation to the board maybe a month ago or so where he was talking about new guidelines around student behavior management.  that Virginia Department of Education has published. And I think it's a relief to everyone. And I think if you remember, the Virginia Department of Education is abandoning discipline reporting codes that have to do with those, what we call discretionary offenses, such as disrespect.  or defiance or disruption of the classroom, those kinds of things, because they are the most disparate in terms of diverse students of color and language being punished for those things. When you look at the data all across the state and in Alamo County schools, black and brown students are most likely to have teacher referrals for  things that are very nebulous and rely a lot upon the individual judgment of the person involved, such as, quote unquote, defiance or disrespect. So Virginia is abandoning those reporting areas to go back to talk about things that, what's the result of it?  If, for example, whether you look at it as defiance or disrespect or whatever, if a student does something that impacts the school climate or impacts the classroom, I don't remember the categories right now, but we'll bring that report back to the board because it's very encouraging.  that Virginia is moving away from things that are so open to just individual biases creeping in about my inability or as a teacher to be culturally responsive and understand where all my students are coming from and how they express themselves. And suddenly I'm labeling a student as disrespectful or defiant and not taking the time to get to know what they need.  So I just wanted to share that. Do you all remember Dr. King making that presentation? Yeah, I was really excited about the whole thing because it's something that has needed to change for a long time in alignment with the things that we're trying to do too.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "give_update",
+      "request_action",
+      "cite_external_source",
+      "opinion",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 4842.582,
+    "end": 4919.48,
+    "text": " If I can share real quick, because I think if, to the extent that any of my colleagues are interested in this or any of the public, my dad always give a very explicit example of that. When my dad was a young teacher in rural Alaska, there was strict rule against wearing hats. And he had a student come in who was a student who sometimes got in trouble and was, you know,  defiant sometimes. And he was wearing his hat and I said, my dad said, you know, you need to take your hat off. He said, I'm sorry, I'm not going to take off my hat. My dad said, no, you're going to take off your hat because that's the rule. And the kid said, I'm not going to, I'm not taking off my hat. And my dad said, we'll come out of the hallway. And they went in the hallway and my father said, you will take off that hat. You're disrespecting me. And the kid said, no, I don't want to take off my hat. So my dad referred him down to the principal's office.  Well, as it turned out, that young man's father had died that morning. And his father had given him the hat in the last couple hours of his life. And so, I mean, my father was like, he wasn't being, that child was not being defiant. That child was desperate for assistance.",
+    "speaker": "davidoberg",
+    "tags": [
+      "public_addressing",
+      "opinion",
+      "express_concern",
+      "hedge"
+    ]
+  },
+  {
+    "start": 4919.5,
+    "end": 4929.602,
+    "text": "Dave, you're muted. I'm sorry, did you hear any of that? The first part.  Okay, but my poor child's father had died. He was not being defiant. He was desperate for support.",
+    "speaker": "allisonlinney",
+    "tags": [
+      "public_addressing",
+      "ask_question",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 4930.123,
+    "end": 4951.868,
+    "text": "Yeah. And my father regretted that to this day that, you know, as a parent, as a teacher, he blew it because instead of trying to find out why, what's what, why is this happening? He just, he laid down the law. And, and I think that's what, what, what we're talking about here is that sometimes defiance is not defiance.",
+    "speaker": "davidoberg",
+    "tags": [
+      "opinion",
+      "express_concern",
+      "hedge"
+    ]
+  },
+  {
+    "start": 4952.489,
+    "end": 4956.313,
+    "text": " It's just we need to get deeper than that. Yeah.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "express_concern",
+      "request_action"
+    ]
+  },
+  {
+    "start": 4957.995,
+    "end": 4982.627,
+    "text": "So I'd love to make sure, and I think whether you got exactly right, Dave, at the beginning about how you read the data, this is exactly the kind of feedback the administration needs to be able to know that that's how it looked and so that they can be ready for July 9th or July 16th.  I'd love to hear from some other school board members. I took the amended resolution down, but I can put it back up. What serves you best?",
+    "speaker": "allisonlinney",
+    "tags": [
+      "follow_up_request",
+      "request_action",
+      "logistics_info",
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4988.975,
+    "end": 4991.339,
+    "text": "I have it printed out.",
+    "speaker": "kateacuff",
+    "tags": [
+      "give_update",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 4993.061,
+    "end": 5004.957,
+    "text": "I think I'm going to put it back up for a second because the public might want to take a look at it. And then tell me who would like to speak next.",
+    "speaker": "allisonlinney",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "request_action",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 5007.586,
+    "end": 5125.652,
+    "text": " I'll chime in real quick, although I guess I've already spoken a little bit. I like that the resolution anticipates that we might be implementing just a different kind of school security. It says different school security initiative because I think parents hear that we want to get rid of police or decrease daily presence of police and think that we're not going to be adequately  making sure that schools are secure. And that's just not true. There's lots of ways that you can have security in schools. I think Albemarle has even done, when I toured Albemarle, when Jesse was still the principal, someone mentioned that they had different securities, like he had higher security there. I'd reached out to some old colleagues of mine who are administrators now. One of them in Atlanta says they do use SROs. They don't keep them.  in the schools, they have a very clear delineated process for when they involve the police. So for like a weapons, if it's a gun, if they find a gun, then they have the police officer involved from the initial stages. But otherwise, they have a very clear checklist that you have to go to before you get to the SRO. And in many cases, he said that SRO is not involved at all until at the very end of the police officer will contact the victim of the crime and see after they've done the  behavioral therapist and all the other stuff, they'll contact the SROs and SRO will contact the victim to see if they want to press charges. So I'm just saying that there's, I don't want the, I like that we have that in there. And that's what the kind of thing I would like to see from the school system is not, we're not going to have this discipline. We're not, we don't care about student safety. It's that we don't, this can be done differently. And in a way that is, in a way that is effective.  That was a lot of talking. I hope that made sense.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "opinion",
+      "reassure",
+      "cite_external_source",
+      "clarify",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 5127.315,
+    "end": 5132.764,
+    "text": "Does another school board member want to chime in?",
+    "speaker": "allisonlinney",
+    "tags": [
+      "ask_question",
+      "request_action"
+    ]
+  },
+  {
+    "start": 5137.471,
+    "end": 5230.838,
+    "text": "I prefer Ross's draft, but if we would go with Judy's, I am  Very concerned about having a drop dead deadline of July 9th when we're asking. We just voted in the earlier part of this hour not to have students back in the buildings until September 8th. So we do have time to do a good job looking at all the background information and give the staff some time to pull together what resources or options we may want to make decisions on.  And secondly, having a later date would permit Nick King who directs that program to participate. And I think just that would be good to be able to question him and get his input on it as well. And just take notice that  We have received a lot of letters on both sides and a significant subset were in favor of keeping the SROs. So I think we need to do, I like the, I thought, and I may well be wrong, but that we had directed, had a resolution motion last time to direct the superintendent and staff to look at the SRO program and consider options.  but not outright getting rid of it as of last meeting. OK.",
+    "speaker": "kateacuff",
+    "tags": [
+      "opinion",
+      "express_concern",
+      "request_action",
+      "acknowledge",
+      "clarify"
+    ]
+  },
+  {
+    "start": 5230.858,
+    "end": 5233.561,
+    "text": "It was my motion, and I believe you're mischaracterizing it.",
+    "speaker": "davidoberg",
+    "tags": [
+      "disagreeing",
+      "clarify"
+    ]
+  },
+  {
+    "start": 5234.182,
+    "end": 5238.227,
+    "text": "Pardon? I'm sorry. It was my motion, and I believe you're mischaracterizing it.",
+    "speaker": "kateacuff",
+    "tags": [
+      "clarify",
+      "disagreeing"
+    ]
+  },
+  {
+    "start": 5238.267,
+    "end": 5239.128,
+    "text": "I believe I was. OK, then.",
+    "speaker": "davidoberg",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 5239.389,
+    "end": 5241.431,
+    "text": "No, I misunderstood it then.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "conceding"
+    ]
+  },
+  {
+    "start": 5242.192,
+    "end": 5254.057,
+    "text": "I think I was pretty clear in my motion that I was directing the superintendent to move towards having a no full time presence of SROs in the schools.  I had to be correct.",
+    "speaker": "davidoberg",
+    "tags": [
+      "clarify",
+      "request_action",
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 5254.418,
+    "end": 5256.46,
+    "text": "I just my recollection.",
+    "speaker": "kateacuff",
+    "tags": [
+      "hedge"
+    ]
+  },
+  {
+    "start": 5257.141,
+    "end": 5274.104,
+    "text": "I'm trying to speak. I believe that my motion indicated that the board was direct and the superintendent to move towards having no full time presence of SROs in the schools. And if I'm misremembering, I would appreciate someone telling me how I'm misremembering it.",
+    "speaker": "davidoberg",
+    "tags": [
+      "follow_up_request",
+      "clarify",
+      "hedge",
+      "interrupt_overlap"
+    ]
+  },
+  {
+    "start": 5275.245,
+    "end": 5280.913,
+    "text": "It's probably I am misremembering. Thank you for clarifying.",
+    "speaker": "kateacuff",
+    "tags": [
+      "hedge",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5281.467,
+    "end": 5286.733,
+    "text": " Chairman Alcaro, I can give you the words to the motion of last.",
+    "speaker": "christinethompso",
+    "tags": [
+      "procedural_move",
+      "clarify"
+    ]
+  },
+  {
+    "start": 5287.114,
+    "end": 5288.415,
+    "text": "Yes, please. Would you? Yes, please.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "request_action",
+      "agreeing",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 5289.076,
+    "end": 5299.748,
+    "text": "The motion was direct administration to provide the school board in a timely manner proposed revisions of the MOU, which eliminates daily presence of the SROs in our schools.",
+    "speaker": "christinethompso",
+    "tags": [
+      "procedural_move",
+      "policy_proposal",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 5301.811,
+    "end": 5306.556,
+    "text": "Thank you, Ms. Thompson.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 5307.537,
+    "end": 5318.952,
+    "text": "I also am OK with moving the date back  Kate and Katrina, I think it's, you made good points about that. I'm happy to move it back.",
+    "speaker": "judyle",
+    "tags": [
+      "agreeing",
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5322.656,
+    "end": 5332.028,
+    "text": "Judy, is there anything else you'd like to add based on, I took us back off the share screen, so now everyone can see us in dialogue. Is there anything else you wanna contribute at this point?",
+    "speaker": "allisonlinney",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 5333.871,
+    "end": 5411.264,
+    "text": "I guess as you know,  shown by my amended draft resolution. I also felt like we had given some good direction at the end of last meeting. So I would like to continue with that. I'm grateful for all the data and research that was pulled together. And again, I know that, you know, we're dealing with back to school and we're dealing with calendar and we're dealing with Boys and Girls Club. We're dealing, I mean,  And then also other things that generally happen in the summer. So I appreciate the work that went into that. I also, I read all the research last night and I found that, you know, the EAB report, which is the only sort of independent component of this was pretty telling that the positive statements were inconclusive. There was inclusive evidence.  to any of the positive statements, and then negative statements had conclusive evidence. So I still, you know, I read that, I read the resolution, and that's how I ended up with the amended draft.",
+    "speaker": "judyle",
+    "tags": [
+      "give_update",
+      "acknowledge",
+      "cite_external_source",
+      "opinion",
+      "clarify"
+    ]
+  },
+  {
+    "start": 5413.186,
+    "end": 5420.094,
+    "text": "Okay, thank you. Other school board members who haven't had a chance to speak? Ellen, thank you.",
+    "speaker": "allisonlinney",
+    "tags": [
+      "acknowledge",
+      "ask_question",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5420.915,
+    "end": 5444.517,
+    "text": "I just want to say how much I appreciate the staff pulling all this together so quickly.  I feel like it was a lot of work, and I just really appreciate that and getting the survey out and getting the results back so kudos to the staff for that. I support Judy's amended resolution. I do think July 9 is is not practical though.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge",
+      "agreeing",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 5445.627,
+    "end": 5457.004,
+    "text": " I support Judith's resolution too, but like Ellen is saying, that date of July 9th probably will not work. So I think we'd have to amend her resolution and change that date.",
+    "speaker": "grahampaige",
+    "tags": [
+      "agreeing",
+      "express_concern",
+      "procedural_move",
+      "request_action"
+    ]
+  },
+  {
+    "start": 5463.312,
+    "end": 5820.841,
+    "text": " Normally I wait to be the last one to speak and I think everybody else may have already spoken. So I just like to jump in and say that, you know, I realize we're still in the fact finding situation. I stand by the vote from last week. Okay, let me just say that right up front. I stand by the vote from last week.  I know Mr. Page at one point you had an interest in the in doing a parent survey. I don't know if you're still interested in doing that as part of the  As part of the program moving forward, I know the school division is ready to move forward when we give them solid direction. And I would agree that July the 9th is going to be too soon. And I regret that I'm probably not going to be part of that next conversation. I got a lot out of the student responses. And I saw that there were.  It was primarily the high schools that responded, which you would expect, with 64%. There were some groups that were overrepresented, the Asian population, the white population, and the Native American population. The representative one was African American population, the underrepresented one  or ones were, well, was the Hispanic population. Two that weren't broken out were disabilities and ESOL. And as I was going back and forth and reading that information, I realized that it would make more sense for me to just look at the disagree and the agree sections, as opposed to the neutral sections, because no matter which way you were looking at it,  if you move the neutral over with the disagree or neutral over with the agree, it totally skewed it because there were a lot who were neutral in that. I thought that was very interesting. I fully agree with Ms. Lee's statement from last week of we have to look at the national information, not just the local.  And I, but I also have to say that I think we have to look at the local and not just the national. So I think it's got to be a blend. And I think that's what we're trying to do. I had a conversation with a senior police official on Wednesday, and she, he told me  that the biggest concern that they had, if we're not, and I understand our motion is not to have a full-time presence. And I think we're all in favor. And please correct me if I'm wrong on this.  you know, that there would be situations in which the SROs could be on campus, whether it's being called or whether it's teaching, you know, being involved with, you know, as was described in the letters from the principals and from the students, that they, you know, sometimes teach. I know that's not the major part of their duty.  But the biggest concern was that if we are only going to have them on a call basis, you know, pick up the phone when we needed a police presence and we call 911, that means that we get the next person in the rotation in that area from the police. And that that person who will be responding to us  may or may not have ever worked in a school environment. And I think there was one example given in the principal's notes about when a, I think they called it a road cop, never heard that expression,  that showed up and it wasn't as good an experience as when SROs who had relationships with students, who had relationships with the principals were the ones who were dealing with situations. So the one thing that I would like to have us consider and perhaps have schools consider is to maintain some kind of a relationship  And I'm not saying full-time on campus, I'm not doing that at all, but with the SROs so that it's a known quantity when we need help. I don't know how to do this, but it's a known entity that comes onto the campus in the northern feeder pattern, the southern feeder pattern, the western feeder pattern.  And they've had experience working in schools. They've had experience working with principals. And I'm not suggesting that the road cop would not be somebody who's trained. I'm not suggesting that they wouldn't be trained in how to handle an emergency. But I think that our environments in our schools are different.  than many of the things that these folks would be used to seeing every day. And I think it would be to our benefit to somehow figure it out so that at least some, if not all of the SROs are the ones who would respond when they're needed.",
+    "speaker": "jonnoalcaro",
+    "tags": []
+  },
+  {
+    "start": 5821.963,
+    "end": 5912.652,
+    "text": "I agree with you, John. I think that that's perfectly consistent with most aspects of the judicial system.  that you have people who are the specialists in their area. So when you have a, you have probation officers, you have probation officers who are specifically geared towards youth, okay? If you have public defenders, you have public defenders and prosecutors who are specifically geared towards youth crimes. And so I think we should absolutely have the relationship  And I think, you know, I think it's very important that we have the and I'm perfectly willing to have the school board compensate the schools that are the police system for training on dealing with school issues and kids. From my perspective, it's not an either or. It's a  I don't need, I don't need police officers stationed within the school. I answer, you know, I doesn't mean you don't have that relationship, but it's the same thing. I mean, I, I fully expect that if there's a real catastrophe, we're going to send Matt into the school to fix it. But Matt's office is downtown. Right. I mean, it's sort of like, or if there's a, if there's a, a, a learning issue, we're going to send in, um,  You know, Debbie, but Debbie's office is downtown. And so it doesn't have to be an always on site person to still have that relationship.",
+    "speaker": "davidoberg",
+    "tags": [
+      "agreeing",
+      "opinion",
+      "policy_proposal",
+      "reassure",
+      "clarify"
+    ]
+  },
+  {
+    "start": 5913.373,
+    "end": 5915.916,
+    "text": "Sure. We're on the same page with that. I agree.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "agreeing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5917.319,
+    "end": 5923.632,
+    "text": "So I'd like to make sure Mr. Page has had a chance. Yeah.  Are we on the same page, Mr. Page?",
+    "speaker": "allisonlinney",
+    "tags": [
+      "request_action",
+      "clarify",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 5923.652,
+    "end": 5940.671,
+    "text": "Right, we are. Okay, I would like to see the parents participate in a survey regarding this situation too, because I was thinking that they had, but I don't think that they have been involved. So probably having a parental survey would be good also.",
+    "speaker": "grahampaige",
+    "tags": [
+      "request_action",
+      "opinion",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 5944.115,
+    "end": 5946.177,
+    "text": "I thought all the parents already emailed us.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "clarify"
+    ]
+  },
+  {
+    "start": 5947.54,
+    "end": 5949.442,
+    "text": " That's true. We did get a huge number.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "agreeing",
+      "give_update"
+    ]
+  },
+  {
+    "start": 5949.622,
+    "end": 5950.943,
+    "text": "That was like 13,000. Yeah.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "give_update",
+      "clarify",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5952.125,
+    "end": 5953.947,
+    "text": "It just felt that way, didn't it? Yeah.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "agreeing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5956.89,
+    "end": 5988.577,
+    "text": "That would be an area I'd be curious to get feedback from. Press the spacebar, but then I get tired of it because I am curious, like we had that one parent write us from Western that said she's supportive of she wants to continue daily presence of police in the Western feeder pattern.  But then I thought, I don't even think we offer that now. We only have one SRO for all the schools in the Western feeder pattern. And I'm wondering where he's at. It's probably the high school, but maybe not. So I'm very curious.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "follow_up_request",
+      "ask_question",
+      "request_action",
+      "express_concern",
+      "clarify"
+    ]
+  },
+  {
+    "start": 5988.817,
+    "end": 6009.938,
+    "text": "There was at least one parent whose children were in an elementary school who'd said she needed the SRO daily in the building. And I didn't reply to her because I think it would be awful.  But you're right, Katrina, there's no elementary school in our school system that has a daily press of an SRO. It's just not.",
+    "speaker": "davidoberg",
+    "tags": [
+      "opinion",
+      "express_concern",
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 6010.379,
+    "end": 6046.424,
+    "text": "Yeah, and I also in my mom's group heard some people expressing, I mean, maybe I'm wondering, an important part of this is conveying things adequately to the public because I heard parents wondering,  You know, they think that we already have a daily police presence. And I don't think we do. Like, we only have five SROs. Your elementary school right now, there is not a police officer monitoring elementary schools. We are not taking that away. Because there were parents that were like, well, yeah, I do want it. And they pull it. But I'm like, it was never there to begin with. I don't think. But I don't know. I'd be.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "express_concern",
+      "clarify",
+      "public_addressing",
+      "opinion"
+    ]
+  },
+  {
+    "start": 6046.485,
+    "end": 6248.511,
+    "text": "You're correct. So there are five. And actually, at one time,  Right around the time I came to the county in 2004, there were more school resource officers than there are now because there was one in each high school and then there was also one in each middle school. And then during the recession, when the local government and the schools lost a significant amount of funding, the SRO program was reduced and it went down to three.  And then over time we added back one so that there would be a school resource officer to be at Murray High School and also kind of work at Burleigh kind of because they're close to each other. And then another one was added not too long ago to be another police officer at Albemarle High School because there are 2,000 students at Albemarle  as opposed to 1,000 at Monticello and at Western. And also, they wanted to be able to have a police officer that could kind of circulate among the elementary schools and middle schools in the Northern feeder pattern without not having one at Albemarle while that person was out and about if they needed to be. I think that for the elementary schools, the most times when police might come to an elementary school is when there's like a heads up  that there's going to be an upset parent that maybe has once a better custody arrangement and can't seem to get it. That's that's typically when I'll hear like you know that a police officer has an SRO has been deployed to go to one of the elementary schools is because a father or a mother or someone has said I'm coming to the school tomorrow and I'm going to take my child whether you stop try to stop me or not. That's typically like how that might come about. But to  to the point that several board members have made, there's not a, in fact, I think one of the things that Dr. Acuff was arguing for was a greater accounting of the police presence at the schools because while they are assigned to be at the high schools, they're often not there because they're in training or because they have other  uh, responsibilities that the police expect them to fulfill. Um, you know, they're not at the school every day. They're not, um, they're sometimes for a good part of the day because they've had to go to court or something like that. And I think one of the ways that, um, that you might rationalize that is because we, we pay for half of a police officer and the County pays for the other half. So,  they're just not going to be there 100% of the time. So that was another thing I think that was sort of holding up our negotiations back and forth with the police department was we wanted greater accounting for the time that the police were in the schools. So anyway, that's just a little bit of perspective.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "give_update",
+      "clarify",
+      "acknowledge",
+      "logistics_info",
+      "express_concern",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6249.172,
+    "end": 6265.526,
+    "text": "Thank you.  So let me do a bit of a time check and find out, would you all, is there any additional guidance you need to provide the staff or ask questions? Are you ready to discuss a resolution? Help me know what you'd like to do next.",
+    "speaker": "allisonlinney",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "follow_up_request",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 6268.13,
+    "end": 6276.403,
+    "text": "Well, I'll put out to people who were interested in a later date on the draft resolution, what date you would like to see on there.",
+    "speaker": "judyle",
+    "tags": [
+      "follow_up_request",
+      "logistics_info",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6282.475,
+    "end": 6304.511,
+    "text": " Miss girl Carol. john oh we can't hear you. Technology good times right everybody.  While you're trying to work that out, John, I'll ask about this. You're back.",
+    "speaker": "allisonlinney",
+    "tags": [
+      "public_addressing",
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6304.992,
+    "end": 6403.405,
+    "text": "Yes. OK. The one other comment that I did, I did want to make on the resolution that Judy did is I had a challenge with and happy to be shot down on this with the last paragraph, starting with resolve that the school board directs the superintendent.  and goes in to examine the draft SRO MOU that's been under negotiation, whether it provides a model for further consideration, explore other security, et cetera, et cetera, is I would like to have that in there because if we are going to develop and maintain a relationship with the police department, we've talked about this, I know before,  that there's going to need to be some memorandum of understanding so that the protocols for dealing with the different schools, the contact people, you know, the layouts and all of that. I somewhat resist abandoning the draft MOU, not because it should be, you know, implemented as is, but so that it could be a starting point  Because there's a lot of good content in there. And there's some things that need to be changed. There are some things that probably need to be omitted. Well, need to be omitted. But I just don't think we should abandon that. And that's what I'm interpreting this draft to say.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "policy_proposal",
+      "express_concern",
+      "clarify",
+      "hedge",
+      "request_action"
+    ]
+  },
+  {
+    "start": 6405.055,
+    "end": 6445.056,
+    "text": " HAB-Michael Leccese, moderator, I think the language that was excluded actually. I think it just, and.  Lawyers will always screw things up. And so I don't want to screw anything up. But I think simple is better. And there was verbiage in here. I mean, I think this actually gives the superintendent greater latitude, but with direction. I don't want to tell the superintendent what he has to do, how he has to do it. I just want him to understand that my goal is this.",
+    "speaker": "davidoberg",
+    "tags": [
+      "opinion",
+      "express_concern",
+      "hedge",
+      "clarify",
+      "reassure"
+    ]
+  },
+  {
+    "start": 6448.641,
+    "end": 6495.664,
+    "text": "I agree with Dave.  with on that. I think there's been a lot of confusion in our conversations about what we really want Matt to do because we had that existing MOU. I don't think taking it out excludes having an MOU. Correct me if I'm wrong, Jonah, but it sounds like what you're saying is we do need to have a memorandum of understanding. I don't think this is saying we're not going to have a memorandum of understanding, just that we need to make, and Judy, maybe you don't want one, but  I like that it's crisp and it gives the direction that this is the end goal we want and that old MOU is not created with those goals in mind. And so they can still use it as a starting point as they move forward. But yeah, I don't read it as saying that we're not going to have an MOU or that they can't use it as a starting point.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "agreeing",
+      "clarify",
+      "express_concern",
+      "reassure",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6495.684,
+    "end": 6530.457,
+    "text": "I'm happy to stand corrected on that. I just want to make sure that they're not precluded.  from using that as a starting point because that's the main thing that I want to make sure of is that that can be used because there is, there's good verbiage on some topics in there that I think would be invaluable to us going forward. So if it's not excluded, then I'm happy to bow to the other members of the board. I think we're good on that one, John.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "conceding",
+      "clarify",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6532.225,
+    "end": 6571.284,
+    "text": " Yeah, I agree. It was not my intent to not have an MOU. When I looked at the MOU, it did. I mean, so much of it has to be changed according to our votes that it didn't. I mean, they can use whatever they would like to, but it just seemed like so much of it hinges on a daily police presence. And that's the one thing that we're asking to remove. So  I mean, I think they're probably, I'm sure there will be an MOU, but again, we're just asking for something to happen and however they want to do it. That's, I feel like that's not really up to us.",
+    "speaker": "judyle",
+    "tags": [
+      "agreeing",
+      "clarify",
+      "conceding",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 6573.307,
+    "end": 6579.298,
+    "text": "Additional direction or questions for the team? Or how would we like to proceed?",
+    "speaker": "allisonlinney",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6579.839,
+    "end": 6585.368,
+    "text": "Allison, we still don't have a date and I would actually defer to Dr. Haas. What date do you think we should use?",
+    "speaker": "davidoberg",
+    "tags": [
+      "defer_to_expert",
+      "ask_question",
+      "request_action",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 6586.377,
+    "end": 6613.836,
+    "text": " Um, I think right now I would, I would like to confer with our, um, with the staff to, to get a better handle on that. So if you, if you all wouldn't, would not mind, um, just giving me the leisure of, uh, being able to talk to the cabinet and, and land on a date, you know, we'll do it with all, uh, deliberate speed. Uh, we will, um, just, I, I just don't feel comfortable speaking for the, for the group right at this moment.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "request_action",
+      "defer_to_expert",
+      "follow_up_request",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6614.153,
+    "end": 6623.257,
+    "text": " I think that's perfectly reasonable, Dr. Haas. And I don't think the intent was that we were going to pass this resolution today anyway, right? Oh, no, no.",
+    "speaker": "davidoberg",
+    "tags": [
+      "agreeing",
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 6623.277,
+    "end": 6713.519,
+    "text": "It was July 9th. Yeah, it was to introduce the concept of a resolution. And I have to say, I'm really  Enjoy the engagement of the board and looking at that and having boards jump in hands on having board members jump in hands on and get involved. This is another area where it could be an exciting opportunity to have a board subcommittee where.  I see that Ms. Lee has a real passion for looking at the resolution and there might be another board member that also shares that. And the two of you could work directly with Ross to continue to influence his crafting of it before it's brought back to the board as a whole.  I'm not saying that has to happen, but there's lots of opportunities throughout the year where there's a particular issue that board members are really passionate about. And there's always the opportunity to form a subcommittee. But in this case, it feels like lots of board members feel comfortable weighing in and providing edits to it. And the last thing I'll say is that we do have several board meetings  So we have a COVID meeting next week, I think. And then we've also got August 9th will be the next time we have a business meeting with the board. So we've got more opportunities.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "policy_proposal",
+      "request_action",
+      "logistics_info",
+      "hedge",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6714.48,
+    "end": 6715.662,
+    "text": "July 9th, right?",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 6716.083,
+    "end": 6719.968,
+    "text": "Yeah, July 9th and July 16th is the other COVID meeting.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "logistics_info",
+      "give_update"
+    ]
+  },
+  {
+    "start": 6720.289,
+    "end": 6726.257,
+    "text": "And then August 9th is the first one in August.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "logistics_info",
+      "clarify"
+    ]
+  },
+  {
+    "start": 6726.625,
+    "end": 6738.764,
+    "text": " So, Mr. Chair, I would propose that we give our typical sort of what is the what is the pleasure of the board and ask that this come back in front of us.",
+    "speaker": "davidoberg",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 6740.707,
+    "end": 6746.395,
+    "text": "I think that makes sense if there's no objection to that, I would say we can come up.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "agreeing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6747.257,
+    "end": 6768.499,
+    "text": "I would like to make sure.  Because I'm not sure whether we are saying that we're going to do this now, whether or not the parents survey would also be involved in the resolution that we now have on the table, whether or not a parent survey could still be done for Dr. Haas in order to bring information back to us.",
+    "speaker": "grahampaige",
+    "tags": [
+      "clarify",
+      "ask_question",
+      "request_action",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 6771.723,
+    "end": 6773.085,
+    "text": "I would be in favor of that.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "agreeing"
+    ]
+  },
+  {
+    "start": 6773.673,
+    "end": 6787.409,
+    "text": " I would really think we would benefit from direction from the board. I would support Graham's suggestion that we have a parent survey as well.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "request_action",
+      "agreeing",
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 6790.793,
+    "end": 6799.663,
+    "text": "Is there anybody else who would be in favor of that? For a parent survey?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 6799.964,
+    "end": 6846.376,
+    "text": " I'm okay with serving the parents because I guess you never want to turn down additional information. But I would caution my only fear with the surveys is that the whole issue that we're looking at is how minorities feeling. And so when you get these surveys, you're going to get a majority response. It seems really positive, like, oh, I mean, I don't know. But you could get a response that's like, oh, most people really like this or I was and how they're doing. But the thing is, we're not asking what most people  experience are. We're focused on a small subset that's like the purpose. And I'm sure we're all aware of that. And I'm fine doing an additional survey. But when I was looking at the data that was presented to us, I just wanted to keep that in mind, that although maybe only 15% had a really negative opinion of the interaction, it's important to break that 15% down.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "express_concern",
+      "opinion",
+      "clarify",
+      "prioritization",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 6846.957,
+    "end": 6877.31,
+    "text": "To me, Katrina, the 15% is maybe our wrong way to approach this. But to me, 15% of our students having a problem,  is far more important to me than 85% not. The people who are most in need are the ones that we need to address. And if it's copacetic for everybody else, then I don't know how desperate their need is.",
+    "speaker": "davidoberg",
+    "tags": [
+      "opinion",
+      "prioritization",
+      "express_concern",
+      "disagreeing"
+    ]
+  },
+  {
+    "start": 6878.311,
+    "end": 6942.721,
+    "text": "Yeah, and I think that's a great point to make is that Dr. Kastner used to say when he was superintendent that  the students and families that we're most likely to help in the work that we do, we may never hear from them. And then, so I think that's a good point. Whenever we look at these surveys, and my staff is well aware that whenever we look at them, there are many limitations to surveying, and so I think  Looking at them as just one piece of a communication puzzle is really the best way to look at them. It's often helpful, but as I tell people, it's not a vote. It's just trying to gain a better perspective than what we might have just by hearing anecdotes. Whenever we say, I mean, we toss around things like 10%, 15%, and it does seem small, but  10% of our students is a school that's bigger than Monticello or bigger than Western.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "acknowledge",
+      "clarify",
+      "reassure",
+      "opinion"
+    ]
+  },
+  {
+    "start": 6943.201,
+    "end": 6945.124,
+    "text": "It's 1300 of our kids.",
+    "speaker": "davidoberg",
+    "tags": [
+      "give_update",
+      "clarify"
+    ]
+  },
+  {
+    "start": 6946.225,
+    "end": 7000.771,
+    "text": "Yeah, that's oftentimes if I look at that, I say, well, that's my achievement gap. That if I've got 500 students that go to school and have a chilling effect of any kind, whether it's by seeing  you know, a confederate image or maybe they're upset because of the presence of some type of adult staff in the school or something that impacts their learning negatively. From a pragmatic standpoint, that's your achievement gap. So these decisions are not just window dressing, you know, changing the name of a school or  of reframing how we look at our interactions with the police department or any of the agencies that come and go from the schools. I really respect the work of the board in this area. Thank you, Dr. Haas.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "express_concern",
+      "clarify",
+      "opinion",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7001.212,
+    "end": 7020.387,
+    "text": "In the interest of time, if I might, in terms of moving forward with Mr. Page's request for a parent survey,  Ms. Lee, Dr. Acoff, Ms. Osborne, do any of you object to that?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "vote_call",
+      "procedural_move",
+      "public_addressing",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 7022.869,
+    "end": 7027.034,
+    "text": "I don't object. I don't object.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "agreeing"
+    ]
+  },
+  {
+    "start": 7027.114,
+    "end": 7059.032,
+    "text": "Okay. Yes, we would like to move forward with that survey, please. Again, in the order and the essence of time or the interest of time,  Are we in agreement as a board about moving forward with Ms. Lee's rewrite with a date to be determined by Dr. Hoffs? Ms. Lee.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "request_action",
+      "vote_call",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 7059.833,
+    "end": 7070.203,
+    "text": "I did want to, I agree with what Ms. Colson was saying about removing the in light of recent events clause. Okay. And that's a change.",
+    "speaker": "judyle",
+    "tags": [
+      "agreeing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7071.567,
+    "end": 7097.782,
+    "text": " Do you, Ms. Lee, would you like to do that edit and then forward it on? And would that be okay with you to do that? I will do. Okay. Are we in agreement with that on a date, with a date to be determined? Yes. Okay. I think we've got a couple of things moving forward. Back to you, Allison. Sorry to jump in there.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "request_action",
+      "ask_question",
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7099.004,
+    "end": 7135.701,
+    "text": "I appreciate the help.  So I think we're done with this topic, but I just want to make sure everybody feels good that we've had the dialogue. This was part two of a discussion that we had last week that for anyone in the public who's watching, that was recorded and available on the website for people to see sort of what the arc of this discussion has been. And now I believe, Mr. Chair, that I'm able to send things back over to you.  for other business before we move into professional development, but anybody interrupt me if I'm missing anything.",
+    "speaker": "allisonlinney",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "logistics_info",
+      "acknowledge",
+      "request_action",
+      "clarify"
+    ]
+  },
+  {
+    "start": 7138.644,
+    "end": 7142.368,
+    "text": "I just hope we're going to take a break. Yes, we will be.",
+    "speaker": "davidoberg",
+    "tags": [
+      "express_concern",
+      "reassure"
+    ]
+  },
+  {
+    "start": 7142.588,
+    "end": 7173.142,
+    "text": "We will be. Okay, and in item 3.0 of other business by board members or the superintendent, is there any other business for this meeting?  Okay, given that that's the case, I will be adjourning the meeting. It is 11 o'clock. And so if we could all, Allison, you take it from there.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 7173.163,
+    "end": 7197.54,
+    "text": "Wonderful. So there is also another link for your professional development to kind of check in on how you all are doing during this time. And so everyone else, I believe, can sign off of this link  We thank the public for being with us, and now we'll go into professional development for the board and the superintendent. Goodbye, everyone. Have a nice day. On the other link, yes.",
+    "speaker": "allisonlinney",
+    "tags": [
+      "logistics_info",
+      "public_addressing",
+      "procedural_move",
+      "request_action",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7197.841,
+    "end": 7198.503,
+    "text": "On the other link.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "clarify",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 7199.085,
+    "end": 7203.077,
+    "text": "Thank you, everybody. Thank you.",
+    "speaker": "allisonlinney",
+    "tags": [
+      "acknowledge"
+    ]
+  }
+]

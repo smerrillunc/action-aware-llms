@@ -1,0 +1,2488 @@
+[
+  {
+    "start": 5.653,
+    "end": 26.408,
+    "text": " All persons have in business before the Honorable Associate Judges, now residing on the District of Columbia Court of Appeals. Draw near and give your attention. God save the United States and this Honorable Court. This Honorable Court is now in session. Please come to order.",
+    "speaker": "kevinbrannon",
+    "tags": [
+      "court_opening"
+    ]
+  },
+  {
+    "start": 28.469,
+    "end": 45.533,
+    "text": "Good morning. Welcome to the virtual sitting of the District of Columbia Court of Appeals.  We have two cases on this morning's calendar. And we will call the first case, United States versus Khalil Pope. Mr. Colbert, you may proceed. Thank you, Your Honor.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "court_opening",
+      "case_call",
+      "court_procedural_remark",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 46.313,
+    "end": 139.318,
+    "text": "Good morning. Matthew Colbert on behalf of the United States. I would like to reserve three minutes for rebuttal.  As Mr. Pope rightly concedes, the motion court erred by suppressing the gun as fruit of an unlawful stop. That concession is appropriate, because it's undisputed that Mr. Pope discarded the gun in the laundry room of the basement before he was stopped by the police. Therefore, under Hodari D., and this court's decisions in Allison and Henson, the gun simply wasn't a product or fruit of the stop.  And so where that leaves us is the question of whether Mr. Pope abandoned a Fourth Amendment interest in his book bag when he discarded it in the laundry room. The answer to that question is yes. And it flows first and primarily from the fact that Mr. Pope was fleeing from police officers, a circumstance that a myriad of cases from around the country, including from this court, recognize as a crucial factor in any abandonment inquiry.  It's also a circumstance that Mr. Pope fails to give any recognition or consideration to in his argument, and his failure to do so we think reveals the weakness of his position. But to be sure, the fact that Mr. Pope lacked a Fourth Amendment interest in the House to begin with is a premise or an assumption that we're proceeding from in our abandonment argument. Mr. Pope- Do you think the record",
+    "speaker": "mattcohen",
+    "tags": [
+      "reserve_time",
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement",
+      "concession"
+    ]
+  },
+  {
+    "start": 139.925,
+    "end": 152.011,
+    "text": " that was created before the trial judge here, or the motion judge here, supports your argument that he lacked any Fourth Amendment interest in the House?",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 153.432,
+    "end": 209.984,
+    "text": "Yes, Your Honor. And that comes primarily from the statements of Sheila, Rob, and Mr. Pope on the body-worn camera footage. Go ahead.  I was gonna say, when asked where he lives, Mr. Pope provided an address in Washington DC and an address in Maryland, neither of which were 459 Riggs Road, where the search was located. When asked if he had a room at the house, he said no. When asked if he lived at the house, he said no.  Aunt Sheila, who Mr. Pope testified was not a blood aunt, but sort of a friendly familial relative, she said that he hadn't been here in a minute. And Rob, Cousin Rob said the same thing. Rob also said that he told Mr. Pope not to come around here anymore. So when you- Didn't he say he should have kept it that way?",
+    "speaker": "mattcohen",
+    "tags": [
+      "substantive_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 212.647,
+    "end": 224.16,
+    "text": " He said, I should have kept it that way, which sounds a lot like, well, at this point in time, he is allowed to come around here and I regret saying otherwise. So I have two responses to that.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_comment",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 224.3,
+    "end": 257.201,
+    "text": "First, I think that's true. That's certainly an inference that the motion court could have drawn.  But I think the court had to take the totality of the statements that were made, including Mr. Pope's, and draw the most reasonable conclusion. And we think the court's statements leading up to its ruling on standing clearly reflect the court's thinking that Mr. Pope did not live at this house at the time of the search, wasn't a part-time resident. See, my problem is that I think none of what you've said, even giving it all that it might be worth,",
+    "speaker": "mattcohen",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "concession",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 258.035,
+    "end": 314.52,
+    "text": " adds up to saying that he was a trespasser, or that the evidence shows that he was a trespasser in the house. The question, I think, is whether he was there, whether he went in without her permission, without Aunt Sheila's permission, or with it. And the record does not answer that. If he came to the door and said to Aunt Sheila, in effect, please let me in. I really would like to stay here. I need some shelter at the moment.  And she said, okay, I'll let you in. I don't like to see you, but I'll let you in. Then he's not a trespasser. And I don't think the record tells us what exactly happened and how he got in and whether he went in over her objections or with her welcome. Even if he didn't live there and even if people weren't super happy to see him and all the rest.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment",
+      "judge_question",
+      "record_reference",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 316.44,
+    "end": 345.612,
+    "text": " So Your Honor, I think the record does support that conclusion. Both the officers and Mr. Pope testified that he simply ran into the house. Aunt Sheila wasn't standing at the front door. Nobody testified to the effect that she let him in or gave him permission to enter at the time. So from any reasonable perspective, he simply just ran into her house without anybody's consent. Well, do we know how he got into the house?",
+    "speaker": "mattcohen",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 346.275,
+    "end": 347.075,
+    "text": " Did he have a key?",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 348.856,
+    "end": 357.019,
+    "text": "So the officers simply testified that he ran through the front door. Mr. Polk didn't testify that- I thought he went through the back door. The back door, I'm sorry.",
+    "speaker": "mattcohen",
+    "tags": [
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 357.039,
+    "end": 398.117,
+    "text": "It was the back door, right. That's right. Even if at that point he was not staying at the house, there certainly seems to be evidence that he had been in the past, right?  Certainly, that's right. Um, what I would like to do actually is let's can we back up to as far as the whole question of abandonment. What are the elements of abandonment.  Who bears the burden of proving those elements and by what standard? Can we just lay out kind of an analytical framework here before we get into the facts?",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_question",
+      "judge_procedural_directive",
+      "case_transition"
+    ]
+  },
+  {
+    "start": 398.717,
+    "end": 438.793,
+    "text": "Sure. So the government bears the burden of proof by by clear and convincing evidence that a suspect abandons  or voluntarily discards an object that's not consistent with maintaining either a subjective or an objectively reasonable expectation of privacy. And as this court has stated in Boswell and decisions that flow from that, this court reviews decisions and looking at the factual inquiry into intent.  for clear error. But to be sure, there is an objective component to the analysis. So we have to look at the intent, subjective intent, and objective reasonableness.",
+    "speaker": "mattcohen",
+    "tags": [
+      "substantive_argument",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 439.654,
+    "end": 443.599,
+    "text": "Is there a finding of subjective intent in this case by the trial judge?",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 445.165,
+    "end": 463.96,
+    "text": " Not in terms of subjective intent to abandon, no. We think certainly the trial court ruled that or found that Mr. Polk was trying to hide the bag, to be sure. To hide, so, okay, so the trial judge made a finding that his intent was to hide the bag? That's correct.",
+    "speaker": "mattcohen",
+    "tags": []
+  },
+  {
+    "start": 465.502,
+    "end": 470.606,
+    "text": "So would that not negate an intent to abandon?",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 471.658,
+    "end": 486.084,
+    "text": " No, your honor, because we don't think it a subjective intent, a subjective intent to abandon. Correct. Because we still have to view the circumstances objectively. And no, no, no. I'm just asking the first.",
+    "speaker": "mattcohen",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 486.565,
+    "end": 530.157,
+    "text": "I just wanted to just pin down this one element, subjective intent. To the extent that you said the trial judge made a finding that is contrary. To a subjective  intent to abandon. Is that what you just said? I'm not sure I understand the question. I apologize. I thought you said that the trial court made a finding that his intent was to hide, stash the bag. That's correct. Which to me sounds that his intent was not to abandon it, but to keep it to himself for future retrieval and to keep others away from it.",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 531.113,
+    "end": 543.797,
+    "text": " That is certainly what Mr. Pope was trying to do. And frankly, we think any suspect in any situation when they're discarding of contraband while fleeing from police is trying to hide the contraband.",
+    "speaker": "mattcohen",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 545.618,
+    "end": 553.941,
+    "text": "Not necessarily. You're just trying to say, me, that's not mine. Nothing to do with it. Never seen it before. Never going to see it again.",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_comment",
+      "disagreement"
+    ]
+  },
+  {
+    "start": 554.741,
+    "end": 589.805,
+    "text": "Well, for example, take the facts of Allison where the suspect was fleeing from police and discarded the  the gun into a bush. We're not suggesting that that suspect was trying to hide the gun for all time, but certainly he was trying to disassociate himself from that contraband for enough time to either aid in his escape or leave a situation where once the officers found that gun, they may no longer be able to associate that gun. Sometimes people just throw things just as far away as they can.",
+    "speaker": "mattcohen",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "legal_citation",
+      "concession"
+    ]
+  },
+  {
+    "start": 591.01,
+    "end": 622.934,
+    "text": " from themselves, which of course was not the case. This is a smaller area. How far away was Mr. Pope from the back?  So no one testifies in terms of exact feet, but based on reviewing the body camera footage, my best estimate to the court is somewhere between 10 to 12 feet from the bag based on where the laundry room is sort of on the other side of the stairs and where he is then sitting on the couch at the time that the body camera comes on.",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_comment",
+      "fact_statement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 623.674,
+    "end": 687.639,
+    "text": "And of course, would you say would you say that he was in constructive possession of the bag at that time?  based on the facts we have here, it's close because on the one hand, the officers testify and acknowledge that they see the book bag on him when they're watching him flee. That's sort of why they're looking for the bag in the first place. And so by the time he discards the bag in the laundry room by whatever means, and then continues on to the basement,  I'm not squarely familiar with the law of constructive possession and sort of what the elements are there. Certainly, that's a close call, but I hesitate to say one way or the other, only because I'm not familiar with it. If he had run into the basement, if he had run into the basement with the book bag, seen this Barker lounger there, and said, oh, I think I'll throw my book bag down at the foot of the Barker lounger.",
+    "speaker": "mattcohen",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "hedge",
+      "concession"
+    ]
+  },
+  {
+    "start": 689.067,
+    "end": 696.213,
+    "text": " It's no longer on my personal possession, but it's right next to me, and I'm gonna rest now. Would you say that he had abandoned it?",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 698.655,
+    "end": 731.893,
+    "text": "It's a closer case, but I still think- Just tell me whether you'd say he'd abandoned it.  I would say yes. And if I can just elaborate by putting it down at the foot while he's sitting in the bark of Barker. Oh, I misunderstood your question. If it's at his feet, I think then that the object is sufficiently associated and connected with his person, that he hasn't sort of relinquished that possessory interest that would be consistent with abandonment. And so so if he keeps himself within 10 feet of it and doesn't leave the basement,",
+    "speaker": "mattcohen",
+    "tags": [
+      "substantive_argument",
+      "hedge",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 732.524,
+    "end": 751.8,
+    "text": " but just stays with it and he's watching it. And if Sheila thinks she can go take it, she'll have another thing coming. Why is he abandoned? Well, he's abandoned it because as someone who, at least as we assert in our brief, as someone who we think are sufficient findings to find that he's unlawfully present in the home at the time.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "judge_comment",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 752.78,
+    "end": 758.445,
+    "text": "So everything in your view, so everything in your view turns on whether he was a trespasser",
+    "speaker": "mattcohen",
+    "tags": [
+      "substantive_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 759.357,
+    "end": 776.68,
+    "text": " or whether he was there with Aunt Sheila's consent. Is that correct? Absolutely, Your Honor, for sure. If we think there is insufficient evidence to permit a finding that he was there with or without Aunt Sheila's consent, where does that leave us in your view?",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 777.76,
+    "end": 813.596,
+    "text": "If the court finds that the evidence presented at trial was insufficient to make that finding, then the trial court suppression ruling should probably be sustained.  or affirmed, I should say, though certainly on alternative grounds from what the trial court ruled. If, on the other hand, the court finds that there's a factual dispute and that there is sufficient evidence that the trial court could have credited, but in your view, the trial court wasn't sufficiently clear in doing so, then certainly we think a remand would be appropriate.",
+    "speaker": "mattcohen",
+    "tags": [
+      "substantive_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 815.545,
+    "end": 835.048,
+    "text": " Councilor, I'm having a hard time seeing how the legality of his presence segues with the abandonment analysis. So just hypothetically, let's take a case where, so was the jacket on his back, was that abandoned when he went in as a trespasser, if he had trespassed? I assume the answer is no.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "hedge"
+    ]
+  },
+  {
+    "start": 836.891,
+    "end": 839.594,
+    "text": " I'm not sure he was wearing a jacket.",
+    "speaker": "mattcohen",
+    "tags": [
+      "hedge",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 839.834,
+    "end": 866.413,
+    "text": "Hypothetically, somebody who has a jacket and they've got some drugs in the pocket. I assume you wouldn't say because they're trespassing, they've abandoned the items on their body. Oh, certainly not. And if I'm walking down the street and for whatever reason, I set my bag down in a yard that I have no business being in, have I abandoned that bag?  I stopped to tie my shoes, and I set it down in a neighbor's yard. Abandonment?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 867.234,
+    "end": 881.542,
+    "text": "No, for two reasons. One, you're still, I think in your hypothetical, still standing next to the bag. You haven't done anything that's inconsistent with maintaining an expectation of privacy, and the police aren't chasing you.",
+    "speaker": "mattcohen",
+    "tags": [
+      "rebuttal_argument",
+      "substantive_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 881.922,
+    "end": 924.99,
+    "text": "I guess maybe my last question down this thread, although I'm not so sure I'm satisfied with that answer, is  You keep saying what's different about what makes this case abandonment is that there is a police chase but in all the cases you have the flight and the chase follows.  the deposit. And here that's not true. So I agree if somebody is fleeing from the object they've just discarded, that looks like abandonment. But here, after it's discarded, if we want to use that word, he stays put. So that's a big distinction in my mind. And I wonder if you have a case where somebody, where the flight preceded the discarding of the object, and then the person stayed put, and then that's abandonment.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "disagreement",
+      "legal_citation",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 925.861,
+    "end": 993.865,
+    "text": " So, Your Honor, if I could answer both halves of that question, I think I disagree with the idea that Mr. Pope stayed put. Take, for example, the Supreme Court case Smith versus Ohio. In that situation, while in the presence of police officers, the suspect put the bag on the hood of his car and then tried to physically, as he was standing next to it, and then tried to physically, using his arms, prevent the officers from searching the bag.  I think that's an example of someone who leaves themselves in a position to, both by their presence and through their actions, physically protect the contents of the bag that's consistent with an expectation of privacy. Had Mr. Pope truly wanted to do that here, he could have, one, left the bag on his back as it was when the officers first saw him, or two, he could have stayed  near it and exercise some authority to say that's not my that's my bag you can't search that I'm in my house, or it could have done something. He's, he's pretty close by Council, is it an arm's length rule that you're that you're suggesting.",
+    "speaker": "mattcohen",
+    "tags": [
+      "legal_citation",
+      "substantive_argument",
+      "rebuttal_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 994.535,
+    "end": 1012.8,
+    "text": " I don't know if it's an arm's length rule, but it has to be close enough where the the suspect's actions are demonstrating that he he's trying to do something to exercise sort of ownership over it or protect the item as as that suspect did.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_comment",
+      "substantive_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1012.96,
+    "end": 1020.382,
+    "text": "Well, that's why I started asking you whether it was again on this question of which I think about you getting to now, what was his intent?",
+    "speaker": "mattcohen",
+    "tags": []
+  },
+  {
+    "start": 1022.32,
+    "end": 1037.895,
+    "text": " and this notion of secreting, and you said that the trial judge made a finding that he was trying to hide it. We had put it in a crate that said, property of Kahlil K. Pope, private, do not touch.",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_comment",
+      "fact_statement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 1041.29,
+    "end": 1098.847,
+    "text": " So in that situation, certainly the facts would be closer as to whether or not he maintained an expectation of privacy in that particular crate, that vessel that he puts the bag in. But I do think we do have to acknowledge, though, if we're proceeding from the assumption  And Sheila and cousin Rob had either kicked Mr Pope out or had had given him some directive to the effect that he was no longer allowed to be there. And then he doesn't come back to the house for a minute, as both cousin Rob and Sheila say.  I'm not sure he would continue to maintain an expectation of privacy in that crate, even if it says property of Khalil Pope, do not touch. Absent some further testimony that aside from being kicked out of the house, Aunt Sheila also said, I'm kicking you out, but you can keep your crate here. I'm going to protect your belongings. I'm not going to let anybody search them. Absent those facts, we don't think- The belongings are still there.",
+    "speaker": "mattcohen",
+    "tags": [
+      "substantive_argument",
+      "hedge",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1100.311,
+    "end": 1122.868,
+    "text": " Um, I mean, maybe somebody can be not wanted in the house for whatever reason. We don't have room. We don't like what you're doing, but okay. But we'll keep your stuff safe. We're getting back to the question of what, how much evidence was there from which a trial court could have made, um, you know, sustainable findings of fact.",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_comment",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 1123.803,
+    "end": 1162.429,
+    "text": " Sure. And that comes back, I think, to the statements of Mr. Pope and Sheila and Rob on the body worn camera. I think we have to remember that when Mr. Pope testified, he testified that he was a part time resident of the house, that he lived there three days a week. And that remainder of the week, he lived either with his grandmother or his mother somewhere else.  That stands in sharp contrast to what he told the officers on scene, which is, I don't live here. I don't have a room here. And when asked for his address. He also gave an explanation, right, as to why he said what he said at the time.",
+    "speaker": "mattcohen",
+    "tags": [
+      "substantive_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 1163.97,
+    "end": 1188.039,
+    "text": "It's not an implausible explanation, not in this case. Other cases, we have certainly seen things. We don't all have the same kind of living situations, you know.  And wasn't there a representation by counsel that at the time of trial, he was in fact living with Aunt Sheila? I don't know whether that was evidence or just something counsel said.",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_comment",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 1188.944,
+    "end": 1245.581,
+    "text": " No. Mr. Pope did testify, I think, both towards the end of his October 1st testimony and at the top of his October 2nd testimony, that at the time of his suppression hearing testimony, he was living with Aunt Sheila. That doesn't really resolve the question, though, because the question is, did he have Fourth Amendment standing in the home at the time of the search?  And I credit your honors point that it's certainly not the explanation he offered certainly isn't implausible, but it's part of the total mix of information that the trial court very explicitly took into account when deciding whose version of events he was going to credit.  And we think the trial court statements from pages 50 to 65 in his colloquy with Defense Counsel Mr. Iverson and his subsequent, we think, very express ruling that Mr. Pope doesn't have standing in that home reflects very clearly.",
+    "speaker": "mattcohen",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "concession",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 1245.921,
+    "end": 1256.688,
+    "text": "You've exceeded your 15 minutes, and I'm not going to let this go on too much longer. But do you know what the basis of the judge's conclusion that he lacked standing was?",
+    "speaker": "judgeglickman",
+    "tags": [
+      "time_management",
+      "judge_procedural_directive",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 1259.046,
+    "end": 1274.87,
+    "text": " Yes, Your Honor, it was the fact that cousin Rob and Aunt Sheila had effectively told him he could no longer be in the home, which the trial court used to essentially find that he no longer had the right to be there.",
+    "speaker": "mattcohen",
+    "tags": [
+      "acknowledge",
+      "fact_statement",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 1275.67,
+    "end": 1302.897,
+    "text": "I need you to point me to what lines in the transcript you think say that, counsel. I mean, I guess I'm wondering, is there anything inconsistent with the trial court's finding that the trial court just thought  occasional overnight guests don't have standing to challenge the search of a home, that there wasn't some legal mistake underlying the trial court's finding of a lack of standing, instead of reading all these factual conclusions into it. So I guess I just want to know where you see that in the trial court's standing finding.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question",
+      "judge_procedural_directive",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 1303.944,
+    "end": 1333.886,
+    "text": " Sure, so if I can direct the court, and I'm gonna direct the court in a couple of places that's okay. Starting with pages 51 and 52 of the October 2 transcript the court says there's certainly plenty of evidence by the people that own the house that Mr Pope wasn't supposed to be there. Turning to page 58.  The court identifies the linchpin of the case as, quote, whether or not Mr. Pope had a reasonable expectation of privacy in that bag found in someone else's house that he hid in someone else's house.",
+    "speaker": "mattcohen",
+    "tags": [
+      "legal_citation",
+      "record_reference",
+      "substantive_argument",
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 1334.407,
+    "end": 1344.969,
+    "text": "Yeah, it's not his house. There's no dispute about that. Sure. Page 60, the court says the evidence suggests that the home was a house that he did not have the right to be in.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_comment",
+      "fact_statement",
+      "record_reference",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 1346.149,
+    "end": 1383.012,
+    "text": "Page 65, and again at page 65, the court references that it's not his house.  So we think putting those statements together, and again, we have to assume that the trial court is proceeding with the correct legal principles in mind, that those statements and his subsequent standing finding, which comes in at page 102, reflect precisely why the court was finding that Mr. Pope did not have a Fourth Amendment interest in  the Superior Court be reversed. Thank you.",
+    "speaker": "mattcohen",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 1383.032,
+    "end": 1388.795,
+    "text": "Okay. Thank you, Mr. Covert. And we'll give you a few minutes in rebuttal. Um, Ms.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "acknowledge",
+      "reserve_time",
+      "judge_procedural_directive",
+      "time_management"
+    ]
+  },
+  {
+    "start": 1392.317,
+    "end": 1408.265,
+    "text": "Good morning, Your Honor. She'll pass out to start for a Kelly Khalil Pope. The government here failed to prove with clear, decisive and unequivocal evidence that Mr Pope discarded left behind or otherwise relinquished his interest in his backpack so that you could stop you",
+    "speaker": "shilpasatoskar",
+    "tags": [
+      "opening_argument",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 1408.995,
+    "end": 1433.19,
+    "text": " May I stop you for a second? Sure. The government has conceded that, citing Boswell, that it has this obligation to prove abandonment by clear and convincing evidence. Where does that come from, if I may ask? I know Boswell said it. What is the basis for saying that the government's burden is clear and convincing evidence? Is that correct?",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_interruption",
+      "judge_question",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 1433.89,
+    "end": 1455.054,
+    "text": "I'm looking to see what case Boswell cited for that.  The court cited a case called Payton about proof of abandonment must be made by the one asserting it by clear, unequivocal, and decisive evidence. But just to theoretically speak, I believe that language.",
+    "speaker": "shilpasatoskar",
+    "tags": [
+      "legal_citation",
+      "record_reference",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1455.094,
+    "end": 1462.737,
+    "text": "But where does that? I mean, I thought that out of suppression hearing, the government's burden is generally by a preponderance of the evidence.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 1463.434,
+    "end": 1517.689,
+    "text": " Well, here's where I believe it comes from. So abandonment comes up in a situation where we already know or police are already aware that a person has a reasonable expectation of privacy in his belongings. So for instance, in this case,  No one would dispute that Mr. Pope had a reasonable expectation of privacy in his backpack as he carried it, even as he ran with it down the street, as he took it into a house. The question is merely whether he relinquished that interest. Because we know he already had the reasonable expectation of privacy, the government then has to prove affirmatively by some higher standard because you really have to show clearly that someone  someone relinquished what everyone knows is a reasonable expectation of privacy.",
+    "speaker": "shilpasatoskar",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1518.57,
+    "end": 1547.558,
+    "text": "I guess I don't understand why that follows, because take the case of when the government conducts a search without a warrant. We all understand that searches are supposed to be with warrants, except where a particular exception applies. Government proves that exception by preponderance of the evidence. Normally, we don't say it has to prove it by clear and convincing evidence.  I'm just wondering if this clear and convincing evidence standard is in fact correct.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 1549.659,
+    "end": 1552.36,
+    "text": "We believe it is. Sorry.",
+    "speaker": "shilpasatoskar",
+    "tags": [
+      "hedge",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1553.261,
+    "end": 1562.725,
+    "text": "Other than our case and whatever we cited in Boswell, which was some old case, has the Supreme Court ever spoken? Has the Supreme Court ever spoken of this?",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 1563.946,
+    "end": 1700.868,
+    "text": "I don't believe the Supreme Court has used that precise language. I don't know, but I don't believe that it's disavowed any such language either.  And I mean, it's the law that this court has been following from the 70s. And I think even, I mean, I do think the reason for it is because there is such a strong privacy interest in somebody's personal belongings that the government has to show by a heightened standard that they have indeed relinquished that. Because of course, this is something that is,  the judge has to find based on all the circumstances, you know, a person isn't going to say, in most cases, I'm relinquishing my privacy interests. So the government needs to be held to a higher standard. But in any event, we think that even under a preponderance standard, they didn't show it here, even if that were the standard. Because as  Judge Ruiz has pointed out, and the government does not concede, that the trial court found that he hid the backpack. And I want to address the two points that the government seems has been saying that even though he did intend to secrete the backpack, he still abandoned it because  he couldn't have a reasonable expectation of privacy in it any longer. One, because he was unlawfully present in the home, and two, because he had fled from police. And both of those are wrong, including for many of the reasons your honors have already stated this morning. There's no support in the record whatsoever for the idea that Mr. Pope was unlawfully present in that home. Not only was there his own testimony about the fact that he  stayed there three nights a week that he's kept his belongings there, but he, there was testimony that was, there was evidence that was not even from him necessarily. Aunt Sheila corroborated on the body worn camera footage his testimony that they were close family and friends. She said he is,  He's a friend. He calls me Aunt Sheila, even though we're not related. And as defense counsel said, that suggested a certain level of intimacy. She said, he comes here. He'd be around here with my son. And if it were established that he was unlawfully present in the home. Sorry, I didn't hear the first part.",
+    "speaker": "shilpasatoskar",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1701.408,
+    "end": 1720.705,
+    "text": "If suppose it had been established by clear and convincing evidence that he was unlawfully present in the home. Where would that leave your argument that  he nonetheless had a reasonable expectation of privacy in the book bag.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 1720.925,
+    "end": 1754.022,
+    "text": "If that had been established, I think we would still argue that because his belongings were in a closed container that was personal to him,  that he still maintained his reasonable expectation of privacy. So in other words, the same way that if a burglar had gone into the house and put down their bag that they brought in there with them, that they were seen bringing in, and they put it down, even if, sorry.",
+    "speaker": "shilpasatoskar",
+    "tags": [
+      "substantive_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1755.202,
+    "end": 1757.163,
+    "text": "Their bag of burglars tools, right.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 1758.847,
+    "end": 1790.49,
+    "text": " Or their wallet or something. I don't know, maybe they're very, you know, conscientious burglar that always has their ID with them. So, or any, you know, any person who, just any law-abiding citizen who happens to stop in someone's yard, you know, as Judge Deal said, to tie their shoe. They don't have  They're not lawfully present on the land necessarily. But if they put down their bag, they have a reasonable expectation of privacy that the police aren't going to come and start opening up their bag and searching. Well, that's interesting.",
+    "speaker": "shilpasatoskar",
+    "tags": [
+      "substantive_argument",
+      "hedge",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 1791.07,
+    "end": 1830.088,
+    "text": "Suppose somebody is fleeing from the police and runs into some stranger's yard. It's a fairly big yard. And the person throws the gun under a bush and then runs around in the yard and finds a nice hiding spot. And the police run into the yard after him.  and they look around and they find him and they arrest him. Suppose they don't arrest him first though. Suppose they just find the gun under the bush. Does he have a, does he, does that person in that hypothetical have a reasonable expectation of privacy that the police will treat that in that gun such that he, that he didn't demand it?",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 1830.909,
+    "end": 1859.484,
+    "text": "I think that that's a much closer case than ours because the gun is not, although the gun may be under the bush, it's not, you know,  that he hasn't taken any other steps to protect it from view. It's not in a closed container, for example. It is he doesn't have the police have the right to search the yard and they'll they'll probably see it in plain view when they search the yard. They don't have to open up anything else that it's in. So I think that's a different case here. Oh, you can see a container.",
+    "speaker": "shilpasatoskar",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "rebuttal_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1859.504,
+    "end": 1862.067,
+    "text": "I assume you're talking about the bag and not the crate. Is that right?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 1862.467,
+    "end": 1863.148,
+    "text": "Yes. The backpack.",
+    "speaker": "shilpasatoskar",
+    "tags": [
+      "acknowledge",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 1863.797,
+    "end": 1873.941,
+    "text": " And so your answer is, if it were a bag that he threw under the bush, maybe a different story. But if it's just a gun, then they get to look through the yard. And if they see it there, then that's his problem.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_comment",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 1874.401,
+    "end": 1889.707,
+    "text": "That's right. I think this case presents much less opportunity to show abandonment because he also has his belongings in a closed backpack. And he's taking great care to hide it.",
+    "speaker": "shilpasatoskar",
+    "tags": [
+      "agreement",
+      "substantive_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 1890.78,
+    "end": 1922.662,
+    "text": " Ms. Sattlescar, we've been talking about unlawful presence, but to the extent there's any basis here, and I think this is a government's argument, is that the trial judge ruled that Mr. Pope had no standing to challenge the officer's entry into the home, right? But a lack of standing, and we will assume for this purpose that the judge made that ruling,  is not the same as unlawful presence, right?",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 1923.362,
+    "end": 1996.991,
+    "text": "That's correct, Your Honor. And we know from this court's case law in Biles and Shreves and Boswell that you don't have to have a reasonable expectation of privacy in the surrounding location where you hide your belongings in order to maintain your reasonable expectation of privacy. In Biles, Mr. Biles was standing  About eight feet from his his counterfeit DVDs which I would like to point out it's very similar to the distance that that Mr Pope was from his backpack. He, he was in a public flea market outdoors.  And he was hiding his counterfeit DVDs in a crate underneath his backpack, which also contained some of his personal items and ID. And this court said that he did not abandon his items because they were protected from sight. He had ensured that others wouldn't see what was in that crate and in that backpack. And he ensured that the items would remain private while he was remaining nearby. And that because of that,  the fact that he was in a public market did not negate his expectation of privacy.",
+    "speaker": "shilpasatoskar",
+    "tags": [
+      "legal_citation",
+      "substantive_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 1998.352,
+    "end": 2000.134,
+    "text": "And the same is true here.",
+    "speaker": "brianmacklin",
+    "tags": [
+      "agreement"
+    ]
+  },
+  {
+    "start": 2000.214,
+    "end": 2002.395,
+    "text": "Do you have any thoughts?",
+    "speaker": "shilpasatoskar",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 2002.556,
+    "end": 2051.663,
+    "text": "So footnote 17 of Biles says, we've described this as a probably meritorious argument, but at the end of the day, it's still open to re-litigation when it goes back to the trial court on the suppression ruling. I assume because there are some factual findings  that underlie an abandonment inquiry that weren't made there, really weren't made here. So I wonder if you have any thoughts on that, whether or not, you know, we don't know who the trial court credited as to whether or not this thing was put in a crate, covered up. We don't know who the trial court credited.  as to whether or not, you know, we don't know the exact, there are things we'd want to know to flesh out an abandonment ruling. So I guess, and Biles but Note 17 gives me some reason to think that's the better way to go.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question",
+      "legal_citation",
+      "judge_comment",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 2053.244,
+    "end": 2114.593,
+    "text": "Sure. A couple of answers. I believe Note 17 in Biles has to do with the fact that the Biles issue was teed up as a Brady claim. And so it may have, that may have been an overlay  that the court on remand would have to decide things related to Brady and how it would affect the case going forward. But even if not, in this case, I don't think that there are any facts that need to be found that would affect the abandonment issue. Because the trial court properly found that whether the backpack was in a crate or not in a crate, he was  he was hiding it. And it was undisputed that the back that Mr. Pope put the backpack in a dark room that didn't have any lights that worked underneath a staircase. The officer also even under the officer's testimony, that's where it was. And it took the officer several minutes to find it. So, you know, he said it wasn't out.",
+    "speaker": "shilpasatoskar",
+    "tags": [
+      "legal_citation",
+      "substantive_argument",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2114.893,
+    "end": 2116.954,
+    "text": "According to him, but that's not the officer's testimony.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_comment",
+      "disagreement"
+    ]
+  },
+  {
+    "start": 2118.055,
+    "end": 2144.728,
+    "text": "The officer testified, I think that it took about a minute, but  he was confronted with the body worn camera footage that suggested that the time between when he went down into the basement and the time that he found it was longer than that. And he did not, at that point, he said that he wasn't sure how long it took. And so if the trial court made that finding, would you say is",
+    "speaker": "shilpasatoskar",
+    "tags": [
+      "fact_statement",
+      "hedge",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 2145.693,
+    "end": 2161.104,
+    "text": " properly supported by the evidence of his intent to hide it. So then what is your best argument as to why his expectation was reasonable, expectation of privacy in the bag was reasonable?",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 2162.105,
+    "end": 2274.268,
+    "text": "It's because he didn't relinquish because for the same reason as in Biles and Boswell and Shreves, whether or not he had a reasonable expectation of privacy,  in the house itself, which I'm happy to address in a moment. He protected his belongings from sight. He did not expose them to public view. In Boswell, the court said that Boswell had concealed his TV from view under the blanket in a publicly accessible hallway, and he did not, quote, discard it in a public area. Mr. Pope did not discard his belongings in a public area. He did not throw them away or leave them behind.  He hid them, and he was right there. And he could expect reasonably, just as Biles could, that his items would remain private there. I know we're all at this point, but did the court in Biles and Butler, did they actually talk specifically about the objective reasonableness prong of the test, as you put it forth? Yeah. In Biles, the court said,  You know, after talking about the fact that he protected his items from sight, et cetera, and he stayed nearby, the court said, while the events took place in a public market, his expectation manifest in his actions was that the items would remain private. And then the court says, this expectation was not defeated merely because Mr. Biles stood in a public market. Rather, it remained one that society is prepared to recognize as reasonable.  particularly where he kept his belongings protected from view and he was nearby. So we think the exact same is true here. And the government cites- This was not a public market, however.",
+    "speaker": "shilpasatoskar",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement",
+      "concession",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 2275.128,
+    "end": 2366.895,
+    "text": "This was a private home. And if we posit that he was a, if we posit that he was a trespasser in the home, then I'm having a little trouble following your reasoning. And I want to ask you about this. When we were talking earlier about the hypothetical  of the person trespassing in somebody's yard who hides the gun under a bush, you put a lot of weight on the difference in this case that the gun was in a container, book bag. So I'm having a little trouble following your reasoning here because if we posit that the book bag was abandoned, I mean, supposing that hypothetical the gun had been in a bag and hidden under a bush,  If we posit that the book bag was abandoned, then I don't understand why the contents of the book bag could be said to retain any, or why he could be said to retain any reasonable expectation of privacy in the contents of the book bag. Now, I understand there's a dispute about whether the book bag was abandoned, and we'll undoubtedly come back to that. But if we posit that he abandoned the book bag by  placing it someplace in a home in which he had no right to be, then I don't understand why the fact that the gun was inside the book bag gives it adequate protection from seizure.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 2367.635,
+    "end": 2380.038,
+    "text": "Well, Your Honor, I think you're right. But if you find that the backpack itself was abandoned, then he no longer has a reasonable expectation of privacy. So let's go back to the hypothetical in the yard.",
+    "speaker": "shilpasatoskar",
+    "tags": [
+      "agreement",
+      "substantive_argument",
+      "case_transition"
+    ]
+  },
+  {
+    "start": 2380.911,
+    "end": 2420.201,
+    "text": " He runs into the yard with a book bag that happens to contain a gun. And it's some stranger's yard, and he hides the book bag under a suitable hiding place. And then he hides himself in a different suitable hiding place in the yard. And the police run in, and they find this book bag in the yard. Maybe they even go to the owner and say, is this your book bag? And the owner says, nope, not my book bag. I have no reasonable expectation of privacy in it.  Um, and the police then say, well, it looks like an abandoned book bag. Let's take a look at it. What have they done wrong? And let's look inside it. What have they done wrong in your view?",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 2424.283,
+    "end": 2439.461,
+    "text": "I think the difference is if, if the, if you're saying the gun, I mean, I'm sorry. If, if the, if a gun that's not in a container is in plain view in a place where the police are allowed to search,  Then they can't.",
+    "speaker": "shilpasatoskar",
+    "tags": [
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2439.541,
+    "end": 2442.644,
+    "text": "It's not a transparent book bag. They can't. No, I understand.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2443.184,
+    "end": 2455.515,
+    "text": "I understand. But if they know it is somebody's backpack that is a closed container, then that is evidence that that the person has not abandoned what's inside it.",
+    "speaker": "shilpasatoskar",
+    "tags": [
+      "concession",
+      "rebuttal_argument",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 2457.556,
+    "end": 2472.498,
+    "text": "Even if the person abandons the backpack, that can't be right. If I throw my backpack in the trash for the trashman to pick it up.  You know, I hate to say this but the trash man gets whatever is inside that bag. I have no expectation of privacy.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 2474.179,
+    "end": 2492.822,
+    "text": "Yeah, I mean if, if, if the assumption that we're starting with is that the book bag is abandoned Yes, but if the if the question that we're starting with is, is, are the person's belongings abandoned one.  under miles, um, and other questions.",
+    "speaker": "shilpasatoskar",
+    "tags": [
+      "hedge",
+      "substantive_argument",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 2493.242,
+    "end": 2537.62,
+    "text": "So the question, what I'm trying to get at is whether this case turns on whether Mr. Pope was a trespasser. And I've heard different, I feel like I've heard different approaches to that question. Uh, on your side of the argument, if, um, a burglar comes into my house and  stows a book bag somewhere in the house while he is engaged in rummaging around trying to figure out what he's going to take. And the police then surprise him and come to the house. Does he have a reasonable expectation in the contents of the book bag he stowed?",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 2539.86,
+    "end": 2546.882,
+    "text": "If it's not anywhere near him and it doesn't pose any security risk, therefore, I think... I'm not sure why nearness matters.",
+    "speaker": "shilpasatoskar",
+    "tags": [
+      "substantive_argument",
+      "disagreement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2547.409,
+    "end": 2565.087,
+    "text": " unless we're talking about constructive possession as being equivalent to physical possession. I'm not sure, but I think it's a much closer case, a much more difficult case if the person is trespassing somewhere, but the government hasn't cited a single case",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment",
+      "substantive_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2566.337,
+    "end": 2601.091,
+    "text": " in their briefing where a person is held to abandon something that's in a closed container because they're found to be trespassing. The only case, they cite one case, Walker from Louisiana, which is just about whether someone had standing to challenge the search of a house.  whether they have reasonable expectation of privacy. They haven't cited any case law to support this. Well, we might have to go back to Rakesh and all for a lot of, but before we do that, let's not do that now.",
+    "speaker": "shilpasatoskar",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2601.652,
+    "end": 2632.235,
+    "text": "Before we do that, that's why I'm asking you, is it your position that if he was a trespasser, he still retained the reasonable expectation of privacy in that bag?  And if so, I want to hear a clear rationale as to why. Because otherwise, I'm wondering whether we need to remand for the judge to actually grapple with the question, or whether we have to say the government failed to present sufficient evidence to permit any trial or fact to find trespass, and therefore, the government loses.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question",
+      "judge_procedural_directive"
+    ]
+  },
+  {
+    "start": 2633.696,
+    "end": 3259.972,
+    "text": "Well, OK, there's a few questions in there. So let me try to answer them all.  In terms of whether the record could support, whether there needs to be a remand, we would say no, because there's absolutely no evidence that the government put forth that's in the record that would support an idea that he was trespassing or that he was unlawfully present.  The evidence in the trial court was just the opposite. The evidence was that this was his Aunt Sheila. They were family friends that she said that he comes here, he'd be around here with my son. When the police asked him what they should do with the rest of his belongings that were in his backpack, he said, give them to Aunt Sheila. That was undisputed.  He gave an explanation for why he did not tell the police right away that he slept at Aunt Sheila's three nights a week, because he didn't want to disturb her Section 8 housing. And the statements on the body-worn camera footage that the government keeps talking about, there's nothing in there that suggests that he came in against the will of the owner.  Aunt Sheila says on there that he's a friend. He calls me Aunt Sheila, he comes here, he'd be around here with my son. She does say he ain't been here in a minute, but that doesn't show, she doesn't say anything about him not being allowed to come there. And Rob does say, I told him not to come around here no more, but as Judge Deal pointed out, he says, I should have kept it like that, showing that he lifted that restriction. And there's no evidence that when Mr. Pope went into the house,  that Aunt Sheila told him to leave or that she didn't allow him to come in the house or that she stopped him from going into the basement. She didn't tell the police when they came to the door that this guy is not allowed to be in my house and he just came in. There's no evidence that he's not allowed to be there at all. And as I believe maybe Judge Ruiz pointed out,  He testified, and there was no evidence to the contrary, that after he was arrested, he continued to live with Aunt Sheila, and that at the time of the suppression hearing, he lived in a different house with Aunt Sheila. So that's the totality of the record. There's absolutely no reason to remand for a finding on trespass here, because there's just no evidence to support it. And to answer your question about if there were evidence, hypothetically, that he was trespassing, or if there were a finding,  We believe that that would be a closer case. But again, the government has not cited any law to suggest that you completely relinquish your expectation of privacy in, you know, a personal closed container that you have with you. I mean, the police could certainly seize that container when they find you burglarizing the house. If it's on you,  And you know they can probably search it incident to arrest when they arrest you or if they're worried about security and or that you have a gun on you, they could they could look but um we believe that.  They would need a warrant to go into the bag after they seized it but but again that's not that's so far afield from this case and I want the court to remember that there's no evidence of trespass whatsoever here. And as for even as for standing I want to correct some of what the government was saying the government cited.  is arguing that the trial court did make a finding that there was no reasonable expectation of privacy in the house. And that is just not the case if you go through this record. The court did make some preliminary comments during the colloquy that the court did not believe there was standing. But those were made at a time when the judge acknowledged openly and repeatedly that he had not gone back and reviewed the evidence, including the body-worn camera, which is where  The parties were arguing about what the and Sheila and Rob statements meant in terms of Mr Pope's connection to the house, the judge says several times in on page 55.  57, I don't have it word for word, but we can review it. At page 57, we can listen to it. When defense counsel says, well, Anshila never said that he wasn't allowed in the house, the trial court says, right, sure, I'll definitely go back and listen to that. Again, at 93, OK, I'll go back and listen to that. Then right after that is when the court makes these comments, these preliminary comments. He still has not reviewed that, OK? And then defense counsel pushes back and says, no, no, no, you've got wrong what happens on that body-worn camera footage.  And then the court requests to hear the footage. It's played three times. The court asks for it twice. The court says, let's hear that tape again real quick, because I didn't have a chance to hear it again, and we're going over the same issues. Let me hear that tape. And then they watch the tape. And after the tape's played, the judge revisits the question of Mr. Pope's connection to the home. And the parties talk about what these statements mean  on the body-worn camera footage. Then the court, before ruling, in his oral ruling, starts out by saying, okay, I've spent a lot of time listening to the motions hearing and reviewing the body-worn camera and various tapes. This is at Appendix 12.  It got more it got quote more and more complicated, the more I delved into it, but there's no need to get into all the issues that's an appendix 13, and then he goes on to say he's going to summarize his ruling it doesn't include anything about standing or reasonable expectation of privacy in the house. And of course we know in his written ruling also he does not.  address it and to the contrary he says in a footnote that there was conflicting evidence on whether and Sheila gave permission to come into police to come into the house whether there was consent to the entry.  And he says, but because the stop was unlawful, any issues related to consent are irrelevant. Not because there was no, not because he has no standing to challenge the entry or the search, but because I'm only ruling about the stop. So there is all of the citations that the government has given you about, you know, he didn't have the evidence shows he didn't have a right to be there. He wasn't welcome there, etc. All of those occur before the judge  has watched the tape twice, I'm sorry, three times with counsel and has then made these very equivocal comments about it afterwards. So there just is no finding here that there was not a reasonable expectation of privacy in the house, but we don't think that matters under Boswell and Biles and Shreves.  In all of those cases, the person did not have a reasonable expectation of privacy in the surrounding location where they hid their belongings. And in all three, the court found that the belongings were not abandoned. And I want to briefly address the government's argument about flight. One, as Judge Deal pointed out, this is not a case of someone discarding mid-flight. I mean, discarding mid-flight would be if Mr. Pope had, during the run,  on the street, thrown away or discarded his his backpack just in the street right in front of the police. Okay, that's what happened in Allison. That's what happened in Smith. That's what happened in all the case the government sites that what was dispositive was not that the person was fleeing even it was that  the items were discarded and thrown away and exposed to public view. The court says in Smith, which the government just provided to the court yesterday, that Smith took the, as he was running away, he took the gun out of his pocket. Okay. So he took it out of a place where it was concealed. He quote, it was, they saw him quote, throw it away on the street while he was fleeing. It was in a left by him in a public place where any passerby  could take it and pick it up. In Allison, same thing. Allison had a gun concealed in his waistband. He took it out of that concealed place and he, quote, threw it away outside on the sidewalk in a bush. So those cases and all of this court's cases on abandonment really turn on whether the person has relinquished his privacy interest by exposing the item  to public view, public access, versus has he hidden it and taken pains to secrete it as in Boswell, Biles, and Shreves, so that it would remain private and others wouldn't see what was in there. And that's what  Mr. Pope did here under the trial court's finding, under the case law, and under the facts that are in the record, the government simply did not prove that he discarded or left behind or otherwise relinquished his interest. He did the opposite of discarding and throwing away. He hid his belongings in a place where he took refuge from a flight. He ended his flight in this house where he believed he was taking refuge with his aunt Sheila,  He hid his belongings so that the police couldn't find them. And presumably, so even so it would be hard for anyone in the house to find them. And he remained nearby. He didn't continue to flee. And he made sure that his item, just like Biles did, he tried to make sure that his items would remain private. And therefore the government did not show that he abandoned his reasonable expectation of privacy. So we would ask that,  the court affirm and there is no reason to remand unless this court disagrees with us and determines that the backpack was abandoned. In that case, there should be a remand because Mr. Pope still has open to him the other arguments he was making in the trial court.  about the police unlawfully entering and searching the home and the issue of consent because those were not resolved and the trial court made no factual findings that would relate to standing and that would allow this court to review, even if there had been a ruling on standing, which we say there wasn't, there would have to be a remand. But again, that's only if you disagree with us.  and find that the backpack was abandoned. And we just don't think that the government proved that here by clear, decisive and unequivocal or any level of evidence. Thank you. Okay.",
+    "speaker": "shilpasatoskar",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "rebuttal_argument",
+      "legal_citation",
+      "concession",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 3260.713,
+    "end": 3264.178,
+    "text": "Thank you very much, Mr. Covered. We'll give you a few minutes.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "acknowledge",
+      "judge_procedural_directive",
+      "time_management"
+    ]
+  },
+  {
+    "start": 3265.107,
+    "end": 3421.308,
+    "text": " Thank you, Your Honor. I want to start, I think, where we sort of left off at the end of Apley's argument with this idea that even if Mr. Pope was unlawfully present in the home, that doesn't dispositively deal with the abandonment question Judge Glickman responding to your colloquy with counsel. We think it most certainly does. And we would point the court in the direction of State v. Walker, Louisiana Supreme Court case that we cite in our brief.  as well as Cooper versus state, which is from the Supreme Court of Mississippi in 2014. In both of those situations, suspects fled from police officers or while police officers were present in the case of Walker.  into a home where, in the case of Walker, the woman who was standing at the front of the house told the suspect that he was not allowed to be in the home. The suspect goes into the house, goes into the laundry room, and hides contraband behind the washing machine. And in that case, the Louisiana Supreme Court found that that contraband had been abandoned, putting aside the question that he couldn't have raised the challenge to  The officers entry into the home precisely because he wasn't allowed to be there. Same thing in Cooper versus state a suspect fleas into a rundown home that he didn't live in that he admitted he didn't live in. He found a hole in the drywall and he dropped contraband down a hole in the drywall and in both of those cases.  What the courts find is that the fact that the the suspect was not allowed to be in that home at the time of the search and thus had no Fourth Amendment standing was, along with the presence of police officers and flight from police officers dispositive of an abandonment.  So we think it's quite significant if this court were one to either find that the trial court did rule on this question, that Mr. Polk was unlawfully present, or as I suspect, based on our arguments today, that the court might be headed in this direction, that we need a remand on that factual question. And because those facts are dispositive, we think of the abandonment question, we certainly don't disagree with the idea that a remand would be appropriate in that situation.  In Walker and Cooper, where was the suspect at the time of the police discovery of the hidden items? Both of them were in the house, I believe. They were outside the house when the series of events started, but by the time that the contraband was discovered, they were inside the house.",
+    "speaker": "mattcohen",
+    "tags": []
+  },
+  {
+    "start": 3421.809,
+    "end": 3428.276,
+    "text": "The suspect was inside the house?  Correct, that's right. Where in relationship to the contraband, do you remember?",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 3430.717,
+    "end": 3473.028,
+    "text": "I don't. So I know for Cooper, I think it'd be hard to say because he dropped it into the drywall, and I think it fell down a good deal of distance. So I think it'd be hard to say. As to Walker, I don't remember, Your Honor, how far that suspect was from the laundry room. Though I think here, and you can see this when you look on the body-worn camera footage,  Mr. Pope isn't in the laundry room. I mean, the laundry room is, you could see where it is. It's guarded by a door. I think the door is open, but the lights are off. And it's a good, I would guess, 10 or 12 feet from where he's sitting on the couch when he appears on the body worn camera. We think that's good. This is why I found myself wondering earlier about constructive possession.",
+    "speaker": "mattcohen",
+    "tags": [
+      "fact_statement",
+      "substantive_argument",
+      "hedge",
+      "concession",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 3474.708,
+    "end": 3489.374,
+    "text": "Understood. It seems that if he was in actual possession of the book bag,  Pope would not have abandoned the place and would have retained a reasonable expectation of privacy.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment",
+      "substantive_argument",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3491.215,
+    "end": 3502.518,
+    "text": "I think that's right. Certainly, if he was in actual possession, whether it was on his person or at his feet, I think our abandonment argument is substantially weaker, if probably not even viable at all.",
+    "speaker": "mattcohen",
+    "tags": [
+      "substantive_argument",
+      "concession",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3502.658,
+    "end": 3512.407,
+    "text": "Normally, we think of constructive, maybe normally is not the right word, but I think we often think of constructive possession as equivalent.  to actual possession?",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3514.088,
+    "end": 3579.292,
+    "text": "In terms of the law, I think that's right. Though I think the abandonment context is probably a little bit different from constructive possession because in the constructive possession context, someone might have the hope that they're exercising. I think that the law would be dominion and control over the contraband. I think in the abandonment situation, it's probably a little bit different in terms of whether or not that suspect is giving up  a reasonable expectation of privacy. I agree there's overlap, but I think they're conceptually different inquiries. And I don't think there's necessarily a one-to-one relationship. At least that's my gut instinct. And last point I wanted to make.  is about Mr. Hope's reliance on Boswell and the line of cases that don't involve flight from police officers that he relies on. I think it's important to point out that Mr. Hope doesn't point this court to any decisions from any court finding that a suspect did not abandon contraband that they separated from while fleeing from police.",
+    "speaker": "mattcohen",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "legal_citation",
+      "hedge",
+      "concession"
+    ]
+  },
+  {
+    "start": 3581.093,
+    "end": 3600.901,
+    "text": " The council, do you point us to any cases where the person discarded the contraband at the point of termination of their flight. I know you might quibble with me that he moved another five feet after discarding it, but there's not much. So do you have anything that there is a discard of an item, and then the person stopped.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 3604.394,
+    "end": 3678.069,
+    "text": " I think that would illustrate that proposition and I'll concede it's a little bit different because it doesn't begin with flight is United States versus Dillard, and that's, I believe we cite that in our brief and that's so the sixth or the 10th circuit one after that's the Sixth Circuit, your honor.  And the Sixth Circuit, for what it's worth, I think, applies a very similar standard, if not identical standard, to what this court does, where it says that the question is primarily what of intent, but we have to look objectively at the circumstances surrounding that intent. And in that case, the officers were executing a search warrant.  at a residence, and the suspect, defendant Dillard, exited from the side of the house. He saw police officers, and he tossed a briefcase. I believe the court found that it was about four to five feet from him.  at the time he tossed it. And the court recognized that that sort of case fell into a middle ground. And I'll quote from that decision here. The court said, Dillard threw the briefcase to the ground near the side door of a house he had been visiting. The location was not as open as a public street or a parking lot, but neither was it entirely private.  And so I think that's probably the best authority I have for the idea. You can draw something near you and it's still abandoned.",
+    "speaker": "mattcohen",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "concession",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3678.089,
+    "end": 3689.536,
+    "text": "Remind me, that's the unpublished one over a Clay dissent, is that right? Over a, I'm sorry. Over a dissent, I think by Judge Clay. Yes, yes, that's correct. Okay, just curious.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3690.097,
+    "end": 3700.443,
+    "text": "Yeah, in terms of a factual narrative, I think that's probably the closest case I'd be able to provide in terms of- But Mr. Covert, if we look at the overall, what happened here,",
+    "speaker": "mattcohen",
+    "tags": [
+      "opening_argument",
+      "hedge",
+      "case_transition"
+    ]
+  },
+  {
+    "start": 3701.248,
+    "end": 3812.59,
+    "text": " I mean, he flees from the police, he's chased, he runs. I think Ms. Satiskar put it in terms of he's going to a place of refuge and my God, he's going into a basement. That's it. You know, he's not, he knows that if they follow him there, he's going to be found there and his stuff that he has close to him, right? Whether it's five feet or 10 feet,  It feels like the opposite of fleeing. He may have hoped that Aunt Sheila wouldn't let the police in, right? No, I think he testified to the fact that he told Sheila not to let them in. Right. But when you'd see his actions, his actions are, he's not only trying to hide the gun, he's hiding himself, right?  or trying to hide himself. He's spoiled in there, in that. But in terms of looking at how people act and what is kind of the reasonable expectation, how we should interpret his actions, it doesn't look to me at all like either the Judge Glickman's  hypothetical about, you know, this yard that belongs to some stranger or somebody who's in, you know, like Hodari D, the headlong flight and throwing things in bushes and you continue to run away, not only from the police, but from the object you're trying to get as far away from you as possible. What's your answer to that? That this just feels completely different.",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_comment",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 3813.7,
+    "end": 3829.115,
+    "text": " I think on the face, I agree. And I struggled, quite frankly, to find cases. And that's why we went not only out of jurisdiction, but to Louisiana and Mississippi for these cases where suspects flee into residences that don't belong. I hope they won't take that personally.",
+    "speaker": "mattcohen",
+    "tags": [
+      "agreement",
+      "hedge",
+      "substantive_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 3829.516,
+    "end": 3830.777,
+    "text": "No, no, I hope not.",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_comment",
+      "disagreement"
+    ]
+  },
+  {
+    "start": 3830.997,
+    "end": 3890.476,
+    "text": "All right.  Well, I think the law conceptually is a little bit different there, particularly with regard to abandonment. So we recognize the little bit of a leap. So I agree on its face, it feels different when someone runs into a house. But the question is, not whether someone has an expectation of privacy in where this contraband was discarded or left behind.  It's does the person challenging the search, does Mr. Pope have that expectation of privacy? Certainly Aunt Sheila or Rob, assuming he lives at the house, would have an expectation of privacy there. It's their home. But there's no authority for the proposition that you can flee into a house that you have no lawful right to be in and maintain an expectation of privacy  in a cupboard or underneath a bed or anywhere else that's beyond your person. There's not always no support. Well, I don't know.",
+    "speaker": "mattcohen",
+    "tags": [
+      "substantive_argument",
+      "concession",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3890.556,
+    "end": 3929.45,
+    "text": "What if it's an abandoned property and you run into it and you find, you know, the best hiding place and a little nook where you can hide your thing? I don't know. But to me, in any event, that's so far removed from this case because  even if he hadn't been living there at the time, it's not like he's a trespasser. There's nothing to support that, that he was just, you know, unlawfully present in this sense that there was no reason for him to think that he would be sheltered in some way.",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_comment",
+      "judge_question",
+      "substantive_argument",
+      "disagreement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3931.331,
+    "end": 3935.632,
+    "text": "So we obviously disagree with that position. And I think",
+    "speaker": "mattcohen",
+    "tags": [
+      "disagreement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3939.472,
+    "end": 3970.614,
+    "text": " Now, all I'm saying is that even if I assume for the purpose of this conversation that the trial court made a determination that he had no standing to challenge the police's entry into the house, that still does not make him a trespasser necessarily. One does not equate with the other because you have to show more to have standing to challenge, right?  I apologize.",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_comment",
+      "substantive_argument",
+      "judge_question",
+      "hedge",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3970.634,
+    "end": 3978.435,
+    "text": "When I was in the middle of answering that question, my my zoom just completely disappeared. So I apologize.",
+    "speaker": "mattcohen",
+    "tags": [
+      "acknowledge",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 3979.436,
+    "end": 3982.976,
+    "text": "But you got what I'm saying. I think I understand the gist of your question.",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_comment",
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3983.257,
+    "end": 4010.403,
+    "text": "And I think what in that situation or the facts we have here, the evidence turns on.  Is the is the statements on the body worn camera and to be sure, we think that the statements that he from cousin Rob that he wasn't allowed to be there, and he hadn't been there in a minute.  are sufficient to support the trial court's determination that he was unlawfully present. And I disagree.",
+    "speaker": "mattcohen",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "rebuttal_argument",
+      "disagreement"
+    ]
+  },
+  {
+    "start": 4010.463,
+    "end": 4065.03,
+    "text": "No, but that's what I'm saying. Where did the trial court make a determination that he was unlawfully present? I thought your argument was that when we read the overall record,  The trial court can be understood to have ruled that he has no standing to challenge the police's entry into the house. And that to me is a different determination.  based on a different fact finding, meaning that he's not a part-time resident or social guest, but that's not the same as, there's no legal equation in my mind between if you have no standing to challenge entry into the house, that equals you're a trespasser. They're different inquiries, right?",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 4065.949,
+    "end": 4115.971,
+    "text": " I agree and I'll conclude on this point unless there are other questions. In the abstract, I agree. The fact that a defendant doesn't have standing to a dwelling doesn't necessarily mean he's unlawfully pressed. Then I think what you have to do, which is what we encourage the court to do here, is to look at the facts and the findings that the court makes to say, well, what is the import of a finding of no standing as to the house on these facts?  And here, where the court says on page 51 to 52, there's certainly plenty of evidence by the people that own the house that Mr. Pope wasn't supposed to be there. And at page 60, the evidence suggests that the home was a house that he did not have the right to be in, end quote. And so those findings, we think, that support that.",
+    "speaker": "mattcohen",
+    "tags": [
+      "agreement",
+      "substantive_argument",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 4116.792,
+    "end": 4120.593,
+    "text": "Was he charged with trespassing or unlawful entry? No, no.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 4121.591,
+    "end": 4144.736,
+    "text": " But I don't necessarily think we can look to the government's charging decisions as to whether or not, as a factual matter, he was unlawfully present at the time of the search. Particularly in light, I think of the, that'd obviously be a misdemeanor offense and he was charged with felonies related to the unlawful possession of contraband. And so for those reasons, Your Honor, we ask that the Superior Court be reversed. Thank you.",
+    "speaker": "mattcohen",
+    "tags": [
+      "substantive_argument",
+      "court_closing",
+      "hedge"
+    ]
+  },
+  {
+    "start": 4145.636,
+    "end": 4187.371,
+    "text": "Counsel, thank you very much. The case is submitted.  We will call the second case on the calendar Macklin versus Johnson.  Thank you. Good morning. We have just called the case of Macklin versus Johnson. Um, Mr. Macklin, you may proceed.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "case_call",
+      "case_transition",
+      "court_procedural_remark",
+      "judge_procedural_directive",
+      "judge_comment",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4190.494,
+    "end": 4363.038,
+    "text": "We're ready now. Yes. Oh, okay. Great. Good morning. Uh, I first want to thank you all for hearing my appeal, um, over anything else. This appeal is simply about justice and reconnecting a family.  It's clear that the court erred in awarding the appellee primary custody of the five minor children over the appellant. The court relied on the appellee's false accusations, which have proven to be fabricated. During the initial trial stage, the appellee raised non-debunked accusations of domestic violence, child sexual assault, financial manipulation, and other claims of violence against the appellant.  I'm sure the appellant's attorney will come before you today touting many events that they would like for you to consider as fact, and they will want to try to convince you to act on emotion and storytelling. However, their stories will not be based on any evidence. I'd also like to remind the court that these issues between the parties went before three judges, Judge Ryan, Judge McKay, and Judge Becker. All three judges had issues with the appellee's version of events and her honesty in general.  no judge ever questioned the appellant's honesty. Judge Ryan in his final remarks stated his surprise at the appellee's quote significant history of use of violence and admitted dishonesty. Stating further that quote she admitted to a number of circumstances of hitting him and taking full responsibility for hitting him first every time as she put it.  Judge McCabe, after hearing the myriad of accusations thrown by the appellee, was frustrated by these false attempts and stated, quote, domestic violence is not going to affect the ruling in this case. But that did not stop the appellee from trying to add more cases of domestic violence when the calendar changed to Judge Becker, adding new unheard instances that had not been mentioned in the nearly year and a half of trials. Even Judge Becker in her final ruling stated,  Quote, the court has difficulty crediting Ms. Johnson's version of these events. So to be clear, there's an ongoing credibility issue for the appellee and her team with raising false allegations of violence in court to gain favor in her case. There was a great effort by the appellee to paint the appellant as an abusive and controlling dominator.  but there were no facts to back up this claim. There was no eyewitness testimony, no aggressive email or text message, no police report, no witness outside of the appellee's allegations, only hearsay and debunked stories.  In fact, the evidence on the record shows that the appellee herself has always been the primary aggressor by her admissions as as between you and happily perhaps, but there were witnesses who testified about an instant with an instance with Kendall.",
+    "speaker": "brianmacklin",
+    "tags": [
+      "opening_argument",
+      "substantive_argument",
+      "rebuttal_argument",
+      "fact_statement",
+      "record_reference",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4363.978,
+    "end": 4386.428,
+    "text": "And I understand the trial court didn't didn't hold that you were trying to physically hurt her.  that you had grabbed her and that she stumbled into a wall, but there were, I believe, four witnesses to that event. There was also the strike in the chest, which I believe there were three witnesses that testified to it.  So there is some evidence of violence. Okay, so can I can I respond to that, of course, please.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_comment",
+      "fact_statement",
+      "judge_question",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 4386.468,
+    "end": 4414.624,
+    "text": "So for the incident with Caleb, the strike in the chest where they stated that I hit my five year old son with a closed fist in the chest. There was no eyewitness testimony of that.  That was purely hearsay that someone, and this was actually on the last day of trial, had never been brought up before in any other trial date in the two years of the trial. And Caleb was never spoken to.",
+    "speaker": "brianmacklin",
+    "tags": [
+      "fact_statement",
+      "rebuttal_argument",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 4415.265,
+    "end": 4420.607,
+    "text": "So is the trial court wrong when it says that Jershel Johnson testified that she saw that strike?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 4422.505,
+    "end": 4437.436,
+    "text": " She said that she saw it with her with her eyes she saw me hit Caleb in the I'm just reading from, I just want to just, if you're telling me this is wrong, although I'm telling you that that's it. Yeah, I'm telling you that that's false. Yes, not that the state.",
+    "speaker": "brianmacklin",
+    "tags": [
+      "fact_statement",
+      "rebuttal_argument",
+      "disagreement"
+    ]
+  },
+  {
+    "start": 4438.377,
+    "end": 4456.773,
+    "text": "Sorry, let me just, and I don't mean to badger you about it. Yeah, but this is what the trial courts findings include. Jericho Johnson testified credibly that she saw Mr Johnson strike Caleb in the chest with a closed fist.  Are you telling me that that testimony never happened or that that testimony is false?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 4457.214,
+    "end": 4644.815,
+    "text": "I'm saying that that testimony did happen. The testimony happened, but it's false. But it is a false statement. Yes. OK. OK. That is actually the appellee's sister. And I believe it is surprising that with all the evidence and admissions of inter-family violence by the appellee, that there's no mention or consideration of it in the final custody determination by the court.  but rather only allegations and hearsay against the appellant are mentioned in the final order. Ignoring the appellee's abuse and irresponsibility is not in the best interest of the children. In her final ruling, Judge Becker states that, quote, Ms. Johnson is deeply committed to parenting the children at all times, and she worked to maintain normalcy. I asked the court to consider what of these acts should be considered normal.  The record shows that the appellee admitted on the record to drug abuse while being caretaker for the children. She admitted to growing marijuana in the house among the children. She admitted to taking child Isaac along with her to purchase drugs. She admitted to multiple infidelities. She misled the court with stories of child sexual abuse and being the victim of domestic violence. She admitted to violent behavior and being the primary instigator of violence in the home.  She admitted to being verbally abusive. She was ordered by Judge McCabe to take an anger management class, but which never happened. She admitted to being often absent from the home. She admitted to moving out for months to be with her paramour, leaving all the children in the care of the appellant. She destroyed and vandalized the home and had the children living in rat infested conditions after the separation.  After all of these admissions that were backed by evidence and her admission, I don't see where the judge sees normalcy. This behavior, even to a non-professional, can only be described as toxic in a marital or family setting. I reiterate that this is admissions on the record. How does a person that commits this number of offenses in a marriage not be found at fault in a divorce? I believe that the judge really missed an opportunity for justice and failed my children.  No psychologist or doctor has ever cited the appellant as a threat or a substandard parent. No CPS investigator has ever found the appellant's home or his relationship with his children to be substandard. The appellant also voluntarily took and passed two separate parenting classes provided by the DC Superior Court.  Appellant has never left the home or his children while they were in his care. Further, the appellant is a law-abiding citizen never convicted of any crime and has been tested by the court and found to be drug and alcohol free. And he should not be kept from his children. And he's followed every court order to date, even if unjust. I'm appealing this decision of the lower court in order to right this wrong in the best interest of my children.",
+    "speaker": "brianmacklin",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "record_reference",
+      "rebuttal_argument",
+      "disagreement"
+    ]
+  },
+  {
+    "start": 4646.275,
+    "end": 4656.3,
+    "text": " Now, am I, am I right in my read of the record that at least the three older children who testified expressed a preference to be with Miss Johnson?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 4658.221,
+    "end": 4688.394,
+    "text": "That's, I wouldn't say a preference. I would say that, that Kendall did, I would say that Kendall expressed a preference, but I honestly, you know, children are going to take the path of least resistance.  So they're going to do what's easiest for them, or what seems to be the easiest way out. So I believe that it's very important for the children to have a good, solid relationship with their mother. But I believe that their relationship with me is just as important.",
+    "speaker": "brianmacklin",
+    "tags": [
+      "substantive_argument",
+      "concession",
+      "hedge",
+      "fact_statement",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4690.014,
+    "end": 4707.551,
+    "text": "And am I right that Kendall has asked not to have visitation with you? Was that the case? I believe that was in the trial court's ruling. Is that correct? That's correct.  Although Avery asked to have an extra day with you something that the court granted right exactly now at this time.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question",
+      "record_reference",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 4708.392,
+    "end": 5082.068,
+    "text": "At this time, when Kendall made that statement, there was some manipulation going on between Miss Johnson and my daughter.  If you look on the record, the incident that you brought up earlier about Kendall falling into a wall, or when I pulled her out of the car, she hit the wall, that incident happened in 2012.  Myself and Kendall had reconciled, went on vacations. I went to her school field trips, been to her cheerleading, her sports events, all of that. So it really puzzled me that they went back so far to find this incident in 2012 to try to make a case in this divorce.  So this this issue between me and Kendall is really broadly more broadly manipulation, even in her ruling, the judge said that the reconnection is necessary, and that she ordered for Kendall to actually have counseling.  because she believed that Kendall was acting inappropriate or this situation was inappropriate. And now two years afterwards, or I think it's been about two years, that counseling still hasn't happened. So if I could continue, I wanna talk about the division of property.  Please do. OK, great. The second subject I'd like to cover is the error in the judge's distribution of property. The appellee in this trial took many case law opinions and used them as examples. However, please do not suffer from their manipulation of excerpts. Please take the context of each case they cite and see how it lines up with DC law in this case.  As a reminder to the court, which I know you know, but I'm going to read it anyway. Upon entry of a final decree of legal separation, annulment or divorce, or upon the termination of a domestic partnership in the absence of a valid anti-nuptial or post-nuptial agreement resolving all issues related to the property of the party, the court shall  assigned to each party his or her sole and separate property acquired prior to the marriage or domestic partnership, and his or her sole and separate property acquired during the marriage or domestic partnership by gift, bequest, devise, or descent, and any increase thereof. So noting assigned to each party his or her sole and separate property acquired before the marriage.  There's nothing speculative or interpretive about this rule. The only variable in this entire rule is the word upon entry. The only thing this rule is asking for is the insertion of a date. In past cases, the court has been consistent and ruled justly. The parties in this case married April 23, 2005.  No other date, but that date. The appellant purchased his home in 2001, almost four years prior to the marriage, where the parties didn't even know each other and had no affiliation. The most similar case I could find was Bryce versus Bryce in 1980, where the principal focus of the dispute in the case was real property, the home where they lived with their children.  The only difference between that case and my case is Mr. Bryce purchased the home only two months prior to the marriage versus I, you know, purchased mine four years before the marriage.  Mr. Bryce introduced the deed and other evidence to show that he had acquired legal title to the house. He retained the title. He made all the financial contributions to the house, the down payment, all settlement charges, mortgage payments, taxes, insurance, and improvements. The appellant in this case did the exact same thing. The trial court found that the title and fee had always been exclusive in the name of Thomas H. Bryce.  and awarded and granted the full title and fee exclusively, solely, and alone to Mr. Bryce. The only thing the appellant is asking is for the same legal right. This is what the law states to do, and the judge in this case inserted a date and followed the law. Did not take into account any extraneous things, he just simply followed the law.  Now in a more recent example, Bonsada versus Wheeler, this one was way more convoluted, because they were actually registered domestic partners, they live together, they shared expenses, they were engaged, they actually shopped for the house together. They bought and began living together on Rittenhouse Street in Northwest.  But in this case, Wheeler, the title holder, nefariously persuaded his soon-to-be wife not to put her name on the title. She understood that she was going to be co-owner of the house. Wheeler made the down payment on the home, made all the mortgage payments, and was the only person whose name was on the title. Even though he hedged his wife out of this investment, the court concluded that Rittenhouse  the Rittenhouse house acquired by Wheeler only a month before the marriage was premarital and the property was not subject to equitable division. And citing Yeldell versus Yeldell and Hemley versus Hemley, the court was required to find that the non-titled spouse had a legal or equitable interest in the property. In this current matter before the court,  The appellee showed no evidence of any payments made toward the mortgage, no tax returns, no utility payments, no evidence of her being on the title, and no evidence in the upkeep or repairs of the home. Mr. Macklin?",
+    "speaker": "brianmacklin",
+    "tags": []
+  },
+  {
+    "start": 5082.448,
+    "end": 5091.19,
+    "text": "Yeah. Is it your position that the appellee in this case is entitled to no equitable lien at all?",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 5092.57,
+    "end": 5094.99,
+    "text": "It is my position that that's what the law says.",
+    "speaker": "brianmacklin",
+    "tags": [
+      "substantive_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5096.451,
+    "end": 5120.92,
+    "text": "Because one point that  the appellee makes in her brief is that at trial, your counsel conceded that she was entitled to some equitable lien, but at a somewhat lower amount or percentage of the equity in the house than the judge ultimately awarded.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment",
+      "record_reference",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 5123.642,
+    "end": 5171.063,
+    "text": "Okay, well,  It is my position that the law supersedes. So whatever is said in court, I believe the law supersedes everything. But if the law says a certain thing, I wanna follow what the law says. There was a house that I purchased after the marriage that she got a part of, that I purchased with my company. She got a part of that, that was the law. So she received that. There was a business that I started after the marriage.  She got a part of that. That was the law. They put the date in, the date was before the marriage or after the marriage, so she got a part. The home that I bought- Let me ask you, if I may interrupt you for a moment, let me ask you a related question.",
+    "speaker": "brianmacklin",
+    "tags": []
+  },
+  {
+    "start": 5172.965,
+    "end": 5190.667,
+    "text": "The mortgage payments on,  this house and I'm blanking on the address of the house. I apologize. Go ahead. Quincy Place. Yes. The mortgage payments on the Quincy Place house during the marriage. Where were those payments made from? Were they made from a joint account?",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 5191.468,
+    "end": 5192.51,
+    "text": "They were made from my account.",
+    "speaker": "brianmacklin",
+    "tags": [
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 5193.473,
+    "end": 5202.418,
+    "text": " Was that account in your name alone? It was in my name, but I put my, yes, the account was the, this account was started in my name.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 5202.859,
+    "end": 5215.406,
+    "text": "However, I did put my wife on the account at a later date so she could have a, a bank card so that she could shop. But she didn't, she, but this account was my account. She actually had her own account at TD bank.",
+    "speaker": "brianmacklin",
+    "tags": [
+      "fact_statement",
+      "concession"
+    ]
+  },
+  {
+    "start": 5216.287,
+    "end": 5232.36,
+    "text": "There seems to be a claim, if I understand correctly, that, um,  the mortgage payments were made from an account in which your wife did contribute some income. Are you saying there's no evidence to support that? There's not evidence of that.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 5235.481,
+    "end": 5261.577,
+    "text": "The money that she was making when she was working, because she didn't work really most of the marriage, the money that she was making  primarily went to her travel expenses, her day-to-day, just her day-to-day expenses. That's why she stopped working, because the money was not enough to be profitable for the family.",
+    "speaker": "brianmacklin",
+    "tags": [
+      "fact_statement",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 5264.398,
+    "end": 5282.742,
+    "text": "But the trial judge's reasoning was really different, right? It was that she was entitled to have an equitable interest  in this home, which a trial court recognized you had purchased before the marriage. Right.",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_comment",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 5283.502,
+    "end": 5283.742,
+    "text": "Right.",
+    "speaker": "brianmacklin",
+    "tags": [
+      "acknowledge",
+      "agreement"
+    ]
+  },
+  {
+    "start": 5283.842,
+    "end": 5323.647,
+    "text": "Because the fact that because of the fact that she was taking care of the kids and doing work in the home. Right. That permitted you to not have to do those things and to pursue your own  you know, remunerative things. What I wanted to know is, I know that there was evidence that at some point soon after you purchased the home, you did some work, whether you did it yourself or not, I don't remember, to convert the house from a rooming house to a home, right?",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 5324.348,
+    "end": 5324.608,
+    "text": "Yes.",
+    "speaker": "brianmacklin",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5325.108,
+    "end": 5347.168,
+    "text": "Yes. That was before you got married. Yes. Correct? Yeah. That was the first. Yeah.  Now, did you do, during the marriage, did you do upkeep on that house or similar work to maintain it to enhance its value? I added a deck on the back of the house.",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 5349.009,
+    "end": 5369.497,
+    "text": "There was a garage behind the house that was nearly condemned, so I had to repair it.  Um, I put on a garage door, but most of it was cosmetic. Like I refinished the floors. Um, I, uh, upgraded the kitchen. Uh, but actually I upgraded the kitchen before the marriage. Um, you're asking for things during the marriage?",
+    "speaker": "brianmacklin",
+    "tags": [
+      "fact_statement",
+      "rebuttal_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5370.017,
+    "end": 5373.259,
+    "text": "I'm asking for things during the marriage. Okay. During the marriage.",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 5373.299,
+    "end": 5381.224,
+    "text": "Yeah. Mostly during the marriage was the garage house. I renovated the garage house and I added a deck.",
+    "speaker": "brianmacklin",
+    "tags": [
+      "fact_statement",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5381.798,
+    "end": 5383.879,
+    "text": " Now you're living in that house at that time, right?",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 5384.219,
+    "end": 5384.959,
+    "text": "Yes, I was living.",
+    "speaker": "brianmacklin",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5385.279,
+    "end": 5387.98,
+    "text": "These are kind of things you're doing as a homeowner in your own home.",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 5388.5,
+    "end": 5425.704,
+    "text": "Right. And also just to make a remark on your earlier point of her being at home with the children, I actually worked from home. So we were both at home with the children all the way up until 2015 when I purchased a property for my business.  So there was no real separation saying that she was the primary housekeeper or homemaker during that time. I also was in the house at that time. So yeah, but I'm sorry, I interrupted. Were you going to say something else?",
+    "speaker": "brianmacklin",
+    "tags": [
+      "rebuttal_argument",
+      "fact_statement",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5426.264,
+    "end": 5451.922,
+    "text": "No, no, I was trying to understand the kind of the factual basis for the  for the trial courts theory that somehow by taking care of the kids and maybe taking care of things around the house, you were freed up to do other things that created an asset or enhanced the value of an asset.",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 5452.342,
+    "end": 5477.793,
+    "text": "Yeah, I actually ran my business from my home even before the marriage.  So that stayed consistent even after I got married, I was still, you know, working from home. I had a desk in my living room that I used in the front window of the downstairs and that stayed until 2015. So, yeah. So anyway, so I guess I'll continue.",
+    "speaker": "brianmacklin",
+    "tags": [
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5478.893,
+    "end": 5485.378,
+    "text": "Please. Continue, take another minute or two and then we'll let you take a break and we'll hear from opposing council.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_procedural_directive",
+      "time_management",
+      "case_transition"
+    ]
+  },
+  {
+    "start": 5485.893,
+    "end": 5575.83,
+    "text": " Okay, okay, okay, okay. Let's see what's the best things for me to say. Okay, so another thing was the pendente lite vehicle that I gave my wife or was forced to give her during the trial, was told that I was going to receive that back. And at the end of the trial, the vehicle was  found abandoned and destroyed in a glass in a grass field. And I never received any compensation was never realized in the final order and there was no nothing about also the corporate debt of the family I never, you know, never realized anything for that.  And also, just to be clear, like, I really want to harp on the fact of this whole date situation. In all of my research, I've yet to see a case where the date on a marriage certificate was voided or even changed by something set in court. As strict as all the judges were by abiding by dates and respecting contracts and respecting the law,  The fact that this judge did not take the actual marriage date into consideration for his determination is groundbreaking and incomprehensible. Because the appellee asked the court to take the property's value from 2004, a year before the marriage, the court decided to overrule the law and comply. A false narrative should not be able to suit the law.",
+    "speaker": "brianmacklin",
+    "tags": [
+      "fact_statement",
+      "substantive_argument",
+      "rebuttal_argument",
+      "disagreement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 5575.951,
+    "end": 5624.209,
+    "text": "I'm sorry, Mr. Macklin. What the trial court said about that,  And this is at, maybe I can, it's at footnote five of page 26, something similar to what Judge Flickman said earlier, which is you guys didn't complain about it then, that the only calculation was offered from 2004 and that your counsel raised no complaint about it. Now, generally, I agree with you, the law reigns supreme, but generally speaking, if you see a legal error in court, you have to speak up. And if you don't,  don't get to complain about it later. I mean, generally, that's not always true. Right. So, so, well, I'm not, I'm not, well, so my complaint is, is this, the date of the marriage was never in question.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_comment",
+      "record_reference",
+      "judge_procedural_directive",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5624.369,
+    "end": 5653.22,
+    "text": "So if I need to remind them during that time that the date of the marriage is April 23rd, 2005,  I think that's been said many times throughout the course of the trial, that this is the date of the marriage. The fact that they want to say the sky is purple doesn't automatically make the sky purple. If the date of the marriage is April 23rd, 2005, that's the date of the marriage. So Mr. Macklin, I want to be sure I understand how this issue shapes up or plays out.",
+    "speaker": "brianmacklin",
+    "tags": [
+      "fact_statement",
+      "rebuttal_argument",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 5653.661,
+    "end": 5686.427,
+    "text": "Okay. Your point is that the court should have used for its calculations  the equitable value of the Quincy Street house as of ideally April 2005. Correct. And instead, the court used, the court didn't have a value on that precise date. Instead, the court used the value of the house as of  2004. Actually, that's not true. Tell me where I'm going wrong there.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 5687.087,
+    "end": 5711.742,
+    "text": "So the appellee actually submitted a graph that showed the values in D.C. for my neighborhood for all years, all the way up until 2016. That is where they extrapolated their data from. And we accepted that that extrapolation of that graph. So the judge did have that information.  of what the value was in 2005?",
+    "speaker": "brianmacklin",
+    "tags": [
+      "fact_statement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 5713.023,
+    "end": 5731.406,
+    "text": "Well, this... Right. I'm not saying she didn't. I misspoke when I said she didn't have the exact date. Okay. I'll stand corrected on that. Okay. But she used, in fact, a number for 2004. And no actual month, just the year?",
+    "speaker": "judgeglickman",
+    "tags": [
+      "concession",
+      "acknowledge",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 5731.426,
+    "end": 5732.647,
+    "text": "No, no actual month, just the year.",
+    "speaker": "brianmacklin",
+    "tags": [
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 5733.187,
+    "end": 5748.269,
+    "text": "Now, what is the... Since you say she had the actual  or a value for 2005. What was the difference between the value for 2005 and the value that she used for 2004? Hold on one second, I'll pull that up. Okay.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question",
+      "judge_procedural_directive"
+    ]
+  },
+  {
+    "start": 5766.717,
+    "end": 5796.552,
+    "text": " Okay, so the value in 2005 Okay, here it is. Okay, doing the math.  The value in 2005 which is the way that the that the graph works it's the purchase price plus 2.09 times the purchase price so that will put the home in April 2005 to be worth $695,970.",
+    "speaker": "brianmacklin",
+    "tags": [
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 5803.215,
+    "end": 5805.717,
+    "text": " $695,970, according to the evidence that was submitted by the appellee.",
+    "speaker": "judgeruiz",
+    "tags": [
+      "fact_statement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 5805.737,
+    "end": 5815.925,
+    "text": "I'm sorry, what was the purchase price? The purchase price of the house was $223,000 in 2001. So all of that increase, I realized before the marriage. What I want you to tell me now is what was the value",
+    "speaker": "brianmacklin",
+    "tags": []
+  },
+  {
+    "start": 5833.042,
+    "end": 5837.125,
+    "text": " in 2004 that you say the judge erroneously used.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 5838.226,
+    "end": 5846.872,
+    "text": "Oh, okay. I did not do the math on that with the judge. I didn't. Let's see. I guess that will be in her final order. Hold on one second.",
+    "speaker": "brianmacklin",
+    "tags": [
+      "acknowledge",
+      "concession",
+      "hedge",
+      "time_management"
+    ]
+  },
+  {
+    "start": 5872.689,
+    "end": 5892.859,
+    "text": " I, I think it's at page 26. Well, thank you. I'm not actually sure. Let me, I should have been more careful. I'm not sure that's quite. Okay. So basically she's saying that the house was only worth $227,000, which basically is only $5,000 of increase from the day I bought it is what she she's basically.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_comment",
+      "record_reference",
+      "hedge",
+      "fact_statement",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5902.895,
+    "end": 5935.214,
+    "text": " which is really low. I'm saying you're saying that the trial judge used the value of what? $227,000. Well, she seems to have used a 2002 price, right?  Exactly. That's what I, that's what I was, I was, that's what I made in my argument that she didn't even use it from 2004, like she said. Yeah. She used 2002. She took it from when she bought the house, which was, you know, almost really the purchase price. So I really realized nothing, no increase in this determination before the marriage.",
+    "speaker": "brianmacklin",
+    "tags": [
+      "substantive_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 5935.92,
+    "end": 5964.277,
+    "text": " Council, I'm sorry, Mr. Macklin, because you're doing such a good job, I keep calling you counsel. I think what she said, and maybe this is wrong, but I think what she said is that Ms. Walsh, the Applebee's expert, said that virtually all of the appreciation in this house accrued after 2005. So whatever accrued before that didn't amount to much. I think that's what the trial court said. I mean, that might be wrong. Yeah, I think it said 2004.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_comment",
+      "hedge",
+      "fact_statement",
+      "record_reference",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5966.703,
+    "end": 5993.937,
+    "text": " All of the increase happened in 2004 is what she's saying. That's what the graph says. The graph was not submitted by Mrs. Walsh and wasn't brought by Mrs. Walsh, it was brought by the appellee. So that was Mrs. Walsh's first time seeing the graph. So just looking at the graph, she basically said, yeah, it looks like all the increase happened in 2004. And that is before the marriage. Okay.",
+    "speaker": "brianmacklin",
+    "tags": [
+      "fact_statement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 5998.07,
+    "end": 6008.973,
+    "text": " But did the trial court actually even take off the purchase price? The calculation that I saw seemed to take only the mortgage off. Is that correct?",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_question",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 6012.954,
+    "end": 6016.075,
+    "text": "Are you talking about like for what's owed on the house?",
+    "speaker": "brianmacklin",
+    "tags": [
+      "hedge"
+    ]
+  },
+  {
+    "start": 6017.355,
+    "end": 6032.134,
+    "text": "Well, that would be the mortgage. That's the 227.  Right. Right. She says the current value is 784 houses, a mortgage of approximately 227000, leaving equity of 557.",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_comment",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 6033.075,
+    "end": 6033.355,
+    "text": "Right.",
+    "speaker": "brianmacklin",
+    "tags": [
+      "acknowledge",
+      "agreement"
+    ]
+  },
+  {
+    "start": 6033.956,
+    "end": 6035.317,
+    "text": "And then gives 40 percent of that.",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_comment",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 6036.578,
+    "end": 6036.878,
+    "text": "Right.",
+    "speaker": "brianmacklin",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6037.919,
+    "end": 6050.109,
+    "text": "In other words, the trial court never actually takes anything off. She's not really looking at the enhanced value at all. Forget about whether it's 2004 and 2005. I don't think it's taken off at all. Any amount.",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_comment",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 6052.914,
+    "end": 6061.378,
+    "text": " The $557,000, the 750, 84,000 is the enhanced value. That's the enhanced value. That's the current value.",
+    "speaker": "brianmacklin",
+    "tags": [
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 6061.418,
+    "end": 6063.019,
+    "text": "That was the current value at the time.",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_comment",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 6063.579,
+    "end": 6065.48,
+    "text": "Right. Right.",
+    "speaker": "brianmacklin",
+    "tags": [
+      "acknowledge",
+      "agreement"
+    ]
+  },
+  {
+    "start": 6065.64,
+    "end": 6067.481,
+    "text": "Right. 559 increase over 2002.",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_comment",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 6068.401,
+    "end": 6077.285,
+    "text": "Right. So she didn't give any increase in value in 2005. She just took it as pretty much from the bare bones of when the house was purchased.",
+    "speaker": "brianmacklin",
+    "tags": [
+      "acknowledge",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 6080.046,
+    "end": 6081.387,
+    "text": "Right. Let me just. Okay.",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_comment",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6083.157,
+    "end": 6095.688,
+    "text": " So in other words, your point is that the trial judge gave you no credit for the increase in value of the house from the date you purchased it to the day before the marriage.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 6096.648,
+    "end": 6097.369,
+    "text": "Exactly.",
+    "speaker": "brianmacklin",
+    "tags": [
+      "agreement",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6098.57,
+    "end": 6116.125,
+    "text": "And I think that Apelli's response is that, well, you didn't object at trial.  to by arguing for a different valuation?",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 6116.245,
+    "end": 6187.378,
+    "text": "Well, I didn't, I mean, honestly, I didn't think that law had to be argued. The date of the marriage is the date of the marriage. So if they want to argue it from, you know, 1995, they can do that.  But what is the date of the marriage, the date of the marriage is April 23 2005 and all the rule ask you to do. And when you're making a determination you have to follow the rule is to put the data. The data is on a lot of documents. So, I mean, I really I mean the.  not to be, you know, disrespectful or anything, but this is a very smart judge. So she knows, you know, what I'm sure she's done this before. So she knows the dates and she knows, you know, the law. So this is not something that needs to really be inferred to her. Well, it sounds like the judge was of the view that the evidence showed that there had been no significant, the pre you want to basically no appreciation and value prior to the marriage.  That's what she's saying, that there's no appreciation in the value. But even outside of all of that.",
+    "speaker": "brianmacklin",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "fact_statement",
+      "hedge",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6187.398,
+    "end": 6189.339,
+    "text": "And you think the evidence doesn't support that?",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 6189.619,
+    "end": 6259.555,
+    "text": "The evidence does not support that at all. But even outside of even all of that, if you look at either of the two cases that I showed you,  These both of these two cases, the people bought the house either 30 days to 60 days before the actual wedding date. They were actually had contracts together, common law partners, you know, living together, expenses together, all of this stuff when they bought the house and still  the judge in the case awarded the property, even going outside of all this 2004 business, the judge in the case awarded the property title and fee to the title owner. Divorce is not supposed to punish your premarital life. This is supposed to be an equitable division of marital assets, which is what all the judges before have done.  So this judge, for some reason, decided that we were married in 2001, which I don't understand that, but that's what she did. So- Okay, let us hear from counsel for Ms.",
+    "speaker": "brianmacklin",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "fact_statement",
+      "disagreement",
+      "legal_citation",
+      "case_transition"
+    ]
+  },
+  {
+    "start": 6259.595,
+    "end": 6263.157,
+    "text": "Johnson, and then we'll give you a few minutes in rebuttal. Okay.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_procedural_directive",
+      "time_management",
+      "reserve_time"
+    ]
+  },
+  {
+    "start": 6265.999,
+    "end": 6418.462,
+    "text": "Good morning and may it please the court. Callie Cope Caston on behalf of Appalachian I. Johnson.  The order that the appellant is challenging here today is the product of a six-day trial at which both parties were represented by counsel and at which 14 witnesses testified. The judge presiding over that trial paid careful attention, and she issued a decision that was thoughtful and supported by the evidence that was presented at trial. We are here today not because that judge abused her discretion, but because the appellant simply did not like the decision the trial court reached.  That is not a basis for this court to disturb the final order and judgment below. Starting with the division of property, there's no serious question here that Ms. Johnson is entitled to at least some equitable interest in the house. The trial court properly determined that 55 Quincy Place Northwest was the sole and separate property of the appellant because he had purchased it prior to the marriage. And therefore, Ms. Johnson has no ownership interest in the house. We agree with that.  But as this court has made clear in numerous instances, most notably perhaps in Yeldell, it's squarely within the discretion of the trial court to award an equitable interest in the home. And that's what the court did here. It properly assigned Ms. Johnson a 40% equitable interest in the home based both on her financial contributions during the marriage and her contributions in the form of full-time childcare for the party's five children and full-time care of the household.  Now, Judge Deal asked a question earlier about Ms. Johnson's contributions going to the joint account of the parties. The testimony that was presented at trial showed that Ms. Johnson, in fact, when she was working, which was for close to five years of the marriage, or roughly 45% of the time that these parties were married, that her money went into a joint account out of which both the bills for the home were paid and which the mortgage was paid out of.  That's testimony that's from May 28 at transcript page 121, lines 6 through 8, which is at page 302 of our appendix. And also at page 979 of our appendix, you will find trial transcript testimony from June 13, page 133, lines 1 through 14.  There's no question that Ms. Johnson absolutely made both financial contributions at various points during the marriage and that she made significant contributions as a homemaker, which the trial court appropriately took into account. And I want to pick up where we left off with Mr. Macklin.",
+    "speaker": "calicopekasten",
+    "tags": [
+      "opening_argument",
+      "substantive_argument",
+      "legal_citation",
+      "record_reference",
+      "fact_statement",
+      "concession",
+      "agreement"
+    ]
+  },
+  {
+    "start": 6419.142,
+    "end": 6448.746,
+    "text": "Why wasn't she mistaken when she failed to deduct the equity?  and the money that Mr. Macklin had put into the home between 2000, he says 2001, but I thought the record said February 25th, 2002 and 2005. So at no point does she attempt to ascribe some value to that and then deduct it from the equitable, the mass from which she will then divvy up equitable shares. Why isn't that a mistake?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 6449.607,
+    "end": 6474.496,
+    "text": "A couple of responses to that, your honor. First,  It's not a mistake because the appellant at trial, when he was represented by counsel, never asked her to do that, nor did he present any evidence as to what that difference would have been that the trial court could have based her decision on. If she didn't have a number to deduct and she was never asked to deduct it, it's not an error by her to take the evidence that was presented before her as the only evidence and use that as a calculation.",
+    "speaker": "calicopekasten",
+    "tags": [
+      "rebuttal_argument",
+      "substantive_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 6474.776,
+    "end": 6502.213,
+    "text": "I appreciate the second point, but let me press you on the first. Why would counsel have had notice  Mr. Macklin's counsel have had notice that she would fail to do the exact calculation that your expert said she should do. I mean, your expert said you deduct the equity that's in the house before the marriage. What was there to object to? She issued a ruling that didn't do that when everybody seemed to be in agreement that she ought to do that.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 6504.422,
+    "end": 6617.799,
+    "text": " The reason, Your Honor, that he would have been on notice is because the only evidence that Ms. Walsh was presenting about the value of the home was from the time that Ms. Johnson first moved into the home for the full first year, which would have been in 2004. Opposing counsel, who was representing Mr. Macklin at the time, had full notice that that was the only number that Ms. Walsh was talking about. He knew that on cross-examination, he could have asked Ms. Walsh questions about what that difference would have been if we were looking at 2005.  Because Ms. Walsh was one of the first witnesses to testify at trial, he had plenty of notice that he could have brought at any point in the remaining days of the trial his own witness to talk about a different number that that would have been or what that value would have been. And certainly, at minimum, he could have, in closing arguments, said that he thought that it was error for the appellee to ask for the calculation to be from 2004 or for Ms. Walsh to have presented the evidence from 2004. None of that ever happened.  Instead, what happened was that the trial court was presented with one number, which was 2004, and Ms. Walsh testified at trial that the value in 2004 was minimally different than the value in 2001 or 2002, which she was looking at as the starting point for the purchase of the home. So that's the only evidence that's before the trial court, and the trial court used those numbers to reach her calculation without any alternative.  there's no abuse of discretion by the trial court to use the evidence that was presented. Additionally, this is not a question of if Ms. Johnson is entitled to some interest in the House, the question is exactly where to draw the line. The appellant conceded that Ms. Johnson was entitled to up to 20% of the equity in the value of the home,  That's what he argued through his counsel at trial. We asked for 50 percent. They asked for up to 20 or conceded up to 20. And the trial court judge granted 30.",
+    "speaker": "calicopekasten",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "fact_statement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 6617.859,
+    "end": 6624.947,
+    "text": "Zero to 20. I mean, there is a zero in there, too, which is at least keeps alive the argument that she doesn't get anything.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_comment",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 6627.075,
+    "end": 6695.95,
+    "text": " In fact, actually, I don't think that it does, Your Honor. I agree that he said zero to 20, but when asked by the court whether Ms. Johnson had an equitable interest in the home, the response of Mr. Macklin's counsel at trial was, quote, absolutely. Although he then says somewhere between zero and 20, I don't think that it does keep alive the idea that there would have been zero. He conceded that there was equitable interest in the value of the home on behalf of Ms. Johnson. That's at page 1333 of our appendix.  What this court was doing was balancing the many factors that were presented to the court in terms of the financial contributions that both parties were making. She didn't suggest that Ms. Johnson was making disproportionately high payments. She took into account the homemaker contributions of both parties. And where she came out was below what the appellee was asking for at trial. She came out with a 40% calculation. Even if this court would find that  looking at the evidence anew, they think that it would be a different number than the 40%. There's no question about an abuse of discretion here. She took into account all of the factors that were asked of her under the DC code.",
+    "speaker": "calicopekasten",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "concession",
+      "rebuttal_argument",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 6697.411,
+    "end": 6774.563,
+    "text": "It's kind of a funny step that she takes, though. What she says is, I'm not going to give her 50% because he made all these renovations before she moved into the house. So rather than trying to come up with  what her appropriate equitable share would be minus those renovations, she instead kind of collapsed the inquiries and said, well, let's not fuss about the exact amount of renovations and equity. We'll just take 10% off the top at the end of the calculation, which is, I think you might agree, not quite the way you should do it. It's not quite legally correct because  it seems to me you first have to start with the baseline. What is, what is the big chunk that we're dealing with? And from that, you should take away whatever equity he had put into the house before the marriage. And then you should decide, does she get 50% or 40% or something less to kind of lump it all in together with a kind of a crude, I'll just drop it down 10% because maybe that's roughly gonna even out versus what he put in before the marriage. Uh,  It's pretty rough. I mean, it is not so precise, I guess, is what I'm saying, counsel.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_comment",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 6776.585,
+    "end": 6816.574,
+    "text": "Your Honor, under Yeldell, the calculation that a trial court is asked to do is to take the value of the home at the time of divorce, which in this case is represented by the joint appraisal that the parties had for $784,000.  they take that number less the value of the home at the time that the equity began accruing. In this case, the judge used 2004 for that data point because that was the only evidence that was presented. And in fact, I would argue that that's an appropriate number for her to use because that is the point at which Ms. Johnson and Mr. Macklin were both living full time in the home with two children and that Ms. Johnson's equity began accruing. But regardless, that's the number that the trial court had.  You then take the difference between those.",
+    "speaker": "calicopekasten",
+    "tags": [
+      "legal_citation",
+      "substantive_argument",
+      "fact_statement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 6816.994,
+    "end": 6846.261,
+    "text": "Let me stop you for a second, counsel, because I think what the trial court also did was when apportioning the amount of equity that each party should get, she said, I'm going to take 10% off of Miss Johnson's accounting because he clearly did more than I'm giving him credit for so far, because he clearly did this major renovation before she moved in. And rather than try to assess that at the front end, I'll just take 10% out of her equity on the back end. So that's what I think she's doing.  Which is not quite how you've described it.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_interruption",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 6848.343,
+    "end": 6901.223,
+    "text": "Sure, you're to continue the calculation, your honor, what they then what the trial judge then have to do is determine what the equitable share is within that difference. In this instance, she did deduct it deduct the 10%.  Arguably 50% share of that equity and the reason as your honor suggested that she may have taken that 10% deduction may very well have been in her discretion due to the improvements that Mr Macklin made before the time that the parties moved in together.  I think that's an appropriate move for her to make because she didn't have any other way of valuing that. The suggestion that she should have somehow tried to figure it out on the front end when she had no evidence to do that is putting a burden on her that the judge doesn't bear. That's on the appellant to bring forth that evidence if he thinks that there is a value that should be given there. When you say that there's no evidence of that, I mean, that happened before 2004, didn't it?",
+    "speaker": "calicopekasten",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "acknowledge",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 6903.296,
+    "end": 6913.14,
+    "text": " The improvements? It did, Your Honor. So presumably, the 2004 valuation would have included that, no?",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 6914.141,
+    "end": 6973.75,
+    "text": "So the 2004 valuation, if you look at what Ms. Walsh testified to, was that there was, quote, minimal difference in the value of the home at the time that it was valued in 2004 and the time that the appellant bought the house.  I'm not disagreeing that he made improvements to the house at that point. What I'm saying is the only evidence that the trial judge had to rely on to determine what the value of that would be.  suggested that there was minimal difference. And so she was in finding the value of the home at 2004 to be roughly what it was in 2002. She's using that for her calculation to try to roughly approximate what the value of the house was at the time that Ms. Johnson's equity began accruing. For the trial court judge to then say, I think that Mr. Macklin should in fact receive credit for that to some degree. And the way that I'm going to do that  is by, in my discretion, deducting some percentage of what would otherwise be a 50% equitable share from Ms. Johnson is not unreasonable.",
+    "speaker": "calicopekasten",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "concession",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 6974.631,
+    "end": 6999.668,
+    "text": "You started to go through the actual numbers and then we interrupted you. I would appreciate it if you would go through the actual calculation again while we're all listening, because I have some doubt as to whether the trial judge actually gave any credit for equity.  So the current value at the time was $784,000. Is that the top number? That's correct, Your Honor. OK. And then what gets taken off?",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "judge_procedural_directive"
+    ]
+  },
+  {
+    "start": 7002.35,
+    "end": 7013.199,
+    "text": "So it appears that what the trial judge then subtracted was the mortgage value of the home at the time that she was looking at this in 2004. $227,000, right? Correct.",
+    "speaker": "calicopekasten",
+    "tags": [
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 7019.169,
+    "end": 7024.512,
+    "text": " Okay. And that leaves us with, I'm trying to do the math on the fly here, your honor.",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_comment",
+      "time_management",
+      "hedge"
+    ]
+  },
+  {
+    "start": 7025.152,
+    "end": 7047.238,
+    "text": "Well, I think it's on page 26, 557, which is what she determined that it was. So 557. Okay. Correct. And then what gets taken off?  And that because those are the differences in time between the 2004 value at which the equity began accruing and the difference in time. No, no, no, there's no reversing equity.",
+    "speaker": "calicopekasten",
+    "tags": []
+  },
+  {
+    "start": 7047.278,
+    "end": 7071.953,
+    "text": "That's a mortgage, that's a mortgage payment. That's a mortgage, that's a debt on the property. Where is any equity, any pre-marriage equity in this calculation? Because I see the 40% being applied to the 557 and then less on cost of sale.  I might be mentioning something, but I just don't see it anywhere, any value.",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "disagreement"
+    ]
+  },
+  {
+    "start": 7073.134,
+    "end": 7101.572,
+    "text": "Your Honor, the pre-marriage equity is not being taken out in the equity value of $557,000 being deducted. It's being taken out in the difference between a 50% equal share for Ms. Johnson and Mr. Macklin and the 40% that Judge Becker ultimately determined  with Ms. Johnson's fair share acting in her discretion to determine what each party's contribution was ultimately to the value of the home at the time it was sold. But we know that the purchase price of the house was how much?",
+    "speaker": "calicopekasten",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 7102.732,
+    "end": 7106.193,
+    "text": "So my God, that 10% is... 225. The purchase price of the house was 225.",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_comment",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 7106.233,
+    "end": 7108.074,
+    "text": "Okay, so that would leave 332, right?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 7108.094,
+    "end": 7108.414,
+    "text": "Is that correct?",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 7120.37,
+    "end": 7125.412,
+    "text": " The purchase price is accounted for with respect to the mortgage.",
+    "speaker": "calicopekasten",
+    "tags": [
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 7126.333,
+    "end": 7137.097,
+    "text": "If we take off the purchase price, the net is $332,000. Your Honor, the value of the mortgage represents the purchase price.",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_comment",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 7137.177,
+    "end": 7150.347,
+    "text": "That is...  the value of the home at that point in time. It's accounting already for the purchase price. That's not something that needs to separately be taken out from the difference between what the home is worth at that point and what it ultimately sold for.",
+    "speaker": "calicopekasten",
+    "tags": [
+      "fact_statement",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 7150.707,
+    "end": 7162.673,
+    "text": "You're saying that the mortgage is a stand-in for the purchase price? Eventually, yes, Your Honor. Even though it's $100,000 less? It's not $100,000 less, Your Honor.",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 7162.693,
+    "end": 7164.594,
+    "text": "It's actually the mortgage at that point was $2,000 more.",
+    "speaker": "calicopekasten",
+    "tags": [
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 7169.111,
+    "end": 7195.641,
+    "text": " Yes, it's 227. Correct. OK. I see. May I ask you, in your view, did the court have any evidence before it that in the year between 2004 and the date of the marriage, there had been significant depreciation in the value of the house?",
+    "speaker": "judgeruiz",
+    "tags": [
+      "judge_comment",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 7197.562,
+    "end": 7198.102,
+    "text": "No, Your Honor.",
+    "speaker": "calicopekasten",
+    "tags": [
+      "disagreement"
+    ]
+  },
+  {
+    "start": 7199.078,
+    "end": 7235.904,
+    "text": " Because Mr. Macklin's argument is that in a nutshell, I think the graph that was an exhibit showing the appreciation of value of properties in the area showed a big appreciation. So that by 2005, at the time of marriage, the equity in the house  There's not really only was not really just $227,000, but was a few hundred thousand dollars more. How do you respond to that? I want to be.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 7237.105,
+    "end": 7305.389,
+    "text": "Yeah, I want to be clear, Your Honor, because actually, Mr. Macklin reading that number today was the first time that I've ever heard that number.  What he's reading from is a demonstrative that was presented to the court. It was in fact not evidence. It was never admitted as an exhibited trial. It was not part of the record that was ultimately before the court. Or that is before this court. Now what was presented to the court were the numbers that  Ms. Walsh was using for her calculation, looking at the 2004 value. Ms. Walsh did agree that at some point in 2005, if you read her testimony, she said at some point in 2005, there was an increase in value due to a housing bubble. There are recessions and booms throughout the time of the marriage, certainly. But what we're trying to do is use 2004 or  2005 as this approximation for the point where the value began accruing for the purposes of Ms. Johnson's equitable contributions to the home. It's not like Ms. Johnson got a year more credit by using 2004 versus 2005. The only evidence that the court had is not what Mr. Macklin read. It is that the value of the home in 2004 was $227,000.",
+    "speaker": "calicopekasten",
+    "tags": [
+      "court_procedural_remark",
+      "record_reference",
+      "rebuttal_argument",
+      "substantive_argument",
+      "fact_statement",
+      "concession",
+      "disagreement"
+    ]
+  },
+  {
+    "start": 7311.077,
+    "end": 7334.828,
+    "text": " And just one last question that kind of sticks on this topic. Presumably, Mr. Macklin had a down payment, made some mortgage payments between 2001 and 2005 that he has never been given any credit for. And I assume your answer to me is going to be, but tell me, I just don't know the answer to this. Is the answer you should have supplied evidence of that and he didn't?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 7337.401,
+    "end": 7408.805,
+    "text": " That's part of the answer, Your Honor. Part of the answer is also to the extent that he's arguing that he should be given credit when the purchase price of the home was $225,000 and the value of the mortgage or the value of the home when we're looking at this is $227,000. I'm not sure where he should have argued that he should have been given credit for a lot of that time. The court appropriately used the value at the time Ms. Johnson's equitable contributions began  accruing. This isn't a calculation of each year, each person gets a certain amount of equity in a home and therefore  They should be given credit for that time period. He was given credit by the fact that 2004 was the value that was used when calculating the home. The difference between 2001 and 2004, if it was material, he should have presented evidence on because the court was using the 2004 value, but she didn't find that Ms. Johnson was entitled to any part of what Mr. Macklin used in terms of his contributions between the 2001 and 2002 time period.  I'm certainly happy to answer any other questions the court has. Otherwise, I know that I'm out of time, and so I will return to Mr. Macklin.",
+    "speaker": "calicopekasten",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "time_management",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7409.486,
+    "end": 7425.194,
+    "text": "Before you sit down, do you wish to speak at all to Mr. Macklin's first argument regarding the evidentiary support or lack thereof for the ultimate custody determination that the court made?",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 7426.815,
+    "end": 7552.992,
+    "text": "I do, Your Honor. With respect to the custody, the trial court judge did  The Trump court judge did exactly what she was asked to do by the DC code, which is to conduct an assessment of the 17 best interest factors. And she did. So with the exception of the factor, considering a disruption in the children's school and social life which neither party presented evidence on a trial or suggested actually applies in this case.  The court's findings, then, by drawing on extensive testimony from the witnesses, including from the three children, and I want to speak to the question about what the children's preferences were stated when the judge interviewed them, because there was, in fact, evidence that all three of the children testified that they were comfortable with generally the arrangement that they had or something less than that, with the exception of Avery suggesting he wanted one more day.  The testimony that the children gave, which was on Wednesday, June 6 2018 at page 192 of the trial transcript from that day. Kindle testifies about the fact that she didn't want to have any time with Mr Mack on page 203 every testified that he thought maybe giving his dad one more day would be fair, but he generally thought the arrangement or the balance between the parties was a good one.  At page 237 through 238 Ryan testified, I want to leave it the same speaking about the custody arrangement, quote, I think it's good how it is. I think it's balanced. Okay. So based on interviewing these children based on the testimony of all of the witnesses, the trial court relied on those findings.  from the 16 of the 17 best interest factors that were relevant to her consideration. And she determined exactly what is the presumption in this jurisdiction, which is that the party should have joint legal and physical custody and that primary physical custody in this case was most appropriate with Miss Johnson.  based on the testimony that the court had heard. There's no indication that she abused her discretion by not considering some of the evidence that Mr. Macklin has cited today that was not part of the record before that court. And again, it's not part of the record before the court today. Thank you, Your Honor.",
+    "speaker": "calicopekasten",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "legal_citation",
+      "rebuttal_argument",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7554.145,
+    "end": 7558.449,
+    "text": " Council, thank you. Mr. Macklin, we'll give you three minutes and rebuttal.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "acknowledge",
+      "reserve_time",
+      "judge_procedural_directive",
+      "time_management"
+    ]
+  },
+  {
+    "start": 7559.049,
+    "end": 7711.232,
+    "text": "Okay, so everything that I said today was on the record. So I don't understand the last statement that Ms. Caston just said. Everything that I spoke of, all of the different things that I listed about the drug abuse, about the violence, everything there is on the record and cited. I cited it in my brief. So I don't understand that statement.  However, speaking on the children, and for me, if I put myself in my children's shoes, and I go through, you know, a two year long divorce, which is not a pretty divorce.  You know, it's a lot of moving parts, people having to sell their homes and move here, move there. And, you know, it gets really ugly and it's an uncomfortable thing, more so for the kids, I think, than the adults, because the kids are moving back and forth. However, the custody determination as it is right now was gotten nefarious.  The custody as it is right now is deemed on an arrest that was made in 2016 where I was arrested for domestic violence, which I was acquitted of, which the court acquitted me of.  Since that time, when I was acquitted of those charges, I was supposed to be reintroduced to my family, and we were supposed to, because if you're acquitted, it's like it didn't happen. It's supposed to be, right? So at that time, I'm excited. I'm like, okay, now I get to be back with my family. And then at that time, Ms. Johnson then says, oh, well, now there's sexual abuse.  So then that makes it an even longer thing. I'm waiting months and months again for an investigation to happen. I'm going to quit it again. And now I'm like, OK, now I can be whole with my family. But then Judge McCabe just says, well, let's just leave it like this because of a comfort, because the kids are comfortable now where they are. I think that's an abuse, really, of the system. I feel like if you are going to accuse somebody of something  then it turns out that they didn't do what you accused them of, then there should be some recompense for that. There should be some type of, I don't know, like it should be repaired. You should be able to go back. It should be like you can go back in time.",
+    "speaker": "brianmacklin",
+    "tags": [
+      "record_reference",
+      "rebuttal_argument",
+      "disagreement",
+      "fact_statement",
+      "substantive_argument",
+      "policy_argument"
+    ]
+  },
+  {
+    "start": 7712.113,
+    "end": 7729.607,
+    "text": "Mr. Macklin, can I just ask you a factual question, which is my understanding was that after the accusation of sexual abuse that seemed to be unfounded,  There was a temporary suspension of your visitation rights. Is that correct?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 7730.968,
+    "end": 7735.209,
+    "text": "Yeah. It was for like a week. OK.",
+    "speaker": "brianmacklin",
+    "tags": [
+      "acknowledge",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 7735.629,
+    "end": 7753.863,
+    "text": "But but but once once that accusation kind of resolved itself, that suspension was lifted. So it wasn't like what the trial court did here.  was continuing the status immediately after. It was free of that accusation, I guess is what I'm trying to say.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_comment",
+      "hedge"
+    ]
+  },
+  {
+    "start": 7755.344,
+    "end": 7884.116,
+    "text": "No, that's not the case because when it was suspended, my reduced visitation was suspended. It's not like I had 50-50 at that time. My reduced visitation was suspended and then I went back to reduced visitation. I never got my 50-50. I understand.  Right. So that's what I'm saying. And as far as the Yeldell versus Yeldell that she brought up earlier, in that case, Ms. Yeldell brought documentation. She diligently showed receipts. She showed, look, I paid this, I paid this, I paid this, I paid this, I paid this.  Okay, there was evidence, there was paperwork, there's a paper trail. So, you know, give me my money or whatever, right? In this case, nothing was shown, no tax returns, no receipts, no text messages saying, oh, I need money for the mortgage or can you pay this next week or nothing like that was submitted because I paid everything.  So for her to cite Yeldell versus Yeldell, that's a totally different thing, in my opinion. I believe that that's a separate thing. And the court put the burden on Ms. Yeldell to provide documentation. Zero documentation was provided in this. Not even a pay stub, I don't think. So that's my argument with that. And another thing that she said,  Oh, the demonstrative that she spoke of the demonstrative that she spoke of that was used in court is how they got their number. They actually use that demonstrative to extrapolate a number on that day, so I don't know why she's discounting the demonstrative as being a worthwhile thing now.  Um, that demonstrative was the only thing submitted to the judge to make a determination. So, and we accepted that demonstrative. So if she wants to call it a demonstrative, she wants us to call it evidence. That's what was used. That's what the judge saw. So, all right, Mr. Macklin, thank you.",
+    "speaker": "brianmacklin",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "legal_citation",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 7886.016,
+    "end": 7895.158,
+    "text": "Time. That's okay. That's okay. Thank you both. The case is now submitted and you'll be hearing from us. Okay. Thank you.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "court_closing",
+      "time_management",
+      "judge_procedural_directive",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7898.735,
+    "end": 7901.406,
+    "text": " This honorable court is now adjourned.",
+    "speaker": "kevinbrannon",
+    "tags": [
+      "court_closing"
+    ]
+  }
+]

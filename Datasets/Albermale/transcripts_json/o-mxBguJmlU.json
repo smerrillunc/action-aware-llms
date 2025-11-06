@@ -1,0 +1,977 @@
+[
+  {
+    "start": 15.893,
+    "end": 30.822,
+    "text": " It is 6.30 and I called this special meeting February the 4th of the Albemarle County School Board back into order. Ms. Carlson, do you have a motion?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 31.804,
+    "end": 51.118,
+    "text": "I do.  I move that the board certify by recorded vote that to the best of each board member's knowledge, only public business matters lawfully exempted from the open meeting requirements of the Virginia Freedom of Information Act and identified in the motion authorizing the closed meeting were heard, discussed, or considered in the closed meeting. Second.",
+    "speaker": "gc",
+    "tags": [
+      "procedural_move",
+      "vote_call"
+    ]
+  },
+  {
+    "start": 53.26,
+    "end": 75.218,
+    "text": "It's been moved by Ms. Carlson, seconded by, was that Mr. Oberg? It was me, Graham. OK, Mr. Alcaro.  that we vote saying that nothing occurred in the closed session that was not covered in the initial motion. Maybe we'll take a roll call vote on this. So Ms. Johnston.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "vote_call"
+    ]
+  },
+  {
+    "start": 76.079,
+    "end": 79.324,
+    "text": "Ms. Lee. Yes. Ms. Osborne.",
+    "speaker": "judyle",
+    "tags": [
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 79.784,
+    "end": 84.19,
+    "text": "Yes. Ms. Calcaro. Yes. Mr. Oberg.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 85.873,
+    "end": 86.033,
+    "text": "Yes.",
+    "speaker": "davidoberg",
+    "tags": [
+      "agreeing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 87.395,
+    "end": 89.217,
+    "text": "Ms. Carlson. Yes.",
+    "speaker": "clarekeiser",
+    "tags": [
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 89.758,
+    "end": 92.762,
+    "text": "Dr. Acuff. Yes. Mr. Page.",
+    "speaker": "judyle",
+    "tags": [
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 93.012,
+    "end": 185.721,
+    "text": " Yes. So the motion carries. We will now have a moment of silence before we begin our meeting.  Okay, thank you. And we must read this into our meeting minutes.  The minutes of this meeting should reflect that this meeting is being held electronically prescient to Virginia State Law and Albemarle County Ordinance because the COVID-19 pandemic makes it impracticable and unsafe to assemble a quorum physically in a single location. The meeting is being communicated to the public electronically through Zoom and streamed live on the Albemarle County Public Schools website. Tonight, we do not have public comment in person, but public comment may be made by written submission.  And to introduce the members of our board, Dr. Kate Acuff. You're on mute.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "logistics_info",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 185.781,
+    "end": 189.024,
+    "text": "I'm sorry, Chair Page. Kate Acuff, Jack Jewett District.",
+    "speaker": "clarekeiser",
+    "tags": [
+      "public_addressing",
+      "clarify",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 190.065,
+    "end": 196.21,
+    "text": "OK, Mr. John O. Alcaro. John O. Alcaro, at large. Ms. Katrina Coulson.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 197.591,
+    "end": 199.033,
+    "text": "Katrina Coulson, Raya District.",
+    "speaker": "gc",
+    "tags": [
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 199.913,
+    "end": 200.714,
+    "text": "Ms. Judy Lee.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 201.415,
+    "end": 202.956,
+    "text": "Judy Lee, Rivanna District.",
+    "speaker": "judyle",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 203.189,
+    "end": 209.038,
+    "text": " Mr. Dave Oberg. DAVE OBERG, Whitehall Magisterial District. Ms. Ellen Osborne.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 209.979,
+    "end": 211.601,
+    "text": "ELLEN OSBORNE, Scottsville District.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 212.202,
+    "end": 234.649,
+    "text": "Graham Page, Samuel Miller District. And Mr. Angel Pelkey. Is Mr. Pelkey present today? ANGEL PELKEY, student rep. Thank you, Mr. Pelkey.  We will now proceed with our meeting as shown on our printed agenda. Return to school stage recommendation, Dr. Haas and team.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 236.211,
+    "end": 240.475,
+    "text": "Thank you, Chair Page. I'm going to go ahead and turn things over to Dr. McLaughlin.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "defer_to_expert"
+    ]
+  },
+  {
+    "start": 250.967,
+    "end": 832.596,
+    "text": "All right. So good evening, board members.  I'm Pat McLaughlin, chief of strategic planning for the school division. And I want to start by saying I appreciate the board taking time for a special meeting tonight to hear Dr. Haas's recommendation about stage four of our return to school plan.  Tonight, we'll look at four pieces of information. One is going to be an overview of stage four, a reminder of what that will look like if and when we move to that stage. We're going to bring the board some updated guidance that we've received recently from the Department of Education that they suggest we use when making those decisions. Dr. Haas will make his recommendation for that stage four, and then we'll open the floor for questions from the board. So as a reminder,  Stage four of our return to school plan allows all of our students in grades pre-k to three to choose to come back to school four days a week for face-to-face instruction. Students in grades four through 12 can choose to come back for two days per week of face-to-face instruction.  And we polled our community back in December about what their intent would be when we did start stage four and stage four would have approximately 56% of our students returning to school for face to face instruction, which is just over 7600 students coming to school in that stage.  So as you also recall, in July, Albemarle County Schools developed a set of six factors to use as we determine progression from one stage to the next. Those factors are guidance offered by the CDC and state and local health authorities, applicable executive orders and local ordinances that may impact the ability to provide successful classroom learning, our current COVID-19 conditions in the Albemarle County region and within Albemarle County public schools,  the status of COVID-19 testing and tracking capabilities in the county, the ability of the schools, including staffing and resources, to implement the instructional and health plans, and feedback and input from stakeholders in our school communities. Recently, the Virginia Department of Education, in collaboration with the Department of Health, issued interim guidance for K-12 school reopenings.  The guidance includes six principles for decision making. Those principles are to support in-person learning, to prioritize younger learners, students with disabilities and English language learners, to put education first, to focus on prevention, to consider our community needs and to be flexible and innovative. And I think you'll see a lot of those guiding principles align with what we've been doing all along in the division.  And in addition to those guiding principles, the Department of Education has developed a five-step process to use as districts consider how and when to reopen schools. Those five steps are first, self-assessment of implementation of mitigation strategies, then a determination of the level of school impact, and that's for school districts like us that have had some in-person instruction. The third step is to determine the level of community transmission.  followed by understanding our community needs, and then it provides a decision-making matrix to decide which groups should return for in-person learning in the timeline for phasing in those groups. We're going to take you through each of these. We've evaluated them all, and we'll bring you through each step this evening. So the first step is to complete a self-assessment of the school division's implementation of mitigation measures, and these include consistent and correct use of masks, hand hygiene and respiratory etiquette,  contact tracing, preparing for when someone is sick in one of our buildings, social distancing, cleaning and disinfecting practices, and having a strong communications plan. As you know, you've probably seen these mitigation strategies are very similar to what we've adopted when schools first came back to session earlier this year. We feel like we've got all of those in place and we feel like they are being used consistently and correctly in all of our schools.  The second step in determining school-level impact of the pandemic is to determine the level of impact the pandemic is having on our schools. And the first criteria we're asked to consider is transmission within the school. And we rated our division right now at medium impact, and that's primarily because we've had one outbreak in our school system. If you'll recall, an outbreak is defined as two or more cases that were spread within the school. And we did have one school where we had two students, we believe,  catch the virus at school. Other than that, we've had little to no evidence of transmission within the school system, but we felt medium was the right level for that. The second criteria is the pandemic's impact on student attendance for those students who are attending in person. So we don't have any indications that our levels of absenteeism for the students who have elected to come back is, you know, due to illness during the pandemic is any higher than we would typically see from school absenteeism.  And so we've rated that level as low in terms of level of impact. And then finally, we've assessed staff capacity to implement stage four. And through the staffing meetings that we've held with each building principal, we feel that we do have the staff capacity to move into stage four.  The number of students who will be hybrid or who remain virtual was the key driver in those decisions. And as anticipated, as more students returned to in-person learning, there was less opportunity for accommodations for virtual teaching to be met. But despite having to deny a number of accommodation requests, we've had only a limited number of staff members decide to take a leave of absence through the end of the school year. So as such, we feel confident that we have the staff we need to move into stage four.  So in addition to the criteria outlined in state to stage to step to excuse me, we wanted to update the board on the status of employee vaccinations. For the past several weeks, our employees have had the opportunity to start receiving the coven vaccine. We're currently in the process of collecting data from our employees to give us a better sense of where we are in that inoculation process.  And we've been partnering with the Blue Ridge Health District to get our staff vaccinated as quickly as possible. So as you see here to date, we have 18, 819 staff members who've received their first dose of the vaccine. An additional 887 who are scheduled to receive the vaccine and 144 who are awaiting appointment availability. And we hope that that opens up for them in the near future.  So the third step in the process is to evaluate the rate of transmission in the community. And we've been updating the board pretty regularly on these metrics. And we'll give a brief covid update that you're familiar with now. The first thing that we look at is the case incidence rate in Albemarle County. And there's two ways that this is calculated. The first is with the seven day floating average. So you can see that our seven day floating average as of today, February 4th, is fifteen point eight cases per one hundred thousand  people in Albemarle. That trend is, as you can see, decreasing. It's been decreasing for the past 24 days. The other factor we look at is the seven-day floating average 4% positivity. And again, that trend is moving in the right direction in Albemarle. It's at 4.2% currently and has been decreasing for the past 31 days. We look at the same metrics in the city. The case incidence there is at 19.  and has come down for the past 23 days. And their percent positivity is at 2.8 and has been decreasing for multiple days as well. And finally, we have some other indicators that were suggested by the Centers for Disease Control several months ago. And that is to look at the case incidence rate as a cumulative running total from the past 14 days. That is at 314 for Albemarle County right now.  which puts us in the highest level of risk for COVID spread. They also asked that we look at the percent positivity over the last 14 days, as opposed to the last seven that we see from the Virginia Department of Health. And that is at 3.9% right now, which puts us in the lower risk category for that. And as you can see, this places us again in the highest risk category  case incidents, the lower risk for percent positivity, and they also factor in our ability to implement our key mitigation strategies. We believe that the strategies we have are correctly and consistently implemented, and that that puts us in the lowest risk of transmission for that category. It's also important to note that even when other categories are elevated, the advice that we've given is this is one of the most important. If you've got these strategies implemented correctly, that significantly helps  to mitigate your spread. And while these numbers show positive trends for the community, it's also really helpful to hear them in context from our local health professionals. And tonight, we're really happy to have two of those professionals here with us. Dr. Jeff Rogales is a pediatric cardiologist at the University of Virginia, and has been a member of the local COVID task force that meets weekly and is comprised of public and private school leaders,  local physicians, and members of our health department. And Ryan McKay is becoming a familiar face to us. He's the Director of Policy and Planning at the Blue Ridge Health Department. And they've both been kind enough to join us tonight to discuss what they're seeing in the community, as well as the latest research about the virus. So first, I'd like to turn things over to Dr. Vergales.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "cite_external_source",
+      "public_addressing",
+      "defer_to_expert",
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 834.736,
+    "end": 839.885,
+    "text": " Thank you, Dr. McLaughlin. I think actually Ryan is going to go first. Mr. McKay, all yours.",
+    "speaker": "jeilvargne",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 840.366,
+    "end": 1003.05,
+    "text": "All right. Thank you. Appreciate that. So I think what I can contribute really is just a continuation of what Dr. McLaughlin has already demonstrated with the numbers since January 14th. And I can take it back a little bit further.  In Albemarle County on January 12th, we had seen a seven day total of 386 cases in the county, which was the highest to that point in the pandemic. As of today, over the last seven days, we're down to 120 total cases across Albemarle County in the last seven days. So we've seen a significant drop in case counts, just raw data across the health district, but particularly in Albemarle County. We've also seen that drop in Charlottesville as well.  And while I can't share specific data on age groups for Albemarle County, we've seen a drop in total case counts across the district for school-age children, particularly for children between the ages of 5 and 10, where we were seeing about 20 cases per week across the district. We're now down to 10. And then from 11 to 19, we had seen a high of about 100 to 110.  which is now down to about 20 per week. That second age group includes 19 year olds. So that may be impacted a little bit by college age students. But I think the point is, is that even among children, K through 12 age children, we're seeing a significant decrease in the number of cases on a weekly basis. Positivity is also decreased.  Obviously, there's a little bit of influence when UVA begins to ramp up their testing. But I think the important thing to note from that is that we haven't learned experience from the impact of UVA students on our community, which is it's reflected in the numbers, but not necessarily in more transmission among our localities in Charlottesville and Albemarle.  And I think one other important note. So over the course of the surge, our case investigators and contact tracers have had to use an abbreviated investigation protocol to move through investigations more quickly. And while dropping or missing cases among school age children was not part of that protocol, it may have been part of the protocol for adults. We have evaluated where we are, we've made that assessment, and then barring any significant changes,  Beginning Monday, we will be reverting back to our traditional full investigation contact tracing, which just is a sign of where we are trending in the right direction as it relates to community burden and transmission. So at this point, we're very confident that we have gone through our surge, we're moving in the right direction, and we continue to see lower case counts throughout our district, but particularly in Charlottesville and Albemarle.",
+    "speaker": "ryanmckay",
+    "tags": [
+      "give_update",
+      "reassure",
+      "clarify",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 1006.591,
+    "end": 1705.776,
+    "text": " Thank you, Mr. McKay. I really appreciate that. By way, you guys are getting very familiar with seeing Ryan's face. I realize I'm a new face to this group. And so I just wanted to give a 10-second introduction to who I am. So my name is Jeffrey Gallis. By training, I'm a pediatric cardiologist at the University of Virginia. I've lived in Albemarle County now for about 12 years.  I, while I'm a pediatric cardiologist is my clinical role, my more professional role these days has more in looking at public health data and epidemiological data. I do this both nationally for numerous organizations that are surrounding, looking at overall kids and how they move through public health circles, as well as otherwise with significant types of congenital heart disease.  But the data science piece that I do has now spread much further than that, to the point that I have been an active member of the Blue Ridge Health District School Task Force now for almost the past year and have been serving on multiple states, governor's task force for looking at how we deal with congregate care settings in children, how we deal with day camps, and how we deal with schools at the governor's level, the state level, both for Virginia and an additional state as well.  And so while I joke that pediatric cardiology is kind of my clinical passion, COVID and children and things all such as that has kind of become my day job as of recent. And so this is an absolute privilege for me to kind of be able to share some of the nuances that we're dealing with both at a national and local level for looking at some of this data.  I wanted to start real quick by presenting a little bit of data that has not been shown as part of this and then putting that into context with what we're seeing specifically within our region. So one of the things that I've been asked by both a lot of teachers as I was kind of vaccinating at the Albemarle County Vaccine Clinic just last week, in addition to numerous parents, is to understand what we know about the scope of mental health issues with children of the school age right now.  We unfortunately have a lot of data that has now just come up in the last two weeks about what the burden that is being seen both regionally, locally, as well as nationally. Unfortunately, as we've surveyed all of the practitioners throughout the county and throughout the state, we've seen a massive increase in the rates of visits that have been specific to anxiety and depression. 95% of all clinical providers have seen a massive uptick in amount of kids that have been presenting with significant anxiety and depression.  That includes a now 25 to 50% just at UVA alone increase in inpatient admissions for eating disorders. Our kids aged between 11 and 18 are not doing as well as we would otherwise like right now. And so that is some data that we have been able to vet at the national level. And it's starting to be filtered through the CDC just as of recent.  Furthermore, we've been seeing a 50% increase in ADHD diagnoses across the Commonwealth of Virginia. And then probably unfortunately what some of the more harrowing statistics that I have to help kind of put in context is that we've seen actually a 50 to 75% drop in referrals for child abuse. That is from child abuse from mandatory reporting within the school system.  You guys know all teachers are mandatory reporters in this. And so we have unfortunately been seeing across the board in the last three months about a 50 to 75% drop in referrals for child abuse. We think the abuse is still happening. We just know that it is overall going unnoticed. And that is something that as pediatricians and public health experts, we're struggling to wrap our head around about how we can otherwise improve about this.  Also more considering Lee is that about 65% of practices has seen a significant increase in suicidal ideation visits and kids that are looking to harm themselves. And unfortunately we've had a 50% increase in suicide attempts across this state. I and across states, you know, like Virginia as well and 11 to 18 year old range.  I don't mean to present this data as, you know, kind of being, as the only reason for why we should look at the data about school opening, but to understand that we are now starting to look at some of the perceptions that we were fearing back in the fall, and actually looking at some of the hard data that's coming out, and us as pediatricians and the American Academy of Pediatrics figuring out how we're going to wrap our head around this and move forward with understanding that we're having a, approaching a significant issue with school-age kids these days.  I've also though however been very privileged as part of the Blue Ridge Health to really look at our local community and look at the numbers that we've been able to see in our local community that Mr. McKay has been able to present. I'll remind you guys that a lot of the independent and private schools have remained open during this time and so we have had an ability to look at their data and look at the information that they have been able to provide about outbreaks within schools and I'm thankful to say that we just have not seen any. While I will  Without a doubt, after knowing all the logistics of all the independent and private schools, I can tell you that Albemarle County has way more going for it right now as far as the planning and mitigation strategies that they put in place, that kind of lower left box that Dr. McLaughlin had kind of showed you compared to some of those. And so we've been very pleased that our folks, our partners in the independent schools and the private schools have the ability to be able to do to mitigate COVID. And more importantly, been able to find that we have not demonstrated secondary spread.  This was a lot of information that we otherwise were able to achieve early on back in the fall. But as a general rule, we still in public health circles view those as anecdotes. If we kind of hear about what happened at one school or what happened at another school or what one individual study had seen, to us that's anecdotes. And that does not necessarily push forward policy legislation of things that otherwise you guys are kind of wrapping your heads around.  That has changed and that has changed really just in the last month or two because we've been able to utilize across the region, various registries that have been allowed us to see what has happened across school age kids in the entire mid Atlantic region, as well as nationally.  Our folks down in North Carolina have done a very impressive job of looking at prospective registries of all of their individuals in school aged kids and teachers that have stayed in open schools. In addition to those that have been able to.  go forward with day camps and daycares that have occurred at the same time. This is information that we have just been able to publish in the last few weeks. Duke and the University of North Carolina has been able to show that across all of the schools that have remained open, we have had almost no secondary COVID transmission throughout those entire organizations. That's tens of thousands of individuals across 15 open school districts and 4,500 individuals that have gone through day camps and daycare facilities  that have shown that while we have had isolated cases of coven and that we've had no secondary spread and more importantly we've had no spread from teacher to student or from student to teacher. This is not that these are registry studies that are well above the kind of individual anecdotes and case reports that we've been able to otherwise kind of wrap our heads around.  and guess at back in the fall. But now that we have some of this data coming out in March, or in this winter, we've been able to really understand to the fact that what we have feared about schools being super spreader events has not played out as we've looked at a lot of the country or a lot of the, the states around us that have developed this.  This has spread nationally, Midwest, where a preponderance of schools have remained open. As we look at some of the prospective databases that we look at through the health system, we have found that states such as Wisconsin, Nebraska, Iowa, other states that have had a huge amount of people that have otherwise remained open have not had the outbreaks within schools and have not demonstrated secondary spread. A lot of you may have seen this reported out by the CDC just in the last few weeks. And this is information that's making its way very quickly through our circles.  And that furthermore, it's kind of mirroring what we're seeing internationally with countries such as Ireland and Sweden, Germany and Japan have all published their data regionally in our literature demonstrating very, very similar findings. And so I think if I could kind of summarize what we've demonstrated is that as a general rule, we were otherwise very much struggling to figure out how we interweave individual anecdotes. But when we start to pull that, us in public health circles have found some very, very common themes.  The first is that we have not seen the evidence of secondary spread in schools, there's been very minimal of that in all schools that have related open that are similar to our region that we've seen in states surrounding us, but it's also been true nationally and internationally again these were guesses early on but have proven to put plan out and if we look at thousands of patient and student encounters.  The other thing that we are seeing is that it seems as Dr McLaughlin kind of hinted that community prevalence is overall does not seem to be the driver in schools that we initially thought it was going to be. And initially guidance from the CDC had had community prevalence is that number one thing to dictate exactly how schools were going to do.  The North Carolina studies and Wisconsin studies were some of the bigger ones that were able to demonstrate that it didn't matter the level of community prevalence that the prevalence within the school system and the spread within the school system was overall much lower than what was seen in the community. And they're all concluded kind of a very similar thing based on their strategies is that at  At the end, the most important thing is the implementation of mitigation strategies, regardless of what's going on in the community at the time, is without a doubt the most important predictor of whether or not schools are able to remain without secondary spread. So I'm going to kind of repeat that again, that as a general rule, you're going to see the CDC moving away from community prevalence as dictators for these types of individuals, and instead are going to be moving towards how well the organizations to be able to implement mitigation strategies.  I've been very privileged to be able to work very closely with Aileen Gomez and her entire team over the last entire year. And I will tell you, after now working for numerous other organizations and helping out numerous organizations, you guys have a very special thing going on. And I am not just saying that lightly because of the individuals that are on this board, but it is a very impressive organization that Albemarle County has put together to help mitigate COVID. And that's something that you should be very, very proud of.  Finally, I'd like to, if you kind of forgot everything that I've said over the last five, six minutes or so, I'd like to leave you with this fact. Back in the fall,  There was a lot of, you guys had one of the biggest decisions and was something that I do not envy of trying to figure out exactly about schools and how we would move forward with mitigating risk in schools. A lot of that and a lot of our opinions of pediatricians were based on basically guesses. They were educated guesses about how other coronaviruses and other respiratory viruses spread in school. And we had a real reason to be cautious and to tread carefully. In the last month, that has changed significantly. We've moved away from understanding what we think to be true  and instead have a preponderance of data that have suggested that we know across many, many other types of very similar institutions in different regions and in different countries, that preponderance of data is showing that schools are not the super spreader events that we've been nervous about, but much more importantly is that the mitigation strategies in place are the things that are driving its success.  And so that's why I'm very happy to be able to hear that and to understand that in the last month, we've been able to be to look at this data at a national level as professionals and understand about how we continue to move forward. Please also understand that is without our vaccine data, which we hope, while it prevents the illness, that we hope it also prevents spread. And so a lot of this data has been coming out without any of our students and staff obviously being vaccinated. And we're hoping that obviously improves.  So I'll thank you and obviously we'll hang on if there's people that have questions from the board. I would obviously be happy to do this. I am a proud member of Elmira County and just very happy to be able to support you guys in any way that I possibly can.",
+    "speaker": "jeilvargne",
+    "tags": [
+      "give_update",
+      "express_concern",
+      "cite_external_source",
+      "reassure",
+      "public_addressing",
+      "acknowledge",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 1707.005,
+    "end": 2195.86,
+    "text": " So thank you very much, Dr. Vergales, Mr. McKay. And they've both been generous enough with their time to hang on to answer some questions, which we'll have time for at the end. We've just got a few more slides to go through with the DOE recommendations. So those were the first three steps of the recommendation process. The fourth step is understanding our community's capacity and needs. And they break that out into four separate areas.  The first of those is the percent of vulnerable students in our system, and the vulnerable students are defined as our youngest learners you know those in grades pre K through three students who need special education services, English learners and students who need mental health services.  And we track three of those categories right, so we know who our youngest learners are we know who our special education students are and we know who our English learners are. And they make up just over 43% of our total school population or nearly 6000 individual students.  And so moving to stage four of our return to school plan would provide the opportunity for increased face-to-face learning for all of those students. We don't track students in the division who need mental health services, but as you just heard from Dr. Vergales, this pandemic is having a pretty significant impact on increasing the number of students who need those services. We've certainly also heard that anecdotally about the increase in mental health needs from the community forums that we have recently had.  One thing that I know the board is always interested in is when we look at, think of those vulnerable students, well, who are they? Well, you know, those nearly 6,000 students are made up almost half of our minority populations. And so, you know, our students who have tended to be underserved at some points in the division are those needy, those vulnerable learners in that category.  So we're also asked about to determine the level of internet access in our community. And earlier this year, when we surveyed students, we found that at least 23.8, this blue piece of the pie right here, of our students don't have optimal internet access. And we define optimal internet access as high-speed internet capable of multiple streams. That's really the standard that you need to be able to fully access everything that's available to students  in virtual learning. And of that 23%, you can see that that's made up of 12% with single stream high speed internet, 8.7% with low speed, 2.3 with no internet access and no outside access, and just under 1% of no internet access but with regular outside access to that. Now, we've had some mitigation strategies in place around that. We've distributed hotspots and we've had families sign up for the Comcast Essentials program.  But the majority of those students, even with those mitigation strategies, don't rise up to that level of optimal access. You know, it allows them the ability to be in their classes, but doesn't have the capability to do everything we would want them to do in virtual learning.  Another area that they ask us to look at here is access to childcare in the community. Our pre-K through five population is made up of 6,167 students. While we don't have a comprehensive look at what childcare looks like in our division, Dr. Harrison did some nice research for us recently and pulled data from 16 local childcare providers. Now, those providers had a total  for infants through school-age kids of 1,118 spaces. And currently of those 1,118 total spaces, there were 67 openings for school-age children. And so there's just not a lot of capacity for kids ages five through 12 that we see that's currently available.  This also led us to consider our elementary school students and where are they during the school day. So again, we don't have a comprehensive look at that, but we took a snapshot of one of our urban ring elementary schools. And we found that 77% of our students were at home with a parent or another adult during the day. And so to us, that indicates that the burden of supervision of children is primarily falling on our parents and on our parents staying home with their kids.  And finally, the last step asked us to consider the percent of teachers and staff that shared concerns that they're in high-risk categories. And Dr. Kaiser has really been working hard on developing this. And for the purposes of this criteria, we considered the virtual accommodation request by teachers and support staff who indicated one of two things, either a need for an accommodation through the Americans with Disabilities Act, or who identified as being in a CDC high-risk category.  And based on that information provided to us by staff, we were able to accommodate greater than 97% of the teachers and 90% of the support staff who requested an accommodation through the Americans with Disabilities Act. Now, of the teachers, of the staff who indicated CDC risk factors, 67% of teachers and 82% of support staff were able to be accommodated.  In instances where an accommodation was not able to be fully or partially approved, our principals met with each employee to help them understand the decision. And to date, we've had three staff members who have requested a leave of absence, and those were granted for the remainder of the school year.  And so finally, we come to step five, and this is the decision matrix that was developed by the DOE. So this looks at level of community transmission and the level of school impact and or the ability to implement mitigation strategies. And based on our assessment of the data, we feel that our level of community transmission is in the higher category. Remember, we had the case incidence rate that was up in the highest, but we had the lower level  of percent positivity. As far as our level of school impact and our ability to implement mitigation strategies, we rated that at low. You know, we really just haven't seen great deals of transmission within our schools, and we feel like we've got solid mitigation strategies. So when with those two categories,  This, when you look over at the matrix, this puts us at a recommendation from the Department of Education that we maximize in-person learning and then consider extracurricular activities and athletic activities. And so, as we get to Dr. Haase's recommendation, just a reminder that if the clock were to start tonight on the timeline to move forward with moving to stage four, tonight would be our recommendation night.  we would ask the board to take action at their business meeting on February 11th. The week of February 15th would be used for our final planning and mobilization, making sure we've got bus routes ready and food services up and running. And then the week of February 22nd, we'd have our soft start. So Monday and Tuesday would be asynchronous days for all of our learners. And that would be to allow our teachers to get into their classrooms and prepare them for students coming back for in-person learning.  And then on Wednesday and Thursday of that week, our pre K through five students would would come into school, along with our sixth grade and our ninth grade students. If you remember the the rationale behind that was that our sixth graders and our ninth graders in a transition year, they haven't been in their middle schools or their high schools really ever.  And so we thought it would be nice to give them each a day without the upperclassmen there to do some orientation. And we've also got to remember that our middle and high schools haven't had a critical mass of students come in yet. So that would give them a smaller number to start and get their protocols down with temperature taking and health checks and things like that. And then finally, on March the 1st, we would start stage four in its entirety. And so at this point, I'm going to turn things over to Dr. Haas for his recommendation.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "logistics_info",
+      "cite_external_source",
+      "defer_to_expert",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2196.92,
+    "end": 2250.404,
+    "text": " So thank you, Dr. McLaughlin. I think before I say anything else, I just want to say I know I speak for all of our students and families when I offer our deepest gratitude to all of our school division's educators and support staff. They have carried the day through their grit and creativity to meet the learning and well-being needs of our children through mostly virtual and some hybrid instruction.  I thank this world-class team for what they have contributed during the most challenging school year we have faced in our careers. You have held our community together through your valiant efforts. And so at this point, based on the presentation tonight of the data and where we are with regard to the Virginia Department of Education's indicators, I'm recommending to the school board that we return to school stage four.  And I'll turn things back over to Dr. McLaughlin.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "policy_proposal",
+      "acknowledge",
+      "public_addressing",
+      "reassure",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2251.044,
+    "end": 2289.767,
+    "text": "Thanks, Dr. Haas. And so that wraps up our presentation for tonight. But we know there's going to be questions from the board. And what we're really interested in is knowing what information do you need that would be the most helpful as you think about the decision you need to make, we're asking you to make,  next week on February 11th. And so we're happy to take questions tonight. And if we've got those answers readily available, we'll provide them. And if we don't, we'll do some research and we'll make sure that we have them available for the board at the meeting on the 11th. So at this time, I'd like to open the floor up to any of those questions.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "public_addressing",
+      "follow_up_request",
+      "logistics_info",
+      "request_action",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2290.948,
+    "end": 2314.032,
+    "text": "Patrick, my understanding from one of the previous slides is that  There are 111 people who are not scheduled at all at this point to get the first vaccine. And there are some 830 people who are currently scheduled but have not had it yet. Correct. We have a date when everyone who wants one will have one shot.",
+    "speaker": "davidoberg",
+    "tags": [
+      "clarify",
+      "ask_question",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2315.253,
+    "end": 2319.098,
+    "text": "I would ask Dr. Kaiser maybe to field that question for us.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "defer_to_expert",
+      "request_action",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2319.466,
+    "end": 2359.75,
+    "text": " Sure. That's that's I'll be honest, that's kind of a moving target. One of the things that we know is there are multiple ways that people are getting the vaccine. One is through our local clinics and we're we're hoping to be able to one of our Albemarle County clinics. We've done our first one. We're hoping to be able to do a second one.  We've been working with the Blue Ridge Health District, and that is all dependent on the available vaccine. They also are vaccinating people at the Kmart tent through the Blue Ridge Health District, and they're working on some other partnerships. And so, unfortunately, we don't have hard numbers on that. I don't know if Ryan can give us a little bit better sense of what's going on with that.",
+    "speaker": "clarekeiser",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "hedge",
+      "defer_to_expert",
+      "clarify"
+    ]
+  },
+  {
+    "start": 2361.164,
+    "end": 2450.046,
+    "text": " So just to provide a little context, we were notified, I believe, two weeks ago that our weekly allotment for vaccine is 2850. That's for the entire health district. So if a primary care provider, a pharmacy or even one of our hospitals wants to order a vaccine, it has to come from that 2850 allotment, which has to cover our entire district.  So right now there is scarce availability for the vaccine and we need to spread that vaccine in a way that's most equitable to our entire community and so it makes it difficult to sort of carve out large chunks of numbers for individuals who receive the vaccine.  Based on our current schedule, those that have an appointment to get vaccinated are all in February at this point. We are trying to expand to the extent possible, and when we do, we'll make options available for K-12 educators, including those in Elmoral County, to access either by providing enough vaccine where they can operate that site again at Charlottesville High School in tandem with Charlottesville City Schools,  and the Regional Emergency Operations Center at our Kmart location or in hopefully the near future at the Big Lots location that is operated by UVA Health. There are infrastructures in place to be able to provide that access. It's just a matter of getting more vaccine to be able to open up appointments.",
+    "speaker": "ryanmckay",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "express_concern",
+      "reassure",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 2452.049,
+    "end": 2460.01,
+    "text": "Do we have an understanding of how the 111 break down as opposed to  whether they're hybrid or they're virtual.",
+    "speaker": "davidoberg",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 2461.111,
+    "end": 2589.082,
+    "text": "So we have a couple of things going on to allow us to kind of identify that and then prioritize who we are sending invitations to when we are able to have the clinic and other opportunities to get additional appointments. One of the things that is difficult with all of this is all of the information needs to be reported by  the employee to let us know what's going on. Right now, our principals and our department supervisors are working to collect that data. That's what you saw tonight, a partial collection of that. We've asked our employees, number 1, if they plan to have the vaccine. Then we also ask them a couple of questions about whether or not they've had it. Have they had their first or second dose? Do they have an appointment already scheduled and are they unable to schedule an appointment?  at this time. And then we ask our principals and our supervisors to identify what the work is that those people are doing now. Our first prioritization as we went through the clinic at Charlottesville High School a couple of weekends back was we wanted to make sure that we were first inviting those that were in person with students during stage three. And what we're doing now with the information we have  We'll continue that prioritization to get all of those people in stage three in person vaccinated first, or the opportunity to vaccinate first, and also roll in the stage four people as well. And that way, we are making sure that we're focusing first on those people that are directly working with our students.  It crosses all of our schools and departments. So we are looking for that from our, our bus from our bus drivers to our teachers to our teaching assistants, our school based administrators, and so you know we're hopeful that we will make sure that those who are  I'm going to back up. We know that there is a great need and a great desire for vaccine from all of our staff members or many of our staff members, but we are trying to work to make sure that those who will have the most interaction with students have that opportunity early on.",
+    "speaker": "clarekeiser",
+    "tags": [
+      "give_update",
+      "prioritization",
+      "logistics_info",
+      "clarify",
+      "reassure"
+    ]
+  },
+  {
+    "start": 2590.264,
+    "end": 2613.436,
+    "text": "So I'd kind of like to know for next week if you could find out how that 111 breakdown  And if it would be possible, to the extent that we decide we're going to go back, if we could accommodate the 111 until they get their first shot, that's something that is going to impact my decision. So I would like to know the answer to that.",
+    "speaker": "davidoberg",
+    "tags": [
+      "follow_up_request",
+      "request_action",
+      "express_concern",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 2615.979,
+    "end": 2671.515,
+    "text": "Dr. Vergales, if I might, regarding what I think we've all learned from the news and other sources that  From the time of the first shot, the second shot, depending on whether it's Pfizer or Moderna, would come three or four weeks later. And given what we've just heard about how this could really fill out pretty much February to get the first shot, can you give us some comfort or understanding, more importantly, as to how  Secure people who have only gotten one shot should be walking back into schools, still waiting to get the second shot. And then the two week after that, before everything really fully kicks in.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "defer_to_expert",
+      "ask_question",
+      "express_concern",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2672.187,
+    "end": 2777.76,
+    "text": " We've, absolutely. We've learned a lot about the immune system in relation to the COVID vaccine, significantly just in the last four to six weeks or so. You've seen some trials come out also with the Johnson & Johnson and Novavax vaccine, which the Johnson & Johnson is a single dose vaccine.  There's a very specific reason that the Pfizer and the Moderna were put out as two-dose vaccines, and that was because initial studies suggested that they were probably about 75% to 80% effective after the first shot. And I remind you that we set the bar initially through the FDA at 50%. If we get 50% effective  excuse me, 50% efficacy of a vaccine within any season, we're otherwise pleased, especially for a virus like this that spreads exponentially, that can have significant effects on its ability to protect somebody.  The reason, though, that you did not see it stop at one shot and it go as a two-dose vaccine was purely because they found that the efficacy raised up to around 90% to 95% and 100% for preventing severe disease once you got that second dose. But that is why the FDA ended up approving it. And so while we obviously can't tell somebody, oh, you're fine, don't ever get the second, you're almost a whole way there.  People should take solace in the fact that if they have one dose of the vaccine, that they've already begun the significant issue of developing immunity to it. And so I would encourage, and I've encouraged a lot of people, again, a lot of the teachers that asked me that very exact question last Friday when I was doing vaccines there, as I said, this is a big step. The second one is the one that seems to secure the memory response a little bit better.",
+    "speaker": "jeilvargne",
+    "tags": [
+      "give_update",
+      "clarify",
+      "reassure",
+      "cite_external_source",
+      "public_addressing",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2779.377,
+    "end": 2805.334,
+    "text": " One just quick follow-up question is, with the first shot, is there still or is there a two-week period before that really takes effect as it is with the second shot? We think that you've probably managed to generate an immune response so that you actually have circulating antibodies sometime around that seven to 10-day mark after the first shot.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "clarify",
+      "opinion",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2805.314,
+    "end": 2890.734,
+    "text": " And so that seems to be kind of the line in the sand that a lot of us that a lot of us are utilizing. With that being said, I know you guys have all seen also that the recommendation is still going to be that the vaccine is just one layer of mitigation and that even after people are fully vaccinated. We don't know we know that it is a good way to prevent people from beginning severe illness.  we have no idea about its ability to prevent people from spreading the disease. And that's why you're not going to be seeing vaccination programs as part of mitigation strategies for large organizations because you're, you know, supplant things like mask wearing and physical distancing and all of the other information. And so I would say the vaccine as a general rule is that we  excuse me, I apologize, the vaccine is a general rule for us, is a very personal decision of allowing, making sure that we can promise somebody is, or not promise, but get close to that, that somebody is not going to individually become sick. But I would encourage you not to think of the vaccine as a way to prevent spread within a school. We have absolutely no idea its ability to prevent that. And that's why all the data that I presented earlier is without vaccination, and I think needs to be kind of continued to be kept in that context.  For an individual teacher, that's a different story. If we're concerned about individual at-risk people, the vaccine can make a noticeable, noticeable difference. But we do not know its ability to help prevent spread through schools. And that's why you will not see it as part of mitigation strategies. Thank you.",
+    "speaker": "jeilvargne",
+    "tags": [
+      "clarify",
+      "give_update",
+      "express_concern",
+      "policy_proposal",
+      "reassure"
+    ]
+  },
+  {
+    "start": 2892.818,
+    "end": 2898.568,
+    "text": "Along those lines, this is a question for either Dr. Kaiser or Mr. Holden. Are we out of ADA compliance?",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "defer_to_expert",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 2901.805,
+    "end": 2923.245,
+    "text": " No, we are not. And Mr. Holden, if you want to jump in, we are not out of ADA compliance. We do look at the one of the things that we know is we have to look at burden to the school division when making those decisions. Right. And there has been an effort to have the interactive process to discuss accommodations.",
+    "speaker": "clarekeiser",
+    "tags": [
+      "clarify",
+      "reassure",
+      "defer_to_expert"
+    ]
+  },
+  {
+    "start": 2923.265,
+    "end": 2939.997,
+    "text": "But at the end of the day,  Dr. Kizer is absolutely correct. If it cannot be accomplished without burden to the school division, then the ADA requirements have been observed.",
+    "speaker": "rotsholden",
+    "tags": [
+      "agreeing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2944.313,
+    "end": 2974.168,
+    "text": " I have a question sort of based on what Mr. Oberg was talking about. Out of all of the three categories that we saw there, I think there was roughly about 1,800 of our employees. So how many of our teachers, our bus drivers, and other staff members would probably not at least appear not to be in line for shots as of now? How many people would be coming in probably that that 1,800 does not reflect?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 2974.672,
+    "end": 2989.124,
+    "text": " That's information that I will have for you next week. As I said, we're working on getting a more conclusive set of data from our building administrators. And so we want to make sure that we have everybody represented in that.",
+    "speaker": "clarekeiser",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "reassure",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2991.65,
+    "end": 2991.87,
+    "text": "OK. Thanks.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2996.575,
+    "end": 3152.385,
+    "text": " I have a couple questions about virtual learning. First, I want to say I do appreciate all of the work and planning that's gone into this. I know that we're not dealing with unlimited resources and we have to make a lot of really difficult decisions to educate 14,000 students. So I really appreciate all the work that staff has done and definitely the people on the ground who are doing every day. So I really appreciate that.  I just have a concern about the equity between the virtual learning and the hybrid learning. Also because we know nationally and locally that more of our black and brown families are choosing that. So I just want to make sure that we have some assurances. It will be important to me that we have some assurances that that is robust for my decision making.  Firstly, I have a question about intervention services. And I think a way for me to be able to get my head around this is to know how many students will lose intervention services in stage four as it is now. And I know that you don't have those numbers ready, but that's something that I would like to know next week. Also, I would like to know how instructional hours for the hybrid learners will compare with the instructional hours  of the virtual learners in K-3, or pre-K-3, I guess, for the four-day-a-week students. I assume that the 4-5, 4-12, I guess, would be the same. But I just would like to know the difference, if there is any difference between the instructional time for those youngest learners.  And then I also would like to know how if or how meal services will be affected. For the students who are at home. And then on a different note, I don't know if this is something that  Ross considers or we consider how this works. But I wonder if we should be looking at updated mask guidance, given that the new variant is likely coming or here. I know that we've all read a lot in the news about how the single cloth masks are just not as effective now against that. So that's just something I guess I'll throw out there.",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "follow_up_request",
+      "express_concern",
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3155.42,
+    "end": 3203.533,
+    "text": " With respect to the type of mask, whether they're double masks or better than not, I'm gonna have to leave that to the medical professionals. I've listened to Dr. Fauci. Dr. Fauci said having more layers is better. I listened to Dr. Osterholm. He said, you know, that could, having more than one mask could create issues. So I really think that we have to follow the guidance and advice of the medical professionals and do what's best.  I mean, we have a school board policy on face masks. If we determine or we are advised that we need to modify that for medical reasons, we are more than willing and happy to do so and bring it to the school board with the appropriate modifications.",
+    "speaker": "rotsholden",
+    "tags": [
+      "defer_to_expert",
+      "cite_external_source",
+      "policy_proposal",
+      "procedural_move",
+      "reassure"
+    ]
+  },
+  {
+    "start": 3204.779,
+    "end": 3253.753,
+    "text": " Ms. Lee, I believe I can at least address the science of the mask part. The new variant has the same, masks against the new variant would be exactly the same. We see variations in viruses all the time. We've been expecting variants of this virus to come. The mitigation strategies that we talk about being NPIs or non-pharmaceutical interventions, i.e. masks,  do not matter the individual strain. So instead of talking about that we would need a different mask, you would necessarily say that you need to double down on using masks. And I always tell people that when we think about this in public health circles, that the best mask is the one that someone is actually going to wear. And so we want to make sure that, you know, just like what you hear in kind of competing circles, that the masks that they wear are the ones that the kids are going to wear throughout the day.",
+    "speaker": "jeilvargne",
+    "tags": [
+      "clarify",
+      "reassure",
+      "policy_proposal",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3261.496,
+    "end": 3325.707,
+    "text": " You know, somewhat of a mundane question, but it's still an important one, is I know that our pre-K through third graders have been taught about all the mitigation systems and processes. And we have fourth and fifth graders and middle schoolers and high schoolers all coming in pretty much at the same time with the exception of the extra day for the sixth and ninth.  When will they be instructed to what those processes have to be? And will that be before they get to school or will that be something right as they get in there? And will they also be instructed, and I'm assuming that our existing students have been, in terms of what to do once they leave school, how to use hand sanitizers at home,  how to wash and clean because of the importance to the school community as well.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "request_action",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 3327.449,
+    "end": 3381.528,
+    "text": "Correct, Mr. O'Carroll, that is exactly the plan. As we did moving from stage two to stage three, the schools will set up town halls for parents to work, to hear what stage four will look like and what it looks like in their school and transportation and all the different pieces that come with starting a school year for them coming into the buildings.  and we will offer students that same kind of opportunity. And that's what we did with our K-3 students, and that's what we'll do with our 412. We'll continue to do that. The advantage of having the students come in, half of them one day and half of them another day, is that you can spend your first couple of days transitioning and having those conversations with students. So the 412, because they'll be in every other day, it will allow us to make those,  training opportunities available.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "reassure",
+      "clarify",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3383.571,
+    "end": 3399.711,
+    "text": "Terrific. Ms. Collins, will those sessions for the parents be the week before or a couple of weeks early so that they'll have an idea as to how the days are going to work and how the whole process will work?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 3399.731,
+    "end": 3420.707,
+    "text": "Yes. We anticipate if the decision is made next Thursday that those town halls would begin as early as the next week.  they're in the queue, so to speak. Because we've done this before with our K-3 students, we've got a very tight plan as far as logistics and timetables.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "reassure",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3422.989,
+    "end": 3423.43,
+    "text": "Thank you.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3428.636,
+    "end": 3449.891,
+    "text": "Can we have a little extra emphasis to the parents to be aware of their kids' symptoms and to keep them home if they're  Anything seems slightly amiss? I know that a lot of parents would be so glad that their kids are going back to school. They may be hesitant if their kid has a sniffle or something, but we'll still need to pay quite a bit of attention to that.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "request_action",
+      "express_concern",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3456.621,
+    "end": 3488.907,
+    "text": "Yes. I'll make that note and share that.  as an emphasis, I also just was reminded that the middle schools have created mitigation badges. So they are very clear on what the students need to know, understand, and do in order to have a mitigation badge. So they're really on top of that first line of understanding what it means to be in school, in buildings, mask up, social distance, washing hands, et cetera.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "acknowledge",
+      "give_update",
+      "reassure",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 3492.43,
+    "end": 3524.631,
+    "text": " I have a question for Dr. Bergalis, and it may not be able to answer it, but if you can, I'd like to know. You talked about a lot of the mental health issues that are not just in Elmhurst County, they're sort of widespread. Has anyone linked that specifically to not having in-school  in-school interactions. Are schools that are face-to-face, are their kids not facing the same issues?",
+    "speaker": "davidoberg",
+    "tags": [
+      "ask_question",
+      "defer_to_expert",
+      "follow_up_request",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3525.134,
+    "end": 3584.757,
+    "text": " It's a great question. Obviously, I can't get down to that close of a level. I would love to. I can tell you a couple of things that the studies have been able to link to is there has been ones that have been able to survey the kids have found that the significant disruption in their lives that has occurred has been a big issue for the eating disorders and the anxiety and depression.  I can't speak obviously to the suicidal ideations and the suicide attempts as whether that's been predominantly just from a lack of in person we clearly know that code is a general rule has been incredibly disruptive, you know, to this kid's age age group is a general rule.  And so the only thing that I know that the studies have kind of borne out a little bit and what we've at least seen locally when you talk to the providers around here is that the biggest source of frustration and the biggest source of issues with the anxiety and depression, the eating disorders has been the lack of face-to-face instruction and just the lack of socialization that comes with school. Thank you. That helps me.",
+    "speaker": "jeilvargne",
+    "tags": [
+      "give_update",
+      "clarify",
+      "hedge",
+      "cite_external_source",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3589.529,
+    "end": 3613.665,
+    "text": " I'm not sure who to address this question to, but speaking to a bunch of students, they're wondering if and how they can change their plan from going to virtual or hybrid if they feel the need to. Because I know a lot of students have decided that, hey, I think I'm actually going to try out the hybrid version that I've talked to, and they're wondering if and how they can do that.",
+    "speaker": "angelpilkey",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "public_addressing",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 3615.087,
+    "end": 3616.549,
+    "text": "They need to contact their principal.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "request_action"
+    ]
+  },
+  {
+    "start": 3621.254,
+    "end": 3624.978,
+    "text": " but is that something that's possible? It is possible.",
+    "speaker": "davidoberg",
+    "tags": [
+      "ask_question",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3625.018,
+    "end": 3676.641,
+    "text": "It will take us some, depending on the situation, it may take us some time. If transportation is needed, that's a set of circumstances that would have to be put into the mix. The other pieces for elementary schools, some of it is around space. So if the classroom has 10 children in it already, we have to think about how we would expand the classroom spaces  to accommodate the students. Having said that, that's all the conversations that the principals have been having around making decisions and planning for students to come in. We anticipate that more students will become hybrid than are virtual at this point. So we've been planning around that to try to think about it so that we don't have to say to students that want to come in, you can't come in.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "reassure",
+      "hedge",
+      "clarify"
+    ]
+  },
+  {
+    "start": 3679.49,
+    "end": 3703.962,
+    "text": " It strikes me, Dr. Collins, that we ought to be prepared for that to be sort of, there's a possibility, the extent that we reopen, there's going to be, that could be a growing issue. Saying as people get more comfortable, hey, look, it's been three weeks and I don't have any issues. Maybe I want to go back to school. I think that that may just be, that may be, I just hope we're prepared for that.",
+    "speaker": "davidoberg",
+    "tags": [
+      "express_concern",
+      "request_action",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3707.89,
+    "end": 3716.639,
+    "text": " And that change could go either way, right? What about if the person is in and decides to go to virtual? How long is the wait time for that?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 3718.921,
+    "end": 3749.222,
+    "text": "That tends to be able to happen faster because the logistics aren't involved of coming to school and getting a seat, if you will, in a classroom. Now, having said that,  we do know that there may be some virtual classrooms that may be on the high side, especially in some of the elementary schools. The middle and high school, we don't see that as a problem around going from hybrid to virtual.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "logistics_info",
+      "give_update",
+      "express_concern",
+      "reassure",
+      "clarify",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3756.111,
+    "end": 3764.433,
+    "text": "Early on, we told teachers that they would not be required to be  teach both virtually and in person, is that still the case?",
+    "speaker": "ellenosborne",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 3765.494,
+    "end": 3843.433,
+    "text": "Actually, I don't know that we told teachers that we told them we would work to try to offset that. And the principals have been working to offset that. And as we anticipated, some courses are easier to have that happen than others. English courses, some math courses are easier to accommodate that because if you think about a schedule of a ninth grader,  in an English class first block, I might have three English nine teachers during that block so that I can move students around to accommodate hybrid or virtual. But if BC calculus is only offered one time during the day, then the likelihood of that teacher of us being able to offer a virtual divorced from a hybrid is less likely.  Now, having said that, we are talking about looking across the division to perhaps accommodate that. The principals have been working very closely with the teachers to try to work through this and figure this piece out. The other thing I would say is, surprisingly to me, quite honestly, as teachers have talked about it, many of them have said, I would prefer to do hybrid and virtual together.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "express_concern",
+      "opinion"
+    ]
+  },
+  {
+    "start": 3844.274,
+    "end": 3852.123,
+    "text": " This is something that the departments have been talking through, and the principals are very much aware of the workload.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "give_update",
+      "reassure"
+    ]
+  },
+  {
+    "start": 3856.469,
+    "end": 3869.404,
+    "text": "Okay, Ms. Collins, I think someone mentioned it, but all of the people who had their request denied, the principals have had a conference already with those people to explain why it was denied, right?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3870.582,
+    "end": 3876.205,
+    "text": " Yes, but I think Dr. Kaiser might be in a better position to answer that from a human resources perspective.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "defer_to_expert",
+      "request_action",
+      "acknowledge",
+      "clarify"
+    ]
+  },
+  {
+    "start": 3876.674,
+    "end": 3937.415,
+    "text": " And the answer to that is yes. They and one of the things that I know that they many of them talked about is just, you know, helping them understand the mitigation strategies for some of the teachers. They haven't been in the school since since March. And so, you know, encouraging them to come in, see the mitigation strategies in action, kind of kind of make that first step into the school, I think, is a really important piece. And and one of the things that I know about our principals is they have very, very  good and strong relationships with their staff. And we know that they can talk to them and help calm and ease their nerves. I think the fact that we have not seen a number of people say, no, I just can't do this. I think that's an indication that while they are uncomfortable, and I don't want to in any way minimize that. We know that we have a number of people that are uncomfortable coming back into school. I do feel like they,  will be okay once they get in there.",
+    "speaker": "clarekeiser",
+    "tags": [
+      "give_update",
+      "reassure",
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3945.185,
+    "end": 3958.842,
+    "text": "We actually just had a question come in. We did have a program earlier that offered childcare to county employees, right, to ACPS employees. What's the status of that now?",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "clarify"
+    ]
+  },
+  {
+    "start": 3963.428,
+    "end": 3966.155,
+    "text": " I think I would see is Dr. Hairston online.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "acknowledge",
+      "defer_to_expert",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3972.271,
+    "end": 4009.855,
+    "text": "So the question is, are we considering child care for if we move into stage four? Is that the question? Yes.  Yes, we are in the process of considering space that that's available in each of our schools. We will be conducting a survey of our parents to determine their needs. And we are looking at returning to the regular extended enrichment after school program services pending the school board's decision.",
+    "speaker": "bernardhairston",
+    "tags": [
+      "clarify",
+      "give_update",
+      "logistics_info",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4013.125,
+    "end": 4013.465,
+    "text": " Thank you.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4019.313,
+    "end": 4020.855,
+    "text": "There are other questions from the board.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4026.302,
+    "end": 4037.817,
+    "text": "One more. What do we know about preserving current teacher-student relationships? Will there be lots of switching around of teachers and students?",
+    "speaker": "ellenosborne",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 4041.543,
+    "end": 4088.225,
+    "text": " We anticipate some shifts as we saw with the pre-K through three. Because we just changed semesters for our middle and high schooler, there was a lot of conversation, a lot of preemptive work done in those situations. So I would say yes to our four through eight. There's more possibilities for them to switch students than the other students.  But again, that's one of the things that the principals are working very closely with parents on and making sure that we're listening and developing and continuing to nurture the relationships with students and teachers.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "give_update",
+      "reassure",
+      "logistics_info",
+      "hedge"
+    ]
+  },
+  {
+    "start": 4091.469,
+    "end": 4099.317,
+    "text": "And that will come out in the discussion with the parents too, right? That point will be- Correct.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 4100.198,
+    "end": 4100.338,
+    "text": "Yes.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 4107.288,
+    "end": 4123.491,
+    "text": " There are other questions from the board. Dr. Haas, do you have any, or Dr. McLaughlin?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4123.876,
+    "end": 4159.789,
+    "text": " Thanks. Thank you, Mr. Page. I was just about to say something. So I do want to encourage board members that if you do have questions that come up in the interim to please email Dr. McLaughlin. And what we will do is very similar to what we do with the funding request development. So if you send it to him, we'll farm it out, make sure it gets answered. And then at next week's school board meeting, we'll post the questions that you had and the answers that you had.  in the documents so that they become part of the public record. Okay. Dr. McLaughlin.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "request_action",
+      "follow_up_request",
+      "logistics_info",
+      "reassure",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4161.119,
+    "end": 4194.021,
+    "text": " All I have to say is thank you to everyone, again, to the board for being willing to have this special meeting tonight, to Dr. Vergolis and Mr. McKay for taking the time to come out. I think your presence here was very helpful tonight. And again, to reiterate what Dr. Haas said, if there's other questions that come up that you'd like that would help you as you make a decision on the 11th, please send them to me as soon as you have them.  And we'll work our best to get answers for you prior to that meeting. OK, thank you.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "acknowledge",
+      "request_action",
+      "follow_up_request",
+      "reassure",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4194.923,
+    "end": 4209.141,
+    "text": "And also, I'd like to extend my thanks also to Dr. Bogalis and Mr. McKay for being here with us to answer some of our questions tonight. So thank you very much for your participation.  Thank you for having me.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4209.161,
+    "end": 4216.37,
+    "text": "And if any questions that you guys have that you send to Dr. McLaughlin that I can be of helpful, please forward them on to me and I'm happy to help in any way I can.",
+    "speaker": "jeilvargne",
+    "tags": [
+      "request_action",
+      "follow_up_request",
+      "reassure"
+    ]
+  },
+  {
+    "start": 4216.991,
+    "end": 4226.543,
+    "text": "Okay, thank you. Same, thank you. Do we have any other business by board members or the superintendent?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "request_action",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4227.604,
+    "end": 4228.285,
+    "text": "No, sir.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "disagreeing"
+    ]
+  },
+  {
+    "start": 4230.02,
+    "end": 4253.344,
+    "text": " I just want to say that I really appreciate the collaboration that I'm seeing between principals, especially some of the Mountain View kids who might go to Walton. It looks like Mr. Walton and Ms. Wells are working really well together to make that a seamless transition. And I was just very impressed with the way they appear to be working together on that. OK. Kudos.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 4254.472,
+    "end": 4262.884,
+    "text": " Thank you. That's very kind of you to say. And yes, all the principals have collaborated with each other very well. It's a great team.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "acknowledge",
+      "reassure",
+      "opinion"
+    ]
+  },
+  {
+    "start": 4266.73,
+    "end": 4286.807,
+    "text": "Any other business school board or superintendent? OK, if not, as Dr. Haas has said, if we do come up with any additional questions, make sure we forward them to Dr. McLaughlin.  So if there's no further business, special meeting is adjourned. Thank you.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "follow_up_request",
+      "public_addressing"
+    ]
+  }
+]

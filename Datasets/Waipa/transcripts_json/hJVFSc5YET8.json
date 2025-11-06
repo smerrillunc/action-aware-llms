@@ -1,0 +1,1682 @@
+[
+  {
+    "start": 0.031,
+    "end": 6.693,
+    "text": " Karina, everyone. Shane, could I ask you to open the meeting for us?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "assign_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 29.521,
+    "end": 65.571,
+    "text": " Kia t\u016brukimai te maru atuanui, he ae i o nuku, he ae i o rangi, he ae i o matua. T\u0113n\u0101 e te t\u0101huhu atuanui, t\u0101wharauhia m\u0101tou i roto i t\u0113nei hui-hui, kia t\u0101ea m\u0101tou te eke, eke panuku, eke tangaroa ki ng\u0101 kaupapa, e ng\u0101 kaunui t\u0101ne, wawatenui t\u0101ne, e t\u0113n\u0101, e t\u0113n\u0101, purinoa, purinoa, t\u0113n\u0101. Takahia r\u0101nea pou, turuturu ohiti whakamaua, kia t\u0113n\u0101,  T\u0113n\u0101 koe, hui e, t\u0101 ki e. Kia ora t\u0101tou.",
+    "speaker": "shaneteruki",
+    "tags": [
+      "public_address",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 65.651,
+    "end": 144.375,
+    "text": "Kia ora Shane. Well, once again, Maureen and everyone and welcome to our Christmas meeting, I suppose. It's a shame that we're still on Zoom, but hopefully next year we'll be able to get back together again. So, but look, very warm welcome to you all and  We're a bit light on the ground, but anyway, we can work our way through the agenda. And the first item is apologies. And I've got one just mentioned before with Bill Harris for lateness and Graham Weber has apologised. So were there any other apologies that we had? Not at the moment. Okay.  All right, so if I could just have a mover and seconder for those apologies, please. Liz and Andrew, all those in favour? Just a wave. Thank you, carried. The next item on the agenda is item two, which is disclosures of members' interests, if there's any.  and there is none from the looks of it. Any late items anyone wants to bring up?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "public_address",
+      "procedural_move",
+      "ask_question",
+      "call_vote",
+      "provide_information",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 146.737,
+    "end": 154.522,
+    "text": "Your Worship, we may just want to talk about when the first meeting is for next year, just at the end of the meeting.",
+    "speaker": "garyknighton",
+    "tags": [
+      "procedural_move",
+      "confirm_next_step",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 155.222,
+    "end": 163.267,
+    "text": "OK. All right. Thanks, Gary. So you can just basically give us a date and we'll see that it suits everyone.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "assign_action",
+      "confirm_next_step",
+      "agree"
+    ]
+  },
+  {
+    "start": 164.408,
+    "end": 168.738,
+    "text": "Me, Jim, can I just interrupt for a tick?  Did you get my email this morning?",
+    "speaker": "susanoregan",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 169.359,
+    "end": 173.382,
+    "text": "Yes, sorry. I have to be sneaking away, so my apologies for sneaking away earlier.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 173.402,
+    "end": 176.905,
+    "text": "I hope it doesn't interfere with our quorum if the meeting hasn't finished.",
+    "speaker": "susanoregan",
+    "tags": [
+      "express_concern"
+    ]
+  },
+  {
+    "start": 178.426,
+    "end": 211.193,
+    "text": "No, because we'll still have three councillors. Yeah, so thanks, Susan. Sorry I didn't mention it before. Oh, that's all right. Good day. Yeah, thank you.  Yes, so there's no late items. So confirmation of the order of the meeting. Is everybody happy with the order of the meeting? So just a mover and seconder to confirm that. I'll move. And Haupai second. All those in favour?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 212.053,
+    "end": 212.193,
+    "text": "Aye.",
+    "speaker": "susanoregan",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 212.874,
+    "end": 213.334,
+    "text": "Carried.",
+    "speaker": "garyknighton",
+    "tags": [
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 214.335,
+    "end": 214.635,
+    "text": "All right.",
+    "speaker": "chuckdavies",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 217.986,
+    "end": 279.122,
+    "text": " So the confirmation of the minutes of the 1st of September. Can I have a mover and seconder to receive those first? And who've we got? Andrew's moved and seconded. All those in favour, say aye.  Contrary. So it's carried. So just moving through those minutes, just page by page. First page, any comments or any issues that you want to bring up? That's page two of seven. Third.  I was going to provide an update on, I think it was item five of the September minutes, if you'd like.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "ask_question",
+      "provide_information",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 279.743,
+    "end": 336.23,
+    "text": "With respect to that minute that has been added around right of first refusal.  That matter was raised at the June and September meetings, and I think that minute was added in respect to that. Just as an update, I understand that the property strategy is under development and will be presented to council on the 14th of December. I'm advised that the property strategy doesn't include a right of first refusal.  The agenda for that meeting will be available on the 9th of December. That property strategy is also going to be raised at the Audit and Risk Committee on 6th of September as well, and that agenda is available on the 2nd of December. So, yeah, I just thought I would mention that at this stage. I don't know whether you have any comment you want to make on that, Your Worship.",
+    "speaker": "garyknighton",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 337.323,
+    "end": 355.603,
+    "text": " Yeah, Gary, thanks for that. And Gaylene, you might be able to remind me as well. In the past, we used to, Council always used to notify Ng\u0101i W\u012b T\u016bpua Waipara of any properties that were going up for sale before we actually put them on the market. That was correct, wasn't it?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "community_reference",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 355.883,
+    "end": 356.804,
+    "text": "Yep, that's right.",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 357.705,
+    "end": 467.089,
+    "text": " Yeah, so I suppose from Council's perspective at the moment, where the properties are not derived from the Crown, where there is a first right of refusal, that  The feeling is that for us to get the best return for our properties, they need to follow our policy for putting them on the open market and getting the best deal that we can for the ratepayers. So it's felt that that first right of refusal can actually inhibit that, but we've got no objection to actually  keeping everybody informed on what properties that we are or have identified for sale. And there's no urgency in terms of selling properties. We've always got plenty of time. That's not always the case when we're actually purchasing properties where we've sometimes got to make a quick decision on a purchase to fit in with the vendor's timeline.  So, look, it's not that we don't want to keep everybody informed, but it's just a matter of just making sure that our policy is fair to everyone. So, look, it's still got to go through that formal process, but that's probably where the Council is sitting at the moment. But, Gaylene, I'm just wondering whether reinstigating that  form a practice of notifying you of actual properties that were coming up for sale, whether that would be a good idea. Have you got any ideas on that?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "provide_information",
+      "express_concern",
+      "ask_question",
+      "policy_proposal",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 469.31,
+    "end": 497.931,
+    "text": "I think that it would be a good idea. It was actually raised by Bill, actually the Te K\u0101reno he writes, because they believe that there could be interests of M\u0101ori in those sections.  or in property, just like we'd done in the past, as I can remember the same thing occurred then too, when land was available, M\u0101ori can engage.",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "state_opinion",
+      "provide_information",
+      "community_reference",
+      "build_on_point",
+      "equity_reference"
+    ]
+  },
+  {
+    "start": 498.452,
+    "end": 572.353,
+    "text": "Because it's the same with Waikato-Tainui, they used to do that with iwi too, under the first rights. So that might be the easiest option to get it back on the table so that you know what's going on. Yeah, that'd be really good.  OK, thanks Gary. So moving on then, I did get through to page 3 and then had to backtrack. Might have been going a bit fast. Page 4. Page 5. 6. And.  Seven, there's not much on seven. So if everybody's happy with that, can I have a mover and seconder that they're a true and correct record? Somebody, Liz? Yeah, Liz just beat you, Susan, but seconded by Susan. All those in favour? Aye. Contrary? Carried. Thank you for that.  The next item on the agenda is six. Gaylene, that's a verbal report.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "build_on_point",
+      "procedural_move",
+      "call_vote",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 574.754,
+    "end": 679.389,
+    "text": "Yeah, thank you, Jim. So, on behalf of Ng\u0101 mi tupu o Waipoua, we wish everybody a Merry Christmas and a Happy New Year, first and foremost, but probably there's not much I can... We've had such a lot of things going on that have actually been coming out of the council  and it's really just trying to catch up with it all. It's all the special plans and everything else seems to come out one after the other. And so we're always caught on the hop with it. So we're trying to work out how to deal with that. So that's a relatively new thing for Ng\u0101i R\u012bt\u014dp\u016b, even though in the past we've had plans that have come out to us, but they've come out at different times.  not literally one after the other, which is what's occurring now. That's probably the worst thing we've had to deal with. But otherwise, meetings with the staff have been very good for both of us, I think. So the other thing that I wanted to raise was around the trust board membership of the ICC. Well, actually, there are no members of the  Trust boards are on the ICC currently. And I'm not sure what's happening with that. And the other thing I wanted to raise is about, we have not completed a marae hui, which is what we wanted to do at a paraware, because the kaupapa for that was actually around the council papak\u0101inga. Yeah, so we haven't done that. And that's just because of COVID, and the marae is still not open.",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "provide_information",
+      "express_concern",
+      "community_reference",
+      "report_back",
+      "ask_question",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 680.032,
+    "end": 686.814,
+    "text": " Yeah, COVID's really causing a problem all the way around, isn't it?",
+    "speaker": "chuckdavies",
+    "tags": [
+      "express_concern",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 687.014,
+    "end": 707.201,
+    "text": "So, and Galen, we just have continual need to comment on programmes that central government is pushing down the track at the moment. So it's just never ending, or it seems to be, so I fully understand the concerns. But Gary, did you just want to comment?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "express_concern",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 708.461,
+    "end": 769.263,
+    "text": "Thank you, Your Worship, yeah.  If we, with respect to the trust boards, we make those seats available, but they don't always have people that can fill them, and they haven't been able to, but we'll keep that dialogue going. I know Maniapoto, I think, and Shane might be able to confirm, are in the process of making an appointment to this committee as well. They just haven't formalized that at this stage, I understand, Shane. Is that, that's correct?  Waikato-Tainui have made some appointments, including Barney Manaia, to their JMA committee. So whether they might want to send one of their JMA committee along as well, I'll discuss with Maraetukere as well. And yeah, we haven't heard from Raukawa in that respect either. But again, we'll remind them of that opportunity.",
+    "speaker": "garyknighton",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "assign_action",
+      "confirm_next_step",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 771.061,
+    "end": 780.192,
+    "text": " Gary, can you just raise with Marae, because the other person that was appointed to the JMA from Waikato-Tainui was actually Dale Morgan.",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "assign_action",
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 780.252,
+    "end": 783.295,
+    "text": "That's right, yes.",
+    "speaker": "garyknighton",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 783.356,
+    "end": 801.329,
+    "text": "Potentially one of those two might have time or, you know, be able to represent Waikato-Tainui on the committee.  They have an appointing committee though, Gary. They appoint to all committees, but they can only appoint if there's been a profile sent to them on the committee.",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "procedural_move",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 807.303,
+    "end": 842.556,
+    "text": " like I said, I'll make sure that they're well aware that they can send someone through. And just with respect, Gaylene, to the marae hui, that was where I might have, as the last item, looking at the first meeting for next year, which is scheduled for the first Wednesday in April, but potentially wondered whether there might be an opportunity to have  even a workshop or something like that at a marae in late February or early March before the Poukai round starts.",
+    "speaker": "garyknighton",
+    "tags": [
+      "assign_action",
+      "community_reference",
+      "policy_proposal",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 847.459,
+    "end": 864.082,
+    "text": "Anything is possible. Yeah, as long as COVID stays away. That's right, depending on what the traffic light looks like at that time. But yeah, that's a possibility of having a workshop.  Yeah, February.",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "provide_information",
+      "express_concern",
+      "defer_decision"
+    ]
+  },
+  {
+    "start": 864.403,
+    "end": 871.545,
+    "text": "I think because there was such a lot of content coming through, April was quite a long time to wait for that.",
+    "speaker": "garyknighton",
+    "tags": [
+      "express_concern",
+      "state_opinion",
+      "evaluate_option"
+    ]
+  },
+  {
+    "start": 873.006,
+    "end": 873.966,
+    "text": "Yes, true.",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 875.647,
+    "end": 883.509,
+    "text": "OK, all right, so Galen, you're happy to move your report? Yes, thank you. And a seconder to receive it?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 884.83,
+    "end": 885.93,
+    "text": "I'll move that way.",
+    "speaker": "waitiahoahoteruk",
+    "tags": [
+      "agree",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 887.331,
+    "end": 905.153,
+    "text": "Thanks, bye. So moved and seconded. All those in favour?  Contrary. Carried. So item seven, the water services report. Martin, I presume it's going to take us through this.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "call_vote",
+      "close_discussion",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 909.216,
+    "end": 982.488,
+    "text": "Yeah, Marina. Yeah, apologies from Renee, she's on leave today. So you've got me to present the update. I'll take the report as read and just  skim through through brief highlights, if you like, so the the new water regulator tomato and I commenced this month on the last month on 15th of November. tomato takes over regulation of drinking water, which was previously done by the public health and the district health boards. matter, I also has oversight of wastewater and stormwater aspects, although these are likely to be developed within the next 12 months they'll concentrate on water first.  Um, three waters reform. Um, so obviously the government have mandated, um, the free waters reform, um, and attached there is a, is a timeline, the proposed timeline from central government, um, which does propose that the water services entities bill, um, does get its first reading, um, before Christmas. Uh, but I haven't heard of any progress on that today and probably leave, um, the mayoral councillors to, to have any of a comment.  on that.",
+    "speaker": "martinmould",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "procedural_move",
+      "summarize_outcome",
+      "defer_to_authority",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 984.089,
+    "end": 988.41,
+    "text": "I'll let you get through your report first, Martin, and then. OK, cool.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move",
+      "agree"
+    ]
+  },
+  {
+    "start": 990.051,
+    "end": 1047.025,
+    "text": "And then project updates, Wallace Terrace renewals are completed. We completed those this month. The Gorse Avenue renewals are also all complete. The Kiki alternative water supply is going extremely well.  Well, all the pipe is in the ground now from from Tiamutu to Kihiki. We're just waiting on the works to the connection around the reservoir site need Heritage New Zealand approval. And we're still waiting for Iwi to join us and have their say. So I think that was Manapoto were  We're doing that, but we've not got anybody yet, and Gary's working to try and solve that issue for us. Sorry, was that the Kihi one?",
+    "speaker": "martinmould",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "community_reference",
+      "defer_to_authority",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1047.405,
+    "end": 1056.233,
+    "text": "Yeah. Yeah, just sort of delayed a bit with Harold unfortunately being in hospital at the moment, just trying to find another representative.",
+    "speaker": "garyknighton",
+    "tags": [
+      "provide_information",
+      "express_concern",
+      "report_back"
+    ]
+  },
+  {
+    "start": 1057.354,
+    "end": 1165.082,
+    "text": "Yeah, but it's becoming slightly time critical for us. Yeah.  The Tiamutu water supply, Pukurimutu Parallel Road, that's completing the new treatment plant is operational and we are supplying treated water over to Tiamutu at the moment. There's still the outstanding issue of the poe that's going to be installed at the new site. And again, working through them with Ngatupu, Waipa and Gary's continuing those discussions to get that underway. We have got funding for that.  The short-term consent for the waste water treatment plant was still, or the long-term consent now, the short-term consent was issued over a year ago now. And we've got the Kaiteke group and the community days and group working regularly. And we're really concentrating on what the new long-term consent will look like. So we've got a concept design and we're planning to lodge a consent third quarter next year for new consent for that.  And the comprehensive stormwater discharge consent we presented to that to not topo wipe out earlier this this year to introduce the project and seek advice. So again we're looking to launch that by the mid of next year that consent, and so we have got Julian Williams and norm Hill working with us.  And we're continuing site investigations around the district. But yeah, COVID restrictions have slowed most of that progress down. And we're hoping that we'll be able to get some traction again in the new year. Happy to answer any questions.  Thanks, Martin.",
+    "speaker": "martinmould",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "prioritize_issue",
+      "community_reference",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 1165.523,
+    "end": 1508.3,
+    "text": "So, look, just before we get on to questions, in terms of the Three Waters reform, whilst the central government have mandated the  changes to four water entities across the country. A number of councils and Waip\u0101 included in that are, I was going to say, resisting those changes. We all acknowledge that, you know,  there is a need to make sure that we've got safe drinking water throughout the country and a higher standard of waste discharges to make sure that our waterways are not polluted. But there is a real concern about a four waters entity, 22 councils for Entity B, which is what Waip\u0101 would be part of. And  effectively the transfer of assets to the new water entities with no recognition or compensation for the investment that the ratepayers have made for many decades and building up those assets. But it's more the management and governance, I suppose, of those water entities,  the proposal is that the boards or the new entities are controlled by six local authority members and six iwi members. And there is concern about how much control councils like Waip\u0101 would have being  potentially not having anyone influencing the direction of those new water entities. And I had a, I suppose it was an informal meeting with Hamilton City, Waikato, and Linda from Waikato Tainui, and Linda Te Aho's concern was very similar to, I think, local government is how  Can anybody have any influence over such a big organisation? And in fact, from Tainui's perspective, it was  I suppose the scale of the entity was too large and they weren't supportive of the new entities. So, across the country now, there is quite a lot of resistance building from local government. Initially, the  option of opting out or opting into the proposal was there, but that was taken away at the last minute. There was no chance for councils to talk to their communities about it. So, at the moment, there's 17 councils that have signed up to  go back to central government and say, hey, we understand that there's a need to improve water supplies and discharges by stormwater and sewage across the country. But we don't believe that the model that you put forward is acceptable to our community.  and or communities. And I suspect that there'll be more councils that actually join that grouping to try to negotiate with central government to actually pause and to look at a system that would work for us going forward. So although it's been mandated, the bill hasn't still been passed and  there is an opportunity, I hope, to actually negotiate a more realistic option for WIPA. And I suppose, and I stated at a meeting earlier, might have even been just yesterday, that my position all the way through has been that if the,  changes would be in the best interests of Waip\u0101 ratepayers, who are our electors, then I'd be for it. But I'm still not convinced that it will provide a better service for Waip\u0101 or at a cheaper price. So, look, I'm fully supportive of the pushback that's coming from local government. But I'd certainly be interested in any comments that you have  No. Were there any other questions in on that report of Martin's? Okay. Nothing. So can I have a mover and seconder for the recommendation to receive the report? I'm happy to move, Jim. Susan and Andrew. All those in favour?  Aye. Contrary, carried. District Plan Work Program, item eight. Who's handling that for us?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "provide_information",
+      "express_concern",
+      "state_opinion",
+      "community_reference",
+      "ask_question",
+      "summarize_outcome",
+      "call_vote",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1510.726,
+    "end": 1800.218,
+    "text": " I would like to take the report as read and just talk to a couple of matters. The first one being, as you may be aware, that the government released its Resource Management and Abling Housing Support and Other Matters Amendment Bill. So, I'm just going to go through a couple of things.  This has already been discussed with the Strategic Planning and Policy Committee. A submission was drafted and we did present to the select committee. So basically the bill will amend the Resource Management Act and will allow in places for up to three three-story houses to be built in what is classified as urban areas.  So there'll be no need for resource consents as long as you meet certain standards. The government is calling this a medium density residential standard. So if the bill is passed, we will have to basically do a plan change to the district plan. And then we will have to  and notify at the latest by the 20th of August next year for those changes to occur. Currently, we were working on a draft plan change 21 to give effect to the urban density standard set out in the national policy statement. So potentially we could do what's required under this resource management bill  in conjunction with Plan Change 21, it's a very different concept and it's designed to accelerate, hopefully, the provision of housing and potentially more affordable housing. Whether it's successful remains to be seen.  And basically it's a watch the space over the next six to eight months to see what comes out.  What else? The other thing is the select committee reported back on the new RMA, the Natural and Built Environments Act bill. Essentially, a lot of work needs to be done on the bill. A lot of work needs to be done to incorporate the concept of te oranga o te taiao.  into the bill further. It's got to be included now into the purpose of that Act. There's further work to be carried out with national iwi and M\u0101ori groups to further develop the concept. They want the effectiveness of Te Auranga o Te Taiau heightened by trying to define it and describing how  the new resource management legislation will support the upholding of the concept. The bill is also now required to state that in addition to the relationships that iwi and M\u0101ori have with Te Taio, it needs to be made clear that all New Zealanders have relationships with and responsibilities to look after the natural environment.  and consideration needs to be given to mana o te wai haeraki which has been introduced in another national policy statement for fresh water and how that haeraki can be incorporated to be placed within the purpose clause of the new act. So a lot more work  to be done. The select committee wants a lot more opportunities made available to iwi and M\u0101ori to participate more effectively and comprehensively under this piece of legislation. They want the national planning framework to be able to  support the principles of Te Tiriti o Waitangi and they want those principles now to be given effect to as well. So yeah, a lot of work needs to be done. They're still aiming to have all  three of the acts in some form by the end of 2022. And definitely, it'll be a watchless space in the next 12 months, and we'll be reporting back accordingly. Any questions?",
+    "speaker": "jocookmunrose",
+    "tags": []
+  },
+  {
+    "start": 1801.139,
+    "end": 1807.763,
+    "text": "Thanks, Jo. Were there any questions that the committee had? Yeah, Gaylene.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1809.404,
+    "end": 1811.186,
+    "text": "Yeah, and ain't that gonna be a headache?",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "express_concern"
+    ]
+  },
+  {
+    "start": 1811.886,
+    "end": 1983.907,
+    "text": "Yeah, sure is.  Yeah, Gaylene, I suppose, well, to everybody really, Council is not opposed to intensification of housing as long as it's well thought out and planned and the infrastructure, not only the pipes and the roads and everything,  are properly designed, but it's also the playgrounds, the parks and reserves and those things that are not likely to be.  I suppose, if people start just building additional houses on sections now and what impact that's going to have on the neighbourhood. So, we think there'll be a whole lot of perverse implications on what's being proposed by central government.  And I think everybody agrees that we need to get more housing for people. That's absolutely the case. But just to have a knee-jerk reaction and propose that you can build three three-storey houses on existing sections and not have an adverse impact on the social standing of those areas is a bit of a shame.  is crazy, really. So, we're pushing back in terms of the proposal, but obviously making provisions in our own district plan to enable higher density. But the proposition that there's going to be no car parking required and all of those sorts of things having to take place out on the street is not going to be a sensible proposition. So,  Yeah, it was interesting that local government wasn't consulted on this before it went forward, and yet both National and Labour are supporting the change. So whether we're successful in our submission to the select committee or not, I don't know. But it's certainly  going to cause a great deal of concern for a lot of our existing residents and ratepayers. If you start getting big houses, well, tall houses, not necessarily big, built on the, pretty much on the boundary, it's only a one metre setback. The overshadowing, the loss of views, all of those things are going to cause a significant issue for  for existing residents. So, yeah, as you said, Gaylene, isn't that going to be fun trying to control that? But that's where we're sitting at the minute.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "express_concern",
+      "state_opinion",
+      "disagree",
+      "build_on_point",
+      "community_reference",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 1984.507,
+    "end": 2068.625,
+    "text": "Yeah, the concern is, is they've only kind of dealt with one part of the issue, which is the provision of housing.  I'm fortunate enough that I have stepchildren who live in the UK, and they're in a very intensified area, but they're also within 500 meters of a massive park with their green spaces, and they also have, they get parking permits for being residents. And this bill, it doesn't address the need that we all have as humans that we want green space, and we want to be able to walk somewhere,  or, you know, playing in a park. And this doesn't, this bill doesn't require that in conjunction with the intensification. And you could end up with the old housing projects that they used to have in London, where it was just concrete block buildings and no outside area. And I mean, we're all human, and especially with lockdown and the traffic light system continuing, we all have a need to be able to go outside and enjoy the outdoors.  you know, even if you just stand in your driveway and breathe in the air and stand in the sun. So, yeah, there's definitely concern there because it's not a coordinated approach across the board for what you need with housing.",
+    "speaker": "jocookmunrose",
+    "tags": [
+      "express_concern",
+      "state_opinion",
+      "provide_information",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 2070.485,
+    "end": 2096.3,
+    "text": "So historical urban values that we could lose too in projects like this.  people have got used to living in the historical way. Yeah, so these developments tend to, could shift that. And I'm not completely sure everybody's gonna agree with that either.",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "express_concern",
+      "community_reference",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 2097.582,
+    "end": 2155.536,
+    "text": " I think you're right, Gaylene. There is a demand for the traditional quarter acre section for one of the description, but there are a lot of people now looking for higher density, which is fine. If you're a young couple or an elderly couple that don't want to be looking after gardens anymore, but they still need access to the open spaces.  So, we've got to make provision for it, and especially along main transport corridors and things like that, where there's good public transport. But to mess up what's already there traditionally is not a sensible approach, in my opinion, that's for sure. Welcome, Hazel. I saw you sneak in there.  Okay, were there any other comments on?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "agree",
+      "build_on_point",
+      "state_opinion",
+      "policy_proposal",
+      "prioritize_issue",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 2158.817,
+    "end": 2172.743,
+    "text": "I just wanted to ask Joe, the question will be asked, so where is the resource to iwi to get their heads around all that?",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "ask_question",
+      "community_reference",
+      "assign_action",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 2172.783,
+    "end": 2265.732,
+    "text": "That is something that we've  we have indicated to government is like where's the resourcing, where's the ability for iwi to upskill and be able to dedicate people to doing this. David Totman, who's a principal advisor in strategy and I talk quite a bit about  the fact resourcing needs to be available to iwi to upskill and be able to designate people. But council also will need to upskill and designate certain people. I mean, at the moment, you have Gary and Shane who do such a wide variety. But moving forward with all the different dimensions that are coming through in the new resource management legislation, this enabling housing bill,  You know, for me, it raises a lot of concern that iwi and local government aren't ready for it because we don't have the resourcing and we don't have the funding we need.  to put resourcing into it, and I know when I worked for Rokawa, you know, there was me doing all the policy work across the Waikato, across our rohi, and I think government now needs to be aware of that, and they need to be aware  that the trusts don't have a policy team of 20 people. It might be one person. And they need to resource accordingly. And they need to provide assistance and help.",
+    "speaker": "jocookmunrose",
+    "tags": [
+      "express_concern",
+      "provide_information",
+      "policy_proposal",
+      "community_reference",
+      "equity_reference",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 2268.211,
+    "end": 2297.227,
+    "text": " And Gaylene, in this one, I think even from a council point of view, we got three weeks. Notice the councillors didn't even get a chance to comment on this. We had to rely on staff pulling a submission together and approving it retrospectively to meet the Crown's deadlines. So we're certainly getting pushed from a timing point of view as well. Okay.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "express_concern",
+      "provide_information",
+      "state_opinion",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 2298.513,
+    "end": 2298.873,
+    "text": " Okay.",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 2301.754,
+    "end": 2338.322,
+    "text": "So, we just got a recommendation there to receive the information. Is everyone satisfied? There's no other questions. Can I have a mover and seconder to receive the information? Moved Marcus and seconded Haupai. All those in favour? Aye. Contrary? Carried.  Item nine, update on economic wellbeing and strategy review. Who's handling this one? Is it Steve, is it?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "summarize_outcome",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 2343.005,
+    "end": 2343.545,
+    "text": "Good morning.",
+    "speaker": "stevetritt",
+    "tags": [
+      "public_address"
+    ]
+  },
+  {
+    "start": 2344.105,
+    "end": 2344.386,
+    "text": "Yeah.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 2345.286,
+    "end": 2385.634,
+    "text": "Good morning. For any worship members, councillors and staff. For those that don't know me, I'm Steve Takawinga.  I am Business Development Manager for Waip\u0101 Council. I work primarily in business growth and attraction for Waip\u0101. My paper and my PowerPoint and the latest quarterly economic update from Infometrics is in your agenda. So if I can take my report as read and I'll just talk to  to some of the highlights, if I may do that.",
+    "speaker": "stevetritt",
+    "tags": [
+      "public_address",
+      "provide_information",
+      "procedural_move",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 2388.876,
+    "end": 2389.516,
+    "text": "Thanks, Steve.",
+    "speaker": "jimmylchreest",
+    "tags": []
+  },
+  {
+    "start": 2392.538,
+    "end": 2399.143,
+    "text": "Share my screen. Is that OK? Can you see a PowerPoint?",
+    "speaker": "stevetritt",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2400.084,
+    "end": 2406.748,
+    "text": "Yeah, just need to maximize it. That's it.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "state_opinion",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 2414.155,
+    "end": 2859.941,
+    "text": " Okay, the refresher of the economic wellbeing strategy is underway. This is a verbal update on the process and an opportunity to import into the early development of the strategy. We've formed a business advisory group to provide some sector input and there will be workshop opportunities for members and councillors.  The current strategy was adopted way back 2012, prepared in consultation with partners, stakeholders and sector representatives. And we will use this approach again, seeking some expert opinion on the way. The strategy will be workshopped with elected members in the new year and brought to Council for approval at the May 2020 meeting.  A working vision for the strategy, which we might like to discuss, is a plan to create a diverse, resilient, and sustainable economy that serves the needs of our current and future community, to identify key economic issues and risks going forward. And there's plenty of those. And the strategy will support activity that promotes the vision above.  and while also supporting community outcomes based on the four well-beings. And to support the White Pass Vision community outcomes, external priorities, and you've seen those coming through the other strategy development that's in progress. So the economic well-being is an economically progressive part of the economic well-beings.  integrates with creating vibrant communities and leading the recovery of Waip\u0101. There's a number of strategies that you have seen or are coming that support our vision and community outcomes. And in the circle box at the bottom, environmental strategy, transport strategy, Waip\u0101 2050 growth and the economic wellbeing strategy.  We have moved a little bit to economic, well, we have moved to economic wellbeing from economic development. Economic development is predicated on growth and GDP growth, but there are other things going on in our economy and our community, and we need to take account of those. So what's changed since 2012?  We've been recognised by High Growth District, Tier 1, the inclusion and re-inclusion of the four well-beings in the Local Government Act, and Council's intention to be a strategy leader organisation. So a global panic pandemic has created uncertainties around the future structure of the economy. It's changed the way we live our lives. And a new government with high ambitions for change  is moving at pace. It's an acceptance of climate change and sustainability as fundamental issues for policy direction and action. And this strategy will integrate with those other strategies that also will be coming before you. And there's a strong sentiment to grow the economy and community in a way that's more diverse and resilient.  I grow back better. So the original strategy had their seven key theme areas, business growth and attraction, tourism, high performance sport, information technology, sustainable agriculture, agrotech.  aviation, education, youth employment. So these may come across to the new strategy. They may be supplemented or augmented, and there may well be new action plans around those seven original outcome areas. So the strategy is council-led with sector input from a business advisory group.  and the overall strategy be considered by key partners, stakeholders and elected members. The business advisory group will include Maori business owners, business facing organisations, chamber of commerce, high site and business and local business sector groups, including tourism, high performance sport, technical  technology and agriculture. These have been important group sectors in our economy. Mana Whenua, Tiwaka and Hamilton Waikato Tourism. These groups sometimes have their own produce plans, which will inform the development of the strategy. And we'll be looking at ways for those groups to  to contribute and provide input and direct our strategy development. Next steps of the strategy, intended to have a couple of business advisory group meetings also with elected members. And the purpose of these is to provide external support, external and sector input.  Early ideas will be brought back to council by the end of the year, possibly in the Friday update. And then discussions with wider stakeholder groups in February, March next year. Some verbal updates next year and strategy presented for adoption in the May council meeting.  So, any questions now and discussion? Those are the wellbeing measures from the wellbeing budget in the treasury framework. And that's largely what council is following along with our own vision and strategy. So, if I can stop sharing my screen now.  be really interested in some wider discussion. Any comments anyone?",
+    "speaker": "stevetritt",
+    "tags": [
+      "provide_information",
+      "policy_proposal",
+      "confirm_next_step",
+      "ask_question",
+      "community_reference",
+      "procedural_move",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 2863.703,
+    "end": 2867.846,
+    "text": "Gaylene.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2869.347,
+    "end": 2998.442,
+    "text": "Where do I start? I had a look at the email that I got about the  that plan. So I as an iwi member found that very difficult to understand what it's asking of me. So as a person who is mandated to speak on behalf of a grouping of people, I would probably not  participate in it mainly because I have no idea what it's asking me and I wouldn't like to commit people by anything that I say in it that the council would think that that's a iwi feedback because it wouldn't be it wouldn't be at all because they'd know there's been no opportunity  for iwi itself to have a look at it. And I find it really difficult when you're doing it in a whole group to try and, because what we would like to do is to try and tease out impacts to iwi rather than the overall of it and get an understanding of that from that viewpoint.  And not to say that we're not interested in the community at large, it's just that if we have, if we speak on behalf of a hapu or an iwi, then that's the view that we need to share. But I found that I couldn't, I couldn't because I didn't understand any of it. Yeah, I didn't understand enough to commit our people  to replying to it, and so I didn't attend.",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "express_concern",
+      "community_reference",
+      "state_opinion",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 2999.784,
+    "end": 3053.796,
+    "text": "Greg Morgan Thanks for those comments, and I think they're really valid, and we need to break it down and come back to you with a  more understandable request, I suppose, on what we're looking for, because it's really important that we do actually get the feedback from everybody. So look, I'll make a commitment that we will break that down and get so that it is at an understandable level, if you like, so that it's clear what we're asking for, because it's not just  business development, as Steve touched on, it's more than that. It's a social wellbeing, which is really important. So Liz, I see you've got your hand up and Kirstie, I think you also indicated you wanted to speak. So Liz.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "agree",
+      "clarify_point",
+      "assign_action",
+      "confirm_next_step",
+      "prioritize_issue",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3054.996,
+    "end": 3098.932,
+    "text": "Yeah, thank you, Jim. Look, I think this is probably one of those presentations where it doesn't fit Zoom land. I think that if we were in a room, we were able to discuss it,  and talk through ideas and suggestions, that would be far better suited for this piece of work. So I guess when we do bring it back, perhaps we just wait for a time where we can meet in person and that we work through each kind of section because I don't think that it just doesn't suit  the Zoom forum at all. I think it's really, really hard to have any kind of proper discussion. And yeah, I just think it's a bit hopeless, really, to be honest. So that's what I think is probably one of the biggest barriers that I can see.",
+    "speaker": "lizstolwyk",
+    "tags": [
+      "state_opinion",
+      "express_concern",
+      "procedural_move",
+      "prioritize_issue",
+      "evaluate_option"
+    ]
+  },
+  {
+    "start": 3099.754,
+    "end": 3102.856,
+    "text": " Yeah, thanks, Liz. Kirsty.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3103.097,
+    "end": 3186.022,
+    "text": "Thank you, Your Worship. Just to, I guess, affirm that sentiment from Liz. I think also just to bear in mind that this is really, I guess, the start of the process in terms of relooking at the economic strategy that we've had since 2012.  coming out of Council. For us, one of our biggest focus pieces of work is on the development of our community spatial plan. And this actually, I guess, is one of the most important pieces of work that we've been able to do over the last couple of years.  feeds into and is informed by that. So we're doing a lot of work engaging with mana whenua and iwi as we develop the community spatial plan, working alongside to hear from mana whenua iwi as to what aspirations are, and that covers off the full spectrum  environmental, cultural, social, economic included. So that work will also dovetail into this, but absolutely agree with Liz that hopefully in the new year, we'll be able to meet face-to-face and have some more interactive discussion. Yep, thank you. Thanks for your comments, Gaylene.",
+    "speaker": "kirstydowney",
+    "tags": [
+      "agree",
+      "provide_information",
+      "build_on_point",
+      "community_reference",
+      "equity_reference",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 3188.113,
+    "end": 3198.085,
+    "text": " I think we're all feeling a bit overwhelmed with some of the stuff at the moment, to be fair. Okay. Any other comments, discussion?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "express_concern",
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3200.688,
+    "end": 3354.457,
+    "text": " Welcome, Bill. Yes, sorry, my apologies for lateness. I did proof this document and did have a few questions that may have already been answered, but is it OK to? Yeah, go for it, go for it. OK, so.  Yeah, and I think I picked up on the end of Kirsty's there about how all of these plans are dovetailing into another. But you do wonder, you know, about the organic nature of the plans. You know, none of the plans 10 years ago would have had a pandemic in the middle of them. So, you know, how organic can we make these plans to be able to pick up on what is an ever changing situation globally in terms of health?  So that's one comment I had in there. And the key one there was about the business advisory group. Is M\u0101ori on that? How is M\u0101ori to be represented on that? And is it potential? M\u0101ori businesses are also in that advisory group. So I guess my first question is whether M\u0101ori are on it or not.  Is it potential M\u0101ori businesses or just present M\u0101ori businesses? And the key thing, the other one I was interested in is where it talks about iwi asset holding organisations. If I could just make the point that Apakura I don't believe is an iwi asset holding.  organisation at present. So yes, I did wonder about how we would input under that tag or that label. So I did have something on that.  And I'm assuming that you're talking about, again, about Waikato-Tainui in the main, because I know that Maniapoto are still putting together their current economic strategies. So, yeah, I did wonder where it talks in the plan about the current iwi economic strategies, whose those might have been, and how they were put together.  And there's lots of opportunity for feedback, but I do wonder, I do like feed forward stuff as well. Yeah, thanks. Resetting to be strategic, you know, there's that issue about, you know, situations change and being able to be organic in that space as well.",
+    "speaker": "billharris",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "clarify_point",
+      "community_reference",
+      "equity_reference",
+      "provide_information",
+      "prioritize_issue",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 3356.058,
+    "end": 3362.703,
+    "text": "Thanks Steve. Do you want to answer some of those questions if you can? Yeah, yeah, sure.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "ask_question",
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 3364.227,
+    "end": 3501.25,
+    "text": " Sure there are. In our identified business advisory group, there's a number of current Maori business firms. There probably needs to be a forum for emerging business and kind of incubator businesses. We don't have an incubator in the district. It's hard to work with new business.  in these groups. Iwi asset holding companies, again, we'd like to talk to all groupings, not only holding companies or Tainui tribal groups. So quite a number of groups have plans  It's probably fair to say that there's more environmental plans than business development plans, but there are business intentions and opportunities for all of these groups. Waikato Tainui, of course, is a big group, but it's not the only group and it's not the only group that we would want to talk to.  Concerns about global issues is a really massive one. I mean, we had quite a satisfactory strategy for 10 years, nothing much changed, but now everything's changed. So our strategies has served us well. We've got an amazing economy, but not all sectors and not all people have done well.  under the infometrics report on an amazing economy. So we know that, and that's why our shift to wellbeing is an effort to focus more attention on everybody doing better. I think that's all I can answer in that area.",
+    "speaker": "stevetritt",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "express_concern",
+      "equity_reference",
+      "prioritize_issue",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 3505.582,
+    "end": 3536.471,
+    "text": " So, both Steve and Bill, in terms of potential business opportunities, how are we going to identify those and include those, Steve? That was, I think, the question Bill was asking.  asking was, realistically, yeah, we've got a good handle on existing businesses, but the new and emerging ones are more difficult to capture, I suppose.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "build_on_point",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 3537.712,
+    "end": 3597.863,
+    "text": "Yeah, I think the first question is, what's the most effective way to communicate with the whole community? And  We're all a little bit over Zoom, and I could have 50 people on an invite list and get seven people. So it's hard work in a Zoom environment to have these discussions. At the same time, I wouldn't like to bury people in paperwork.  because I can produce 100 pages in no time, but no one wants to go there. So let's try and look for a kind of, maybe in the new year, a better way of talking and communicating and having some really personal conversations with everybody involved.",
+    "speaker": "stevetritt",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "evaluate_option",
+      "state_opinion",
+      "policy_proposal",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 3599.509,
+    "end": 3617.824,
+    "text": " Okay, so Bill, have you got a suggestion on how to contact these groups? I think that just the opportunity and knowing what's actually available and what is around and what is able to be done and the ways in which we do that.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "ask_question",
+      "provide_information",
+      "build_on_point",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 3618.765,
+    "end": 3652.146,
+    "text": "Sorry, Steve, I wasn't there for your presentation, but connecting as a person driving this, I think that that's great.  And if we know, have anyone that, you know, wants to be and sees themselves as being part of this plan going forward, then, you know, having Steve's details to be able to give them to them is a great way to go, I think. Yeah, and I'm always happy to meet anybody that contacts me and talk about what we're doing and getting information out there.",
+    "speaker": "billharris",
+    "tags": [
+      "agree",
+      "state_opinion",
+      "build_on_point",
+      "evaluate_option",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 3653.818,
+    "end": 3696.293,
+    "text": " OK, all right. Thanks, Jim. Yeah, thanks, Bill. So are there any other comments on Steve's presentation and report? So we have a recommendation or two recommendations there, A and B, to receive the information. Can I have a mover and seconder for that? Moved Marcus and seconded Liz. All those in favour? Aye. Contrary? Carried.  Item 10 is the draft transportation strategy. And I'm looking around for someone. Rachel, are you handling that? Thank you very much. Hand it over to you.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "summarize_outcome",
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 3698.154,
+    "end": 3708.802,
+    "text": "Kia ora koutou. It's Worship the Mayor, elected members and iwi representatives. I've got a short presentation. If I can just share my screen with you.",
+    "speaker": "rachel",
+    "tags": [
+      "public_address",
+      "procedural_move",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 3709.522,
+    "end": 3709.903,
+    "text": "Thank you.",
+    "speaker": "jimmylchreest",
+    "tags": []
+  },
+  {
+    "start": 3714.389,
+    "end": 4629.558,
+    "text": " Just one moment. Okay, thank you. Thank you very much for the opportunity to speak to you about the transport strategy. We're now really pleased to have a draft strategy and a short presentation to share outlining the transport strategy for discussion and feedback today.  I have to apologize to the Ng\u0101 Iwi Tupu representatives at the meeting last week as I wasn't quite able to finish the presentation due to internet problems. So hopefully we'll be able to complete it all today.  So the draft strategy is an update from the 2010 strategy in line with current policy, growth and community outcomes, provides a long-term view for transport projects through identifying transport issues and areas for focus, objectives and actions for the future. The strategy also considers how we might actually move around in the future with technology changes, transport modes changing, et cetera, et cetera.  electric vehicles coming on board, those sort of things. So the project phases, there were five key phases to this project. The project kicked off with a review of the previous strategy that was developed in 2010, which showed a number of completed transport projects such as the  the new Cambridge section of the Waikato Expressway, Te Awa Cycleway from Lake Kawerau to the Avanti Drome, Cambridge and Poronga Town Concept Plans, a new Regional Passenger Transport Plan, and a number of safety improvements, speed limits around schools, speed limit bylaw, and more cycleways such as the newly opened or newly developed Hamilton Road Cycleway.  Through the information gathering phase, we reviewed a number of policies and strategies that I'll talk to you about on the next slide. We also pulled together crash data, census data, household and employment data, and we ran the Waikato Regional Transport Model to understand what the traffic might look like in the future.  We had two workshops with stakeholders and attended Ng\u0101 Iwi Tupu Hui in April, May, July, and recently in November last week.  Workshops were also held with the elected members of the council for the transport strategy. This is a slide of the policies that we have to consider for the transport strategy. Things have changed in the last few years, and there's been more of a focus on providing more transport options and our response to climate change. And that's been led by things like the government policy statement on land transport,  I probably won't read through all of those national documents, but importantly, probably the most important one is the government policy statement. Because our transport projects have to align with that strategy and the priorities of safety  road safety, better travel options, improving freight connections and climate change. Regionally, we have the Waikato Regional Land Transport Plan, that's the RLTP, and our transport strategy has to align with that document. That's about the regional priorities for funding for transport projects.  At our district level, the strategy aligns with the council's community outcomes, such as creating vibrant communities and preparing for climate change. Two key priorities where the transport strategy can help with. The transport strategy will also help to inform the council's community spatial plan and that work is currently underway.  This is the strategy structure that we followed. We developed a vision. We had focus areas that were pulled together from talking with iwi and stakeholders. We identified objectives and outcomes, and we prepared some high level actions.  This is the vision. It has been proposed. The vision was workshop with iwi and stakeholders and elected representatives. And we came up with the words, people in freight and Waip\u0101 have access to an integrated, safe, sustainable transport system that provides a range of travel choices.  We're also very grateful for the whakatauki provided by Ng\u0101 Iwi Taup\u014d representatives. I ha te me nui o te ao. E tangata, e tangata, e tangata. People are at the centre of our solutions, highlighting the need to understand where people in Waip\u0101 travel and their differing transport needs, and working in partnership for the transport strategy outcomes.  Feedback, we're also really grateful to iwi representatives through the hui for feedback on issues that are important for us to consider for the transport strategy. Those include things such as heavy traffic and trucks going past Kihikihi School and the possible need for the future, a need for a bypass through Kihikihi.  Speed around schools and marae, particularly, obviously, rurally as well. Lack of licence appointments for new driving licences.  to actually get appointments, to actually kick off the process to get your driver's license. Concerns around rural areas in terms of safety and access. Incorporating e-bikes, mobility scooters, etc. into planning. Mobility parks taken up by able-bodied people.  That was actually raised also through the CCS disability people as well. Obviously very important to have those free for people with disabilities. Lack of bus services between Te Aumutu, Cambridge  and particularly destinations such as the Waikato Hospital and the University of Waikato as well. Possible future train connections linking Te Awamutu, Cambridge, Hamilton and regionally, and trucks down the main street and safety concerns. So those particular issues were pulled together into key issues and we came up with five key outcome areas.  Number one, responding to climate change. Number two, supporting growth, economic development and regional connections. Three, making our roads safer for all users. Four, access and mobility. And five, embracing technology. So we just talk briefly about our priority action areas.  Responding to climate change, that's a big thing for transport in terms of reducing our transport emissions and working towards zero carbon emissions to 2050. And that's in terms of focusing on emissions reduction plan and taking steps to ensure transportation targets are met.  We can do this by reducing greenhouse gases, reducing travel, more electric vehicles going around our district, prioritising walking, cycling and public transport to encourage mode shift to reduce transport emissions.  And another big thing is to ensure we continue to monitor the network to ensure its resilience to natural hazards and extreme weather events and ensure those key routes to our communities are kept well managed in terms of if there were natural hazards and extreme weather events.  Next one is about supporting growth, economic development and regional connections. And that's using a tool called the One Network Framework to prioritise how we move around the district, how we prioritise our freight routes, how we prioritise routes for cycling, people spaces over private vehicles, those sort of things.  Continue with our integrated planning, promoting higher and mixed use densities and multimodal transport options. The multimodal means things like including walking, cycling, buses, other ways to get around our district and our towns.  Continuing to work regionally through the Regional Land Transport Programme, FutureProof, the Hamilton Metro Spatial Plan and road safety work, which we do a lot of work with other partners across the region.  Progressing with the Te Aumutu Western Arterials project and that's to look to review the designation for the Western Arterial and look at how we can actually improve other outcomes for Te Aumutu as well.  And finally, the Cambridge Transport Network and safety improvements. Looking at our traffic in Cambridge, looking at our routes across the Waikato River, our bridges, and how we can make future improvements for the future.  Road safety continues to be a big issue in the district, in the region and also nationally. So we would be looking at continuing to roll out the Road to Zero vision. And it's quite a  a strong vision in terms of a New Zealand where no one is killed or seriously injured in road crashes. And that's a focus, a continued focus on safe roads for all users, including pedestrians and cyclists, safe speeds through engineering for lower speeds, continuing to look at our speed limits, looking at improvements around schools, rural schools, marae, etc.  in terms of safety improvements there. Rolling out our safe urban mobility networks, that's our separated paths away from traffic. And there's a whole programme being completed, particularly focus on our bigger towns of Cambridge and Te Awamutu to roll out those networks.  ensuring we provide high quality bus stop facilities to improve safety and security, making sure there's good surveillance, good facilities for people to encourage people to use buses in our district and regionally, and our continued focus on community road safety programmes.  access to mobility. This is my son on the Hamilton Road Cycleway embracing the recreational biking revolution. There's a lot more. We know there's a lot more people recreationally biking. Our challenge is to try and encourage people to  to bike more to workplaces and schools, and we can do that through our urban mobility networks in terms of providing safe facilities for them to get to those destinations and providing facilities there for making sure we can get their bikes locked safely and etc, etc.  The need to grow public transport patronage, and that's through the regional passenger transport work, but also the Hamilton Metro Spatial Plan work, which is looking at improving connections between Te Aumutu and Hamilton and Cambridge and Hamilton in terms of making faster connections. We can also encourage local buses to support those connections as well.  And also exploring rural transport options and enhanced services for transport disadvantaged people. That's things like total mobility services, services for people with disabilities, etc.  Now last area of objectives, embracing technology. This is, as we know, transport is changing and we are starting to see electric vehicles. We'll start to see changes to supporting technology to help  and assist people into public transport or mixed ways of travelling in the future. This diagram just shows examples of how people might travel in the future for short distances. People might, if they're able to, use bikes and scooters. This is particularly in our town areas.  There might be ways that we can just dial up and use local on-demand services, sort of Uber-style networks to travel further distances. And we might also investigate car-sharing schemes that we could use to do regional and longer trips, particularly in the weekends and things. So those are just sort of examples of those.  How we implement the strategy. We've got a whole lot of indicators there that we can keep track of the strategy. There's a whole lot of acronyms in this next stop point, but basically there's a whole lot of regional projects and district wide projects where we can incorporate and  implement project actions through these. Such things as also working within the community spatial plan in the district, the asset management plan in the district plan are key ways that we can influence and put our actions into the transport strategy.  Also through encouraging good design and measures to encourage mode shift. And that's looking at our parking, our parking management, other things that we can do, enhancing travel and encouraging travel behavior programs as well. So our next steps, we've completed the draft strategy, which we'll have a copy  Within the agenda, we're in the engagement side of things. We are looking at early next year, subject to endorsement at council, next week of going out to public consultation early in the new year with the adoption of the strategy soon after that.",
+    "speaker": "rachel",
+    "tags": [
+      "provide_information",
+      "summarize_outcome",
+      "report_back",
+      "community_reference",
+      "equity_reference",
+      "prioritize_issue",
+      "policy_proposal",
+      "confirm_next_step",
+      "public_address"
+    ]
+  },
+  {
+    "start": 4632.361,
+    "end": 4636.524,
+    "text": "And that's all.",
+    "speaker": "jocookmunrose",
+    "tags": [
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 4637.064,
+    "end": 4639.887,
+    "text": "Thank you and questions and feedback.",
+    "speaker": "rachel",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4643.017,
+    "end": 4650.36,
+    "text": " Okay, can you get rid of the picture of a now-missing Te Amuru railway station?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "assign_action",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 4650.66,
+    "end": 4654.302,
+    "text": "I certainly can, yeah. Jim?",
+    "speaker": "rachel",
+    "tags": [
+      "confirm_next_step",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4655.803,
+    "end": 4660.605,
+    "text": "Yeah, it's going backwards. We're going to have to build a new one by the looks of things.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "state_opinion",
+      "evaluate_option"
+    ]
+  },
+  {
+    "start": 4661.263,
+    "end": 4676.292,
+    "text": " Yeah, I mean, I think that was taken away in the 1980s, I believe. Yeah, but the platform is obviously still there and that will be looked at through various work streams in the future.",
+    "speaker": "rachel",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4677.373,
+    "end": 4701.645,
+    "text": " Yeah, and it was a shame to get rid of it. We could have turned it into a house for somebody. Yes, yes, yes. OK, so look, it's going out for public consultation. Is there anything you need from from the committee today? Any comments, any feedback that people might have?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "state_opinion",
+      "ask_question",
+      "public_address"
+    ]
+  },
+  {
+    "start": 4702.386,
+    "end": 4703.106,
+    "text": "Gaelene's waving her hand.",
+    "speaker": "rachel",
+    "tags": [
+      "provide_information",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4707.201,
+    "end": 4741.627,
+    "text": " I do. When I was in Ngaruawahia the weekend, they've got a group of boys down there and they travel on their horses. Yep, they ride their horses around Ngaruawahia and they graze them in a paddock across the road from the marae. It's fantastic. Yeah, so when I had a conversation with them, they said because they don't go to feed their horses,  They've only got to walk them, to exercise them, but that's their main transport, the horse, and they even go to humbling.",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "community_reference",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 4743.332,
+    "end": 4765.2,
+    "text": " That's fantastic. I understand that through the parks networks, and that could be mentioned, those connections with parks routes where we are looking at improving connections, you know, such as Porongia Cycleway and things like that, and improving horse and bridle trails around the district.",
+    "speaker": "rachel",
+    "tags": [
+      "provide_information",
+      "build_on_point",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 4767.121,
+    "end": 4809.523,
+    "text": "It's a bit of a, again, with the  urban intensification, the ability for that to go on. Kihikihi is an area that used to have quite a few people out there with horses, and they're now losing their spare paddocks for grazing purposes. So it becomes a bit of a challenge. And we haven't got a hitching rail in town anymore, I don't think, which is a problem.  But yeah, look, any modes of transport other than the internal combustion engine has probably got to get a tick, doesn't it?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "express_concern",
+      "community_reference",
+      "provide_information",
+      "state_opinion",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 4810.885,
+    "end": 4813.61,
+    "text": "Yes, yes, absolutely Mayor Jim, yep.",
+    "speaker": "rachel",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 4814.929,
+    "end": 4841.793,
+    "text": " is quite a good iron rail outside the RSA gym. And I was in there the other day and happened to mention to Lou that, you know, you've got to go past all these mobile scooters to get up to the RSA these days. So, you know, certainly parking for mobile scooters close to  close to the door or the ramps is a pretty important component of that. Yeah, thanks for that Bill.",
+    "speaker": "billharris",
+    "tags": [
+      "express_concern",
+      "prioritize_issue",
+      "community_reference",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 4841.893,
+    "end": 4859.308,
+    "text": "Yeah, definitely those connection facilities and some of these e-bikes and electric scooters, you know, they're not cheap either. So it's sort of making sure that if we're going to encourage people to use them, then we provide the facilities for people to lock them up safely too.",
+    "speaker": "rachel",
+    "tags": [
+      "state_opinion",
+      "policy_proposal",
+      "provide_information",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 4864.362,
+    "end": 4917.636,
+    "text": " Look, I think we've obviously all got to have a change in mindset.  in terms of transportation. I can't see in New Zealand with that population, the size that it is, that we're ever going to do away with some form of private transport, whether it's electric cars or not. But the, you know, with the, I suppose, culture of moving around the country and deciding we want to go to the beach in the morning and heading off  trying to rely on public transport's not going to work, but certainly those short trips which we can do on buses or shared cars or whatever is going to be a step in the right direction. Yeah, so any other comments anyone has?  All right. Hey, thanks, Rachel, for the update.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "state_opinion",
+      "persuasion_attempt",
+      "prioritize_issue",
+      "build_on_point",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 4917.996,
+    "end": 4923.698,
+    "text": "Thank you. Thank you, everybody. Thank you for the opportunity. No, thank you.",
+    "speaker": "rachel",
+    "tags": [
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 4923.798,
+    "end": 4937.283,
+    "text": "So we've got a recommendation there to receive the information. Can I have a move, Galeem, seconded, Andrew. All those in favour? Contrary. Carried. Thank you for that. Thank you.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "summarize_outcome",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 4938.024,
+    "end": 4940.024,
+    "text": "Have a good day, everyone. Thank you. Bye.",
+    "speaker": "rachel",
+    "tags": [
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 4940.765,
+    "end": 4950.02,
+    "text": "Thank you.  The spatial plan progress, Kirstie, I presume. K\u0113n\u0101 koutou katoa.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move",
+      "assign_action",
+      "public_address"
+    ]
+  },
+  {
+    "start": 4950.06,
+    "end": 5195.174,
+    "text": "Thank you, Your Worship. Just with regard to the report that you have on your agenda, I'd like to ask that that be taken as read. It has focused on matters that may be of interest to mana whenua and iwi. So I'll just speak to those very briefly.  With regard to this work stream, which is a key part of phase two of this project, which will take us from September through until October 2022, we have a mana whenua iwi work stream. We have developed an engagement plan, and we also have engaged Stephen Wilson as an external advisor to guide us in terms of how we  effectively engage with mana whenua and iwi. So we've had the first round of hui focused on providing an introduction and overview as to what the Waipa Community Spatial Plan is and what we're hoping it will achieve. Talking about working in partnership with mana whenua and iwi  providing discussion on membership to the PCG. So we had members that were appointed on an interim basis, and I'll come back to that, and then looking at gaps.  Coming out of the three hui, there was a lot of really valuable feedback. So we've taken that away. And one of the things that we looked at was how we capture M\u0101ori aspirations within this plan.  had an introduction to an interactive GIS tool. So we have followed that up and we have a dedicated w\u0101nanga which is scheduled to be held this Friday, the 3rd of December. And the purpose of that will be to further explore those suggestions, areas where mana whenua and iwi might like to share information with us and see that captured  There was some conversation about how we protect information that is shared, and we have developed up a statement that will be provided to attendees prior to that w\u0101nanga on Friday. We're hoping that we'll be able to get that out later today. With regards to the PCG, so that comprises  elected member representation, Mayor Jim, Deputy Mayor Liz and Susan O'Regan as chairperson of the Strategic Planning and Policy Committee sit on that PCG. And we've previously discussed with you mana whenua iwi representation, so feedback from this committee and Iwi Topo Waipa  On that basis, Gaylene, Portal, and Bill were put onto the PCG as interim members. That was discussed through the hui, and a further suggestion was made that Harold Maniapoto and his nominee, Alternate, be put forward to be members of that PCG.  So there is a PCG meeting later today, and that is one of the recommendations that will be considered and determined. With regard to the role of the PCG, it's to provide approval as to project milestones and deliverables. It's to act as a sounding board and to provide guidance.  It's to provide feedback on engagement material and also to make recommendations to elected members who are the ultimate decision maker with regard to the development of this plan. So happy to respond to any questions that you may have, but otherwise possibly just leave it there.",
+    "speaker": "kirstydowney",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "equity_reference",
+      "procedural_move",
+      "report_back",
+      "confirm_next_step",
+      "defer_decision"
+    ]
+  },
+  {
+    "start": 5197.048,
+    "end": 5213.837,
+    "text": " Thanks, Kirsty. Were there any comments? Gaylene, just a question. How do you think it's going so far with the consultation that we've had? Yep, yep.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5214.238,
+    "end": 5232.228,
+    "text": "Because we talked about special planning way back when the girls came to Ng\u0101i W\u012b T\u014dhupu, way back when we were doing the land changing thing.  So it's not a new space for us. Yeah. Yeah, I think it's okay. Myself. Yeah.",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "community_reference",
+      "state_opinion",
+      "agree"
+    ]
+  },
+  {
+    "start": 5233.708,
+    "end": 5237.149,
+    "text": "All right. Okay. Hey, well, thanks for that. Bill?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 5237.349,
+    "end": 5263.972,
+    "text": "Just, you know, I think it's been great that, you know, the project team has gone out and we've had a lot of mana whenua come on to those Zoom conferences. So, you know, and it's good to see who is there in terms of iwi representation.  And it's been great. I just wanted to, you know, pass that comment on to the other councillors and to Kirsty. Yeah, OK, thanks for that, Bill.",
+    "speaker": "billharris",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "report_back"
+    ]
+  },
+  {
+    "start": 5264.052,
+    "end": 5270.575,
+    "text": "So, yeah, it's good to get the feedback and know that we're hitting the right spots, that's for sure.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "state_opinion",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 5271.476,
+    "end": 5272.096,
+    "text": "Thank you.",
+    "speaker": "kirstydowney",
+    "tags": [
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 5273.923,
+    "end": 5279.086,
+    "text": " There's always more that can be done. Yeah, well, yeah, absolutely.",
+    "speaker": "billharris",
+    "tags": [
+      "agree",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 5279.906,
+    "end": 5319.371,
+    "text": "All right. Well, Kirsty, I don't think there's any other comments, so I'll ask for a mover and second just to receive the information. Bill and Wythe, thank you very much. All those in favour? Contrary? Carried.  OK, item 12, Pirongi Forestry update. I saw, I think, Bruce. Yeah, Bruce, an update on the forestry on Pirongi.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "summarize_outcome",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 5319.411,
+    "end": 5363.692,
+    "text": "Yes, kia ora koutou. For the people who don't know me, my name is Bruce Nunes. I'm the property manager for Waipa District Council. I've been in the role for about six months now.  So today I'm going to give you a brief update on our plans to harvest part of the Porongia forest and some of the consultation we're planning for the replanting in 2023. So I'll just share my screen. Okay, is that up? No.  OK, yeah, we are getting there. Getting there now. OK, so just so you got the put on your forest harvest presentation up there. Yeah, OK, excellent, thank you.",
+    "speaker": "brucenunns",
+    "tags": [
+      "provide_information",
+      "public_address",
+      "procedural_move",
+      "report_back",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 5367.456,
+    "end": 5376.924,
+    "text": "Just noticed Haupai didn't appear to be on her screen there. I just thought she might be one of the ones most interested in this, but.",
+    "speaker": "garyknighton",
+    "tags": [
+      "provide_information",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 5379.168,
+    "end": 5385.912,
+    "text": " Oh, no, sorry, she's not on your screen. Sorry, I thought she'd left. He's had to duck out.",
+    "speaker": "rachel",
+    "tags": [
+      "clarify_point",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 5386.713,
+    "end": 5389.094,
+    "text": "Should I continue? Yeah, I think so.",
+    "speaker": "brucenunns",
+    "tags": [
+      "ask_question",
+      "confirm_next_step",
+      "agree"
+    ]
+  },
+  {
+    "start": 5389.174,
+    "end": 5400.961,
+    "text": "I think, Bruce, I hope I might just need to get a one-on-one if there's any issues, but we can't hold up the meeting. OK, good stuff. Or I can update or anything.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move",
+      "assign_action",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 5403.438,
+    "end": 5525.924,
+    "text": " OK, so just by way of background, so Council owns 284 hectares of forest land in Porongia. It's currently in two blocks, one off Sainsbury Road and the other off Te Tahi Roads. So we are planning to harvest approximately 43 hectares of the Sainsbury Road block. Just put up the plan attached there. So in pink, circled in pink, is around about 35 hectares.  And the piece in blue is around about eight hectares. So the line up here is Sainsbury Road. We take off onto the forestry tracks. So there's basically two blocks on Sainsbury Road we're planning to harvest. So once the harvest is complete, we're going to be left with a decision about what the land should be replanted with. And we've got a range of options there from radiata pine to mixed natives and a whole heap of other types of species in between.  The replanting will be undertaken in the winter of 2023. And one of the things that we would like some help with is a decision about replanting. And we're going to do that in consultation with the Parongia community, iwi and other community stakeholders. So in terms of the consultation process, we're planning to do this April to June.  2022. And the main purpose of that consultation is to involve the Porongia community, iwi and other key stakeholders in decision making around the replanting of the forest. And the key objectives are to engage with stakeholders, resident groups, the wider Porongia community and iwi to make sure they're informed with and engaged in the consultation process.  And so that we can, as council, there's a clear direction from the Prongo community, iwi and other key stakeholders on the replanting of the forest for council to consider. And that's really just sort of a brief overview of what we're planning in terms of the consultation. Are there any questions?",
+    "speaker": "brucenunns",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "clarify_point",
+      "confirm_next_step",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 5528.386,
+    "end": 5568.792,
+    "text": "Yeah, Bruce, in terms of replanting, maybe if you can get rid of the  the big question mark I've got on my screen. Yep, so we can see everybody that's talking. But just in terms of replanting with indigenous or native vegetation, is that possible to have a really long term  view and to replant with species that are suitable for harvest later on, and it might be 200 or 300 years out, but rather than a quick return Pinus block.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "ask_question",
+      "policy_proposal",
+      "express_concern",
+      "evaluate_option"
+    ]
+  },
+  {
+    "start": 5569.698,
+    "end": 5592.354,
+    "text": " Yeah, so there's a whole range of options in there in terms of what we would plant with, and it could be mixed natives, for example. There's manuka, and there's kind of a whole, you know, Douglas fir, cypress. So there's a whole range of species. Douglas fir, for example, you know, is another sort of production forest, but things like mixed natives have a very long-term view to them.",
+    "speaker": "brucenunns",
+    "tags": [
+      "provide_information",
+      "evaluate_option"
+    ]
+  },
+  {
+    "start": 5594.515,
+    "end": 5602.493,
+    "text": "Yeah, okay.  So there are any comments at the moment, but there will be that consultation round starting next April.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "provide_information",
+      "confirm_next_step",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 5602.814,
+    "end": 5610.259,
+    "text": "Yeah, so we'll be starting the process around about April for a two to three month period and trying to engage and understand what the views of the community are.",
+    "speaker": "brucenunns",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 5611.02,
+    "end": 5629.542,
+    "text": "So I would imagine that certainly along the stream edges and things would be replanted with  a mixed native so that there wasn't an intent to ever harvest that again to protect the waterway. Would that be fair, Commie?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "state_opinion",
+      "policy_proposal",
+      "ask_question",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 5629.842,
+    "end": 5644.629,
+    "text": "Yep. Potentially, that's something that could be considered as well. Yeah. So all of those sorts of things are sort of what we need. We're looking for feedback on because there are a couple of streams there and they are planted quite closely with radiata pine at the moment. And we could actually have a buffer zone all around those.",
+    "speaker": "brucenunns",
+    "tags": [
+      "provide_information",
+      "ask_question",
+      "evaluate_option",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 5645.23,
+    "end": 5652.034,
+    "text": "Yeah.  OK, so those are the sorts of things that you'd be looking for comments back on.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "assign_action",
+      "confirm_next_step",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 5652.414,
+    "end": 5662.843,
+    "text": "Absolutely. So that's what we're looking for feedback on, sort of what the community would like to see in terms of how we replant that. Yeah, and issues about",
+    "speaker": "brucenunns",
+    "tags": [
+      "agree",
+      "ask_question",
+      "community_reference",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 5664.505,
+    "end": 5676.675,
+    "text": " I suppose, public access. I know that the bike trails and walking trails up there, so the importance of keeping it open for the public would obviously factor in.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "state_opinion",
+      "prioritize_issue",
+      "community_reference",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 5677.095,
+    "end": 5691.947,
+    "text": "Yeah, absolutely. So it's actually becoming wider, getting a lot more community use of horse riders, walkers, the mountain bike club. The number of visitors to the mountain is growing on sort of basically on a month by month basis. It's a very, very popular.",
+    "speaker": "brucenunns",
+    "tags": [
+      "provide_information",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 5693.609,
+    "end": 5697.531,
+    "text": " Okay. And how long is the harvesting likely to take?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 5697.971,
+    "end": 5710.475,
+    "text": "It'll take four months, the harvest, from start to finish. So there's some roading works that needs to be done. We've done a little bit of roading works this month, but there's some upgrades to the roads. So the actual harvest will take probably a maximum of four months, they're telling me.",
+    "speaker": "brucenunns",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 5714.437,
+    "end": 5728.527,
+    "text": "Just a comment, just that iwi is actually a  a treaty partner rather than the stakeholder. I just noticed all the way through it was listed as basically as a stakeholder, but we are actually a iwi partner.",
+    "speaker": "waitiahoahoteruk",
+    "tags": [
+      "clarify_point",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 5729.567,
+    "end": 5744.632,
+    "text": "OK, OK, thank you. So just just making sure I hope I I think you missed the front end of that, but that was the Sainsbury Road forestry that I'm assuming K\u016breiki-Reiki will have quite an interest in the replanting of.",
+    "speaker": "brucenunns",
+    "tags": [
+      "clarify_point",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 5749.075,
+    "end": 5757.677,
+    "text": " Opai, you're on mute.",
+    "speaker": "garyknighton",
+    "tags": [
+      "procedural_move",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 5757.997,
+    "end": 5922.273,
+    "text": "Unmute. Thank you. Unfortunately, the phone went and it was marae business, so I had to attend to it. And yes, we're very interested in the Sainsbury Reserve area. I know I had one member of Pirongi Republic talking about the possibility of a  In Urup\u0101, there must be a term for it, I've just forgotten what it is now, in that area. But of course, there was a bit of friction between people that were supporting that idea and the mountain bike people. But however, we do get some feedback on those that do use it. Incidentally, though, we'd like to be a bit more involved to have regular  update so this is, thank you very much Bruce for this item and I would dearly love to have you come and talk to the marae people at Pirekireki about it. I could provide them with an intro first because our first meeting of the year, well we've actually got one in December,  in two weeks time, so I'll bring it up there, and then we can make it time to have you come along and talk to the marae people in February, which will be our first meeting of next year. But yes, and we're not just interested in, well, we are interested in what's been happening over the years, but we've still got wh\u0101nau who were participants in the building of the road,  at that end of the mountain. Uncle George Serank, of course, was one. And he actually had a lot of stories to tell about that. And one of my oldest brothers, who's in his 80s, he also was one of those that worked on the road. So, of course, anything that happens at that end of the road, they're interested in. So I'd just like to say, I'm sorry I missed out on your talk just now.  particular aspects of the reserve, et cetera, that you spoke on, but we will make contact again, Bruce, in the new year and come up with our own conversations and invite you out to a meeting at the marae, which generally takes place on a Sunday, but we do have, we have been having Zoom meetings, so we'll see you again in the new year.  Thank you, Jim, for that opportunity to input here.",
+    "speaker": "haupaipuke",
+    "tags": [
+      "community_reference",
+      "assign_action",
+      "confirm_next_step",
+      "provide_information",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 5922.914,
+    "end": 5928.017,
+    "text": "Yeah, thanks. That would be perfect. I'd be happy to attend a meeting. Thank you. Thanks, Bruce.",
+    "speaker": "brucenunns",
+    "tags": [
+      "agree",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 5929.158,
+    "end": 5929.578,
+    "text": "Gaylene.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5932.1,
+    "end": 5933.06,
+    "text": "Hello, Mr. Nunn.",
+    "speaker": "gayleneroberts",
+    "tags": []
+  },
+  {
+    "start": 5933.361,
+    "end": 5937.503,
+    "text": "Kia ora, Gaylene. Kia ora. How are you? Nice to see you again. I'm very well. Very well.",
+    "speaker": "brucenunns",
+    "tags": []
+  },
+  {
+    "start": 5940.405,
+    "end": 6032.449,
+    "text": "So this is going to be really a right-handed, a left-handed view on this. I would think  that the council would have a relationship with the iwi, the hap\u016b, the h\u0101puri who is affected by the Sainsbury Road planting. That way, whatever you ask any other iwi on the outside, they are always going to support it. They will always support whoever the wh\u0101nau is that  as closest to that development. So as Haupai has just invited you to Purikiriki, now if the council is smart, they would utilise that discussion or that w\u0101nanga at Purikiriki and drive that. Because iwi always work the same way.  We will always support those who are most affected by any development. And so I think that this is an opportunity for the Waipoua District Council to engage in their own backdoor first, and then with everybody else around it. From an iwi perspective, anyway, those are my views.  And I'm just so excited about this project, and I just love trees.",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "policy_proposal",
+      "community_reference",
+      "state_opinion",
+      "persuasion_attempt",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 6034.629,
+    "end": 6058.195,
+    "text": "Thanks, Gaylene. Thanks for that sage advice, Gaylene, and that's definitely what's being planned by the sound of it. So if Bruce can get out to P\u016brekiriki before the April kickoff for the general public, I suppose, conversation, that would be helpful for you, Bruce, anyway. Definitely plan to do that.  Yeah. Anyway, thanks, Gaylene.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "agree",
+      "assign_action",
+      "confirm_next_step",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 6058.635,
+    "end": 6060.897,
+    "text": "Yeah, cool. I'll make sure I'm there, Mr Nance.",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "agree",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 6061.157,
+    "end": 6062.278,
+    "text": "Thank you. Good to see you again.",
+    "speaker": "brucenunns",
+    "tags": []
+  },
+  {
+    "start": 6063.559,
+    "end": 6068.402,
+    "text": "We thought by going out there, Prangi, we would leave you over at Parawira, Gaylene.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "assign_action",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 6071.124,
+    "end": 6077.049,
+    "text": "I know, I can take my whakapapa all the way across there. Okay.",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "agree"
+    ]
+  },
+  {
+    "start": 6077.609,
+    "end": 6109.366,
+    "text": "All right. So just a mover and seconder to receive that information.  Andrew, and why can\u2014yes, second. All those in favour? Okay. Contrary. Carried. Thank you. Thank you very much. Thanks, Bruce. Okay, we're on to item 13 now.  Dogs on Puku. Gary, were you giving us an update?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "call_vote",
+      "close_discussion",
+      "procedural_move",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 6110.086,
+    "end": 6208.207,
+    "text": "Just on Carl's behalf, just a quick update. This is pretty much a standing item now until we get it resolved. So with COVID, you'll remember we were kind of attacking this two different ways. First of all, there were discussions with DOC around potentially  Running the Council Reserve under DOC rules essentially. So those, with COVID, those conversations seem to have slowed down with DOC and we haven't really heard anything back from them at this stage.  Also aware that Ng\u0101ti Unu haven't heard anything back from them as well, so at the moment that that tranche has kind of stalled. We've also lost Ana McElroy and Tauwhike as well, so we're a bit short in the reserves planning area.  On the other side of it though, Cale's team is progressing with capturing all the proposed, well, basically looking at the dog policy across the district. They're capturing all the different changes that are required across the district. And there are a number of them. And they think they're going to be bringing that back to council for a workshop early in the new year. So you can start to see some progress on the policy anyway, in the new year.  So that's a nutshell.",
+    "speaker": "garyknighton",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "confirm_next_step",
+      "summarize_outcome",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 6209.569,
+    "end": 6234.449,
+    "text": "Okay, so look, this has been dragging on for quite some time. Is there anything that I can do talking to Doc to push that as that option? And can we get a firm date from Carl in terms of what he's doing with all of the other updates for the  for the dog control bylaw?",
+    "speaker": "jimmylchreest",
+    "tags": []
+  },
+  {
+    "start": 6234.649,
+    "end": 6277.585,
+    "text": "I'll work on a date. I know he has to get the strategy team have to pick it up and and do work on it, but so I'll talk with Kirstie and Carl. OK, and if there's anything I can do talking to someone in DOC. I couldn't see Shane if he's still on the call, but he is waiting.  Ng\u0101ti Unu are having discussions with DOC, but like I said, they're still just waiting to hear back, and that could be a COVID delay. But I'll talk to Shane and just see if there's anything that, if we can shake the tree any higher, if that will speed things along.",
+    "speaker": "garyknighton",
+    "tags": [
+      "assign_action",
+      "confirm_next_step",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 6278.205,
+    "end": 6291.462,
+    "text": "Yeah, OK. We'll just try and bring it to a conclusion.  All right, well, that brings us to the end of the meeting. So, look, sorry, Gary.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "close_discussion",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6292.062,
+    "end": 6294.604,
+    "text": "I did have that late item just- Oh, sorry, Gary.",
+    "speaker": "garyknighton",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6296.025,
+    "end": 6301.75,
+    "text": "Just through the chair, sorry, Mayor Jim, we just need to receive Gary's verbal update too, thank you.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 6302.33,
+    "end": 6321.183,
+    "text": "Yep, can I have a mover and seconder to receive that? Gaylene and Wai, thank you. All those in favour?  I think I mentioned it earlier in response to Gaylene that Council has set the first meeting as the 6th of April for next year.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 6321.243,
+    "end": 6357.671,
+    "text": "So, I think it's a good idea to set the first meeting as the 6th of April next year.  I think we had a discussion at Ng\u0101i T\u014dku that there was such a lot of stuff coming through that there might be some merit in meeting a bit earlier if we could. We traditionally leave that one, we don't go for the March one because the P\u014dkai starts pretty close to that. But Gaylene, do you, and we did talk about maybe having a workshop or something like that, late February, early March. Any thoughts?",
+    "speaker": "garyknighton",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "provide_information",
+      "prioritize_issue",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 6359.724,
+    "end": 6380.892,
+    "text": " I would prefer it to be earlier because there's a lot of changes for marae around hosting of Poukai in March. Yeah, so I would prefer to have something not April can do it earlier. Are we allowed to do that? February?",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "ask_question",
+      "state_opinion",
+      "community_reference",
+      "prioritize_issue",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 6382.892,
+    "end": 6394.456,
+    "text": " Late February? Yes, that'll work. Shall we look for a date then and get back to you on that, but aiming to have it late February, if that works for everyone?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "agree",
+      "procedural_move",
+      "confirm_next_step",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 6395.956,
+    "end": 6421.248,
+    "text": "We've got the commemoration on the 21st. So if it was to be sort of later in that week, what day do we normally have it? Wednesday? Yeah. So 21st, 22nd, it'd be the 23rd.  Okay, well look, without having everyone's diaries and calendars, but look, we'll try and aim in that week.",
+    "speaker": "billharris",
+    "tags": [
+      "provide_information",
+      "ask_question",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 6423.85,
+    "end": 6426.472,
+    "text": "Gary? Yep, thank you, Worship. Pick that up.",
+    "speaker": "garyknighton",
+    "tags": [
+      "confirm_next_step",
+      "agree"
+    ]
+  },
+  {
+    "start": 6427.733,
+    "end": 6486.082,
+    "text": "All right, hey, sorry that we haven't got our usual Christmas celebration and the ham will be off by next year, sorry. We have to get a fresh one. But look,  Merry Christmas to everyone and I hope you have a happy new year and all the family can come home and COVID stays at bay, which is a real concern for everybody. So, I think from just Council, wish you all a  the compliments of the season and hope everybody stays fit and healthy and we don't have the big outbreak that everybody's predicting. So all the best for the holiday season. So before we close, Chuck, can you close the meeting for us? If he's there, yep. I think Shane's gone, so.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "public_address",
+      "express_concern",
+      "reassure_stakeholders",
+      "assign_action",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 6488.883,
+    "end": 6490.223,
+    "text": "You're on mute, Chuck.",
+    "speaker": "garyknighton",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6497.449,
+    "end": 6523.813,
+    "text": " Kia ora e te korom\u0101tua e Jim, t\u0113n\u0101 koe. Kua hui hui mai nei t\u0101tou i t\u0113n\u0101 w\u0101. Te mahi m\u0101kiu hei whakakapi t\u014d t\u0101tou hui. E inoiko t\u0113nei. Te pau hihiri, te pau r\u0101rama, te pau o te whak\u0101ro, te pau o te t\u0101ngata, te pau o te aroha. Ko \u0113nei n\u0101 pau e herena i a t\u0101tou, n\u014d reira mauri ora ki a t\u0101tou. Haumi e, hui e, t\u0101iki e.",
+    "speaker": "chuckdavies",
+    "tags": [
+      "public_address",
+      "community_reference"
+    ]
+  }
+]

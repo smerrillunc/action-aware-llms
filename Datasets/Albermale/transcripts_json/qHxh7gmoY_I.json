@@ -1,0 +1,2731 @@
+[
+  {
+    "start": 1.246,
+    "end": 16.302,
+    "text": " It is 630 and I call our March 11 meeting back to order and welcome anyone who is listening to us by zoom or on the county's website. Miss Carlson Vice Chair Carlson, do you have a motion.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "request_action"
+    ]
+  },
+  {
+    "start": 16.889,
+    "end": 32.928,
+    "text": " I do. I move that the board certify by recorded vote that to the best of each board member's knowledge, only public business matters lawfully exempted from the open meeting requirements of the Virginia Freedom of Information Act and identified in the motion authorizing the closed meeting were heard, discussed, or considered during the closed meeting.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "procedural_move",
+      "vote_call"
+    ]
+  },
+  {
+    "start": 39.856,
+    "end": 59.411,
+    "text": "Was that Mr. Alcaro?  Yes. OK. Moved by Ms. Colson, seconded by Mr. Alcaro, that we certify that nothing was discussed during the closed session except for what our motion authorized. Ms. Johnston, could you take the roll? I'll call the roll, please.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 59.431,
+    "end": 68.061,
+    "text": "Mr. Alcaro? Yes. Ms. Lee? Yes. Dr. Acuff? Yes. Ms. Colson?",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 68.661,
+    "end": 68.921,
+    "text": "Yes.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 69.522,
+    "end": 82.109,
+    "text": "Ms. Osborne? Yes. Mr. Ober?  Mr. Yes. Mr page.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 82.711,
+    "end": 169.458,
+    "text": "Yes. Okay, the motion carries. We will have a moment of silence.  All right, thank you. Due to the pandemic, we must have this resolution read into our minutes with each meeting. The minutes of this meeting should reflect that this meeting is being held electronically, pursuant to Virginia state law and Albemarle County ordinance, because the COVID-19 pandemic makes it impracticable and unsafe to assemble a quorum physically in a single location.  The meeting is being communicated to the public electronically through Zoom and streamed live on the Albemarle County Public Schools website. And public comment may be offered through the Zoom waiting room feature in accordance with the school board's protocol or by written submission. Our board members, Dr. Kate Acuff.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "logistics_info",
+      "public_addressing",
+      "cite_external_source"
+    ]
+  },
+  {
+    "start": 172.902,
+    "end": 175.045,
+    "text": "Kate Acuff, Jack Jewett District.",
+    "speaker": "kateacuff",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 176.392,
+    "end": 182.859,
+    "text": " Mr. John O. Alcaro. John O. Alcaro at large. Ms. Katrina Coulson.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 183.579,
+    "end": 186.362,
+    "text": "Katrina Coulson, Rio District.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 186.382,
+    "end": 187.183,
+    "text": "Ms. Judy Lee.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 187.864,
+    "end": 189.185,
+    "text": "Judy Lee, Rivanna District.",
+    "speaker": "judyle",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 189.585,
+    "end": 190.606,
+    "text": "Mr. Dave Oberg.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 191.788,
+    "end": 193.67,
+    "text": "Dave Oberg, Whitehall Magisterial District.",
+    "speaker": "davidoberg",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 194.811,
+    "end": 195.732,
+    "text": "Ms. Ellen Osborne.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 196.372,
+    "end": 198.174,
+    "text": "Ellen Osborne, Scottsville District.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 199.335,
+    "end": 203.319,
+    "text": "OK, Graham Page, Samuel Muller District. And Mr. Angel Pelkey.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 204.2,
+    "end": 205.842,
+    "text": "Angel Pelkey, student representative.",
+    "speaker": "angelpilkey",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 206.547,
+    "end": 211.812,
+    "text": " Okay, thank you all. Could I have a motion to approve our agenda for tonight?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "public_addressing",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 213.234,
+    "end": 214.935,
+    "text": "I move that we approve the agenda.",
+    "speaker": "davidoberg",
+    "tags": [
+      "procedural_move",
+      "vote_call"
+    ]
+  },
+  {
+    "start": 215.876,
+    "end": 223.003,
+    "text": "All right, dual motions. All right, thank Mr. Alcaro. I was first. So is there a second?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 223.564,
+    "end": 223.904,
+    "text": "Second.",
+    "speaker": "bernardhairston",
+    "tags": [
+      "procedural_move",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 224.625,
+    "end": 231.231,
+    "text": "All right, moved by Mr. Alcaro, second by Ms. Lee, that we approve the agenda. Ms. Johnston?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "vote_call",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 232.773,
+    "end": 235.035,
+    "text": "That's totally unfair. Now I'm going to vote against it.",
+    "speaker": "davidoberg",
+    "tags": [
+      "express_concern",
+      "disagreeing"
+    ]
+  },
+  {
+    "start": 237.04,
+    "end": 238.042,
+    "text": " Okay, so sorry.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 238.503,
+    "end": 242.129,
+    "text": "Mr. Ostero? Yes. Mr. Oberg?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 242.73,
+    "end": 243.171,
+    "text": "No.",
+    "speaker": "davidoberg",
+    "tags": [
+      "disagreeing"
+    ]
+  },
+  {
+    "start": 245.355,
+    "end": 251.245,
+    "text": "Ms. Lee? Yes. Dr. Acuff? Yes. Ms. Galston?",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 251.686,
+    "end": 251.947,
+    "text": "Yes.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 252.408,
+    "end": 255.153,
+    "text": "Ms. Osborne? Yes. Mr. Page?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 255.553,
+    "end": 261.023,
+    "text": "Yes. We now need a motion to approve our consent agenda.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "request_action"
+    ]
+  },
+  {
+    "start": 264.766,
+    "end": 266.909,
+    "text": " I move that we approve the consent agenda.",
+    "speaker": "davidoberg",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 267.29,
+    "end": 279.648,
+    "text": "Thank you, Mr. Oberg. Is there a second? Second. All right. Moved by Mr. Oberg, seconded by Ms. Lee, I think I heard first, that we approve the consent agenda. Ms. Johnston?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 282.372,
+    "end": 295.875,
+    "text": "Ms. Lee? Yes. Dr. Acuff? Yes. Mr. Alcaro? Yes. Mr. Oberg? Yes.  Ms. Osborne? Yes. Ms. Coulson? Yes. Mr. Page?",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 296.276,
+    "end": 308.015,
+    "text": "Yes. Thank you for the preliminary work to set our agenda in order. We will now have spotlight on education introduced by Dr. Acuff.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 316.209,
+    "end": 318.212,
+    "text": "Kate, you're muted. Unmute Dr. Acuff.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 319.863,
+    "end": 537.239,
+    "text": " Of course, I am. Sorry about that. Thank you, Dr. Page. I'm delighted to introduce tonight's spotlight on education. So what do you think of when I ask you about a potential pathway for an inducible protective response to excess glutamate that may be disrupted in ALS?  It could mean that someone left a medical dictionary open. For one of our students, however, it's a link to our nation's oldest and most prestigious science and math competition for high school seniors, a competition that is now 79 years old. It's a competition that has produced the winners of 13 Nobel Prizes, 21 MacArthur Fellowships, and 11 National Medals of Science. I'm describing the Regeneron Science Talent Search,  and each year 300 high school students from across our country are chosen as national scholars. Regeneron, by the way, is a science and technology company headquartered in New York, specializing in delivering life-transforming medicines for serious diseases.  That takes us back to the question with which I began. One of this year's Regeneron's National Scholars is Rachel Field, a student in our Health and Medical Sciences Academy at Monticello High School.  For her achievement, Ms. Field earned not only a $2,500 award for herself, but also one for the Health and Medical Sciences Academy. Rachel's interest in medical research began while she was a Burley Middle School student and was introduced to our Health and Medical Sciences Academy. She was intrigued by its hands-on experimental approach to discovery  and its impressive success in placing students as interns with health care research firms and providers. Rachel also has a highly personal connection to Regeneron's mission. Both a family relative and a family friend have suffered from serious diseases. That exposure to serious illness led her  to her interest in studying possible pathways to improve the quality of life for patients with neurodegenerative diseases. Her research, and Rachel will correct me if I'm not correct, but it started with the observation that many of these neurodegenerative diseases result from and are made more severe by the inability of a specific protein in the body to block the killing of certain kinds of cells.  So Rachel's research focused on how that protein could be activated to prevent this destruction and the progression of ALS, or amyotrophic lateral sclerosis, which we know more familiarly as Lou Gehrig's disease. Given that every 90 minutes someone contracts ALS and someone else dies from it, the significance of Rachel's findings hold the promise that someday,  its devastation can be reduced. So with that preamble, Rachel, please tell us about your research and this extraordinary opportunity as a Regeneron National Scholar. You have been given and the investment in our Health and Medical Sciences Academy. And what comes next for you? Hi, thank you so much.",
+    "speaker": "kateacuff",
+    "tags": [
+      "public_addressing",
+      "give_update",
+      "acknowledge",
+      "request_action",
+      "hedge"
+    ]
+  },
+  {
+    "start": 537.559,
+    "end": 548.545,
+    "text": "Is it all right if I share my screen? Fabulous. OK.  Can you see my screen?",
+    "speaker": "rachelfield",
+    "tags": [
+      "ask_question",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 549.426,
+    "end": 551.089,
+    "text": "Yes.",
+    "speaker": "bernardhairston",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 551.109,
+    "end": 1073.841,
+    "text": "Okay. So first of all, I'd like to take a moment to thank you all so much for having me here tonight. It really means so much to me that you're interested in my research and what it could possibly mean for biomedical science in the future. So thank you so much. Um, quick shout out to Regeneron for making this research possible, um, and the mentorship program of which I am a member.  So I will dive right in. And please feel free to ask questions. If they're in the chat, I may not see them. But before I leave, I will make an effort to answer each question to the best of my ability.  So as I'm sure we said in the preamble, my research study focuses on a neurodegenerative disease called ALS. So before I get into the specifics of what I looked at in my study, I'm going to give a little bit of a background on what ALS is. So it's also known as Lou Gehrig's disease. And as I said, it's an adult onset neurodegenerative disease that results in motor dysfunction and death. And it's a progressive motor neuron disease, which means that  over time, the motor neurons that are in your spinal cord right here in this diagram and also up here more towards your brain deteriorate and actually die over time. And as I said, it's progressive. So what happens is that this deterioration of motor neurons is not that severe at first. It's not that fast. So early symptoms of ALS include muscle weakness and stiffness, which aren't that painful, aren't that severe.  But over time, as the disease progresses, the deterioration of motor neurons gets more severe, a lot more rapid, and eventually that culminates in an ALS patient losing their ability to speak, eat, move, and breathe. And it is this last symptom, the loss of the ability to breathe, that often ends up in death of the patient by respiratory failure about three to five years from the onset of their symptoms. Now, ALS is fairly rare. It's estimated that two out of 100,000 people  are afflicted with this disease, but it is pretty severe. So it's a pretty big target in neurobiological research. Okay, so this is a part of the ALS pathology that the scientific community is certain exists. And that's, as I mentioned, the deterioration of motor neurons.  We can see here that this is a motor neuron in a patient that does not have ALS. We can see that it looks healthy. It looks plump. Everything seems to be functioning well. And then we look over here at the right side of the diagram, and we can see, even just looking at it without knowing anything, that this motor neuron does not look healthy. It's very skinny, and I think we can tell that it's not going to be that great at transmitting electrical signals.  So we know that this is definite in the ALS pathology, but what we don't know is exactly how our bodies end up leading to this deterioration of motor neurons. And there's a ton of different theorized causes for this. And all of these, or not all, many of these are listed in this right-hand side of the diagram. But my study focuses on one in particular called glutamate-mediated excitotoxicity.  And we can see on the right-hand side of this slide that what happens in glutamate-mediated excitotoxicity is that there's too much of a certain molecule called glutamate that builds up in between the neurons in a person's spinal cord. And this excess amount of glutamate overexcites those neurons and causes them to die.  So that's a whole lot of background on ALS and excitotoxicity that provides the basis for my study. And now I'm going to jump into what I actually came up with for my findings. Okay, so in essence, these findings are a potential transcription activation pathway.  And we can see this in this upper right corner of the schematic shown right here. Basically, what a transcription activation pathway is, is a whole bunch of proteins that we can see right here.  AB, and there's a couple of other ones that interact in a very specific manner in a specific location on the genome, which is the DNA that all people have inside their cells that code every single process that happens in the body. So these specific proteins interact in a specific way on a specific part of the genome. And this whole interaction, the pathway, results in the activation of production of a certain protein, in this case, a protein that I'll call protein C.  So for my study, which was performed virtually due to the pandemic, I looked at a whole bunch of different online databases that provided data supporting different parts of this pathway. And then taking all of that data, I put everything together into one cohesive pathway that we can see here.  Okay, so in order for this pathway to happen, this putative pathway, it would mean that proteins A and B would both have to enter the nucleus shown right here, because the nucleus is where the DNA in our body is. And as I said before, all of those proteins need to interact on the DNA in order for this pathway to occur.  So theoretically, if these proteins A and B were not able to enter the nucleus, then they would not be able to participate in this putative pathway here. And again, theoretically, that could result in less of protein C being produced. So why does all of this matter? Scientific literature and data that I have collected over the course of my study suggest that in two different types of ALS, juvenile FUS-ALS and late-stage sporadic ALS,  this protein right here, protein B, is not able to enter the nucleus. And theoretically, this would mean that protein B would not be able to participate in this pathway, and less of protein C would be produced in these spinal cord astrocytes. Astrocytes are a very specific type of cell in the nervous system.  Okay, so again, why does this matter in the context of ALS? So these spinal cord astrocytes use this protein, protein C, to prevent that cell death process that I was explaining earlier called glutamate-mediated excitotoxicity.  So in these ALS patients, theoretically, if protein B could not enter the nucleus and consequently not enough of protein C would be produced, then these spinal cord astrocytes would lose that safeguard against glutamate-mediated excitotoxicity. And excitotoxicity and the resulting motor neuron damage could possibly occur. And this excitotoxic cell death would exacerbate already occurring motor neuron damage in the spinal cords of ALS patients  and cause an increased speed and increased aggression of the motor neuron deterioration in these patients with late stage sporadic ALS and juvenile fuss ALS. So if my hypothesis is proven accurate by many, many experiments that I have high hopes to perform once COVID-19 is done, then it could provide a new target for mitigating the symptoms of ALS in these patients. And that could potentially prolong the lives of these patients.  which is the be all end all of anybody who's getting involved in biomedical research. Yeah, so I do have some example data that I could show at the end. But before I do so, I'll speak a little bit about the Regeneron Science Talent Search. I do have a slide for that. Let's see.  So it is a competition for high school seniors involved in math and science that is run by the Society for Science and it's sponsored by Regeneron, which is actually the company that I intern at. It used to be known as the Intel STS and the Westinghouse STS and the biggest component of this is your research study and the study that I just described is the one that I submitted for that.  There's also essays and a recommendation and your activities and a whole bunch of other things, but the research study is the center of your application. And out of about 1800 applicants from across the US and international high schools in countries like Puerto Rico and China, 300 scholars were chosen and they each received $2,000 for their own college education.  and $2,000 for STEM education at their school, as well as connections that will hopefully help myself and the other top 300 scholars further their research in the future. Yeah, so that is everything. I'm very excited about this. And again, I'm really grateful that you all put in the time to listen to my study. Yeah, that's it for me.",
+    "speaker": "rachelfield",
+    "tags": [
+      "public_addressing",
+      "give_update",
+      "acknowledge",
+      "follow_up_request",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1082.039,
+    "end": 1118.425,
+    "text": " Rachel, that is so interesting, and I've learned a lot. I've known somebody with ALS, the adult ALS, and I now understand what he went through.  throughout his five years of having it. Can you just briefly tell us about what the difference is between the juvenile FUS, or F-U-S-A-L-S, and the adult version? Is it just simply that younger people are getting it? And how young can juveniles be to get this?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "clarify",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1119.147,
+    "end": 1163.667,
+    "text": " Yeah, so as you said, the main difference is the age. And another main difference is how rapid the progression is. So normal adult ALS would usually have the first onset of symptoms when a person is maybe as young as 50, maybe as old as about 70, or sometimes a little bit older than that.  And it has a relatively slow progression of symptoms. But juvenile FUS ALS usually has the first onset of symptoms when a person can be as young as about 18 to as old as about 30. And usually a patient would die within only a couple of months and sometimes as much as a year. Yeah. Thank you.",
+    "speaker": "rachelfield",
+    "tags": [
+      "clarify",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1166.043,
+    "end": 1175.049,
+    "text": " Are there any other questions for Rachel? The research is just fantastic. Beautiful research.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "opinion"
+    ]
+  },
+  {
+    "start": 1175.47,
+    "end": 1178.82,
+    "text": "Thank you.",
+    "speaker": "rachelfield",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1179.104,
+    "end": 1200.133,
+    "text": " First of all, Rachel, congratulations. I love it when our students are way smarter than us, and that's the circumstance here. It's good for my future that you're out there. For the edification of people of my generation, you are what we would have thought of as a Westinghouse scholar. Correct?",
+    "speaker": "davidoberg",
+    "tags": [
+      "acknowledge",
+      "ask_question",
+      "opinion"
+    ]
+  },
+  {
+    "start": 1202.115,
+    "end": 1205.5,
+    "text": "Yeah, thank you.",
+    "speaker": "rachelfield",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1206.391,
+    "end": 1213.544,
+    "text": " That is such a huge deal. I am so impressed. Where are you going to go next year? What are you doing?",
+    "speaker": "davidoberg",
+    "tags": [
+      "ask_question",
+      "acknowledge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 1214.486,
+    "end": 1227.41,
+    "text": "I have no idea yet. I'm waiting on eight schools, which I'll be hearing from in late March and early April. Well, I'm sure that wherever you go, it's going to be amazing.",
+    "speaker": "rachelfield",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "reassure",
+      "opinion"
+    ]
+  },
+  {
+    "start": 1227.55,
+    "end": 1229.293,
+    "text": "So congratulations. Good luck.",
+    "speaker": "davidoberg",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1229.527,
+    "end": 1238.098,
+    "text": " Thank you. I noticed on your initial slide, Rachel, you had a mentor. Was that a mentor from Regeneron? And how did you interact with her?",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 1239.2,
+    "end": 1274.303,
+    "text": "Yeah, so the Regeneron Pharmaceuticals High School Mentorship Program is a two-year program for juniors and seniors in high school. So this project was performed as my second year in the program. And within this, each of about 16 to 18 high school interns  work closely with a staff scientist or department director or VP sometimes to work on their studies. So my mentor, Susan Kroll, was the Director Emeritus of Neuroscience at Regeneron, and she helped me with my study.",
+    "speaker": "rachelfield",
+    "tags": [
+      "give_update",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 1276.225,
+    "end": 1278.889,
+    "text": "Were you able to go to New York before the pandemic?",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 1279.814,
+    "end": 1306.581,
+    "text": " I was. I lived in New York in the summer after my sophomore year for my first year in the program. And I actually worked in a completely different department. I worked in research pharmacokinetics, which is a little bit more oriented towards development of technologies and biomedical research assays. But I did have the opportunity to be on site for a couple of months, which was, it was wonderful. You got your hands full for the future.",
+    "speaker": "rachelfield",
+    "tags": [
+      "give_update",
+      "opinion"
+    ]
+  },
+  {
+    "start": 1307.371,
+    "end": 1313.099,
+    "text": " Sounds like you've done great work and you are poised to continue to do that.",
+    "speaker": "kateacuff",
+    "tags": [
+      "reassure",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1313.119,
+    "end": 1326.537,
+    "text": "Thank you. Rachel, I just wanted to join the chorus of how very impressive you are and your work is and also how clear your presentation was for the subject matter.",
+    "speaker": "rachelfield",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1326.677,
+    "end": 1334.408,
+    "text": "I got what you said and that surprised me. And I was just curious about how you came to your hypothesis.",
+    "speaker": "judyle",
+    "tags": [
+      "acknowledge",
+      "express_concern",
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 1335.957,
+    "end": 1443.572,
+    "text": " Oh, well, I might share my screen again to make it a little bit more clear. Okay. So,  This right here, this is, in essence, the theorized pathway that I came up with. And in a virtual setting, it's very difficult to perform conventional research, so you have to be creative in how you collect your data.  So I relied on experiments that were published in other literature and also on a very wide variety of biomedical research databases, including protein expression databases, gene expression, protein-protein interaction maps, and a bunch of other ones. So looking at those databases and collecting data from those and from published experiments, I looked for data that supported isolated interactions of two  pieces in the entire pathway. So I looked for data that supported interaction between protein A and protein B, between protein A and that specific transcription activation binding site that you can see here labeled 583. I looked for data that supported an interaction between  protein A and the activation of protein C. And once I had evidence from experiments and literature and these online databases of each of the isolated parts of that pathway, I put it all together into one big cohesive pathway. So the challenge now is to see if those connections actually do exist or if it's just a very strong coincidence.",
+    "speaker": "rachelfield",
+    "tags": [
+      "clarify",
+      "give_update",
+      "cite_external_source",
+      "logistics_info",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1445.965,
+    "end": 1448.909,
+    "text": " Wow, that's amazing. Thank you. Of course.",
+    "speaker": "judyle",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 1452.974,
+    "end": 1467.012,
+    "text": "Are there other questions for Rachel? Rachel, I know you answered Mr. Oberg's question, but have you decided whether you're going into the medical field or what?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1467.751,
+    "end": 1504.285,
+    "text": " Yeah, yeah, wherever I go to school, I will be majoring in biology, or if they offer a more specific major in molecular and cellular biology, I will be majoring in that. And my ultimate career goal is to work in biomedical research and run a lab. I'm not exactly sure in which field yet, perhaps it'll be in neurobiology, perhaps in more general gene expression, or a field of biology that I haven't discovered yet. But the dream for me is to  run a lab at a university, and also teach a couple of classes on the side, because education is very important to me as well.",
+    "speaker": "rachelfield",
+    "tags": [
+      "give_update",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1505.827,
+    "end": 1512.534,
+    "text": "Wow. So impressive. Thank you very, very much. Is there any other questions?",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1512.554,
+    "end": 1526.209,
+    "text": "I made one final question. Rachel, how was your experience at the Health and Medical Sciences Academy? I have absolutely loved it through and through.",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "opinion"
+    ]
+  },
+  {
+    "start": 1526.442,
+    "end": 1586.622,
+    "text": " HMSA was actually what helped me realize that I could do something like this and get an internship. I'm sure you all are aware of just how important the internships are to HMSA.  And normally a person would get their internship at UVA or at a local pediatric practice or another doctor. But the director of HMSA, Jeremy Dove, has always encouraged me to be very ambitious. And throughout my first classes at HMSA, I immediately fell in love with the research that we were doing, the lab experiments that we would do, the different assays, the different technologies.  And once he saw this he pulled me aside and he encouraged me to be ambitious and finding a really good company where I could perform research in the future. And I've, I've loved it. Everything about it. Yeah, we need to have you in our recruiting commercial for it.",
+    "speaker": "rachelfield",
+    "tags": [
+      "opinion",
+      "request_action",
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1587.462,
+    "end": 1632.308,
+    "text": " Rachel I'm so glad to hear that you're looking to do some teaching, because you have a gift that I think the best teachers and the best professors do no matter what their subject. And that is that they can take complex concepts spin it around in their gray matter and then reproduce it in a manner that people who.  You know, people who want to understand it can really understand it. And people who are just kind of listening in can understand it. And you've shown us all here tonight that you have that gift. And I'm sure you're going to do very well when you are teaching in colleges. Thank you.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "opinion",
+      "reassure",
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1636.152,
+    "end": 1654.342,
+    "text": "Yes, I completely agree with that.  Any other questions or comments for Rachel? OK, once again, thank you so much for coming to us and explaining your project so well, Rachel. And best wishes to you as you continue on your pathway.",
+    "speaker": "grahampaige",
+    "tags": [
+      "agreeing",
+      "ask_question",
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1655.163,
+    "end": 1657.607,
+    "text": "Thank you so much. Have a great night.",
+    "speaker": "bernardhairston",
+    "tags": [
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1657.847,
+    "end": 1666.221,
+    "text": "You too. Our next item, announcements.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1670.774,
+    "end": 2028.85,
+    "text": " So I have an announcement, if I may, Mr. Page. All right. OK, thank you. I'm going to share my screen here. All right, let's see.  All right, here we go. So this month is Virginia School Boards Association Equity and Education Month, March of 2021. Equity and education is a significant challenge nationwide, and this is from the Virginia School Board Association. According to the National Center for Education Statistics,  In 2017, the majority of public school students were students of color, and more than half of public school students qualify for subsidized meals due to low family income. Public education has struggled to serve these students both adequately and equitably.  When inequity in education persists, there is a cost to all involved, including missed opportunities for economic development, greater dependence on government supports, and fewer Americans ready to serve and lead. To celebrate all the work that all of our employees are doing to support equity in Albemarle County Public Schools,  I'm sharing the stories of two of our employees that I consider to be equity leaders in our school system, especially after consulting with our Assistant Superintendent for Community Empowerment, Dr. Bernard Harrison. First, I want to celebrate Kaylin Gillian. She teaches her class annually about bias and persuasion very early in the class.  They explore how these two tactics spill into their everyday life from newscasts to advertisements. She connects for the students how lessons you learn in the classroom affect how you see the world. This is also how she introduces lessons on equity to her students as a diversity resource teacher at Jack Jewett Middle School.  She brings real life examples into the classroom. Most recently, she and her students discussed the COVID-19 pandemic and how it has impacted different students in different ways. And Kaylin does this by creating a culture of respect in her classroom. According to Kaylin, every student has a place in my classroom and every student has a voice. That's what it means to be culturally responsive.  Since becoming the school's diversity resource teacher last year, she created a group of student equity ambassadors called the Diversity Alliance. Most recently, the group planned a program for Black History Month over Zoom that was attended by about 60 people. Driven by their success, the group is planning an international day at Jewett to celebrate the different cultures of their fellow students.  But she also includes her colleagues in the fund. She created an equity team for teachers and staff, which started with five other teachers and now has grown to a group of 14. They look at various data from the school to identify disparities and strive to answer the question, how can we resolve them in the most equitable way possible?  At the end of the day, Caitlin's goal is to ensure that her students are ready to enter the world as well-rounded people and inform people. The kids are the future, she says, and if we want to create a better future, we have to empower the kids to see what is real. The second educator I'd like to highlight is Nancy McCullen.  After being with Albemarle County Public Schools for more than 20 years in a variety of positions from a classroom teacher to a novice teacher mentor and most recently principal at Red Hill Elementary, Nancy knows how an elementary school works and she's taken the knowledge and used it to sprinkle culturally responsive teaching strategies throughout her school.  With the help of two diversity resource teachers, the school has developed three programs to promote equity and diversity throughout the school.  The first is a book club for teachers most recently focused on Zaretta Hammond's culturally responsive teaching in the brain. The second is an effort to close a reading gap identified within the school. Nancy and her teachers have reviewed the books they are presenting to students to ensure that they are garnering student interests while at the same time presenting an array of different experiences and cultures.  The third strategy Nancy uses is called family and community partnerships, and this engages families and the community to share experiences and cultures with students. The partnership also works with the student council to brainstorm ideas on how to empower students through using their voices,  It's now so infused in all of the work that we're doing, it's hard to separate the DRT role specifically from the work that our whole school is doing,\" Nancy says. But like a true leader, it's the people around her who she truly lets shine through. I've been so grateful for the staff members who are participating in our book club. That group has made themselves very vulnerable with each other and then has been very open with their colleagues. So thank you very much, Mr. Page. I just wanted to share  a couple of our educators that exemplify the very best work that we're doing right now.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "give_update",
+      "public_addressing",
+      "cite_external_source",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2031.312,
+    "end": 2041.962,
+    "text": "Thank you so very much for spotlighting two educators in this system, Dr. Haas. I think Mrs. Collins has an announcement.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2044.945,
+    "end": 2087.021,
+    "text": "Good evening, Debbie Collins, Deputy Superintendent. It's my pleasure this evening to  Announced at Alamo high school this past weekend when the highly prestigious Scoggins award from the southern interscholastic Press Association. The SIP a is a nonprofit organization that promotes journalistic professionalism by public schools in the southeast of the United States. The award was for the school's literary magazine lantern is given to the best literary magazine among all high schools in the south.  Thanks to Charlotte Wood and all the student writers, artists, and designers who now are the best of the best. Congratulations, Albemarle High School.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "give_update",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2087.041,
+    "end": 2091.431,
+    "text": "And then, Mr. Page, I think next we have Rosalyn Schmidt with a quick announcement.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2092.052,
+    "end": 2092.112,
+    "text": "OK.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2093.695,
+    "end": 2139.473,
+    "text": " Thank you. Roslyn Schmidt, Chief Operating Officer. This week is National School Breakfast Week, which celebrates the importance of a nutritious school breakfast. So we want to take this moment to show our appreciation to our Child Nutrition Department under the leadership of Christina Pitzenberger for ensuring all students have access to this important meal. And as you know, this year, our Transportation Department has also played a critical role in this service.  Within just one week of school buildings closed last March, these departments provided access to meals for our families and have been going ever since. As announced last week, we are pleased to be able to continue our meal delivery service during stage four. Thank you to all of our cafeteria staff and drivers and transportation aides for all they are doing for our families.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "give_update",
+      "acknowledge",
+      "public_addressing",
+      "logistics_info",
+      "reassure"
+    ]
+  },
+  {
+    "start": 2141.737,
+    "end": 2156.251,
+    "text": "Thank you, Ms. Collins and Ms. Schmidt.  Is Dr. Hairston, is he going to make an announcement to introduce Angel?",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "ask_question",
+      "request_action"
+    ]
+  },
+  {
+    "start": 2157.834,
+    "end": 2244.808,
+    "text": "I can do that, Mr. Page. Good evening, school board members. I'm Bernard Hairston, assistant superintendent.  As some of you may recall, our anti-racism policy includes an expectation that students and staff have various means to report different forms of racism and or discrimination.  You also may recall that we have a student equity advisory team as a part of the anti-racism policy. They gave themselves the title seat, which is very appropriate. They want to make sure that they have a seat at the table in making decisions.  This group recently produced a video to encourage students and staff to utilize the division's anonymous app. And what we'd like to do is to show this short video. It's less than a minute and a half. And then we'd like to invite our student school board representative, Angel Pilkey, as well a member of the SEAT team to speak to the development of the app  and to possibly respond to any of your comments or questions. Ms. Johnson, can you share the video, please? Johnston.",
+    "speaker": "bernardhairston",
+    "tags": [
+      "give_update",
+      "public_addressing",
+      "request_action",
+      "acknowledge",
+      "logistics_info",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2253.498,
+    "end": 2262.229,
+    "text": "As we wrap up, does anyone have any concerns about moving into school in person and what we can expect when we go into stage four?",
+    "speaker": "bernardhairston",
+    "tags": [
+      "ask_question",
+      "public_addressing",
+      "follow_up_request",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2265.82,
+    "end": 2274.012,
+    "text": " I have a question. So what if we see like racism between students or maybe teachers and students?",
+    "speaker": "bernardhairston",
+    "tags": [
+      "ask_question",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 2274.312,
+    "end": 2278.157,
+    "text": "Especially right now. I mean, I feel like it's a crazy world out there.",
+    "speaker": "angelpilkey",
+    "tags": [
+      "express_concern",
+      "opinion",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2278.518,
+    "end": 2292.638,
+    "text": "Dude, just use the app. What app? The anonymous alerts app. All you have to do is just download it from your app store. Put your school information in. You can anonymously chat with the administrators. Easy and simple as that.",
+    "speaker": "bernardhairston",
+    "tags": [
+      "request_action",
+      "logistics_info",
+      "clarify",
+      "reassure"
+    ]
+  },
+  {
+    "start": 2293.495,
+    "end": 2298.126,
+    "text": " Right. So it's like I report something and they won't know that I'm the one who reported it.",
+    "speaker": "bernardhairston",
+    "tags": [
+      "clarify",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 2298.547,
+    "end": 2300.11,
+    "text": "That's what anonymous means, Lizzie.",
+    "speaker": "bernardhairston",
+    "tags": [
+      "clarify"
+    ]
+  },
+  {
+    "start": 2301.273,
+    "end": 2312.719,
+    "text": "Nickell's just messing with you, Lizzie. Nickell, it's completely anonymous. The app doesn't know. The school doesn't know unless you tell it that you want to be followed up with.",
+    "speaker": "bernardhairston",
+    "tags": [
+      "reassure",
+      "clarify"
+    ]
+  },
+  {
+    "start": 2313.273,
+    "end": 2322.211,
+    "text": " When filling out the anonymous reporting app, it's important to include as many details as you can so they can solve your problem and make the environment better for you and everyone else.",
+    "speaker": "angelpilkey",
+    "tags": [
+      "request_action",
+      "logistics_info",
+      "reassure",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2322.331,
+    "end": 2326.439,
+    "text": "You don't have to take racism from anybody. Bam. Use the app.",
+    "speaker": "bernardhairston",
+    "tags": [
+      "request_action",
+      "public_addressing",
+      "express_concern",
+      "opinion"
+    ]
+  },
+  {
+    "start": 2332.551,
+    "end": 2332.952,
+    "text": "Angel.",
+    "speaker": "bernardhairston",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2334.738,
+    "end": 2422.083,
+    "text": " Well, I hope you all enjoyed that as much as we enjoyed making it. Big shout out to Miss Water Wicks and Mr. Tools for all their help in creating that. And also to NyQuil Perry, Elizabeth Elfgren, and Ada Kendrick. It's been amazing working with them this past year and a little bit of last year. And as Dr. Harrison suggests,  We are really looking for more opportunities to spread the anti-racism messages to our peers and to give everyone a seat at the table. I guess I'll go into a little bit on how we got involved in this project. I believe Dr. King came in once and he needed a way to spread this anonymous reporting app because it's there, but not many of the students are aware of it. And especially right now,  when students are not necessarily in school. So we came up with this short video. We didn't want it to be too cheesy, but also a little something that will stick in their heads. And hopefully this does that. And like Nyquil says, allow students not to take racism from anybody. And that's really what we did. And if you guys have any questions on the process or anything else,  I'd be happy to answer them.",
+    "speaker": "angelpilkey",
+    "tags": [
+      "public_addressing",
+      "acknowledge",
+      "give_update",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 2424.566,
+    "end": 2429.271,
+    "text": "Angel, where do you plan to post this? How long this is going to go to.",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "request_action"
+    ]
+  },
+  {
+    "start": 2430.112,
+    "end": 2431.775,
+    "text": "Well, sorry, did I cut you off?",
+    "speaker": "angelpilkey",
+    "tags": [
+      "ask_question",
+      "interrupt_overlap",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2431.795,
+    "end": 2432.756,
+    "text": "No, you did not.",
+    "speaker": "kateacuff",
+    "tags": [
+      "disagreeing"
+    ]
+  },
+  {
+    "start": 2433.096,
+    "end": 2448.495,
+    "text": "OK, so this is going to I believe all of the schools are going to post them on there under the student tab on their website, as well as it might go on the main county, the county website as well.",
+    "speaker": "angelpilkey",
+    "tags": [
+      "logistics_info",
+      "give_update",
+      "clarify",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2449.555,
+    "end": 2458.027,
+    "text": " so they can all access it. And are you entering this at the Sundance Film Festival?",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 2460.01,
+    "end": 2467.62,
+    "text": "We want to give other people a shot, so probably not.",
+    "speaker": "angelpilkey",
+    "tags": [
+      "procedural_move",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 2467.64,
+    "end": 2470.845,
+    "text": "Indiana, any other comments or questions for Angel?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2471.986,
+    "end": 2472.647,
+    "text": "Good job, Angel.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2473.428,
+    "end": 2473.909,
+    "text": "Thank you.",
+    "speaker": "angelpilkey",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2480.588,
+    "end": 2500.673,
+    "text": " Angel, you did say that the anonymous tip line was underutilized. I mean, what does that mean in terms of numbers? I mean, how many hits do we get? How many people have filed complaints over the past year? Well, this is a weird year, but.",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "request_action",
+      "clarify"
+    ]
+  },
+  {
+    "start": 2502.948,
+    "end": 2532.28,
+    "text": " I don't know how many people have filed recently, but I do know in the past when it was first, last year when it was first put out, I became aware about it and I asked students and if they knew how to use it and what it was, and maybe one student overall of all the people I asked knew about it. So it was definitely a problem with them not knowing what it was, because it is a really good tool to help stop racism and bullying and other things in our schools.",
+    "speaker": "angelpilkey",
+    "tags": [
+      "give_update",
+      "express_concern",
+      "opinion"
+    ]
+  },
+  {
+    "start": 2536.698,
+    "end": 2543.027,
+    "text": " Is it loaded on the laptops and iPads that we give out?",
+    "speaker": "davidoberg",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 2543.287,
+    "end": 2639.37,
+    "text": "It's available on our division website, as well every school's website. You can look under the homepage for anonymous alert, and there is a very short form that you can complete.  to share any sort of concerns that you may have. One of the biggest concerns that we have is the type of information that's presented. We need to continue to promote the message that it's important for those who are responding to the app are providing enough information so that the administration can  actually investigate. So, for example, the app allows you to report based on being a student or parent or community representative. Then it allows you to share the type of concern that you have, the location of that concern, whether it's like the bathroom or the parking lot or a classroom.  And so one thing that we need to continue to push out is providing enough specific information so that the administration will look at the anonymous comment and have  enough to investigate, such as an incident occurred in the cafeteria on a Tuesday morning at a specific time involving students A, B, and C, and then not include the name. Much of the information that we have received has been too vague for the administration to have enough to follow up on.",
+    "speaker": "bernardhairston",
+    "tags": [
+      "logistics_info",
+      "express_concern",
+      "clarify",
+      "request_action",
+      "give_update"
+    ]
+  },
+  {
+    "start": 2641.472,
+    "end": 2679.795,
+    "text": "Is there a reason we couldn't put it on the laptops?  So that, I mean, you know, it's sort of, we talk, we talk about equity and I get the fact that I can have it on my phone, but what if you don't have a phone? I mean, it seems to me that we would be, would be. When you, when you, when you open up windows, the, the internet explorer or whatever it is called now is right there. And it's because they know that if it's right there on the thing, you're going to use it. Um,  Is that a possibility or is it just not designed that way?",
+    "speaker": "davidoberg",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "request_action",
+      "clarify"
+    ]
+  },
+  {
+    "start": 2679.815,
+    "end": 2681.337,
+    "text": "I would refer that to Dr. Diggs.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "defer_to_expert",
+      "request_action"
+    ]
+  },
+  {
+    "start": 2683.22,
+    "end": 2693.817,
+    "text": "I can follow up with that, Mr. Oberg. In the absence of Dr. King, he left his hanging. So there are some things that we're still learning about it. So I can follow up on that.",
+    "speaker": "bernardhairston",
+    "tags": []
+  },
+  {
+    "start": 2695.319,
+    "end": 2698.244,
+    "text": "Is Dr. Diggs available? I see her icon.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 2700.487,
+    "end": 2742.573,
+    "text": "Hi, I'm here.  We'll look into it. It's a little tricky because it's an app. So it's an app that's not necessarily a program that goes on a computer. It may be that it'd be a web link, like Dr. Hairston said, it's linked off of websites, but we'll look into it. But typically when it's an app, we can't necessarily control it through the laptops like we can other programs.  If there's a link to it, there could be an icon to it that just really links out to the web. And at this point, I believe it's available to just our secondary students. So it would be something that we would want to look at for just grade 6 through 12.",
+    "speaker": "christinediggs",
+    "tags": [
+      "acknowledge",
+      "give_update",
+      "clarify",
+      "logistics_info",
+      "reassure",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2744.555,
+    "end": 2750.441,
+    "text": "If it's possible to make it that available, I would like us to try to do that.",
+    "speaker": "davidoberg",
+    "tags": [
+      "request_action",
+      "follow_up_request",
+      "hedge",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 2751.182,
+    "end": 2757.409,
+    "text": "We'll look into it. I just think the easier it is, the more people are going to use it.",
+    "speaker": "christinediggs",
+    "tags": [
+      "give_update",
+      "opinion"
+    ]
+  },
+  {
+    "start": 2759.903,
+    "end": 2941.495,
+    "text": " I agree with that. Yeah, that is a great suggestion, Mr. Oberg. And Ms. Diggs, thank you for looking into this to see if it can be done. Are there any other questions or comments for Angel?  OK, if not, tonight is Angel's final night to be with us. And we have a little statement here to sort of read on behalf of the board. Dear Angel, on the occasion of your concluding your service to our school division as our student representative to the Albemarle County School Board, I want to express the appreciation of every member of our board for the quality of your counsel.  I'd also like to quote from what you told us at a meeting on February the 25th and talking about school boards. You said you provide the conduit that delivers the community's values and will into its schools. It's not an exaggeration to say that decisions they make often have a greater long-term impact on our communities than those of any other elected body at any other level of government.  You brought these words to life when you helped to lead a community town hall examining the life-threatening risk of COVID-19, most especially the equal medical care and services provided to communities of color. The expert panel you brought together included state and local officials and a large online audience. Your role in that event and your leadership on the Student Equity Advisory Council ensured that you have indeed had a great impact on our communities.  Your discussion of structural racism, from the point of view of a student now widely shared across the division as part of our anti racism orientation for all employees did indeed deliver a community value into our schools.  Your willingness to offer insightful perspectives on such highly consequential decisions on the safest and most effective learning environments for students and staff proves the wisdom of student representation on our board. Repeatedly, you have contributed to the establishment of a direct link between ACPS students and the elected body that governs them, and for that we are all grateful.  There is no lack of definition for what makes a good leader. One of my favorites is that a good leader is thoughtful, inclusive, dependable, generous to others, and eager to provide them with opportunities to shine. It's exactly how you were described to us and how you will be described to the next organization fortunate to benefit from your service.  Thank you for making us better. Best wishes for a successful year at Albemarle. And to you and your family, please continue to stay safe. Respectively, Graham Page, Chair. Angel, we appreciate so much what you've done for us.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2941.515,
+    "end": 3009.421,
+    "text": "If I might say something, Mr. Page, Angel, I remember when Angel and a friend of his started coming to the school board meetings two or three years ago.  And I remember going out and meeting them both. And starting at that point, Angel just kind of showed up everywhere. You know, whether he was in the SEED team, whether he was on the Student Equity Council. I saw him on election night in 2019 up in the Rivanna district. I've seen him around town involved in various projects.  And Angel, you're one of those people to me that you kind of typify, you give projects and things to do to busy people because they're the people who get things done.  And you're one of those people who gets things done. And I wish you great success moving forward. And I really appreciate you having spent three months with us.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "opinion",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3013.867,
+    "end": 3035.613,
+    "text": "Thank you. Yeah, wow. I mean, these past couple weeks have truly been an honor. Never thought I would be able to do this. And it's been an  Pleasure working with you guys on everything and representing all the students. So thank you. Thank you. The pleasure was ours.",
+    "speaker": "angelpilkey",
+    "tags": [
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3036.334,
+    "end": 3049.934,
+    "text": "Right. Angel. Thank you so much. Moving to our next item on the agenda, school board or superintendent business. Is there any business from the superintendent?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3051.456,
+    "end": 3054.981,
+    "text": "No, sir. Thank you. Nothing other than what's on the agenda.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3055.001,
+    "end": 3061.472,
+    "text": "Okay.  All right, public comment, Vice Chair Carlson.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3061.492,
+    "end": 3062.854,
+    "text": "Thank you.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3063.254,
+    "end": 3065.598,
+    "text": "I'm going to read the rules, the public comment guidelines.",
+    "speaker": "bernardhairston",
+    "tags": [
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3065.698,
+    "end": 3174.872,
+    "text": "The school board invites and actively seeks the public's input in the matters relevant to school board governance and provides for time during its business meetings to hear from Albemarle County residents and community members. The school board wishes to maintain appropriate meeting decorum so that persons can observe and hear the proceedings of the school board and that attendees online are not subject to inappropriate language and conduct.  As authorized by ordinance of the county of Albemarle, the school board will hold its meetings electronically during the COVID-19 pandemic. The school board is nevertheless committed to encouraging public comment despite its need to meet on a virtual basis. For this reason, there will be two ways for the public to provide comment. First, as always, written comments can be submitted to the school board clerk prior to the start of the meeting and will be given to all school board members for review.  And second, as long as the school board holds its meetings electronically, members of the public wishing to provide public comment during the meeting may sign up online by 2 p.m. the day of the meeting. Before comment starts, I will announce the order in which the speakers will comment. We have five speakers today, so I'll announce them all. Each speaker will be given three minutes to speak. I will notify you when you've reached a two-minute mark, so I'll let you know you have one minute left.  Speakers during the meeting or those submitting written comments should state their name and address our magisterial district. Further, speakers should limit comments to those matters that are relevant to school board governance or the operations of the school division. Lastly, although the school board will not respond to comments made during the public comment period, school board members may address comments at the end of the meeting agenda under other business. Let me pull up the list. So we have Kristin Brockmeyer, Anita McNeil,  Ginty, Robin Matter, Emily Mathan, Anne Marie Park, and Gigi Florent. So Ms. Brockmeyer, if you are on. My name, can you hear me?",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "public_addressing",
+      "logistics_info",
+      "procedural_move",
+      "clarify"
+    ]
+  },
+  {
+    "start": 3175.473,
+    "end": 3350.47,
+    "text": "My name is Kristen Brockmeyer and I live at 888 Tanglewood Road in the Western District. I'm a mother of three and I am deeply vested in our public school system. I speak for the hundreds of families  who believe it is time to completely reopen our public schools. I want to speak directly to the board tonight. Misinterpretation of scientific data is resulting in policy that is harmful to our children, both academically and socially. In the beginning of the pandemic, there was much uncertainty. However, now, based on all the data available, we know for certain that keeping schools even partially closed  is unnecessary. And that's exactly what our board of the school board is doing in Albemarle County. And it's absolutely devastating for our community. Children are not high risk for COVID. Viral spread is minimal in schools with appropriate precautions. In a study of 4,876 K through 12 students and 654 staff members in a Wisconsin public school district last fall,  Even while their community had a positivity rate of 42%, there were only seven students and zero staff who contracted the virus. And this was with ventilation systems that hadn't been replaced, variable spacing in classrooms where they couldn't follow the six-foot guideline and chose not to follow the guideline, and no masks during recess. There's similar data and research from public school counties all around the country  in North Carolina, South Carolina, Florida, Ohio, Colorado, the list goes on and on. Suicide rates are rising exponentially as our adolescents struggle with feelings of depression and loneliness. I beg this board, and especially Mrs. Osborne, Mrs. Lee, and Mr. Page, please follow the science. Please look at the overwhelming data at a state and local level that shows how much our kids are suffering.  I ask that you commit now to providing families in Albemarle County the option to send their children K through 12 to school five days a week in the fall. Just like families can opt out, our families have a right to opt in. I realize there's no vote on the table today, but we as parents want to be heard. And I'm here speaking because we can't just assume schools are gonna reopen in the fall.  We need to know that our school board is certain they're going to reopen. We have to reopen. For the vast majority of children, we have overestimated the health benefits of keeping them home, and we have largely underestimated the cost. Thank you for letting me speak tonight.",
+    "speaker": "paigebrockmeier",
+    "tags": [
+      "public_addressing",
+      "express_concern",
+      "request_action",
+      "policy_proposal",
+      "cite_external_source",
+      "opinion"
+    ]
+  },
+  {
+    "start": 3354.574,
+    "end": 3361.18,
+    "text": "Thank you for those comments, Kristen. The next speaker that we have on the list is Anita McGinty.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3364.72,
+    "end": 3547.01,
+    "text": " Thank you for having me tonight. My name is Anita McGinty. I'm in the Samuel Miller District. I'm a research professor at UVA in education. I lead two state partnership grants that serve children birth through third grade, including PALS.  I also have three children of school age, and I've had all my children in Albemarle County Public Schools for the majority of the last 10 years. I would like to put forth information that I would like you to consider as you are planning for the summer and for the next school year. We know from our state data that there has been a significant and negative impact on children from the school closures in the spring of 2020. We know it impacted children who are Black, Hispanic, English learners, and children from low-income families more negatively than other groups of children.  We know this is not the family or child's fault, but as evidence of systemic inequities and experience and opportunity for learning. Inequities that were exacerbated when the common thread of in-person school experience was removed. We know from national data and from our own state's data on enrollment that the current approach to schooling is not reaching or educating children equitably or adequately.  There is not room for anything but a decisive and aggressive plan of action. Business as usual mentalities or overconfidence in being prepared to meet the challenges will not be sufficient. It should be expected that a proportion of students will be more traumatized, disconnected, and vulnerable than ever before. It should be expected that the range of students' preparation for the next school year will be variable and wide, and educators will face challenges in the classroom that they have never, ever encountered.  There must be a strong commitment to applying the most effective approaches to education that are known and backed by research. These practices are best served by in-person education. The World Health Organization and the CDC point to numerous mitigation strategies to allow this to happen. These include masks, ventilation, handwashing and cleaning, testing, contact tracing, and social distancing. Of these, the most mixed science is behind six feet of distance, and the World Health Organization states that three feet is sufficient.  Work out of Harvard takes the same position. The British Medical Journal states that distance guidelines are not well backed. MIT says distance guidelines can vary based on other mitigation strategies. Plans should start with the goal of having students physically present in the school, says the American Pediatric Association. Around the country, school divisions are finding pathways forward through the science to aggressively prioritize students' daily in-person learning.  Fears and anxieties must be honored and met with outreach, education and facts, but not with a compromise to the system's commitment to children, nor by a failure to make a decision which will compromise the system's ability to address the educational challenges ahead.  The biggest risk is the disenfranchisement of students for whom public education was designed to serve. The systems level and long-term risk is that families disengage impacting funding and the quality of public education overall. The issue for me is personal and professional. I appreciate the chance to share my perspective.",
+    "speaker": "anitamcginty",
+    "tags": [
+      "public_addressing",
+      "cite_external_source",
+      "express_concern",
+      "policy_proposal",
+      "request_action",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 3549.314,
+    "end": 3559.242,
+    "text": "Thank you for those comments, Ms. McGinty. And we also received your written comments. Thank you. My timer's going off.  Our next speaker will be Robin Mattern.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 3561.179,
+    "end": 3683.957,
+    "text": " Hello, good evening board members. My name is Robin Mattern. I'm in the Whitehall Magistrate. I have a ninth grader at Western and a seventh grader at Henley. I'm speaking tonight to voice my strong opinion that we need to commit and plan now to get all kids back to school five days a week in the fall. It is beyond concerning to me that we are hearing from our very own principals and other staff members that we will likely be hybrid in the fall. In fact, I would hope our kids may be back full time by the end of this year.  Come this fall, it should no longer be up to the seven of you to decide if my kids can go back to school five days a week. It should be my family's decision. All teachers and every adult in America will have had the option to have been vaccinated. Older kids may likely be vaccinated as well. The House and the Senate both overwhelmingly passed a bill on February 27th requiring schools to open five days a week with teachers present  starting July 1st. The governor is expected to sign the bill. The bill states every student should be offered five days of in-person learning. I have heard our district is investigating this to determine if it truly means five days in person or if there are other ways to interpret the bill. Why are we spending time and effort looking into ways to not implement this policy when it is the best interest of our students?  I realize we are abiding by the CDC guidelines of six feet apart in the school, which is why currently only 50% of our students can go to school at one time. However, that is only a guideline and many other reports have proven that with other mitigations, three feet apart is safe for children to be in school. This is how other schools have been open in our country and in our state five days a week since September.  In addition, it seems highly likely that the CDC will lessen these restrictions before the start of the school year, which should allow for full students to be in the classroom. We need to be planning for this now and assuming this is the go-to option. I urge you to do what is right for our kids and families and commit to getting our kids back to school five days a week next fall. Thank you for your time.",
+    "speaker": "robynmattern",
+    "tags": [
+      "public_addressing",
+      "opinion",
+      "policy_proposal",
+      "express_concern",
+      "request_action",
+      "cite_external_source"
+    ]
+  },
+  {
+    "start": 3687.461,
+    "end": 3693.933,
+    "text": "Thank you for those comments, Ms. Mattern.  Our next speaker will be, I think it was Emily Mathon, if I remember. Yep, Emily.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3697.897,
+    "end": 3799.313,
+    "text": "Good evening. My name is Emily Mathon and I am in the Rio district. And tonight I wanted to speak in regards to the proposed idea of school safety coaches to be integrated into the budget for the 2021-2022 school year.  I applaud the decision of the school board to remove SROs from the county schools. And I'm concerned that this new position is just the same thing, but in a different outfit. I hear about the anti-racism policy and a commitment to equity with the equity checklist. And even Dr. Haas speaking tonight about equity in education and having a culture of respect. So I'm curious how the creation of this new position has been evaluated by these tools.  I'd rather see the over $550,000 that's dedicated for this position to be spent on culturally relevant mental health services, history and social studies materials that tell a more complete and inclusive picture, restorative justice practices, and deeper and more complete anti-racism training for all teachers and direct service staff.  Creating safe school environments requires a much more holistic approach than creating a position. Safety is created when students feel like they belong, they feel like they are seen, they feel like they matter. Safety is created when academic content is relevant to their lives. Safety is created when students can learn from their mistakes and practice conflict resolution skills.  I urge you to fund initiatives that positively impact students and undo the harm that is perpetuated in our school system. Thank you.",
+    "speaker": "emilymathon",
+    "tags": [
+      "public_addressing",
+      "express_concern",
+      "ask_question",
+      "policy_proposal",
+      "request_action",
+      "opinion",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3801.976,
+    "end": 3809.123,
+    "text": "Thank you for those comments, Ms. Mayfair. The next speaker will be Anne-Marie Park.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3812.966,
+    "end": 3923.542,
+    "text": "Hi, my name is Anne-Marie Park and I'm a parent in the Samuel Miller District and have three children attending Albemarle County Schools.  I'm grateful for the opportunity to speak in support of continuing to expand in-person instruction to Albemarle students and moving toward the option for full-time in-person learning to every Albemarle student who wants it. This was a beautiful week, both outside and in schools, and children who have not seen the inside of a classroom for a year finally had those doors open to them, and we are celebrating that decision.  But I feel compelled tonight to speak for the many families who need more access to school and who demand assurances that this board provide the option for a full week of in-person instruction in the next school year. We should be fighting tooth and nail together to find ways to reopen schools. This board has tremendous resources available to you in terms of access to experts in the field of education policy and infectious diseases. Using these experts, I implore this board to rely on database decision-making,  to navigate these difficult choices. And there's no debate among experts that schools need to reopen as much as possible, as soon as possible, and that it can be done safely.  This Albemarle community supports the shared goal of reducing disparities in access and outcomes in education. But we only got farther from that goal when in-person learning was eliminated. Children and families were not affected by this shutdown equally. Some children are more vulnerable to the mental health impacts of this isolation. Some children cannot thrive educationally in a virtual environment. And some families are more vulnerable to the loss of the support system provided by schools.  We must provide principles of equity to achieve equality. And I ask this board, commit to parents that you will continue to expand access to in-person instruction to the children who need it to succeed. Thank you for your time.",
+    "speaker": "annmariepark",
+    "tags": [
+      "public_addressing",
+      "policy_proposal",
+      "request_action",
+      "express_concern",
+      "opinion"
+    ]
+  },
+  {
+    "start": 3927.706,
+    "end": 3933.151,
+    "text": "Thank you for those comments. Our last speaker will be, I believe it was Gigi Florin.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3937.895,
+    "end": 4107.641,
+    "text": "Hi, thank you for the opportunity to speak tonight.  My name is Judy Florin, and I'm a parent of three children in the Western District. Next year, I will have a child at Western, Henley, and Merriweather. I wanted to echo the sentiments that some of the other parents have already shared, to hear that several principals in the county  have said in various forms that they are planning for hybrid learning in the fall is disheartening as a parent. I'm speaking today to urge you to take immediate action so that we are prepared to open the schools for five full days of in-person learning this fall. We need to start making plans now. The principals and teachers need the guidance and authority from you, the board, to start planning so they can make it happen.  The parents need guidance from you so that they can make informed decisions about how to plan for this fall so that we can avoid the academic, economic, and mental challenges that we have faced this last year. Given where we are with the vaccine options that are currently available and the options that are becoming available in the coming months, we need to anticipate having more relaxed guidelines from the CDC on their six-foot social distancing rules from schools.  They actually just published a study at the end of January that showed minimal in school spread with students wearing masks, not maintaining six feet of distance. As Anita commented earlier, this is corroborated by other research from leading epidemiologists and infectious disease doctors, as well as the World Health Organization, which shows that three feet of social distancing with masks is completely acceptable. School systems in Massachusetts,  Colorado, Texas, Ohio, Florida have either already opened five days a week in person or have committed to full-time in-person learning this fall. The scientific data is now there to support these decisions so that we can operate at full capacity. At this point, we have time to come up with solutions. We need to think outside of the box, figure out what additional resources that are needed, and we need to ask each other for help. I encourage you to send out  a poll to parents asking them what their intentions are for the fall. We can do better than what we have done for these children over the last year. We need all children elementary through high school doing full-day in-person learning five days a week starting this fall. We have to find a way. And if we don't, we will have done ourselves, our families, this community, and most importantly, these children's futures at the surface. I have confidence that you as a collective board  will help this community and find a solution to make the right decision. The science is there to support it, and we need answers sooner rather than later. This is a call to action, and I ask that you take a vote at the next meeting. Thank you.",
+    "speaker": "gigiflorin",
+    "tags": [
+      "public_addressing",
+      "request_action",
+      "policy_proposal",
+      "vote_call",
+      "cite_external_source",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 4109.484,
+    "end": 4115.894,
+    "text": "Thank you for those comments, Ms. Thorne. That concludes our public comment, and I hand the meeting back to you, Mr. Page.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4116.936,
+    "end": 4125.91,
+    "text": "Okay, thank you, Mrs. Carlson.  Our next item on the agenda is the COVID update by Dr. McLaughlin and Ms. Gomez.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4131.277,
+    "end": 4168.395,
+    "text": "Hi, good evening board members. I'm Pat McLaughlin, chief of strategic planning for the school division, and I'm here tonight with Eileen Gomez to provide our latest COVID status update.  As you recall, we, a few weeks ago, based on guidance from the Virginia Department of Education, have started to look just a little bit differently at our steps to reopening our schools. But one of the things that we still are reporting to the board on a regular basis is the level of community transmission of COVID-19. And so at this time, I'll turn things over to Ms. Gomez to take us through the local statistics.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "public_addressing",
+      "defer_to_expert",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4169.438,
+    "end": 4279.733,
+    "text": " Thank you, Dr. McLaughlin. Good evening. I'm Eileen Gomez. I'm the school nurse coordinator and the pandemic coordinator for the division this year. I am pleased to share with you the numbers this week. Albemarle County's seven day floating or moving average of number of new cases per 100,000 people  as of today is 11.2. Cases have been decreasing for the past 17 days, which exceeds the threshold of 14 days. So this is considered a decreasing trend.  The percent positivity of a seven-day floating or moving average has also continued to go down. The percent of COVID tests that were taken that were positive was now down to 2.1%. And this indicator has been falling for 20 days, which exceeds the threshold of 14 days. So this is also considered a decreasing trend. Similarly, in Charlottesville,  The numbers are continuing to fall the seven day moving average of number of cases per 100,000 people as of today is 11. This indicator has been falling for the past 19 days so this is officially considered a decreasing trend.  Similarly, the seven-day moving average of the percent of COVID tests that were positive in the city was down to 1.3%. This number has been falling for the past 20 days, and so it is also considered a decreasing trend. Perhaps not surprisingly, these numbers seem to be correlated with a precipitous drop in the number of UVA cases from a high of 229 on February 16th to numbers in the single digits this week.  Dr. McLaughlin will now talk to you about the core indicators and the level of impact on the schools.",
+    "speaker": "eileengomez",
+    "tags": [
+      "give_update",
+      "public_addressing",
+      "defer_to_expert"
+    ]
+  },
+  {
+    "start": 4280.814,
+    "end": 4587.292,
+    "text": "Yeah, and board members, you'll notice tonight that our report here looks a little bit different. Recently, the CDC released revised guidance on what metrics should be used in determining the level of community transmission.  that we have in our area. The VDH reporting site began reporting those figures for individual cities and counties in Virginia this week. And as you'll see here, the CDC guidelines have shifted away from a 14-day reporting to a seven-day reporting to more accurately reflect the current state of community spread. And so we'll begin using these figures in our weekly COVID updates to the board.  What you can see here is they still use a core indicator of case incidence rate, but now it's a seven-day running average. That is currently at 131.5. One other thing you'll notice here is that the date is from March the 6th. These numbers are updated now instead of daily, once a week on Wednesday, and they use the numbers from the previous Saturday to report so they can account for the time it takes to get tests back.  You can see that we had this pretty large spike here a couple of weeks ago, and that's on a pretty significant downward trend. They're also using a seven-day average for percent positivity, and that has also come lower. Now, this graph here at the top in the CDC indicators, they say when you're using these two and they don't align with each other, you should go with the one that has the higher level of community spread to determine your community transmission.  level. And so you can see that we're at high. We've been stuck at that high level for quite a while, but it hasn't been forever in the pandemic. We've had several weeks where we're down at the substantial and several at the moderate. If you go back, here's pre-pandemic numbers right here. So these graphs, I think, help us kind of see the progression of where we are as we're determining our community transmission.  Now, one of the other things that's included in the steps we should be looking at in our guide to reopening decisions is to determine the level of school impact. And as you'll recall from our meeting a couple of weeks ago, there's a couple of different ways to look at that. The first is transmission within our schools. And we are currently  at sporadic cases with no evidence of transmission in schools. Several weeks ago, we put ourselves in medium because we did have one outbreak down at one of our elementary schools, but that outbreak has ended and we have not had any more since then. Our student absenteeism rate is considered low as well. And if you'll recall, student absenteeism for these purposes is asking of the kids who are able to come back to school, are we seeing high rates of absenteeism from those  students. And finally, we have a staff capacity at normal. We're not strained or critical. So we consider our level of school impact.  at a low level. Now, the final step in reopening decisions is to take a look at both of those things, your level of impact to schools and your level of community transmission. And one of the things that just got updated this week from the Virginia Department of Education is this chart. You'll see that it provides more detail to what you should be considering at each level.  So again, we're at the high level of transmission for community transmission, we are at the low level of impact to schools. And so that puts us right here and we're pretty much our decisions have been pretty well aligned with that new guidelines. In this condition, we have pre K through 12 open to in person instruction to the maximum extent possible.  We ensure a minimum of three to six feet, ensuring a minimum of three to six feet of social distancing is strongly recommended and critically important and a minimum six feet distance for middle and high school students is also recommended.  extracurricular sports are recommended to be outdoor only at that time. Should these conditions shift, we could see us move into different levels of this, but I think the CDC and the VDH have done a nice job of helping us to look at those in a little bit more detail.  One final thing that we wanted to mention to the board, as we've mentioned a couple of times tonight, our stage four start began with a soft start these past couple of days with pre-K through three students starting up four days a week on Wednesday. Our fourth and our fifth graders also started school for the first time two days a week, as did our sixth and ninth graders. On Monday, we'll have our full stage four start, which is bringing back over 8,000 students for in-person learning.  to our schools. And so that concludes the COVID update for tonight. I'd be happy to take questions if there are any from the board.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "clarify",
+      "reassure",
+      "follow_up_request",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4590.818,
+    "end": 4594.084,
+    "text": "Thanks for that update. Are our sports outdoor only?",
+    "speaker": "judyle",
+    "tags": [
+      "acknowledge",
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 4596.308,
+    "end": 4614.754,
+    "text": " Currently, they are not. That's one area in which we've deviated from the guidelines. I believe, if I'm remembering correctly, that volleyball is the only indoor sport that we have going on currently, as we're in season one. What normally would have been our fall sports are competing now.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "clarify",
+      "hedge"
+    ]
+  },
+  {
+    "start": 4622.826,
+    "end": 4632.894,
+    "text": "Are there other questions for Dr. McLaughlin?  Any other questions?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4633.575,
+    "end": 4645.69,
+    "text": "Just how would. How does the lowering the range of separation three to six feet impact what how many kids we can have in our elementary schools?",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "request_action"
+    ]
+  },
+  {
+    "start": 4646.851,
+    "end": 4660.909,
+    "text": "So I believe that we have our building services department analyzing that right now. I don't I would defer to Schmidt, but I don't believe those those have been completed at this time. But it's something that we are hoping to have very soon.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "defer_to_expert",
+      "hedge",
+      "reassure",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 4665.023,
+    "end": 4665.424,
+    "text": " Thank you.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4671.431,
+    "end": 4682.565,
+    "text": "OK, thank you, Dr. McLaughlin. All right, and I thank you also on board for our update on the school calendar. Yes, I am. So we'll jump right into that. OK.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4688.032,
+    "end": 4866.733,
+    "text": "All right, let me just get this up.  All right, board members, good evening again. I'm Pat McLaughlin, Chief of Strategic Planning, and I'm here to give you an update on the school division calendar for the 2021-2022 school year.  When we initially brought a calendar to the board in February, we did it knowing that as our learning recovery plan developed, that we may need to propose some calendar adjustments to the board. Specifically tonight, we're here proposing some changes to next year's school calendar so that we can ensure dedicated time each month for our teachers to engage in school and division level professional learning community work. As you know, professional learning communities or PLCs are a key driver for our continuous improvement in the division.  PLCs are generally comprised of groups of teachers who have similar instructional assignments and they meet together to plan curriculum, develop common assessments, analyze data from those assessments and other student work, and then make data-driven instructional decisions. This Plan-Do-Study-Act model places a focus on the individual needs of students and allows our teachers to learn from one another's expertise.  PLCs are also directly tied to our division priorities, particularly with respect to creating a culture of high expectations for all students and identifying and removing practices that perpetuate the achievement gap. One barrier that we've seen to maximizing the effectiveness of our PLCs is that it's proven difficult to find dedicated time during the school day when all members of a PLC are available to meet together.  However, one of the silver linings of our learning model during the pandemic has been the ability to provide that dedicated time during our asynchronous learning days on Fridays. This, coupled with our ability to meet remotely with colleagues, has allowed us to dedicate time not only to building level PLCs, but divisional level PLCs that bring teachers of the same content together across schools to learn from each other.  The work of analyzing formative assessments will be an increasingly important part of our learning recovery plan, particularly in light of recent legislation that has passed the General Assembly and is awaiting the governor's signature that will expand formative state assessments beginning next year. Teachers will need dedicated time to use these tools to analyze student work.  So to ensure this dedicated time, we're proposing to add five half days to the school calendar next year on these half days students would be in school as usual for the first part of the day, and be released early with asynchronous assignments to complete during the second half of the day. The second half of the day for our instructional staff would be dedicated to school and division PLC work.  When coupled with existing PD days already in the school calendar, this guarantees about one day a month of dedicated time for this work. A new draft of the 2021-2022 school calendar is attached to the board item for your review, and we plan to include the updated calendar on the April 1st consent agenda for action. I thank you for your consideration, and I'm happy to take any questions that you might have about the calendar.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "policy_proposal",
+      "public_addressing",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 4870.139,
+    "end": 4887.017,
+    "text": " Dr. McLaughlin, a quick question. For these five half days for the PLCs, do you anticipate all of those being virtual meetings for the PLCs as they, and because that's been so successful now?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 4887.267,
+    "end": 4913.106,
+    "text": " I think it depends on where we are with schools, right? I think some PLCs, there are some school-based PLCs where teachers could potentially meet together. But the benefit we've really seen during the pandemic is the ability for groups of teachers who teach like subjects to connect with each other across schools. And I think that using tools like Zoom and electronic meetings would certainly help to facilitate that. And I would anticipate that that would continue.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "opinion",
+      "logistics_info",
+      "hedge",
+      "reassure"
+    ]
+  },
+  {
+    "start": 4918.267,
+    "end": 4926.775,
+    "text": " How many instructional days? How does this year's calendar compare to, I guess, what was last year's calendar? I know that things got a little wonky.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "clarify",
+      "hedge"
+    ]
+  },
+  {
+    "start": 4926.957,
+    "end": 4951.868,
+    "text": " Yep, so we build every calendar with 180 student instructional days. And this calendar would still have 180 school instructional days. When we have early dismissals for students, those days still count as a full instructional day for us. And so one of the benefits of using half days with asynchronous learning attached is that we don't have to extend the school year to include those in the calendar.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "clarify",
+      "logistics_info",
+      "reassure"
+    ]
+  },
+  {
+    "start": 4952.962,
+    "end": 4992.418,
+    "text": " I guess that brings my second question. I just kind of take issue with, or not take issue, I have questions with the students who will learn asynchronously in parentheses, because I mean, what, asynchronous doesn't mean you're on camera with the teacher. So does that just mean like they get extra homework that day? Because that's what asynchronous kind of looks like. So I, you know, that just seems, it seems like a little bit of a fiction.  if I were to say to say that they're learning at home for the full day to go home and learn asynchronously and I would prefer just have the calendar say what's really you know say what's happening. But feel free, I mean I don't know.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "clarify",
+      "hedge",
+      "policy_proposal",
+      "request_action"
+    ]
+  },
+  {
+    "start": 4992.979,
+    "end": 4996.524,
+    "text": "We can certainly make adjustment to language that's that's on the calendar.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "reassure",
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5002.471,
+    "end": 5012.37,
+    "text": "So, just to be clear, these.  students are actually losing five half days of contact with a teacher.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "clarify",
+      "ask_question",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 5013.13,
+    "end": 5020.158,
+    "text": "We would have on a half day students, that's correct. Students would release early around lunchtime on each of those days.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "clarify",
+      "logistics_info",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5024.683,
+    "end": 5030.269,
+    "text": "Are we okay with that? I mean, we've missed so much instructional time already.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 5032.274,
+    "end": 5157.419,
+    "text": " I would just like to add that I really thank the board for taking this under consideration, realizing that you would not vote to approve the calendar until next week. As Dr. McLaughlin has mentioned, it is difficult and challenging to ask teachers to spend time analyzing formative assessment data to make critical decisions about providing extra time and support for students.  and also to make adjustments to their instruction without a regular cycle of time for them to meet and do that. I know that it's really difficult for, I would say, most of us to accept the fact that teachers actually do need time to do work outside of the classroom. We have squeezed our teachers over the years and asked them to do more and more.  including email. I know when I first became a teacher there was no such thing as email so I could have planning time and I could spend time meeting with other teachers and get things done. Our teachers are extremely challenged to find time just to do the basic things during their regular planning periods if they have them.  And so offering a half a day once a month for teachers to do this critical work and we did choose Wednesday for a reason so that it's in the middle of the week and it's not really kind of getting to Friday and then perhaps not having everyone in attendance or something of that nature. So I really I really beg the board on behalf of our  teachers to consider this time that will be very valuable to them. We do think it's minimal for what the challenges they do face in trying to help all of our students succeed. So I do appreciate you taking this under consideration. We can certainly make other adjustments to the calendar if you see fit.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "request_action",
+      "express_concern",
+      "policy_proposal",
+      "acknowledge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 5159.321,
+    "end": 5169.552,
+    "text": "Going back to Shakespeare and Ben Franklin, stitch in time saves time.  I think it makes absolute sense to invest the time and to make sure that we're not spinning our wheels.",
+    "speaker": "davidoberg",
+    "tags": [
+      "opinion",
+      "prioritization",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 5171.816,
+    "end": 5253.2,
+    "text": "That's me. Matt, I would push back on the statement that it's hard for us to understand that teachers are working hard. I actually, I think it'd be great to allow them time. I guess my question would just be, is there something that we can do, to Ellen's point,  I'm worried about how much time our kids have been out. And so maybe it's extending a day or two of the calendar, I guess would be an option. Another thing that I, I guess I would have questions back because something about, cause you mentioned email. And I remember when I, when I was a teacher, which was a long time ago at this point, you know, we had a policy that we had to respond to every email from a parent within 24 hours. So I would push us. And I remember a comment from the, I think it was the E, the teacher rep who said that she wakes up and, and responds to email in the middle of the night.  That's a personal choice, but I hope we're also making clear to our teachers that.  you know, it's not a requirement that they engage in those ways where they're feeling overwhelmed and responding to text. And I mean, I get texts from my teachers all the time and they're more responsive than I am. And I hope, you know, there's ways that we can go about it, I want to say. And so I just want to clarify that it is not, I am not against teachers getting a half day. I think it's really important to have professional development. I think it improves the quality of education that they're giving our kids. I guess I'm just curious about, I don't want our calendar to reflect and say that we have the same exact instructional days if we do not. And, um,  And maybe we just don't have as many, and maybe we want to make it the same, which means we extend it somewhere.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "express_concern",
+      "ask_question",
+      "clarify",
+      "disagreeing",
+      "policy_proposal",
+      "request_action"
+    ]
+  },
+  {
+    "start": 5262.729,
+    "end": 5291.78,
+    "text": "Are there other comments on the calendar? So, Dr. Haas and Dr. McLaughlin,  to see whether or not any of the things that have been talked about by Ms. Osborne or Ms. Coulson could possibly be incorporated into the calendar, right?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "clarify",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 5293.965,
+    "end": 5347.367,
+    "text": "We will.  I, I would like more direction from the board, please. Would you like us to add additional school days to that school year so that we balance out the lost instructional time? Or would you like us to remove the half days from it? Ultimately, we, you know, I think we need some certainty for the community on, on what day we're going to start school and this, this calendar hinges on that. So perhaps you could  vote next time on the start of school as to what day we're going to start school. And then we could come back to you with a revision to the calendar. However I ultimately since the board would approve this calendar some direction on how you would like us to adjust it to either delete the half days for professional learning community time or to balance it out for the concern of lost instruction instructional time with additional days.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "request_action",
+      "follow_up_request",
+      "policy_proposal",
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5348.765,
+    "end": 5360.038,
+    "text": " And the third option is leave it with the half days for professional learning time, but take away the asynchronous learning designation and adjust the instructional.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "policy_proposal",
+      "clarify"
+    ]
+  },
+  {
+    "start": 5361.74,
+    "end": 5380.326,
+    "text": "Me, I would like to have information on how much instructional time we would have based on Katrina's point of not calling it asynchronous instruction time. So I just would want a little bit more information  with that possibility?",
+    "speaker": "judyle",
+    "tags": [
+      "follow_up_request",
+      "request_action",
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 5382.188,
+    "end": 5440.224,
+    "text": "We currently exceed Virginia's requirement for instructional time for the number of days we're required to offer by when you add up all the hours. You have two choices. You can either meet the hourly amount or you can meet the daily amount. And we exceed when you add up all the hours by 11 days.  above code. The reason we do that is because we've over the years have added five minutes here, five minutes there for changes with transportation and other facets of the school day so that we could meet the transportation needs, interestingly enough, because of the size of the county for us to be able to do that. So that's why we no longer make up days when we have inclement weather because we bank  11 days every year through just having the regular school days.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "give_update",
+      "clarify",
+      "logistics_info",
+      "reassure"
+    ]
+  },
+  {
+    "start": 5442.567,
+    "end": 5537.191,
+    "text": "I can tell you that in my history with working with Albemarle County teachers, having adequate planning time is something they find essential. And so the fact, I appreciate the fact that Dr. McLaughlin and Dr. Haas are building in intentionally that time. And it's not as if it's on a Friday afternoon.  It's not lengthening the weekend. This is giving the teachers a chance to actually look at it. Because one of the complaints that I have, and I've had it for a very long time, is we take all these tests. We have all these evaluations. But there's never adequate time to reflect on them, to plan to address them. And what I understand the purpose of this is, look, we recognize that some of our students have gaps.  we're gonna be figuring that out. And as we figure it out, we need to give our teachers adequate time to plan to address the things that they have to fix. I am always very much in favor of people, I believe go slow to go fast. And this is one of those moments where I think we need to slow down and say, okay, look, I'd rather have 10 days of really focused,  well-planned education than 11 days of, well, we're trying. But that's, I mean, I just, I think it's a good idea and I support it, so.",
+    "speaker": "davidoberg",
+    "tags": [
+      "opinion",
+      "agreeing",
+      "prioritization",
+      "express_concern",
+      "acknowledge",
+      "clarify"
+    ]
+  },
+  {
+    "start": 5537.211,
+    "end": 5558.115,
+    "text": "I would somewhat echo Mr. Oberg. I mean, I support keeping the half days in for PLC. I think that's essential for our teachers.  And I understand the tension in that we're also looking at what is our strategy to address learning loss. And I think we're going to have to figure out how to do both at the same time.",
+    "speaker": "kateacuff",
+    "tags": [
+      "agreeing",
+      "prioritization",
+      "acknowledge",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 5558.956,
+    "end": 5566.506,
+    "text": "I think part of the strategy, Dr. Acuff, is these half days of PLC. You're right. That's exactly what this is for.",
+    "speaker": "davidoberg",
+    "tags": [
+      "agreeing",
+      "clarify",
+      "reassure"
+    ]
+  },
+  {
+    "start": 5567.587,
+    "end": 5568.548,
+    "text": "Thank you, Mr. Elbert.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5571.92,
+    "end": 5595.587,
+    "text": " I agree with the half days. I don't know that I'm as sensitive to what we label the afternoons on those days, but I'm most willing to compromise on whatever seems to be the most apropos way to do it. But I'd like to keep the five half days for the teachers' professional learning.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "agreeing",
+      "conceding",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 5598.611,
+    "end": 5617.405,
+    "text": "I know that the teachers need that  professional learning time, and I'll support that. But I do think we need to be just realistic about the fact that those are five half days of kids not getting instruction. So as long as we're clear on that, and we're not trying to make it look like one thing, I'm fine with it.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge",
+      "agreeing",
+      "express_concern",
+      "clarify"
+    ]
+  },
+  {
+    "start": 5621.531,
+    "end": 5658.829,
+    "text": "I support keeping the half days. I think we should extend our makeup for that instructional time, either at the beginning or the end of the year.  And I also would want to raise the issue we were hearing in public comment a lot, but I'm hoping that we can discuss soon about what our plans are in the fall. I think one of the reasons I'm so nervous about taking away instructional time is we have lost so much instructional time to begin with, and next year is unknown at this point. So I just want to hold tightly the instructional time that we have, and I'm looking forward to information hopefully soon about what we're anticipating for the fall.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "opinion",
+      "policy_proposal",
+      "express_concern",
+      "prioritization",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 5662.083,
+    "end": 5708.061,
+    "text": " I too support the planning time for the teachers because that is really a critical component. I think Dr. Haas said the next thing that we really would have, that he would expect and hope for would be that we would vote on at least a starting date for school for next year. And I think if we could also receive some information about the actual instructional time that would be provided  by this method as compared to like a normal date, could all of those things be included, Dr. Haas and Dr. McLaughlin in a report next week or at our next meeting, not next week, but at our next meeting, provided that we have voted a will vote on the opening date.",
+    "speaker": "grahampaige",
+    "tags": [
+      "agreeing",
+      "opinion",
+      "request_action",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 5710.505,
+    "end": 5716.052,
+    "text": "So you mean just for clarity, Mr. Page, do you mean like describing what a half day looks like?",
+    "speaker": "matthewhaas",
+    "tags": [
+      "clarify",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 5717.652,
+    "end": 5733.737,
+    "text": " Well, comparing the instructional time, given those half days, that will be for next year compared to the instructional time in a normal school year, whether or not having those half days would have a difference in the actual amount of instructional time.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "clarify",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 5733.987,
+    "end": 5805.043,
+    "text": " Oh, it will, it'll, it'll be different according to the amount of time that the students wouldn't be in school. So, to Miss Carlson's point, I mean, it would be more about truth and advertising and saying that's a half day instructional day. But there, there would not be instruction going on during that time. We could  Typically, when we have half days, we work it out so that we offer EDEP on those days for students. So that's another option that we do. But we could certainly share what a half day typically looks like in terms of how bell schedules are adjusted so that the board would see that the high school students still have their classes meet and the middle school students do just the same classes, just not for the same length.  and then what kind of typical adjustments are made on a half day in elementary school. But in terms of the time amount, it would just be the reduction of the day by the number of hours. Typically, I think we would be looking at about two hours for a half day because we still serve lunch on those days.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "clarify",
+      "logistics_info",
+      "give_update"
+    ]
+  },
+  {
+    "start": 5807.387,
+    "end": 5823.879,
+    "text": "All right.  How would that affect, since we do have classes longer than state requirements, would we still be well above the state requirements even with those half days?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 5824.34,
+    "end": 5912.522,
+    "text": "Yes. Yes, we would. The total, it's 180 days or 990 hours. And we exceed the 990 hours by a total of the equivalent in hours of 11 days.  So by having those half days, it would be about two and a half days. So it really, and I'm really just bringing these things up because I agree that it is a loss of instructional time. We've proposed it as something that we consider to be a compromise. However, certainly would look at adjusting the number of days in the school year  to accommodate having the half days. The key really is about the timeliness of the staff being able to sit down with each other during work hours to be able to analyze the student data. Dr. McLaughlin talked about a new state requirement that is coming where at the beginning of the school year this fall, and I'm in support of it, we will be required to offer formative  SOL tests so that student growth can be measured during the course of the school year, which will be very valuable for our teachers and for our schools. And I think it will help us continue to strive forward toward equity.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "logistics_info",
+      "give_update",
+      "express_concern",
+      "policy_proposal",
+      "cite_external_source",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5913.303,
+    "end": 5924.839,
+    "text": "But it's only valuable to the extent that the teachers and the staff have time to analyze them. I mean, otherwise it's just test for test purpose.",
+    "speaker": "davidoberg",
+    "tags": [
+      "express_concern",
+      "opinion"
+    ]
+  },
+  {
+    "start": 5924.859,
+    "end": 6008.477,
+    "text": "It's what we call an unsupported mandate.  So what it is, it's something new for the teachers to do and something new for the principals to do without the time to do it. So we're trying to figure it out. Now, the next year, the following school year, there will be a mid-year formative assessment that will be included.  And like I said, these will be extremely helpful. I think that the teachers will be able to abandon some of the assessments that they've needed to create and work with. But having that time in a timely manner when you have the data so that you can offer a student extra time and support before they get behind is very important for teachers. And we certainly ask them to do a lot  either directly or implied, teachers have a lot to do and they do a heck of a lot of it outside of work hours. To meet together, they really need to be at school during work hours, I think. But we can come back with two choices or whatever you want. I know this is a big ask because it is two and a half days of instructional time. I just think that  Well, obviously, I think it's valuable, or I wouldn't be putting it on the table.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "give_update",
+      "express_concern",
+      "follow_up_request",
+      "opinion",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6009.999,
+    "end": 6028.106,
+    "text": "Yeah, I really support the planning time, because our teachers have made so many sacrifices this year. So I really realize that that planning time is extremely important. So I would really like to make sure that we do include that in our calendar. But are there any other comments on that item?",
+    "speaker": "grahampaige",
+    "tags": [
+      "opinion",
+      "prioritization",
+      "request_action",
+      "ask_question",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6028.647,
+    "end": 6043.131,
+    "text": "I had a quick question. I support teachers having planning as well.  Matt, how does our school day compare, the length of our school day? So our length of our elementary school day, we're going to do some studying on that.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "opinion",
+      "give_update"
+    ]
+  },
+  {
+    "start": 6043.171,
+    "end": 6113.98,
+    "text": "I'm glad you asked about that because one of the things we're looking at, Dr. Acuff brought up differentiated staffing at the last meeting.  And so I said, I know I'm going around the barn, but our elementary school day is one of the shorter elementary school days in Virginia, the last time we looked at it. And I think it was maybe six years ago when we were looking at adding five minutes for those transportation needs because we just wanted to see where we were. So it is one of the shorter days. And I bring up the piece about differentiated staffing because  With the amount of expense that we use for that program, we could look at the length of our school day for elementary school. So there's other options out there besides adding staffing or adding differentiated staffing. You can also look at the school day. But it's not a long elementary school day. It is one of the shorter ones. I would like to have time to research that and bring back an actual ranking for you if it's possible.  sometime in the near future.",
+    "speaker": "matthewhaas",
+    "tags": []
+  },
+  {
+    "start": 6115.402,
+    "end": 6138.619,
+    "text": "Thank you for that answer, Matt. Yeah, because I know I'm I feel like I'm being nitpicky over losing two and a half days. But I remember like we were talking about the impact that we thought it have just to lengthen by the five minutes because we're short. So I just as long as we're being cognizant, maybe it's a more tailored response. Like if we recognize that our elementary is one of the lowest or shortest days. I don't know. I just want to don't want to let it drop off.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "express_concern",
+      "request_action",
+      "clarify"
+    ]
+  },
+  {
+    "start": 6140.81,
+    "end": 6170.715,
+    "text": " We'll see what we can do to come back. And I really appreciate all the feedback from the board. This may go without saying, but I certainly appreciate your critical view of the work products that we bring and the changes that we want to make. Because if you don't give feedback, it's not an opportunity to keep improving it. So thank you very much. We'll bring back something that hopefully we can work with. Thank you.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "reassure",
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6171.033,
+    "end": 6178.803,
+    "text": " Matt, when you come back with a calendar that gives you half the year off, that's when I'll say, wait a minute, something's wrong.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "disagreeing",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 6179.864,
+    "end": 6180.485,
+    "text": "Which half?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 6183.889,
+    "end": 6196.585,
+    "text": "OK. All right, we will now have a break. It is now, according to the computer, what, 814? So we'll break until 824 and then return for our next session. Thank you.",
+    "speaker": "grahampaige",
+    "tags": [
+      "logistics_info",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 6299.772,
+    "end": 6305.138,
+    "text": " It's the second session, so I took off the jacket. This is settling in.",
+    "speaker": "katrinacallsen",
+    "tags": []
+  },
+  {
+    "start": 6307.12,
+    "end": 6348.898,
+    "text": "OK. Well, OK. OK, it is 824. So with the change in costumes of several of our board members, we are ready to move forward.  Our next item on the agenda is approval of the FY 2021-22 funding request from Dr. Haas. Are we ready for a motion on the funding request?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "logistics_info",
+      "request_action",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 6349.418,
+    "end": 6351.503,
+    "text": " So it's time for the. Okay, I'm sorry.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "procedural_move",
+      "interrupt_overlap"
+    ]
+  },
+  {
+    "start": 6351.583,
+    "end": 6361.848,
+    "text": "Wait a minute. Okay, we have probably a preliminary report for Ms. Schmidt, Ms. Kumazawa. Okay, right. Jumped the gun there for a while. So, okay, sorry.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "interrupt_overlap",
+      "conceding"
+    ]
+  },
+  {
+    "start": 6364.956,
+    "end": 6452.781,
+    "text": "Yes, I have a few slides we can start with.  Good evening, school board members. I'm Maya Kumazawa, Director of Budget and Planning. And this evening, I'm here to facilitate the approval of your funding request. I just have a few quick items to review. Here is an updated list of the summary of all the revisions made since the draft funding request that we have reviewed together throughout our three work sessions during the season.  The funding request remains balanced with $12 million in new recurring revenues and $12 million in new recurring expenses. There have been no shifts on the revenue side, but simply some shifts within the expenditure side. This is a summary of our balanced funding requests of $209.8 million in both revenues and expenses.  After you all approve the funding request this evening, the next step in the process would be to present said funding request to the Board of Supervisors on Monday, which we have been working with you on. So that's pretty much it. I'm here to answer questions and entertain a discussion if you would like.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "public_addressing",
+      "procedural_move",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 6464.978,
+    "end": 6484.995,
+    "text": " Mr. Chair, I move to adopt the school board funding request of $209,881,628 in school operating funds and $19,224,955 in special revenue funds. And I am open to an amendment of that from Mr. Arcaro.",
+    "speaker": "davidoberg",
+    "tags": [
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 6488.148,
+    "end": 6506.429,
+    "text": " Yeah, I would, I would second that motion. I have also a motion that will not change the passing of the budget tonight. But I would like to throw this one out there as well.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "agreeing",
+      "procedural_move",
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 6507.33,
+    "end": 6514.353,
+    "text": "Yes, more proper to vote on the motion that we have on the floor.  And then I think to have... That's fine with me.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "agreeing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6514.733,
+    "end": 6517.356,
+    "text": "That's fine with me. Yes. So I've seconded the motion.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "agreeing",
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6517.896,
+    "end": 6548.73,
+    "text": "Okay. All right. So Mr. Olberg has moved that we approve the budget as presented. It's been seconded by Ms. Del Caro. We open for discussion. Discussion on the motion.  Call the question. OK, if not, Ms. Johnson, could you call the roll, please?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "vote_call",
+      "request_action"
+    ]
+  },
+  {
+    "start": 6551.993,
+    "end": 6553.174,
+    "text": "Ms. Colson?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 6555.317,
+    "end": 6559.461,
+    "text": "Yes, and I'd like to commend everyone for all the work they did for a wonderful budget.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 6561.383,
+    "end": 6570.833,
+    "text": "Mr. Oberg? Yes. Ms. Lee? Yes. Dr. Acuff? Yes. Ms. Osborne?",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6571.774,
+    "end": 6572.034,
+    "text": "Yes.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 6572.875,
+    "end": 6575.953,
+    "text": "Mr. Alcaro?  Yes. Mr. Payne.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6576.535,
+    "end": 6576.856,
+    "text": "Yes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 6579.403,
+    "end": 6584.338,
+    "text": "Okay, so the budget is unanimously passed.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "vote_call"
+    ]
+  },
+  {
+    "start": 6584.69,
+    "end": 6609.692,
+    "text": " And again, just like Ms. Carlson said, we really congratulate and appreciate the efforts of Ms. Kumazawa and all of the other staff members who worked so diligently to prepare the budget for us this year. And also for all of the work sessions that you conducted for the board. So we really appreciate all of that.  Now, Mr. Alcaro, you had a motion? I do.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6609.972,
+    "end": 6649.016,
+    "text": "Thank you, Mr. Page. I move that staff bring a recommendation to the school board in April to increase the classified salary raise in fiscal year 22 to be higher than 2% based on additional details that are not available at this time about state revenues.  Any unallocated expenditures and new state revenues should prioritize funding at a higher classified salary increase. Second.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "policy_proposal",
+      "procedural_move",
+      "request_action",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 6649.036,
+    "end": 6679.101,
+    "text": "It's been moved by Mr. Melchioro, second by Mr. Oberg, that staff brings back us a report or recommendation on increasing the classified staff  Um, percentage of raise. Is that an accurate. Summary. Mr. Alcarra. Yes, sir. To bring it back in April. Yes, sir. Yes. In April. All right. The floor is open for discussion on that motion.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "clarify",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 6679.121,
+    "end": 6700.708,
+    "text": "I would support that study. Uh, I would just like to point out though, to my colleagues that we have a tradition of commonality in the classified staff between the County and  the school, so I don't know what impact that might have and what kind of conversations you might like to have with the county as we go forward.",
+    "speaker": "kateacuff",
+    "tags": [
+      "agreeing",
+      "express_concern",
+      "request_action"
+    ]
+  },
+  {
+    "start": 6703.658,
+    "end": 6736.999,
+    "text": " I think that's something worth discussing if anyone has thoughts to share, because I know that Graham and I had a meeting to get prepped for the presentation of the budget to the Board of Supervisors. And that was a question that we were anticipating we'll be breaking with commonality with local government. I personally think it's worthwhile. I also worry about parity between our existing employees if we're giving one segment of our employees a much greater raise than another segment that creates issues within our division, which is ultimately  what we're tasked with representing and making decisions for. But I'd be interested what other people think.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "express_concern",
+      "ask_question",
+      "opinion"
+    ]
+  },
+  {
+    "start": 6739.862,
+    "end": 6749.413,
+    "text": "I agree. I think that the parity within our division is very important. And the five and a two bothered me a lot.",
+    "speaker": "judyle",
+    "tags": [
+      "agreeing",
+      "express_concern",
+      "prioritization",
+      "opinion"
+    ]
+  },
+  {
+    "start": 6752.516,
+    "end": 6770.395,
+    "text": "I think we're tasked as the school board to look after our employees.  And I accept the fact that commonality is a tradition. But I also think that we have an obligation to our employees to do what we think is right, irrespective of anything else.",
+    "speaker": "davidoberg",
+    "tags": [
+      "opinion",
+      "prioritization",
+      "conceding",
+      "acknowledge",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 6776.402,
+    "end": 6799.692,
+    "text": "I agree with that. And the one thing that I would ask the board to note is that no specific recommendations were given in the motion, other than to just want information.  And to increase it above the two percent in terms of what that proposal would bring to us for our consideration and our conversation at that point.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "agreeing",
+      "request_action",
+      "clarify",
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 6804.179,
+    "end": 6821.364,
+    "text": "I wasn't necessarily in support of commonality, but it will be an issue that will be raised, I would guess, by the county, and I don't know what they're prepared to do.  It might be interesting if you had an opportunity to get some feedback, Miss Kumazawa.",
+    "speaker": "kateacuff",
+    "tags": [
+      "opinion",
+      "request_action",
+      "defer_to_expert",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6824.79,
+    "end": 6830.821,
+    "text": "We'll certainly discuss this with them, as we always do, as we bring forward the recommendation in April.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "reassure",
+      "give_update",
+      "logistics_info",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6835.69,
+    "end": 6853.044,
+    "text": "Speaking of commonality in a tangential, not quite tangential,  But I know that we had a lot of discussion about the part-time, bringing part-time minimum up to 15. Does that have commonality with the county as well? Are they not quite at 15 for their part-time?",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 6854.527,
+    "end": 6868.868,
+    "text": "That's correct. The classified scales are shared with the county, so our scales would move in the same as the county. Our employees are on the same scale, so they would be adjusted in the same way.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "acknowledge",
+      "clarify",
+      "logistics_info",
+      "give_update"
+    ]
+  },
+  {
+    "start": 6871.075,
+    "end": 6871.303,
+    "text": " Okay.",
+    "speaker": "judyle",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6876.003,
+    "end": 6919.05,
+    "text": " I support what Mr. Oberg was saying because our teachers and our class staff have really been put under a lot of pressure this year due to the pandemic. And it would be really great to make sure they realize how appreciated they are by having this raise. Although I realize what Dr. Acuff is saying and the possibility of commonality and not being  there if this happens. But still, that's important to me too, that we let classified staff know that they are really, really appreciated for all of the sacrifices that they have made. Are there any other comments?",
+    "speaker": "grahampaige",
+    "tags": [
+      "agreeing",
+      "express_concern",
+      "acknowledge",
+      "opinion",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 6919.811,
+    "end": 6944.813,
+    "text": "Can I just add one more about the commonality with the minimum wage? Yeah. The overall strategy for how we treat decompression among larger group of employees  is the same as it's the same human resources department working with us to develop that strategy. With that said, it might not be exactly the same, but the idea is that we would apply the overall general strategies.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "policy_proposal",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6947.377,
+    "end": 6951.505,
+    "text": "Okay, thanks. Any other discussion?",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "follow_up_request",
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6953.24,
+    "end": 6969.197,
+    "text": " I guess one additional point, which is worth noting is that I don't know how the county fares with its employment with getting employees, but I know that in some of our classified positions, we're struggling with getting employees that we need. Like I'm sure all of y'all are hearing on the radio every day, advertisements for getting bus drivers. So that's another point we can make to them.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "give_update",
+      "express_concern",
+      "request_action"
+    ]
+  },
+  {
+    "start": 6973.642,
+    "end": 6983.112,
+    "text": "Okay. All right, but all right. Well, yeah, I guess we were ready for the vote. So Ms. Johnston, could you call the roll please?",
+    "speaker": "grahampaige",
+    "tags": [
+      "request_action",
+      "procedural_move",
+      "vote_call"
+    ]
+  },
+  {
+    "start": 6983.935,
+    "end": 6988.139,
+    "text": " Dr. Acuff? Yes. Ms. Colson?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6990.442,
+    "end": 6990.622,
+    "text": "Yes.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 6991.683,
+    "end": 6995.287,
+    "text": "Mr. Alcaro? Yes. Ms. Osborne?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6996.208,
+    "end": 6996.448,
+    "text": "Yes.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 6997.249,
+    "end": 7002.975,
+    "text": "Mr. Oberg? Yes. Ms. Lee? Yes. Mr. Page?",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call"
+    ]
+  },
+  {
+    "start": 7003.536,
+    "end": 7003.816,
+    "text": "Yes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 7004.497,
+    "end": 7005.117,
+    "text": "Motion passed.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 7005.638,
+    "end": 7014.808,
+    "text": "All right, so the motion is passed unanimously.  Do we have any other business from board members or from the superintendent?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 7016.75,
+    "end": 7022.096,
+    "text": "I have some, but I'll wait till after any school board members have something to say.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "defer_to_expert",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 7024.018,
+    "end": 7041.943,
+    "text": "OK. Mr. Page, I would just like to remind everybody and maybe those who are listening that we don't have a regular meeting in two weeks. We have our next school board meeting on the 1st, which may well be confusing.  confusing to me when I noticed it on my calendar, but.",
+    "speaker": "kateacuff",
+    "tags": [
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 7043.284,
+    "end": 7048.289,
+    "text": "Okay, thank you, Dr. Acuff for bringing that to our listeners attention.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 7049.691,
+    "end": 7135.653,
+    "text": "All right, so. Oh, actually, Dr. House, I had one thing that I wanted to mention also. One thing that I just wanted to talk with the board just a little bit about is one thing I know that we've all talked about, and we all really value is getting input from students.  I was at a panel a couple of weeks ago of 100 Black women of Black voices from students and educators. And one thing that was brought up was the student representative program for the boards. And the application, this was a point that was made by a student that the application has  is long and has as part of it, AP and honors classes. And I, you know, the student was making the point that that might be a barrier to some students and I recall, I think I recall that when initially we were talking about having a student representative we talked about trying to get  students from all, you know, all different kinds of students. So I just wanted to take a look at that, I guess, with the board's support, take a look and just see if there's if there are any barriers on our application and then come back with possible suggestions in the future.",
+    "speaker": "judyle",
+    "tags": [
+      "give_update",
+      "express_concern",
+      "request_action",
+      "follow_up_request",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7139.658,
+    "end": 7142.562,
+    "text": "I would support that, Judy. I support that.",
+    "speaker": "kateacuff",
+    "tags": [
+      "agreeing",
+      "reassure"
+    ]
+  },
+  {
+    "start": 7142.582,
+    "end": 7142.682,
+    "text": "Yeah.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7144.805,
+    "end": 7149.232,
+    "text": " So you are volunteering to look at the application and then come back to us, right?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 7150.234,
+    "end": 7159.929,
+    "text": "Yes, and actually, Mr. Alcaro, if you wanted to, I would be happy to help on that. Great. Thank you. Can I also add to that?",
+    "speaker": "judyle",
+    "tags": []
+  },
+  {
+    "start": 7159.989,
+    "end": 7186.053,
+    "text": "I know that it should be more open and advertise. It's not well known that you can apply.  amongst students. And I think Ms. Lee, you bring a really good point that if we want to have it, if our school system wants to be more equitable, that's something that should be looked at for sure. And it's not well known and not well accessed. So that's something that should be fixed.",
+    "speaker": "angelpilkey",
+    "tags": [
+      "opinion",
+      "express_concern",
+      "policy_proposal",
+      "request_action",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7186.995,
+    "end": 7187.696,
+    "text": "Great, thank you for that.",
+    "speaker": "judyle",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7187.876,
+    "end": 7188.637,
+    "text": "Thank you very much.",
+    "speaker": "angelpilkey",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7191.081,
+    "end": 7192.903,
+    "text": "All right, Dr. Acuff, did you have other remarks?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 7194.105,
+    "end": 7200.852,
+    "text": "No, I was just going to invite Angel Pilkey to comment on it, and he did so before I could  Get a word in edgewise.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "defer_to_expert",
+      "interrupt_overlap",
+      "clarify"
+    ]
+  },
+  {
+    "start": 7201.413,
+    "end": 7201.693,
+    "text": "OK.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7202.054,
+    "end": 7203.957,
+    "text": "He's showing his value to the very end.",
+    "speaker": "kateacuff",
+    "tags": [
+      "opinion",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7204.357,
+    "end": 7204.638,
+    "text": "Right.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7204.698,
+    "end": 7218.439,
+    "text": "I would actually wonder, Judy, when you're looking at Judy and Jono, when you're looking at it, if you might not want to get a student involved with it just because they actually have to do the application and know. This might be helpful.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "request_action",
+      "ask_question",
+      "follow_up_request",
+      "hedge"
+    ]
+  },
+  {
+    "start": 7219.141,
+    "end": 7219.982,
+    "text": "I think that's a great idea.",
+    "speaker": "judyle",
+    "tags": [
+      "agreeing"
+    ]
+  },
+  {
+    "start": 7221.745,
+    "end": 7225.791,
+    "text": "Are you volunteering to do that?",
+    "speaker": "matthewhaas",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "clarify"
+    ]
+  },
+  {
+    "start": 7227.037,
+    "end": 7231.004,
+    "text": " I am 100% down to do that. Thank you.",
+    "speaker": "angelpilkey",
+    "tags": [
+      "agreeing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7232.527,
+    "end": 7262.955,
+    "text": "Okay. All right, so one of us. So we have three people who have volunteered to look at that application, and then bring a report back to us as to how it can be modified.  to make the possibility of us reaching all of our students. And also like Mr. Pilkey is saying, also so that it can be sent out to our students better, better advertised. So thank you three for volunteering to do that for us.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "give_update",
+      "request_action"
+    ]
+  },
+  {
+    "start": 7263.937,
+    "end": 7270.645,
+    "text": "Thank you. And so anything else from any other board members before I take my turn?",
+    "speaker": "matthewhaas",
+    "tags": [
+      "procedural_move",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 7271.924,
+    "end": 7272.925,
+    "text": " I don't think so.",
+    "speaker": "grahampaige",
+    "tags": [
+      "disagreeing"
+    ]
+  },
+  {
+    "start": 7273.166,
+    "end": 7580.154,
+    "text": "Okay, so I just had three things. One is, and one it's related to the conversation earlier about commonality between Albemarle County Schools and local government. It is official now. We have talked with the Human Resources staff that we will be, Albemarle County Schools and local government will each be developing our own  human resources department. And so that will have an impact on many of the processes that we go through that are related to things like commonality and policy and other areas. I do want to say that I think that we have outstanding human resources staff that have done Herculean work to support two organizations that  are very large and complex and are embedded all throughout our community for all this time. And I really appreciate all of our human resources employees. I'm also looking forward to the future of our school system and our employees being served by a human resources department, or perhaps what I might prefer to call  an employee services department that works only with Albemarle County Schools. The second thing I want to say is that I really want to thank all of our employees for the amazing work that they're doing. By this time next week, we will have more than 8,000 of our students coming into our schools either four days per week or every other day.  That's about 65% of our student population. I am very appreciative of all of our educators, support staff, and administrators, whether you are focused on supporting our students and employees at school or offsite or both. I have heard great reports from our central staff who are out visiting schools to provide an extra hand as needed. And earlier this week, I myself got out to visit Greer and Mountain View.  on Wednesday and there was plenty of school opening excitement. Teachers and support staff quickly got down to business of high quality teaching and learning and I really appreciate that. One conversation I did have with a few students at Greer was this was their second time going out to get new clothes for school because they had outgrown the clothes that they planned on wearing the first day of school back in the fall.  And one student pointed out to me that he had outgrown his clothes more than the student next to him, which was what I expected. The last thing I would say is that I really appreciate, and I know the, I hope, I certainly know I speak for all of us, that we all appreciate receiving public comment about big decisions that our school board makes.  And these are not easy decisions and they're very important. And I for one greatly appreciate the deliberative nature of our board that you have always asked for facts, that you take what I consider to be a fair amount of time in making decisions and you ask lots and lots of questions and great questions to get to the best answers with the best information that we have.  I would propose, I'm suggesting and proposing that we could bring a, if we called a special meeting on Thursday, May the 6th, and I'll check my calendar, that we could bring a recommendation to the board on that Thursday regarding how we would plan to open our schools in the fall.  I think at that time it will be about six weeks from now, six work weeks. We will have gotten a good feel for how things are going in stage four. We will be making the recommendation based on reaching out to our families and understanding how many of them would be planning on coming in. And that would impact then how much space we would have in the school and therefore we would give it our best shot  to describe for the board and describe for the community what the school day would look like. So it would be based on the best information we could provide May 6th. And then as you have done in the past, the board then would have a week to think about it, ask questions and dig deep and then make a decision if you choose to on the following Thursday. So I wanted to put that out to the board and  and also to Mr. Page for your consideration.",
+    "speaker": "matthewhaas",
+    "tags": []
+  },
+  {
+    "start": 7584.32,
+    "end": 7602.686,
+    "text": "All right. We've heard Dr. Haas' comments concerning reopening being presented to us in a special meeting, plans for it on May 6th, and then the board meeting and taking a vote on May 13th. Is there a consensus to agree to that?",
+    "speaker": "grahampaige",
+    "tags": [
+      "vote_call",
+      "procedural_move",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 7604.048,
+    "end": 7605.31,
+    "text": "It's on my calendar.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 7606.96,
+    "end": 7607.581,
+    "text": " Line two.",
+    "speaker": "kateacuff",
+    "tags": [
+      "clarify",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 7608.442,
+    "end": 7623.143,
+    "text": "Okay. Any opposition? Not on my calendar yet, but it will be. Any opposition to that? Okay, Dr. Haas, so we'll take you up on that offer. May 6th, the plan being presented and May 13th, a vote from the board.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "logistics_info",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7624.745,
+    "end": 7625.266,
+    "text": "Okay, thank you.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7626.968,
+    "end": 7668.709,
+    "text": "Any other business by school board members?  Okay, if not, again, we thank Mr. Pilkey for being on the board with us and also for his last act of courage by volunteering to be on the committee to overlook the application with Ms. Lee and Ms. Del Caro. Also to make sure we all remember that we have a closed meeting on March 25th and our next regular scheduled meeting is on April 1st.  So with that being said, meeting for March the 11th is adjourned. Thank you all for attending.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "logistics_info",
+      "acknowledge",
+      "procedural_move"
+    ]
+  }
+]

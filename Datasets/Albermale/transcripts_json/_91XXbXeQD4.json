@@ -1,0 +1,2174 @@
+[
+  {
+    "start": 0.031,
+    "end": 1.112,
+    "text": " meeting to order.",
+    "speaker": "kateacuff",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2.454,
+    "end": 9.664,
+    "text": "And in the absence of our Vice Chair, Dr. Acuff, do you have a motion?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 9.965,
+    "end": 47.487,
+    "text": "I do. I move that the Albemarle County Public School Board go into a closed meeting as authorized by the Virginia Freedom of Information Act, Section 2.2-3711A,  of the Code of Virginia under subsection one for the discussion, consideration, or interviews of prospective candidates for employment and the assignment, appointment, promotion, performance, demotion, salaries, disciplining, or resignation of specific public officers, appointees, or employees of any public body. Second.",
+    "speaker": "kateacuff",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 48.26,
+    "end": 63.764,
+    "text": " Okay, it's been moved by Dr. Acuff, seconded by Ms. Lee, that we go into closed session pursuant to certain codes of Virginia law. Ms. Johnston, could you give us a roll call vote, please?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "vote_call",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 64.325,
+    "end": 74.861,
+    "text": "Ms. Lee? Yes. Mr. Oberg? Yes. Ms. Osborne? Yes. Mr. O'Carroll? Yes. Dr. Acuff? Yes. Mr. Page?",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "vote_call",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 75.121,
+    "end": 119.201,
+    "text": "Yes.  All right, so we will move into closed session. Thank you.  It is now 6.30 and our May 13th meeting of the Albemarle County School Board is called to order. We have some motions out of the closed meeting. So first motion, Dr. Acuff.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 124.349,
+    "end": 127.434,
+    "text": "I'm sorry. Pardon?",
+    "speaker": "kateacuff",
+    "tags": [
+      "clarify"
+    ]
+  },
+  {
+    "start": 127.454,
+    "end": 128.436,
+    "text": "Okay, no problem.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 128.872,
+    "end": 149.117,
+    "text": " I move that the board certified by recorded vote that to the best of each board member's knowledge, only public business matters lawfully exempted from the open meeting requirements of the Virginia Freedom of Information Act and identified in the motion authorizing the closed meeting were heard, discussed, or considered in the closed meeting.",
+    "speaker": "kateacuff",
+    "tags": [
+      "procedural_move",
+      "vote_call"
+    ]
+  },
+  {
+    "start": 152.481,
+    "end": 176.716,
+    "text": "Is there a second? Second.  All right. Moved by Dr. Acuff, seconded by Ms. Del Cairo, that we certify by voice vote that we did not discuss anything that was not in the motion to introduce the closed meeting. So Ms. Johnston, could you give us the roll call, please?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "vote_call"
+    ]
+  },
+  {
+    "start": 177.637,
+    "end": 180.58,
+    "text": "Ms. Lee? Yes. Mr. Oberg?",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 188.272,
+    "end": 188.993,
+    "text": " Mr. Oberg.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 192.316,
+    "end": 198.522,
+    "text": "Can you hear me? Yes, now. I'm sorry. My computer was messing up.",
+    "speaker": "davidoberg",
+    "tags": [
+      "ask_question",
+      "give_update",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 198.542,
+    "end": 203.807,
+    "text": "All right. We need your vote on the motion that Dr. Acuff made.",
+    "speaker": "grahampaige",
+    "tags": [
+      "vote_call",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 204.989,
+    "end": 207.811,
+    "text": "I didn't hear the motion. I'm sorry. I couldn't get my computer to work.",
+    "speaker": "davidoberg",
+    "tags": [
+      "follow_up_request",
+      "request_action",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 209.153,
+    "end": 210.734,
+    "text": "She's certifying the closed meeting.",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "give_update",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 211.375,
+    "end": 215.359,
+    "text": "I certify that we didn't discuss anything. OK.",
+    "speaker": "davidoberg",
+    "tags": [
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 215.575,
+    "end": 217.397,
+    "text": " Thank you. Ms. Osborne?",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 217.777,
+    "end": 218.037,
+    "text": "Yes.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 219.238,
+    "end": 224.543,
+    "text": "Mr. Alcaro? Yes. Dr. Acuff? Yes. Mr. Page?",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "vote_call",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 224.564,
+    "end": 234.493,
+    "text": "Yes. All right, we have at least two other motions out of our closed session. So Ms. Doberg?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "request_action"
+    ]
+  },
+  {
+    "start": 235.114,
+    "end": 243.221,
+    "text": "I move that the board approve the contracts for the teachers as listed in the motion presented to us by the administration.",
+    "speaker": "davidoberg",
+    "tags": [
+      "procedural_move",
+      "vote_call"
+    ]
+  },
+  {
+    "start": 244.763,
+    "end": 245.143,
+    "text": "Second.",
+    "speaker": "judyle",
+    "tags": [
+      "procedural_move",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 246.76,
+    "end": 263.919,
+    "text": " moved by Mr. Oberg, second by Ms. Lee, that we approve the teachers that are listed in the document supplied to us by personnel. Ms. Johnston, could you call the roll, please, on this motion? Mr. Oberg?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "vote_call",
+      "request_action"
+    ]
+  },
+  {
+    "start": 264.74,
+    "end": 266.502,
+    "text": "Yes. Ms. Osborne?",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 266.962,
+    "end": 267.183,
+    "text": "Yes.",
+    "speaker": "kateacuff",
+    "tags": [
+      "agreeing"
+    ]
+  },
+  {
+    "start": 267.703,
+    "end": 273.63,
+    "text": "Mr. Alcaro? Yes. Dr. Acuff? Yes. Ms. Lee? Yes. Mr. Page?",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "vote_call",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 273.95,
+    "end": 274.191,
+    "text": "Yes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 274.691,
+    "end": 276.413,
+    "text": "Motion passed.",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 278.063,
+    "end": 298.975,
+    "text": " OSBT- Dave Kuntz, OSBT- Karen Hollweg, OSBT- Dave Kuntz, OSBT- Curt Brown, OSBT- Dave Kuntz, OSBT- Curt Brown, OSBT- Dave Kuntz, OSBT- Curt Brown, OSBT- Dave Kuntz, OSBT- Curt Brown, OSBT- Dave Kuntz, OSBT- Curt Brown, OSBT- Dave Kuntz, OSBT- Curt Brown, OSBT- Dave Kuntz, OSBT- Curt Brown, OSBT- Dave Kuntz, OSBT- Curt Brown, OSBT- Dave Kuntz, OSBT- Curt Brown, OSBT- Dave Kuntz, OSBT- Curt Brown, OSBT- Dave Kuntz, OSBT- Curt Brown, OSBT- Dave Kuntz, OSBT- Curt Brown, OSBT- Dave Kuntz, OSBT- Curt Brown, OSBT- Dave Kuntz, OSBT- Curt Brown, OSBT- Dave Kuntz, OSBT",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 300.423,
+    "end": 312.197,
+    "text": " Moved by Mr. Alcaro, seconded by Dr. Acuff, that we approve the hiring of Mr. Reed Gillespie as the principal of the virtual high school. If there's no discussion, Ms. Johnston?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "vote_call",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 313.658,
+    "end": 314.359,
+    "text": "Ms. Osborne?",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 314.9,
+    "end": 315.16,
+    "text": "Yes.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 316.001,
+    "end": 326.834,
+    "text": "Mr. Alcaro? Yes. Dr. Acuff? Yes. Ms. Lee? Yes. Mr. Oberg? Yes. Mr. Page? Yes. Motion passed.",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "vote_call",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 326.854,
+    "end": 421.555,
+    "text": "Thank you.  We will now have a moment of silence before we proceed into the agenda.  All right, thank you. Because of the restrictions imposed by the state, we have to read this document into our meeting minutes. The minutes of this meeting should reflect that this meeting is being held electronically, pursuant to Virginia state law and Albemarle County ordinance, because the COVID-19 pandemic makes it impracticable and unsafe to assemble a quorum physically in a single location.  The meeting is being communicated to the public electronically through Zoom and streamed live on the Albemarle County Public Schools website. And public comment may be offered through the Zoom waiting room feature in accordance with the school board's protocol or by written submission. And now to introduce our board members so that when you hear them, if you're listening by phone, you'll be able to recognize them. Dr. Kate Acuff.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 422.656,
+    "end": 424.778,
+    "text": "Kate Acuff, Jack Jewett District.",
+    "speaker": "kateacuff",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 426.26,
+    "end": 436.453,
+    "text": " Mr. John O. Alcaro. John O. Alcaro at large. Ms. Colson is absent at this time. Ms. Judy Lee.",
+    "speaker": "grahampaige",
+    "tags": [
+      "logistics_info",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 437.354,
+    "end": 438.535,
+    "text": "Judy Lee, Rivanna District.",
+    "speaker": "judyle",
+    "tags": [
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 439.216,
+    "end": 444.803,
+    "text": "Mr. Dave Oberg. Dave Oberg, Whitehall Magisterial District. Ms. Ellen Osborne.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 445.784,
+    "end": 447.506,
+    "text": "Ellen Osborne, Scottsville District.",
+    "speaker": "kateacuff",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 448.447,
+    "end": 466.295,
+    "text": "And I'm Graham Page, Samuel Miller District. Our student rep, I don't think, is here at this time.  Is she? I'm here. Hi. Sorry, Leila. I'm so very sorry. OK, so introduce yourself as our rep.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "request_action",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 466.335,
+    "end": 469.76,
+    "text": "Hi, my name is Leila Barnes, and I'm the student rep from Albemarle High School.",
+    "speaker": "annarosner",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 470.44,
+    "end": 485.359,
+    "text": "OK, thank you. And we are so glad to see you here with us tonight. We now need a motion to approve the agenda that's been sent to us for this meeting.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 489.98,
+    "end": 491.522,
+    "text": " I move we approve the agenda.",
+    "speaker": "judyle",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 492.784,
+    "end": 501.557,
+    "text": "Second. All right, moved by Ms. Lee, second by Mr. Oberg. Did we approve the agenda? If there's no discussion, Ms. Johnston?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 506.764,
+    "end": 509.028,
+    "text": "Mr. Alcaro?",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 509.929,
+    "end": 510.149,
+    "text": "Yes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "agreeing"
+    ]
+  },
+  {
+    "start": 510.65,
+    "end": 515.838,
+    "text": "Dr. Acuff? Yes. Ms. Lee? Yes. Mr. Oberg?",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "vote_call",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 516.619,
+    "end": 516.859,
+    "text": "Yes.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 517.26,
+    "end": 517.961,
+    "text": "Ms. Osborne?",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 518.401,
+    "end": 518.822,
+    "text": "Yes.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 519.022,
+    "end": 520.244,
+    "text": " Mr. Page.",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 520.644,
+    "end": 526.691,
+    "text": "Yes. We need a motion to approve the consent agenda.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 529.655,
+    "end": 531.658,
+    "text": "I move we approve the consent agenda.",
+    "speaker": "kateacuff",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 534.221,
+    "end": 534.521,
+    "text": "Second.",
+    "speaker": "judyle",
+    "tags": [
+      "procedural_move",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 535.502,
+    "end": 543.793,
+    "text": "Moved by Dr. Acuff, seconded by Ms. Lee, that we approve the consent agenda. If there is no discussion, Ms. Johnston.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "vote_call",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 545.495,
+    "end": 550.153,
+    "text": "Dr. Acuff? Yes. Ms. Lee?  Yes. Mr. Oberg.",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "vote_call",
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 551.995,
+    "end": 552.255,
+    "text": "Yes.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 553.176,
+    "end": 553.877,
+    "text": "Ms. Osborne.",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 554.318,
+    "end": 554.578,
+    "text": "Yes.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 554.998,
+    "end": 557.401,
+    "text": "Mr. Alcaro. Yes. Mr. Page.",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 557.862,
+    "end": 558.102,
+    "text": "Yes.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 558.543,
+    "end": 559.183,
+    "text": "Motion passed.",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 561.446,
+    "end": 569.135,
+    "text": "We are now ready for school board or superintendent business. Dr. Haas.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 569.896,
+    "end": 574.021,
+    "text": "I do not have anything other than what's on the agenda. Thank you, Mr. Page.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "acknowledge",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 574.722,
+    "end": 581.068,
+    "text": "All right.  Are there any announcements either from the superintendent or from the school board members?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 584.251,
+    "end": 587.514,
+    "text": "I do think, does someone have the resolution?",
+    "speaker": "matthewhaas",
+    "tags": [
+      "ask_question",
+      "request_action"
+    ]
+  },
+  {
+    "start": 587.674,
+    "end": 589.156,
+    "text": "Yes, we'll get to that.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "reassure"
+    ]
+  },
+  {
+    "start": 589.956,
+    "end": 592.719,
+    "text": "Perfect, thank you Mr. Page.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 592.739,
+    "end": 604.851,
+    "text": "All right, we are now ready for our spotlight on education and Mr. Oberg is going to introduce this portion of our meeting. Mr. Oberg.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 605.337,
+    "end": 722.656,
+    "text": " Thank you, Mr. Page. 2021 was the 40th year of the Piedmont Regional Science Fair, which each year brings together over 300 students from more than 12 school divisions in Central Virginia. The fair was established to create greater awareness and interest among students in project-based learning that utilizes advanced research and development skills in math and in science.  The need for programs such as this one is pretty clear from data that shows that some of our international competitors graduate 14 engineers each year for every one that we graduate in the United States. What's impressive about the fair is the relevance so many of the projects have to solving modern day problems and meeting current lifestyle needs. This year, something else was impressive about the fair.  For what almost certainly was the first time in its history, the two grand prize awards were earned by a brother and a sister for two separate projects. Our champions are Anna and Samuel Rosner from Albemarle High School and are both MESA students. Anna's project is a quote, a fall detection and prevention shoe for the elderly and balance impaired, end quote. That's just awesome.  Sandhill's project focused on, quote, analyzing political polarization through agent-based simulation, end quote. Here is a compelling statistic. Each year, about 36 million older adults experience a fall, and more than 32,000 of those falls result in death. Emergency rooms across the country each year treat more than 3 million older adults for injuries due to a fall. And I will say that my mother,  On a very personal note, my mother broke her knee in August because she fell down and was in a hospital or rehab for about a month.",
+    "speaker": "davidoberg",
+    "tags": [
+      "give_update",
+      "cite_external_source",
+      "express_concern",
+      "opinion",
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 723.538,
+    "end": 725.481,
+    "text": "So this is pressing to me.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "express_concern",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 726.442,
+    "end": 793.969,
+    "text": "Anna wanted to do something about preventing these accidents using self-taught computer skills. She's no stranger to success, having won the Congressional App Challenge earlier this year for, quote, feel better, end quote, a mental health support app for students.  For the fair, she experimented with a shoe purchased over the counter at a discount store, outfitting the shoe with sensors that can detect when the shoe wearer is about to fall. The shoe has supports that adjust to restore balance. That is so cool. Samuel took on a challenge very much in the headlines every day. He studied the social relationships that contribute to sharp political divisions in our nation.  Both Anna and Samuel automatically qualified for the Regeneron International Science and Engineering Fair. Both already have completed interviews with the judges in advance of the fair itself, which will be held virtually next week. Both also are with us this evening, and I'd like to ask them to share with us a little bit about why they selected their projects, what they learned, and how their research can benefit our lives.",
+    "speaker": "davidoberg",
+    "tags": [
+      "give_update",
+      "request_action",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 799.18,
+    "end": 943.65,
+    "text": " Hello, I'm Anna. I'm super excited to be here tonight. So what really inspired me to create this project is I feel like falls are such a big issue and I feel like everyone has some sort of connection to it. I had a family member with Parkinson's disease, like there's something that I think affects everyone at some level and also like it's a concern for a lot of people.  Maybe they haven't fallen yet, but it's a worry that they might. That's something that inspired me to create this. Through creating it, I learned a lot about how to take something from the image that I had in my head and what I wanted to make.  into something that works. It's still very much a prototype. It's more of a proof of concept and the idea that the method I had in mind can be effective, but just from the sketches I had in a notebook and then being able to take that into a fully-fledged system with code and sensors and circuits  And to have done that is just something that I've learned so much from and how to just solve your own problems and just do the research, figure out what you need to get from point A to point B. And I mean, I think that the benefit that this research can have, I think, is very clear that  it's not enough to just have things that sense when falls happen. You need to have something that prevents them from happening because it's not enough to know that a fall has happened. At that point, the damage has occurred and falls are the second leading cause of  death among adults age 65 or older, the second leading cause of accidental death in adults age 65 or older globally. So it is a big issue and having something that can be engaged in the active prevention of these falls, I think is something that I definitely want to continue pursuing and working towards. And I'll hand it off to my brother, Sam, to talk about his project.",
+    "speaker": "annarosner",
+    "tags": [
+      "give_update",
+      "express_concern",
+      "opinion",
+      "cite_external_source",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 945.487,
+    "end": 1031.495,
+    "text": " OK, yeah, sure. So I'm Sam. My project was working on building a computer model which can predict the causes of political polarization. And I feel like this is something which can really be helpful to each one of us in trying to help foster better discussion environments around us.  So my program came to the conclusion that what we really need to do to decrease political polarization and therefore increase the quality of our political dialogue is to separate our social relationships from our political beliefs. Basically, we shouldn't choose our friends. We shouldn't hold it against people that they might disagree with us, which I think is a really important lesson in the wider world.  Additionally, I investigated a wide number of interesting phenomena and how they relate to political polarization, such as people's skepticism of different views, moderation of the entire society, and several other more complex parameters.  And I think from this project, I've learned a lot about mathematical modeling, as well as the research process. And I think it was a very valuable experience for me.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "give_update",
+      "opinion"
+    ]
+  },
+  {
+    "start": 1037.502,
+    "end": 1051.89,
+    "text": "Wow. OK, what great presentations, Anna and Sam.  Do any of our school board members have any questions or comments related to the two presentations?",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1053.852,
+    "end": 1064.526,
+    "text": "Well, I'm always in awe when we have our students present with the work that they have done. But I guess the question to each of you, what were the interviews like for your projects?",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1067.138,
+    "end": 1126.196,
+    "text": " Okay, sure. So Sam and I, we each did four interviews, so we had a couple of judges and then also a proctor. It was a platform very similar to Zoom, so you had your own individual room and then judges would  come in. It was all done virtually, so it was definitely a big change because Sam and I have both competed in fairs before, but not the international fair, so just switching over to the virtual format to presenting was definitely a change. But the interviews, they were all really great. Before we talked to the judges, they looked through all our project materials,  So they sort of had an idea of what questions to go into it. And the judges were just so amazing, because they're all experts in their field. So they just asked some really interesting questions. And Sam, if you have anything to add?",
+    "speaker": "annarosner",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "opinion",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 1128.459,
+    "end": 1129.22,
+    "text": "No, I don't think I do.",
+    "speaker": "Unknown",
+    "tags": [
+      "hedge"
+    ]
+  },
+  {
+    "start": 1131.283,
+    "end": 1131.684,
+    "text": "Thank you.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1136.15,
+    "end": 1163.987,
+    "text": "Any other questions by our board members?  Okay, I have one sort of, I guess, question in a sense. So Anna and Sam, when did you become aware that you two were the finalists? And how did you feel as like brother, sister, possibly competitors, attaining this honor at the same time?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1164.862,
+    "end": 1214.629,
+    "text": " Well, it was actually kind of funny. So when we received, I first received a call from the  regional fair. And while he was speaking to me, he realized that the other grand award winner had the same last name and asked me if maybe she was near enough to the phone. So he was able to tell both of us at the same time about our success. And I think our projects are in completely different categories. So we're not so much competitors as you might think.  So I don't think that there has been a deterioration of any sort of relationship because we're in the same competition.",
+    "speaker": "Unknown",
+    "tags": [
+      "give_update",
+      "clarify",
+      "reassure"
+    ]
+  },
+  {
+    "start": 1216.887,
+    "end": 1249.727,
+    "text": " No, in fact, sometimes we ask each other questions like, oh, what time is your interview? Just making sure we're both on the same page. And really, for both of us, we've competed in the regional science fair before. So for both of us, we both really wanted to go to ISAF. That was a big goal for both of us.  I think to achieve it at the same time was really just amazing, like it's just like the cherry on top of the cake.",
+    "speaker": "annarosner",
+    "tags": [
+      "clarify",
+      "opinion",
+      "reassure"
+    ]
+  },
+  {
+    "start": 1249.747,
+    "end": 1263.55,
+    "text": "Right. Okay, one other question too. Anna, with your project, how do you think, well really both of you, how do you think that your research can sort of move forward in any type of way?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 1265.723,
+    "end": 1326.832,
+    "text": " Yeah, so, um, for me, I'm not sure the system isn't in a state where I can put it on a shelf, just because for something as important as falls, I want to make sure that the system is 100% safe and accurate, and so  I definitely want to continue the research that I'm doing, but it's definitely going to be a long time project like I could see myself working on this for like three more years easily. And especially like if I wanted to move it forward to like a commercial stage I definitely want to like  partner with some people and especially just like as a high school student trying to make something that's safe and accurate and is going to work for all sorts of different people and their different step patterns is definitely something that's just going to continue being a long-term goal and something that I'll continue pursuing even as I look at other projects.",
+    "speaker": "annarosner",
+    "tags": [
+      "express_concern",
+      "prioritization",
+      "give_update",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1329.075,
+    "end": 1332.72,
+    "text": "So at some point you're going to install gyroscopes in all of us, right?",
+    "speaker": "davidoberg",
+    "tags": [
+      "ask_question",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 1334.607,
+    "end": 1345.022,
+    "text": " Um, so I actually, funny that you had asked that, but part of the system is actually an accelerometer gyroscope that gets mounted onto the waist.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "clarify",
+      "give_update"
+    ]
+  },
+  {
+    "start": 1346.318,
+    "end": 1373.406,
+    "text": " Yeah, so definitely also like currently the system that I have, it's got like wires going all over those stuff that gets hooked up. Like there's like a sensor that goes on like the waist. So being able to indents that and just making everything a little bit more sophisticated and condensed and just like well put together is definitely just a continued goal of mine.",
+    "speaker": "annarosner",
+    "tags": [
+      "give_update",
+      "prioritization",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 1374.027,
+    "end": 1378.272,
+    "text": " My only comment is that is seriously cool. It's really cool.",
+    "speaker": "davidoberg",
+    "tags": [
+      "opinion"
+    ]
+  },
+  {
+    "start": 1378.812,
+    "end": 1385.4,
+    "text": "Right. And Sam, I think you were going to make a comment about a few seconds ago.",
+    "speaker": "grahampaige",
+    "tags": [
+      "follow_up_request",
+      "request_action",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1386.241,
+    "end": 1427.592,
+    "text": "Yes, I was just going to answer your question about further improvements. So my project, a big area of study I'm looking into now is the modeling of elections and their effect on political polarization.  So it's a really kind of complex topic, has a lot of variables. So I'm still working on the analysis of that. I have some preliminary analysis already done. I'm also working on analyzing the effects of mass media and also incorporating more individuality into the agents in the model, which are kind of like the computational unit of the model that I use to model political polarization.",
+    "speaker": "Unknown",
+    "tags": [
+      "give_update",
+      "clarify",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1430.525,
+    "end": 1439.218,
+    "text": " Okay, thank you both so very, very much. Your conversation has really been enlightening for us, so thanks so very much.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1441.101,
+    "end": 1442.423,
+    "text": "Thank you so much for having us.",
+    "speaker": "annarosner",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1443.665,
+    "end": 1444.466,
+    "text": "Yes, thank you very much.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1446.649,
+    "end": 1452.077,
+    "text": "We will now recognize our school nurses. Mrs. Lee.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1453.419,
+    "end": 1586.352,
+    "text": "Thank you, Chair Page.  Whereas since 1972 National School Nurse Day has served to strengthen the understanding of how school nurses have contributed to the academic, social, and emotional development of students, and whereas this year during the most severe pandemic to occur in school communities in 100 years, school nurses have eagerly been frontline protectors of the public health,  overseeing health strategies and practices that make school safe places for children, and whereas in gratitude for this service, National School Nurse Day and National School Nurses Week have been expanded to incorporate celebrations, the entire month of May.  And whereas in Albemarle County Public Schools in recent years, visits by students and staff to school clinics have exceeded 180,000 or more than 140 visits each hour of every school day.  And whereas in a given year, our school nurses record more than 14,000 treatments of students with chronic conditions. And this year, 17 of our school nurses are members of the emergency medical core and have administered COVID-19 vaccines to employees. And whereas school nurses often are the first and on occasion, the primary healthcare provider for families. And whereas the instant actions  of school nurses in emergencies have saved lives, prevented more serious illness and injury, and contain the spread of infectious diseases in our schools, and whereas school nurses are invaluable connectors of the school community, families, and health care providers in promoting wellness and access to health care when a child's cognitive development is at its peak.  Now, therefore, be it resolved that the Albemarle County School Board does hereby express and call upon all members of the school division and residents of the county to express deepest appreciation to all of our school nurses for their extraordinary and selfless devotion to public health and safety every year, and especially this year, and further resolve that a framed copy of this resolution be provided to every school nurse in the division this May 13th, 2021.",
+    "speaker": "judyle",
+    "tags": [
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1589.74,
+    "end": 1635.437,
+    "text": " Thank you so much, Ms. Lee. Thumbs up.  So we congratulate Sam and Anna. We also congratulate and appreciate Mr. Gillespie as he becomes the principal of our virtual school. And we also appreciate all of our school nurses. So thank you to all of those groups of people. And even Mr. and Ms. Rosner, who probably have to be excessively proud of their two students achieving this high honor in the school science fair.  So congratulations and appreciation expressed for all of those people. We will now move to our public comment. And Dr. Acuff.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1640.366,
+    "end": 1716.979,
+    "text": "Good evening. The school board invites and actively seeks  the public's input on matters relevant to school board governance and provides time for it in our business meetings to hear from our residents and community members. During public comment, we expect respectful and on-topic comments. If you wish to speak at the meeting, sign up must have been completed by 4 p.m. on the day of the regular board meeting. Public comment is not received at special board meetings unless specified on the agenda.  You will have three minutes each for each presenter to speak. Tonight, we have two people who have signed up for public comment, Ms. Cindy Hersman and Ms. Emily Maffin. You will have three minutes to speak. I will try to notify you by waving my hand when you have a minute to go.  Dialogue and debate with school board members is not allowed during your public comments. When it is your turn, please provide your name and your address or your magisterial district. Ms. Hersman.",
+    "speaker": "kateacuff",
+    "tags": [
+      "public_addressing",
+      "logistics_info",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1718.0,
+    "end": 1893.206,
+    "text": "Thank you very much. Thank you for allowing me to speak this evening. My name is Cindy Hersman of the Breivana District, and I'm a teacher with Albemarle County Public Schools and a parent of a senior at Albemarle High School.  I'm here tonight to speak on behalf of a group of concerned parents who volunteer in the AHS drama department. This year has been very abnormal and difficult for all of us due to COVID-19. The changes we've all had to make in our daily lives are notable. As the schools began to gradually open up to various activities back in March, we were all very excited to see our friends with kids involved in indoor and outdoor sports able to be spectators at these sporting events.  and see the joy on their kids' faces as they competed at every level.  We were encouraged that we as parents of theater kids would have the same opportunities to see our kids perform. It was unfortunately an extremely long process on a statewide level to advocate and protest the inequity that was on full display when it came to how the theater kids were designated versus their sports contemporaries. We saw numerous sports being played in extremely close proximity, sometimes without masks at all.  At that moment, we weren't even sure we would be able to witness our own kids perform even with masks and social distancing requirements in place. All the sporting events, games and tournaments across Virginia and even in other states for championships have all been allowed and even celebrated as they should be without any negative repercussions for participants or spectators. We're extremely grateful that we will be able to see and be in the in-person audience for the upcoming musical at Albemarle High School.  We would like to ask that some of the guidelines that are still being forced on the theater community be reviewed and adjusted to allow our kids to perform without the artificial limitations that were not considered feasible for their sports counterparts. There is no basis for the inequity that is on blatant display for how sports are allowed to be played without any physical distancing whatsoever, but are being arbitrarily forced on the theater department.  Our theater kids are not just being told to comply with the normal six foot distances, but now to an extended distance of 10 feet apart. If the idea behind this additional distance is due to projection of voices and fluids, it doesn't seem like that was considered for sporting events when players yell, scream, and cheer for their teammates during normal play. All in all, theater kids feel deeply the societal inequity that exists for the arts. We respectfully request  that you do whatever is in your power to show these artists that they are valued and celebrated as much as the athletes in the school district. In summary, we are simply asking for our kids to be able to perform on stage with the same exact guidelines that were given to their sports contemporaries. Thank you.",
+    "speaker": "cindyhersman",
+    "tags": [
+      "public_addressing",
+      "express_concern",
+      "request_action",
+      "policy_proposal",
+      "opinion"
+    ]
+  },
+  {
+    "start": 1895.209,
+    "end": 1903.18,
+    "text": "Thank you, Ms. Hersman. You came in with 15 seconds to spare. I practice. Ms. Maffin?",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1905.235,
+    "end": 2099.393,
+    "text": " Hi, my name is Emily Mason. I'm in the Rio district. I have a third grader and a seventh grader. And I wanted to speak tonight to continue to push for anti racism in our division. I know the school board is limited and that you are not responsible for making specific hiring decisions or for curriculum design. But I do think you can continue to push for your stated commitment to anti racism.  And as we look to next school year, I urge you not to return to the status quo. I'd like to ask you to learn from this year and be really intentional about next year. And I think there are a few areas in particular that I'd like to ask you some questions about. So one question is whose priorities and needs are being centered? And one is around curriculum.  So in all subjects, but in social studies and in history in particular, just continuing to tell the truth about history. I know many states and many districts, there's been some pushback to telling the truth about history. And I just urge you to continue to hold your commitment to anti-racism as you have stated before.  I'm wondering about with the gifted identification, what measures are being used? I know that this has been in flux, and I wonder who is being excluded from these services. I wonder about the SOL tests, and when we didn't have the tests last year, how did that work out, in particular for students of color? Who do the tests benefit? Related to hiring decisions, I know that this has been an area of focus,  I'm wondering, who are you bringing into the school division and what leaders and educators can students benefit from learning from different perspectives and wisdom that all students can benefit from? With regards to books, classroom study, and in the library, whose stories are being told?  With regards to the school resource officers, I know that they have been removed from the school. The MOU has been eliminated and I really appreciate that. And I am still very wary of these newly created positions of the safety coaches. And I would like to continue to push on who's safety is being prioritized and just to really keep a lens of anti-racism in the hiring decisions and the unrolling of this program.  Regarding ongoing professional development, I know that the county has been moving in the right direction with culturally responsive teaching. And I just wanna make sure that this isn't a flashy project, that this is something that continues to have sustained and ongoing effort and attention. I wonder about the overall school environment. And I just wonder, aside from COVID, are there other reasons that families of color have felt safer keeping their children at home? And so when we open up next year, what are we going to do to create a safe school environment for all children?  So in closing, COVID-19 is an invisible disease that we work together as a community, not only to mitigate, but are working to eradicate. So what if we work with this same energy, commitment, and effort to fight the invisible disease of racism?",
+    "speaker": "emilymathon",
+    "tags": [
+      "public_addressing",
+      "ask_question",
+      "request_action",
+      "policy_proposal",
+      "express_concern",
+      "acknowledge",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 2100.174,
+    "end": 2108.865,
+    "text": "Thank you. Thank you, Ms. Maitland. Thank you. We don't have anyone else signed up for public comment.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 2111.949,
+    "end": 2130.46,
+    "text": "Thank you, Dr. Acuff.  and thanks to our speakers. Moving along now with the agenda, we will now have our COVID-19 update with Dr. McLaughlin, Ms. Gomez.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2130.481,
+    "end": 2160.625,
+    "text": "Hi, good evening board members. I'm Pat McLaughlin, chief of strategic planning for the school division. And I'm here tonight along with Eileen Gomez, one of our wonderful school nurses who we just honored just a few minutes ago to give you our COVID-19 update  for May 13th. As you recall, one of the things that we report out to the board at every board meeting is the level of community transmission of COVID in Albemarle and the surrounding area. And I'll turn things over to Eileen to give you the latest updates.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "public_addressing",
+      "defer_to_expert",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2162.09,
+    "end": 2335.332,
+    "text": " Thank you Dr. McLaughlin and thank you Ms. Lee and the school board for that proclamation honoring the school nurses. I'm very proud to be serving with this admirable group of professionals. I'm very pleased to share with you the numbers this week. As you can see on this slide that the case counts have been falling  As of today, Albemarle County's seven-day floating or moving average of number of new cases per 100,000 people is 2.1. Case counts have been decreasing for the past 24 days, which exceeds the threshold of 14 days. So this is considered a decreasing trend. I believe this is the lowest number that we've had this school year and since I've been looking at the data.  The seven day floating or moving average for the percent of COVID cases tests that were positive is under 1%, 0.9%. This indicator has been decreasing for 24 consecutive days. So this is also considered a decreasing trend. The numbers for Charlottesville have also been very good.  The seven day moving average of number of cases per 100,000 residents as of today is 1.9. This indicator has been decreasing for the past 38 days, which exceeds the threshold and is considered a decreasing trend. The percent positivity of Charlottesville has also dropped. You can see that as of today, that's 0.5%. And this has been decreasing for the past  42 days, that's also considered a decreasing trend. The numbers of cases at UVA remains low. Over the last two weeks, they reported a total of nine cases, six in students and three in staff. So we're very pleased with this progress. I'm also just going to update you a little bit about the youth vaccination rates. As of  Yesterday, the Pfizer vaccine was only on license for children ages 16 and above. But as of last night, they issued the approval for use in youth ages 12 to 15. But they have not yet reported on the data of those kids receiving their vaccines as of today. But for the other age group, 16 to 19, with a little bit of math and estimations, I can tell you that  The vaccination rate for 16 to 19 year olds in this community is about 50% for these people who have received one dose. And to be considered fully vaccinated, we are at about 31% of this age group. So that's all very good news. Dr. McLaughlin?",
+    "speaker": "eileengomez",
+    "tags": [
+      "give_update",
+      "acknowledge",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2335.885,
+    "end": 2447.346,
+    "text": " Yeah, thanks Eileen. And as you recall, we we also share this graph with you every week around the CDC core indicators to to put a metric around our community transmission level. I'm also very pleased to say that we have been we've moved into the moderate level of of community transmission. That's primarily because  Our core indicator for case incidents has fallen below the 50 cumulative cases per week.  total into the moderate level. I believe to get to the low level, you need fewer than 10 cumulative cases over a seven-day period. And if you recall, we do see this one spike here. You may remember that a couple of weeks ago, we had an anomaly with the numbers where 65 additional cases were added in to the Albemarle numbers from testing that had been done over the course of several weeks. So that's good news.  really all around. When we look at our level of school impact, we still feel that our impact in the schools is very low. We have very sporadic cases with no evidence of transmission, no impact on student absenteeism other than normal absenteeism, and staff capacity is at normal levels.  And when you put those two together, for the first time, I think, since we've been reporting on these metrics, we've actually moved to the lowest level of impact on the CDC chart when you put our moderate level of community transmission and our low level of school impact. So, you know, it hasn't been often we could come with really good news to the board, but I think the trends certainly are, have been in our favor over the past couple of weeks.  and we'd be happy to take any questions from the board.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "reassure",
+      "cite_external_source",
+      "follow_up_request",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2455.518,
+    "end": 2460.405,
+    "text": "Are there any board questions after getting this very good report?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2461.227,
+    "end": 2470.821,
+    "text": "It is a good report. Eileen, Ms. Gomez, is there any thought about making school sites a possible site for vaccinations?",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "ask_question",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 2471.425,
+    "end": 2491.763,
+    "text": " Yes, we're planning to do that right now. In fact, we have scheduled our first school-based vaccine clinic at Albemarle High School. That will be on May 21st, and we'll follow up in three weeks on June 11th for the second dose. And we're working to try to schedule it in the other high schools and in the middle schools as well.",
+    "speaker": "eileengomez",
+    "tags": [
+      "acknowledge",
+      "give_update",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 2498.188,
+    "end": 2501.331,
+    "text": "Are there any other questions on our COVID update?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2506.255,
+    "end": 2507.957,
+    "text": " Just keep pushing those numbers lower.",
+    "speaker": "kateacuff",
+    "tags": [
+      "request_action",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 2508.498,
+    "end": 2511.242,
+    "text": "Right.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 2511.262,
+    "end": 2524.18,
+    "text": "OK, if not, thank you, Dr. McLaughlin and Ms. Gomez. Thank you very much. Our next item, our school year operational plan. Dr. McLaughlin again.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "request_action"
+    ]
+  },
+  {
+    "start": 2524.649,
+    "end": 2580.434,
+    "text": " Yes, thank you again board Pat McLaughlin, chief of strategic planning for the school division. And as you recall, last week at your special meeting we presented our recommended operational plan for the 2021-2022 school year.  That, in very broad terms, included five days a week of in-person learning with appropriate mitigation strategies in place for a majority of our students. It also contained a virtual learning option for students who are interested in that. We ask tonight that you consider taking action  on that recommendation so that we can move forward with our process of next steps, which include some scheduled information sessions at all of our schools about what in-person instruction would look like, some scheduled sessions about our virtual school, and the distribution of intent forms in a few weeks at the start of June.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "request_action",
+      "logistics_info",
+      "policy_proposal",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2582.637,
+    "end": 2587.663,
+    "text": "I move that we approve the proposal from the superintendent. Second.",
+    "speaker": "davidoberg",
+    "tags": [
+      "procedural_move",
+      "vote_call"
+    ]
+  },
+  {
+    "start": 2588.993,
+    "end": 2615.811,
+    "text": " It's been moved by Mr. Oberg and seconded by Mr. Alcaro that we approve the plan that's been presented by the superintendent on operational plans for next year. Is there any discussion on the motion? If not, Ms. Johnston, could you please call the roll on this motion?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2616.512,
+    "end": 2621.728,
+    "text": "Ms. Lee? Yes.  Mr. Oberg? Yes. Ms. Osborne?",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "vote_call",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2622.168,
+    "end": 2622.388,
+    "text": "Yes.",
+    "speaker": "kateacuff",
+    "tags": [
+      "agreeing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2623.329,
+    "end": 2624.07,
+    "text": "Mr. Alcaro?",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2624.591,
+    "end": 2624.831,
+    "text": "Yes.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 2625.412,
+    "end": 2630.238,
+    "text": "Dr. Acuff? Yes. Mr. Page? Yes. Motion carried.",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "vote_call",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2630.458,
+    "end": 2642.873,
+    "text": "Motion carries. So thank you, Dr. McLaughlin, Dr. Haas, the entire team. So you will now be moving forward with more planning for next year, right?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "acknowledge",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 2643.453,
+    "end": 2647.418,
+    "text": "Thank you. Yes, sir. Thank you. Thank you, Patrick.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2650.587,
+    "end": 2656.173,
+    "text": " We will now have a report on upcoming facilities planning studies. Ms. Rosalyn Schmidt.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 2664.661,
+    "end": 3047.693,
+    "text": "Good evening. My name is Rosalyn Schmidt. I'm chief operating officer. Tonight, I just want to provide a brief update on four studies that are either underway or will be shortly that will help inform our long range facilities planning. So those four studies involve Mountain View Elementary,  Lamb's Lane campus, the Brookhill Proffer site, and then renovations at Albemarle and Western Albemarle High Schools. First, I want to start with Mountain View Elementary as some background. Next fiscal year's capital budget now, with the passing of the Board of Supervisors budget earlier this month, officially includes a modest expansion of the school and some site improvements.  Due to its limited site as well as an already large school size with over 700 students, no further expansion is recommended. And as stated when the project was first recommended, it addresses current space needs and minimal enrollment growth. So it is not intended to be a long-term solution and further study is recommended. So that's what this study will help us do. We have hired a consultant to help us develop a more long-term solution.  They will be conducting a subdivision yield analysis to help us better understand potential growth and would develop options for consideration. And a key component of this study is to get stakeholder feedback. We are meeting with the staff tomorrow morning and the first community meeting is scheduled next week. The purpose of these initial meetings is to get a brainstorm on the topic. The project team will then develop specific options for consideration and return in June for feedback on those options.  We estimate the work to conclude this summer and will present to the board for your consideration as you finalize your CIP requests. The second study I want to update you on is what we refer to as the Lambs Lane Campus. This is the campus that includes Albemarle High School, Jack Jewett Middle School, Greer Elementary School, Ivy Creek School, both of our building services departments and our vehicle maintenance facility, which houses our transportation department and fueling station.  and it will soon be the new Boys and Girls Club Center. As you can tell by this aerial, and if you visited, it's a very dense and highly utilized area that needs further study to ensure that the campus is equitable and that we have a long range vision to best utilize the limited land that is available. So what we're doing in the short term is we are planning improvements on Lamb's Lane itself,  science improvements and screening that is being installed along Limes Lane as a part of the Safe Route to Schools grant. And then, as well as the construction of the new Boys and Girls Club Center. For more long term planning, however, we are in the process of hiring a consultant to create a master plan for the area. The study would include community engagement, determine challenges, opportunities,  and vision for the campus. And that would include recommendations for necessary traffic improvements, both vehicular and pedestrian, and a conceptual master plan for future use and opportunities, including potential relocation of our support services, staff offsite that would provide additional instructional opportunities in green space to the schools that remain on the campus. We estimate the master plan to be complete in about six to 12 months, and we'll report our findings to the board.  The third study is related to the Brookhill proffer. So Brookhill is a development along 29 North on the East side of 29, just North of Polo Grounds Road, as you travel away from town. If you recall, as a part of that development, the county was proffered two parcels of land. One is actually in the development itself, which is intended to be the site for a future elementary school.  And the second was actually not in the development, but across 29 between the Berkmar Extension and Ryle Mills Road, that long sliver of space that was intended for a comprehensive high school in the future. But as you can see in the language of the proffer, there's some flexibility and other uses for that property.  As a reminder, it's a very narrow site with very challenging rock and terrain, and this is a visual of a school similar in size and amenities to Monticello High School. So this study is actually being done by the local government and county staff as directed by the Board of Supervisors. They have directed staff to engage in a study to evaluate additional uses of this site.  While the high school will certainly still be considered, other options under consideration are the relocation of our vehicle maintenance facility as one example, but more technical analysis of the grades will inform the possibilities. This study is in the very preliminary phases. It is our understanding that staff is to present a proposal to the BOS about the scope and time on the study in June. We will keep apprised of the progress of that study.  Lastly, I want to highlight work at Albemarle High School and Western Albemarle. If you recall, the high school facility planning study done by F&I back in 2017, which recommended the center model, also recommended improvements to existing schools. Due to the age and condition of the facilities, Albemarle and Western Albemarle were prioritized first. That study included a simple cost per square foot estimate for the work, but limited details on scope. So this study is intended to further define the scope and cost.  We are also planning stakeholder engagement to better define priorities and opportunities. The study was previously underway, but was paused last spring due to economic uncertainty related to the COVID-19 pandemic, but we have since re-engaged the consultant and have a scheduled completion by November.  So again, that was a quick overview. But those are four, I think, exciting work underway. I hope it provides a glimpse of the early stages of work that will ultimately result in projects in our long-range facilities planning. And I hope you also see our commitment to get stakeholder feedback at beginning stages of a project's lifecycle. So I'll now open it up to any questions or comments you may have.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "give_update",
+      "public_addressing",
+      "logistics_info",
+      "follow_up_request",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 3055.587,
+    "end": 3069.988,
+    "text": " Any questions or comments from the board on Ms. Schmidt's presentation? Ms. Schmidt, I know I should probably know this, but who is the consultant that's been hired for Mountain View?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3070.008,
+    "end": 3087.059,
+    "text": "It is a partnership with RRM Architects and a new firm that we haven't worked with before,  I have to look up the exact name, but Cooper Strategies, which have more experience in the subdivision and data analysis and enrollment projection fields.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "hedge",
+      "clarify"
+    ]
+  },
+  {
+    "start": 3090.543,
+    "end": 3092.985,
+    "text": "And you said that the first public meetings are coming up?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 3093.866,
+    "end": 3102.435,
+    "text": "Yep, and we will certainly share the information with any board member who's interested in attending. The first one, I believe, is next Tuesday.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "reassure"
+    ]
+  },
+  {
+    "start": 3108.693,
+    "end": 3112.98,
+    "text": " Are there any other questions related to the update?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3120.992,
+    "end": 3186.781,
+    "text": "General, I'm sorry. I got in under the gun. And maybe, I don't know if this is for Matt or Rosalyn,  Before I came on the board, I know that there was sort of a ceiling on the size that we would consider for elementary schools at 600. Well, we've broken through that like crazy. Well, first at Greer, but then at Mountain View and obviously Brownsville. And I don't know if at some point we want to revisit that. I mean, we  Well, if that was all I have to say, do we need to revisit that? I mean, our schools are getting bigger. Brownsville has been almost the size of Monticello High School for some time. That will be alleviated once we build Crozet. But then our largest school will be Mountain View. And it's pushing 800. That's a very large elementary school. So we have a range of about, Red Hill might be 300, not even.  to now almost 900.",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "policy_proposal",
+      "express_concern",
+      "request_action"
+    ]
+  },
+  {
+    "start": 3186.801,
+    "end": 3213.266,
+    "text": "Yeah, they're less than 200. And our biggest right now is Brownsville, which is nearing 900. So yeah, we do have a range. As far as I've worked with the county, there's never been a definitive school size. So I welcome a conversation around that and your feedback. I know it's something that the long range planners wrestle with each year. And so we welcome any feedback. And perhaps we use that when the long range planners present in July, have that conversation.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "give_update",
+      "follow_up_request",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 3214.628,
+    "end": 3215.008,
+    "text": "Thank you.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3220.523,
+    "end": 3232.881,
+    "text": " Are there any other comments or questions related to Facilities Planning Study? Okay, if not, thank you, Mr. Schmidt.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3234.003,
+    "end": 3234.684,
+    "text": "Thank you, Rosalyn.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3236.847,
+    "end": 3830.695,
+    "text": "We'll now take a 10-minute break. We'll reconvene at 7.32. Thank you.  Thank you. I think everybody just about is back with us. Our next presentation by Ms. Kumazawa on adopting the school operating fund for next year. Ms. Kumazawa.",
+    "speaker": "grahampaige",
+    "tags": [
+      "logistics_info",
+      "procedural_move",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3836.864,
+    "end": 3923.218,
+    "text": "Good evening, school board members. I'm Maya Kumazawa, director of budget and planning.  and I'm here today to facilitate the adoption of your FY22 budget. As a reminder, we're working off of a baseline of the school board's approved funding request that you approved in March. Since then, we've received more information about anticipated revenues for next year, primarily from state revenues, which now includes  a 5% salary increase for SOQ-funded positions, the state's portion of the 5% salary increase, as well as some other state revenues and technical adjustments. Total revenue revisions are revised upward by about $1.4 million. On the expenditure side, we also propose making some revisions here  They are listed and summarized in this table. We propose to change the classified salary increase from 2% to 4%, increase the teacher salary raise from 5% to 5.2%, expand the STEP program, and make further FTE restorations. In addition, this is partly offset by technical adjustments that have been made as we continue to refine the budget.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "public_addressing",
+      "clarify"
+    ]
+  },
+  {
+    "start": 3923.772,
+    "end": 3932.063,
+    "text": " As you can see, total expenditure revisions are also revised upward by about $1.4 million, and we maintain a balanced budget.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "give_update",
+      "reassure"
+    ]
+  },
+  {
+    "start": 3937.81,
+    "end": 3981.952,
+    "text": "Here's a summary of the pending FY22 adopted budget of $211.2 million, a 9% increase over FY21. Both revenues and expenditures include $4.1 million in one-time funds.  As one last item to note, there have been technical adjustments that have been made within the one-time budgeted use of fund balance, as well as within our special revenue funds, and they're summarized here. And that brings me to the end of my very short presentation, and turn it over for the action for this evening. Mr. Page.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3982.733,
+    "end": 4016.665,
+    "text": "Thank you, Ms. Kumazawa.  We can see in a sort of a suggested.  motion here on this slide. So do we have a motion to adopt? I move to adopt the fiscal year 2020-2021 school board budget of $211,246,077 for the school fund and $19,207,068 for special revenue funds.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "vote_call"
+    ]
+  },
+  {
+    "start": 4018.627,
+    "end": 4026.611,
+    "text": "Oh my goodness, I just realized that the fiscal year  should be FY22. Thanks a lot, Maya.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "acknowledge",
+      "clarify"
+    ]
+  },
+  {
+    "start": 4026.652,
+    "end": 4034.453,
+    "text": "I revise my motion to indicate the fiscal year 2021-2022. Thank you.",
+    "speaker": "davidoberg",
+    "tags": [
+      "procedural_move",
+      "clarify"
+    ]
+  },
+  {
+    "start": 4035.295,
+    "end": 4073.042,
+    "text": "Second.  OK, it's been moved by Mr. Oberg with the amount of revision and second by Mr. Alcaro that we adopt the budget for 21-22, $211.2 million for school funds, $19.2 million rounded off for special revenue funds. Do we have any discussion on the motion? Any discussion?  If not, Ms. Johnston, could you call the roll, please?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "logistics_info",
+      "public_addressing",
+      "vote_call"
+    ]
+  },
+  {
+    "start": 4075.304,
+    "end": 4080.892,
+    "text": "Ms. Lee? Yes. Mr. Oberg? Yes. Ms. Osborne?",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "vote_call",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4081.432,
+    "end": 4081.653,
+    "text": "Yes.",
+    "speaker": "kateacuff",
+    "tags": [
+      "agreeing"
+    ]
+  },
+  {
+    "start": 4082.854,
+    "end": 4083.655,
+    "text": "Mr. O'Carroll?",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4084.396,
+    "end": 4084.637,
+    "text": "Yes.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 4085.698,
+    "end": 4088.602,
+    "text": "Dr. Acuff? Yes. Mr. Page?",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "procedural_move",
+      "request_action"
+    ]
+  },
+  {
+    "start": 4089.082,
+    "end": 4089.623,
+    "text": "Yes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4090.244,
+    "end": 4091.085,
+    "text": " Motion carried.",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "procedural_move",
+      "vote_call"
+    ]
+  },
+  {
+    "start": 4091.265,
+    "end": 4110.37,
+    "text": "Motion carries. Our budget is approved. Ms. Kumasawa, we thank you so much for your guidance during all of these months to get us to this point. You and your team. So we really are grateful for all of your work. Thank you so much. Thumbs up. Also a great last minute catch on that.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4110.631,
+    "end": 4111.752,
+    "text": "That happens to me all the time.",
+    "speaker": "judyle",
+    "tags": [
+      "agreeing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4112.593,
+    "end": 4113.695,
+    "text": "Right. Very good.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 4114.396,
+    "end": 4117.72,
+    "text": "Thank you, Ms. Kumasawa. Outstanding work. Thank you all.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4120.906,
+    "end": 4134.055,
+    "text": " With our budget adopted, we are now moving to our next item on the agenda, a presentation on the pre-kindergarten after school pilot initiative by Dr. Harrison and Mr. Reid.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "give_update"
+    ]
+  },
+  {
+    "start": 4173.252,
+    "end": 4181.044,
+    "text": " Good evening. Good evening.",
+    "speaker": "bernardhairston",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4183.207,
+    "end": 4183.728,
+    "text": "Good evening.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4187.874,
+    "end": 4221.619,
+    "text": "Can we tell if Mr. Reid is here? Yes, sir, I'm here.  I'm Bernard Hairston, your assistant superintendent. Mr. Reed is the director of the Extended Day Enrichment Program. We would like to present you with a one-year afterschool initiative for pre-kindergarten students. We desire your input.",
+    "speaker": "bernardhairston",
+    "tags": [
+      "procedural_move",
+      "acknowledge",
+      "public_addressing",
+      "give_update",
+      "request_action"
+    ]
+  },
+  {
+    "start": 4223.05,
+    "end": 4236.725,
+    "text": " and your approval to move forward with the implementation of a pilot in two elementary schools for the 2021-22 school year.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "request_action",
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 4247.056,
+    "end": 4394.925,
+    "text": "You might ask why just two schools?  rather than offer an extension to the current 15 afterschool programs? Well, it's pretty simple. Our objective is to address the challenge of providing extended day services to pre-kindergarten students while minimizing the impact on our ability to serve the kindergarten through fifth graders.  We currently have 273 students who are ages three and four registered in Bright Stars, Head Start, and Early Childhood Special Education programs. Now, here is our challenge in addressing the burgeoning need for expansion. When we opened the school year in 2019, pre-pandemic,  there were over 500 kindergarten through fifth graders on our afterschool wait list. The pre-kindergarten students registered in 2019 were not included in this total. So our bottom line challenge is finding staff who are willing to consider  a 2 p.m. to 6 p.m. part-time schedule with low wages.  This is also something that's important. Because of the required eight to one and 10 to one student to teacher ratio for three and four year olds versus an 18 or 20 to one ratio for kindergartners through fifth graders, we are likely to add 10 students to the wait list for every pre-kindergarten class that is offered.  And so another piece of information, this challenge will not be fully addressed until we can resolve the hiring of staff issue. The majority of our afterschool program educators are teacher assistants who really appreciate the $15 minimum raise. Mr. Reed.",
+    "speaker": "bernardhairston",
+    "tags": [
+      "give_update",
+      "express_concern",
+      "clarify",
+      "logistics_info",
+      "prioritization",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4398.23,
+    "end": 4469.897,
+    "text": " So what will this pre-K program look like? We're hearkening back to an old theme for extended day enrichment programs and calling it children in action, in which children will learn through their senses. And one of the things I really want to reinforce is that EDEP is constructed upon the concepts of wellness and happiness. So too will we operate  in like manner with children in action. So to that end, CIA will provide students the opportunity to participate in a multitude of diverse experiences. It will remove obstacles to make the program, resources, and activities accessible. And likewise, it will open the doors to the world of possibility.  by allowing students to experience new and unique and rich learning opportunities. And of course, parents are going to be invited or they're going to be active participants in their children's learning and celebrants in their growth along the way.",
+    "speaker": "Unknown",
+    "tags": [
+      "policy_proposal",
+      "give_update",
+      "public_addressing",
+      "reassure",
+      "clarify"
+    ]
+  },
+  {
+    "start": 4475.124,
+    "end": 4539.183,
+    "text": "We are proposing a one-year public program  but up to 18 to 20 pre-kindergarten students to be offered at Mountain View and Woodbrook as host sites accommodating up to eight to 10 students at each site. There will be no costs for the selected qualifying families for this pilot. This will allow us to compare two different concepts.  One will be offered as an extension to the school's supervision and the Extended Day Enrichment Program will have direct oversight of the other. Both programs will seek the employment of a certified full-time teacher with a modified schedule and collaborate with the Extended Day Enrichment Program director. The one-year pilot will be funded through local  one-time learning recovery funds.",
+    "speaker": "bernardhairston",
+    "tags": [
+      "policy_proposal",
+      "logistics_info",
+      "give_update"
+    ]
+  },
+  {
+    "start": 4546.918,
+    "end": 4699.452,
+    "text": "So in taking a look at the programs individually, the program at Woodbrook will be referred to as Children in Action at Club Ed.  And that's because it's a partnership between the Woodbrook and EDEP administrations who collectively oversee the programs to include the staffing, the identification of students, which will be determined by the criteria you see enumerated there, free and reduced lunch,  The adults in the household will provide proof of employment. And then finally, if there are more than 10 families who wish to participate, then they will be selected ultimately by a lottery system. As far as a mechanism to assess the quality of the program, we'll look at things like the student's attendance record, discipline referrals,  students growth and self-confidence and level of independence, academic performance, and a parent survey, and a teacher survey for those teachers who are working directly with the program. There'll be many similar criteria and elements for the Mountain View program.  However, the Mountain View program will be under direct oversight of the school administration. Staffing will be similar, identification of students will be similar. As part of the planning process already in the works for the Mountain View program, we are including five Saturday enrichment opportunities in conjunction with parent and child workshops offered through a partnership with the Bright Stars Family Support Worker.  Additionally, as part of this program, students would be afforded transportation home. The evaluation components are identical. So in summation,  I wanna say we want to assist the students in evolving their personal response to the essential questions. How do you define success? And for these little guys, we're gonna sort of extrapolate the question, what is a happy life? And as they get older, then that question will evolve to what does it mean to have a rich full life? Ralph Waldo Emerson states, some pursue happiness, others create it.  In Children Through Action, students will build self-confidence and develop self-awareness so they can create their own happiness.",
+    "speaker": "Unknown",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "clarify"
+    ]
+  },
+  {
+    "start": 4701.423,
+    "end": 4732.506,
+    "text": " Thank you, Mr. Reed. That makes us happy with that closing quote. The estimated cost for this proposal is $165,800. This includes two entry level teaching positions and overhead costs.  At this time, we welcome your comments, your questions, your advice, and your recommendation to move forward with this proposal.",
+    "speaker": "bernardhairston",
+    "tags": [
+      "acknowledge",
+      "give_update",
+      "logistics_info",
+      "request_action",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 4735.311,
+    "end": 4751.197,
+    "text": "Dr. Harrison, Mr. Reed, how will you measure success in such a way that it would encourage you to move forward?  when we look back on it in one year.",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "request_action"
+    ]
+  },
+  {
+    "start": 4753.925,
+    "end": 4755.63,
+    "text": "Mr. Reach, you want to take a stab first?",
+    "speaker": "bernardhairston",
+    "tags": [
+      "ask_question",
+      "request_action"
+    ]
+  },
+  {
+    "start": 4756.974,
+    "end": 4828.377,
+    "text": "Sure. We're going to look at things like students' self-confidence.  A big, excuse me, I'm sorry, I have terrible allergies. A big piece will really be their efficacy, their sense of belonging and empowerment. Some of that will be done through student assessment. We'll look at their academic performance, potentially in comparison to a control group of peers within the building who are not participating in the program. Things like their attendance record.  What does it look like in comparison with their control group? Is their attendance better, worse, about the same? Parent feedback is going to be significant. We want to hear from parents about their perception and assessment of the program, the quality of the kids' growth, how they interact with their peers, for example, their siblings at home, and then feedback from their teachers is going to be critical.  There'll be some collaboration between the teachers who are running the Children in Action program and then the classroom teachers for these students as well. So that's really going to be an essential component.",
+    "speaker": "Unknown",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "clarify"
+    ]
+  },
+  {
+    "start": 4830.871,
+    "end": 5086.159,
+    "text": " So the two different concepts will be evaluated by the different features that they offer. So in one school, it will be an extension of the extended day enrichment program where the principal will continue to collaborate with the director of services. Now, what we'll be able to look at there is not  hiring an additional staff person who is qualified to teach whereby the majority of that person's time will be spent in that school working directly with the students who will be in the extended day enrichment program. No, I'm sorry. Well, that's true too. And so with plan B,  We are going to allow a lot of options in terms of hiring a full-time staff person, as well the hours of the day. So with that program, we may see a schedule for a teacher who may begin his or her day two hours later than the regular teachers.  so that he or she could pick up two hours with extended date enrichment. So we'll be able to compare  how difficult it may be to hire someone with that sort of modified schedule, how staffing will be used in the school, where it's a combination between extended day enrichment and supervision directly under the control of the principal for providing direct educational responsibilities  for the student from the beginning of the day through afterschool care. In addition, that second model will allow us to engage families through a Saturday school program as a way of looking at extending learning opportunities for students, those younger age students. So there are a lot of components there that will bring us some uniqueness in terms of how we support students.  So we're leaving some flexibility with principles where concept A would run until six o'clock, concept B may run until 4.30 because we're concerned about three-year-old students or four-year-old students have a long day from 7.30 in the morning until six o'clock. So we have a lot of flexibility there in terms of comparing.  One thing that's missing, and Mr. Page asked me this earlier, what about the small schools, like in the Southern feeder pattern? The reason we didn't select those students, those smaller schools is because you may only have one or two or three students in those programs.  But I mean, after some thought with Mr. Page's challenge, that's something that we may want to consider. Because when you look at smaller programs, that's where it becomes complicated with the regulations that we have to follow. With like a three-year-old, you have a 8 to 1 ratio.  And with a four-year-old, it's a 10 to one ratio. But if you only have one three-year-old in that program and the rest are four-year-olds, you have to follow the regulations of that eight to one. So a lot of little moving parts that we have to play with and try to figure out. So these two concepts are designed to just give us additional information in terms of making decisions moving forward.",
+    "speaker": "bernardhairston",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "clarify",
+      "logistics_info",
+      "express_concern",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5090.813,
+    "end": 5160.955,
+    "text": " I just want to say thank you, Dr. Harrison and Mr. Reed. I know that there were already a lot of challenges with the extended day program in terms of getting and keeping staffing and the different rules for pre-K. I mean, I think on the face of it, as you know, many of our community members support, you know, extended pre-K and I do too, but the mechanics of it, the challenges of staffing are  Considerable, and I think you have rolled out an elegant plan to go forward, and I look forward to seeing how well it works. So I think it was you, Mr. Reed, that said the 15th, maybe it was you, Dr. Harrison. Somebody said that increasing the minimum wage would be helpful in staffing. I guess the question is, will that be sufficient?  To get honest, a number of our teachers are already earning higher than the $15 minimum because we went through position analysis process just before the pandemic set in.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "express_concern",
+      "ask_question",
+      "opinion"
+    ]
+  },
+  {
+    "start": 5160.995,
+    "end": 5184.574,
+    "text": "So our salaries had just changed. So where that would impact our folks who work as assistants in our program.  And I have to be honest, I am concerned that we may lose folks to classroom TA positions when they're earning similar wages, because the hours may be more appealing. That's just one of my concerns.",
+    "speaker": "Unknown",
+    "tags": [
+      "give_update",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 5185.634,
+    "end": 5208.823,
+    "text": " Well, my concern is that we have had if I could be out of date on this, but we've had about a 25 to 30% turnover and extended day program staffing every year. And that's correct. Yeah. A lot of people to be churning through the program. Well, I also think a lot of our staff use our program as entree into the county.",
+    "speaker": "kateacuff",
+    "tags": [
+      "express_concern",
+      "give_update",
+      "hedge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 5209.04,
+    "end": 5222.774,
+    "text": " We have a number who go on to become teachers. We've lost a couple during the course of the pandemic who have gone on to teach for the county, which is great because it hits a nice ground for them to gain some experience.",
+    "speaker": "Unknown",
+    "tags": [
+      "give_update",
+      "opinion"
+    ]
+  },
+  {
+    "start": 5223.534,
+    "end": 5226.778,
+    "text": "But it doesn't make your life easier. But it doesn't make our lives any easier.",
+    "speaker": "kateacuff",
+    "tags": [
+      "express_concern"
+    ]
+  },
+  {
+    "start": 5226.818,
+    "end": 5227.599,
+    "text": "That is correct.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 5230.321,
+    "end": 5276.76,
+    "text": "Well, I don't know if there's any precedent to having a group  like extended day program staff pay differently, I don't know. But we need to do something, it seems to me, to tamp down the turnover. Because we have, I think our normal teacher turnover is, what, 10%, Matt? I mean, we have about, maybe it's a little more than, we hire about 180,  Hot of 1,500, but some people are retiring. So the extended day program has a significantly higher turnover rate than our usual staff. And that's been an ongoing problem. I don't know the solution, but I think it's something we need to think about.",
+    "speaker": "kateacuff",
+    "tags": [
+      "express_concern",
+      "request_action",
+      "prioritization",
+      "hedge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 5282.649,
+    "end": 5321.143,
+    "text": "Are there any other comments or questions for Dr. Harrison or Mr. Reed?  We thank you both for that excellent presentation. Thank you very much for giving us this vision for how we can move forward with afterschool programs for our pre-K students. So we do need a motion to authorize Mr. Reed and Dr. Harrison to move forward with this. Could I have a motion?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "acknowledge",
+      "request_action",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 5324.903,
+    "end": 5329.789,
+    "text": " I move that, oh, go ahead, Mr. Alcarro. You have to unmute.",
+    "speaker": "kateacuff",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 5337.718,
+    "end": 5339.42,
+    "text": "You're still muted, Mr. Alcarro.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "request_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5345.567,
+    "end": 5347.189,
+    "text": "Go ahead, Kate. Make the motion.",
+    "speaker": "davidoberg",
+    "tags": [
+      "request_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5348.05,
+    "end": 5348.11,
+    "text": "OK.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5348.866,
+    "end": 5358.596,
+    "text": " I move that the school board adopt approves the pre-kindergarten afterschool pilot initiative as presented by Dr. Hairston and Mr. Reed.",
+    "speaker": "kateacuff",
+    "tags": [
+      "procedural_move",
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 5360.278,
+    "end": 5378.097,
+    "text": "Second. OK. Good, Mr. Alcaro. So it's been moved by Dr. Hairston and seconded by Mr. Alcaro that we authorize Mr. Reed, that we authorize that this program be moved forward. Any discussion on that motion?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5380.203,
+    "end": 5387.854,
+    "text": " I would just like to ask that the board be updated on the staffing challenges moving forward and keep us apprised of that.",
+    "speaker": "kateacuff",
+    "tags": [
+      "request_action",
+      "follow_up_request",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 5388.595,
+    "end": 5393.842,
+    "text": "Okay. All right, Ms. Johnston, could you give us a roll call vote, please?",
+    "speaker": "grahampaige",
+    "tags": [
+      "request_action",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 5398.248,
+    "end": 5403.655,
+    "text": "Mr. Over? Yes. Ms. Osborne? Yes. Mr. Alcaro?",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "vote_call",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5404.316,
+    "end": 5404.877,
+    "text": "Yes.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 5405.701,
+    "end": 5410.248,
+    "text": " Dr. Acuff? Yes. Ms. Lee? Yes. Mr. Page?",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "vote_call",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5410.689,
+    "end": 5410.989,
+    "text": "Yes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "agreeing"
+    ]
+  },
+  {
+    "start": 5411.85,
+    "end": 5412.632,
+    "text": "Motion carried.",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "procedural_move",
+      "vote_call"
+    ]
+  },
+  {
+    "start": 5413.092,
+    "end": 5423.668,
+    "text": "All right, so the motion carries unanimously. Thank you again, Dr. Harrison and Mr. Reed for the wonderful presentation to us tonight. Thank you both very much.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5424.049,
+    "end": 5429.397,
+    "text": "Thank you for having us. Thank you, Dr. Harrison. Thank you, Mr. Reed. Very much appreciated. Thank you.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5432.465,
+    "end": 5561.815,
+    "text": " Our next item is our school board salary advertisement. And to sort of update all of our board members, an elected school board, such as here in Albemarle County, may pay each of its members an annual salary that is consistent with the salary of procedures and no more than the salary limits provided for by local government bodies.  The school board has adopted the procedure currently used by the Board of Supervisors in setting its member salary pursuant to Virginia Code section 15.2, 1414-3. Specifically, the school board will establish the member's salary by affirmative vote annually between May 1st and June 20th, or 30th rather.  Before setting a salary each year, the board is required to hold a public hearing and provide notice as specified by Virginia Code Section 15-2, 1426 and 1427. If the salary increase is approved by an affirmative vote, then the increase will take effect on July 1st.  Currently our school board members receive an annual salary of $6,907. The current chairman's stipend is an additional $1,800 annually, and the vice chairman receives a stipend of $35 per meeting chair. Typically, the school board increases its salary by the same increase provided to classified staff.  If the board follows the same increase as classified, then the salary beginning July 1st, 2021 would be $7,183. So what we need to do in a motion tonight would be to direct the board clerk to advertise for public hearing a school board member salary of $7,183 with a chairman stipend of 1,800 and a vice chairman stipend of $35 per meeting chair.  We need a motion to that effect.",
+    "speaker": "grahampaige",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "policy_proposal",
+      "request_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5561.835,
+    "end": 5573.881,
+    "text": "I move that we direct the board clerk to advertise for public hearing a school board member salary of $7,183 with a chair stipend of $1,800 and a vice chair stipend of $35 per meeting chaired.",
+    "speaker": "judyle",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "policy_proposal",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 5577.73,
+    "end": 5600.94,
+    "text": "Second.  Okay, moved by Ms. Lee, second by Ms. DelCaro, that our board clerk be advertised to, or be authorized, rather, to put out that advertisement. So is there any discussion on the motion? If not, Ms. Johnson, please call the roll.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "vote_call",
+      "request_action"
+    ]
+  },
+  {
+    "start": 5601.801,
+    "end": 5604.604,
+    "text": "Ms. Osborne? Yes. Mr. DelCaro?",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5605.165,
+    "end": 5605.445,
+    "text": "Yes.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5606.106,
+    "end": 5613.295,
+    "text": "Dr. Acuff? Yes.  Ms. Lee? Yes. Mr. Oberg?",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "vote_call",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5614.496,
+    "end": 5614.776,
+    "text": "No.",
+    "speaker": "kateacuff",
+    "tags": [
+      "disagreeing"
+    ]
+  },
+  {
+    "start": 5616.458,
+    "end": 5617.238,
+    "text": "Mr. Page?",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 5618.159,
+    "end": 5618.419,
+    "text": "Yes.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "agreeing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5620.121,
+    "end": 5620.922,
+    "text": "Motion carried.",
+    "speaker": "jenniferjohnston",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5621.762,
+    "end": 5635.295,
+    "text": "All right, so the motion carries in about a vote of five to one. Do we have any other business by board members or by the superintendent?",
+    "speaker": "grahampaige",
+    "tags": [
+      "logistics_info",
+      "procedural_move",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 5635.315,
+    "end": 5652.374,
+    "text": "I would just like to ask Dr. Hawes about  the comments one of our public commenters made about performing arts and drama. Will those rules be changed for the fall? How is that going to work? And if you don't know yet, you can let me know. Let us know.",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "defer_to_expert",
+      "request_action",
+      "clarify"
+    ]
+  },
+  {
+    "start": 5653.155,
+    "end": 5656.319,
+    "text": "Yes, ma'am. We'll do some research on that and get back to you. Thank you.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "acknowledge",
+      "agreeing",
+      "reassure"
+    ]
+  },
+  {
+    "start": 5656.88,
+    "end": 5658.442,
+    "text": "Thank you. Thank you.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5659.843,
+    "end": 5662.947,
+    "text": "I did not have other business than what was on the agenda.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5665.59,
+    "end": 5691.972,
+    "text": "Okay. Any other business from any other board members?  Okay, if not, we thank you all. We thank Ms. Leila Barnes for being our student rep for tonight. We thank all of our people who presented tonight. And so we are adjourned on this May 13th meeting. Thank you all. Thank you.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "acknowledge",
+      "procedural_move",
+      "logistics_info"
+    ]
+  }
+]

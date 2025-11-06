@@ -1,0 +1,2145 @@
+[
+  {
+    "start": 1.587,
+    "end": 22.715,
+    "text": " All persons having business before the Honorable Chief Judge and Associate Judges, now presiding over the District of Columbia Court of Appeals, draw near and give your attention. God save this United States and this Honorable Court. This Honorable Court is now in session. Please come to order.",
+    "speaker": "Unknown",
+    "tags": [
+      "court_opening",
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 28.437,
+    "end": 196.592,
+    "text": "Good morning.  Council, and thank you. As you all are aware, the COVID-19 pandemic has required our court to make adjustments in order to ensure that we can continue to hear cases for oral argument. And so we thank you for your patience in working with us on the Zoom remote oral argument. And the court staff have made every effort to prepare us, but  In the event of any technical difficulty, we ask your patience as we try to work through this for our arguments today. I wanted to remind counsel of the court's order dividing argument today into three different segments. The first segment will focus primarily on Iron Vine and second factors appeal from the judgment in favor of  Signicom on its tortious interference claim. In this segment, Ironvine and Second Factor shall be allotted 15 minutes, which they may divide between them as they see fit, including any time they choose to reserve for rebuttal. And Signicom shall be allotted 15 minutes. During the second segment, the focus will be primarily on Ironvine's appeal  from the judgment in favor of Signicom on its breach of contract claims. In this segment, Arnvine shall be allotted 10 minutes, including any time it chooses to reserve for rebuttal, and Signicom shall be allotted 10 minutes. And then in the third and final segment of the argument today, we'll focus primarily on Signicom's cross-claim, excuse me, cross-appeal from the dismissal of its civil conspiracy claim.  In this segment, Signicom shall be allotted 10 minutes, including any time it chooses to reserve for rebuttal. And Iron Vine and Second Factor shall be allotted 10 minutes, which they may divide between them as they see fit. And I'm Chief Judge Blackburn Rigsby, and I'm joined on the panel today by Judge Stephen Glickman and Judge Anthony or Tony Epstein, who is sitting by designation from our DCE.  Superior Court. So with that, good morning. And I would ask counsel to please state their names. Identify yourselves as we begin in the matter of Ironvine Security LLC versus Signicom Incorporated. Good morning, Your Honor.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "court_opening",
+      "court_procedural_remark",
+      "time_management",
+      "case_transition",
+      "judge_procedural_directive"
+    ]
+  },
+  {
+    "start": 196.672,
+    "end": 202.555,
+    "text": "Terry Roberts, and I represent Ironvine Security LLC. Good morning.",
+    "speaker": "terrellrobertslll",
+    "tags": [
+      "fact_statement",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 203.522,
+    "end": 225.307,
+    "text": " And good morning, Madam Chief Judge. This is Barry Coburn. I represent Appellant Second Factor. And I just wanted to let the court know that with respect to the two segments in which Mr. Roberts and I will be dividing time, we will, with the court's permission, divide it equally. And I'd like to reserve two minutes each in the first segment for rebuttal, if possible.",
+    "speaker": "barrycoburn",
+    "tags": [
+      "court_procedural_remark",
+      "time_management",
+      "reserve_time",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 226.067,
+    "end": 226.467,
+    "text": "Thank you.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 228.187,
+    "end": 232.148,
+    "text": "And I would like to reserve one minute, Your Honor, for rebuttal.",
+    "speaker": "terrellrobertslll",
+    "tags": [
+      "reserve_time"
+    ]
+  },
+  {
+    "start": 232.969,
+    "end": 237.995,
+    "text": " Okay, thank you. Are you ready to proceed? Yes. Thank you.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_question",
+      "acknowledge",
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 239.457,
+    "end": 291.497,
+    "text": "Yes. In this case, Your Honor, the court erred by not granting the motion for judgment on the tortious interference claim. Tortious interference, excuse me, has four elements.  First element is an existence of a contract. Second, defendant's knowledge of the contract. Third element is intentional procurement of the contract's breach. And the fourth element is resulting damages.  Our argument today will focus on the third and fourth elements. The evidence was legally insufficient to prove that there was a breach of the employees non-compete agreements, and the evidence was insufficient to prove that the conducted issue was improper, which really means not legally justified.",
+    "speaker": "terrellrobertslll",
+    "tags": [
+      "opening_argument",
+      "substantive_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 293.69,
+    "end": 339.326,
+    "text": " Mr. Roberts, may I ask you a threshold question? Yes, Your Honor. Signicom argues that these claims of insufficiency of the evidence are waived because the motion for judgment as a matter of law in some cases was not made regarding those claims even before the verdict, but in any event, no motion at all  was made under Rule 50B following the verdict. There's a lot of case law that Signa Com has cited in support of the argument that that's a waiver of the sufficiency of the evidence arguments. How do you respond to that?",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 339.826,
+    "end": 397.111,
+    "text": "Yes, Your Honor. First of all, the rule  that we're dealing with here is rule 50 be the rules of the spirit court. We're not dealing with the federal rules of evidence. So the decision cited by Sigma com is a Supreme Court decision entitled to significant weight but it's not absolutely controlling.  The rules have to be construed justly. And in this particular case, it was quite clear, made quite clear by the trial judge, that he was not going to entertain any motions, post-trial motions. This has been explained in our reply brief at length, citing to the record. Made it clear that the only redress that was possible now was to take it up on appeal. And this, the judge said quite clearly.  So in fact, when counsel- I don't know that the judge said that he would not entertain any post-trial motion.",
+    "speaker": "terrellrobertslll",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "record_reference",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 398.031,
+    "end": 413.857,
+    "text": "And I would also point out that as to some of your arguments, they were not even the subject of a Rule 58 pre-verdict motion for judgment as a matter of law.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 414.358,
+    "end": 417.759,
+    "text": "Well, I think I have to know which arguments you're talking about, Your Honor, but-",
+    "speaker": "terrellrobertslll",
+    "tags": [
+      "hedge",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 420.475,
+    "end": 436.602,
+    "text": " For example, the question of whether the conduct was improper, I think, or not improper, I think, turns into a justification question. And I'm not sure that was the subject of a Rule 50A motion. But even if I'm wrong about that, there's the Rule 50B problem.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment",
+      "legal_citation",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 437.503,
+    "end": 470.451,
+    "text": "There's a Rule 50B problem. However, I believe that the court can't entertain the motion on appeal, that it wasn't waived. And the reason it wasn't waived is that  I believe the lower court conduct in this case, in effect, created a situation in which counsel reasonably determined that such a motion would be futile and that it would probably incur the wrath of the judge.",
+    "speaker": "terrellrobertslll",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "hedge"
+    ]
+  },
+  {
+    "start": 471.731,
+    "end": 530.851,
+    "text": "Mr. Roberts, if I could briefly interrupt just to pressure a little bit more on this Rule 50B motion.  While there is the Supreme Court precedent, we also have a case in this court that I think is on point with respect to the requirement to file the Rule 50B post-trial motion. And that's Washington Investment Partners versus SEC House. It's a 2011 case from this court. And under very similar procedural posture, we determined that the claim was waived because the appellant failed to file  post-trial motion under Rule 50B. So I guess if anything, if we're not persuaded by the waiver argument, shouldn't our review of your claims here be limited to those that were raised in the status conference before the post-trial verdict?",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_interruption",
+      "legal_citation",
+      "court_procedural_remark",
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 531.531,
+    "end": 547.751,
+    "text": "Well, Your Honor, I think  The situation is different. Here we have a situation where the trial judge is actually telling counsel that he is not going to entertain any further motions. It's quite clear.",
+    "speaker": "terrellrobertslll",
+    "tags": [
+      "substantive_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 548.712,
+    "end": 553.435,
+    "text": "That's never stopped some persistent lawyer. Well, it may not. It may not.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_comment",
+      "hedge"
+    ]
+  },
+  {
+    "start": 553.675,
+    "end": 565.859,
+    "text": "It may not. But in this case, it stopped counsel for both parties.  And I think what you're positing if I may, just to be sure I understand this.",
+    "speaker": "terrellrobertslll",
+    "tags": [
+      "hedge",
+      "fact_statement",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 566.099,
+    "end": 618.011,
+    "text": "Yeah, you are positing that Council were aware of rule 50 be and aware of the, the general requirements.  did not file even a protective rule 50 be motion that simply said, Judge, you know, we know you want to, you know, we know you don't want to hear from us anymore. But, you know, the law is the law, we have to protect ourselves. And we're reasserting our, our 58 claims. And by the way, Judge, you know, you  you know, with a little reflection, perhaps you'll change your mind. And it seems odd to me to think that council engaged in that kind of thought process. It seems to me more likely that council overlooked the Rule 50B provisions. Perhaps.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 619.192,
+    "end": 756.356,
+    "text": "But  We don't know that. He's not here. But in any case, the point is, was there prejudice here as a result of this? And in this particular case, the motions were made during the trial. Cigna Com had a full opportunity to hear all the points made in these motions. And so,  What is the prejudice to Signicom? Zero.  because by not filing a post-trial 50B motion. These precise points were made, heard by the trial judge, made it clear he wasn't going to hear them again. But they were fully made out in the trial. So where is this? This is an error on the part of the judge to basically lead counsel down the road of saying,  Essentially, you don't have to file this motion because your only redress is to go to the appeals court. That in itself is an error by the trial judge in misleading counsel. In any case, that kind of thing should not result in a waiver of the right to question or to raise the issue of the sufficiency of the evidence.  So that's my point there. But what I wanted to, perhaps I should address the merits with respect to these issues. First of all, with respect to tortious interference, as the court knows, the contract says that there has to be an active competition by the employer  That is, if the employee goes and gets new employment, that employer must be active competition for a government procurement with Signicom. Clearly, there was no evidence of that. Signicom didn't introduce any evidence that there was competition for a government procurement with Ironvine.",
+    "speaker": "terrellrobertslll",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "fact_statement",
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 757.217,
+    "end": 776.894,
+    "text": "I'm sorry.  I mean, what Ironvine was trying to do was to take away the business that Signicom was doing under the subcontract. So weren't they competing for the business that Signicom was doing?",
+    "speaker": "judgeepstein",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 777.714,
+    "end": 783.115,
+    "text": "Well, the contract says competing for a government procurement.",
+    "speaker": "terrellrobertslll",
+    "tags": [
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 784.196,
+    "end": 827.207,
+    "text": "Well, but doesn't, in the same vein, and I'm sorry if I  Sure. Interrupted you. Signicom had some special proprietary relationship. Maybe proprietary is not the right word, but they did have some special relationship in developing the software or the type of work that they were doing, such that even if they didn't have an actual government contract, it wasn't necessarily unreasonable  for them to expect that they would continue in this special relationship with the, the main contractor in the State Department in terms of the work that they were doing.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_comment",
+      "judge_interruption",
+      "hedge",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 827.868,
+    "end": 845.939,
+    "text": "Right. I apologize, please forgive me for interrupting. Madam Chief Judge I just wanted to note that Mr. Roberts and my time on the counter I believe is being counted together.  And he appears to be about 10 minutes in now. And so I just wanted to I'll still have my five pre rebuttal minutes if that's possible.",
+    "speaker": "barrycoburn",
+    "tags": [
+      "judge_interruption",
+      "time_management",
+      "reserve_time",
+      "acknowledge",
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 846.72,
+    "end": 863.034,
+    "text": "Yes, you will and and we will, as we try to grapple with the  sort of the complexities of this case, we may go a little bit over time, but we'll try to be respectful of the allotted time we indicated each of you would have.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_comment",
+      "judge_procedural_directive",
+      "time_management",
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 863.095,
+    "end": 930.373,
+    "text": "Thank you, Your Honor. And I'm sorry, I don't have a counter here to keep me reminded. Thanks, Ms. Coburn. But in any case, Your Honor, I think the important point here is that under Virginia law,  These kind of covenants are regarded as disfavored as a restraint of trade, and there'd be narrowly construed. And so, if you are to follow that principle. I believe that is quite reasonable.  for Ironvine to think that they are not inducing any employee to violate the contract. And clearly, that's another aspect here is that Mr. Geimer acted in complete good faith in his belief that he was not violating the employee's contract because there was no competition for a government procurement between these two parties.  During the right the record. Mr. Roberts, may I press you on this because with two points I want to make and although it may well be the case that Mr. Coburn was planning to address this but I'll raise it with you because it's come up.",
+    "speaker": "terrellrobertslll",
+    "tags": []
+  },
+  {
+    "start": 931.743,
+    "end": 1024.223,
+    "text": " First, with regard to your argument that Ironvine was not competing for a government procurement with Signicom, I think my impression is that is not an argument that was made even in a Rule 50A motion. In other words, you did not move, if I understand correctly, even before Vernon.  for judgment as a matter of law on that ground. Am I wrong about that? That's my question. I think you may be wrong about that. OK. And my second, and Mr. Coburn, if you, Mr. Roberts obviously is standing up there. I can't put his finger on the page. But if it's something that you can point to, that would be helpful. Second, to the extent that you're arguing the unenforceability of the employees  which I think is what you were alluding to. The unenforceability of the employee's non-compete agreements. My impression is that this was not an argument made to the trial court and that while it is not weighed, I don't think it is weighed because it is a pure legal argument, not based on facts. You are subject to essentially the requirements of plain error.  review, which are pretty stringent in the civil area. And I wonder if you can meet those requirements.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "judge_procedural_directive",
+      "legal_citation",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 1025.348,
+    "end": 1037.33,
+    "text": " I believe it is plain error, Your Honor, because it's quite clear that if you're going to construe these contracts narrowly, we don't have any evidence that these agreements were breached.",
+    "speaker": "terrellrobertslll",
+    "tags": [
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 1037.83,
+    "end": 1067.276,
+    "text": "Yeah, but what you've got to argue is that it was plainly erroneous for the trial judge, Sue Esponte, to recognize that under Virginia law, the breach of the non-compete provisions of the employee's contracts  were clearly illegal. I think that feels like a hard sell to me when none of the parties raised this to the court.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment",
+      "substantive_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 1068.477,
+    "end": 1086.212,
+    "text": "If it's OK with my colleague, Judge Glickman, could I ask that Mr. Roberts address that in his rebuttal time so that we could make sure that Mr. Coburn has his allotted time to make the arguments?  Would that be agreeable to you, Judge Glickman?",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_procedural_directive",
+      "reserve_time",
+      "judge_question",
+      "time_management"
+    ]
+  },
+  {
+    "start": 1086.593,
+    "end": 1089.358,
+    "text": "Of course. Thank you. All right.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "acknowledge",
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 1089.999,
+    "end": 1090.3,
+    "text": "Thank you.",
+    "speaker": "terrellrobertslll",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1091.847,
+    "end": 1200.666,
+    "text": " Thank you so much, Madam Chief Judge and may it please the court. I'm going to try to address squarely the questions that were posed to my colleague Mr. Roberts by Judge Glickman and also by Chief Judge Blackburn-Rigsby. I think that's probably the most productive use of my five minutes. So first, with respect to the question that Judge Glickman posed to Mr. Roberts about  whether or not these particular arguments were made to the trial judge at the close of the case in chief and at the close of all the evidence. I just want to confess to the court that I don't clearly remember that. I know the motions were made, but in terms of precisely what they encompassed, I apologize to the court for not being able to help you with respect to them.  whether or not those particular issues that were the focus of the colloquy just now were in fact targeted targeted pieces of those arguments. It's our view that, you know, that given that the overall the overall motions were made.  at both of those junctures, that what was said probably is going to be read to fairly encompass all the issues that are being addressed here. But I don't want to go too far out on a limb on that, because I want to confess to the court that I don't have a clear recollection of precisely what was stated in the record at those two junctures. I'd like to devote myself mainly just to two very discrete issues. One is with respect to the merits.  The facts, as I understand it, and I wasn't trial counsel, but as I understand it, the uncontested facts show that Signicom was terminated. Iron Vine had the right to terminate Signicom, and they exercised that right based on dissatisfaction with Signicom's performance. And as you're right, as- Wasn't there a little overlap in the timing there?",
+    "speaker": "barrycoburn",
+    "tags": []
+  },
+  {
+    "start": 1201.286,
+    "end": 1212.97,
+    "text": "In other words, they had made offers to some of Signicom's employees  prior to the termination of this.  of the contract. Am I right about that timing?",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 1213.45,
+    "end": 1234.002,
+    "text": "I did not think so. And I want to confess to the court that I probably don't have a perfect recall of every word in the record with respect to that issue. But my understanding was that in the key year, which I think is 2015, the termination was affected. And forgive me if I have this wrong, but it was affected in November and that the conversation.",
+    "speaker": "barrycoburn",
+    "tags": [
+      "concession",
+      "hedge",
+      "fact_statement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 1234.463,
+    "end": 1280.787,
+    "text": "I think you do have it wrong. I think the notice of termination was said  I want to say December 22. And a week before that, Ironvine and Second Factor sat down together and divvied up the seven or eight key Signicom employees. And was only that I'm asking you, couldn't the jury reasonably infer that  Ironvine decided to exercise its option not to extend the contract only after it had satisfied itself with second factor that it was going to be able to poach the employees that needed to continue to perform under the contract with SAIC and meet its obligations under its contract.",
+    "speaker": "judgeepstein",
+    "tags": [
+      "judge_question",
+      "disagreement",
+      "fact_statement",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 1281.117,
+    "end": 1363.145,
+    "text": " Well, Judge Epstein, I'm going to answer that question taking precisely the facts that Your Honor just posed, at least with respect. And there may be some ambiguity in the record. I'm not sure. But I'm going to take those facts and answer the question predicated on the proposition that what Your Honor said is strictly correct. So my suggestion to Your Honor is that the nature of the tortious interference that is alleged in the complaint  that is encompassed, as I understand it, in the pretrial statement and that was reaffirmed repeatedly by plaintiff's counsel during the course of the trial, is that there was an inducement of the employees to terminate their relationships with Signicom. And so even if there was some planning along the lines that Your Honor just delineated,  that occurred earlier, there's still nothing tortious, nothing wrongful that occurs vis-a-vis actual contact between second factor and the employees until after the contract is terminated. If that's incorrect, I want to beg the court's pardon. Like I said, I wasn't trial counsel. I don't have a sort of a perfect, you know, letter perfect memory of this, but that's my general understanding of what happened. And if that's true,  Then as a matter of law, there can have been tortious interference here, as I understand it. Now, of course, the plaintiff is trying to let me just let me just on appeal. I'm sorry, your honor.",
+    "speaker": "barrycoburn",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "hedge",
+      "record_reference",
+      "concession",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1364.786,
+    "end": 1432.25,
+    "text": "There was a finding by the jury that second factor conspired with Iron Vine to tortiously interfere with the employment contracts between Signicom and the seven or eight employees. But I don't believe that second factor  are used on appeal that there's insufficient evidence to support the finding of a conspiracy. So if the non-competes in the employment contract were legal and enforceable, and if second factor conspired with Iron Vine to violate that, and I understand the government procurement wrinkle that Mr. Roberts raised,  Why isn't that sufficient to put your client on the hook, even though, or even if, second factor didn't affirmatively approach any of the CignaComm employees?  Basically, they came to them presumably the jury inferred after I encourage them to do that.",
+    "speaker": "judgeepstein",
+    "tags": [
+      "judge_question",
+      "fact_statement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 1432.53,
+    "end": 1630.903,
+    "text": "Well, I'm so glad your honor asked that question, because what the count that I'm referring to here in the count that's an issue in segment one of this appellate argument is not the conspiracy count.  is the tortious interference count directly against our clients. And so with respect to tortious interference, at least as I understand the law, and I don't think there's any ambiguity about this based on all the cases that have been cited by both sides, in order to commit the substantive count, the substantive tort, as opposed to conspiracy, the substantive tort of tortious interference, second factor would have had to reach out to those employees because that's the crux of it. That's what constitutes the tortious interference. They would have had to reach out to them,  prior to the time, iron vine terminated sigma sigma com on the contract and there's no evidence in the record as I understand it that they did that, if I could be allowed just like I know I'm getting close to my five minutes I just wanted to speak to the waiver issue, because I do have some additional things to say on that and I'll be very brief with the courts permission, because I think they're, I'm, and again I think it was.  It was extremely helpful to the dialogue for Chief Judge Blackburn-Rigsby to cite the Washington Investment Partners case. I think that is a key case. And the distinctions in our record vis-a-vis that case are, I think, the key things to focus on here. So first, we have the hearing on April 12, 2018.  in which there is repeated suggestion to the court that there should be briefing. I mean, specifically by me. We'd like to brief this. There are a number of issues we'd like to brief, and the court says, no. I mean, emphatically. That's in the record at least two or three times. No, you had your opportunity when we talked about this during the course of the trial. You need to go across the street. We're done.  I mean that that kind of a dialogue on April 12 does not occur in Washington investment partners or any of the other cases that relies upon that's a critical distinction. There are a couple of other critical distinctions also. And this is just, you know, unfortunately, just kind of a one line in our brief, but I think it's critical that I highlighted in this argument, which is, if you look at the docket.  And the docket itself is a critical aspect of any appeal. It's the first item in any appendix. If you look at the docket entry for April 12, 2018, it specifically, and I looked at it again just this morning, it specifically states defendants argument for a directed verdict or judgment as of law, as of tortious interference is denied. So you have an on the record, unambiguous denial.  on April 12th, post verdict of the very motion, which the plaintiff is saying we should have made, which we all agree, I think can be made orally. And so the court construed us to having made it orally. And then the only other point I wanna note is, as my colleague, Mr. Roberts noted in his brief, there's a specific harmless error statute in the District of Columbia, which I don't think is addressed in these other cases, section 11-721E.  And this, from our standpoint, is, if anything, if there's any error with respect to raising it below, it's harmless error. And we think that the areas of error that we're highlighting are plain error and should be considered substantively by the court.",
+    "speaker": "barrycoburn",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement",
+      "record_reference",
+      "reserve_time"
+    ]
+  },
+  {
+    "start": 1631.923,
+    "end": 1678.131,
+    "text": "Mr. Coburn, may I pick up on something you just said? Please. If we posit that on April 12th,  The defendants here made certain arguments that should be considered oral judgment as a matter of law arguments. What precisely were those arguments? What did they encompass in your view? In other words, what specific claims were made?  Yep, you mean on April 12 you're on April 12 if you're if you're relying on that we are applying with rule 50 be that I want to know what you think you said on April 12 that that in terms of the claims that were covered.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 1679.463,
+    "end": 1817.933,
+    "text": " Absolutely. And, you know, I, I was, I spoke mainly to the verdict as to tortious interference visa v the verdict as the conspiracy with respect to second factor and Mr Shanley in the, you know, in terms of whether there's duplication there whether or not the lower number as opposed to the higher number.  should apply and so on so I'm not going to, you know, suggest to the court that you know with any degree of specificity, the kinds of arguments that we're making here with respect to, you know, legal insufficiency of the evidence as to tortious interference were made in any degree of particular detail.  to Judge Pui Lugo on April 12th. They weren't. I mean, what happened was, you know, I had a long list of items, including those that I had intended to make to him and I started out with my lead argument, and he essentially, you know, and I think we touched on  But I don't want to suggest to the court that I think we made it, and certainly the same kind of detail that's advanced in our briefs, but you know he essentially and this is, we thought, you know, is within his discretion. He shut it down. I mean and it couldn't have been more explicit, it just couldn't have been more explicit.  He said no, no more conversation I mean he interrupted one of the lawyers I'm not suggesting any propriety there he's got the right to do that but I mean it was emphatic. I've read that transcript now three or four times with exactly an eye to the very issue that Judge Glickman just raised.  I just don't think under those circumstances that it would be reasonable for a lawyer to disobey an explicit order of the trial court and go ahead and brief these issues, particularly when the docket indicates that there was a post-verdict ruling with respect to specifically the issue we're talking about here. So I'm not suggesting to the court that this was an optimal scenario. It's not. And I know that when what's behind Judge Glickman's question is the notion of like, did the  trial court have a full and fair opportunity to consider the merits of the insufficiency arguments that are being made here, which seems to me absolutely the appropriate thing to be focusing on. But under these special circumstances, it seems to me that it would not have been reasonable or appropriate to expect the lawyers at that hearing to follow up with briefs, given that we were specifically forbidden from doing so. All right.",
+    "speaker": "barrycoburn",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "court_procedural_remark",
+      "concession",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 1818.253,
+    "end": 1843.305,
+    "text": "Thank you, Mr. Coburn.  We'll hear from counsel for Cigna Com. And you've been allotted 15 minutes. As you can see, we've had a few glitches with the time clock here. So I'm trying to roughly adjust the time that each side has for their arguments. How did Cigna Com counsel plan to divide up the arguments, if at all?",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "acknowledge",
+      "case_transition",
+      "time_management",
+      "court_procedural_remark",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 1844.305,
+    "end": 1970.038,
+    "text": "Thank you, Your Honor. This is Bob Wagman on behalf of Cigna Com. I'm going to speak on behalf of Cigna Com here in this case.  Mr. Heidi's just here to help me out. Okay, thank you. May it may please the court. Um, obviously, the court has the benefit of our briefs, but I want to highlight three reasons why this court should affirm the judgment below. First and foremost, appellants got their day in court. Three judges on the Superior Court determined there were tribal issues for the jury to resolve. This case was, in fact, tried to a jury jury returning unanimous verdict on all issues presented to it. Importantly,  None of the instructions given to that jury have been challenged before this court. None of the evidence presented to that jury has been challenged before this court. The verdict form used by that jury was, in fact, agreed to in advance by the parties. And again, it has not been challenged before this court. This is not one of those exceptional cases where three judges and seven jurors reached a conclusion that no reasonable person could have reached. Rather, this is simply a case of appellants disagreeing with the outcome here after they had the opportunity to fully present their case.  So mere disagreement with the jury is no basis to overturn the jury's verdict. Now, even if this court were inclined to second guess the jury, that brings me to my second point, which is none of the appellant's claims are properly before this court. The price of admission for presenting claims to this court is properly presenting those to the trial court in the first instance and properly preserving those claims and present them here. Now, appellants,  frame their disagreement with the jury in terms of sufficiency of the evidence that we've touched on already briefly, that runs right into Unitherm and its progeny saying basically the failure to provide a 50B motion or failure to submit a 50B motion after the jury comes back, not only is not proper, but the Supreme Court said it divests an appellate court of considering a sufficiency of the evidence argument.  We're exactly at the same point here in this case, where unquestionably, they did not submit a 50B motion after the jury returned its verdict.",
+    "speaker": "robertwagmanforcyg",
+    "tags": [
+      "opening_argument",
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 1970.398,
+    "end": 2006.602,
+    "text": "Suppose after the defendant said, well, let us submit a brief, and Judge Pulido said, no, you got your redress in the Court of Appeals. Go across the street. And then the defendant said, well, not even a Rule 50B motion?  Is there really any question but that Judge Lugo would have said, read my lips. I said, I'm not going to reconsider any rulings I've made before. We've been around that block. Three judges have been around those blocks. We're done in this court to take it to the Court of Appeals.",
+    "speaker": "judgeepstein",
+    "tags": [
+      "judge_comment",
+      "judge_question",
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 2008.567,
+    "end": 2082.569,
+    "text": " That's not what Judge Quigley said. I understand that, but is there any question that he would have if they would have said, you said we can't file any post-trial motion, does that include Rule 50 motion? The only case we could find addressing that sort of scenario is the Belk case out of the Fourth Circuit, where they said we should be excused from filing the 50B motion because the judge was hostile and was not going to entertain a motion.  And the Fourth Circuit said, and I'll just quote real quickly, a lawyer has a duty to preserve issues on the record for his client. Rule 50B inherently accommodates such potential deterrence to filing, providing counsel with a period of time in which to detach from the pressures of trial to reflect and to carefully consider whether to file a motion for judgment as a matter of law without obtaining the judge's permission to file. So we have not found any precedent standing for the proposition that, you know,  If the judge is hostile to a 50B motion, it excuses you from your obligation to file it. I think that's- Mr. Wegman, can I ask what the practical impact or any prejudicial impact on you may have been by their failure to file a 50B motion here?",
+    "speaker": "robertwagmanforcyg",
+    "tags": [
+      "legal_citation",
+      "substantive_argument",
+      "fact_statement",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 2083.069,
+    "end": 2112.421,
+    "text": "They filed a 50A motion at the close of all the evidence. Even if you are correct on  why our cases have typically required the filing of a 50-B motion before appeal. Can you tell us what difference, what practical difference it makes here and how SigniCom may have been prejudicially or negatively impacted by their failure to do so?",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_question",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 2113.481,
+    "end": 2173.946,
+    "text": "Sure. I'd like to start with, it's not our obligation to show prejudice. We think the Supreme Court established a clear, bright line  that it's an absolute price of admission that you've got to file your 50B motion in the first instance. To the extent there is any prejudice, we're deprived of the trial court's ability, the trial court's impression of the evidence as it came in. As the Supreme Court said in Unitherm, the requirement for a timely application for judgment after verdict is not an idle motion because it's an essential part of the rule firmly grounded in the principles of fairness. So for example,  That's also based on other Supreme Court precedent. Talking about the trial court is there to observe the evidence, to observe the witness as it comes in, in context, in a way that no written transcript could possibly impart on an appellate court. So we don't have the input from the trial court basically saying, I've considered all this. I've considered the jury's verdict. Does this rise to a level of something we should overturn?",
+    "speaker": "robertwagmanforcyg",
+    "tags": [
+      "opening_argument",
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 2174.827,
+    "end": 2182.759,
+    "text": "Is that true that we don't have the trial court's input with regard to those particular issues?  that were the subject of Rule 50A motions?",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 2184.2,
+    "end": 2217.692,
+    "text": "You certainly have some input, but we don't have a more fulsome record of why. For example, the issues they presented here, if they presented a full 50B motion, you could get the trial court's interpretation of the evidence as it came in. I mean, there's some snippets of that in his rulings on the 50A motion, but I don't think you get a fulsome, complete understanding of what happened during a trial.  And again, going back to the requirements of 50B. So doesn't this go to the harmlessness, some type of harmlessness analysis here?",
+    "speaker": "robertwagmanforcyg",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 2220.634,
+    "end": 2247.288,
+    "text": "Because we can get some of it, as you just said, from the filing of and the trial court's ruling on the 50A motion. Maybe we don't reach all of the issues or get the fulsome reasoning of the trial court on all the issues.  Which particular issues most adversely impact you at the failure of the filing of a 50B motion?",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_comment",
+      "judge_question",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 2249.429,
+    "end": 2372.142,
+    "text": "I don't know I could identify a particular argument where they've raised on appeal that they didn't raise sufficiently below or raising the same level of detail below. Certainly, you've heard a lot of discussion about, you know,  what the jury possibly could have considered, not considered. Certainly the judge was there in the courtroom. He could see that the evidence that we presented, their counter evidence, they could see how the jury resolved those differences. They were all resolved in our favor. You don't get the benefit of the trial court's input on the full record in terms of credibility, whether or not certain actions could be believable or not believable. I mean, I'm happy to sort of walk through appellants,  how they've sort of changed their view of the facts throughout the life of this litigation. So it was real easy for the jury not to believe a balance when they told their stories and gave their excuses for why it is they shouldn't be held accountable. So I think you lose the benefit of that from the trial court who actually was in the room, heard the evidence as it came in, heard it in context. And going back to rule 50B just establishes a clear, bright line. I agree some rules of civil procedure provide certain amounts of discretion,  Rule 50B is pretty airtight, that it's a clear, bright line. Everybody knows about it. You've got ample time after judgment is entered, so it's not lost to the vagaries of trial. You have time to do a calm, considered, thoughtful approach to whether or not you want to file a motion for judgment as a matter of law after the jury returns its verdict. And the requirement that the trial court first pass on that is just a price of admission before the appellate court can pass on that.  Well, there are advantages, certainly, in having the opportunity to reflect over the entire trial and file a more thorough sufficiency argument or set of sufficiency arguments than could be assembled during the trial and that the judge could have in his or her mind.",
+    "speaker": "robertwagmanforcyg",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "concession",
+      "fact_statement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 2372.922,
+    "end": 2539.07,
+    "text": "Let me ask you, if I could, about a different matter. And this goes under the category of  my concerns about double recovery here, and my concerns about understanding what I think is a somewhat confusing judgment with regard to the damages that were awarded. One question, it seems to me that, I'll posit to you, that the damages, regardless of what count it was, the damages that Signicom  asked for and proved, the only damages that Signicom asked for and proved, were lost profits on the Vanguard contract. Now, it seems to me that there's an overlap, and this is what I want you to explain to me, between the, there's really two overlaps, or maybe three overlaps. First of all, there's an overlap, it seems to me, between the,  damages on count nine, the tortious interference damages, and the damages awarded on breach of contract, such that if SignaCom got both those damages, it would be more than fully compensated. Second, the second overlap I was referring to is that it seems to me  is not only an overlap, but an inconsistency between the damages on count nine, the tortious interference count, and the damages on count 10. Now, I realize there's a third defendant in count 10, a conspiracy to tortiously interfere count. I realize there's a third defendant on count 10, who I guess is not encompassed in count nine, but I don't understand that to explain it.  And if you want, we can discuss why I think there's an inconsistency there. I don't understand why those damages weren't exactly the same. And then, of course, there's the conflict which the court, or not conflict, excuse me, the duplication the court acknowledged between the breach of contract damages and the damages on count 10.  Can you explain these different damages and my confusion? I certainly do not want to see compensatory damages awarded and collected that exceed, that are more than necessary to make Signicom whole, if you take my point.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 2539.89,
+    "end": 2629.306,
+    "text": "Sure. So let me start with, we proved up damages. So first of all, Signicom is a professional services organization. There was plenty of evidence presented at trial. In fact, a lot of the defendants put at issue  but our ability to find other jobs for the individuals that were currently working on the State Department contract. So it's not as though these employees could only perform on the State Department. There were many other opportunities out there that we had for them. Some we had existing contracts we could have placed them on right away. Some we had, there were other things in the works that we're working on getting in, placing these people in other positions. Again, part of what you have to remember is on December 15th,  We get a phone call saying, hey, we plan to terminate the contract as of February 8th. We don't find out until two weeks later because appellants basically told all the employees keep it quiet until Ray gives the thumbs up that you give your notice. So in this interim period, we are looking to place all the employees on different contracts. We have some that are, we need your resume right now because we got an existing contract we can put you on. Some we've got some opportunities to get you on. Some we've got, you know, there was testimony offered.  again, put in by the defendants about the FBI contract that we currently had, there may be opportunities to expand our work there. So it's not that these employees could only perform on the State Department contract. And furthermore,  Suppose, let me just ask you a follow-up.",
+    "speaker": "robertwagmanforcyg",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "rebuttal_argument",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 2629.906,
+    "end": 2651.343,
+    "text": "Suppose there was evidence that they could have worked on other contracts. What evidence does Cinecom present that would have enabled a jury to conclude with reasonable certainty that the profits from those other contracts were, by amazing coincidence, exactly identical to the lost profits on the State Department contract?",
+    "speaker": "judgeepstein",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 2653.162,
+    "end": 2677.993,
+    "text": " I don't think we presented any evidence showing exactly the same, but I think our burden is only to show that there's a reasonable approximation. I think it's wholly appropriate to use the profits they were earning on the State Department contract as a proxy for what they could earn in the industry. There's no evidence suggesting what we were earning on the State Department was anything different than we could be earning elsewhere.  Well, then there's double-counting too.",
+    "speaker": "robertwagmanforcyg",
+    "tags": [
+      "substantive_argument",
+      "concession",
+      "rebuttal_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 2678.013,
+    "end": 2723.572,
+    "text": "Then there's double-counting too under that theory. Because what you're saying is, not only are you entitled to damages if those employees had not been poached because they would have worked on the State Department contract, you're also saying, well, and what's more, we could have put them on different jobs.  we're entitled to those damages too. The problem with that theory, it seems to me, is an employee can only work on one job. So you can't say, well, for every possible job the employee could have worked on, we're entitled to damages.  There's only so many hours in a day. I agree with that, Your Honor.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment",
+      "rebuttal_argument",
+      "substantive_argument",
+      "agreement"
+    ]
+  },
+  {
+    "start": 2723.592,
+    "end": 2745.088,
+    "text": "However, there's also, again, these employees weren't necessarily dedicated to the State Department. So Signicom, over time... The premise of the damages is that they would have been working full time and Signicom would have been getting full time at the State Department and Signicom would have been getting the benefit of that.",
+    "speaker": "robertwagmanforcyg",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "rebuttal_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2745.629,
+    "end": 2761.21,
+    "text": "Well, if that's the premise, then you can't say, and in addition,  we should get more damages because we could have taken them off the State Department job and put them on some other job. That doesn't make any sense. Or am I missing something?",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment",
+      "judge_question",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 2761.53,
+    "end": 2780.767,
+    "text": "Well, I think the point is we have the- Also, I don't think this was argued to the jury. I don't believe it was either. And I believe the verdict form coming out with different amounts for the tortious interference in the breach of contract shows it wasn't duplicative.  In fact, the trial court expressly said it was different harm than he was awarding the amputation.",
+    "speaker": "robertwagmanforcyg",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "fact_statement",
+      "hedge",
+      "disagreement"
+    ]
+  },
+  {
+    "start": 2780.947,
+    "end": 2818.234,
+    "text": "Isn't there another problem with the damages in addition to this sort of duplicative or double counting issue? And that's the issue of the evidence. Some of the evidence that the jury heard was that Cignacom termination was the result of some of its performance issues.  And if that's the case, what evidence was there to show that Cigna Com was reasonably likely to have secured five years of future work with the State Department given some performance issues that the jury heard evidence about?",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 2819.755,
+    "end": 2932.411,
+    "text": "Sure. So we presented evidence that we've been performing on the State Department for well over five years on the Vanguard contract, probably 10 years before that.  In addition, we also showed the suggestion that we had performance issues is actually a pretext. We presented evidence. Mr. Geimer, who's the president of Ironvine, admitted they never once invoked any of the remedies available under the contract. They never, ever had issues. When they talk about, you know, this only became an issue in 2015 when Mr. Shanley and Second Factor and Ironvine and Mr. Geimer got together and started looking for opportunities to take positions away.  from Signikon. At that point, they start talking about all these different problems that had never been a problem before. So for example, there was testimony about how they were talking to the State Department customer. We showed evidence that before 2015, we talked to the State Department customer all the time without any issue, and that was absolutely how things got performed, and nobody had a problem with it. So the jury certainly heard conflicting information about these supposed performance issues, and they resolved it against the defendants in this case.  Further, I think we showed evidence that this was an ongoing requirement. We had special technical expertise available to perform this work. This work was going to be an ongoing requirement for the State Department. By the time we got to trial, it had already been two years of performing. The defendants were performing with our employees for the past two years in between the time they took the employees by the time we got to trial with no end in sight. And in fact, there was testimony offered that they were in a really good position  for the follow on contract that they were expecting 2021, I believe, whatever the 10 year period was up. So I think at best, there is a dispute about that, which was clearly resolved by the jury against defendants.",
+    "speaker": "robertwagmanforcyg",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "rebuttal_argument",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 2935.052,
+    "end": 2958.724,
+    "text": "One thing I'm wondering about a lot depends on how we decide other issues as well, but whether it would be appropriate to remand for the trial court to determine  the appropriate damages allocation, especially, I suppose, if we void the breach of contract claims. But regardless, do you have a comment on that?",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2960.885,
+    "end": 2982.374,
+    "text": "Well, again, I think we made our prima facie case for both breach of contract and tortious interference. I don't see the damages being duplicative. Again, they didn't give us all the damages we were asking for under a breach of contract.  and they gave us different damages for the tortious interference. We do see that. Well, in effect, they gave you one year on the breach of contract.",
+    "speaker": "robertwagmanforcyg",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 2983.675,
+    "end": 3057.245,
+    "text": "The jury gave you, in effect, three years of lost profits. On the tortious interference claim, count nine, the jury, in effect, gave you, I think, one year of lost profits.  Now, I don't claim to understand what their thinking was, except perhaps they thought that if it was a question of just losing the employees, well, I'm not gonna try to speculate as to what they were thinking, but it's hard for me to believe that the one year is not subsumed within the three years. And so I'm wondering whether for that reason, and perhaps for some other reasons,  it would be appropriate to be manned and have the trial judge figure out how to allocate all of this. Particularly given the additional complexity that the breach of contract damages are only against Ironvine, but the tortious interference damages are against both the second factor and Ironvine together.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 3058.185,
+    "end": 3088.998,
+    "text": "I would suggest that that, you know, the trial court dealt with that in terms of establishing the verdict form.  Again, it wasn't objected to, it was agreed to by the parties. I think the trial court made an express determination this is compensating for different harm. There was plenty of evidence suggesting there was different harm. But you told the jury in your closing argument, if you think we're entitled, and I'm quoting, if you think we're entitled to the same damage for different conduct, please put the numbers down in both places on the jury verdict form.",
+    "speaker": "robertwagmanforcyg",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "record_reference",
+      "rebuttal_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3089.479,
+    "end": 3100.856,
+    "text": "We won't get double counted. We'll clean that up later.  But you're saying basically now, who knows? There's no way to clean it up later. We don't have to worry about it.",
+    "speaker": "judgeepstein",
+    "tags": [
+      "judge_comment",
+      "court_procedural_remark",
+      "judge_procedural_directive",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3101.377,
+    "end": 3119.786,
+    "text": "Well, I think that was going to the conspiracy claim, where they awarded the same damages for conspiracy as they did for breach of contract. We saw that as being duplicative. And the court did not award us those duplicative damages, whereas differently, he saw the tortious interference as being compensation for different harm. How do we know?",
+    "speaker": "robertwagmanforcyg",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "rebuttal_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3123.184,
+    "end": 3129.747,
+    "text": " And how do we keep the promise that you made to the jury that it's going to be sorted out after?",
+    "speaker": "judgeepstein",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 3130.707,
+    "end": 3174.421,
+    "text": "Well, one point I'd make is there is never any objection to that comment during closing arguments. Combined with the jury form was agreed to in advance by the parties, I think it's to the discretion of the trial court to figure out, was this for the same harm or was this for different harm? And he made an express determination on the record, this was for different harm. He did not see it as duplicative.  And again, that has not been challenged. So I don't see that that's properly here in terms of punching their ticket to properly present that claim. I mean, they say as a matter of law, this was duplicative. But as a matter of fact, he said expressly, this is not duplicative. This is, in fact, different compensation for different harm. On the April 12 hearing, he couldn't have been clear about saying that.",
+    "speaker": "robertwagmanforcyg",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "fact_statement",
+      "record_reference",
+      "disagreement",
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 3176.002,
+    "end": 3204.823,
+    "text": "All right. Mr. Wigman, unless there are any additional questions, I'm going to.  I think Ironvine reserved a couple of minutes for rebuttal. Is that correct? Yes. And again, I have to ask for everyone's patience. I think given that we've had the argument in several segments, our clock is a little bit off. So we're doing the best that we can to try to keep track of the time here.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_procedural_directive",
+      "judge_question",
+      "reserve_time",
+      "time_management",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 3205.876,
+    "end": 3342.136,
+    "text": " Thank you, Your Honor. One thing is very clear here. Signicom did an about face and it's brief in terms of damages. It actually argued that it was that the damages for tortuous interference awarded by the jury was for a different harm.  Not the harm resulting from the breach of the Vanguard contract, but for a different harm. And they specifically say, quote, this is on page 33, the verdict is supported by evidence that Signicom would have earned profits on the lost employees by assigning them to other current and future projects. In fact, they didn't introduce any evidence  of specific damages with respect to those other current and future projects. They're trying to basically  indicate to the court that, yes, there was evidence to support those claims for different harm, but there really was not. They actually were awarded, as been referred to, three years on the breach of contract, three years of lost profits, and one year for another loss, for the lost profits on the Vanguard profit. There was never any evidence introduced, period, as to other  future and current projects that they could have put these employees to work at. So clearly they are stuck with that and it's telling that they have now tried to argue in this case that in fact the jury's award was for  lost profits or losses related to other and future projects, which was not the case at all. I would also say that it's somewhat baffling to me that in this particular case, although the non-solicitation clause or the, actually, I'm sorry, the non-compete clause is six months.  only good for six months after the termination, that they were awarded four years of lost profits, four years when you total the total verdict, which is totally excessive and really is a miscarriage of justice. All right, Mr. Coburn?",
+    "speaker": "terrellrobertslll",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "record_reference",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 3343.557,
+    "end": 3347.709,
+    "text": "You're on mute, Mr. Coburn.  You're on mute. Thank you.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_procedural_directive",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3347.789,
+    "end": 3442.698,
+    "text": "Yes. Thank you so much, Madam Chief Judge. And I reserve two minutes, but I can, with the court's permission, I can do it in one. That would be great. Given that Mr. Roberts just said what I had intended to say about the merits, I'm just going to address the waiver issue. Because I think it's telling that the plaintiffs rely so heavily on the Belk case, which is, of course, a Fourth Circuit case, not controlling, doesn't involve the same kind of harmless error statute that we have.  in the District of Columbia or necessarily the same kind of interpretation of what constitutes plain error, but in Belk. This is, at least according to my recollection, this is in the opinion it couldn't be more specific. There was discussion.  that there was going to be additional briefing, as opposed to what happened here, where, and I think it should be emphasized, you know, my argument at least I'm not just relying on, like, sort of the expression of hostility by the trial judge I didn't really think the trial judge was you know kind of quote unquote hostile. I thought he was clear as a bell.  I mean, he just couldn't have been more emphatic after he was asked like something like three times, once by Mr Wagman, two or three times by me about additional briefing he said no, no additional briefing, take it across the street. We're done.  I mean, that combined with the fact that the docket entry specifically says that the additional motion that Mr. Wagman says we should have filed was made and denied. I mean, that would have created a situation in which if we filed something after that, we could have been sanctioned. And I just don't think it's it's fair for us to be held to a standard like that. That's all I have.",
+    "speaker": "barrycoburn",
+    "tags": [
+      "reserve_time",
+      "court_procedural_remark",
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement",
+      "rebuttal_argument",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3444.299,
+    "end": 3476.497,
+    "text": "All right, thank you.  All right, we're now going to move to segment two of the arguments today, which will focus primarily on Iron Vine's appeal of the judgment in favor of Signicom on its breach of contract claims. And in this segment, Iron Vine will be allotted 10 minutes, and whatever time they reserve for rebuttal on Signicom will be allotted 10 minutes. And Mr. Roberts and Mr. Coburn, did you still want to?  split the 10-minute time in half for this segment?",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "case_transition",
+      "time_management",
+      "reserve_time",
+      "judge_question",
+      "judge_procedural_directive"
+    ]
+  },
+  {
+    "start": 3477.558,
+    "end": 3492.63,
+    "text": "Well, for segment two, Madam Chief Judge, I don't think that second factor is in it at all, because that relates just to breach of contract. So I'm just going to remain silent for segment two. Then segment three, I have a little bit of time as the appellee. All right.",
+    "speaker": "barrycoburn",
+    "tags": [
+      "substantive_argument",
+      "disagreement",
+      "reserve_time",
+      "time_management"
+    ]
+  },
+  {
+    "start": 3492.79,
+    "end": 3558.616,
+    "text": "Thank you. Thank you, Your Honor. Again,  The court lower court aired by not granting the motion for judgment, made by iron vine on the breach of contract claim. Anything that's clear from the record. It is that iron vine consistently maintain that the  the breach here of the non-solicitation clause was not a proximate cause of the damages that Signicom was seeking, the lost profits. And Ironvine's argument was very clear. And that was, it had the unquestioned right under the contract not to renew the next option year under section 914 of the contract.  And it decided to exercise that right because it was dissatisfied with Signicom's management. I'll address more of that later. But my dates were off the first time.",
+    "speaker": "terrellrobertslll",
+    "tags": [
+      "acknowledge",
+      "substantive_argument",
+      "rebuttal_argument",
+      "legal_citation",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 3558.816,
+    "end": 3599.832,
+    "text": "The notice was provided on December 15.  not December 22nd and the meeting between Iron Vine and Second Factor was on December 11th, four days earlier. Why couldn't the jury reasonably infer that Iron Vine wanted to get comfortable that it could poach all of the key employees on the Vanguard contract  before it exercised its right to terminate. And if it didn't have a plan that it thought it could carry off to meet its wish list, what it called it in a later email, it wouldn't have exercised its right to terminate.",
+    "speaker": "judgeepstein",
+    "tags": [
+      "judge_question",
+      "fact_statement",
+      "record_reference",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 3600.752,
+    "end": 3629.582,
+    "text": "And clearly Ironbarn had a right to plan.  it had a right to protect its economic interest. Going back to November, your honor, November 2015, that's when the problem, that's when Iron Vine decided, according to the record, that it had to get rid of Signicom. Okay, but my question wasn't whether the evidence would have supported a verdict in favor of your client,",
+    "speaker": "terrellrobertslll",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "record_reference",
+      "concession"
+    ]
+  },
+  {
+    "start": 3630.67,
+    "end": 3655.183,
+    "text": " if you'd won, the question is why, the jury had that evidence, but why couldn't it conclude that the evidence that Ironvine and Second Factor had basically figured out a plan that permitted Ironvine not to extend the contract, and that's the reason why they didn't exercise, why they did what they did.",
+    "speaker": "judgeepstein",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 3655.283,
+    "end": 3711.69,
+    "text": "Well, here's the thing is because we're talking about contract rights here.  So Irvine has the unquestioned right to end the contract. Now, we can question motives all we want, but they had that right. And there was abundant evidence, abundant evidence that there was dissatisfaction with the performance of Signicom. And it's all laid out in the brief, but we have the ground rules which were established.  We have violation of those ground rules, in other words, by sending an email directly to the government. Signicom's top senior person sending an email directly to the government, November the 18th. We have the top people in Signicom going to the government. So I agree, but you're talking about the evidence you offered.",
+    "speaker": "terrellrobertslll",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "record_reference",
+      "concession",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 3711.73,
+    "end": 3714.752,
+    "text": "You're not talking about the evidence  that Signikom off.",
+    "speaker": "judgeepstein",
+    "tags": [
+      "judge_question",
+      "judge_interruption"
+    ]
+  },
+  {
+    "start": 3715.132,
+    "end": 3734.441,
+    "text": "I guess what the point goes back to this. The question really is, was there sufficient evidence that Ironvine would have, or rather that Signikom would have continued to earn profits under this contract? Because that's what it's all about. No, I think the question is really different in a way.",
+    "speaker": "terrellrobertslll",
+    "tags": [
+      "hedge",
+      "substantive_argument",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 3734.941,
+    "end": 3777.424,
+    "text": "The question is, was there significant evidence  that if Ironvine didn't plan, or Ironvine in second factor, did not plan to, and indeed do, a poaching job on Signicom's employees, if they thought they couldn't do that, would they have still terminated the agreement? The theory, Signicom's theory was, the reason they terminated the agreement that caused us all those losses is because they,  developed a plan and carried out a plan to approach our employees. Now, I understand that's not your view of the evidence, but the question is whether the jury could have viewed the evidence that way.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 3778.125,
+    "end": 3853.163,
+    "text": "Well, I understand what your point, Judge Clifton. But really, the point is, though, would they have earned profits? Because our point is the evidence really is  that there was no going, Ironvine made the decision to terminate Signicom's contract. There was no going back. If there was any evidence that they would have gone back and they couldn't have hired these folks, they would have gone back and said, you know, by the way, we're gonna let you have the contract back because we can't hire your people.  There was no evidence of that. In fact, it was quite clear that they didn't need these people. They could use other folks if they had to because this PKI technology was something that is out there in the public. They could hire other people to do that. So it's pretty clear from the evidence that they had made their decision to end this contract. Why cannot they rely upon the contract  their contract rights and do so.  Of course, people are going to plan for the next step. That's obviously what they're going to do. But that doesn't mean that they can't rely upon their contract right to end that contract.",
+    "speaker": "terrellrobertslll",
+    "tags": [
+      "concession",
+      "acknowledge",
+      "substantive_argument",
+      "rebuttal_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 3854.224,
+    "end": 3901.097,
+    "text": "But if the way they're relying on the contract is by deciding to violate the contractual obligation they had not to solicit Signicom's key employees on the Vanguard contract,  I mean, if that, you're talking, the causation argument is more about damages, but on liability, if the non-solicitation provision is enforceable, isn't it just as clear as clear can be that there was evidence that permitted the jury to find that Ironvine violated the non-solicitation clause. It clearly solicited employment from those Signicom employees.",
+    "speaker": "judgeepstein",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 3902.397,
+    "end": 3917.042,
+    "text": " I've got that. But the question is, would they have earned the profits? But for the breach, would they have earned the profits? The answer is clearly no, because Ironvine's decision was made to end the contract.",
+    "speaker": "terrellrobertslll",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3917.742,
+    "end": 3971.438,
+    "text": "OK, but Ironvine's president testified that these employees were irreplaceable and that, I'm using my word, I can quote  I'm just trying to remember, it was the person who, it was Mr. Bellow, testified that these employees had unique skills. And if Ironvine and Second Factor hadn't been able to hire them,  Ironvine would not have been able to perform under its contract with SAIC. It was contrary evidence, but the jury credited that evidence, and Ironvine had decided, I don't feel confident about our ability to hire these employees. Couldn't the jury reasonably infer that Ironvine would not have exercised its right to terminate the contract?",
+    "speaker": "judgeepstein",
+    "tags": [
+      "judge_question",
+      "fact_statement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 3972.351,
+    "end": 4016.39,
+    "text": " I understand your point. Yes, there was that evidence there, but I'm just indicating Ironvine that all everything the evidence indicated was they had the right to terminate the contract. So how can it be claimed that they would have continued to earn profits because they needed these folks. Well, the evidence was  from Ironbind is that they didn't. It really was not disputed. They said, look, this is a public form of technology. We can hire other people. There was even plans to hire other people. OK, but Mr. Bellow testified, and I'm quoting, so for our crimes to start doing this work themselves, they would have had to hire our people, close quote.",
+    "speaker": "terrellrobertslll",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "fact_statement",
+      "concession",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 4016.87,
+    "end": 4036.006,
+    "text": "If the jury credited that testimony and there was no objection  to the testimony, why couldn't the jury conclude that but for the violation of the non-solicitation clause, Ironvine would not have exercised his right to terminate the contract?",
+    "speaker": "judgeepstein",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 4036.867,
+    "end": 4064.641,
+    "text": "Because I believe the evidence is fairly clear on this. I mean, notwithstanding his testimony, the evidence is fairly clear that Ironvine had decided to end the contract before they spoke to any of these employees.  So it's quite clear. That's why. But here's the other point, if I could make this. Well, don't we have, on the same point, one of the cases out of Virginia on this whole issue?",
+    "speaker": "terrellrobertslll",
+    "tags": []
+  },
+  {
+    "start": 4064.661,
+    "end": 4177.795,
+    "text": "Yes. That Signicom, the fact that Ironvine says that they would have terminated Signicom even if they couldn't have  used Cigna comms employees. And, and that there seems to be strong evidence indicating that terminating the contract might not have been in as much of iron blinds interest if they couldn't also get Cigna comms workers who had special skills with the technology that there is evidence in the record about that. There is a Virginia case that pervert systems case consulting  which seems to indicate that if Signicom had a reasonable business expectancy, that they still should have been entitled to damages. And I'm not sure that your argument in response to Judge Epstein's questions about the fact that you were going to terminate them anyway totally  addresses the business expectancy argument. Because Signicom had some special skills, and their employees had some special skills with respect to this, I think you said PK or TK technology, that I'm not sure your argument goes far enough to completely eviscerate their right to business expectancy, irrespective of, even if we agree that you  Arnvine would have terminated them. Can you address that legal point about why? Because you'd have to be arguing essentially that not only were they going to be terminated, but that they had no reasonable business expectancy beyond when you ended the contract.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 4178.175,
+    "end": 4290.033,
+    "text": "That's true, Your Honor. And you're referring to the preferred system solutions case, Virginia. And in that case, the court pointed out, said there was no contrary evidence  that no contrary evidence that the company would not be able to make the profits. They point that out. Quote, no evidence was presented by GP that absent GP's move to Accenture, Accenture would have nonetheless moved the billet in question from PSS, end quote.  Now, here we have the evidence that there was just no question that Ironbine was not going to retain Signikov. That's the difference here. We had evidence, clear evidence, that they were not going to do so.  December 15th, they gave the notice that they were terminating this or not renewing this contract. That's a different situation. So that's clearly evidence that they were, that Signicom was no longer gonna have the opportunity to earn any profits on this Vanguard project. That's the distinction between the preferred systems solutions case and this particular case.  I also want to point out that even if you were to assume that they would be entitled to lost profits for the breach of the non-solicitation clause, the non-solicitation clause was good for one year. So after the one year was up, Ironvine could hire Signicom's employees. But if the jury credited Mr. Bellows' testimony,",
+    "speaker": "terrellrobertslll",
+    "tags": [
+      "acknowledge",
+      "legal_citation",
+      "substantive_argument",
+      "fact_statement",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 4292.967,
+    "end": 4314.267,
+    "text": " How could Ironvine survive a year without those key employees? SAIC could have terminated.  because it didn't have the people it needed. I believe it's going very far to say when you have evidence from Mr. Geimer about this, that they had access to other employees or just they could hire these people.",
+    "speaker": "judgeepstein",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 4314.307,
+    "end": 4322.472,
+    "text": "I mean, common sense tells you those are not the only people on the earth that could have done that contract. It's clearly. Well, common, I will say,",
+    "speaker": "terrellrobertslll",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 4323.632,
+    "end": 4330.493,
+    "text": " there are some employees who actually are indispensable and irreplaceable. It's a question of evidence.",
+    "speaker": "judgeepstein",
+    "tags": [
+      "judge_comment",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 4331.053,
+    "end": 4376.111,
+    "text": "In fact, Warren Wilber was the most skilled employee. He himself said, there are other folks out there that have my skills. So it wasn't as if those were the only people on earth who could have done that contract. So that's not true. But my point being, the award here is four years of lost profits, four.  At best, if they were right about everything, they'd only be entitled to one year of lost profits. That's the year that the non-solicitation clause would have been. Can I just, when you say four years, Judge Glickman asked the question, it seemed like on one count, it was a word for three years of lost profits, and then",
+    "speaker": "terrellrobertslll",
+    "tags": []
+  },
+  {
+    "start": 4377.495,
+    "end": 4387.479,
+    "text": " another year of last profit. So are you saying that there is no double recovery because the jury awarded three years on one count and a different year on another?",
+    "speaker": "judgeepstein",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 4388.559,
+    "end": 4431.175,
+    "text": "As a practical matter, I'm saying four years. The jury aggregated it. But we'll stick with the three. They awarded three years. Most, there should have been only one year on the breach of contract.  Yes, do you have a question, Judge Glickman? No, go ahead. That's fine. OK. OK. So that's kind of the point I want to make here is that the idea that how long is the what was reasonable to expect the contract to continue all the way to 2021, five years, which is what the plaintiff asked for in this particular case? Absolutely not. At best, at best, it would have been only one year of lost profits and no more than that.",
+    "speaker": "terrellrobertslll",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "rebuttal_argument",
+      "concession"
+    ]
+  },
+  {
+    "start": 4434.803,
+    "end": 4444.17,
+    "text": " Um, Mr. Roberts, let's hear from Signicom's counsel, Mr. Wagman, and then you'll have a minute or two. Thank you.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_procedural_directive",
+      "time_management",
+      "case_transition"
+    ]
+  },
+  {
+    "start": 4445.552,
+    "end": 4463.49,
+    "text": "Thank you, Your Honor. We see our breach of contract claim is very straightforward. There is no dispute at all that Ironvine materially breached the contract when they started offering employment to our employees.  No dispute, that's a material term of the contract. Signicom refused to enter into the agreement until that clause was included into the contract.",
+    "speaker": "robertwagmanforcyg",
+    "tags": [
+      "opening_argument",
+      "substantive_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 4464.091,
+    "end": 4497.972,
+    "text": "So can I ask you, Mr. Wegman, suppose Ironvine had said on December 15th or whatever the day was that they gave Signicom notice, we're terminating your contract. Effective today. And then on December,  16, the following day, Signicom employees applied for employment at Ironvine. Is that a violation of the non-solicitation agreement?",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 4498.032,
+    "end": 4506.456,
+    "text": "So it's offering employment for the term of the contract, plus one year after end of the contract for any reason. So it's not soliciting.",
+    "speaker": "robertwagmanforcyg",
+    "tags": [
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 4507.056,
+    "end": 4511.238,
+    "text": "It's not soliciting. I thought that was the key here, that Ironvine had reached out",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_comment",
+      "disagreement",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 4515.027,
+    "end": 4573.148,
+    "text": " The facts show they did do that. They actively started recruiting people. So, I mean, we can talk about the facts before we even get to the facts of all their efforts to recruit people. They materially breached the contract. It's not disputed they materially breached the contract.  we're entitled to the benefit of our bargain. Our claim accrues at the moment of the breach. So at that point in time, we become entitled to the benefit of the bargain. It becomes a jury question to figure out- What was the moment of the breach here? When they offered employment, at least the first one I know for sure is when they offered employment to Mr. Wilbur. It's in the record. They did it in writing. I believe on the 15th, they made a phone call. Mr. Geimer made a phone call to Ironvine. On the 16th, Mr. Shanley began talking to employees on the,  working down on the State Department contract on site. Mr. Geimer met with Mr. Warren Wilber. I want to say it's the 17th, the 18th it is.",
+    "speaker": "robertwagmanforcyg",
+    "tags": [
+      "fact_statement",
+      "substantive_argument",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 4575.889,
+    "end": 4578.369,
+    "text": "It's the 17th or 18th, it was a little unclear to me.",
+    "speaker": "judgeepstein",
+    "tags": [
+      "judge_comment",
+      "hedge",
+      "time_management"
+    ]
+  },
+  {
+    "start": 4579.109,
+    "end": 4617.889,
+    "text": "So we certainly have the offer letter by December 18th, which is PX 37. I'm sorry, it appears in the record at the appendix at 1290.  saying, we hereby offer you employment. It couldn't be any clearer. There's also later email discussions with offering employment to some of the people that were going to be assigned to a second factor under their single unified unit that they decided to form to displace Signikon. So, you know, and Mr. Geimer. Could you clarify why Ironvine is liable in breach of contract for",
+    "speaker": "robertwagmanforcyg",
+    "tags": []
+  },
+  {
+    "start": 4620.648,
+    "end": 4624.871,
+    "text": " the employees who were hired by Second Factor rather than Ironvine?",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 4625.331,
+    "end": 4657.533,
+    "text": "Sure. So under, we had three different breach of contract counts. One was, let's just go through all three. First was directly offering employment. Second was indirectly offering employment to people that were going to be assigned on their team to Second Factor.  So we see in the record, Mr. Geimer is having discussions with people being assigned. Hey, don't worry about it. You're going to be assigned to them. After they applied to Ironvine, you're going to be assigned a second factor, and you're going to be able to start. If you get fired ahead of that time, you'll be able to start early. And that was all coordinated.",
+    "speaker": "robertwagmanforcyg",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 4658.013,
+    "end": 4762.944,
+    "text": "If the employees themselves applied to Ironvine, so far we don't have, up to that point, we don't have a breach of contract.  by Ironvine. Now, if Ironvine does not offer employment to those employees, but instead says something like, look, we're not offering you employment, you want to talk to special factor, that's great, but that's up to them. Or second factor, excuse me, that's great, that's up to them. I want to sort of work through where the breach is, because one thought that I've had is that although there are six  employees that, I think six, that Cigna Com lost to Iron Vibe slash Second Factor. I think only one of them actually went to Iron Vibe. And so I'm asking myself of those, and now maybe Iron Vibe talked to some of the others and induced them in some way  to leave, but I'm wondering if this is not an employee by employee specific claim as to whether there was whether whether iron bond is liable for breach of contract, it seems to me it makes a difference, because the damages are the damages, the sum total of the of the last profits for each employee. Now this assumes the claim hasn't been waived.  on the assumption that it's not.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment",
+      "judge_question",
+      "substantive_argument",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 4764.444,
+    "end": 4783.494,
+    "text": "Yes, sir. Let me address the second point. First, um, the plain language of the contract is what we relied upon. It says if you offer employment to our employees, so it doesn't require the off to offer employment to every single employee. It doesn't matter if they breach the contract one time, five times, six times. Oh, it matters. I said the damages.",
+    "speaker": "robertwagmanforcyg",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 4783.514,
+    "end": 4823.335,
+    "text": "Thank you. Pardon?  It matters as to the damages. I mean, hypothetically, because I don't think this is an accurate characterization of this case. But to simplify what I'm saying, Signicom may have been damaged to the tune of $300,000 a year in lost profits from the loss of six employees. But if Ironbind is only responsible for one of those employees,  by responsible I mean breached his contract by doing so with regard to one of those employees, then it's only responsible for one sixth of those of that that that damage total.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment",
+      "substantive_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 4824.216,
+    "end": 4853.65,
+    "text": "I disagree and in breach of contract, I should say for breach of contract. Correct. So once once a party material breaches the contract. In fact, if you look at the standard jury instruction on breach of contract. So if we had found out, for example,  It gives us the right to terminate the contract and sue for damages. So for example, if Wilbur had come to us and said, hey, these guys just offered me employment, we could say, you guys breached the contract. We're suing you for the benefit of the bargain. We could have terminated it. That's not how it works.",
+    "speaker": "robertwagmanforcyg",
+    "tags": [
+      "disagreement",
+      "rebuttal_argument",
+      "substantive_argument",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 4853.67,
+    "end": 4858.691,
+    "text": "You have to show damages that are approximately caused by the breach. Understood.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment",
+      "judge_procedural_directive",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4858.751,
+    "end": 4865.953,
+    "text": "But that goes to the benefit of the bargain is necessarily the profits we would have earned under the contract. So once we show that you're going to breach it. If Wilbur doesn't leave you,",
+    "speaker": "robertwagmanforcyg",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 4866.928,
+    "end": 4884.512,
+    "text": " Or if Wilbur says, you know, Iron Vine made me this offer, but frankly, I have no interest in it. However, I was talking to this other company, and they really made me a neat offer, and I'm going with them. Iron Vine's not liable to you, even if it breached the contract by talking to Wilbur.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 4886.113,
+    "end": 4932.538,
+    "text": "I'm not sure I agree. I think once you have a material breach, it entitles, because your breach accrues at the time of the, I'm sorry, your right to breach a contract damages  cruise at the time of the breach. So I agree, there could be a factual dispute as to quantum, but our entitlement to damages, it becomes fixed. You might have nominal damages, I suppose. You might have nominal damage, but we could also pursue, if we don't trust these guys, we're not going to work with them anymore. This is the benefit of our bargain. You materially breach the benefit of our bargain. I'm entitled to, and again, it's not certainty.  You know, that's the preferred systems case. It's just preponderance of the evidence. So you don't have to show definitely you would have done this. You don't have to, you know, it's just preponderance of the evidence, what more than likely than not would have occurred.",
+    "speaker": "robertwagmanforcyg",
+    "tags": [
+      "substantive_argument",
+      "disagreement",
+      "concession",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 4933.098,
+    "end": 4977.13,
+    "text": "Let me ask you another question. We met our burden. It surprises me. I mean, the one claim that seems to me that there's no argument about waiver is that the, we'll call it the solicitation provision of the,  of the contract between Iron Vine and Signicom is unenforceable under Virginia law. And yet, I'm not hearing a lot of argument on this. In fact, I've heard no argument. But let me ask you to address that argument, if you would, because that seems to be the main argument that we have before us that's not been waived.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question",
+      "judge_procedural_directive",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 4978.731,
+    "end": 5053.13,
+    "text": "I would agree.  It's not been waived under 50B, but I would suggest that the argument that the Superior Court failed to consider the issue, and I think on their brief, they say the lower court never bothered to consider Ironvine's overbreath and vagueness contentions. We pointed out on the record, they expressly considered those and in fact rejected those. So the harm they're complaining about never occurred. Now, if we get to the merits of it, the issue they're having is,  What they presented below was that the law that applies to employee-employee relationships should be applied to agreements between two companies. Virginia law is very clear. There's a difference between two sophisticated companies engaged in an arm's length negotiation. They didn't present, that's exactly what they presented below. The court rejected that the employer-employee relationship should apply. In fact, said the law in Virginia is clear.  under therapy services, which is the case we cited, which we discussed in our briefing, right? That talks about a different standard. And you have to show to be unenforceable under that standard between two sophisticated companies. You have to show this is so broad that it impacts the public interest. They've now alleged it impacts the public interest.",
+    "speaker": "robertwagmanforcyg",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "legal_citation",
+      "record_reference",
+      "agreement",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 5054.67,
+    "end": 5152.82,
+    "text": "Obviously, this question is complicated for us by the fact that we are having to determine  what Virginia law is rather than our own law on the subject. Therapy services is a case that does support you, but there are other cases in Virginia, from the Virginia courts, including the Virginia Supreme Court, post therapy services that do apply in this kind of context, do apply the three-factor test that  you're arguing is not applied here. Now that isn't for me the end of the inquiry because I can see the reasonableness of this provision even under that. I can see arguments for the reasonableness of this provision even under that test. But I'm not sure it's a simple matter of saying that therapy services  ends the inquiry here. What I'd like to hear you argue is why this is a reasonable, enforceable non-solicitation provision, recognizing that the law looks at these kinds of provisions with a somewhat  you know, gimlet eyes, they're not favored. So why don't you speak to that?",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment",
+      "judge_question",
+      "judge_procedural_directive",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 5152.92,
+    "end": 5226.853,
+    "text": "Sure. So fundamentally, this is not a naked restraint of trade. This is not, you know, what you hear going, you know, we won't hire your people, you don't hire our peoples, because we don't want to get into a bidding war for folks. That is not at all this situation, which is where you see most of the current activity going on in these types of cases.  Furthermore, we heard testimony, we weren't going to enter into this agreement, absent some protection, that you are not going to steal our employees. Ironclad looked at it, they didn't reject it, they just sent it to their lawyers, their lawyers made it reciprocal, they all agreed it was appropriate and okay for the circumstance, that if we're going to work together, neither company wants to become an uncompensated employment agency for the other.  And it was narrowly construed just to support that agreement. Absent entering into this agreement, I'm sorry, absent that clause saying we won't steal your employees, Signicom doesn't enter into this agreement. That sort of cuts against policy of encouraging businesses to grow, encouraging them to work together. It's very narrowly construed to protect their existing legitimate business interest, not to be some overly broad restraint of trade or otherwise so broad that it's gonna implicate  the public good.",
+    "speaker": "robertwagmanforcyg",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "fact_statement",
+      "policy_argument"
+    ]
+  },
+  {
+    "start": 5227.254,
+    "end": 5269.335,
+    "text": "And I think that's... The over-breath concern with this provision, I think mainly, if not entirely, relates to its language that each party agrees that the other party will not, in any other way, not just the question of offering employment, but in any other way, directly or indirectly, induce any employee of the other party to terminate his or her employment with the other party.  That's very, I think that language, you know, is fairly susceptible to criticism as being vague, a bit vague and broad. How do you respond to that?",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 5269.995,
+    "end": 5563.696,
+    "text": "I think it comes into play exactly in the scenario we were talking about earlier, where Ironvine basically is running around behind Signicom's back saying, hey, go work for them. They have a job for you. We've already decided this is a done deal.  Um, you should leave signicom come work for a single unified team. So when we talk about, you know, our third breach of contract claim that was count three that they violated that clearly by doing this exact type of conduct where they use a proxy or they use a straw man to accomplish what it is this, you know,  In sum and substance, this is meant to prevent, to protect our legitimate existing business interest. Otherwise, it lets them do an end run to revenue. How many of the six employees, this gets back to something I was asking you earlier, how many of the six employees did Ironbond actually have any communication with whatsoever about leaving? So we know certainly Wilbur was, so I believe five of the six,  And you see in the record, the only one I'm not sure about is Mr. Shifflett. And you see also Mr. Jarbo. If you look at PX 47, which is after they went to dinner and sort of divvied up the employees, who's going where. Mr. Jarbo is the one who sent the horribly offensive email that you've heard all about now. Iron Vine a week later saying, oh, we're gonna hire that guy.  I'm Mr Shanley approach Mr Gerber on behalf of Ironbine this Jarvis anyone know part of it, he's not going to go work for it. And then you see there's sort of a shifting later on. So, um,  They ended up trading that position for Mr. Sorry, second factor hired Mr. Schiff. Let's you see there's a there's a variance between the initial plan and what they were going to do. But certainly you see direct conversations. I'm sorry, you see conversations on behalf of the other companies with all the employees. Absolutely. In terms of Ironbine specifically, I know for a fact in the record, we can point to  his conversation with Mr. Wilbur. We can point to Dorothy Bainline. He had a conversation. He also testified. He had a similar conversation with all the rest of the operations staff, which included things like, don't worry about your employment agreement. You'll come work for us. You've been assigned the second factor. I believe it is PX 29. Give me a second. I'll get you there. So very clearly, they talked to  at least directly talk to all of them, indirectly talk, you know, talk to everybody, I'm sorry, directly talk to at least five of the six, indirectly talk to six of the six. And certainly they were coordinating. You can see Mr. Shanley's, actually, it came up as Mr. Shanley's response to, hey, I just talked to Dorothy. He says, okay, I'm gonna go meet with Shiflett tonight. I'll circle back, tell you how all that went. So clearly this is all coordinated. And the fact they're trying to, you know, if, you know,  It's almost mobster-like. I don't do my own talking. I let people do my talking for me. That doesn't still absolve them of their obligations under the contract. And I think the plain language of the contract you just focused on is expressly put in place to avoid exactly this type of scenario where you put up a proxy or a strongman to circumvent your promises. And if I could go back to something we were talking about before, one of the issues we raised at trial, in terms of the discrepancy about would we have continued performing, would we not have continued performing,  You know, again, those are all factual issues. It was all presented to the jury, got resolved against them. As we pointed out, if these guys could have just hired anybody and started doing the work right away, they never would have entered into a subcontract with us in the first place for five years and paid us, you know, whatever they paid us for those first five years. The record also shows they didn't talk to any other, with one exception, after Jarvis says he's not coming on board, they didn't talk to any other employees.  They simply went after these people. In fact, with Wilbur, they offered him a job before ever seeing his resume. So it's not like they can say he just happened to be the most qualified. They absolutely went after him, targeted him. Mr. Shanley went to him, said, here's Mr. Garmer's telephone. Well, the SEIC folks and Mr. Shanley, while working on site, said, here's Mr. Garmer's telephone number. Give him a call. Mr. Garmer says, hey,  Respond to the posting on LinkedIn, and then let's get together for coffee tomorrow. So I have some basis to say you would apply, and we can have a conversation. And you look at the communications with SAIC, it's very clear. They plan on targeting these people from the get go. When SAIC comes in and says, hey, tell us how it's going. He says, it's going fantastic. With Ray Shanley's help, we've retained 100% of everybody on our wish list.  So the idea that this is just stuff anybody could have done, if that were true, they would have done it five years earlier. And the record completely contradicts the evidence they tried to present, and ultimately just went to the jury to resolve the difference.",
+    "speaker": "robertwagmanforcyg",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "record_reference",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 5564.417,
+    "end": 5568.983,
+    "text": "All right, thank you, Mr. Wegman. Mr. Roberts, we'll give you two minutes for rebuttal.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_procedural_directive",
+      "reserve_time",
+      "time_management",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5569.428,
+    "end": 5643.791,
+    "text": " Yes, I think the point that Judge Clickman has raised is a good one. And it really goes to the question of whether or not this provision is legally enforceable, not the other facts dealing with, well, when did Mr. Geimer speak to certain people, so on and so forth.  The point here is that it is legally unenforceable for the very reason that Judge Whitman has addressed, namely that it could be easily, you could be in violation of this agreement just by merely talking to an employee and the employee quits because let's say, maybe you want to go in the military, maybe you want to do,  go to California, whatever it is you want to do, and that would be a violation. The point is under Virginia law, and then I cite to this Mantec decision, page 36 of the brief, this virtually the same language was held by the court to be legally under force, unenforceable under Virginia law, and it can't be corrected  By what they call blue penciling the contract. In other words, you can't exclude it. It's just, you know, I wondered about that.",
+    "speaker": "terrellrobertslll",
+    "tags": [
+      "agreement",
+      "substantive_argument",
+      "legal_citation",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5643.891,
+    "end": 5646.614,
+    "text": "Actually, there is a severability clause in the contract.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 5648.235,
+    "end": 5649.856,
+    "text": "Okay, well, then what",
+    "speaker": "terrellrobertslll",
+    "tags": [
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5652.828,
+    "end": 5692.199,
+    "text": " couldn't, didn't Signicom have a legitimate interest in preventing what the jury found happened, which is Ironvine said, I can't hire some of these people myself. I'll just cut a deal with Second Factor to hire them for me and I'll get the business via my new subcontract with Second Factor.  If what, what language in your view would be acceptable to present that result, which seems to me to be, which seems to me that significant as a legitimate interest in preventing.",
+    "speaker": "judgeepstein",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 5692.559,
+    "end": 5714.601,
+    "text": "Well, the agreement could have said what the, the therapy services.  agreement said, which basically if somebody works for you under this contract, you can't hire them. This was a very broad one. Any employee of Cigna Com can't be hired. But if you can do it and run around that by just putting up somebody else to hire them for you,",
+    "speaker": "terrellrobertslll",
+    "tags": [
+      "fact_statement",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 5715.612,
+    "end": 5725.416,
+    "text": " then you're just doing indirectly what you can't do directly. I'm just saying, we're talking about the legal enforceability of this contract, the language of the contract.",
+    "speaker": "judgeepstein",
+    "tags": [
+      "judge_comment",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 5725.857,
+    "end": 5729.078,
+    "text": "And I'm saying that it's legally unenforceable because it's overbroad.",
+    "speaker": "terrellrobertslll",
+    "tags": [
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 5729.158,
+    "end": 5757.728,
+    "text": "And my question is, I guess I'll break it down. First, do you agree that Signicom had a legitimate interest in contractually prohibiting Ironvine from  putting somebody else up to hire employees under its auspices that Irvine couldn't hire directly. And if so, what language would pass muster under Virginia law?",
+    "speaker": "judgeepstein",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 5758.789,
+    "end": 5773.457,
+    "text": "Well, what would pass muster would be a provision which says you can't hire the same employees who worked on this contract for whatever, a year. The same employees who worked on this contract you can't hire. That would be narrowly drawn.",
+    "speaker": "terrellrobertslll",
+    "tags": [
+      "policy_argument",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 5774.533,
+    "end": 5784.66,
+    "text": " And so can you say you can't enter into a subcontract with somebody and get those people to hire away the same employees you can't hire directly?",
+    "speaker": "judgeepstein",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 5785.04,
+    "end": 5802.613,
+    "text": "Well, I agree with the principle. You can't violate a contract indirectly and get out of it. I'm not disagreeing with that point. I'm just saying the contract is overbroad as drawn. This is a point that was raised by motion. OK, then what language would have permitted",
+    "speaker": "terrellrobertslll",
+    "tags": [
+      "agreement",
+      "concession",
+      "substantive_argument",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 5803.477,
+    "end": 5822.589,
+    "text": " would pass muster under Virginia law that would prohibit Ironvine from doing indirectly what it cannot do directly? Well, I think that with that being the principle, all they have to say is you cannot hire the same persons that worked on this contract, this Vanguard program.",
+    "speaker": "judgeepstein",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 5822.909,
+    "end": 5834.022,
+    "text": "You can't hire them within one year. That's all they'd have to say. I don't think you need extra language. You can't do indirectly what you can't do directly.  I don't think that's necessary. I agree to that concept.",
+    "speaker": "terrellrobertslll",
+    "tags": [
+      "fact_statement",
+      "policy_argument",
+      "substantive_argument",
+      "hedge",
+      "agreement"
+    ]
+  },
+  {
+    "start": 5836.424,
+    "end": 5866.863,
+    "text": "All right. Thank you. We'll move to segment three, which is the final segment of the arguments today. And this will focus on Sigma Com's cross-appeal from the dismissal of its civil conspiracy claim. In this segment, Sigma Com will be allotted 10 minutes, including any time it chooses to reserve for rebuttal.  Iron Vine and Second Factor will be a lot of 10 minutes between them, which they may divide as they see fit. Thank you.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_procedural_directive",
+      "time_management",
+      "case_transition"
+    ]
+  },
+  {
+    "start": 5867.684,
+    "end": 5976.473,
+    "text": "Thank you. I would like to reserve two minutes for rebuttal if I could, please. I want to talk for a second about how we ended up with two different conspiracy claims in our complaint. As initially pleaded, we only pled common law civil conspiracy, which is ultimately count 10,  related to their joint efforts to tortiously interfere with our employee relationships. After we filed our initial complaint, Mr. Shanley and Second Factor filed a motion to dismiss, supported by a declaration from Mr. Shanley, basically alleging he could only be subject to Virginia courts because he was a Virginia resident. Second Factor was a Virginia entity. Most of the work  He doesn't support of the contract he does from his home in Virginia. He works on the contract from his home as well as facilities in Virginia, Maryland, and DC. Very specifically, he said the agreement to injure significant business or reputation, he doesn't use that exact words, but the agreement that's at issue here, he said that was governed by Virginia law and he executed it in Virginia. So with that, we filed an amended complaint, added count 11.  And the reason is there's a statutory prohibition on injuring someone in their business or reputation. There's a statutory prohibition on conspiracy to do so in Virginia. There's no analog under DC law. There's only the common law derivative liability for tort liability. So we see this as there's a strong interest in Virginia enforcing this provision.  There's no corollary interest in DC not enforcing this interest or having its laws applied to it. That's how we ended up with two claims. And again, there are two separate claims, different operative facts supporting each of them.",
+    "speaker": "robertwagmanforcyg",
+    "tags": [
+      "reserve_time",
+      "substantive_argument",
+      "fact_statement",
+      "policy_argument"
+    ]
+  },
+  {
+    "start": 5977.293,
+    "end": 5989.318,
+    "text": "Well, doesn't the conduct, the conduct seems to be the same to me, the tortious interference. How do you distinguish the conduct that you're alleging under the two separate conspiracy claims?",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 5989.758,
+    "end": 6020.632,
+    "text": "Sure. So certainly they're going to be interrelated. We see the,  The statutory conspiracy claim to interest in our business or reputation, where their combined efforts to go take the business and the people away from us. They went about tortiously interfering to take the people away, but it's sort of part and part, it's part of the bigger conspiracy. And we can see throughout 2015, they're actively going, you can see Iron Vine actively going to SAIC talking about how terrible they are, how you should get rid of Signicom, talking about, and we can get into",
+    "speaker": "robertwagmanforcyg",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6022.138,
+    "end": 6032.923,
+    "text": " What, what operative fact is supports the common law claim that does not support the statutory claim and vice versa is either different operative facts.",
+    "speaker": "judgeepstein",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 6033.464,
+    "end": 6109.259,
+    "text": "Sure. So in March of 2015, for example, um, Sigma com talks about, they've got some ideas of how to fix the, uh, the operations methodology being carried out in the State Department contract.  Um, Mr. Garber says, I don't even talk about it right now. You're fine. Just do the best you can. It doesn't matter. Later in June, SAIC says, Hey, we got a problem with this. Um, we want to talk about your staffing. He doesn't say, Oh, Signicom has a great idea for it. He doesn't say, I told him, don't worry about it. Just use your best efforts. He says, Oh, they're terrible. And you should do something about that. And he says, I go and he enters into this, uh,  ground rules document, which late testimony came out that was just pretextuals, more of an effort to try to take positions away from Signikon. And again, you see Mr. Geimer repeatedly going to SAIC, looking for opportunities to take business away, repeatedly not presenting complete versions of the facts to SAIC to make it make it more appealable to SAIC, that they're going to let you that they're going to let them basically take this business for themselves.  And then you see that in November when they have the conversation, it's like November 22nd, they go have a conversation, Mr. Shanley and Mr. Garmer have a conversation.",
+    "speaker": "robertwagmanforcyg",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 6109.619,
+    "end": 6130.873,
+    "text": "Isn't that all part of your argument that this whole idea of that SAIC was unhappy was a pretext? It's all part of the same course of action to kick Signicom off the contract, but keep the business by hiring the employees.",
+    "speaker": "judgeepstein",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 6132.118,
+    "end": 6165.092,
+    "text": " It's certainly related, but the count 10 the common law conspiracy claim that's simply limited to, you know, they're inducing our employees, not to not to comply to that to violate their employment agreements. It's much, it's much narrower. So they, you know, it was focused solely on that and it's different elements because we have to show  a valid agreement, we have to show their knowledge of that agreement. We have to show they intentionally induced them not to conform to those agreements. Why wasn't it appropriate to apply District of Columbia law here as opposed to Virginia law?",
+    "speaker": "robertwagmanforcyg",
+    "tags": []
+  },
+  {
+    "start": 6165.452,
+    "end": 6172.578,
+    "text": "And under DC, other than I know under DC common law, the judge here found the conspiracy claims wouldn't.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_comment",
+      "legal_citation",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 6173.198,
+    "end": 6209.398,
+    "text": "There is no comparable statute in DC. So DC common law is simply derivative liability for torts.  So in other words, Mr. Shanley could be held liable for the actions of Mr. Geimer in terms of tortious interfering with our employees. There is no standalone cause of action for conspiring to injure someone in their business or reputation. So there is no comparable DC statute or common law cause of action where we could have pursued that. In fact, that's originally why we didn't do so until we heard from Mr. Shanley through his declaration, all these different things that made it now possible to pursue that.",
+    "speaker": "robertwagmanforcyg",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 6211.958,
+    "end": 6236.671,
+    "text": " Well, you were allowed, if I understand correctly, under DC law, to pursue liability for the tortious overt acts that were committed as part of the conspiracy. And that's what I understand count 10 to have been. Do you disagree with that?",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment",
+      "judge_question",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 6237.632,
+    "end": 6239.933,
+    "text": "That is correct. We were allowed to pursue count 10.",
+    "speaker": "robertwagmanforcyg",
+    "tags": [
+      "acknowledge",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 6242.808,
+    "end": 6296.843,
+    "text": " See, at the end of the day, at least as a practical matter, my impression, tell me if you think this is correct or incorrect, is that the compensatory damages that a jury could have awarded you under count 11 are basically the same as the compensatory damages that the jury awarded you under count 10. And that the only practical difference on the record of this case  And that the only practical difference, though it may be a very significant difference, is that the Virginia statute, if I understand correctly, authorizes treble damages. The jury obviously does not award treble damages or punitive damages for that matter, if I understand correctly, on count 11. Do I have all that correct?",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6297.343,
+    "end": 6336.481,
+    "text": "That is correct. Count 11 was dismissed, so it never made it to the jury.  And they made it a point in the post-trial discussion we had, we were thinking about, you know, should we move for reconsideration? Judge did cut that off, say, no, jury's already been instructed. They were not instructed on that claim. So it just never reached them. To your point, would the damages that came back potentially, the compensatory damages potentially overlap? I think that's very likely with the breach of, you know, because that was the whole point was to steal our people, steal our business.  But to your point, we are entitled to the treble damages and the other remedies available under the statute, which we were deprived of.",
+    "speaker": "robertwagmanforcyg",
+    "tags": [
+      "acknowledge",
+      "fact_statement",
+      "hedge",
+      "rebuttal_argument",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 6337.482,
+    "end": 6341.063,
+    "text": "What other remedies are available under the statute? Attorney's fees.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 6341.503,
+    "end": 6355.39,
+    "text": "And theoretically, the jury could look at it differently and say, you know, we're not necessarily limited to breach of contract damages under the Virginia statute as a practical matter. In this case, they probably would have looked a lot alike.",
+    "speaker": "robertwagmanforcyg",
+    "tags": [
+      "substantive_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6355.97,
+    "end": 6448.153,
+    "text": "I mean, I don't think, to be honest, my impression, frankly, is that  If we leave aside the possibility of nominal damages, which I don't think really is practical to speak of in this case, the only damages that Signicom really argued to the jury or proved, even when it thought Town 11 was still in the case, were the lost profits on the Vanguard contract. And so I'm trying to, I take it that what would have happened  See, it seems to me very odd to say that the same basic conspiracy, that you can go to the jury and have them award damages under both DC law and under Virginia law. In fact, it's not clear to me there's much difference between DC law and Virginia law, at least as far as this case is concerned. So I take it, I'm thinking that probably if you had gone to the jury,  and they had given you a verdict on count 11, it would have been, you would have elected at some point as to which of the two verdicts, in other words, if you had a verdict on both count 10 and count 11, I'm thinking that you would have elected at that point, which one to take. Does that sound right to you? And would have had to elect. Does that sound right to you?  Or do you think that's not correct?",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 6448.614,
+    "end": 6459.684,
+    "text": "So the answer is, I think there are different causes of action. So I think there could have been duplicative damages, which would have been resolved later, which is sort of different from causing us to make an election. I think that's different from saying you have to elect.",
+    "speaker": "robertwagmanforcyg",
+    "tags": [
+      "substantive_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6459.784,
+    "end": 6462.767,
+    "text": "Yeah, that could be. I guess that's right.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "agreement",
+      "hedge",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 6462.887,
+    "end": 6581.525,
+    "text": "And sort of the beginning of that, I think there is a difference between DC law and Virginia law on this issue, again, just because there's no standalone  cause of action to conspire to injure someone in their business or reputation. Under DC, it's purely derivative under some existing common law tort, as opposed to a statutory prohibition in the district, I'm sorry, in Virginia that does not exist in the District of Columbia. That's why we kept saying there is no choice of law issue to resolve here. There's no competing interest involved. We have a Virginia,  Virginia statute involving two Virginia companies and a Virginia resident ganging up on a third Virginia entity for work that's going to be performed in DC and Virginia, except for a month from now, it's all going to be performed in Virginia. So certainly the focus was of this conspiracy was going to be in Virginia. We felt that harm at Signicom's headquarters in Virginia. So we think it's appropriate that it be brought, you know, this, you know, we think we met all the elements and it was appropriately brought. But there is no corresponding,  You know, there is no corresponding DC, and that's why it got dismissed as opposed to saying, okay, count 11 now has been changed to DC law. It was dismissed outright. Jury was never instructed on it. So I think we are talking about different causes of action supported by different operative facts, unquestionably related. I mean, it's all sort of part of the overall scheme. They couldn't have carried out their conspiracy to injure us without conspiring to tortiously interfere with our people.  in addition to things. But we see this as different. We also see this as a waiver issue. Literally, they raise this as the jury's walking back in to hear closing arguments. They filed dispositive motions. They filed an answer. We filed a pretrial order in this case. Never once mentioned it at all. In fact, they advised that the jury should be instructed on the heightened burden of proof related to the Virginia statute at the beginning of trial.",
+    "speaker": "robertwagmanforcyg",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "rebuttal_argument",
+      "court_procedural_remark",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 6582.212,
+    "end": 6614.348,
+    "text": " Well, I'm not sure I agree with you that it's necessarily an abuse of discretion for the judge to have considered the issue at that point when it was raised at that point. Because I'm looking at this, at least in the abstract, putting aside whether this fits these facts, people could say, look, we expected them to put on evidence of a Virginia connection to this case. And now that we're at the end of the trial, we see they didn't. And so, judge,  this case that that count doesn't apply here.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment",
+      "disagreement",
+      "rebuttal_argument",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 6616.069,
+    "end": 6628.792,
+    "text": "I don't know that there's any that there's an abuse of discretion by the trial court in saying at that point, in effect, you're right, you know, after hearing from both sides.",
+    "speaker": "Unknown",
+    "tags": [
+      "concession",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 6630.752,
+    "end": 6633.213,
+    "text": "That may address that.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment",
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6633.753,
+    "end": 6740.613,
+    "text": "Yeah. So in terms of a direct apply here, I understand that. But in terms of, um,  In terms of the jury findings that are necessary. There's no finding necessary talking about a Virginia connection or Virginia. Jury needs to make a fine. So for directed verdict. It's, it's not appropriate because there's no jury finding that needs to be made on the Virginia nexus. We did go back as a factual matter we offered Mr. Shanley's declaration talking about all the stuff he does in Virginia.  He affirmed during his testimony, all that was true. He reaffirmed it again during trial in front of everybody. So we have that in the record to establish our Virginia nexus to the extent that's necessary. However, this was used to dismiss our claim outright. So it was treated as a defense. And the cases they relied on, I forget the names off the top of my head, but those cases from the DC district court, federal district court, those looked at those cases using  The choice of law issue as a defense. They were raised under 12b motion. So they were treated as defense. In those cases, it was treated as a defense here because it totally defeated our case. We think you apply the law of defenses. Certainly, rule eight says you got to plead it. Certainly, by rule 16, by the time you get to your pretrial hearing, you got to raise and put it in the pretrial order. It just wasn't there. So this was absolutely a blindside blow that we never saw coming.  Was there any, if it had been raised, say, in the joint pretrial statement, is there any factual evidence by declaration or otherwise that you would have presented to the trial court to establish that Virginia law apply?",
+    "speaker": "robertwagmanforcyg",
+    "tags": []
+  },
+  {
+    "start": 6741.433,
+    "end": 6759.024,
+    "text": "Any evidence that you talked about all the things that was testified to at trial, was there any evidence that was not before the trial judge  that you would have presented to support the application of Virginia law that you didn't present because the issue was raised so late?",
+    "speaker": "judgeepstein",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 6761.505,
+    "end": 6835.423,
+    "text": "Actually, no, I can't think of any particular evidence. I can tell you we would have been able to present a more, I never got a chance to see their cases. So we would have been able to present a more fulsome discussion about, I mean, I think what the trial judge did was he saw that the place of injury was the district of Columbia.  For car accidents, that's correct, because you have the wrongful conduct and the injury occurring at a single moment in a single place. You look at all the business tort cases talking about analyzing choice of law, they say that actually the place of injury is the corporate headquarters where you're not receiving the lost profits. So I think there are a number of facts that were in the record we could have argued. If we could have argued it better, we would have argued it better. But again, this was a blindside blow.  The trial court said essentially the same thing, because we objected to the timing of this when we preserved this for appeal. He says, I, too, am troubled. Anyhow, during the record, he said, I'm troubled by the timing of this. But then he said, but I've done the best I can. Given when this was raised, I've done the best I could based on what they've handed me. Here's my ruling. Trials aren't supposed to work that way. We're not supposed to be surprised. We were absolutely surprised.",
+    "speaker": "robertwagmanforcyg",
+    "tags": [
+      "concession",
+      "substantive_argument",
+      "legal_citation",
+      "record_reference",
+      "court_procedural_remark",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6836.08,
+    "end": 6848.491,
+    "text": " Thank you. I know you've reserved some time for rebuttal, but let's hear from Mr. Roberts at this time. And again, I guess Mr. Coburn and Mr. Roberts, do you plan to divide your 10 minutes equally? Yes, we'll divide that equally.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_procedural_directive",
+      "reserve_time",
+      "judge_question",
+      "time_management",
+      "agreement",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 6848.511,
+    "end": 6864.337,
+    "text": "That'd be fine. Okay. Yes, I would just say that there's nothing in Rule 8 that requires a choice of law to be  cited as an affirmative defense that was argued I don't relate doesn't say that.",
+    "speaker": "terrellrobertslll",
+    "tags": [
+      "substantive_argument",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 6864.998,
+    "end": 6880.555,
+    "text": "Even if you even if you weren't required to why didn't why did you wait until almost the end of trial to raise the issue.  Was it that you hadn't thought of it until the middle of trial, or that you just decided to?",
+    "speaker": "judgeepstein",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 6881.155,
+    "end": 6955.118,
+    "text": "I didn't try the case, Your Honor. I didn't try the case. But I mean, I would say it might have been trial strategy. Could have been trial tactics. I don't know. I'm not asking you to speculate. Right, right. I got you. So I mean, I don't have an answer to that. But it doesn't have to be raised as an affirmative defense. And I think that counsel, Mr. Wagman, I'm sure  Anticipated the issue, because he's got a Virginia statutory claim and the evidence he says, I've been going in any differently than it did.  So basically, he could have argued this point. But the point is, did the court properly decide the question? The answer to that question is yes. The actions which constituted the alleged tort occurred in the District of Columbia. Would it affect pocketbook of their bank account in Virginia? Perhaps. But really, I think the actions occurred in DC.  The actual injury, I think, could be construed to occur in DC as well. We're talking about the Vanguard program, which is being performed for the Department of State in the District of Columbia.",
+    "speaker": "terrellrobertslll",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "fact_statement",
+      "concession",
+      "hedge",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6955.639,
+    "end": 6959.901,
+    "text": "Do you agree that's a question of law we decide de novo? I do agree.",
+    "speaker": "judgeepstein",
+    "tags": [
+      "judge_question",
+      "agreement"
+    ]
+  },
+  {
+    "start": 6959.921,
+    "end": 6965.284,
+    "text": "OK. I do agree with that. If you have any further questions, that's all I need to say on that issue.",
+    "speaker": "terrellrobertslll",
+    "tags": [
+      "acknowledge",
+      "agreement"
+    ]
+  },
+  {
+    "start": 6966.605,
+    "end": 6966.985,
+    "text": "All right.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "acknowledge",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 6967.505,
+    "end": 7040.355,
+    "text": "Mr. Coburn? Thank you so much, Madam Chief Judge.  In response to Judge Epstein's question just now directed at Mr. Roberts as to why the parties waited. And again, I wasn't trial counsel either. But I do think that you can infer from the record that the circumstances were essentially as Judge Glickman described in one of the questions that he posed during the course of his colloquy with Mr. Wagman, i.e.  It was, it was, from my standpoint, totally appropriate to wait and see how the evidence comes in. And, you know, of course, as has been, I think all agree during the course of this conversation, you know, a question, a key question is whether the nexus is principally to the District of Columbia or principally to Virginia. And that's dependent on trial evidence. It's not dependent on something Shanley executed before trial.  At the conclusion of the trial evidence, it became apparent that the nexus was so overwhelmingly in favor of the District of Columbia rather than Virginia. It seems to me it was a totally appropriate juncture in which to raise the issue. I did not read the colloquy that Judge Pui Glugow engaged in with the parties. Do you agree it's a question?",
+    "speaker": "barrycoburn",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7040.815,
+    "end": 7043.798,
+    "text": " I'm sorry. Do you agree it's a question of law that we decide to no vote?",
+    "speaker": "judgeepstein",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 7044.379,
+    "end": 7053.828,
+    "text": "I think the question of which is the nexus is a mixed question of fact and law, at least according to my view of it. I don't think it's a pure question.",
+    "speaker": "barrycoburn",
+    "tags": [
+      "substantive_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 7054.929,
+    "end": 7059.334,
+    "text": "Was any of the evidence about what happened where contested?",
+    "speaker": "judgeepstein",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 7061.91,
+    "end": 7074.785,
+    "text": " Um, you may, if your honor if the question is, you know, was the was the geography contested terms of whether or not a particular event her happened in DC visa v. Well, you said it was a mixed question of fact and law.",
+    "speaker": "barrycoburn",
+    "tags": []
+  },
+  {
+    "start": 7075.957,
+    "end": 7080.84,
+    "text": " if, to the extent it was a factual question, were any of the relevant facts disputed?",
+    "speaker": "judgeepstein",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 7081.42,
+    "end": 7104.494,
+    "text": "I don't think the facts in terms of whether things happened in Virginia or DC, whether they happened in one jurisdiction as opposed to the other, was disputed. However, I don't think that answers Your Honor's question. My view is that whether or not there is a nexus, whether or not the nexus is principally DC as opposed to Virginia, I don't think that's a pure legal question, even if- But surely you would agree",
+    "speaker": "barrycoburn",
+    "tags": [
+      "substantive_argument",
+      "concession",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7105.33,
+    "end": 7129.27,
+    "text": " It's a question of law for the judge to decide. I don't think whether or not the, and I say this, of course, obviously, very respectfully, but I don't think the question as to even if whether or not a particular piece of conduct occurred in Virginia, as opposed to DC, I don't think the issue as to which jurisdictions law applies to the facts that were elicited at trial is a pure question of law.",
+    "speaker": "judgeepstein",
+    "tags": [
+      "judge_comment",
+      "substantive_argument",
+      "hedge",
+      "disagreement"
+    ]
+  },
+  {
+    "start": 7129.31,
+    "end": 7130.351,
+    "text": "Now, of course, I could be.",
+    "speaker": "barrycoburn",
+    "tags": [
+      "hedge"
+    ]
+  },
+  {
+    "start": 7130.771,
+    "end": 7148.587,
+    "text": "But my question is.  whether it's an issue for the judge and only the judge to decide or do you submit, do you have a question on the verdict form asking the jury to decide whether some facts relating to the applicability of Virginia law?",
+    "speaker": "judgeepstein",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 7148.938,
+    "end": 7162.772,
+    "text": " No, no, no, no. I agree with you, Your Honor, entirely. That's not for the evidence. Then I don't understand if it's a question solely for the judge to decide and none of the facts were disputed, then you didn't have to wait to see how the evidence came in at trial.",
+    "speaker": "barrycoburn",
+    "tags": [
+      "agreement",
+      "substantive_argument",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 7163.113,
+    "end": 7164.995,
+    "text": "You could have teed it up before the trial.",
+    "speaker": "judgeepstein",
+    "tags": [
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 7165.996,
+    "end": 7247.952,
+    "text": " Yeah, I don't think that's correct. Just very respectfully, I think you had to see how the evidence was teed up during the course of the trial. Because I think I would, and again, I could be, Your Honor is going to know the answer to this probably far better than me. But I mean, I don't think whether or not it's a question for the court as opposed to the jury resolves the question of whether it is a pure question of law as opposed to a mixed question of law and fact. I think it is the latter, despite the fact that it is a question just for the court, not for the jury.  I could be wrong, and I apologize if I am, but I think that's the way the law operates. So I heard during the course of Mr Wagman's colloquy, mainly with all of the judges, but I guess the one I focused on was particularly the questions from Judge Glickman.  And also, Judge Epstein, I think he conceded the conduct essentially the same vis a vis both jurisdictions that the conduct is interrelated, that it's in response to Judge Epstein's question the same core of operative fact.  you know, the damages overlap. There's simply no reason. I mean, it may very well be true that the doctrine, the applicable doctrine in Virginia comes via a statute, whereas in the district it comes via the common law. But if it's right that the operative facts were the same,",
+    "speaker": "barrycoburn",
+    "tags": [
+      "disagreement",
+      "rebuttal_argument",
+      "substantive_argument",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 7249.517,
+    "end": 7293.798,
+    "text": " that for all practical purposes, you know, the causes of action were the same and you have the jury awarded punitive damages, that's arguably the finding of the conduct of the defendants was willful and malicious. Although they didn't award punitive damages on the conspiracy claim, they awarded it on the tortious interference claim. If we decide as a matter of law that the  that the plaintiff should have been allowed to pursue the Virginia statutory claim. Is there a need for a new trial? Because the jury already found that there was  that the two defendants conspired willfully and maliciously to injure Singnikan?",
+    "speaker": "judgeepstein",
+    "tags": [
+      "judge_question",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 7294.199,
+    "end": 7416.408,
+    "text": "I think there would absolutely be a need for a new trial. I mean, I think the burden, and I could have this wrong as well, but I believe the burden that is imposed is higher than the burden that the jury was charged with. In other words, under the Virginia statute, I think the jury has to find it to a higher standard than to a preponderance.  If I've got that wrong, I don't have the statute in front of me, but I think that's the way it operates. And moreover, to whatever extent, even if it's relatively minimal, the way a jury would be charged with respect to the Virginia statute is different as opposed to the way they were charged on count 10. I think that clearly, from my standpoint, would necessitate a new trial. But at least as I understand it, I mean, the doctrine, the essential doctrine,  Leaving aside and so on the doctrine in terms of DC common law damage to business reputation.  you know, compared with the Virginia statute is essentially the same. I think the trial court was right about that. And I would just second Mr. Roberts' observation that this is, when you talk about choice of law, that's not an affirmative defense. I don't know of any case that suggests it's an affirmative defense. It's not an enumerated affirmative defense in Rule 8.  Um, and it's, it's not sort of cognitively an affirmative defense. I mean, it's an issue that has to be adjudicated in the context of jury instructions and resolution of a rule 50 motion and so on and so forth. I didn't hear, at least according to the way I read the transcript, I don't see Judge P. Ruegel suggesting, you know, any criticism of the defendants for, for teeing up the issue at that point.  He addressed it, he resolved it, and from our standpoint, he resolved it appropriately. I should note, by the way, that I don't believe Mr. Wagman, I don't believe Signicom raised this question of failure to include in the pretrial statement or the pretrial order at the trial level. I believe that came up for the very first time in the context of this appeal.",
+    "speaker": "barrycoburn",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "rebuttal_argument",
+      "concession",
+      "hedge",
+      "fact_statement",
+      "agreement"
+    ]
+  },
+  {
+    "start": 7417.489,
+    "end": 7466.114,
+    "text": "Okay, thank you, Mr. Coburn. Mr. Wagman, I think you reserved two minutes for a rebuttal.  Can I just start out by asking you, in your rebuttal, if you could just tell us a bit more why any of the facts that you set out that differentiate the two conspiracy claims would outweigh the trial court's reasoning here that the District of Columbia has an interest in protecting the conduct of business here in the District of Columbia, and that the work was done by the companies here in the District of Columbia?  So doesn't the court, you know, legally and as a matter of discretion, have the right to say that the District of Columbia, having weighed all those facts, has the greater interest?",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_question",
+      "judge_procedural_directive",
+      "reserve_time",
+      "time_management"
+    ]
+  },
+  {
+    "start": 7467.494,
+    "end": 7507.381,
+    "text": "The court could, but that's not what occurred here. So if they had said count 11 is going to proceed under D.C. law, that would be one thing. But count 11 was dismissed in its entirety, so it never made it to the jury at all.  So the underlying premise there, I think doesn't match because again, there's no separate conspiracy to injure in business or reputation common law claim in DC or statutory claim in DC. So I think that goes to our underlying position before we get to- Well, but the court essentially, I mean, isn't there a basis here to imply that that was what the court was thinking?",
+    "speaker": "robertwagmanforcyg",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "court_procedural_remark",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 7508.102,
+    "end": 7515.457,
+    "text": "DC has the greater interest in  Looking at this claim, we look at it, we don't think it's one that needs to proceed here. End of story.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_comment",
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 7521.042,
+    "end": 7689.552,
+    "text": "That I would agree that they determined choice of law dictates that DC law would apply. But again, it wasn't a DC has an interest in protecting that. DC has a separate interest and we're going to apply the laws of DC. The outcome was DC doesn't have a law addressing this conduct. Therefore, it was dismissed in its entirety.  So I do agree with the idea that the judge determined, based on what was the couple of minutes he had to consider things, he determined DC law should apply. And because of that, because there is no analog under DC common law or statute, it was dismissed in its entirety instead of proceeding under DC law. If I could turn real quickly, a couple of points that were raised.  The idea that it has to be based on trial evidence, I don't believe is correct. In fact, if you look at the discussion the judge was having during his ruling, he was asking Mr. Geimer, where is your office located? I understand this. And there was other information coming in from outside the record. And again, the cases they relied upon, those were 12b motions. They were relied upon without trial evidence. The idea this had to wait until the very end of trial, I don't believe is accurate, combined with when you look  The benefit we have of raising it this late, we got to see the jury instructions that were negotiated and agreed to by the court before this was raised. And there's no requirement for the jury to make any finding of Virginia nexus, pardon, Virginia law, any of those types of things. Going back to, it's not enumerated in Rule 8. Every court that's considered the issue has determined that choice of law issues can be waived.  We started the Third Circuit case, which was collecting cases from around the country, saying every appellate court to consider the issue has determined that these can be waived. So the question is, at what point was it waived? Quite honestly, it comes up most often at summary judgment, where if the parties go to summary judgment, agreeing a certain law applies, the court says, I don't have to make an independent determination. I'm going to agree. Then it's waived at that point. So we can say it was waived at summary judgment. We can say it was waived at  You know, we think they had to plead it. There are enough exceptions to Rule 8 that certainly if they'd gotten in a dispositive motion during the two years we litigated this case, it'd be hard to argue. But the fact it's not in the pretrial order, the fact they waited till the very last moment of trial after the jury was instructed on the heightened burden of proof for this, it had to be waived somewhere in there. So our view is whether or not, however you want to characterize it, again, because it was used as a defense, we characterize it as a defense.  You want to call it a choice of law issue, unquestionably, it can be waived. It was waived at summary judgment or sometime well before the pretrial order.",
+    "speaker": "robertwagmanforcyg",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "rebuttal_argument",
+      "concession",
+      "fact_statement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 7690.513,
+    "end": 7715.836,
+    "text": "All right. Thank you. I'd like to thank all counsel for your briefs and arguments today. And I think, unless there are any additional questions from my colleagues, that concludes our arguments today. Thank you so much. Thank you. Thank you. I think our courtroom clerk will sign us out of  adjourned.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "court_closing",
+      "court_procedural_remark",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7728.701,
+    "end": 7729.442,
+    "text": "Can you exit out?",
+    "speaker": "Unknown",
+    "tags": [
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 7732.543,
+    "end": 7735.164,
+    "text": "Council if you could exit out. Thank you.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_procedural_directive",
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 7741.977,
+    "end": 7757.628,
+    "text": " Thank you, Chief. Chief, I'm going to sign you as the co-host. So right now, if you can go to where the participants are at, and you can sign me, you can make me as the host.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 7761.171,
+    "end": 7761.931,
+    "text": "Let's see.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 7763.552,
+    "end": 7769.857,
+    "text": "So we're at courtroom clerk, you think it should be more, and then select host for me.",
+    "speaker": "Unknown",
+    "tags": [
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 7775.171,
+    "end": 7783.214,
+    "text": " You want to change the host to the courtroom clerk. I should say okay?",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_question",
+      "judge_procedural_directive"
+    ]
+  },
+  {
+    "start": 7783.814,
+    "end": 7784.034,
+    "text": "Yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7785.734,
+    "end": 7786.855,
+    "text": "Okay.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7787.735,
+    "end": 7792.957,
+    "text": "Thank you. I'm going to sign you as the co-host.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "court_procedural_remark"
+    ]
+  }
+]

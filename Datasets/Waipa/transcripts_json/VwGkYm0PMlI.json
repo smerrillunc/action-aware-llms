@@ -1,0 +1,747 @@
+[
+  {
+    "start": 0.051,
+    "end": 118.773,
+    "text": " Good morning. Welcome to the really extraordinary meeting of the Audit and Risk Committee for the 23rd of November. We only have one item on the agenda in effect, which is the annual report. And as I think Ken has done good work over the night after discussions with Leon, we have a slightly changed  program today, but perhaps in good order, I should just deal with some of the preliminaries first, please. Do I have any apologies? As I was going around the team, it looks like we've got a full turnout. Thank you for that. Are there any apologies? It will be a reasonably short meeting, so I assume we can all be here. Any matters of interest that we need to disclose?  Again, I would assume not, so we can do that. There is ultimately a late item in the sense that I will be tabling a late resolution that we adjourn the meeting to the, I think the 30th of November, but we'll get to that at the end of the process. Otherwise, as I said, the order of the meeting is reasonably simple.  The matter is obviously the annual report, but given the events, I think, Ken, in the first instance, best to hand to you first and then Leon and your team. But we also have just agreed very quickly prior to the meeting that given there is in effect a delay,  Members, if there's any matters that you wanted to raise now over the annual report, we might as well take a wee bit of time this morning just to deal with any questions you might have, and give a chance to get them cleared up for when we meet again later next week. So, Ken, in your hands, please. Oh, sorry, check, members, are you happy with that sort of broad and formal order? Any questions about the order and process we're having?  Good, thank you. Keen, we're in your hands.",
+    "speaker": "brucerobertson",
+    "tags": [
+      "procedural_move",
+      "public_address",
+      "ask_question",
+      "prioritize_issue",
+      "assign_action",
+      "confirm_next_step",
+      "defer_decision",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 119.687,
+    "end": 441.205,
+    "text": " OK. Yeah, thank you. Yeah, thank you, Mr. Chair. Good morning, committee, and good morning, Leon. Good that you could join us this morning. Yeah, so look, as you're well aware from some email correspondence last night, we are in the slightly uncomfortable and unfortunate position where obviously the purpose of this meeting today was to seek the committee's recommendation.  that we adopt the annual report at a council meeting that's at 9 a.m. this morning. Unfortunately, we haven't quite got there. So, look, this year's audit was relatively challenging.  for a whole number of reasons, but I guess one of the things that has caught us out a little is the fact that we did a revaluation of our entire infrastructure, so our waters assets and our roading assets. In the lead up to that, there was quite a cleanup of our asset systems.  which basically resulted in some discovered assets, assets that we hadn't actually known existed, but hey presto, they did. So obviously having to get them onto the books, but actually the reverse was also true. So as we tidied up our asset registers to be able to perform that revaluation, we found some assets on our asset registers that actually shouldn't have been there,  And actually, and this is probably one of the one of the key concerns, actually shouldn't have been there for quite some years. And so, yeah, so there's been a lot of a lot of work going into that space, both from the Waip\u0101 team and from Audit New Zealand.  and quite a delay earlier in the process as we waited for Audit New Zealand's technical team to form a view on the treatment of those discovered assets coming onto the books and the non-existent assets being disposed out of the books. So I'll let Leon talk to that soon because, of course, it was his technical team who were forming that view.  So, yeah, so look, that and some other matters meant that while we thought we were going to get there in terms of being able to\u2014 and, in fact, we are so, so, so close to being there in terms of being able to present you with an annual report with Audit New Zealand clearance\u2014  Yeah, we reached the conclusion quite late this afternoon. Myself and Leon had a phone call, and he pretty much conveyed that, yeah, look, they just wouldn't be able to get there, certainly by 8 a.m. this morning. So, yeah, the situation is that, yeah, over the next couple of days, we both believe we'll be in a position to have this annual report totally cleared.  ready to go. And so the intention is to adjourn this meeting and reconvene next Tuesday afternoon after finance and corporate with an order and risk committee and a council meeting. That's our intention. What we will do between now and then is to actually basically provide you with some additional information.  In fact, that is mostly prepared. We mostly prepared that over the weekend and yesterday, which will set out quite clearly the changes that have been incorporated into the annual report between the draft that you received for this agenda and the draft that we will be asking you to basically adopt next Tuesday.  So watch this space as soon as we're in a position to send that out with the amended documents. We will do that so that we can reconvene next Tuesday. Just one other comment to note. So the other thing that we received yesterday was we did receive a number of  a number of annotations from Councillor St Pierre. So, yeah, so we've had a look at those. Yeah, a lot of those and, yeah, if you can give me the licence, licence, Clare, I think we could probably say a lot of those are quite minor typographical type corrections. So, yeah, so the team will work through making those changes as well as considering any other matters you raise.  And, Bruce, I believe it would be good if any of the members today have any concerns or any changes that they'd like to the annual report. Obviously, we've got the capacity to do those over the next couple of days, if those are known. So, yeah, so those are my comments. I see there's a couple of hands raised, but also we do need to go to Leon.",
+    "speaker": "kenmorrisg",
+    "tags": [
+      "provide_information",
+      "procedural_move",
+      "confirm_next_step",
+      "reassure_stakeholders",
+      "defer_to_authority",
+      "summarize_outcome",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 442.225,
+    "end": 446.847,
+    "text": "Yeah, so look, Roger and Susan, shall I go to Leon first, or have you got points you want to make before?",
+    "speaker": "brucerobertson",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 448.832,
+    "end": 469.892,
+    "text": " It would, I think, be helpful to make you understand this a little bit more before Leon comes in. But could you give me an example of how an asset could disappear? Because I'm having difficulty with this, and it would help, I think, understanding going forward how that could happen.",
+    "speaker": "rogergordon",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 470.799,
+    "end": 616.647,
+    "text": " yeah okay so um so roger i guess um yeah i guess um yeah local local government infrastructure networks are relatively complex space um so um yeah so so so so things like um like roading assets  If you were to look at our asset register, you would see that our roading assets are quite complex. We basically have assets for relatively short lengths of roading.  So if you take a street, say Hall Street in Cambridge, the asset register for that, for Hall Street in Cambridge, there would be several short lengths of road that are recorded in the asset register. But not only the length, there's also a layering element. So the asset is made up of a multitude of components.  and essentially there is a sub-base component, so the compacted earth bit below the road, there is a base course element to the roading asset, and that is a separate component, and then of course there is the top seal as well. So lots of small lengths and multiple components,  And look, yeah, look, during the, you know, over time, like these asset registers have got thousands and thousands and thousands of assets on them, hundreds of thousands of little asset components. Yeah, look, just sometimes things go wrong and when some of those assets are renewed,  you know, perhaps the old part has not been written out completely, the new part has come on. So, yeah, so look, they are quite complex, probably a little less complex than the water space, but still some difficulty in terms of, you know, very, very small components in the water space.  So, yeah, I don't think, you know, unfortunately, we don't have Amy Turner here who looks after our asset registers. She could probably talk at a bit more length about this. But, yeah, I think what we've got here is not too unusual for local government in New Zealand. In fact, perhaps Leon could perhaps support their comment in terms of seeing asset registers across a large number of councils.",
+    "speaker": "kenmorrisg",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "state_opinion",
+      "defer_to_authority",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 617.223,
+    "end": 639.518,
+    "text": " Yeah, Ken, I think what you've actually just said, gives me a little bit of understanding that we could replace an asset, but not remove the old asset from register. And that's an example of how we can have something that no longer exists in the asset register. So I'm beginning to understand that now a little bit better. So  Thank you.",
+    "speaker": "rogergordon",
+    "tags": [
+      "clarify_point",
+      "summarize_outcome",
+      "agree"
+    ]
+  },
+  {
+    "start": 639.538,
+    "end": 681.455,
+    "text": "Yeah. Although to be fair, Roger, and sorry, just through the chair, I mean, I wouldn't like it to be thought that we're not careful in our processes. So, you know, when we do renew assets and we do bring in the new asset, you know, obviously we use our best intents and purposes to remove the old one.  You know, I think a lot of these actual assets, and in fact, a large number of them, I think we had them dating back to, some of them were dating back to about 1947. So some of the assets that we disposed of. So we are talking about fairly historic matters that we're tidying up here.",
+    "speaker": "kenmorrisg",
+    "tags": [
+      "reassure_stakeholders",
+      "clarify_point",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 682.115,
+    "end": 837.992,
+    "text": "Good. So, Roger, thank you for that question. And for the rest of the members, if you were to go to page 122 of our agenda,  you would see the note that describes the nature of the change. And Roger, I don't blame you if you don't understand it because it was a small point I was going to make about jargon. Multiple duplicated and overlapping pavement layers is the reason.  which is when you look at Hall Street, you look down, you start to realise that from both an engineering and an accounting perspective, we see at least three layers below us, not just the tar seal on top of us. And can I take your point that over time, although I think you're arguing or you're suggesting to us from a systems perspective, not currently, but previously,  our accuracy in decommissioning assets when they're being replaced has been less than what we would hope. I think equally, probably, because I think the number is, what about a $17 million prior period adjustment? This is something that we have done in small increments probably over time. And if you're saying, Ken, 1947,  You can reflect, even I wasn't alive in 1947, believe it or not. It's a long way back that we've accrued probably on an annual basis, a relatively immaterial amount.  but when you've done when we've understood that this shows the value of a revaluation of your asset base and a scrubbing of your data which actually by the way has its connotations as you well know over the last two years for water assets scrubbing our data gives rise to obviously what is an unenviable but realistic adjustment that's come through. So page 121  122, I think it's whatever that number gives us the background to it. Right, before we get to Leon, Susan, is there anything that you want to say? Are you happy to wait till we've heard from Leon?  Oh, right, you had mute on, so I assume that you're happy. So Leon, welcome to the meeting. And can I say from a bit of context, I appreciate the challenges you face getting to the finish line this year. My last meeting so far is the 21st of December to adopt a set of annual reports. So I appreciate the effort that's going on. Leon, we're in your hands. Thank you, Bruce.",
+    "speaker": "brucerobertson",
+    "tags": [
+      "cite_reference",
+      "clarify_point",
+      "provide_information",
+      "defer_to_authority",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 838.453,
+    "end": 965.313,
+    "text": "Then I got to everyone.  Yeah, it's, I think today is one of the very few meetings in my professional life where I feel like I have to apologize to a lot of things. So first of all, I have to apologize that we raised in our management report that we think asset information should be improved, because this led to this error. And the finding of this error  And as Ken already said, and he explained it very well, I'm not gonna dwell on that, is also, it is across the board. We see it at quite a few councils. So you're not alone. The second thing I have to apologize is for the delay in causing you to have extra meetings. That's not the way I operate. I don't like it. And as a professional, I'm not enjoying it too much.  Apart from the comments Ken already made about the challenges to the audit, for instance, this prior year, there were quite some other technical issues that we had to work through. And of course, because of the improvement of our audit quality, we keep on asking more insightful questions and causing audits to take a bit longer. But then the big thing for this year was, of course, the auditor shortage.  And the impact of the COVID-19, especially the lockdown in Waikato, caused quite a bit of stress on my team. And we were just not as efficient as we would be in a normal year. So unfortunately, I flagged this to Ken last Friday that  we're at risk. And last night, I had to say, we're not going to get there. And because the Local Government Act, of course, expect you to adopt and audit it, and your report, we just couldn't couldn't finish the audit in time. The last changes were made this morning and came through. So what Ken said about we're not weeks or months away, we are days away for us to work through the last changes. So  That's about my update, Bruce.",
+    "speaker": "leonpieterse",
+    "tags": [
+      "provide_information",
+      "express_concern",
+      "report_back",
+      "clarify_point",
+      "reassure_stakeholders",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 965.974,
+    "end": 1038.705,
+    "text": "Thank you. Thank you, Leon, and I appreciate those points. So, look, the critical thing is that talking with Ken last night, and I think just following on from your comments, Leon, my understanding is that this can be cleaned up so that when we meet on the 30th, we've got a  a high percentage chance that there's nothing going to kick us past that date. I want to say it's certain, but nothing's certain in the annual report world this year. But essentially, you're really saying we need the rest of the week to clean this up and get it right. So we're always better to take that time. We've already made that decision once before in the sort of process that rather than place people under total pressure, we should do that. And I'm comfortable to sponsor that view in front of my colleagues.  So look, members, is there any other points around the annual report, though, that we could helpfully raise this morning before we move to the motion to adjourn the meeting in terms of the actual annual report? Susan, you've been very patient, thank you. I'll start with you, then I've got Andrew, I see your hand up, and then we'll see if there's anybody else with you. Susan.",
+    "speaker": "brucerobertson",
+    "tags": []
+  },
+  {
+    "start": 1039.18,
+    "end": 1056.629,
+    "text": " Yeah, thank you, Bruce. I've got about 17 pages, probably similar to the potentially the issues that Claire has raised in nature. Did you want to go through them one by one today? I mean, they're not massive points, but.  they may prompt some discussion about the appropriateness of the wording.",
+    "speaker": "susanoregan",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 1056.969,
+    "end": 1080.333,
+    "text": "Yes, look, if we can, in shorter weekend words, if there are a couple of small ones that are, you know, just like the typo here, perhaps you could just let Ken know, but if there are any ones that you might consider more significant, let's deal with those now, Susan, because probably they'll either snap for some of us, or it might just raise a good point. Thank you. Okay, I'll just wing through them, because some of them will be easy to change quickly.",
+    "speaker": "brucerobertson",
+    "tags": [
+      "assign_action",
+      "prioritize_issue",
+      "procedural_move",
+      "defer_to_authority",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 1080.393,
+    "end": 1124.402,
+    "text": "So page 23,  It says in the third bottom paragraph about discussion around the possibility of another bridge. I might pay to clarify that's in Cambridge, because, I mean, obviously there are a lot of area in Waipahu we could be chucking a bridge, but it's specific reference there to the bridge in Cambridge. We've got that. And then the next one is page 23. I just wanted to have some understanding  performance summary, overall performance summary from our resident survey report. Pride in Waipa District, please tell me that that's a typo, I should know this. But have we gone from 2019, 75% to 2020 to 70% and then 2021, is it really 26%?",
+    "speaker": "susanoregan",
+    "tags": [
+      "clarify_point",
+      "ask_question",
+      "cite_reference",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 1135.322,
+    "end": 1151.767,
+    "text": " Yeah, no, that's fine. So George, I think, are you still there? Yes, so Susan, I am here, and there are two or three errors in that table that have been picked up by Claire as well that need to be rectified, and that's one of them.",
+    "speaker": "kenmorrisg",
+    "tags": []
+  },
+  {
+    "start": 1152.147,
+    "end": 1152.747,
+    "text": "Excellent, Cole.",
+    "speaker": "susanoregan",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 1154.308,
+    "end": 1161.435,
+    "text": "Sorry, can I, because we're snapping the questions there. Susan, what is the number?  Comfort me, please, that it's a bit higher than 26.",
+    "speaker": "brucerobertson",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1165.756,
+    "end": 1170.557,
+    "text": "Sorry, Bruce, I don't know off the top of my head. I would like to go and have a look. We won't hold up the meeting for that.",
+    "speaker": "mgrbirm",
+    "tags": [
+      "assign_action",
+      "defer_decision",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 1170.657,
+    "end": 1175.078,
+    "text": "Thank you. That's got one of my first questions. Well done, Susan. Keep going.",
+    "speaker": "brucerobertson",
+    "tags": [
+      "agree",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 1175.158,
+    "end": 1230.405,
+    "text": "Moving on into page 33, and the paragraph talking about community boards. The first paragraph, the last sentence is, community boards work in partnership with council to promote enhanced community wellbeing. I don't...  I sit on the community board, and I don't think the community board's impression of itself, nor the impression that council has of the community board, is that we actually work in partnership at all. So I don't know that that's a really good way of describing, I mean, they exercise and enjoy a significant amount of independence, and often talk about keeping checks and balances on us. So I don't know that that's a really apt description of the role of community boards. So if that perhaps could be looked at, that would be helpful.  And maybe I've got it wrong and other members have different view, but I don't think, I think it's a long boat to draw to claim we work in partnership, just saying. The point that you make, Susan, but anyway, we'll let Ken take advice on that.",
+    "speaker": "susanoregan",
+    "tags": [
+      "express_concern",
+      "disagree",
+      "clarify_point",
+      "community_reference",
+      "assign_action",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 1230.705,
+    "end": 1231.306,
+    "text": "Yeah, cool.",
+    "speaker": "brucerobertson",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 1232.106,
+    "end": 1349.668,
+    "text": "In the next page, 34, we make reference to several advisory communities, including youth council, senior council, and so on.  I don't think we have an active youth council, so I think that's probably best to remove that wording, or am I wrong there, Mayor Jim? I don't think it's active at the moment. Hey, you know, he's giving me the thumbs up. So best we don't make reference to it if it doesn't exist. So if we can pull that one out, that would be good. And then moving on then to my next one, which is on the following page, page 35, second paragraph, it says, we're guided through our partnership with mana whenua, working with our treaty partners  Now, this is obviously a point of some discussion, I guess, around our table. We're not actually in partnership with, we're not party to the Treaty, so it probably would be best described as working with the Crown's Treaty partners, because we're not party to the Treaty. That's my understanding of it. And then the following sentence as it continues, explains to create a new M\u0101ori ward so we can better represent you for greater collaboration.  I'm not sure that you is the right word to be using in that sentence. So if that could perhaps have a little bit polish up, that would be cool. Then over the next page, top paragraphs says along with, in reference to the buy local campaign initiative, in terms of our own procurement processes to ensure economic, social, environmental, cultural wellbeing of our communities supported and maintained. I'm not sure,  Help me understand if I'm wrong here, how buying local particularly addresses the environmental and cultural wellbeing of our community. I mean, I appreciate it supports the economic and social, but I'm not so sure that you can, unless I'm wildly foolish here and have missed the obvious, say that it supports environmental and cultural wellbeing.",
+    "speaker": "susanoregan",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "express_concern",
+      "state_opinion",
+      "community_reference",
+      "equity_reference"
+    ]
+  },
+  {
+    "start": 1351.486,
+    "end": 1356.188,
+    "text": " Yeah, yeah, fair comment, noted, yeah. Could I just say something?",
+    "speaker": "kenmorrisg",
+    "tags": [
+      "agree",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1356.348,
+    "end": 1384.013,
+    "text": "Yeah, well, it does do that because we do have a process whereby iwi businesses, you know, can be supported. And so that could be the cultural side of things. And environmentally, it is more beneficial because if the goods and services are produced within our district, you don't get the embedded carbon of, you know,  bringing them from somewhere else, which is a burden on the planet. That's all.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "equity_reference"
+    ]
+  },
+  {
+    "start": 1386.775,
+    "end": 1391.658,
+    "text": "Next one, skip past these.",
+    "speaker": "mgrbirm",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1391.998,
+    "end": 1428.724,
+    "text": "Page 53, in reference to M\u0101ori involvement in decision-making. The second-to-last paragraph, we mentioned the joint management agreements in place with Waikato Tainui Trust Board and Maniapoto M\u0101ori Trust Board, the Raukawa Settlement Trust.  Should we not make mention there of the other smaller ones, such as Ng\u0101i P\u0101whenua with Ng\u0101ti Koriki Kahakura? And isn't there one with Ng\u0101ti Hau\u0101? Or am I off-beam here as well? If we're making, sort of doing a summary of our involvement in terms of M\u0101ori decision-making, is it relevant to canvas and cover them in that place?",
+    "speaker": "susanoregan",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 1430.964,
+    "end": 1436.446,
+    "text": "Let's take that on advice, Susan, that we check for completeness, but I think your point is well made, so it's worth checking.",
+    "speaker": "leonpieterse",
+    "tags": [
+      "agree",
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 1439.197,
+    "end": 1486.326,
+    "text": " And then on page 120, this third to last bullet point, which is talking about under the heading of Statement of Comprehensive Revenue on Expense. It says the value of assets vested from developers was 6.7 million higher than budget. This mainly relates to higher than expected growth in the district and the timing of receiving assets from developers.  included in this is the Waikeria prison expansion. I assume that's relating to changes to the roading that we dealt with because the prison expansion itself is not even in our district. So it might pay to make that a bit clearer because obviously that's not our, Waikeria's expansion wasn't our fish to fry.  particularly?",
+    "speaker": "susanoregan",
+    "tags": [
+      "clarify_point",
+      "express_concern",
+      "community_reference",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 1486.906,
+    "end": 1497.249,
+    "text": "Yes, you're correct, Susan. So it will be infrastructure development that is serving the prison. Actually, I believe waste water, more so than roading.",
+    "speaker": "kenmorrisg",
+    "tags": [
+      "agree",
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1498.229,
+    "end": 1737.311,
+    "text": "It might be helpful to make that clear. Now, I've just really found that the 12-month snapshot documents, which sort of start from about page 126 onwards, got some real  I can tell how there have been errors made, because I assume they were just picked up out of press releases, but that sometimes they're awkwardly worded, the tense is wrong, it's all just a little bit weird. So the first one for me is on page 126 under September 2020. The summary there in respect of the Memorial Park, the War Memorial Park, it just seems a really strange thing to,  to include there. So it's on page 126. I accept it probably was lifted out of some documents, but it really doesn't make sense in terms of what we're trying to encapsulate there. Because ultimately, it goes on to say that  that local board felt heard, you know, it just seems weird. So perhaps if that can be made more appropriate, make more sense with what we're trying to do there. Equally so, over the page, on page 127, the bit about October 2020, iwi representatives appointed. The sense is wrong there, or the tense is wrong there. It should be four iwi representatives were appointed, not have been, because obviously I assume it was lifted out of a press release.  So to make it make sense, that should be there. And then two, in the next paragraph, refers to Liz, the Waip\u0101 deputy mayor, probably pays to capitalise the deputy mayor part of her role. And then in December 2020, down the page further, on that page, again, just a tense thing, it says, in terms of the Lake Te Kootu water quality forward paragraph, it says, the plan has three stages, perhaps it should be had three stages.  Same thing again over the next page on March, 2021, in terms of the Waikeria Wastewater Pump Station paragraph. The major wastewater construction project was completed, not is completed. And then the paragraph about what's next, Waip\u0101. I mean, there's sort of a bundle in there. There's a sense when you read it that the,  that we went out to our communities under the long-term plan and included discussion around the creation of a M\u0101ori ward. They were two separate issues, and it doesn't read that way in that paragraph. So if somebody can perhaps look at making it look very clear that these were campaigns or community engagement, if it's made on separate occasions, because of course then it resolves itself over the page and it talks about the two things happening. So...  That was good. And then moving on to page 193, just got a query about the measure in terms of water supply and demand is managed to ensure prudent use of water, whereas they fell short in terms of that kihikihi measure. And it says there that explanation for not reaching that target was that water loss  had increased in the past year. Water was taken from Kehekehe network for the Waikeria prison fires. Some unmetered connections linked to new developments were found, and some notable links within council network attributed to this. I guess I just want some assurance that those were all fixed. If they were so significant that they caused us to not reach our targets, I guess it would be helpful to have some certainty to the reader that those have been attended to.",
+    "speaker": "susanoregan",
+    "tags": [
+      "provide_information",
+      "assign_action",
+      "clarify_point",
+      "express_concern",
+      "ask_question",
+      "cite_reference",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 1741.523,
+    "end": 1775.466,
+    "text": " I would just wonder whether the Waikeria fire was actually a water loss. Why would that come into our calculation? I looked at, thank you. We're being picky here. I can't see how servicing a fire constitutes a water loss. Water loss is leakage from the system. In other words, treatment of potable water, which otherwise doesn't get to the end user.  And I would have thought actually servicing the fire might be part of that process. So it might be just worth looking at that one, so.",
+    "speaker": "brucerobertson",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 1775.786,
+    "end": 1779.707,
+    "text": "We'll engage with the Waters team around that one and come back. Yeah, look, I get that.",
+    "speaker": "mgrbirm",
+    "tags": [
+      "assign_action",
+      "confirm_next_step",
+      "agree"
+    ]
+  },
+  {
+    "start": 1780.047,
+    "end": 1793.072,
+    "text": "Hey, Susan, thank you for the very hard yards on that. I'm actually impressed. It makes me ever want to put a report in front of you. You might suddenly find I can't type and spell, which is probably true. Andrew, can I have your comments, please?",
+    "speaker": "brucerobertson",
+    "tags": [
+      "ask_question",
+      "state_opinion",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1793.88,
+    "end": 1849.732,
+    "text": " Yeah, thanks, Bruce, through you. Yeah, and again, well done, Susan, that's a brilliant effort. Just while you're on that, I've just noticed you're talking about on page 193 of our agenda, some notable links with Council's network probably should be contributed rather than attributed, but very minor. Yeah, so look, Susan's covered all the things I wanted about the report and more, I should say.  I figured there was a typo, read that chart with a 26% because there was no downward arrow. So yeah, what I wanted to ask, Leon, please, I take it we're talking about the, I think $24 million in the roading assets mentioned on page whatever it was, 50 something. So how is that going to be reported now, might I ask?",
+    "speaker": "andrewbrown",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 1852.307,
+    "end": 1854.57,
+    "text": " Are you talking about my audit report, Councillor Brown?",
+    "speaker": "leonpieterse",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1855.05,
+    "end": 1864.239,
+    "text": "Well, I'm talking about the change in the reporting regarding the asset write-off, effectively. And so what nature is that change going to take us?",
+    "speaker": "andrewbrown",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1865.26,
+    "end": 1874.729,
+    "text": "Okay, so in this annual report, you've got your disclosures. And in my audit report, I will refer to that disclosure. Okay. As a paragraph.",
+    "speaker": "leonpieterse",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 1876.129,
+    "end": 1894.614,
+    "text": " We're not changing anything in actually how the revenue or balance sheet, you know, items are currently. Greg Morgan Can you just clarify for me, are you asking what are the accounting adjustments for the prior period error?",
+    "speaker": "andrewbrown",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 1897.226,
+    "end": 1908.323,
+    "text": " Yeah, so, yeah, so, Ash, I can cut in there. So, yeah, so essentially that note, and I think it's note 32, actually. Do you just have a page reference there?",
+    "speaker": "kenmorrisg",
+    "tags": [
+      "ask_question",
+      "cite_reference",
+      "clarify_point",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 1908.383,
+    "end": 1909.264,
+    "text": "I'm 32 on page 121. 121, right, OK, yep.",
+    "speaker": "brucerobertson",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1913.831,
+    "end": 1991.988,
+    "text": " Yes, yep, that's right. So look, essentially, yeah, essentially there are some changes to that disclosure. So, yeah, so the technical team who were sort of, who were instrumental in, I guess, developing the  You did have some concerns around some of the wording there, as well as, I believe, the presentation of the table of numbers, but the $17.9 million still remains the same.  Yeah, I know we did have an adjustment in regard to the discovered assets, so they're not actually part of this element, but we did have a, and Yolanda, you might correct me if I'm wrong here, I believe we had a $901,000 adjustment to the statement of financial performance or income and expenditure. So yeah, so we did have a change there.  So, look, there are a number of changes that are required, but fundamentally, in regard to note 32, it will still be a very recognisable note when you see the final version come through. Yeah. That note is not going to change, isn't it, Ken?",
+    "speaker": "kenmorrisg",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "defer_to_authority",
+      "ask_question",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 1992.928,
+    "end": 1996.369,
+    "text": "Sorry? That note as it stands, that's not going to change.",
+    "speaker": "leonpieterse",
+    "tags": [
+      "clarify_point",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 1997.396,
+    "end": 2013.441,
+    "text": " But they are relatively minor. Oh, yeah, that's right. Thanks. Thanks, Andrew. Do you have any other points to make? Yes, thank you, Andrew. Roger. Yeah, just going further from that, with those, you know, with the, you know, with the, you know, with the, you know,",
+    "speaker": "kenmorrisg",
+    "tags": [
+      "ask_question",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 2027.098,
+    "end": 2051.452,
+    "text": " assets that have disappeared there would obviously be have been historically a claiming of depreciation on those assets which how do we handle that because that's a historical change to past accounts and well that's the question how do we handle that",
+    "speaker": "rogergordon",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 2053.373,
+    "end": 2184.58,
+    "text": " Yeah, so through the chair, just in response, Ece, you've hit the nub of one of our most complex issues. The accounting team, or the finance team at Waip\u0101, and in fact the auditors, were really scratching our heads over. We had multiple conversations, Ece, not only about the depreciation,  But, Roger, we were in the very unfortunate situation of, of course, over time having revalued these assets that didn't exist as well. So, yeah, so that actually made things quite complex, particularly when you're talking about a long way back, like we can go back in our ledgers about  about nine or ten years or so, but there was a certain point that we couldn't go beyond. So, look, we had to make some assumptions, but essentially we have backed out, obviously, accumulated depreciation on all of the assets, so it's all of the assets that were backed out.  we knew how much accumulated depreciation had been charged, and we backed that out. But look, we had to make various assumptions in regard to the revaluation reserve component on those assets, et cetera. So look, this is complex, and the adjustments we've made are not absolutely perfect, because we did not have the information to make those adjustments perfect.  and look in regard to that depreciation that's been charged. Obviously, we can't sort of go back and fix that up, but we would have derived some revenue streams in regard to that depreciation, which obviously is ring-fence money and any depreciation charges.  the revenue that comes in to compensate for that depreciation does get spent on other infrastructure.",
+    "speaker": "kenmorrisg",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "defer_to_authority",
+      "summarize_outcome",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 2186.1,
+    "end": 2213.435,
+    "text": "If I may just say, the possible error, the margin of error here is very small because, is that not the right English? Anyway, the possibility of a material error is rather small because of the nature of these assets, because they are depreciated over such a long period of time  Councillor Gordon, that we don't expect a big error and that's why we could accept in the end we've got some uncertainty but we don't think it's significant.",
+    "speaker": "leonpieterse",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 2216.389,
+    "end": 2251.866,
+    "text": " OK, thank you. And thank you for a very good question, Roger. It does reflect the complexity, as Ken and Leon have explained, of actually what is ultimately an error. Because, I mean, I think the point we're also making there is that it will have affected our funding. In other words, the rates we have requested off our ratepayers as well. So it is important.  that we do acknowledge this is an error and that we, you know, we look at our systems to see how it is going forward. And Ken, you've already affirmed for us that you're comfortable that your current systems should prevent this sort of matter happening again. Yes, Andrew, another question.",
+    "speaker": "brucerobertson",
+    "tags": [
+      "provide_information",
+      "express_concern",
+      "assign_action",
+      "clarify_point",
+      "reassure_stakeholders",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 2253.107,
+    "end": 2275.08,
+    "text": "Yeah, I guess I'm having a bit of trouble with my mute button. Yeah, that was the other question. Looking at it, it's, I guess, 24 million's material in terms of  Council's revenue in any given year, but scarcely material when considered the total of our assets. It's very minor. Yeah.",
+    "speaker": "andrewbrown",
+    "tags": [
+      "provide_information",
+      "evaluate_option",
+      "clarify_point",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2275.877,
+    "end": 2294.462,
+    "text": " And as Kian has hinted there, I mean, it will have been used to reinvest in the assets. So it's not as if it has been imprudent. It's just really a matter of timing. When do you ask the ratepayer for their money? And arguably, we've asked for it too early.",
+    "speaker": "brucerobertson",
+    "tags": [
+      "build_on_point",
+      "provide_information",
+      "clarify_point",
+      "state_opinion",
+      "evaluate_option",
+      "reassure_stakeholders",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 2295.206,
+    "end": 2327.813,
+    "text": " Roger. Yes, just another small question. We actually went through a revaluation of the roading assets, I believe, two years ago, which made considerable difference to our annual plan at the time. Why did we not pick this up then? And secondly to that,  What confidence have we got that we've actually picked all of these redundant assets up now?",
+    "speaker": "rogergordon",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 2330.114,
+    "end": 2451.278,
+    "text": "Yes, so, look, I think, Roger, in effect, actually, sorry, let me just, I'll just go to the words that we've used in note 32, so top of page 122 of the agenda.  So, yeah, so the words we've used is Council has a continuous data improvement programme in place. So, look, yeah, if you look back on our past annual reports, we have quite often had discovered assets and we have quite often had asset write-offs. So that have occurred as part of revaluation processes.  So, look, this is not unusual, and again, I fall back on the fact it's not unusual for local government, due to the complexity of our asset records, to identify these things as you go into a revaluation.  So, look, the numbers this time were large, so I think this is abnormal in terms of the size of the data scrub exercise, or certainly what's the results of the data scrub exercise. But look, hand on heart, I cannot say that our  register is absolutely perfect now. I don't think any CFO in local government could hand on heart, you know, say that. But look, it is continuously improving and, you know, audit actually plays a lot of focus on this area as well.  And, yeah, my understanding is that Audit are comfortable with the place that we're in and our confidence in the asset data. So it's not going to be absolutely perfect, but, yeah, I think our asset registers are pretty good after this latest cleanup.",
+    "speaker": "kenmorrisg",
+    "tags": [
+      "provide_information",
+      "reassure_stakeholders",
+      "defer_to_authority",
+      "state_opinion",
+      "cite_reference",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 2455.583,
+    "end": 2665.785,
+    "text": " Thanks, Roger. And it does also reflect why, when we see Leon's audit plan, and he says, I'm interested in a revaluation, that actually this morning's discussion has shown how it affects right across the accounts, including our funding, but also actually what is the real size of our asset base, because actually, Roger, if you think about some of the other business we transact in this committee, it will include potentially, not necessarily roads,  Although it could be for disaster insurance, affect our insurance. So, you know, these things, it just comes back to the fact that we need to have a continual review of this. I would just also support Leon's comments from my work elsewhere.  that actually I've got at least one or two engagements where they have particular and specific projects to really look at the data. It reflects two things. One, our assets are long life and our previous practice has not been great. It also reflects that actually we need to bring in our infrastructure services side and integrate it with our financial side. I'm not saying that's not the case at Waip\u0101,  But what I'm trying to reflect is sectorally, that is a substantial challenge, believe it or not. OK, can I just raise just minor points now, Ken, please, just to get through my list. One is on page 44 of the balanced budget test.  That's quite a significant difference. I think we're at 79%. Is that right, a balanced budget? I just wonder whether we just have a slightly bigger paragraph there that explains more fully why we are in a prudent position.  I'm conscious the balanced budget test has a correct connotation that we will rate in the year sufficient revenue to meet our expenses. I mean, that's essentially the balanced budget test, right? Section 100. The fact that we are  under at 89%, sorry I said 79, at 89 suggests that for some reason we are either under our asset base, we're not rating enough, or the likes. I think we just need a stronger statement for our external readers, and I'm talking to the Department of Internal Affairs here, which just supports that. That seems to me to be a reasonably important one.  Page 55, there's just a, you will do it, there'll be a small sweep of the numbers because I think we obviously have had minor adjustments to the accounts, but I notice the explanation of the operating surplus has a surplus of 40.5, whereas if my reading is correct,  You are dead correct, it's actual for 2021. Oh, it's with the group, sorry, I was looking at the parent. Got that one solved, there we are. Sometimes you read these things too fast. Can I go over to page 58? Surprised me, and it may be that I've got to go back and just check out. We have a budget for, and the cash flow for purchase property plan equipment of 170 million, and we have an achievement of 74.  Is that right? It must be, to be honest, because it balances. But it just struck me as a somewhat large number. And I just wondered how that's set. It's been right. Is that a right number? That we're 100 million shy of what we plan to spend?",
+    "speaker": "brucerobertson",
+    "tags": []
+  },
+  {
+    "start": 2668.524,
+    "end": 2683.639,
+    "text": " Yeah, in cash flow terms, at face value, Bruce, but look, we will look at that. The finance team will look at that and give you some insurances in regard to cash flow.",
+    "speaker": "kenmorrisg",
+    "tags": [
+      "agree",
+      "assign_action",
+      "confirm_next_step",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 2683.659,
+    "end": 2760.053,
+    "text": "Yeah, if you can just do that, please, that'd be super helpful. And on page 102,  Oh, get rid of that. On page 102, we note that a tranche of debt should have been paid by now. And I was only looking for a bit of technical advice, whether perhaps either here, probably here on the subsequent event, we should just note that the eight, sorry, it's $8 million has been repaid.  In other words, it's an event after balance state, and we still haven't finalised our report. Minor, but I would think that would be helpful. 120. Look, it needn't happen now. I was just interested why the Fonterra amount had been transferred from rates to user fees. And it made our rate number look odd on the face of the P&L. That's probably something which you can align for me,  There's a reason why later on it says the $3.7 million of revenue from Fonterra transferred from rates without saying why. If it's not rates, it would be interesting to know why we're all of a sudden $4 million under where we planned to be in terms of our rating budget number.",
+    "speaker": "brucerobertson",
+    "tags": [
+      "assign_action",
+      "ask_question",
+      "clarify_point",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 2761.916,
+    "end": 2764.578,
+    "text": " Sorry, Bruce, did you have a page reference for that?",
+    "speaker": "kenmorrisg",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 2764.658,
+    "end": 2836.089,
+    "text": "Oh, sorry, 120. It's the first bullet point explaining the differences under comprehensive revenue. Right. Yeah, thank you. It's compensating, but it just says something underlying was of interest in terms of our budget, in terms of our actual results. We've had a good thrash of 121, 122, which is the prior period error.  I never like having to acknowledge that we got it wrong in the past, Leon.  and it's probably my role as chair to fight that in some sense that we've got an error, but I think it's pretty hard to accept that that is not the case. So thank you for your hard work on that. Ken, those are my biggies, and in fact, my smallies as well. I'm very conscious, Clare, that you've done also a very good job  review and probably done even a better thing, which is put them through to Ken prior to the meeting. So if I could just acknowledge the hard work that you have done as well. Is there any other points that with that from those contributions other members would like to raise at this point? Yes, Clare.",
+    "speaker": "brucerobertson",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "state_opinion",
+      "provide_information",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 2836.95,
+    "end": 2878.313,
+    "text": "You will, just on the discussion about the roading asset era, I would really be, I'd really like to see the figures of the depreciation or how it impacted  funding or insurance because, you know, at the moment we don't have that quantified at all. And yes, you're right in that, well, it was part of the calculation for collecting depreciation and it's been reinvested and all that. But another side of it is we collected too much and should actually we be, yeah, I suppose, adjusting our rating going forward. I mean, I'd just like to understand that in more detail, really.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "assign_action",
+      "evaluate_option"
+    ]
+  },
+  {
+    "start": 2880.546,
+    "end": 2987.928,
+    "text": " Now, that would be a difficult proposition, actually, Clare. Can I say, I think we just, and this is why we have to accept it's an error. I mean, arguably, we've taken off individual ratepayers' money sooner than we should have. But as you've heard from Ken, and I don't want to overstress, if we're going back to 1947, so which ratepayer do we reimburse, if you can put it that way?  That's why I think we have to, as we are here, fess up that we haven't got it right for, I think, some pretty understandable reasons, but nevertheless, the impact. And I think the other thing that Leon said through the process was while $18 million is a large number in any one year,  it has been immaterial to the point of minuscule in any of those years, so the level of  overrating, or potentially, quite frankly, the insurance impact is probably pretty marginal. Now, that's why I say, look at 80 million in any one year, that's a big number for all of us. But the reality of it is this is accumulated over a considerable number of years. The best thing I think we can do, and this is actually, and I'd like to suggest, Ken, that perhaps later on in the fullness of time,  Perhaps we should have another revisit of this in our discussion, particularly with Dawn, around just how things are going from the maintenance of our database, or our asset databases, so that we can have some confidence that we won't fall into this hole or trap later on. I'd just like to point out, I'm not suggesting that we go through and try and reimburse individual ratepayers over those",
+    "speaker": "brucerobertson",
+    "tags": [
+      "state_opinion",
+      "clarify_point",
+      "express_concern",
+      "build_on_point",
+      "assign_action",
+      "defer_decision"
+    ]
+  },
+  {
+    "start": 2989.5,
+    "end": 3013.982,
+    "text": " 60 or 80 years, it's more that we really haven't been given very much detail about the quantum of those various components of the era. That's how I felt anyway. And I'd appreciate a bit more detail on it. But if the other members are comfortable with it, I guess, yeah. And as you said, maybe further down the track, we could do a bit of you.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "express_concern",
+      "ask_question",
+      "state_opinion",
+      "defer_decision"
+    ]
+  },
+  {
+    "start": 3014.868,
+    "end": 3034.9,
+    "text": " Well, look, I'd invite you, Ken, if there's a chance. I'm, shall we say, comfortable as chair, but obviously Ken will have his working papers behind this, Claire, and if that's needed, that's useful. But otherwise, I think we recognise that over time, this is pretty minor.",
+    "speaker": "brucerobertson",
+    "tags": [
+      "defer_to_authority",
+      "assign_action",
+      "reassure_stakeholders",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 3036.609,
+    "end": 3095.567,
+    "text": " Yeah, so on that, Chair, I mean, obviously we know what components we've reversed in terms of revaluation reserve pertaining to those assets, in terms of accumulated depreciation pertaining to those assets. But the trouble is that once you start getting further back than nine or 10 years, you really can't tell how much those revaluation reserves and perhaps the accumulated depreciation  have been essentially inflated due to incorrect or over-depreciation or over-regulation for assets that didn't exist. So while we could tell you exactly what we've reversed in both those respects, the baseline issue is that some of this is really historic data and therefore we can't actually determine the correctness of some of that if we go further back.",
+    "speaker": "kenmorrisg",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 3096.509,
+    "end": 3220.928,
+    "text": " And to bamboozle us all with numbers, there's also two other matters which affect that, and actually, you've got to understand what is the funding strategy in years gone by, because if we go back to past practices where we have cash funded, probably we've never rated for the depreciation anyway in the past. And the other thing, of course, we've also got discovered assets, so we have been under depreciating.  for those discovered assets, potentially, and not seeking the right level of funding off our ratepayer and community. So that's why, Claire, given this is a matter that's accrued over time, we have to be incredibly transparent, I think, in the way that we are, and we have to acknowledge that it's a mistake, and really treat it on that basis.  I'm very conscious of time. We've made very good use of the hour, Ken. I do hope that's been helpful for you and Leon to have had a sense from the committee as to what might be some final changes. I do just want to, again, compliment the committee for actually diligence in going through this. It's actually superb. And I do appreciate your attention to detail.  even if it's tensors and what have you, I think the quality of our annual report always reflects on that. The one other thing, though, that before I move that we adjourn the meeting to next, was it Tuesday? It doesn't matter. Tuesday, thank you. It might be good for me to make certain I've got that right again. I just note that actually we've also got a summary here.  And while it's pretty much a pickup from the annual report, did people look at that? Was there any matter that people want to raise around the summary? Right, Leon, just one thing that would be helpful for next week, obviously, is to pre-circulate the draft opinion. Can I ask at this stage, what does that opinion look like? Is it unmodified?",
+    "speaker": "brucerobertson",
+    "tags": [
+      "provide_information",
+      "express_concern",
+      "ask_question",
+      "assign_action",
+      "clarify_point",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 3221.49,
+    "end": 3235.757,
+    "text": " It's an unqualified ordered opinion over the financial statement statement of service performance. We include an emphasis of matter paragraph referring  I should know this offhand.",
+    "speaker": "leonpieterse",
+    "tags": [
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 3235.777,
+    "end": 3251.743,
+    "text": "The three waters reform. Good. No, that's fine. And also, can we have, please, obviously I'd expect the draft letter of representation. Again, at this distance, I presume it would be a reasonably standard letter that you're asking Jim and Gary to sign.",
+    "speaker": "brucerobertson",
+    "tags": [
+      "ask_question",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 3252.427,
+    "end": 3271.455,
+    "text": " Yeah, it's a clear letter of ref, because most of the misstatement, or all of the misstatements, the significant misstatements have been made this morning. And Ada, thank you very much. And so that's what I expect. Will, I'll provide you with a signed audit report for next week's meeting, as that is the requirement under the Act.",
+    "speaker": "leonpieterse",
+    "tags": [
+      "confirm_next_step",
+      "report_back",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 3272.935,
+    "end": 3354.13,
+    "text": "Brilliant. That's great. Thank you for that. So look, firstly, I'd like to therefore move the  Motion that we now adjourn this meeting of the Audit and Risk Committee to 2pm, I think is the designated time on the 30th of November. I'll move that. Thank you, Roger. You second that. I'll put the motion. All those in favour, please say aye.  Those against? It's carried. So, look, just before we close, can I just again, Leon, thank you and your team. I know the pressure is great from not just this audit, but from across all the commitments, so I'm certainly overviewing.  and know that it's stressful. So thank you for your good humour this morning and honesty. And we certainly look forward to next Tuesday getting to the finish line, which will be superb. And look, I will just Ken, and I can see Yolanda and I think there's at least one other name there I should, Nada as well. Thank you. Thank you for your  very hard work to get us here as well. I know that for both you and the auditors, this is the third external accountability document, last year's annual report, the LTP. And now this virtually all in a row, you've been living in each other's pockets massively to get there. So thank you also for your hard yards to get us here. And I look forward to next Tuesday when we get to",
+    "speaker": "brucerobertson",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "summarize_outcome",
+      "reassure_stakeholders",
+      "confirm_next_step"
+    ]
+  }
+]

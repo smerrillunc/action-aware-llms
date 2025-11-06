@@ -1,0 +1,1574 @@
+[
+  {
+    "start": 1.152,
+    "end": 23.07,
+    "text": " All persons having business before the Honorable Chief Judge and Associate Judges now presiding over the District of Columbia Court of Appeals, draw near and give your attention. God save the United States and this Honorable Court. This Honorable Court is now in session. Please come to order. All right.",
+    "speaker": "courtroomclerk",
+    "tags": [
+      "court_opening",
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 23.11,
+    "end": 38.599,
+    "text": "Thank you. Good morning again, everyone.  Welcome to the District of Columbia Court of Appeals Virtual Oral Arguments. And we'll begin with our first case today, Charmante Walker versus United States. Are you ready to proceed?",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "court_opening",
+      "case_call",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 39.879,
+    "end": 161.597,
+    "text": "Yes, Your Honor. Good morning, Monica Milton on behalf of Mr. Charmante Walker, the appellant in this case. I would like to reserve two minutes for rebuttal. Okay. Judge, Your Honors, counsel, may it please the court.  Mr. Walker asked this court to reverse his convictions because Strickland and Brady violations unconstitutionally hampered his ability to prove his innocent or amount any defense. The Sixth Amendment to the United States Constitution guarantees every criminal defendant adequate and effective representation. The only defense Mr. Walker had against the ample power of the United States government would have been effective trial counsel.  Strickland versus Washington directs courts to analyze this under two prongs to determine whether counsel's assistance was ineffective. And that's whether the performance was sufficient. And Mr. Walker must show that that deficient performance prejudice the defense. With respect to performance, he has the burden to show that counsel's representation fell below objective and standard of reasonableness.  Mr. Attorney Jeffrey Lewis failed to make proper pre trial investigations failed to interview exculpatory witnesses and failed to present any evidence for the defense in that constitutes ineffective assistance of counsel.  The record indicates that Mr. Walker first alerted the court to Jeffrey Lewis's deficient performance three months before trial. And he stated that his attorney was not investigating. He was not filing pre-trial motions. And Mr. Walker was fearful that his attorney was not adequately prepared. And that bore out because Mr. Lewis did not present a defense for Mr. Walker.",
+    "speaker": "monicamilton",
+    "tags": [
+      "opening_argument",
+      "reserve_time",
+      "legal_citation",
+      "substantive_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 163.499,
+    "end": 178.632,
+    "text": " Counsel, didn't the trial court check in with him subsequent to that and say, have your concerns been resolved and addressed? And your client said, yes, I'm OK now, and I'm ready to go.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_question",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 178.692,
+    "end": 208.498,
+    "text": "Yes. Mr. Walker stated the reason that he said he was OK is because he knew that Judge Motley was not going to give him a new attorney. So he essentially gave up.  But prior to trial, Mr. Lewis was giving such inadequate pre-trial investigation that Judge Motley appointed co-counsel to help him. With respect... Ms.",
+    "speaker": "monicamilton",
+    "tags": [
+      "fact_statement",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 208.538,
+    "end": 282.947,
+    "text": "Walker, just to follow up on that, when the court did hold the 23-110 ineffective assistance of counsel hearing,  There was extensive testimony and questioning back and forth and a number of inconsistencies where Mr. Walker claimed that he told his counsel about particular witnesses. And as the trial judge found, in some instances, that information wasn't shared prior to trial or in a timely way. And so the trial judge made a number of credibility findings based on  the testimony of counsel regarding the steps counsel did take during the investigation. How do you view our role in reversing some of those credibility findings where there was such extensive testimony and pretty detailed findings made by the trial court that trial counsel did investigate, did make some strategic decisions, and didn't have all of the information that the  Mr. Walker claimed that he had?",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_question",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 284.947,
+    "end": 304.872,
+    "text": "So with respect to the strategic decisions, at least one time during the 23-110 hearing, Attorney Lewis admitted that there was not a strategic basis for not investigating evidence to rebut the government's case. And secondly, attorney- Which evidence in particular?",
+    "speaker": "monicamilton",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 304.912,
+    "end": 319.904,
+    "text": "Because there was a lot of evidence that would have  according to the trial judge been cumulative or not cogent in the trial judge's findings and view.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_comment",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 320.842,
+    "end": 431.646,
+    "text": " So at least two witnesses, one witness that attorney admitted that Chamonte Walker told him to investigate was someone that he identified in one of the government's videos. He said that he would have liked to interview and this individual's name was Jermaine. So attorney Lewis does admit that Mr. Walker was giving him lots of witnesses  And it seems to be the case that there was a pattern in practice. Mr. Lewis would dismiss them before even interviewing them. Now, the investigator is another story because we don't know he's passed away before the hearing what efforts he made. But Attorney Lewis at least stated that part of the reason the investigator wasn't meeting with witnesses was because of his own direction, stating that these things weren't relevant. Now,  Mr. Lewis was at least in possession of a Brady disclosure that indicated there was an eyewitness who said he heard and saw an argument between Mr. Carraway and the decedent before the shooting. And both Mr. Harn, the co-counsel appointed, or rather relatedly, but appointed before two weeks before trial, stated that they would have liked to have interviewed this person. And neither one of them did so.  This is a disinterested eyewitness who states that he heard an argument which was contrary to the government's proposition that there was a premeditated agreement before the shooting that they would all... The trial judge noted that at the time of the hearings, this witness, Mr. Thompson, could not be located.",
+    "speaker": "monicamilton",
+    "tags": [
+      "fact_statement",
+      "substantive_argument",
+      "record_reference",
+      "hedge"
+    ]
+  },
+  {
+    "start": 432.506,
+    "end": 464.99,
+    "text": " Does the record say anything about whether he could be located pre-trial? I know that the investigator died, and I don't know at what point he died, but does the record say definitively one way or the other whether any efforts were made to find Mr. Thompson or whether he could have been found? I realize that his particular identity was not disclosed until later.  But does the record say anything about whether or not there were efforts to actually find him?",
+    "speaker": "judgethompson",
+    "tags": [
+      "judge_question",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 465.931,
+    "end": 504.934,
+    "text": "There was no indication that the Defense Council ever asked for the identity of this witness. I think at least during the 23-110 motion, both Attorney Hahn and Attorney Lewis said, we would have liked to speak to this person. We believe we asked for the identity, but the government never gave it to us.  So I think that in this instance, this court's presented with sort of the intersection of Brady and Strickland as to whether or not there was an affirmative duty for the government to have disclosed this information. But counsel, I mean, let's accept that that's deficient performance, right?",
+    "speaker": "monicamilton",
+    "tags": [
+      "fact_statement",
+      "legal_citation",
+      "substantive_argument",
+      "concession"
+    ]
+  },
+  {
+    "start": 505.054,
+    "end": 572.683,
+    "text": "I mean, the government identifies this statement, I think, correctly by this witness, this observer.  as possibly favorable information, right? And the pretrial obligation to disclose is broader, right? They're supposed to disclose anything that's arguably favorable. So this is arguably favorable.  And they turn it over to defense counsel and defense counsel doesn't follow up doesn't ask for the name doesn't do anything with it fine it's deficient that now we're in the post conviction proceedings and looking retrospectively and we're trying to discern the prejudice the harm from this. And the fact of the matter is this account from this person in a window looking down on the scene.  doesn't match up with the video tape evidence, doesn't match up with the autopsy report, right? This person is saying that it's the face-to-face argument and the man is shot from the front. All evidence is that the decedent's shot from the back. So as far as sort of harm now, how can we say that this justifies a new trial or reversal relief for your client?",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "substantive_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 573.615,
+    "end": 697.694,
+    "text": " So I just want to challenge the notion that the shooting had to happen from the front. Just because there is an argument facing each other doesn't mean that the decedent didn't turn around if he observed a gun, that he could have turned around. He could have moved, maybe seeing the gun. So I don't think that there's evidence that  Just because there was an argument that was face to face, it means that that necessarily means he was shot face to face, he could have turned around to flee if he exerted a gun, he could have been.  alerted to that and turning around. So I don't think that that's inconsistent with the idea that they were in an argument, but it does go to the issue as to whether or not this was premeditated. And although the government asserts that there was an ample amount of evidence, I'm sure the court was able to view the video. The video really, there's no sound.  The video doesn't really indicate anything in terms of the context of this shooting, other than I don't think that that's an issue with that issue is whether or not there was an argument, whether or not that precipitated the shooting or whether there was before the shooting, there was an agreement because this Mr. Walker is convicted under an 80 and abetted abetting theory.  And although the trial judge said that there was ample amount of evidence, there's ample amount of evidence that Mr. Carraway shot Mr. Hendy, and we all agree with that. But we don't agree with whether or not there was an agreement beforehand. We don't have any disinterested witnesses testifying. Mr. Lewis does not want to examine Janetta Sapp, who's the property manager who claims to have identified Mr. Walker on this video.  makes no effort to cross-examine despite the graininess and lack of sound in the video. But didn't your client actually acknowledge that that was him on the video, that he was shown on the video?",
+    "speaker": "monicamilton",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "disagreement",
+      "fact_statement",
+      "record_reference",
+      "hedge",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 698.796,
+    "end": 758.764,
+    "text": " I mean, there's a lot of Monday morning quarterbacking going on here. And we need to consider what the lawyers knew at the time they were making decisions. And they had both an acknowledgment by your client that he was shown on the video and a statement to police that he was shown on the video.  And there were several other witnesses, accounts about the so-called argument conflicted with what Mr. Thompson apparently said. So given all that, can you really make the case for prejudice here?  There's also the point, by the way, that any effort to undermine the video and the like would have just led to the government's effort to use Mr. Carraway in the rebuttal case, which would have been extremely damaging to your client.",
+    "speaker": "judgethompson",
+    "tags": [
+      "judge_comment",
+      "judge_question",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 760.762,
+    "end": 853.652,
+    "text": " Thank you for your question. With respect to the video, at the 23-110 hearing, Mr. Attorney Lewis does not say that this is the video that my client identified himself in. There were several videos and he admitted there was no dispute that he was near, he was on the scene, so to speak. So that's not disputed. It's just a matter of whether or not that this argument happened and the attorney says,  That went against what we knew to be the case, but that's the point. The only thing they had to go on was the government's proper and theory. So if there was an inconsistent eyewitness who could testify to something that was in conflict with the government's case, then it's constitutionally ineffective for one, that he did not go and try to seek out that witness. And secondly, that he would not have presented this disinterested witnesses testimony.  Despite the fact that the trial court believed that this was a strong case, it was a strong case to the extent that they were able to prove Mr. Carraway shot Mr. Hendy. The agreement was not a strong case. They had his ex-girlfriend testifying who benefited through government resources for relocation money. There was really no one that the government presented  that had personal knowledge of this case, that was stronger than this interested witness who witnessed, he's the only one that witnessed the shooting with his own eyes and heard and was able to identify.",
+    "speaker": "monicamilton",
+    "tags": [
+      "acknowledge",
+      "fact_statement",
+      "substantive_argument",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 854.212,
+    "end": 865.598,
+    "text": "Ms. Milton, I didn't want to interrupt you. You did reserve two minutes for rebuttal. And I don't know if either of my colleagues have any more questions or did you want to reserve the rest of your time for rebuttal?",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_question",
+      "reserve_time",
+      "time_management"
+    ]
+  },
+  {
+    "start": 865.998,
+    "end": 867.699,
+    "text": "I'll reserve the rest for rebuttal, thank you.",
+    "speaker": "monicamilton",
+    "tags": [
+      "reserve_time",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 868.179,
+    "end": 871.599,
+    "text": "All right, thank you, Ms. Milton.  Mr. Han.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "acknowledge",
+      "case_transition"
+    ]
+  },
+  {
+    "start": 873.14,
+    "end": 915.756,
+    "text": "Thank you, Your Honor, and may it please the court, Brian Han for Appelli, the United States. I want to start with witnesses Hall, Brown, and Alondra Smith. And I think that Judge Motley's findings that  they never contacted Attorney Lewis and that appellant never told Attorney Lewis about those witnesses was not clearly erroneous. It's based on testimony from Attorney Lewis. It's based on inconsistencies and problems with the testimony of those witnesses and appellant himself. And so that finding is not clearly erroneous. And as- I think that's right.",
+    "speaker": "bryanhan",
+    "tags": [
+      "opening_argument",
+      "substantive_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 916.076,
+    "end": 922.107,
+    "text": "Go to Mr. Thompson, the witness that was not investigated.  What do you have to say about that?",
+    "speaker": "judgethompson",
+    "tags": [
+      "judge_question",
+      "judge_procedural_directive"
+    ]
+  },
+  {
+    "start": 923.072,
+    "end": 962.484,
+    "text": " So I think there's a few things, Your Honor. I think, first of all, we're looking at this through the lens of an effective assistance of counsel in terms of Appellant 23-110 claim, whether or not they were deficient in not investigating this witness. And as the Supreme Court in Strickland has recognized, as this court in Kosio has recognized, an attorney's investigation is rightly guided by what their client tells them, or what his or her client tells them.  And what do you, what does the attorney listen to that right, I mean, the attorney is representing the client, because the client.",
+    "speaker": "bryanhan",
+    "tags": [
+      "opening_argument",
+      "substantive_argument",
+      "legal_citation",
+      "hedge"
+    ]
+  },
+  {
+    "start": 963.363,
+    "end": 1013.664,
+    "text": " doesn't have the skills that the attorney has, right? I mean, the client has the Sixth Amendment right to counsel. That's got to mean something. So the client can't be driving all the decisions. And in fact, we say there are just a few decisions that are reserved to the client. Do they want to plead? Do they want to testify?  But as far as strategy, trial strategies, for sure, the lawyer is supposed to talk to the client and get the information that he can from the client. But he's supposed to do his job independent of the client, because clients come to the table with all sorts of capabilities, right? So I don't find that argument to be sort of dispositive here. Why else should we not be troubled about Mr. Thompson?",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_comment",
+      "legal_citation",
+      "substantive_argument",
+      "judge_question",
+      "disagreement"
+    ]
+  },
+  {
+    "start": 1014.843,
+    "end": 1078.271,
+    "text": " So I think that you're right, your honor, and that the attorney is supposed to use their own judgment when investigating the case. But I think that the argument is not that the client guides the investigation. It's that the information that the client has informs what the investigation is. And again, there's no  I mean appellant, you know, says he's there. There's no allegation that appellant is actually the gunman. Everyone agrees that it's Miko Caraway and appellant identifies himself on surveillance video of the scene. And so he's clearly there and  The testimony from Attorney Lewis is that at two points in the hearing is that, you know, appellant never gives us the names of anyone who can account for his movements on the scene, except for Corey Yates. And of course, you know, they can't call Corey Yates as a witness, or at least there are issues with that. And so I think that- When you say issues with that, are you talking, what issues are you referring to?",
+    "speaker": "bryanhan",
+    "tags": []
+  },
+  {
+    "start": 1078.331,
+    "end": 1087.744,
+    "text": "The fact that some- The fact that- He might've invoked the,  his Fifth Amendment rights or that they were having difficulty locating?",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_question",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1089.005,
+    "end": 1128.026,
+    "text": "No, Corey Yates is the co-defendant, so I think it's the Fifth Amendment rights is the fact that they're both charged with the same crime in the case. I think that's the difficulty there. And  And going back to your question, Judge Eastley, I think that in terms of what investigation would be fruitful in this case to Attorney Lewis at the time that he has this case, he's got all this information that there was no face-to-face argument.  that the witness Fred Thompson describes. But wait a second, I mean, the government is making a Brady disclosure, right?",
+    "speaker": "bryanhan",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 1128.106,
+    "end": 1169.339,
+    "text": "That in and of itself is notable and worth examining carefully. And the government says, you know, there is an eyewitness who says X.  that is sort of new information. Why wouldn't you want to know who this person is, talk to this person, and figure out if there are any other people who are with this person who can corroborate their account, what their vantage point was? Why wouldn't you want to investigate that need when the government is handing it to you and saying, we think this is possible Brady information? That seems like a significant oversight to me.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_comment",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 1171.333,
+    "end": 1216.086,
+    "text": " I think, Your Honor, that based on everything else they know about the case, I think it's reasonable for them not to have investigated that witness because the witness is so clearly incorrect in the description of what happened.  But I think that even if this court disagrees, if this court thinks they should have talked to them, sorry, that the attorney should have talked to Fred Thompson, I think that, again, as Judge Isholy, you yourself noted, in this posture when we're post-trial, when we're talking about Appellant's 23-110 motion,  as Judge Motley found, there's very little that this could have done to affect the outcome of the case. And again, that's because- What about Ms.",
+    "speaker": "bryanhan",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "legal_citation",
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1216.126,
+    "end": 1246.566,
+    "text": "Milton's response to me, which is actually this did matter a lot because if this was a fight,  And if there's a face-to-face encounter and he then turns away and is shot in the back, if the shooting is attributable to a spur-of-the-moment flash of anger as opposed to a premeditated crime, that is definitely beneficial and possibly material to Mr. Walker.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_comment",
+      "substantive_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 1251.052,
+    "end": 1278.684,
+    "text": " I think that assumes, Your Honor, that this face-to-face argument would have been found, that the testimony about this face-to-face argument would have been found credible by the jury. And I think that Judge Motley finds that it's not credible because of this autopsy evidence, because of the video evidence. Again, there's not enough time, at least, tracking the movements of all the key players to the video for there to be this face-to-face argument.  And we also know that- Mr. Hahn, I'm sorry.",
+    "speaker": "bryanhan",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "hedge",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1279.044,
+    "end": 1302.53,
+    "text": "Was Judge Motley clearly confronted with the argument that Ms. Milton makes today? She says we presume that it was face-to-face and that that presumption is really not well-founded. Judge Motley made findings based on the autopsy. But was the specific argument made to him that this could have been a spur-of-the-moment, spin-around fight that maybe didn't take place face-to-face?",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 1305.483,
+    "end": 1323.477,
+    "text": " I don't think that the argument was made that this was a spur of the moment argument that this was not faced. I'm not sure I understand the question, Your Honor. Ms. Milton just posited to us when she was responding to some of our questions that we presumed and assumed.",
+    "speaker": "bryanhan",
+    "tags": [
+      "rebuttal_argument",
+      "disagreement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1323.657,
+    "end": 1340.345,
+    "text": "And she challenged that assumption that this was face to face. And she posited that it could have been other circumstances. And I'm wondering if that  argument was clearly made to the trial judge when he made the findings that it was a face-to-face argument?",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_question",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 1341.245,
+    "end": 1387.944,
+    "text": "I don't think so. And I think what Judge Motley is doing is that Fred Thompson's testimony in the grand jury, in his witness statement, in the disclosure that the government made, is that there is a face-to-face argument with four people standing sort of around in a circle.  And I think that's why Judge Motley focuses on the fact that Fred Thompson's sort of key inconsistent information there is that there's a face-to-face argument. And then he relates all the evidence that shows quite clearly that it was not a face-to-face argument, which is why Fred Thompson wouldn't have helped upheld the trial. And in fact,  I'm sorry, I think you were going to say something. No, go ahead.",
+    "speaker": "bryanhan",
+    "tags": [
+      "disagreement",
+      "substantive_argument",
+      "rebuttal_argument",
+      "fact_statement",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1387.964,
+    "end": 1389.244,
+    "text": "Go ahead. Finish.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_procedural_directive"
+    ]
+  },
+  {
+    "start": 1389.484,
+    "end": 1421.613,
+    "text": "I mean, in fact, I think that Attorney Harn testifies at the post-trial hearing that part of the reason why they are going for a defense of make the government prove its case instead of put on our own witnesses is because if they had to put on witnesses and those witnesses are disproven or inconsistent with or not credited by the jury,  that the jury will hold it against the defendant in that instance. And it would be more likely that he would be convicted. So I think this is, sorry, go ahead.",
+    "speaker": "bryanhan",
+    "tags": [
+      "fact_statement",
+      "substantive_argument",
+      "record_reference",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1421.973,
+    "end": 1456.332,
+    "text": "No, no, no. I was waiting for you to finish. I had a question on a slightly different tactic about this whole Brady question. Sure.  You know, the appellant's brief asserts that the government should have disclosed the identity of this witness, not just that there was this witness. And I'm not aware of any cases that require the government to do that. Are you? I am not aware of any cases that explicitly talk about the identity of the witness being disclosed.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_interruption",
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 1456.95,
+    "end": 1482.632,
+    "text": " And I do think that this is what often happens is that the government discloses the substance of what a witness testifies to, and then defense counsel follows up and says, we need to know who this is. And whether the government turns over the information or sets up a meeting between defense counsel and the witness to allow them access to that witness, that gets handled in pretrial litigation.",
+    "speaker": "bryanhan",
+    "tags": [
+      "fact_statement",
+      "court_procedural_remark",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 1483.482,
+    "end": 1492.448,
+    "text": " Council, um, Mr. Thompson comes to the government's knowledge, um, because he, how does he come to the government's attention?",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 1493.369,
+    "end": 1514.667,
+    "text": "Uh, he's a witness on scene. I'm not exactly sure. I'm not sure that it's.  Precisely in the record exactly how he comes to their attention. I know that he is the information that he gives part of it at least is in the arrest warrant for Miko Carraway, which is disclosed to Defense Council on April 8 I believe 2011",
+    "speaker": "bryanhan",
+    "tags": [
+      "fact_statement",
+      "record_reference",
+      "hedge",
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 1516.259,
+    "end": 1568.025,
+    "text": " Right, and so presumably he is interviewed, it's in some sort of police notes or report or something, right? That's correct. And so even though the chief notes that we've not specifically discussed disclosing identity, certainly we've talked about in our cases, the obligation of the government to disclose the original Brady material as opposed to summaries of that information, right? And we have said in our cases,  the government really needs to turn over the original materials unless they can show that there's a reason that they need to summarize that and that they summarize at their peril. So I would think that the identity of the person providing the Brady information is a key fact that the government would need to be cautious about omitting.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_comment",
+      "legal_citation",
+      "court_procedural_remark",
+      "judge_procedural_directive",
+      "substantive_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 1570.146,
+    "end": 1624.399,
+    "text": "And I think that's a good point, Your Honor. I think that  you know, the government balances this against, you know, concerns about witness safety and all those sorts of things in these kinds of cases. I think that if the, you know, even if the court thinks again that  Fred Thompson's identity should have been disclosed, that appellant's counsel should have asked about it, and that they should have interviewed him. I do think, again, Judge Motley fines and the weight of the evidence is against this face-to-face argument. And again, Fred Thompson also testifies that it happens in the parking lot, where we know from where the decedent's body is found, the pictures of where the decedent's body is found,  that that's not where the shooting happens because he's lying face down in the street near the sidewalk.",
+    "speaker": "bryanhan",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "concession",
+      "policy_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 1625.499,
+    "end": 1643.135,
+    "text": "Were there security concerns or confidentiality concerns that were particular to Fred Thompson that would have, in the government's view, prevented them from disclosing his identity here? Or is it just sort of they didn't ask so we didn't say more?",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 1644.588,
+    "end": 1657.038,
+    "text": " If there are any particular security concerns, they're not in the record, Your Honor. And so, you know, we're sort of left with this, you know, just that the information was disclosed, they didn't ask, we didn't tell them.",
+    "speaker": "bryanhan",
+    "tags": [
+      "substantive_argument",
+      "record_reference",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 1657.478,
+    "end": 1670.407,
+    "text": "Well, does that, and I guess that brings us back to the, why wasn't that ineffective assistance of counsel? And I guess your response is that Thompson's testimony would not have been that helpful as the appellant.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 1671.905,
+    "end": 1680.532,
+    "text": " That's correct, Your Honor. Based on the information that they have, both from appellant and from the other evidence, that information wouldn't have been fruitful.",
+    "speaker": "bryanhan",
+    "tags": [
+      "acknowledge",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 1680.612,
+    "end": 1704.373,
+    "text": "I wanted to ask a quick question in your remaining time. We didn't really touch on this during appellant's argument a moment ago. But was there, the government didn't respond to the concerns that appellant had about his attorney's failure to communicate with him.  appropriately and we didn't spend much time talking about that. Does the government have a position on that point?",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_question",
+      "time_management",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 1705.634,
+    "end": 1750.475,
+    "text": "Yeah, I think the reason why there hasn't been that much time spent on that is because there's no impact that appellant really claims from this failure to communicate other than, you know, the failure to investigate these witnesses that he supposedly told his attorney about. So absent any kind of prejudice and absent any actual impact on the case, I think that  even if there was some failure to communicate, and this wasn't really gone into at the post-trial hearing either, even if there was, that's not the basis of an effective assistance of counsel claim. And if there are no further questions, I'd ask the court to affirm the judgment of the Superior Court.",
+    "speaker": "bryanhan",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 1751.856,
+    "end": 1756.76,
+    "text": "All right. Thank you, counsel. Ms. Milton, you have a couple of minutes of rebuttal time available.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "reserve_time",
+      "acknowledge",
+      "judge_procedural_directive"
+    ]
+  },
+  {
+    "start": 1757.885,
+    "end": 1831.973,
+    "text": " Thank you, Chief Judge. So I just wanted to address some of the questions that you asked, Attorney Hahn. Mr. Frederick Thompson came about because he, I think he knew property manager, Shanetta Sapp, and he directly reached out to the police to tell them what he saw. If there was such an issue with credibility and what was going on and what he would testify to, I just wonder why the government would have asked for a grand jury testimony from him.  And, and furthermore, I'm attorney horn when he joins the defense team says he's disappointed with the state of the affairs he's disappointed that there wasn't more investigation.  If he had joined earlier, he would have investigated more. So I think that at least to the extent that there was a claim that there was a failure to investigate, even co-counsel agreed with Mr. Walker, who agreed that there was an insufficient investigation. And that really goes to the heart of our Sixth Amendment right to counsel because an early investigation could have helped attorneys decide how to dispose of the case.",
+    "speaker": "monicamilton",
+    "tags": [
+      "acknowledge",
+      "fact_statement",
+      "rebuttal_argument",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 1832.308,
+    "end": 1885.721,
+    "text": " Well, but I think that there's more to the test. And if you could go a little further, it's not under COSEO and our other cases. If there was an insufficient investigation, insufficient in and of itself is not enough unless you can show prejudice. And the fact that one attorney might have done more investigation than another attorney does not necessarily lead to the conclusion that  the investigation was insufficient to warrant ineffective assistance of counsel. So if you could just maybe say a little bit more about why, number one, Judge Attorney Harn's view that the investigation didn't go as far as he would have perhaps taken it, would lead us to the conclusion that there was ineffective assistance of counsel by Mr. Lewis.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 1886.481,
+    "end": 1947.705,
+    "text": "Well, that goes to the fact that they didn't put on any defense.  evidence. So the government's case went unchallenged. And it went unchallenged in the face of there being disinterested witnesses out there. And so that produces, if you look at the cumulative effect of failing to investigate, failing to follow up with the witnesses,  you fail to present a defense. And you fail to present a defense that would have countered the government's case. That goes to the heart of the adversarial nature of our criminal justice system. The untested government's case, really, you have to question the reliability of the result. And that's what Strickland, the purpose of Strickland is. And so I think my time is up. So I just ask that this court  reverse the convictions of Mr. Walker because of his ineffective assistance of counsel claims and with respect to his Innocence Protection Act. Thank you.",
+    "speaker": "monicamilton",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement",
+      "time_management"
+    ]
+  },
+  {
+    "start": 1947.945,
+    "end": 2046.502,
+    "text": "Before you go, counsel, let me ask you this question. To play out the scenario, suppose we thought that the failure to investigate Mr. Thompson was a deficiency in representation by counsel.  And we thought that there's some possibility or something approaching a reasonable probability that there might have been a different outcome had there been an investigation and we were to order a new trial. I'm just trying to play out what would happen in the future. So let's say there were a new trial. Mr. Thompson  at least to date, cannot be found. And there are a lot of other witnesses who gave testimony about an altercation and the inconsistencies in their testimony were exposed. One of the witnesses even conceded that he didn't hear an argument. Some didn't hear arguments, et cetera, et cetera.  How would this case go forward on the theory that that you're thinking that the defense would have been able to develop with Mr Thompson's testimony because there is still the plea colloquy with Mr Caraway.  The government still has that. There was still the testimony of the other witnesses involved. How would that play out? I mean, it just seems that in the current setting, it's not clear how the cumulative evidence would have come out in a different way. Do you see it differently? I do.",
+    "speaker": "judgethompson",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 2047.143,
+    "end": 2122.267,
+    "text": "First, because there were no eyewitnesses.  to the shooting. So this would become a credibility issue. We know at least with regard to the government's principal witness, Ms. House, that one, she was impeached. And secondly, the jury at least didn't believe her statements about Mr. Walker's possession of the gun because he was acquitted on the possession charge. So this would come down to credibility.  This disinterested witness testifying to what he saw, that there was an argument, that this was a spontaneous shooting as opposed to all of these other factors. Mr. Carraway seeking a beneficial sentence, plain guilty. Mr. Buchanan testifying, also another interested witness and was threatened by the government with prosecution. There was only one witness,  that did not have a stake in the outcome of the case. And so I think that does bear heavily on whether or not this case would have turned out differently because the government's witnesses, virtually all of them, had a stake in the outcome of the case.",
+    "speaker": "monicamilton",
+    "tags": [
+      "substantive_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 2125.329,
+    "end": 2135.175,
+    "text": "All right. Thank you. I'd like to thank both counsel for your briefs and arguments today and this case is taken under advisement. Thank you.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "court_closing",
+      "judge_procedural_directive",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2135.818,
+    "end": 2136.179,
+    "text": " Thank you.",
+    "speaker": "monicamilton",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2137.521,
+    "end": 2146.555,
+    "text": "Thank you. I'm bringing in the next case.",
+    "speaker": "bryanhan",
+    "tags": [
+      "acknowledge",
+      "case_transition"
+    ]
+  },
+  {
+    "start": 2147.696,
+    "end": 2148.017,
+    "text": "Thank you.",
+    "speaker": "courtroomclerk",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2173.26,
+    "end": 2197.144,
+    "text": " Okay, good morning. Our second case this morning is Timothy Callaham versus United States. Our council ready to proceed. I see Mr. Jankowski, but we don't see you on video, Mr. Jankowski. All right, let me see. Can you see me now? Yes, we can.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "court_opening",
+      "case_call",
+      "judge_procedural_directive",
+      "judge_question",
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 2198.125,
+    "end": 2202.919,
+    "text": "Okay, great. All right.  Ready to go?",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "time_management"
+    ]
+  },
+  {
+    "start": 2202.999,
+    "end": 2216.086,
+    "text": "Good morning, counsel. I'm joined this morning by my colleagues, Judge Thompson and Judge Easterly. Mr. Jankowski, are you ready to proceed on behalf of the appellant?",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "court_opening",
+      "judge_comment",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 2217.087,
+    "end": 2234.424,
+    "text": "I am, Your Honor. Morning, Your Honors. I'm Vince Jankowski, appointed by the court to represent Appellant Timothy Callahan. I'd like to start by thanking the court for the appointment.  If it pleases the court, I would like to reserve two minutes for my rebuttal argument. All right.",
+    "speaker": "Unknown",
+    "tags": [
+      "court_opening",
+      "acknowledge",
+      "court_procedural_remark",
+      "reserve_time"
+    ]
+  },
+  {
+    "start": 2234.464,
+    "end": 2235.725,
+    "text": "Thank you, Mr. Jankowski.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2239.85,
+    "end": 2244.536,
+    "text": "Today, we're asking the court to",
+    "speaker": "Unknown",
+    "tags": [
+      "opening_argument"
+    ]
+  },
+  {
+    "start": 2250.284,
+    "end": 2261.967,
+    "text": " Mr. Jankowski, I apologize, but it appears that your video and audio are freezing a little bit. So we're having- For four reasons, injury, coercion, issues in this oral argument.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_comment",
+      "judge_interruption"
+    ]
+  },
+  {
+    "start": 2261.987,
+    "end": 2271.489,
+    "text": "Resolve this problem by having two detectives narrate and opine about otherwise- Mr. Jankowski, I apologize for interrupting you.",
+    "speaker": "Unknown",
+    "tags": []
+  },
+  {
+    "start": 2271.549,
+    "end": 2287.024,
+    "text": "We missed the first few comments that you made because your video froze briefly.  Would you mind just repeating or briefly starting from the beginning, and we'll be happy to give you additional time, but your video froze for a minute, so we couldn't hear you.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_procedural_directive",
+      "time_management",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 2291.267,
+    "end": 2348.751,
+    "text": "We're asking the court to reverse Mr. Callaham's conviction for unarmed robbery for four reasons. I would like to rest on my brief on two of the issues and address in this argument only the lay opinion issue and the jury coercion issue.  Your Honor, because it did not have anyone, any witness, any eyewitness to say that a robbery occurred, the government had a problem. It couldn't prove that the robbery occurred. It attempted to resolve this problem by having two detectives narrate and opine about an otherwise ambiguous store surveillance video.  Your Honors, there's no firmer principle in the common law than that a witness must have personal knowledge of the facts about which he or she testifies. It is embodied in Federal Rule of Evidence 602, which has been adopted by this Court in Smith versus United States.",
+    "speaker": "Unknown",
+    "tags": [
+      "opening_argument",
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 2350.291,
+    "end": 2406.66,
+    "text": "Mr. Jankowski, could I interrupt you briefly again, this time with a question. Your confrontation argument  as I understand it, and correct me if I'm wrong, is that because the original, I guess, video sourced from, I think it was seven or several, at least, video cameras, creating hours of footage wasn't all played in full. Rather, there was a compilation video created to sort of parse down the amount of time  that the jurors and the court needed to take to review the video. You're saying that was a violation of the Confrontation Clause, even though the full sources from which the compilation was made was made available in discovery as I understand it.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_question",
+      "judge_interruption"
+    ]
+  },
+  {
+    "start": 2408.561,
+    "end": 2479.824,
+    "text": "The argument, the Confrontation Clause argument is that the store surveillance video itself was not introduced into evidence. What the government did was it took  Parts of that video and parts of the closed circuit television video that was a Metropolitan Police Department video that was taken from outside the store, they cobbled them both together to create an exhibit for use at trial. Why is that different from a summary of other documents and evidence that we typically allow to be admitted, particularly where the underlying source material was made available through discovery?  So this is not really a summary. It doesn't summarize the videos. It just takes certain parts of the video. And that's what my argument is on the confrontation clause. I would like to move on to my rule 701A if there's no further questions from. Well, the confrontation clause argument, I guess, is there something missing?",
+    "speaker": "Unknown",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement",
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 2481.95,
+    "end": 2493.45,
+    "text": " And in light of the fact that the original footage from all the different camera sources was available and discovery is the concern that the compilation video left key parts out.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_comment",
+      "fact_statement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 2495.68,
+    "end": 2558.743,
+    "text": " We don't know. And again, it's under Justice Scalia's opinion in Crawford v. Roberts, Crawford v. Washington, which ruled Ohio v. Roberts, it's not the accuracy of the exhibit that is the test. It is the method of determining the accuracy of the exhibit.  And that is by confrontation. So we don't really know how accurate this is, how accurate the compilation is, because the person who made the compilation did not testify in court. That's the issue. The issue is not per se the accuracy of it or the reliability of it.  not since Ohio versus Roberts was overruled, it's the method that is constitutionally required. As Justice Scalia said, it is the method which the Constitution requires and that method is cross-examination of the creator of the exhibit.",
+    "speaker": "Unknown",
+    "tags": [
+      "legal_citation",
+      "substantive_argument",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2560.305,
+    "end": 2591.624,
+    "text": " So council, if we go on to the lay opinion issue, can we just break it down witness by witness? Because I take it that you're concerned both with the testimony of investigator Volpe and with the testimony of detective Olsak. Am I pronouncing that correctly? I can pronounce that name, Olsak.  Okay, am I correct that you're concerned about the testimony of both witnesses?",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_question",
+      "case_transition",
+      "judge_procedural_directive"
+    ]
+  },
+  {
+    "start": 2593.786,
+    "end": 2621.858,
+    "text": "Yes, Volpe- Okay, so Investigator Volpe, the video was not actually played during Investigator Volpe's testimony, is that correct? That is correct, it never was played. If the concern, well I thought it was played during the testimony of Detector Olsak.  Now, OSAC had the compilations, the exhibit six and eight. I'm talking about I'm talking about exhibit six and eight.",
+    "speaker": "Unknown",
+    "tags": []
+  },
+  {
+    "start": 2622.118,
+    "end": 2692.913,
+    "text": "Right. If we if for our purposes, if we assume that the the video that should have come in was in exhibit six and eight,  Because the raw footage, I think the testimony was there were 32 cameras right inside and outside, and each camera has hours of footage on it. And the relevant.  I mean, the incident lasts about two minutes. So if we assume that it is cut down to size in Exhibits 6 and 8 and played during Detective Olzak's testimony, that's one issue, and I'd like to talk about that in a minute.  But investigator Volpe takes the stand. The video is not played. No video was played during his testimony. And so I'm trying to understand what the problem is with his testimony vis-a-vis the video. He is not narrating or interpreting the video because the video was not played while he's on the stand. Am I missing something?",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "court_procedural_remark",
+      "time_management"
+    ]
+  },
+  {
+    "start": 2696.058,
+    "end": 2707.142,
+    "text": " Well, what he's doing, he is, and that is the best evidence argument that we made. I don't want to talk about the best evidence argument right now. I want to talk about the lay opinion evidence.",
+    "speaker": "Unknown",
+    "tags": [
+      "rebuttal_argument",
+      "disagreement",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 2707.422,
+    "end": 2717.185,
+    "text": "How is he giving opinion evidence in his testimony with respect to the video if the video was not shown during his testimony?",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 2720.126,
+    "end": 2742.978,
+    "text": "He's opining that a robbery occurred.  uh he is he has viewed this video and in his opinion that he's that robbery occurred in the melon mart uh that is what he is testifying to that is his lay opinion  of what the video shows, but he has no first-hand knowledge.",
+    "speaker": "Unknown",
+    "tags": [
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 2743.839,
+    "end": 2841.701,
+    "text": "I see a point. I'm sorry to interrupt, but I'm just trying to move things along. I see a point in his testimony on page 288 where he says, you know, this is the robbery.  Um, he's not looking at the video when he says that right. Um, you know, obviously that's his conclusion but there's no objection at that point right the objection comes later when he is.  It sounds like he's starting to possibly say what he set saw in the video in some detail. And, and there's an objection and he gets cut off and the court, it seems rightly says, you can't.  go through blow by blow and say what you saw in the video that by the way no one has seen yet right has not been put into evidence and so it seems like the court actually correctly and there's a conversation about like what was the government trying to do and the government says oh actually i'm just trying to elicit what um the the putative  victim of the robbery was wearing and the court is like, okay, you can do that, but you can't do anything else. And then the government does only that and elicits what the putative victim was wearing and then establishes that the police saw that person wearing that outfit out on the street. So that doesn't seem problematic either. I'm trying to figure out,  It seems like there is an issue with respect to narration of the video for Detective Olzak, but I'm trying to figure out why we need to be concerned about Inspector Volpe.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_interruption",
+      "judge_comment",
+      "judge_question",
+      "record_reference",
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 2846.584,
+    "end": 2883.087,
+    "text": "It is. He is testifying to things that he did not have a foundation to testify about. Now, we can characterize that as lay opinion testimony, which I think the courts generally do.  But you could also characterize it as a lack of foundation, which is really the same thing. Federal Rule 602 and 701 say essentially the same thing, that an individual has to have personal knowledge of the events about which he testifies.  Right, and I'm really just asking, Council, I'm just asking fact-based questions, right?",
+    "speaker": "Unknown",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 2883.167,
+    "end": 2929.504,
+    "text": "Because apart from the question about what the putative victim is wearing, then it seems like the only other part that's possibly objectionable is when Inspector Volpe is giving his summary of sort of viewing the video. But that seems directly responsive to  defense counsel's argument that, hey, the video might have been manipulated in some way. And so he's sort of summarizing, yeah, start to finish, this is what the video looked like for me. It doesn't seem like he's trying to give an eyewitness account of something that he didn't see. That's Detective Olzak's testimony.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_comment",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 2932.46,
+    "end": 2962.287,
+    "text": " Volpe did it too, and the way it was argued, the way it was presented to the court, and the way it was argued in both the government's closing argument and in its rebuttal argument, the government didn't get up there and say, what Detective Volpe said here, it must have been the same video because he remembered it all exactly the same.  What the government said was, this is the video, this is the evidence.",
+    "speaker": "Unknown",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 2963.587,
+    "end": 2974.529,
+    "text": "That was the government's representation of it, but I'm just looking at what the testimony actually was. Maybe we should move to Detective Olzak's testimony then. Do you want to talk about that?",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_comment",
+      "case_transition",
+      "judge_question",
+      "judge_procedural_directive"
+    ]
+  },
+  {
+    "start": 2976.45,
+    "end": 3011.716,
+    "text": "Yeah, I'd like to follow up with respect to Detective Olzak because it seems to me he had sort of an independent ability based on his prior knowledge of  and familiarity with both men to testify as he did as a lay witness. And so I have a more difficult time seeing the issue with respect to him because he did have an independent basis. He wasn't relying solely on the video. He wasn't watching or narrating the video. It seems like he was testifying based on his prior knowledge of both men.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_comment",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 3014.583,
+    "end": 3049.521,
+    "text": " His testimony, he legitimately could identify Mr. Callaghan as being Mr. Callaghan. He had a foundation for that.  He could also testify as to the layout of the store, because he had been in the store numerous times. He had a foundation for that. What he did not have a foundation for, and what was objectionable about his testimony, was he was not a witness to the robbery. He was not a witness to someone coming into the store with a gun, coming up to somebody and, you know, dropping the backpack.",
+    "speaker": "Unknown",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "concession"
+    ]
+  },
+  {
+    "start": 3058.824,
+    "end": 3060.826,
+    "text": " Council, you're freezing again.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_comment",
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 3066.369,
+    "end": 3074.134,
+    "text": "Mr. Jankowski, can you hear us? Mr. Jankowski, can you hear us? Mr. Jankowski, can you hear us?",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 3082.403,
+    "end": 3131.071,
+    "text": " Okay, I can hear you now, and what I was saying is, and I apologize if I'm repeating, what they need. Yeah, I think the last thing we heard is that he knew Mr. Callaham, and he knew the layout of the store, and that's when it broke up. Yeah, and he could legitimately testify to that. There's no doubt that that's the Mellon Mart. There's no doubt that Mr. Callaham was in there.  And Olczak had a firm basis for doing that, for that testimony. What he did not have a basis for, and what made his objection, what made his testimony objectionable, and prejudice.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "fact_statement",
+      "rebuttal_argument",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 3132.211,
+    "end": 3133.192,
+    "text": "You're frozen again.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 3134.905,
+    "end": 3152.591,
+    "text": " Mr. Jankowski, may I suggest that you may want to turn off your camera because sometimes having the video may lead to the distortion of the audio and video, depending on your Wi-Fi service.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_procedural_directive",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 3154.592,
+    "end": 3155.492,
+    "text": "We lost you again.",
+    "speaker": "courtroomclerk",
+    "tags": [
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 3162.982,
+    "end": 3168.543,
+    "text": " Okay, we're back again. Yeah. Okay.",
+    "speaker": "Unknown",
+    "tags": [
+      "court_procedural_remark",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3169.043,
+    "end": 3184.647,
+    "text": "We have technology, Mr. heard me when, when we suggested that you may want to turn off your camera, and just do audio because sometimes that leads to the distortion and the freezing.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_procedural_directive",
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 3187.042,
+    "end": 3259.038,
+    "text": " I just shut off my camera. And if that hopefully that'll help. All right. Let me let me answer the question again. And I again, I apologize. I'll start from the beginning to make sure we've heard everything. Detective Olsak had a basis for testifying for identifying Mr. Callahan. He had a basis because he knew Mr. Callahan.  He had a basis for identifying the various parts of the Mellon Mart because he had been there before and he could legitimately say, yes, this is the Mellon Mart, this is the candy counter, this is the chip snack, this is the cash register, and so forth. He had, based on his personal observation, he had a basis for that. What he did not have a basis for is to testify about the robbery.  He did not have a basis to testify that a robbery occurred, that these two men came into the store with a gun, and that they approached the complainant, and he dropped his backpack, and so forth. Those things he did not have personal observation for, and he could not testify. He has no foundation for that. And that's what was objectionable, and that was what was prejudicial, because that's what the case was all about. Nobody's disputing-",
+    "speaker": "Unknown",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "court_procedural_remark",
+      "concession"
+    ]
+  },
+  {
+    "start": 3260.407,
+    "end": 3319.57,
+    "text": " So, so sorry to interrupt again but just in the interest of moving it along it sounds like I mean from reading the transcript that the court ultimately agreed with you. Right. And she ultimately she, she kind of initially says no you can't do this you cannot interpret the videotape and then she allows.  some questioning about what he noted in the video that was relevant to his investigation. But I think then she backs off and realizes, why is that relevant? And ultimately says, no, stop. You can't put the evidence in this way. You can't narrate this video play by play.  And she gives the jury an instruction saying, look, the video speaks for itself and it's for you to interpret what's going on in the video, right? So she does all of these things. And I guess that this really does come down to harm. Why is this prejudicial to your client?",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_interruption",
+      "judge_comment",
+      "judge_question",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3321.171,
+    "end": 3349.209,
+    "text": "Well, the judge did allow in and the jury heard a lot of evidence about a robbery occurred.  which the jury should not have heard. The judge kind of went back and forth, like Your Honor points out. She didn't allow some evidence in, but she did allow other evidence in. The prosecutor argued to the jury that the video was substantive evidence of the robbery, that the Olsak's testimony... Well, the video was substantive evidence of the robbery.",
+    "speaker": "Unknown",
+    "tags": [
+      "fact_statement",
+      "substantive_argument",
+      "disagreement"
+    ]
+  },
+  {
+    "start": 3349.229,
+    "end": 3407.052,
+    "text": "I mean, the video was really the only evidence.  right, of the alleged robbery. But the question is what the impact was of the testimony from Detective Olsak that the court ultimately cut off and said no to the government. You've done this in a very strange way. And I've never seen anyone do it like this before, where you are putting in the video, you've not had a percipient witness testify.  and then put in the video so that the percipient witness can say, yes, that's what I saw, and this is what it looked like. That's how it usually goes. Here, you have someone who was not there telling the jury, this is what you should look at in the video, which the court ultimately said, you can't do that, and then instructed the jury that they shouldn't understand the video that way, but why is there harm?",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_comment",
+      "judge_question",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 3409.718,
+    "end": 3519.279,
+    "text": " There's harm because the the the court did allow testimony in about the allowed enough evidence in  uh that the the jury heard the detect the the tape itself is ambiguous it's very grainy you can't tell if there's a robbery there you can't really discern what those um what the um uh interactions are between the two individuals um the jury hears this they hear a detective testify and they figure well you know the detective probably knows more about these kind of things than we do he says it was a robbery  And then so and the jury obviously had a problem with that because all the notes that the jury kept returning to the case is where's the complainant? Why didn't he complain? And so for the jury did grapple with that issue. They had a very hard time with that issue. And that gets into our jury coercion issue. But the jury had had a very difficult time with that. But in the end, they had the witnesses testimony that they  that this was a robbery. He's saying these two people came into the store and one of them had a gun. I can't tell from the video if he had a gun or not. The jury's probably going to look at the detective and says, well, the detective deals with guns all the time. He must know it's a gun. I can't tell it's a gun. Maybe it's a gun. Maybe it's not. But the detective said so. So I'll assume that it was a gun.  And then they say, I mean, I think the question in part is, what did it add beyond the charges?",
+    "speaker": "Unknown",
+    "tags": [
+      "substantive_argument",
+      "court_procedural_remark",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3519.74,
+    "end": 3538.195,
+    "text": "The jury knew that your client was charged with armed robbery. They knew the government thought there was a robbery and a gun. I'm not sure that detective's testimony really added anything to that once the jury had the court's description. It was up to them to determine.",
+    "speaker": "judgethompson",
+    "tags": [
+      "judge_comment",
+      "fact_statement",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 3539.67,
+    "end": 3630.777,
+    "text": " I think if the bottom line is, if the only thing that the jury, the only evidence of the robbery that the jury had was this video, there's a judgment of acquittal on that case. Because just on the basis of the video, you can't tell beyond a reasonable doubt that a robbery ever occurred.  It had to be the testimony of the detectives to say that a robbery had occurred. And that I think is where the, because in this case, as I say, nobody is doubting the identity of Mr. Callahan. The question is, what are these interactions between these individuals? That's the crucial, do those interactions constitute a robbery? And without the testimony of Olsak and Volpe too, I don't think you can make that out.  And the jury obviously had a problem with it anyway, even with that testimony. Even with the testimony they heard, the government's argument was that, yeah, here it is right there on the video, and the detectives told you. It's just exactly like the detectives told you.  So I don't think it's harmless here because of the lack of any other evidence, the fact that it's a detective's testimony, and the fact that the jury clearly had a problem with the government's proof in this case. Mr. Jankowski, you referred a couple of different times to the jury's difficulty.",
+    "speaker": "Unknown",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 3630.997,
+    "end": 3696.178,
+    "text": "And I wanted to ask you briefly about your argument regarding how the polling of the jury took place and  the fact that the trial judge gave the Winters and Crowder instructions in the specific order that they were given. We do have cases saying that giving the Winters instruction after a jury poll is conducted could be considered coercive to the jury. But I'm not familiar with any cases where we felt that giving the Crowder instruction  following a jury poll is inherently coercive. I mean, I think we generally think of the Crowder instruction as perhaps not as strong or forceful as a Winters instruction. Do you have any cases to the contrary? And if not, why do you think the polling was coercive here, particularly since they only got to jury number two and then the trial judge stopped the polling of the jury?",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_question",
+      "legal_citation",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 3698.639,
+    "end": 3837.495,
+    "text": " I don't have any cases, and I'm fairly confident there are none. However, that certainly makes me feel a lot better. I was kind of worried about that. All right. Well, no, but here's why I think it is coercive, because a couple of reasons. Number one, the winner's instruction is the high water mark.  All right. So that, you know, giving the second anti-deadlock charge after the jury is told once, you know, we really would like to reach a verdict there. And they came out and incorrectly notified the court that they had reached a unanimous verdict. That was incorrect. They had not reached a unanimous verdict.  and then the court gives them another instruction, and in all probability, it was one juror. I mean, we don't know that for sure, but generally speaking, I've never sat on a jury, but if there is one holdout, I think just the dynamic, maybe there's one juror who just has a second thought when the poll is given, or maybe didn't articulate that juror's dissent clearly enough,  and the poor person thought they had a verdict. So you could see where, or maybe the juror just changed their mind when they walked in the courtroom or whatever. A poll breakdown suggests that there is only one, because if there's more than one, the probability that one juror didn't articulate their dissent clearly enough thereby  suggesting to the foreperson that they reached the unanimous verdict when they had not, the probability of those kinds of things happening is diminished. And I guess it's probably diminished by an exponential factor.  So I think that in all probabilities, one juror, and then the judge is instructed. Of course, this juror- But I'm not sure that there's a basis to assume that.",
+    "speaker": "Unknown",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "hedge",
+      "concession"
+    ]
+  },
+  {
+    "start": 3838.015,
+    "end": 3898.576,
+    "text": "I mean, if a juror poll was conducted and 12 or 14 jurors or 10 of 12 jurors are polled and you find that there's one, then it's more likely, I think,  that you can make that assumption. But we have cases that have held it where you're so early in the polling and you stop, which is what our cases instruct the courts to do, that you can't really make any speculation like that. And I don't think our case law supports that. The factors that we're supposed to look at are other types of coercive  actions that might have been taken. And I don't see those here. In fact, I see that the trial judge took steps to avoid those things. Yeah, the trial judge did end the poll right there.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_comment",
+      "legal_citation",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3898.636,
+    "end": 3939.448,
+    "text": "But certainly, there's a minority, probably a distinct minority. There may have been another juror disagreed with the verdict. I mean, we don't really know. But as a practical matter,  The judge has heard that there is a verdict. The judge has heard and the juror, the dissenting juror has heard the verdict.  And then, and he knows that the dissenting juror knows that the judges heard the verdict, and then dissenting juror knows that she dissented. I hear your argument, but I just don't think that our case law on these jury polling questions supports that.",
+    "speaker": "Unknown",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3942.63,
+    "end": 3975.099,
+    "text": "The conclusion and the speculation that you are arguing now about where the rest of the jury stood and the way we  evaluate these issues are looking at other circumstances of coercion. I know we've taken you very well over your time, and we had a couple of technical glitches, but we will still reserve your two minutes for rebuttal, Mr. Jankowski. Thank you. Thank you, Your Honor. Thank you, Your Honors. Mr. Sable?",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_comment",
+      "time_management",
+      "reserve_time",
+      "judge_procedural_directive",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3977.333,
+    "end": 4052.743,
+    "text": " Good morning, your honor. Good morning, uh, David Sable on behalf of the United States. May it please the court. Uh, I would like to make one point about the confrontation claim, and that is simply that, you know, judge Blackburn, you made the point about what is missing. The fact is there is nothing missing. There is no way that the selection of exhibits by a prosecutor or defense lawyer for that matter,  constitutes a testimonial statement within the meaning of the confrontation clause. All these videos were turned over as Judge Easterly was carefully talking about the 11 different videos. All these videos were turned over and to the extent that counsel thought something was presented that was misleading, the rule of completeness is a remedy for  to the extent the council thought that these videos were not properly authenticated, we have case law on that. Each of these video clips was authenticated by the custodian. So there's no infirmity with- Let me, as I understood council's, Mr. Jankowski's point on the authentication piece, it was not that the individual videos were authenticated by whoever took them or was the proprietor of them, but that the person who",
+    "speaker": "davidsaybolt",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "legal_citation",
+      "fact_statement",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4053.105,
+    "end": 4061.814,
+    "text": " created the compilation of the videos did not authenticate how the compilation was made. Can you speak to that issue, Mr. Sable?",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_question",
+      "judge_procedural_directive"
+    ]
+  },
+  {
+    "start": 4062.574,
+    "end": 4096.566,
+    "text": "We had testimony from the detectives who'd seen the full video that where the compilations fell in relation to the entire video. But the notion that any time a creator of an exhibit  Anytime an exhibit is presented to the jury, the creator of the exhibit has to testify to authenticate it or to satisfy the confrontation clause. That's counsel's argument. He expressly made that in his reply brief. We know that that's just wrong. Photographs are introduced all the time and the photographer is not called to the stand. We just need to have the exhibit. That's not quite the analogy, right?",
+    "speaker": "davidsaybolt",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "fact_statement",
+      "record_reference",
+      "disagreement"
+    ]
+  },
+  {
+    "start": 4096.646,
+    "end": 4143.275,
+    "text": "It's not just that a photograph was taken. The analogy, I guess, would be that  The photograph was cropped. Right. You know, I mean, there was some alteration to the raw footage it just seems like part of the issue is that is the way that the videos came into evidence in the government's case, as you say, there were witnesses who authenticated it.  but they kind of authenticated it with the videotapes off in the wings, right? Like they were testifying, yes, I viewed raw footage. Yes, I viewed this exhibit that the government's not gonna show you yet for another few witnesses. But it just, it came in in a very odd way. Do you disagree? I mean, is this normal?",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_comment",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 4144.506,
+    "end": 4168.535,
+    "text": " No, of course it's not normal, but you're talking about essentially a rule 104 issue. And the judge said, well, these are going to come in and they did come in, they just came in later. And now normally- If I could take you back for a moment to my question, which is a little before we go on to this issue, which is an important issue.",
+    "speaker": "davidsaybolt",
+    "tags": []
+  },
+  {
+    "start": 4169.116,
+    "end": 4216.578,
+    "text": "You said that Mr. Jankowski was just wrong about  the need to bring in someone to authenticate the creation of a compilation of the videos. Do you have case law other than the analogies? Because I think, I'm not sure I agree that just, I don't agree with the analogy of the photographer not needing to authenticate an individual photo. Here we do have essentially a new video created.  using material from all of these different source videos. Why wouldn't there need to be someone to authenticate that? And I guess what's your best case or what's your better analogy?",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "disagreement"
+    ]
+  },
+  {
+    "start": 4217.918,
+    "end": 4257.236,
+    "text": "Sure, Your Honor. Thank you. What we have are, we don't have the creation of a new video. I would just say that maybe that's not a fair characterization. We have 15  clips from 11 different cameras that are played one after another. And no one suggests that these clips could not have been played serially one after another and labeled as governance exhibits one through 15. They were just played one after another. It's not like we did a Hollywood video with theme music and cuts and lighting changes. This was just- The jury might've liked that better actually, but.",
+    "speaker": "davidsaybolt",
+    "tags": [
+      "acknowledge",
+      "hedge",
+      "rebuttal_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 4257.336,
+    "end": 4258.557,
+    "text": "Of course they would.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_comment",
+      "agreement"
+    ]
+  },
+  {
+    "start": 4259.498,
+    "end": 4426.459,
+    "text": " But it is no different than if 15 still photographs or 15 clips or 15 autopsy photos, the selection of photos is not in and of itself a testimonial statement. Now, you asked me about case law. This court has the Bryant case where three surveillance videos were put together to be played and they were at the same time.  which is different. We have them here one after the other. And so the assertion was, well, the assertion of synchronicity was in itself a statement. And the court said, found no plain error there because the videos were authenticated. And there was a witness who said, didn't testify about the videos, but testified to the way the events  proceeded. So we don't have, an appellant has never articulated any way in which this compilation somehow represents a statement by anybody. The second case I would call court's attention to is the Cloutier case out of the 11th circuit. It was a subject of a 28k letter filed yesterday, where the court said the selection of government exhibits doesn't constitute a statement within the meaning of the confrontation clause.  And so that's our reasoning. We also know, I mean, you're a former trial judge, Your Honor, you know government defense. We select exhibits all the time. Those decisions that we make about this presentation of evidence are not statements. We're trying to tell a story. We're trying to convince the jury of a narrative, and we're asking them to draw inferences from the evidence, but we aren't making statements ourselves. We are simply presenting the evidence.  And so whether it's a crime scene diagram, or the selection of crime scene photographs, or the selection of autopsy photographs, or a clip from a video, we're not making statements. We're simply selecting what we think is the most relevant evidence. But our selection of what we think is relevant, again, isn't a statement as to relevance. We're just asking the jury to draw an inference. And it's tested by the adversarial process, which is why the court doesn't need to be concerned about  fairness or misleading because we all have the same evidence at trial and to the extent the defense thinks that something's misleading well they have the rule of completeness and the prosecutor is going to look silly if we leave out a photo that says something important or a clip in this case that says something important about the robbery.  So, can I ask a quick question though separate from confrontation, there is the issue of authentication.",
+    "speaker": "davidsaybolt",
+    "tags": [
+      "legal_citation",
+      "substantive_argument",
+      "rebuttal_argument",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 4426.479,
+    "end": 4529.123,
+    "text": "And I find the statement and Brian kind of confusing because I'm not quite sure that I understand what authentication has to do with.  with the confrontation clause, right? They seem to be a separate thing, as you point out, right? Like, I mean, the government is always making statements. The government is an advocate making its case for the people saying, we think this crime happened and that this person is responsible and should be held to account, right? That's their statement.  But on the issue of authentication, I thought the government's better argument was there was authentication. This is a new video. I mean, I take your point that they could have been played seriatim, but they weren't. The government selected a minute and a half of each video and strung them together. And there could have been an argument that you cut off too soon or you left something out.  And so the government did put in witnesses, albeit in this very strange order, to authenticate to say these videos that I've seen that the fact finder you haven't seen yet are authentic. We didn't leave anything out. It looks the way that I remember seeing it on the day after the incident. So I thought that the government's argument would be, not only is this not a confrontation clause violation,  But we did authenticate, you know, or you can't show any harm from any deficiency of authentication. You know, we put in enough and there's really no concern here and they haven't shown anything that's missing. Do you disagree with that?",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "substantive_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 4530.01,
+    "end": 4629.132,
+    "text": " No, you have our argument, your honor. The videos, authenticity and confrontation clause are different. Bryant, in its discussion, conflates them a little bit. They're basically saying there is no statement that implicates the confrontation clause and the admission of the videos isn't a problem because they were authentic.  What we have are a custodian of the melon market came in and said, I came in at eight o'clock in the morning or seven o'clock in the morning. The videos are stored in a basement office that only me and my wife have access to. There was, I checked the timestamps, they were fine. The videos hadn't been toyed with. And so I'm authentic, you know, that's my knowledge and this is the video and these, you know,  He said, I authenticated the videos in that way. And then we had the MPD custodian come in. We know it's well-established. This is sufficient authentication. So these video clips are authenticated. And so there isn't an issue with the run-of-the-mill evidentiary introduction of these. And just to complete my response, Your Honor, the confrontation  clause isn't implicated by the presentation of these clips. And even if it were, again, of course, it's harmless because we have no reason, there's no argument, no presentation, no proffer, that there was anything that was received that was prejudicial. And we know that these- Well, but then we're left with the timing, as Judge Easterly asked you earlier, the timing",
+    "speaker": "davidsaybolt",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 4629.658,
+    "end": 4666.226,
+    "text": " of the presentation of the witnesses and the video. So at the time that appellant objected to Detective Volpe's testimony, he was told that the government was going to be showing the surveillance video later. But then the government showed the compilation as opposed to the actual store surveillance video. Isn't that problematic?  I don't understand. So it made it difficult for the appellate to make the best evidence rule in an objection in a timely manner.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_question",
+      "court_procedural_remark",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 4667.187,
+    "end": 4758.813,
+    "text": "Well, I don't think the government ever said we're going to introduce the entirety of the videos. The government said we're going to introduce  The videos that would be what was relevant to any testimony and what the government thought was relevant to the robbery. That's on 1128 at 290 when they first say it was a personal knowledge objection. Well, I don't think he has personal knowledge.  And he was testifying, of course, Detective Volpe was testifying as to what he did, his knowledge of the store and what he did on that day. He wasn't opining that this is a robbery and you should think it was a robbery. And I want to note, I think it's important to note, Your Honor, in terms of the  Narration claim. I want to take issue with defense counsel. This was never argued to the jury as you should find it's a robbery because the detective said it was a robbery. It was argued to the jury on the basis of the facts in the video and what they could see in the video. Detective Volpe only said it was a robbery because what he said was, I responded to the scene for a report with a man with a gun. I looked at the surveillance video.  And I thought it was a robbery. And I saw this guy wearing certain clothes. When I walked outside, there he was, except without the satchel. So I approached him and asked him what had happened the night before. He was merely describing his narrative of the investigation, which this court did not see.",
+    "speaker": "davidsaybolt",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "legal_citation",
+      "fact_statement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 4761.852,
+    "end": 4830.018,
+    "text": " But Detective Olsak is different, right? I mean, the videos do come in in his testimony. There is a lot of discussion. And the court, I think, has a lot of concern about how the government can put this in and makes a ruling.  And it sort of feels like they're quite following her ruling and off and of her own accord. So Sponte drafts instruction that she gives to the jury. Right. So do you agree that the trial court was right, that that your witness could not narrate the events in the video? Are you saying now by pointing us to or to closing argument that it's  No harm, no foul. There's no prejudice. So but are you conceding that the trial court was correct to cut the government off and not allow this type of evidence in this testimony and not the video? The video comes in. The testimony does not.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 4831.459,
+    "end": 4875.736,
+    "text": "What what the court, your honor, I mean, the court you carefully on  where the appellant's counsel parsed the different buckets of information that came in. And I appreciate that. And talking specifically about Detective Olczak, the court acted very carefully as a gatekeeper here. She fulfilled her role. She gave an instruction. And what she said directly was, ladies and gentlemen, Detective Olczak is testifying to identify people in the video, which is not contested here on appeal, and to direct your attention to certain aspects of these videos.  And that was a proper statement of the law. And I would submit that is what he did. It was, you know, it was Volpe, not Olsak who made the comment.",
+    "speaker": "davidsaybolt",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "fact_statement",
+      "record_reference",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4877.917,
+    "end": 4960.868,
+    "text": "Well, we drilled down into what he did because after she finally cut detective Olsak off,  He did what I think no one could have a problem with. He is looking at the video and saying, OK, this camera is showing you the back of the store looking forward to the street. And this camera is showing you where the cash register is. And this camera is showing you X, right?  And no one would have a problem with that. Right. And no one has a problem I mean there was never any Sanders objection, right, there was never any objection you don't have a basis to identify Mr Calhoun in the video under, under our Sanders opinion. So, those two things are fine.  He does then kind of narrate the events in the video. And I think, I mean, I think this goes to harm as far as whether her instruction was precise enough to tell the jury what the detective could or couldn't say, right? Because when he is saying,  you know, what do you see and what do you see next, right? Why is the detective, who's not a percipient witness, allowed to say any of that? Why is the detective allowed to tell the jury what they see on the video?",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_comment",
+      "judge_question",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 4962.15,
+    "end": 4984.319,
+    "text": "He's not. Well, this  First of all, it's an open question in this jurisdiction whether he would be considered a recipient witness. We know that a witness watching a live surveillance video can testify about what he saw. That was the Holmes case. And the courts are split outside this jurisdiction about narrating a video. What could possibly be your argument?",
+    "speaker": "davidsaybolt",
+    "tags": [
+      "legal_citation",
+      "substantive_argument",
+      "fact_statement",
+      "rebuttal_argument",
+      "disagreement"
+    ]
+  },
+  {
+    "start": 4985.019,
+    "end": 5020.597,
+    "text": " I'm sorry. Okay, so I mean that's I just if you want to Whether or not he could be a percipient witness what could possibly be your argument that he's a percipient witness. He's not there He's not watching it in real time He is in the exact same shoes as the jury watching this after the fact and and the trial court says this right she says I  This is the jury's decision. This is for the jury to decide and and you shouldn't be telling the jury what they see. This is their call. That's why I think she even says something to the effect of that's why we're here.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 5022.087,
+    "end": 5077.229,
+    "text": " it's the video speaks for itself but detective Olzak's personal knowledge and the basis for his testimony comes in a couple discrete areas which you've already touched on Hunter. First of all he's familiar with the store and the layout of the street so he's pointing out you know the two different streets because the car is on one street the two men get out then the car comes around the street and then the two men come out of the store and take a right hand turn and get in the car  He's familiar with the cameras, he's familiar with the camera angles, and he's familiar with the course of their investigation. So when he talks about, well, you can see the appellant wearing this particular clothing, these particular shoes, and these particular torn jeans, and there's what over here, what looks like an assault rifle, that's why we seized at the execution of the search warrant at the appellant's girlfriend's house, those same clothes and this paintball box. So was any of that in dispute?",
+    "speaker": "davidsaybolt",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "record_reference",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 5077.869,
+    "end": 5125.301,
+    "text": " I mean, I can understand in a case where the question is, why is the police investigation going in the direction that it is that you could then introduce that kind of evidence, perhaps, but none of that is an issue here. Right. And what is at issue is, was there a robbery?  And he is telling the jury, look, you see him confront, you see them flee, you see he has a gun, you see they look scared, right? He is testifying to the jury on the precise matters that are in dispute and seems to have nothing, is saying nothing to anything that is not in dispute vis-a-vis the nature of the government's investigation or what investigative steps they took. Nobody's talking about that.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_comment",
+      "substantive_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 5126.652,
+    "end": 5160.43,
+    "text": " I'm not sure that I'm on the same page with you about what he said. You wanted to drill down on this.  He did say at one point fleeing and the judge struck that as an opinion that he could not offer about whether people were fleeing the two men on the street. I do not recall any testimony about his saying anybody looks scared. Mr. Jankowski and his brief at 39 to 40 talks about what he complains about Olzak saying. And each of these things we tried to say are he's calling the jury's attention.",
+    "speaker": "davidsaybolt",
+    "tags": [
+      "disagreement",
+      "rebuttal_argument",
+      "legal_citation",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5161.21,
+    "end": 5207.843,
+    "text": " How about you see the object that he's holding in his right hand? I do. And what does that appear to be as part of your investigation? An assault weapon. Why is that relevant to part of his investigation? I mean, that is, you know, did these people show up in a store and rob someone at gunpoint? And that's the whole issue for the jury to decide.  I don't understand what relationship that has to the investigation that's in dispute, right? No one is disputing that the government thought he had a gun. The question is whether or not, in fact, he did have a gun and whether or not the putative complainant was confronted with a gun and gave up property in response to being so confronted.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 5208.863,
+    "end": 5314.481,
+    "text": " I understand your argument, Your Honor. I just would submit that I see it a little differently because it is relevant to the investigation in several ways. It's relevant to why they treated it as a robbery, and it's relevant to why they sent a search warrant. And he's describing what happened in the investigation. And whether or not it is in dispute, we do have, as Old Chief talks about, an obligation and a duty to present to the jury  the narrative of what happened. And we have a very high burden to prove that to the jury. And so when Detective Volpe testifies about why he went out and spoke to David Garvin on the street and why he asked some questions about what happened the night before, this explains that. When Detective Olzak talks about the clothes that he was wearing and what appeared to be an assault weapon, he's not opining about  it's an assault weapon. And ladies and gentlemen, you should believe it's an assault weapon. What he's saying is it looked like an assault weapon, which is why we investigated the robbery and why we recovered the paintball box from the execution of the search warrant. And the other things that he's doing, your honor, I would submit, he's essentially saying what we do all the time in court, here's a video, here's a photograph draw ladies and gentlemen, drawing your attention to,  what's going on here in the surveillance video, drawing your attention here to this, drawing your attention to that. We're making a record for the court of appeals and we're directing the jury's attention to a certain thing that's taking place in the evidence. But the court was clear and Detective Olzak was clear that it was the jury's province to interpret what they saw. He was just pointing out, directing their attention to certain aspects of what was relevant to the investigation.  All right, thank you.",
+    "speaker": "davidsaybolt",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "legal_citation",
+      "record_reference",
+      "concession"
+    ]
+  },
+  {
+    "start": 5315.361,
+    "end": 5329.232,
+    "text": "Mr. Sable, we've gone a bit over time here. Unless there are any other comments or questions from my colleagues, is there a final statement that you'd like to make?",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "time_management",
+      "judge_procedural_directive",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 5329.532,
+    "end": 5337.018,
+    "text": "Could the government just give us its view of the jury coercion response to the defense's jury coercion argument?",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_question",
+      "judge_procedural_directive"
+    ]
+  },
+  {
+    "start": 5338.318,
+    "end": 5382.143,
+    "text": " Thank you, Your Honor. This court hasn't addressed whole breakdown after one scenario, but what this court has said numerous times is that the most effective thing the court can do to alleviate the potential for jury coercion is to give the full Crowder instruction, which contains, as you know, the language to any dissenters, do not surrender your honest convictions, which contains the language to a potential majority  reevaluate your positions. And the court did that. And we know that this scenario was less coercive, less potential for coercion than other scenarios where this court has said that Crowder was more than sufficient to alleviate the potential. I just have one question about that.",
+    "speaker": "davidsaybolt",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 5382.223,
+    "end": 5444.238,
+    "text": "I mean, I'm hard pressed to say that this is less coercive, right? Because usually we have a jury, a poll breakdown, and then the Crowder instruction.  But here we have repeated questions from the jury that indicate that there have reasonable doubt. You have to impasse notes, resulting in a winter's instruction which is the high watermark.  And then it actually seems like the winners instruction that the concerns that we have about giving the winners instruction come to fruition because then we do have a jury that issues a verdict that is not in fact a verdict. Right.  And the poll breaks down, and then we give the crowd of instruction and I am just curious like it seems like the government just wants to focus on the poll breakdown followed by the crowder instruction but don't we have to look at the totality of the circumstances and the particular facts of this case which I think really give one pause.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_comment",
+      "judge_question",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 5445.563,
+    "end": 5499.723,
+    "text": " Yes, obviously we need to look at the totality. You're correct, Your Honor. And so the jury starts deliberating on the afternoon, and they come back with two notes about, do you need a complainant? Is it a robbery without a complainant? Does a complainant have to complain? They come in the next day, and they announce that they have a verdict. And the court takes the verdict around lunchtime. Well, they have a few more notes before that, right?  I don't recall that. And I don't think there's the two notes in the afternoon that say, do you need a complainant? One is from the jury court person. The second one is from the court person. And the court responds to that. Then at lunchtime the next day, so they've been deliberating for less than five hours, they come back with a verdict, whole breakdown on the second. I'm sorry.",
+    "speaker": "davidsaybolt",
+    "tags": [
+      "acknowledge",
+      "fact_statement",
+      "court_procedural_remark",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5499.763,
+    "end": 5504.188,
+    "text": "I think you've got the time wrong.  they come back and say, we're hung.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_comment",
+      "disagreement"
+    ]
+  },
+  {
+    "start": 5507.529,
+    "end": 5509.549,
+    "text": "I'm sorry, you're right. Thank you, Your Honor.",
+    "speaker": "courtroomclerk",
+    "tags": [
+      "acknowledge",
+      "concession"
+    ]
+  },
+  {
+    "start": 5509.589,
+    "end": 5512.53,
+    "text": "Then they come back the next day, midday, and say they're hung.",
+    "speaker": "davidsaybolt",
+    "tags": [
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 5513.25,
+    "end": 5562.199,
+    "text": "Then they come back again and say, we're still hung. Then at some point, they get the very temperate instruction. Then they ask to see the stipulations of the undisputed facts.  Then they get the winners instruction, then actually the foreman sends a note that nobody knows about saying I'm not feeling well I'm not sure I'm going to be able to come back to work tomorrow, which seems to add to the course of nature. Right.  Right. You know, it's just, it's, it's a lot going on and they end up deliberating for as long as they heard evidence for, it's not a long trial. And really it all comes down to the videotape. And yet, they cannot make a decision.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_comment",
+      "court_procedural_remark",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 5563.448,
+    "end": 5663.285,
+    "text": " They deliberate for a little over a day, Your Honor. The court made specific findings that the court did not know the split, that there was no impasse, that they were not deadlocked, but that the parties just wanted to go home by the end of the day. And that's when she gave the full Crowder instruction the next morning. I would submit to you that this was less coercive in a situation like Coley, for example.  And in Coley, we know that the dissenting juror sent several notes, and from the nature of the note, the court found, this court found, that the dissenter was identified, the dissenter was isolated and perceived herself as isolated, and the court gave only the first  The paragraph of the crowd instruction this and this, this court said, if you've given the full Crowder instruction that would have alleviated the potential for coercion, but the court didn't do that. And that was the case where the dissenter was identified and isolated and here that's simply not the case.  because of the earliness of the poll breakdown and because of specific findings made by Judge Knowles. Those are the kinds of facts that would give this court confidence that the jury was not unduly coerced. To find otherwise, Your Honor, this court would essentially be finding that anytime there's a poll breakdown after a winter's instruction, the court must declare a mistrial because the other factors here were all pointing in the direction of less coercion and not more.",
+    "speaker": "davidsaybolt",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 5667.368,
+    "end": 5672.763,
+    "text": " All right, thank you council. Are there any final closing remarks you'd like to make?",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_question",
+      "judge_procedural_directive",
+      "court_closing"
+    ]
+  },
+  {
+    "start": 5674.689,
+    "end": 5704.747,
+    "text": " I would simply say on the non-jury related issues, thank you that we had a lot of evidence. The video was the most important part, but we also had the still photographs which captured the key moments from the video that were not contested. We had the recovery of the matching clothing and the paintball box from the search warrant. And also we had the defendant's statements in the jail call that he was on the scene. So on the strength of all that evidence, we would submit that any error would have been harmless.  Thank you, and we'd ask that the judgment is superior court.",
+    "speaker": "davidsaybolt",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 5706.268,
+    "end": 5711.49,
+    "text": "All right, thank you. Mr. Jankowski, you reserve two minutes for rebuttal.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "reserve_time",
+      "judge_procedural_directive",
+      "time_management",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5713.611,
+    "end": 5957.379,
+    "text": "Yeah, a couple of things. First of all, on the jury coercion issue, the way in which the jury returned the verdict is evidence of coercion. The original verdict that the foreperson, that turned out to be not a verdict,  The original verdict was guilty of armed robbery, right? The juror number two dissented on that. They came back and they were told again that it's, you know, we're trying to reach verdict here, okay? And then they come back with a verdict of unarmed robbery, which was irrational. Because if there was a robbery here,  the force or the threat of force would have been the use of the gun. Yet the jury found him un acquitted him of the armed element of the offense. So the juries are allowed to compromise to issue compromised verdicts. But the fact that it is a compromised verdict, just because that per se is allowable,  does not necessarily mean that the irrational verdict is not evidence of jury coercion. The jury was coerced in the verdict because there was at least one juror who disagreed with the armed robbery. They then went and delivered a verdict that was unarmed robbery, but the only  the only logical force was with the use of a gun. So that would have been, if the jury was uncoerced, they would have either found him not guilty of everything or guilty of the armed robbery. So I didn't say that as clearly as I'd like to, but the irrationality of the verdict  is evidence that the jury was compromised they they figured the judge wants us to the judge wants us to get a verdict so let's just do this uh another point um with respect to what mr sebold said about  Volpe's narration and Olsak's narration of the video was to show why they seized the clothes in the course of their investigation. Assuming arguendo that that's valid, because that's certainly not what the government said to the jury, but assuming arguendo that's valid, the prejudicial effect of that testimony  far outweighs any possible probative value. The probative value of that testimony is minimal, just about non-existent, but it is highly prejudicial because the witness is saying not only that a robbery occurred, but that these different facts that I'm seeing on the video, those facts constitute a robbery. It wasn't just his opinion that a robbery occurred,  It is, you know, these people come up, one of them's got a gun, and then they talk, and then there's a dropping of the bag, and then they picked up the bag, and then they ran out of the store. All those things, even without opining that that's a robbery, those things that the detective said constitute a robbery. So that's really the prejudice. It's not just them saying, oh, that's a robbery, and then the jury is told it's up for them to determine if it's a robbery.  So, and then with respect to what the government says about it not being a statement, it is a statement. It's a statement that a robbery occurred. If there was no statement that a robbery occurred in this case, the government doesn't survive a judgment of acquittal. So unless there's any further questions, I will submit on what I have already said.",
+    "speaker": "Unknown",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "concession",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 5958.35,
+    "end": 5968.413,
+    "text": " All right, thank you. I'd like to thank both counsel for your briefs and your arguments today. And this matter will be taken under advisement. Thank you.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "court_closing",
+      "court_procedural_remark",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5969.354,
+    "end": 5971.234,
+    "text": "Thank you, Your Honor. Stay safe and healthy.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "court_closing"
+    ]
+  },
+  {
+    "start": 5972.315,
+    "end": 5973.315,
+    "text": "The court is now adjourned.",
+    "speaker": "courtroomclerk",
+    "tags": [
+      "court_closing"
+    ]
+  }
+]

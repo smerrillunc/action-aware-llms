@@ -1,0 +1,2526 @@
+[
+  {
+    "start": 0.031,
+    "end": 12.271,
+    "text": " All right it's 630 and I called this meeting of the September the 10th meeting of the Albemarle County School Board to order. Mrs. Coulson do you have a motion?",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "request_action"
+    ]
+  },
+  {
+    "start": 18.101,
+    "end": 38.575,
+    "text": "I do have a motion.  I move that the board certify by recorded vote that, to the best of each board member's knowledge, only public business matters lawfully exempted from the open meeting requirements of the Virginia Freedom of Information Act and identified in the motion authorizing for the closed meeting were heard, discussed, or considered in the closed meeting.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "procedural_move",
+      "vote_call"
+    ]
+  },
+  {
+    "start": 40.677,
+    "end": 51.908,
+    "text": "Second. All right. It's been moved by Mrs. Carlson, seconded by Mr. Oberg. We've heard the motion. Mrs. Johnson, could you give us the roll call vote, please?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "vote_call",
+      "request_action"
+    ]
+  },
+  {
+    "start": 51.972,
+    "end": 52.833,
+    "text": " Mr. Oberg?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 54.395,
+    "end": 54.656,
+    "text": "Yes.",
+    "speaker": "davidoberg",
+    "tags": [
+      "agreeing"
+    ]
+  },
+  {
+    "start": 56.037,
+    "end": 59.722,
+    "text": "Mr. Alcaro? Yes. Ms. Colston?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 60.463,
+    "end": 60.724,
+    "text": "Yes.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 62.066,
+    "end": 69.656,
+    "text": "Dr. Acuff? Yes. Ms. Lee? Yes. Ms. Osborne? Yes. Mr. Page?",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 70.076,
+    "end": 150.975,
+    "text": "Yes. All right. We will now have a moment of silence.  Okay, thank you. And since this meeting is virtual, we have to read this into our minutes for each night. The minutes of this meeting should reflect that number one, this meeting is being held electronically, prescient to Virginia State Law and Albemarle County Ordinance, because the COVID-19 pandemic makes it impracticable and unsafe to assemble a quorum physically in a single location. The meeting is being communicated to the public electronically through Zoom.  and streams live on the Albemarle County Public Schools website. And public comment may be offered through the Zoom waiting room, feature in accordance with the school board's protocol or by written submission. Could I have a motion to approve our agenda for tonight?",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "logistics_info",
+      "procedural_move",
+      "request_action"
+    ]
+  },
+  {
+    "start": 151.796,
+    "end": 153.478,
+    "text": "I move that we approve the agenda.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 155.921,
+    "end": 156.441,
+    "text": "Second.",
+    "speaker": "cherylknight",
+    "tags": [
+      "procedural_move",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 157.662,
+    "end": 165.608,
+    "text": "Okay, moved by Mr. Alcaro, second by Dr. Acoff that we approve the agenda.  Ms. Johnston, roll call vote, please.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "vote_call"
+    ]
+  },
+  {
+    "start": 167.831,
+    "end": 168.672,
+    "text": "Mr. Elkaro?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 169.132,
+    "end": 169.393,
+    "text": "Yes.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "agreeing"
+    ]
+  },
+  {
+    "start": 170.234,
+    "end": 183.972,
+    "text": "Ms. Colson? Yes. Dr. Acuff? Yes. Ms. Lee? Yes. Ms. Osborne? Yes. Mr. Oberg? Yes. Mr. Page?",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 184.433,
+    "end": 191.582,
+    "text": "Yes. All right. We now need a motion for the approval of the consent agenda.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 192.676,
+    "end": 195.118,
+    "text": " I move that we approve the consent agenda.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 197.3,
+    "end": 198.742,
+    "text": "Second.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "procedural_move",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 198.762,
+    "end": 200.804,
+    "text": "OK, was that Mrs. Moore?",
+    "speaker": "grahampaige",
+    "tags": [
+      "clarify",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 201.725,
+    "end": 202.666,
+    "text": "Osborne, yes.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 202.686,
+    "end": 212.115,
+    "text": "I mean, sorry about that, Ms. Osborne. All right, moved by Mr. Alcaro, seconded by Ms. Osborne that we approve the consent agenda. Any discussion?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "follow_up_request",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 214.036,
+    "end": 238.156,
+    "text": "I did want to just bring up that I really appreciate that the policies are now, we're now seeing the equity  checklist on each policy, and I know that we had initially asked for just a check, but I really appreciate the added information that we've been getting on those, because it definitely helps me know how we're processing those kinds of things, so I appreciate it.",
+    "speaker": "judyle",
+    "tags": [
+      "acknowledge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 238.837,
+    "end": 242.641,
+    "text": "Okay, thank you. All right, Ms. Johnson, could you give us the roll call vote on this?",
+    "speaker": "grahampaige",
+    "tags": [
+      "request_action",
+      "procedural_move",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 243.022,
+    "end": 260.636,
+    "text": "Ms. Colson? Yes. Dr. Acuff? Yes. Ms. Lee?  Yes. Ms. Osborne? Yes. Mr. Oberg? Yes. Mr. Alcaro? Yes. Mr. Page?",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call"
+    ]
+  },
+  {
+    "start": 260.876,
+    "end": 274.17,
+    "text": "Yes. And even though we have taken roll call votes, I guess for a formal introduction, each of our school board members, please give your district, Dr. Kate Acoff.",
+    "speaker": "grahampaige",
+    "tags": [
+      "request_action",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 274.19,
+    "end": 276.212,
+    "text": "Kate Acoff, Jack Jewett District.",
+    "speaker": "kateacuff",
+    "tags": [
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 276.992,
+    "end": 283.285,
+    "text": "John O. Alcaro. John O. Alcaro at large.  OK, Mrs. Melanie Burkhart.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 285.327,
+    "end": 286.688,
+    "text": "She doesn't appear to be on yet.",
+    "speaker": "Unknown",
+    "tags": [
+      "logistics_info",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 287.529,
+    "end": 289.911,
+    "text": "OK. All right, Ms. Katrina Colson.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 291.352,
+    "end": 293.814,
+    "text": "Katrina Colson, Rio District.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 293.834,
+    "end": 294.575,
+    "text": "Ms. Judy Lee.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 297.237,
+    "end": 298.378,
+    "text": "Judy Lee, Rivanna District.",
+    "speaker": "judyle",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 298.999,
+    "end": 299.599,
+    "text": "Dave Oberg.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 301.721,
+    "end": 304.183,
+    "text": "Dave Oberg, Whitehall. Ellen Osborne.",
+    "speaker": "davidoberg",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 304.864,
+    "end": 306.546,
+    "text": "Ellen Osborne, Scottsville District.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 307.086,
+    "end": 315.67,
+    "text": "OK, Graham Page, Samuel Miller District.  And we are down to public comment. So Mrs. Carlson.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 318.695,
+    "end": 436.666,
+    "text": "I'm going to read the public comment guidelines before we start. The school board invites and actively seeks the public's input in the matters relevant to school board governance and provides for time during its business meetings to hear from Albemarle County residents and community members.  As authorized by ordinance of the County of Albemarle, the school board will hold its meetings electronically during the COVID-19 pandemic. The school board is nevertheless committed to encouraging public comment, and for this reason there will be two ways for the public to provide comment. First, as always, written comments may be submitted to the school board clerk prior to the start of the meeting and will be given to all the school board members for review. Second, members of the public wishing to provide public comment during the school board meeting may sign up online by 4 p.m.  excuse me, I think that's different now, by 2 p.m. the day of the meeting. The clerk is gonna email Zoom links to the speakers on the day of the meeting so that they can log in, provide comment.  Before electronic public comment commences, I'm going to announce the order. There's actually, I think, only three. So I'll announce all three so that you know where you are. Speakers during the meeting are those submitting written comments should state their name and their address or magisterial district. Speakers should limit comments to those matters that are relevant to school board governance or the operations of the school divisions. Speakers will have three minutes to talk. They'll be notified when they reach a two-minute mark. And at the three-minute mark, I will have to cut you off.  Although the school board will not respond to comments during the public comment period, school board members may address comments at the end of the meeting agenda under other business. I would like to add on here briefly that I know we had difficulty signing up for public comment this week. So I believe you can also email to sign up if you can't access the online signup chart in the future. With that being said, we have first up Amy Gertner.  Next will be Patricia McDonald. And third will be Christine Coning. And fourth, there is one fourth one, will be Cheryl Knight. So Amy, we're ready when you are. Ms. Geertner.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "public_addressing",
+      "logistics_info",
+      "procedural_move",
+      "clarify",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 437.827,
+    "end": 628.644,
+    "text": "Thank you. Good evening, school board members and Dr. Haas. My name is Amy Geertner, and I'm a resident of the Whitehall District. This is my 28th year teaching, and all of those years have been in either second or third grade at Broaduswood Elementary.  This year, I have 26 students in my class. I was able to connect with 25 families through email before school started. I also spoke to 24 families on the phone or in a Zoom meeting. I will go back to the two families I did not get to speak to in a moment. We did not get a second chance to make a good first impression. Most of our families are eager to talk to us. They're ready to get the school year started. They've been extremely patient and supportive as we go on this new adventure of synchronous online learning together.  This week has felt like I'm hosting and producing a live daily telethon. I'm up in the morning finalizing Seesaw slides and I'm emailing parents to address their questions and concerns. I know many educators are not sleeping well. My Fitbit says I'm averaging four hours and 55 minutes this week. I'm keeping a running list of my questions and concerns about using Seesaw and Zoom. Seesaw training was the ACPS summer PD for elementary teachers.  We use this platform for communicating with our families and posting activities for our students to use during their asynchronous learning times. I do not feel prepared to effectively teach in the virtual setting. I'm troubleshooting and responding in real time for majority of the school day. The school board and Dr. Haas has already heard about our concerns for the elementary schedule. I'm very concerned about the feasibility of keeping up this pace. I do not have young children at home,  I'm naturally caffeinated. I do not drink coffee or sodas. I believe I'm organized and work efficiently. But I am told there is more planning time in the schedule, but Friday is not here yet. We are having to create, find, link, upload, and learn all at the same time. I have not started planning for what I will be teaching next week. I would like to go back now to those two families that I did not speak to before the school year started.  One family did not respond to my email or call me back when I left them my home telephone number. The guidance counselor was able to get mom's cell phone number when they picked up school supplies. I sent a text message to mom on Thursday from my cell phone. I heard back from mom at 1.11 a.m. Tuesday morning saying they could not find their login information for their computer. I responded back at 3.11 a.m. when I woke up. Mom and I texted throughout the day and at 1.20, her child joined our class.  My new student stayed on Zoom for another 20 minutes talking with me. The other new student was having difficulty logging into. We were emailing on Tuesday and Wednesday, and at 1.15 on Wednesday, she was finally able to join the Zoom meeting outside of Broaduswood. The child knows no one on the screen, but is beaming at everyone. She sits outside of our school for 20 months of class. I let her know I'm in the building, and I can come out and say hello after class. She puts her sweet face up to the camera and says, I would love that.  Our students want to see and talk to us. Please listen to teachers and give us the time we need to build relationships with our students and families in the elementary schedule. Thank you.",
+    "speaker": "amygaertner",
+    "tags": [
+      "public_addressing",
+      "give_update",
+      "express_concern",
+      "request_action",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 632.79,
+    "end": 639.458,
+    "text": "Thank you, Ms. Gairdner. That was almost exactly three minutes. Next up, we will have Patricia McDonald.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 641.201,
+    "end": 742.259,
+    "text": "Hi, my name is Patricia McDonald. I live in the Rubana district. I'd like to discuss the path forward.  returning to in-person learning stage five. It recently came to my attention that the Albemarle County School Board has not stated the specific health requirements to reach each of the five stages for return to school. Each Albemarle County School Board meeting includes a discussion of the various health metrics and statistics in our district. These numbers are meaningless without context.  The context required is specific health standards assigned to each stage for return to school. So we all know we're at stage two, which is all virtual learning. And our goal is stage five, in-person learning. But the community doesn't know how or when we can get there because there have been no health criteria standards set for each stage. The community has no idea how close or far we are  from stage five. The lack of clear published health criteria for each stage increases uncertainty in the community and can give the appearance that the school board is acting arbitrarily. By publishing the five stages for return to school with the accompanying health metrics, the school board will increase transparency and promote understanding. Please,  adopt and publish the health benchmarks required to move through the five stages of return to school. Thank you.",
+    "speaker": "patricia",
+    "tags": [
+      "public_addressing",
+      "express_concern",
+      "policy_proposal",
+      "request_action",
+      "clarify"
+    ]
+  },
+  {
+    "start": 745.563,
+    "end": 758.616,
+    "text": "Thank you, Ms. McDonald. I'm sorry, I keep pausing on your name. I'm sorry. Thank you very much. The next speaker will be Christine Koning. Hi.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 758.815,
+    "end": 952.385,
+    "text": " Hi, thank you. I'm Christine Koenig. I'm a resident of Whitehall. Tonight, I want to talk about my four-year-old and our experience trying to get him special education services this summer. My son has speech problems and is difficult to understand. This past winter, he also began to stutter. It has affected him socially, emotionally, and psychologically.  We were referred for a speech evaluation to the county schools back in spring. Unfortunately, this was just as everything was shutting down due to COVID-19. It was frustrating but understandable. At that time, we were told that obviously they could not do it in person, but because my son is four, it wasn't age appropriate to complete a virtual evaluation and that it wasn't allowed.  As a parent, this was hard to accept, but we did the best we could these past several months. We ordered books, watched YouTube videos, and we were also able to get my son's hearing tested. Unfortunately, YouTube is no substitute for professional speech therapy. I contacted the special education department at least four times this summer. Each time I was told the same thing. Virtual was not allowed, it was inappropriate, and they wouldn't be able to get the necessary information for the evaluation.  I was also told that in-person could not yet happen because they were trying to secure the space and the necessary PPE. The last time they told me they needed to find space and PPE was mid-August, when school buildings were empty and would be empty for months and PPE shortages had substantial time to be addressed.  The last message I left for the department, I begged them to consider using face shields or outdoor assessments or anything creative. In response, I was sent an email saying I can agree to an extension or move forward with our eligibility meeting and likely be denied services.  due to the lack of an evaluation. After a few email exchanges, I was offered a Zoom call this week to better understand where options were for my son. During this meeting, I was told that they are resuming in-person services now, but also that if I didn't feel safe with in-person, that they could complete the evaluation virtually.  How is it that after six months of virtual evaluations being age inappropriate and inadequate medium for doing evaluations that suddenly that is no longer true? There are five weeks worth of children ahead of my son. We are looking at a three month process to get all the paperwork and necessary steps completed to enroll him. So realistically with the holidays, it'll be January before he gets his first therapy session. The people I spoke with this week said they weren't allowed to tell me how many children were on that list after my son.  But since he was added about five to six months ago, I can only imagine how many other children and families have been let down by the special education department this year. As we all know, there are small windows for opportunity to correct many of these issues before they cause lifelong consequences. How many of those windows closed because it was decided what appears to be arbitrarily, virtual evaluation wasn't acceptable for young children this summer. This is reprehensible and shameful.  The last thing I would like to point out is that UVA and private facilities were quick to transition to virtual and have actually been open for in-person sessions for children since the governor began reopening the state. So let's be clear that this disproportionately affects children and families who don't have the means to pay for private care. Thank you.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "express_concern",
+      "ask_question",
+      "cite_external_source",
+      "opinion"
+    ]
+  },
+  {
+    "start": 952.405,
+    "end": 958.973,
+    "text": "Thank you, Ms. Koenig. Our last speaker will be Ms. Cheryl Knight. Thank you.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 959.662,
+    "end": 1089.511,
+    "text": " I chose to speak this evening to say some things that are hard to hear. It seems to be an understatement COVID-19 has had such a deleterious impact on our schools and communities. I have struggled through the first three days of live teaching on Zoom and trying to figure out how to meet the needs of the students that I serve. I've been overwhelmed. I've spoken to many elementary teachers who are feeling discouraged and just dog tired from these first few days.  A teacher I spoke with today was discussing how she could not see how she could possibly sustain this type of a schedule. She's coming to school at 6 a.m. and is working on school stuff until 9 p.m. and then turns around and does it again. Unfortunately, she is not unique. She wonders how she can provide feedback to the many asynchronous assignments and still plan for next week's instruction. I realized that  This is the beginning of the year, and some of that is to be expected. Please ask for the teacher's feedback. Right now, most of us are too tired to sign up for public comment or put our thoughts on paper. I cannot be silent about this. Too many people are working way too hard. I fear for the health, both mental and physical, of our teachers as we continue down this road. Morale is a very tricky issue to tackle, and humans by nature tend to be negative.  according to Professor Lori Santos, who teaches the science of well-being at Yale and is the host of the Happiness Lab podcast. I don't want to come across as just complaining. This is not anyone's fault. We're in a pandemic and we need to care for each other. I am very thankful to the ACPS administration and to you, the school board, for the work that you have done, are doing, and will do in the future. I would be remiss if I  did not make a request. I am requesting that the elementary schedule be reviewed, revisited, and feedback received from all stakeholders. I would be open to further conversations to discuss this with any of you. Thank you for your service to the ACPS community.",
+    "speaker": "cherylknight",
+    "tags": [
+      "express_concern",
+      "request_action",
+      "follow_up_request",
+      "public_addressing",
+      "cite_external_source",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1093.675,
+    "end": 1101.803,
+    "text": "Thank you for those comments, Ms. Knight. That concludes our public comment sign up, and I would turn the speaker back to you, Mr. Page.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1102.458,
+    "end": 1115.611,
+    "text": " Okay, thank you, Mrs. Carlson. And thank you to all of our speakers. We will now have our spotlight on education led tonight by our student rep, Mrs. Melanie Burkhardt.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1116.452,
+    "end": 1275.126,
+    "text": "Thank you, Mr. Page. As the student representative on the school board, it's an honor for me to introduce this evening's recognitions because we are paying tribute to a program and educators that have had a significant impact on students.  I think it's safe to say that from its inception, the strategies and practices around culturally responsive teaching have changed the lives of my classmates. That's safe to say because these gains have been documented as part of the rigorous progress that leads to educators becoming certified in culturally responsive teaching. Unless an educator can prove that their teaching methods and relationships have improved student performance,  they do not qualify as culturally responsive educators. That's a high bar for excellence and perhaps it's why our school division is the only one in the state that asks this of its educators and delivers this to its students.  Last month, during our fifth equity conference 23 educators under their certifications and 40 educators receive their micro credential and culturally responsive teaching or CRT. These were the highest numbers in the program today, as was the size of the conferences audience.  There were several thought provoking presentations and one in particular that I hope one of our guests will explain was being comfortable in the uncomfortable, creating an environment of academic risk takers. I think this sums up both the promise and the purpose of the program. Another highlight was the naming of our equity educator of the year, Kimberly Gibson. Ms. Gibson has served the students and families of Albemarle County for more than 30 years. And I really admire research,  I really admire research she uses to describe why CRT is so essential.  She talks about the leaves of a tree representing the surface culture of our students and what might be most visible in the popular perception of our students' 96 birth countries. Delving a little deeper into the habits of our characteristics that students bring with them to our schools is like the trunk of the tree, giving strength to characteristics such as fairness and respect, but real progress, she says, comes from getting at the roots of the tree.  Understanding and celebrating the beliefs, ideas, and values that shape and empower the diversity of student learning. I know we all want to hear more about Ms. Gibson's personal journey, but first, I'm going to ask our very first recipient of the Equity Educator of the Year Award, Leilani Keyes, to talk about some of this year's conference's most important moments.",
+    "speaker": "melaniburkhart",
+    "tags": [
+      "public_addressing",
+      "give_update",
+      "acknowledge",
+      "request_action",
+      "hedge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 1275.73,
+    "end": 1596.831,
+    "text": " Thank you so much, Ms. Burkhart. Good evening to everyone. I'm grateful to be here with you this evening on behalf of the rest of the Equity Specialist Team to highlight our fifth annual ACPS Equity Conference, which took place last Friday, August 28. This year's Equity Conference boasted an all-time high attendance of 330 registrants.  including ACPS educators, community partners, teachers, and administrators from school divisions across the state, and local government representatives. This year, the Equity Specialist Team and the CRT Leadership Team, under the direction of Dr. Bernard Harrison, organized an all-virtual conference with 15 breakout sessions and 40 speakers and presenters.  At our noon award ceremony, 23 new certification awardees were recognized for demonstrating their ability to narrow and close achievement gaps for historically marginalized students in this division. Likewise, 40 newly micro-credentialed educators were recognized for their ability to transfer CRT professional learning into practice. We are pleased to announce our school superintendent, Dr. Matt Haas,  was amongst those who received a micro-credential in CRT characteristic number one, cultural lenses. Congratulations again, Dr. Haas. Amongst educators honored was Jane Engel, an eighth grade special education teacher from Jewett Middle School, who was able to increase student achievement in her special education English course for her students at a rate that exceeded the average of all eighth grade students at Jewett.  including students enrolled in honors English. In fact, Jane's students had a higher percentage of mastery than the eighth grade as a whole in common standards-based assessment. She attributes the student achievement to her growth as a teacher in her application of culturally responsive teaching, a heightened awareness of cultural bias, an in-depth process of instructional shifts in her classroom,  and her strengthened academic partnerships with students and families. Mindset and practice shifts like Jane's are a prime example of the results common to all of our CRT certification awardees. Also amongst those educators honored were a pair from the Center for Learning and Growth, a staff led last year by CRT certified veteran leader, DeeDee Jones. DeeDee intentionally and artfully promoted professional learning amongst her staff to support her teacher's practice at the center.  As a result, two of her five teachers received certification in culturally responsive teaching, Hashim Davis and Jennifer Middlesworth. In his portfolio, Hashim chronicles the alliance he built with a student who felt he had been a target of racially based deficit thinking through his years in education. In his CRT presentation, Hashim writes, for my student, he was in constant fight or flight mode  He thought of himself as stupid because he could not read well, and his anxiety was impacting him. I affirmed that he was a scholar in the making. I encouraged him to work harder in spite of those around him. He trusted and respected me. On the eve of his meeting with the committee that would determine if he would go back to his Bay School, he and I spent an hour or more talking about the power of another chance to get it right.  With Hashim's help, the student returned successfully to his base school, where Hashim continues to check on him as a perseverant, culturally responsive ally in his education. Lastly, I'd like to highlight the work of Principal Darrell Bonham at Albemarle High School. Principal Bonham created the structures and routines to lead a whole staff, all 220, CRT book study at Albemarle High School this past year.  His dedication to affirming and acknowledging students of color at his school led him to become certified during one of the most challenging school years on record for administrators. One of his teachers said this about him. Dara steered AHS toward becoming more culturally responsive with compassion, clarity, and firm vision. He helped us to unpack the predictive implications of data and modeled placing relationships at the forefront of our teaching.  He gave students opportunities to share about their experiences with racism and discrimination at the school and made prompt efforts to implement changes to improve their safety and learning. One last highlight of the Equity Conference was the award of our Equity and Diversity Educator of the Year. This year, like Ms. Burkhart said,  The award went to the beloved, longtime ACPS educator, Kimberly Ann Gibson, whose work last year as a CRT leadership team member and instructional coach won her this honor. Kim, now a new lead coach in the Department of Instruction, is known in the ACPS equity community as a positive spirit, a challenging counselor, and an out-of-the-box thinker. I'd like to introduce everyone to Kimberly Ann Gibson.",
+    "speaker": "leilanikeys",
+    "tags": [
+      "give_update",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1599.899,
+    "end": 1926.231,
+    "text": " Leilani, thank you. And I appreciate the honor given to me to just join you for a few minutes and share my journey as well. The recognition is humbling and overwhelming because I feel like I've just touched the tip of the iceberg in this work and get the honor to continue to do it as long as I can stand and  be a part of this community. But to share with you a couple of the significant portions of my trip over the past 30 years, I feel like CRT, as Leilani was explaining so well with all of the examples from this year and that you, if you go into the examples from preceding years and talk to culturally responsive educators, both certified and not certified or credentialed,  What you'll find, I think, is that their work aligns with the mission of this county and the rewording of relationships first, then relevance, and then rigor. To me, that's really the backbone of this work. And I found in my journey, relationships came first. And that was the lack that I found in my work with my students. I always craved that close relationship and knew that  that I didn't know what I didn't know. I didn't know how to achieve that. And when I was able to connect with first CRT in the brain by Zaretta Hammond and eat up the science of the brain and understand how our brains function, to be able to reach my students and then to delve deeply into three characteristics, developing relationships, then the rigor and the relevance came.  I was able to understand how understanding my culture, which Dr. Haas delved into in micro-credentialing and characteristic number one, how my culture really intersected with my students' culture and impacted my instruction. And that was huge, because once I understood that, then I could meet them, I could help bridge the gap.  and understand things like with my beloved students that things like I thought I was nagging them. So I backed off of my African-American male students and they challenged me. They pulled me back in and they said, Ms. Gibson, why are you not reminding me and coming back in and pushing in with me? And they really called me to action. So that coupled with studying the data  over so many years and studying the data with faculties who were supremely skilled and intelligent and hardworking and yet seeing the numbers not move, I felt like I was in a groundhog day of Einstein's definition of insanity. We're doing the same thing over and over again and we're not getting results.  And I'm here to tell you that CRT, culturally responsive teaching, is the results. Melanie alluded to that in her introduction. If you were to ask me why CRT, what makes the difference, I would say that CRT is best practices, but it's more than best practices. That in order for those strategies to really sink in  The first thing you have to do is have those relationships, which includes not just the students, but their families and their communities. They have to feel safe. They have to get beyond that, the feeling, the threat in order for the learning to truly occur. And that's what's going through this process and still continuing to work in it since  Your certification year is really the tip of the iceberg and you can't quit, you can't go back. Once you know, you know, then you have to continue to move and you're propelled from your heart. But the work just must go on. And that's how it happens is working through these characteristics and really focusing on linking your strategies and your purposeful relationship building  to outcomes for students. Hashim didn't give up. He spent those hours with his student. Educators across our county are doing this and this is what makes the difference. This is what makes me cry. This is what makes me passionate. And I just appreciate y'all's support of this program because it really does make a difference for our students and it makes a difference for us as educators.  as we're weary and we're tired, but when we can see that, when we can see things move and students believing in themselves, that's what we live for. So I just really thank you for your support in this and your continued support of the work.",
+    "speaker": "kimberlygibson",
+    "tags": [
+      "acknowledge",
+      "opinion",
+      "public_addressing",
+      "cite_external_source",
+      "prioritization",
+      "give_update"
+    ]
+  },
+  {
+    "start": 1932.438,
+    "end": 1944.034,
+    "text": " Thank you, Mrs. Keyes and Ms. Gibson. Do any of the school board members have any questions or comments related to our spotlight on education tonight?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1945.786,
+    "end": 1970.25,
+    "text": " I have one, and Ms. Gibson, this is going to be obviously a different kind of journey this year for the country as a whole, but for Albemarle County Public Schools. Where do you see yourself in your journey? What's your goal to get to by the end of this year in terms of your learning, your achievements, and the success of your students?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 1972.112,
+    "end": 2081.504,
+    "text": "So that's a great question. Thank you, Mr. Alcaro.  So in my position as lead coach, my responsibilities are over the talent development program and secondary English and language arts. So I really have the sweet spot for this work. Moving to our talent development model is all about equity. And so part of our program is really building in equity audits of our work and being very real about who we are serving  and really going at an assets-based approach, a continuing of that, and really defining it and making it more visible. So that's our goal there. And all of our talent development resource teachers are 100% on board and doing that work right now. As far as the English and language arts component, just very specifically,  we're working in really partnering with the anti-racism policy and moving that work forward, looking at our approach to literature and letting go of literary whiteness and working through that and really examining our equitable practices in that area and empowering teachers to empower students to critically read with and through text  so that they can be more empowered as citizens and as individuals. So that's the specific work in my particular world or my sphere of influence right now, which is just working on the systems and empowering my teachers to work with their students towards more equitable outcomes.",
+    "speaker": "kimberlygibson",
+    "tags": [
+      "give_update",
+      "clarify",
+      "reassure",
+      "acknowledge",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 2082.987,
+    "end": 2083.748,
+    "text": "Thank you so much.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2084.429,
+    "end": 2084.89,
+    "text": "Thank you.",
+    "speaker": "kimberlygibson",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2087.992,
+    "end": 2097.404,
+    "text": " Are there any other questions or comments related to Spotlight on Education or directed to Mrs. Keyes or Mrs. Gibson?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "public_addressing",
+      "follow_up_request",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2098.906,
+    "end": 2113.324,
+    "text": "I guess I have one for Mrs. Keyes. What do you think the impact of being virtual will have on recruitment for the CRT program? You're muted.",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2114.84,
+    "end": 2180.942,
+    "text": " Thank you for that question, Naseka. We actually just had two information sessions these last couple of weeks on September 2nd and September 10th. And our information sessions are a time for us to galvanize collective efficacy around CRT work in our division. And we had 100 total educators attend the information sessions. In our cohorts currently, we have 200 people signed up for our cohorts. So the virtual environment  Although educators are nervous and anxious what it will be to be a culturally responsive teacher in a virtual environment, we have assured them that it is the collective efficacy and our collective action that will see us through. It is our work with each other, our encouragement of each other, our building  our own virtual reality here and what it means to be a culturally responsive educator. That's what will get us all through. And so we're excited about this movement that we have that's continuing to gain momentum this year. Thank you.",
+    "speaker": "leilanikeys",
+    "tags": [
+      "give_update",
+      "reassure",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2184.406,
+    "end": 2216.329,
+    "text": "Any other comments or questions?  Well, thank you, Mrs. Key and Mrs. Gibson for that wonderful presentation. And we really appreciate all of the work that you are doing to promote CRT in the county schools. So thank you so very, very much for the presentation tonight. Thank you. We are now ready for announcements.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2217.423,
+    "end": 2756.447,
+    "text": " Thank you, Mr. Page. I appreciate that. And if the board, if it pleases the board, we just have one. I'm just going to talk a little bit about the first day. But before that, I really just want to thank Leilani or Ms. Keyes and Ms. Gibson for coming tonight. I mean, just listening to you talk, Ms. Gibson, and describing your journey, this career that you've had, it really inspired me all over again, just listening.  You taught both of my children at Jack Jewett Middle School and you are true, you are as true as can be. They were both inspired by you as a teacher and we never had to ever ask them about whether they were keeping up in your class and they were really engaged and motivated with the learning activities you provided. So thank you for that and thank you for your leadership role in the school system. I think that,  Ms. Gibson hit the nail on the head. We are here to create a community of learners and learning one student at a time. And it was Steve Colazar, former board member, who insisted that we switch the three attributes of the learning community to this order, relationships, relevance, and rigor, one student at a time. And one of the things he used to say was that if you start with relationships,  and then you add relevance, then you have rigor. Because rigor is really learning through mistakes, being supported in relationships so that you care enough to come back and improve your work and learning. And I would add another R to that based on what Ms. Gibson talked about tonight, and that's results.  that that is the one student at a time. It is a result, one student at a time through those three other attributes. And with regard to all of our employees, I wanna say that while this certainly wasn't the way that any of us would want to open a school year, you all have done an outstanding job of standing up a virtual school for the second time in  five to six months with a lot of lessons learned. And I'm really proud of you for that. We kept saying to the educators, you've got this and they got it. They opened a mostly virtual school for over 13,000 students and your learning curve, whether you were teaching virtually in which that is about 97% of our students are in a virtual learning environment right now.  or if you're in person or if you're manning childcare for Albemarle employees or preparing or delivering meals along bus routes or keeping our buildings and air clean and up and running, or, and this is a big or, handling the hundreds of phone calls and emails coming into our technology service desks and schools, they did it. And now that we're up and running, we will keep getting better. While not everyone is satisfied,  I've heard super positive feedback from students, families, and staff. Like I said, we can always improve, but it was a great start. And on behalf of my staff at the central level, I just want to thank everyone for that. Teddy Roosevelt is quoted as having said, do what you can with what you have, where you are. What you have and where you are are both so often out of our control. However, what you can,  is so often up to us. Thank you for demonstrating your resilience and passion for your work once again for the start of 2020. As the board knows, and I guess most people know, all the members of the cabinet go out and visit schools over the first three days of school. So they're all out and about visiting, checking in with principals, meeting up with staff. Often they're providing one-on-one support. I know that  On the very first day of school, Dr. Claire Kaiser spent the whole morning at Scottsdale working with an individual student who needed assistance with the technology. And really, I was very proud to hear that kind of hands-on service from our central office staff.  I continue to visit one school each week. In fact, John is gonna come with me next Monday to visit Henley Middle School for a half an hour just to walk the building and talk with the principal and see how things are going. And I wanna say that I did have a wonderful visit at Monticello High School this past Tuesday. Our principals really are top notch, I really believe that.  It amazes me when I walk about with Rick for HOVAC, and he addresses every single person, even when they're wearing masks, when we come across them by name. When I complimented Rick on this trait, he said, it comes with decades of coaching athletes. If you want to get a person's attention and let that person know you care, you have to address him or her by name. It makes all the difference in the world. To me, when I hear a principal say this, someone charged with the responsibility for thousands  of our students and hundreds of employees, I know that he embodies the mission, one student at a time through relationships. On our walk, we partnered up with several staff. I was so happy to see Assistant Principal Tim Driver. I'm proud to say that I hired Tim away from Nelson County back in 2005 so we could work together at Alma High School. Tim transferred to Monticello High School this summer, and he was already sporting his Monticello High School apparel, black and gold,  after more than a decade as a warrior. He still has cerulean blue sneakers, though, and he told me he's working on getting either black or gold or both to complete his attire as a Mustang. I did see Chief of Strategic Planning, Pat McLaughlin, visiting the school as well, plus we ran into Assistant Principal Hank Adkins. In the main office, I want to give a shout out to some super support staff, Amy Gunnarsson and Jan Koiner and Sam Wright.  took the initiative to assign Sam, who's one of their office assistants, who's really great with technology. He assigned him to supporting Monticello High School students, staff, and families on the phone and email nonstop this summer. He's just, when we were there that day, he went through three phone calls while Rick and I were just trying to talk to him for a couple of minutes. He's amazing. Monticello is hosting in the neighborhood of 30 students on Tuesday.  ESOL teacher Jennifer Timms was working with English language learners as they accessed their coursework and classwork with the assistance of Pam Coleman. I think I counted 12 of our employees' children, that's our children and local government's children, at Melanie Gard's childcare center down on the athletic wing. Melanie told me that for playtime that morning, she played music on the gym speaker system, and the children just enjoyed running about the gym until they were exhausted.  Several of the children told her in their own words that they felt free in the air conditioned space and can run until they needed to stop and take a breath. I have to say that I was moved to hear that along with Melanie's obvious empathy for the children. And our thoughts about how they've been largely cooped up for months gave me pause. On a more positive note, I had the wonderful opportunity to meet Albemarle County Public Schools brand new  JROTC teacher, Lieutenant Colonel Christopher Wingate. And he's not Monticello High School's JROTC teacher. He's working with students across the county. Colonel Wingate was actually a classmate of Pat McLaughlin's. I don't know if you all knew that. So he has Albemarle roots. On my way into Monticello High School, I went through a very well-organized, self-guided screening process.  On my way out, I met up with one of our superhuman school nurses who set it up and keeps us all healthy. Thank you very much, Terry Tomlin and all of our school nurses for the amazing work that you're doing. So just to sum it up, that's just one snapshot of students and staff in the schools and the real resilience that they're showing, as well as all of our educators across the county.  who, as Amy pointed out and Cheryl Knight pointed out, are really working in many ways harder than teachers have worked. And I thank them for that. And that's all I have, Mr. Page.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "give_update",
+      "public_addressing",
+      "acknowledge",
+      "reassure",
+      "logistics_info",
+      "opinion"
+    ]
+  },
+  {
+    "start": 2757.203,
+    "end": 2795.797,
+    "text": " Thank you very much, Dr. Haas. And also thank you for giving us the insight about your visits to all of those schools. And even though I haven't said it up to this point in the meeting, we do thank all of our staff in the whole county for opening under these very, very difficult situation, virtually. We recognize that you have a really tough task facing you right now, and we really appreciate everything that you're doing. So thanks so very, very much.  Moving now to our school division business. First item, Dr. McLaughlin and Mrs. Gomez, the COVID-19 status update.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2803.428,
+    "end": 2852.823,
+    "text": "Hi, good evening board members. I'm Pat McLaughlin, chief of strategic planning. And I'm here tonight with Eileen Gomez to provide you an update on our local COVID statistics.  As you recall, our return to school plan outlined multiple factors that we will use to determine when we'll move from one stage to another as we weather the COVID crisis.  Per your request, at each board meeting, we'll provide updates in regard to one of the factors, the current COVID-19 conditions in the region, and in particular, our community transmission and testing positivity rates. All data that you see tonight has been provided by the Virginia Department of Health. And it's important to note that these statistics and trend data are one factor in determining whether to move forward or back in our return to school stages. It's recommended that the board continue to look at all factors collectively as these decisions are made.  And at this time, I'll turn things over to Eileen to take you through our latest statistics.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "cite_external_source",
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2854.625,
+    "end": 2968.725,
+    "text": "Good evening, everybody. Thank you, Dr. McLaughlin. I'm going to show you first the case incident rate or the burden for Albemarle County. They provide us these updates every week and we're providing them to you every two weeks. And you can see these numbers here. This is cases per one hundred thousand in Albemarle County.  We started in the middle of August, a little higher than we are right now but you can see it's been it's a little up and down this is considered a fluctuating trend, but the numbers right now as of September 7 7.8 that that looks good, compared to two weeks ago, especially.  Can we go to the next one? Here we are. The percent positivity, this you'll recall, is the percent of people who take the COVID test who test positive. The trend is fluctuating, but it's pretty close, tight fluctuation. And this is considered kind of a low, moderate rate of percent positivity. And we move to Charlottesville.  you can see that their situation is a little different. They have actually seen a pretty consistent increase in the number of cases per 100,000. And they've seen this for 19 days in a row. So that is definitely considered an increasing trend. You can see this most recent data was 32.1 per 100,000.  But their testing positivity rates actually are roughly the same as Albemarle County's with 6.4 considered moderate. And the trend has been fluctuating over the last month or so. And I guess that's it on those two measures that we've been following. Any questions on that?",
+    "speaker": "eileengomez",
+    "tags": [
+      "give_update",
+      "public_addressing",
+      "cite_external_source",
+      "logistics_info",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 2973.451,
+    "end": 2976.295,
+    "text": "Do the Charlottesville numbers include the UVA numbers?",
+    "speaker": "davidoberg",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 2976.747,
+    "end": 2978.269,
+    "text": " Yes, they did.",
+    "speaker": "eileengomez",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2983.137,
+    "end": 3006.231,
+    "text": "Has there been any additional guidance on what Dr. Acuff brought up last time about how the testing positivity rate might not be the best indicator or the amount of positive? Did I say it right the first time? How it might not be a good indicator given that they're suggesting that you only test people who have symptoms?",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "follow_up_request",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 3007.73,
+    "end": 3046.352,
+    "text": " Well, I think that locally they still think that's a good indicator because I think locally they are testing people who both have symptoms and who don't have symptoms. And they were very happy to report that it seems anecdotally anyway from the healthcare providers that the testing turnaround time has been what we want it to be. It's been 24 to 72 hours at most of the testing sites. So that's been good.  But I think that the percent positivity is still considered by the health authority something that you should monitor to monitor the trends. Thank you.",
+    "speaker": "eileengomez",
+    "tags": [
+      "give_update",
+      "clarify",
+      "reassure",
+      "opinion"
+    ]
+  },
+  {
+    "start": 3050.418,
+    "end": 3053.622,
+    "text": "Are there any other questions for Dr. McLaughlin or Mrs. Gomez?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3054.984,
+    "end": 3095.358,
+    "text": "I guess, Eileen, a question. The really high positivity rate in  In Charlottesville, you say that that includes both UVA's population as well as the community. Yes. I guess I'm concerned when I look at the dashboards, not our dashboard, but like the Thomas Jefferson Health District dashboard, then the university dashboard, they're not consolidated. I mean, and so you have to sort of do the math. Is that number you gave us, like the 32%  You've done the math, you've consolidated the. Well, it wasn't thirty two percent.",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "clarify"
+    ]
+  },
+  {
+    "start": 3095.378,
+    "end": 3097.541,
+    "text": "Right. It's thirty two cases per one hundred.",
+    "speaker": "davidoberg",
+    "tags": [
+      "clarify",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3097.861,
+    "end": 3102.207,
+    "text": "Right. Right. So that wasn't the testing positive. That was a number of cases for a hundred thousand.",
+    "speaker": "eileengomez",
+    "tags": [
+      "clarify",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3103.028,
+    "end": 3110.478,
+    "text": "But that is. Our dashboard looks at both T.J. district and the UVA numbers.",
+    "speaker": "kateacuff",
+    "tags": [
+      "clarify",
+      "give_update",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3110.918,
+    "end": 3119.85,
+    "text": "Yes, except for this particular Charlottesville, it's not the whole Thomas Jefferson Health District, it's just for people whose addresses in Charlottesville.",
+    "speaker": "eileengomez",
+    "tags": [
+      "clarify"
+    ]
+  },
+  {
+    "start": 3120.185,
+    "end": 3120.706,
+    "text": " OK.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 3122.248,
+    "end": 3144.837,
+    "text": "Including the UVA students whose addresses are in Charlottesville. I don't know if anybody had a chance to look at this, but Harrisonburg, on the other hand, their case burden is 118, and their percent positivity is 31%. So they are seeing a very high level of transmission, much higher than we are.",
+    "speaker": "eileengomez",
+    "tags": [
+      "give_update",
+      "express_concern",
+      "clarify"
+    ]
+  },
+  {
+    "start": 3146.039,
+    "end": 3167.961,
+    "text": "But, Jan, you started before UVA did. Right.  I mean, you just sent their kids home because of the positive rate. I can't imagine that the JMU students are more reckless or more likely to be infected any more than any other school. So don't we have to expect that UVA is going to have the same problem?",
+    "speaker": "davidoberg",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "disagreeing"
+    ]
+  },
+  {
+    "start": 3168.143,
+    "end": 3184.802,
+    "text": " Dave, I would disagree just because I've read, granted I'm not an expert on it, that JMU did not have very good policies. Like they didn't require any testing of students before they came back to campus, whereas UVA is. So I'm not saying I can't anticipate, but you can think that there might be a difference between Charlottesville and Harrisonburg.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "disagreeing",
+      "hedge",
+      "opinion",
+      "clarify"
+    ]
+  },
+  {
+    "start": 3185.305,
+    "end": 3198.117,
+    "text": " And Harrisonburg, I think they had a higher rate even before the students came back because a lot of their outbreaks were attributed to the poultry processing plants. So I think the community had a higher rate than we have here in our community.",
+    "speaker": "eileengomez",
+    "tags": [
+      "give_update",
+      "clarify",
+      "opinion"
+    ]
+  },
+  {
+    "start": 3199.358,
+    "end": 3217.317,
+    "text": "Ms. Gomez, am I wrong in remembering something? I heard that in addition to some UVA data going into the Charlottesville data bank, that some of that will come into ours as well.  Are we going to get some of them? Yes. Yes.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 3217.617,
+    "end": 3230.42,
+    "text": "Yes, that's true. It's where the addresses are. And so some of the UVA students do live in Albemarle County, and some live in the city of Charlottesville. I think more are in the city of Charlottesville than Albemarle County, I guess. I agree. Thank you.",
+    "speaker": "eileengomez",
+    "tags": [
+      "clarify",
+      "give_update",
+      "agreeing",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3234.007,
+    "end": 3246.157,
+    "text": "OK, are there any other questions for Dr. McLaughlin and Mrs. Gomez?  Okay, if not, thank you both for bringing the update and we'll be seeing you in two weeks.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "acknowledge",
+      "logistics_info",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3247.479,
+    "end": 3267.912,
+    "text": "I had a quick question, really minor, but perhaps you've already answered it, Pat. Are we getting any feedback from the schools that have been open? The private schools and our, like Louisa County, I've seen some things in the paper about how many positive cases they have. Are we starting to incorporate that into our dashboard?",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "request_action",
+      "cite_external_source",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3268.212,
+    "end": 3312.25,
+    "text": " We are, you know, we have a weekly meeting with Thomas Jefferson Health Department, and that includes both private schools and public schools who are there. And for the most part, Eileen, correct me if I'm if I'm wrong, but for the most part things things seem to be going pretty well.  Louisa County is one of the schools that they're using as a model. Louisa currently has about one third of their students who chose to stay home and stay virtual. And the other two thirds are split into an AB schedule. And the health department folks have been out there and seen their protocols and have really had some positive things to say about that. So we haven't heard any real negatives from any of the schools that have been open. Eileen, would you agree with that?  I would agree with that.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "reassure",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 3312.27,
+    "end": 3323.481,
+    "text": "We haven't heard of any outbreaks in the schools. I think one of those schools maybe saw a case or two, but beyond that, they really haven't seen an outbreak among students.",
+    "speaker": "eileengomez",
+    "tags": [
+      "give_update",
+      "hedge",
+      "reassure"
+    ]
+  },
+  {
+    "start": 3325.282,
+    "end": 3355.683,
+    "text": "One thing that we are working on, Ms. Colson and the board, is that one piece we're working on putting together for October is a survey of the school divisions in our region  and the opening plans that they had and the numbers of students coming in and other considerations so that we can just add that as another piece of information moving forward with a recommendation for the second nine weeks, just to understand the lay of the land.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "public_addressing",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 3355.743,
+    "end": 3357.745,
+    "text": "Thank you, Dr. Haas.",
+    "speaker": "acpshrdapl",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3359.468,
+    "end": 3359.808,
+    "text": "Thank you.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3361.37,
+    "end": 3372.51,
+    "text": "OK, thank you so very much.  We are now ready for our building services summer update. Mr. Joe Leterre. Mr. Leterre.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3375.776,
+    "end": 3445.504,
+    "text": "Hello. I'm Joe Leterre, director of building services for Albemarle County Schools. I'm here tonight to present to you the accomplishments of the building services team over the past few months.  Before I speak about specific events, I'd like to provide an overview of the Building Services Department. The department is responsible for maintaining the division's 26 schools and two service facilities. We support over 2.3 million square feet of building space and maintain over 631 acres.  The department has four divisions, that is maintenance, custodial, capital projects, and environmental management. The maintenance, or buildings and grounds division, employs 40 employees and has been extremely busy mowing grass, moving furniture, assisting contractors, performing carpentry, electrical, mechanical, and plumbing work orders.",
+    "speaker": "joeletteri",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3446.716,
+    "end": 3448.578,
+    "text": " Hey, Joe, who's the guy with the legs?",
+    "speaker": "davidoberg",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 3450.981,
+    "end": 3451.902,
+    "text": "I had to get that in.",
+    "speaker": "joeletteri",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3453.644,
+    "end": 3455.787,
+    "text": "My legs got sunburned that day.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "give_update",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 3456.648,
+    "end": 3887.372,
+    "text": "That was a great help. Next slide. OK. The custodial division employs 140 staff and is responsible for cleaning the schools. Over the summer months, they perform deep cleaning activities, which include floor refinishing,  and cleaning all spaces from top to bottom. The summer cleaning checklist is simply one tool the custodians use to ensure the buildings are ready once the students and teachers arrive. Again, all spaces are cleaned from top to bottom. The custodians do incredible work.  The Environmental Division has been very busy with the COVID pandemic response and preparation. They have created plans for physically distancing, procured and distributed COVID-19 supplies to all schools, and have installed COVID-19 related signage in all buildings. In addition to COVID-19 works,  The environmental group was successful in bidding and securing a contractor to make improvements to the Stony Point well system and work with the Urbana Solid Waste Authority to infill the basin near the transportation department. Before and after shots here.  Okay, now on to capital improvements. I want to begin by reminding you that the capital improvement maintenance program was not as robust this year budget cuts, about one third of the program had significant impacts on what we were able to accomplish.  Reductions to the maintenance program were a result of the concerns related to COVID-19. Some of the cuts included casework replacement, locker removal, window and door upgrades, restroom upgrades, painting and flooring improvements. However, despite the cuts, we were able to make significant repairs to our facilities this year.  At Albemarle High School, we were able to perform upgrades to the mechanical systems. We were able to replace two boilers, a chiller, the electrical switchgear, and two sewer pumps. All of these systems were 30 years old. The Vehicle Maintenance Facility had its HVAC system replaced. This system was also 30 years old, and the new system will improve efficiency and improve the air  At Henley Middle School, we installed a new emergency generator. The generator not only improved the backup power for life safety systems, but also allow the phones and various kitchen equipment to remain operable in the time of a power outage.  At Walton, we replaced the front office HVAC system with a high-efficiency VRF system, as well as replaced the chiller that serves the entire building. These changes will make the spaces more comfortable, more reliable, and more energy efficient. Jewett and Henley each received a new walk-in cooler and walk-in freezer to replace the aging obsolete equipment.  Brownsville received a new kitchen exhaust hood and dishwasher room upgrades. In addition to the new dishwasher, the dishroom received a large pass-through window from the cafeteria to allow a more efficient collection of trays. We were able to renovate the kitchen serving area at Jewett, which included serving line improvements and a new security gate.  The main objective here was to increase the efficiency of serving foods to the students. Walton, Woodbrook, and Albemarle High School received new roofs on a significant portion of each building. Over 124,000 square feet of roof was replaced, or approximately three acres.  We modernized classroom spaces at both Walton and Jewett middle schools. At Jewett, we upgraded the CTE space. And at Walton, we updated six classrooms, including soundproofing between classrooms and providing natural light by installing skylights. Renovations to Western Albemarle High School shop were also completed this summer.  Improvements included a new hot work area for forging and welding and renovations to the woodworking area that included a new dust collection system, new bay doors, new shop equipment, and electrical upgrades. A sixth classroom trailer was installed at Baker Butler, which included bathrooms, technology, security locks, and furniture.  Mountain View received new signage on the building, at the road, and within the building. The Scottsville addition and renovation project is progressing well. This summer, we completed renovations to 12 classrooms, four bathrooms, and provided new furniture.  The addition, which includes five classrooms and a gymnasium, is well underway. The rough site grading is complete, the building footers have been installed, and the structural steel is arriving next week. The Red Hill Classroom addition has started. This project includes a new 6,300 square foot gymnasium addition  as well as renovating the existing gym into classroom space. Before I conclude, I'd like to acknowledge and thank not only the building services staff, but also the staff from the Department of Facilities Development for their help in the execution of these capital projects. We have a great partnership with them.  And with that, I would just like to end with a big thank you for your support. And I'd be happy to answer any questions.",
+    "speaker": "joeletteri",
+    "tags": [
+      "give_update",
+      "acknowledge",
+      "follow_up_request",
+      "public_addressing",
+      "reassure"
+    ]
+  },
+  {
+    "start": 3891.476,
+    "end": 3899.583,
+    "text": "Thank you very much, Mr. Latire. Are there any questions from board members for Mr. Latire on building services?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "public_addressing",
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3900.745,
+    "end": 3903.948,
+    "text": "Joe, I just want to say that I really appreciate everything you've done.",
+    "speaker": "davidoberg",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3906.87,
+    "end": 3907.491,
+    "text": "Thank you, David.",
+    "speaker": "joeletteri",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3908.872,
+    "end": 3930.378,
+    "text": " Your whole team is terrific. And I really miss being in the schools this summer because one of the fun parts was to walk around and see all of the projects that your folks were working on. And so I look forward to getting back in there and seeing what the changes are. Thank you so much to you and your entire team.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "opinion",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3930.398,
+    "end": 3940.102,
+    "text": "Thank you.  Yeah, it really looks like you were very, very busy, you and the whole team this summer. So thanks so very, very much for everything that you do.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3941.243,
+    "end": 3943.365,
+    "text": "Very good. Except for the guy in that mower.",
+    "speaker": "davidoberg",
+    "tags": [
+      "acknowledge",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 3946.068,
+    "end": 3946.629,
+    "text": "That's true.",
+    "speaker": "grahampaige",
+    "tags": [
+      "agreeing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3948.21,
+    "end": 3951.794,
+    "text": "I did other things besides the mower, didn't I, Joe? You did, Matt.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3951.854,
+    "end": 3955.217,
+    "text": "Matt was with the custodial crew as well and did a fine job.",
+    "speaker": "joeletteri",
+    "tags": [
+      "give_update",
+      "opinion"
+    ]
+  },
+  {
+    "start": 3955.297,
+    "end": 3961.103,
+    "text": "He was taking the gum off the carpets, I'm sure. No, I was using a square cat to strip wax.",
+    "speaker": "kateacuff",
+    "tags": [
+      "clarify"
+    ]
+  },
+  {
+    "start": 3961.876,
+    "end": 3965.562,
+    "text": " I learned how to do that and learn how to use a grease gun.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "give_update"
+    ]
+  },
+  {
+    "start": 3966.383,
+    "end": 3968.987,
+    "text": "Wow. I have to admit, Matt put in a full day.",
+    "speaker": "joeletteri",
+    "tags": [
+      "acknowledge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 3970.049,
+    "end": 3987.295,
+    "text": "Joe, I do have one. Oh, are you gone? I do have one question. Yeah. Whether any of your staff have not wanted to be in the buildings when students are in and you've had to sort of reallocate them? Am I on?",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 3987.375,
+    "end": 3989.318,
+    "text": "I'm sorry, what was your question? I missed that.",
+    "speaker": "joeletteri",
+    "tags": [
+      "clarify",
+      "ask_question",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3990.192,
+    "end": 4001.284,
+    "text": " It was whether any of the building services staff have expressed a reluctance to be back in the buildings when with students and whether you've had to move them around a bit.",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "clarify"
+    ]
+  },
+  {
+    "start": 4003.266,
+    "end": 4031.04,
+    "text": "No, not really. I mean, we have a pretty strict protocol with our staff, and that is, you know, make sure they social distance, make sure they wear their face mask and wash their hands religiously. We preach that.  Not only do they have to anticipate that those around them have COVID, but that they may have COVID. So we've been, my staff has accepted it pretty well and we don't have any problems at this time or complaints.",
+    "speaker": "joeletteri",
+    "tags": [
+      "give_update",
+      "reassure",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 4032.562,
+    "end": 4032.922,
+    "text": "Thank you.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4035.045,
+    "end": 4047.216,
+    "text": "Okay, thank you very much, Mr. Letary.  There being no further questions, we'll move to a presentation of the new grading policy led by Jay Thomas. Mr. Thomas.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 4047.922,
+    "end": 4208.237,
+    "text": " Yeah, good. Good evening, everybody. My name is Jay Thomas. I'm the director of secondary education. I'll be presenting this evening with Jen Sublette, who's our director of professional learning and Natalie Farrell, the lead coach for mathematics, lead coaching and overseas mathematics. They've been a part of this since the beginning. Our other committee members include Katrina Sims, Megan Maynard, Jamie Gellner, and Leilani Keys.  Student feedback is a large component of learning, and as part of our continued high school redesign, Albemarle County Public Schools has been looking at key structures that support student learning as a continuous process for student achievement. We are presenting tonight a key component of student feedback, grading.  To date, we have not had a grading policy, but rather a group of key procedures and structures across our secondary schools. These structures were held together by school building administrators and individual professional learning communities.  In an effort to support teachers with their grading practices, we have determined that an underlying foundational document is both important and necessary. So tonight we will review essential elements of the new proposed policy that you have, provide context and background that informed policy creation, outline next steps for policy implementation, and answer any questions that you may have.  The policy goal is to implement grading practices to support our mission and vision as a school system, as you can see below. And with the anti-racism statement where it fits in is us trying to end the predictive value of grades, the grades play in race and ensure each individual student and staff success in implementing the new policy.  This quote from Feldman, I think really sums up some of the stuff that we're working on. It says, no classroom can truly be equitable until we address this inequitable foundation in our schools, which is grading. So we've developed three pillars that you'll see in the policy that we're proposing. That it's supportive of student learning, that it's accurate, and that it's consistent.  As you read through the grading policy, one of the excerpts that we wanted to share that really jumps out is that grades or grading are the representation of student achievement, either a letter or number score, and should accurately represent a student's mastery of core standards. The purpose of a grade is to communicate student achievements at a point in time. Grades will be accurate, supportive of student learning, and consistent.",
+    "speaker": "jaythomas",
+    "tags": [
+      "public_addressing",
+      "give_update",
+      "policy_proposal",
+      "cite_external_source"
+    ]
+  },
+  {
+    "start": 4209.432,
+    "end": 4301.321,
+    "text": " So now I'd like to turn it over to Jen Sublett to talk to us about how we got to this point. Thank you very much, Jay. Jen Sublett, Director of Professional Learning. And we wanted to give a little context for the work that we've done before developing this policy to really highlight some of the ways in which we've worked with teachers and created shared buy-in for the work that we're doing now. In 2018, we gave a survey to all of our secondary classroom teachers. And we really pushed to make sure that that survey actually was completed by every single one of them.  We brought the teachers together then, middle school teachers and high school teachers, to do a protocol of reflection through the feedback that we got. What we found was that there was a lot of variance in classroom policies and practices across our schools. And as we looked at those survey results, we also realized that teachers wanted to have a really clear sense of our philosophical why behind our grading practices, and then guidelines about what grading practices would be best for communicating achievement to our students and to our families.  This gave us the foundation to launch a professional development cohort program that began in summer of 2019. And we've sustained that professional plan through the year, including the summer in 2020. We've created cohorts of teachers from all of our secondary schools who've come together with nationally recognized experts to look at not only our current practices and to push back against them, but also to look at other models and practices that might better align with our mission and vision.  To date, we have had 215 teachers join this cohort, and they represent faculty members of all of our secondary schools.",
+    "speaker": "jennifersuble",
+    "tags": [
+      "give_update",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4306.548,
+    "end": 4647.409,
+    "text": "Hi, everyone. I'm Natalie Farrell, one of the lead coaches, and I also am the content lead for mathematics. So as Jen said, beginning in 2018 with the survey to teachers, we designed our goals around the teacher feedback.  What we heard from teachers is that they were seeking consistency and clarity from the division about how our grades should be managed and also what our grades should mean. So we started a plan, basically, to mitigate some of the variance we were seeing from class to class and from course to course and from school to school.  based on research and best practice. We missed a slide, Jay. Yep. Okay. So this is how we want to show that our policy supports the current school board priorities and also give you some examples of how that could manifest. So creating a culture of high expectations for all  means that we would really like to focus on learning over compliant behaviors. How do we get kids to do the real work that shows us that they're learning what we've intended to teach? That also means not letting kids opt out of the work. How do we maintain the high expectations, support all students to meeting the goal, and also get the work? We don't want any kids to opt out of the work and just take a zero.  Identifying and removing practices that perpetuate the achievement gap. Jay talked about that earlier, but that's also about us separating academic achievement and work habits. Work habits tend to add to grade fog, meaning when we include things like participation and attendance in a grade, we're not reporting out the best indicator of student achievement.  maximize opportunities for students at all levels to identify and develop personal interests. This is about students knowing and understanding what their grade represents and what they need to do to get better. And that's really about the feedback that teachers are giving to our students. Okay. Jay has a clicky finger. One back, Jay.  Thanks, okay. Sorry, that's not it. Okay, so there it is. Okay, so layering all of that learning in the spring, we started to develop our policy with the whole team. So what we wanted to do is maintain those core beliefs  of our division and our division philosophy, which are really outlined in those three big pillars, supportive of student learning, consistency and accuracy, to start to design this policy. So we started to, by reviewing policies from other divisions all around Virginia, but also nationwide, we worked with EAB to compile some research  around grading practices. We also put this policy in front of Ken O'Connor and Rick Warmly. They are well-known grading experts and consultants. So we wanted to make sure what we were writing was aligned with the best things we know about grading. And then we also hosted some community forums with parents and Ken O'Connor to answer some questions about what grades do for our kids.  And we put the policy in front of all the cohort teachers, all the administrators across the division, and also the central office staff to get feedback, which has actually led us to this point. So what we would like to do is continue pushing forward with learning and growing and building up the appropriate systems and structures that would support  putting this policy into practice. We're working really hard with our school-based administrators right now, ensuring that they have everything that they need to support not only virtual learning, but all learning moving forward with the right and best practices for students that support teaching and learning when it comes to grades. We're working on launching a micro-credential course that would onboard  more teachers to learning about grading practices this fall. And also, really, the big work would be outlining the regulations that align to the policy, meaning bringing teachers and students in and really talking through how this policy looks in practice and how it will align and support and be  most productive for teachers and students and also, you know, are the technology, the grade books that we currently use.",
+    "speaker": "nataliefarrell",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "cite_external_source",
+      "reassure"
+    ]
+  },
+  {
+    "start": 4654.814,
+    "end": 4709.61,
+    "text": " So we just wanted to end with one more quote before we ask some questions or had you asked some questions. Again, another Feldman quote making our grading practices more accurate and fair is the most important kind of equity work confronting a deeply ingrained part of our education system in reforming it to transform the entire organization.  If we have courage, commitment, and love for our students, we can change the very DNA of our schools. Instead of perpetuating desperate outcomes, our schools can be designed to support success for every student.  Another opportunity we had is we were bringing in the international experts on grading, a few of them, Ken O'Connor, Rick Wormley. We had a chance to put this proposed policy in front of them to review and give us some feedback before we even brought it to you. So we do thank them for that as well. So with that, we'll pause and see if you have any questions.",
+    "speaker": "jaythomas",
+    "tags": [
+      "cite_external_source",
+      "give_update",
+      "acknowledge",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 4714.383,
+    "end": 4729.142,
+    "text": " Thank you very much, Jay and team. School board members, do we have any questions in regards to our new grading policy update?",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 4729.162,
+    "end": 4756.968,
+    "text": "I guess I'm wondering whether a perverse benefit of virtual teaching is that some of the fogs of teaching like  behavior in the classroom or attendance, since we now are saying you don't have to attend, synchronous, those things that have often filtered into the grading may be easier to identify. I don't know.",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "opinion",
+      "hedge"
+    ]
+  },
+  {
+    "start": 4758.089,
+    "end": 4779.981,
+    "text": "That's absolutely right. It's actually allowed our teachers more flexibility and lots of really nice conversations across the division  being virtual has actually brought us a little bit closer together because we can get on Zoom and we don't have to get people from Western and Monticello and Albemarle to one place. So we've had some really productive conversations around just that thing.",
+    "speaker": "nataliefarrell",
+    "tags": [
+      "agreeing",
+      "give_update",
+      "reassure"
+    ]
+  },
+  {
+    "start": 4785.269,
+    "end": 4837.547,
+    "text": "I was just going to say, I'm incredibly appreciative of this work. If I recall correctly, I think it was Matt when he first joined was something that he wanted  tackle, and not that it means anything because it's anecdotal, but I'll just say in my own schooling career, I remember my childhood was fairly chaotic. My mom had a lot of kids, my parents didn't have a lot of money, and I remember the one class I failed in high school was one that the grading was all about whether you could construct this notebook and keep it with you the whole period and have it every day with all your papers in the right order. That's what the grade was based on, and I couldn't.  I mean, it's a very real thing that affects a lot of students when your grades are not based on your content knowledge necessarily, but like the preparation or what you can bring in. So I'm very appreciative of the work. I'm excited to see us at this level of consistency across our grades. Greetings.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "express_concern",
+      "opinion"
+    ]
+  },
+  {
+    "start": 4838.949,
+    "end": 4840.05,
+    "text": "Thank you.",
+    "speaker": "jaythomas",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4840.07,
+    "end": 4840.21,
+    "text": "Yes.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 4840.731,
+    "end": 4841.472,
+    "text": "Great, great work.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4841.975,
+    "end": 4922.134,
+    "text": " So just one request I have, Jay, is first of all, you did an outstanding job. I love the way this is top down and bottom up. That's a big deal. But what I would ask is if, Jay, would you go back and dig up the survey results from this? We did the survey, I think. It's been a couple of years ago now, hasn't it?  2018 yeah yeah so for for some of the board members that were newer to the board they might appreciate uh seeing the results in the survey because it like you were mentioning earlier how uh how inconsistent the grading was across schools and classrooms within schools on some pretty key areas um and then we did have teachers say wow i mean we really want to be more consistent with each other and i think that was the launching pad for us to begin to  to work on this. So I'm also excited about the micro-credential for grading. It is a critical practice for teachers. It's also the area of the greatest malpractice that we have in education. And none of our other reforms will move forward and have the impact they can have unless we become more accurate with assessing and reporting student performance. So I appreciate it, but if you could do that, I think that would be well-received by the board.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "request_action",
+      "follow_up_request",
+      "reassure",
+      "opinion",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 4922.941,
+    "end": 4925.043,
+    "text": " Absolutely. We'll get it. Thank you.",
+    "speaker": "jaythomas",
+    "tags": [
+      "acknowledge",
+      "agreeing",
+      "reassure"
+    ]
+  },
+  {
+    "start": 4926.064,
+    "end": 4936.674,
+    "text": "Just one more thing. I'm not familiar with all the experts cited in this. So if you could just forward this slide set with the links, that would be great.",
+    "speaker": "kateacuff",
+    "tags": [
+      "request_action",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 4940.338,
+    "end": 4996.092,
+    "text": "OK. All right. You can see our school board members at the bottom of this slide. Since this is an action item, the steps that probably we could  or should take in order to move this forward. So I don't think we had a whole lot of proposed changes with the policy. So is it by consensus, could we have this on the consent agenda for our next meeting for approval of the policy? Any objections to having it on consent next meeting? It's fine with me.  Is there any? Good. OK. So there's no oppositions to having it on consent agenda next time, right?",
+    "speaker": "grahampaige",
+    "tags": [
+      "policy_proposal",
+      "procedural_move",
+      "request_action",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 4996.112,
+    "end": 4996.393,
+    "text": "Correct.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 4997.254,
+    "end": 5002.641,
+    "text": "OK. Thank you. All right, so thank you so very much, J and T. Absolutely. For your great work on this.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5003.142,
+    "end": 5010.913,
+    "text": "Absolutely. Thank you. We'll make sure that gets on. Thank you. OK. All right, we are now scheduled for a 10-minute break.",
+    "speaker": "jaythomas",
+    "tags": [
+      "acknowledge",
+      "reassure",
+      "logistics_info",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5012.142,
+    "end": 5023.358,
+    "text": " I have on my computer the time, 7.53. So we'll reconvene at 8.03 PM Eastern Daylight Time. See you in 10 minutes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "logistics_info",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 5037.677,
+    "end": 5041.002,
+    "text": "Hey, Graham, I don't think you're muted, just in case.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5041.572,
+    "end": 5595.222,
+    "text": " All right. Thanks. Thanks, Katrina.  Okay, it is now 8.03pm and we are ready to move into our next agenda item. Our hiring update, Mrs. Lorna Jerome.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 5600.769,
+    "end": 5739.525,
+    "text": "Good evening. Lorna Jerome, Director of Human Resources.  Thank you for this opportunity this evening to share information today regarding the hiring of our licensed employees, our teachers and administrators. As you listen to this information, you will notice that we have hired a significantly lower number of teachers than our recent trends have shown. We are very cognizant of the impact that COVID-19 has had on the number of vacant positions we have. With a decrease in budget and staffing allocation, coupled with a decrease in student enrollment, all due to the pandemic, we did less hiring.  What hasn't changed is our unwavering focus on hiring the best teachers and administrators for our students, with a significant focus on the hiring of minority educators. Our goal continues to be to have our teacher demographic match our student demographic. As we know, we have a ways to go to align the student and teacher demographics.  In his 100-day report, Dr. Haas shared that if we were to hire 25 minority teachers each year over the course of 8 to 10 years, we would meet that goal. We've used that number of 25 as our target. You will see that we've fallen short of that this year, but we continue to take deliberate action to keep our focus on this incredibly important need.  The hiring numbers that you see tonight only tell part of the recruitment and hiring story. They don't include the number of teachers that have exited our division due to retirement or resignation. Nor do they include the makeup of each applicant pool or schools ability to hire for those candidates that were made offers and chose a different path.  We are working to develop a dashboard that will have some of this information more readily available in real time. Additionally, as in the past, we will share our annual report in December, which provides comprehensive data on all of our employees, including resignations and retirees, broken down by gender and race. Tonight, you'll be hearing where we are to date with our hiring. We'll talk about some strategic hiring practices,  our current state and trends and provide a new teacher focus. With that, I'd like to turn it over to Mr. John McQuilkin to provide the board with some of the strategic hiring trends.",
+    "speaker": "hrlornager",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "prioritization",
+      "acknowledge",
+      "reassure"
+    ]
+  },
+  {
+    "start": 5740.349,
+    "end": 6138.711,
+    "text": " Good evening. I'm john McCroken and I'm the recruitment and diversity coordinator here on human resources. Each year we review and refine our recruiting and hiring practices as we work toward the goal of increasing the diversity of our teaching staff. To that end, this year we piloted several new strategies while continuing to build on the success of existing programs.  I'll begin with a few new things we did behind the scenes on the administrative side. One of these was the introduction of the Educator Professional Inventory, or EPI, candidate assessment tool. The EPI is a research-based instrument developed by experts at Harvard University and the University of Chicago, which allows principals to quickly identify candidates most likely to provide the highest student gains over the course of a school year, much like our screening interview process did in previous years.  One of the advantages the EPI offers over the traditional screening interview is that because it is a blind, skill-based assessment, it helps to reduce bias in the hiring process by allowing principals to focus on proven predictors of teacher success rather than subjective measures.  It also provides principals with a personalized professional development pathway for their new teacher hires based on their identified strengths and opportunities for growth. It's important to note that research has shown that the EPI assessment does not discriminate against protected classes, though novice teachers across the board do tend to slow slightly lower than experienced teachers. Of course, all of our administrators were trained on how to interpret EPI scores. Dr. Kaiser will provide some additional information about the EPI tool later in our presentation.  To further address the issue of bias, we developed new training for our administrators on mitigating the impact of bias during the interview process. This training focused on increased awareness of the different types of bias that can affect decision making and using best practices for interviewing.  Switching to some of the active recruiting strategies we use this year, knowing that there is a great deal of competition for qualified minority teachers, we continue to make a purposeful effort to build relationships with prospective teachers of color early in the hiring season. Through outreach via phone and email, frequent follow-up conversations, and early interviews, we were able to offer four early contracts to minority candidates in February and multiple additional offers throughout the spring and summer as a result of these focused efforts.  Just one quick example of how this work can pay off. Excuse me. I reached out to a prospective teacher of color in early December. It was still very early in the hiring process. And I just wanted to get a sense of her interest for the coming school year. She shared that she was moving to Charlottesville in January and was looking for part-time work for the rest of the school year. From our conversations, I knew she had a background in AVID. So I connected her with one of our middle school principals who was looking for a teaching assistant for the rest of the year.  She interviewed, was hired pretty much right on the spot, and wound up being one of our very first hires this year for a teaching position. This is just one example of how this kind of one-on-one outreach can be successful, and there were others this year. This work takes time. It's one candidate at a time, but it can definitely have an impact.  We also continue to build and strengthen relationships with HBC use, we tended to HBC you career development fair and Baltimore, the American Association for employment and education conference in Norfolk, where we met with staff from Norfolk State, and the teachers of color conference at BC you enrichment.  We also contacted the School of Education Career Advisors at HBCUs all along the East Coast in January to let them know that we had begun active hiring for the 2021 school year, and we invited them to send students to our job fair, which I'll talk more about shortly. And we were scheduled to attend three HBCU education job fairs this spring, along with several others. Unfortunately, they were all canceled due to COVID, but we will continue to build on the connections we've made and work to expand them further this year.  This year, we also continued our longstanding partnership with the African American Teaching Fellows Program and are pleased to say that we hired both of this year's AATF fellows. We're really excited and proud that they're starting their careers here in Almar County Public Schools. And Dr. Kaiser will be sharing a little more about them with you in just a few minutes.  Some of the new initiatives started this year include the Albemarle Fellows Program, which was a partnership with the UVA's Curry School of Education to offer students completing their education degree a year-long opportunity to work as a teaching assistant while completing their student teaching requirement. This not only provided the student teacher with a comprehensive year-long internship, as opposed to the typical nine-week student teacher experience, but also allowed them to earn a salary during the year to help pay for their education expenses.  One of our most promising early contract hires this year was an Albemarle fellow.  In February, we held the job fair at KTEC with more than 80 job seekers in attendance. We can't say for sure that this is the first job fair that we've ever hosted, but it's definitely the first in many years. We talked to new candidates. Many of the candidates that we'd been talking to in prior months came by as well, so it was a great way to continue to build those relationships. We had administrators on site conducting screening interviews, and a number of the candidates we talked to there were eventually hired over the course of the spring and summer. Staff from transportation department and the extended day program were also in attendance.  Also this year we collaborated with our school principals and assistant principals to completely redesign the teacher job description to bring it more in line with the school division's vision, mission, and values, and to emphasize our commitment to culturally responsive teaching. This is significant because this new language appears on every teacher job vacancy that we post online.  Something that we're excited about is that we began filming a new recruitment video partnering with the Office of Strategic Communication that highlights the innovative things we do in Elmhurst County Schools to maximize opportunities for all students and to give prospective applicants an idea of what it's like to be a teacher here in the county. Filming was unfortunately interrupted when schools were closed this spring, but we're working on a shorter version of the video that we can use in the meantime to broaden our outreach. And we'll certainly share that with you once it's completed.  And finally, this year, a team of HR staff, together with members of the Office of Community Engagement, began an intensive project to conduct an internal equity audit. To date, this work has centered on self-examination and exploration of our own cultural lenses, an assessment of our organizational culture, and identifying and planning for next steps, all with a focus on ensuring that our organizational culture, policies, and practices are aligned with the values of diversity, inclusion, and racial equity.  We look forward to continuing this important work and providing the board with additional updates in the future. And with that, I will turn it over to Dr. Daphne Kaiser.",
+    "speaker": "johnmcquilki",
+    "tags": [
+      "give_update",
+      "defer_to_expert",
+      "cite_external_source",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 6151.264,
+    "end": 6157.03,
+    "text": "Good evening, Chairman Page and board members. Daphne Kaiser, Director of Educator Quality.",
+    "speaker": "acpshrdapl",
+    "tags": [
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6158.123,
+    "end": 6175.795,
+    "text": " I would like to bring your attention to the next slide of the new teacher hires reflecting the total number of teachers hired to date for the 2020-2021 academic year, as well as the specific breakdown of the minority category.",
+    "speaker": "acpshrdapl",
+    "tags": [
+      "public_addressing",
+      "give_update",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 6176.618,
+    "end": 6732.214,
+    "text": " The total number of educators hired is 124, which is about 60 fewer teachers than the previous two years. Taking into consideration that we have hired fewer teachers this year, most of the categories are consistent with numbers from the previous two years. We continue to have a highly educated cadre of instructional staff members, with most having a master's degree.  This year, we hired 89 teachers with master's degrees, or 72% of the total number of teachers hired. Prospective candidates that we talk with during job fairs, recruiting events, and daily interactions continue to state that they are attracted to ACPS because of the emphasis placed on innovation, project passion-based learning, cutting-edge technology, equity initiatives,  and diverse programming to support the whole child. Candidates continuously seek out opportunities with ACPS, whether starting out as clinical interns, practicum students, or student teachers, or even possibly stepping into a teaching assistant position to gain valuable experience in pursuit of becoming a teacher.  Candidates are enthusiastic, engaged, and highly motivated about their prospects of joining the ACPS team. Our work and emphasis regarding new hires has been to increase the numbers of minority educators across all levels. This year, we hired a total of 20 minority teachers, or 16% of the total number of teachers hired.  Looking more closely at the minority breakdown, we have the greatest number of hires for the Black or African American and Hispanic or Latino categories, followed by Asian and two or more races. At the beginning of last school year, the HR team met with the administration of each school to discuss their student-teacher demographics, as well as their specific goals around minority hiring. We had great conversations with administrators.  where all emphasize the importance of having diverse, quality instructors in the classroom, which is key to increasing student achievement and impacting the overall dynamics in the school. They also express that having students exposed to more diverse teachers in our classrooms positively impacts all students.  Although hiring was not as robust as the previous two years, several schools did have an opportunity to increase the diversity of their teaching staff. Early spring of this year, we offered four early contracts, one of which declined the offer to stay close to home due to COVID-19. Prior to the pandemic, we were on track with minority hires, and by April, we had already hired five minority teachers.  The next slide shows the hiring trends and focus areas. Although the minority category at 16% is down slightly from last year's 17%, it seems to be moving consistent. The first year teachers increased slightly to 32% and the total number of applicants increased to 1,074 in comparison to previous years.  The overall candidate pool was 11% minority and our new hires were 16% minority, which resulted in drilling down farther in this year's candidate pool. We believe this is attributed to administrators emphasis on increasing diversity within the teaching ranks to better align with student demographics.  In addition, the HR team piloted a research-based assessment tool, EPI, or Educator's Professional Inventory. This assessment tool measures strengths in key areas such as teaching skills, cognitive ability, attitudinal factors, and overall qualifications, proven to most accurately predict teacher effectiveness. The tool has allowed the Human Resources Office to target high-performing teachers  to recruit, establish relationships and connections with prospective candidates, as well as provide an early opportunity to pull groups of potential candidates together for principal initial screenings. The tool is only one component of a candidate's application. However, the EPI score has provided administrators additional information to utilize in their total assessment of a candidate.  We value the importance of having high-quality, diverse educators in the classroom, and we will continue working to address our current demographic data, implementing various strategies to increase minority percentages to better align with student demographics. We continuously focus our energies on increasing the numbers of applicants in job pools. Early childhood special education, special education, dual language,  part-time, and late vacancy positions. Specifically, working to recruit and secure quality candidates for hard-to-staff areas, such as early childhood special education, science, special education, and dual language. Lastly, continuing efforts to cast a wider net around minority recruitment, hiring, and retention.  The next slide provides information regarding administrator promotions and transfer moves of current Albemarle County staff members. This year, we had seven promotions and five transfers. Similar to the reduction in the number of new teacher hires, we had fewer administrator vacancies. So there were fewer opportunities for transfers and promotions. All of the positions we hired for  considered both internal and external candidates. Our internal candidates continue to perform at much higher levels in comparison with similar candidates from other divisions. The investment in mentoring, professional development, and overall training by the division has provided employees opportunities to professionally learn, grow, and explore their own interests and passions.  resulting in their successful pursuit of career advancement. The information presented this evening is preliminary, and we plan to bring back to the board next month our annual plan with the final data for this hiring season. The last slide highlights two new energetic instructors who have joined the ACPS family.  I had the opportunity and pleasure last year to sit and talk with two African-American teaching fellows, Kendi O'Reilly and Markel Woodson, during the beginning of the year breakfast for the AATF program. Both were extremely excited about the upcoming year as a fellow, experiencing student teaching and pursuing a job opportunity for the upcoming school year.  Kendia completed her student teaching at CAEL. She's a UVA graduate, and she did a wonderful job in kindergarten. She even served as a kindergarten teaching assistant as part of the Albemarle Fellows Program. Several principals were in hot pursuit of her. She had several offers, and I remember having a conversation with her discussing FIT, exploring school culture, and administrative support.  She thought deeply about the opportunities and decided to join the team at Baker Butler Elementary. What is most interesting about Marquel, both John and I advocated hard for Marquel to complete his student teaching in the county. He grew up in Fulvanna and has ties there, which is understandable why he would want to student teach there. We even talked to his Longwood professor,  during a diversity conference at VCU early spring, where Markell was already establishing connections and relationships in the county. He served as an academic coach, bus driver, and substitute teacher. He shared with me that he really, really wanted to be a part of the ACPS family.  We are very fortunate to have both Kendia and Markel as part of our team. I spoke with them after the first day of school and they both stated that they had a great day and they look forward to all the wonderful experiences throughout the year. We have captured quotes from them that are listed on the slide regarding their first day of school.",
+    "speaker": "acpshrdapl",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "prioritization",
+      "reassure"
+    ]
+  },
+  {
+    "start": 6733.257,
+    "end": 6744.453,
+    "text": " two examples of exceptional students that we have hired through partnerships with the African-American Teaching Fellows and the UVA Curry School of Education through the Albemarle Fellows Program.",
+    "speaker": "acpshrdapl",
+    "tags": [
+      "give_update"
+    ]
+  },
+  {
+    "start": 6745.615,
+    "end": 6754.668,
+    "text": "At this time, I will turn it over to Ms. Lorna Jerome to discuss the upcoming annual report in human resources office focus areas.",
+    "speaker": "acpshrdapl",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6756.391,
+    "end": 6803.456,
+    "text": "Thank you, Dr. Kaiser. Again, I hope that you have found this snapshot of our hiring to date helpful.  As we mentioned, we do come back in several months with a comprehensive annual report. I think it would be helpful for us if there's additional information that we haven't provided you in the past that you let us know. We do intend to do a deeper dive this year into the data through a racial and gender lens. So we know that we will be providing that. And we also share information on  not only teachers and administrators, but all of our classified employees as well. At this time, I would open it up and see if you all have any questions about the information we've provided this evening.",
+    "speaker": "hrlornager",
+    "tags": [
+      "give_update",
+      "request_action",
+      "reassure",
+      "public_addressing",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 6809.342,
+    "end": 6810.783,
+    "text": "Are there questions from the board?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 6814.226,
+    "end": 6830.406,
+    "text": "I have one for when we have the more comprehensive picture in a couple months.  I'm also very interested in the retention rates. And again, through the racial lens and anti-racist lens, how are we retaining our teachers of color?",
+    "speaker": "judyle",
+    "tags": [
+      "follow_up_request",
+      "ask_question",
+      "request_action",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 6832.71,
+    "end": 6841.043,
+    "text": "We will certainly be happy to provide that. We also share exit information, which includes reasons employees leave us.",
+    "speaker": "hrlornager",
+    "tags": [
+      "give_update",
+      "reassure",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 6843.787,
+    "end": 6878.079,
+    "text": "Great. Thank you.  I have a specific question. If you go back to the slide that has the number of minority teachers that was hired, that slide, does the two or more races count? Are those double counted? Because I don't think the percentages are right there. That's like 20 over 104 white teachers, which would be, I would think, closer to 80%. So I'm assuming the two or more races, that three is also checking boxes in Black or African-American.  are Hispanic or whatever they're mixed with. You see what I'm saying?",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "express_concern",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 6878.099,
+    "end": 6894.82,
+    "text": "John, I think I'll let you answer this one, but I think we only count them one time because we don't know what the other races are that they identify with because we just go with what they report. So we'll double check our numbers, though. Yeah, it is a distinct category.",
+    "speaker": "clarekeiser",
+    "tags": [
+      "defer_to_expert",
+      "clarify",
+      "give_update",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6894.84,
+    "end": 6896.201,
+    "text": "It's not a combination.",
+    "speaker": "johnmcquilki",
+    "tags": [
+      "clarify",
+      "disagreeing"
+    ]
+  },
+  {
+    "start": 6897.103,
+    "end": 6911.807,
+    "text": "It's a minor thing. I mean, it's been a while since I've been in math class, but 20 over  104 is not 16%, I don't think.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "express_concern",
+      "hedge",
+      "clarify"
+    ]
+  },
+  {
+    "start": 6911.927,
+    "end": 6914.87,
+    "text": "It's over 124. That was the total.",
+    "speaker": "johnmcquilki",
+    "tags": [
+      "give_update",
+      "clarify"
+    ]
+  },
+  {
+    "start": 6915.29,
+    "end": 7029.53,
+    "text": "Thank you. No, no, but I'm trying to compare. Anyway, I will look at it. But I was, yes, I will look at it. I'm not going to speak more because I don't want to dig myself into a hole. Katrina, explain math again.  I was doing it as a ratio of not in the percentage of total. But I get now that that percent over there is, I'm going to have to think about this. Let me talk about my bigger point, which is that I can appreciate that this is a difficult area to make progress in. I was reading articles about how divisions across Virginia are struggling to improve their diversity hires. But I think I'd be remiss if I didn't state that, I mean, this is progress that is  so slow as to be problematic for me. And three years, we have increased our minority hires despite concentrated effort by 1%, which with these numbers, that's why I was trying to figure out just to make sure. I mean, that's like an additional teacher or two. So I guess I want to say that and so to think  how to be constructive about that. What I would like to see when we come back with a more comprehensive plan is what new strategies we are going to be undertaking, because the strategies we have right now, I would say, are not adequate. I don't know where we're getting these strategies from. I don't know if we're using a research site to come up with things. I'm not saying I have the answers. I know that some places, I mean,  I'm just throwing things out here. And I know you guys are thinking about this stuff. But like, are we offering bonuses for teacher referrals. I've heard that's you know that's those are the kind of things. And I guess I just want a presentation that is, um,  It's interesting, the compensation piece is a huge part of our ability to hire.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "express_concern",
+      "follow_up_request",
+      "request_action",
+      "ask_question",
+      "clarify",
+      "opinion",
+      "acknowledge",
+      "hedge",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 7030.131,
+    "end": 7100.781,
+    "text": "One of the things that we had done this year, you may remember, as part of the budget initiative, we were looking at a kind of an early signing bonus for new teachers. It was a way for us to recruit minority teachers to the area. That was something that came specifically from conversations that we had  with the folks from Norfolk State and Virginia State, I think it was, about some of the barriers that it is for their students to come with us. Salaries, of course, is another one. I know that all of our hands are kind of tied this year with that, but those actually play a piece of this as well. But to your point, Ms. Colson, one of the things that we actually have recently been talking about is, you know, trying to find places where they've kind of figured this out and really get with them and see what is it  that we're using research-based strategies and then some creative strategies as well. But we definitely want to make sure that we are focused on, if somebody has figured this out and is doing better, we would love to partner with them and learn from them. And I agree with you, the movement is painfully slow and definitely not what we, we're not going to get to our goal if we keep going at this rate.",
+    "speaker": "clarekeiser",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "express_concern",
+      "agreeing",
+      "hedge"
+    ]
+  },
+  {
+    "start": 7101.638,
+    "end": 7128.537,
+    "text": " And I guess one thing that's when I when I was reading articles around it. And like I said, I'm not an expert, but one of the biggest barriers that schools seem to be facing at least Virginia specific what were rural districts where they don't have Comparable pay, but I feel like we've set our target to be, I think, in the top quartile. So I guess I'm just  But it sounds like we know that. So I guess what are we going to do differently is my next question. And I think Ms.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "express_concern",
+      "hedge",
+      "clarify"
+    ]
+  },
+  {
+    "start": 7128.577,
+    "end": 7340.558,
+    "text": "Colson, your comment about competitive pay is just right on the money. You'll remember that when we had conversations last year about trying to get to a 4% pay raise for teachers, that was part of our strategy because, you know, I've kind of changed my mantra here.  over the past couple of years from saying that we have a competitive market to we just have a competitor. And our competitor is Charlottesville. And they pay teachers a higher pay rate to start and the pay stays higher all the way through. And so if I'm a minority applicant or any other applicant for that matter, and I'm looking to get a good start in life, and I don't need to change very much as far as the location that I'm heading toward, I'm going to go to the district sitting right next to Albemarle.  if I can to start out at a higher pay rate. So that was one of my biggest disappointments among dozens in our budget process last year was we didn't get, I felt like knowing where the city was going last year with their pay raise, that if we were gonna hit 4%, we would have finally flattened out with them at the start and at least be able to attract more teachers, particularly more minority teachers into our applicant pool.  One of the things I appreciate about this year's hiring was even though the pool shrank for minority teachers, the hiring of minority teachers went deeper into the pool. The minority applicants made up 11% of the pool. They made up 16% of the hires. So they dug deeper into there. And what that tells me  is that the principals of the schools are beginning to realize, and many of them are beginning to realize because they've experienced at least the beginning of or the full micro-credentialing process and or the certification process around culturally responsive teaching to understand how impactful it is for students to see themselves in their educators. And they're hungry to hire minority applicants and  applicants with more diverse experiences. You use the word rural. I often use the word rural to describe Albemarle as a rural school system that is trying to be more metropolitan and move in the right direction. But there are still some rural vestiges that we're continuing to fight against, which include hiring people I know, hiring people whose people I know. And we are making headway with those things.  But really, I want to put that compensation piece that you mentioned right back out in the forefront again, because we had a couple of dollar sign strategies that I thought were going to help us get ahead a little bit. Because we do need to make more than these just holding serve or incremental changes if we're going to have an impact, especially as minority teachers come and go. Even AATF candidates are not required or aren't  expected through their MOU with AATF to stay beyond a certain tenure depending on the amount of financial assistance they receive from AATF. So we have much more work to do. I'm so proud of the work that's going on, especially when I hear about these intense individual efforts. We just got to get a bigger pool. We have got to get a bigger pool.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "opinion",
+      "policy_proposal",
+      "express_concern",
+      "acknowledge",
+      "give_update",
+      "prioritization",
+      "reassure"
+    ]
+  },
+  {
+    "start": 7343.609,
+    "end": 7388.23,
+    "text": " I have a question, I think, for Mr. McQuilkin. I think you were talking about the HBCUs in our pool. And I think there are 107 of them across the country. And I just wanted to know how big is our net getting in terms of trying to recruit from the HBCUs? Are we just focused on the  You know, Washington, Maryland, Virginia, North Carolina, and I'm missing one in there, probably West Virginia or Kentucky. But how big a net are we throwing out there?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "request_action"
+    ]
+  },
+  {
+    "start": 7389.07,
+    "end": 7415.5,
+    "text": " We had been kind of focusing more on that middle Atlantic region that you described in years past. This year, we expanded it basically to the entire East Coast from Maine to Florida. And I think we probably maybe went as far West as Tennessee this year in terms of outreach, but that's something that we can certainly broaden.",
+    "speaker": "johnmcquilki",
+    "tags": [
+      "give_update",
+      "clarify",
+      "logistics_info",
+      "reassure"
+    ]
+  },
+  {
+    "start": 7416.526,
+    "end": 7429.582,
+    "text": " That's a great start. I mean, if it's just a matter of getting familiar with them and continuing to work that market, that sounds like a great market that you're in. I'm sorry, Dr. Kaiser.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "reassure",
+      "agreeing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7430.143,
+    "end": 7473.77,
+    "text": "I was going to say, one of the things that we've done for a number of years now, we've really paid attention to the recruitment fairs that we have gone to.  Obviously, increasing the HPC piece now but all of the recruitment fairs and one of the things that we're, we get feedback on from candidates at those fairs is they've got to have a willingness to come here. And so, you know, we could really focus the, the, the  kind of more on regional fairs, because we know that those are the kids that will come to us, the teachers that will come to us. It's very rare that we get somebody outside of contiguous states, but that's something that I think with these partnerships that we're working to develop, that I'm hoping that we can shift that trend there.",
+    "speaker": "clarekeiser",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 7477.674,
+    "end": 7484.1,
+    "text": "Thank you. Mr. McQuilkin, I'm gonna chime in to say I was definitely wrong, so thank you.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "conceding",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7484.12,
+    "end": 7494.398,
+    "text": "No problem.  You've checked your math work, right? You know, it just happened to work out that if you didn't do the total and you just put 20 over 104, that was also 16%.",
+    "speaker": "grahampaige",
+    "tags": [
+      "reassure",
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 7494.539,
+    "end": 7496.943,
+    "text": "So it was like, but no excuse. I'm sorry.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "conceding"
+    ]
+  },
+  {
+    "start": 7497.645,
+    "end": 7500.491,
+    "text": "That's all right. We're not grading here. We have a new grading policy.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "reassure",
+      "clarify",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 7501.733,
+    "end": 7504.278,
+    "text": "Mastery. No, but we are teasing.",
+    "speaker": "clarekeiser",
+    "tags": [
+      "acknowledge",
+      "hedge",
+      "clarify"
+    ]
+  },
+  {
+    "start": 7505.12,
+    "end": 7505.34,
+    "text": "Right.",
+    "speaker": "judyle",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7506.082,
+    "end": 7565.079,
+    "text": "OK, are there other questions?  Okay, I do have two. First, I'd like to commend Dr. Daphne Kazan on being so active in getting Mr. Woodson to come to us, instead of going to his native Louvana. So thanks so much for doing that. And also, I share Mrs. Carlson and Dr. Haas' concerns and  maybe making sure that we do continue to focus on minority recruitment, minority teaching. But I also noticed maybe another thing with the statistics too. We have a really small amount of male teachers that's been hired. So are we doing anything, what, 16% compared to 84%? Are we doing anything to sort of try to address that recruitment situation?  along with the minority recruitment.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "express_concern",
+      "ask_question",
+      "request_action",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 7568.745,
+    "end": 7592.518,
+    "text": "I can jump in with that one. This is the first year that we've seen a significant drop like that in recent years of the minorities. It's actually not been an area that we have focused on because there really has not been a need. For a number of years, we've looked at male elementary teachers as in a minority candidate category, obviously not a racial or ethnic minority. But that is something that we will now be paying closer attention to.",
+    "speaker": "clarekeiser",
+    "tags": [
+      "give_update",
+      "clarify",
+      "prioritization",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7593.005,
+    "end": 7609.411,
+    "text": " Okay, thanks. Any other questions from board members? Okay, if not, thank you, Ms. Jerome and all of your- Thank you. I look forward to seeing you in a few months. In that segment, so see you in a few months.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "ask_question",
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 7609.431,
+    "end": 7610.813,
+    "text": "Thank you. Thank you all, thank you.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7612.355,
+    "end": 7616.802,
+    "text": "All right, we will now have our enrollment update by Mrs. Rosalyn Schmidt.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 7618.351,
+    "end": 7872.839,
+    "text": " Good evening, Roslyn Schmidt, Chief Operating Officer. Tonight, I'll provide an update on our enrollment for this school year. As stated in the summary of this agenda item, we typically report on 10th day enrollment. But obviously, with the later start date this year, that information is not available at this business meeting, since we're only three days into the school year. So I'm going to do an enrollment report on the second day of school, which was yesterday.  I emailed that PDF last night and then I'm going to walk through it tonight and it will be attached to the agenda item. So again, this is data from September 9th. We formally report data to the state based on September 30th and March 30th. So these are considered preliminary at this point.  Okay, so the first, I have three pages. The first is just an overall summary, broken down first by level, elementary, middle school, and high schools. This first column is our enrollment as of September 30th, 2019. So last year, we were hovering right around 14,000 students. We, as part of our budgeting process, made a projection for this school year. We were projecting growth. If you recall, last year we experienced a pretty substantial  and we were projecting additional 200 students. And then this column is where we are today in the current school year. As you can see, it's a pretty dramatic decrease as we had previewed at the last meeting. So when we compare our total enrollment from last year, we have 717 less students. And if we compare our enrollment to what we had projected it to be, we are down 921 students.  Again, this is by level, elementary, middle, and high school, and you will see the bulk of these decreases are occurring at our elementary level. So breaking that data down further, we have provided that enrollment by school. Again, we're comparing it to September 30th data from last year, the projection we had made for budgeting purposes, and then where we are as of the second day of school.  So I just want to draw your attention to a couple specific takeaways from this breakdown. First off, we do have three elementary schools that are counter to that decreasing trend. Crozet, Scottsville, and Woodbrook are all either increasing or they're barely missing their projections in last year. But we do have very significant decreases at several schools.  Those that are what we're saying double digit in terms of percentage decreases, that includes Brownsville, Hollymead, Merriweather, Red Hill, Stone Robinson, and Stony Point. So that's the elementary breakdown. Scrolling down, middle schools, I just want to draw your attention to Henley Middle School. They had a 10% decrease from what we had anticipated.  And then on counter to that, Walton actually met their projection and actually exceeded it. And then our high schools, we're not seeing very substantial decreases there, but there are decreases nonetheless, with the exception of Monticello. So the final breakdown of this data we wanted to show was breaking it down by grade level. And so this last piece compares our enrollment this school year compared to the projection by grade.  And then I'm going to scroll to the bottom here. And the big takeaway here, again, not too surprising, is that the biggest decreases is at our kindergarten level. So when we compare to what we had anticipated, we have currently enrolled 200 less students than we had projected, which is 19% less.  than what we had projected. And you can see, again, going across the table here, elementary is where we are seeing the bigger decreases. The outlier in secondary is sixth grade, where we are seeing that almost 9% less than what we anticipated.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "clarify"
+    ]
+  },
+  {
+    "start": 7872.859,
+    "end": 7881.047,
+    "text": "Hey, Rosalyn, do we have an understanding where the children are going? Are they going to private school or are they being homeschooled?",
+    "speaker": "davidoberg",
+    "tags": [
+      "ask_question",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 7881.348,
+    "end": 7948.953,
+    "text": " Yep, so obviously we don't have private school data, but we do have our homeschool data and we are seeing an increase in our homeschooling. We have, Debbie correct me if I'm wrong, but 338 additional students that are homeschooling than as compared to last year. So that's a piece of it. We know anecdotally there are families moving to private schools and we also know in every year there's families moving from the area. So I think it's a combination  In kindergarten, it may just be they're delaying their child starting school altogether. So we think it's a combination. So due to current circumstances, some of this is not to be unexpected, but obviously these declines are of concern and will present challenges. They'll present immediate financial challenges, but also challenges in planning and budgeting for next year and what assumptions we will make as far as who and when these students will return.  But we'll discuss those a little bit in the next agenda item when we talk money. But are there any questions about this data or any follow-up information we can provide?",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "give_update",
+      "express_concern",
+      "logistics_info",
+      "follow_up_request",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 7952.658,
+    "end": 7957.846,
+    "text": "Has there been any analysis on how this is going to impact free and reduced lunch? Are percentages going to go up?",
+    "speaker": "davidoberg",
+    "tags": [
+      "ask_question",
+      "request_action"
+    ]
+  },
+  {
+    "start": 7959.348,
+    "end": 7997.177,
+    "text": "So we have not done that analysis yet. That process is an annual families have to reapply.  each year for that, so that we typically look at in October, and so we will present that information. Unfortunately, I think another challenge in this is with our meal service, and we haven't formally announced this yet, but the USDA extended their waiver, and so we're providing meals free for everyone, and so there's less of a pressure to apply for free or reduced, so that's just going to be another challenge in getting accurate data, but we will continue  to encourage families to apply who qualify.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "clarify",
+      "express_concern",
+      "reassure",
+      "cite_external_source"
+    ]
+  },
+  {
+    "start": 8000.001,
+    "end": 8027.147,
+    "text": "Rosalyn, I'd just like to say, I mean, this is terrific data as always. I mean, these reports each year, I mean, I may not be crazy about what I'm reading, but it really breaks it down by schools and by grade levels in such a way that it's pretty easy to understand where trends are going. And now if we can just get rid of COVID,  we'll be able to boost it back up. Thank you for this.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "opinion",
+      "reassure",
+      "hedge"
+    ]
+  },
+  {
+    "start": 8030.352,
+    "end": 8065.785,
+    "text": "I would just like to point out that I think the kindergarten trend, one thing that that might be indicative of is where virtual learning is less effective. So that's why we're seeing that big drop in the elementary grades and particularly kindergarten. I've noticed my own son is doing it and I was wondering if it was down because even his class is tiny.  And I think it's just because that's where virtual learning is very difficult. And I think we should keep that in mind as we start figuring out which kids are gonna be going into school next. There's a reason why parents are not in virtual learning in some of those cases.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "express_concern",
+      "opinion",
+      "request_action",
+      "hedge",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 8070.171,
+    "end": 8081.927,
+    "text": "Are there other questions for Ms. Schmidt on enrollment? Okay, if not, she'll step into the spotlight again and give us a budget update.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "give_update"
+    ]
+  },
+  {
+    "start": 8082.076,
+    "end": 8105.096,
+    "text": " So as I alluded to the next item, we get to talk finances. This next agenda, we have just actually a couple of slides, but it's in two chunks. First, Mr. Zimmerman will provide an update on our current financial state, and then we'll transition to Ms. Kumazawa, who will talk looking forward in our process as we plan next year's budget. So Mr. Zimmerman.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 8107.078,
+    "end": 8583.656,
+    "text": "Thank you, Ms. Schmidt. This is Jackson Zimmerman. I'm the school finance officer  Uh, going to present to you today, um, some, uh, information regarding what has happened to date from the beginning of the pandemic until the current point that we're in. Um, Maya, could you put forward this? So if you remember this pandemic began in March and it affected all of last fiscal year.  We did have some COVID related expenditures, but relatively small. We had some savings associated with reduced operations, but again, relatively small. If you remember, we made a real effort to keep all of our staff whole during this process. And since more than 85% of our dollars are tied up in staff, that was not affected.  Things like fuel and other things of that nature did results in some improved performance and operational savings. We did see some lower general school revenues. Things like building rental, athletic fees, donations, those kinds of things were less in this past fiscal year than they have been previously.  One bright section of last fiscal year is that state revenues were higher than we had anticipated in June. If you remember, we did a third quarter financial report in June and did some preliminary projections in terms of what we believe state revenues could be like. Primarily driven around sales tax was a significant concern during this time frame. State revenues were higher than we had originally reported in June.  Um, so that is some very, very good news. Um, the other really good news, um, is that our local transfer that local government had communicated to us was going to be cut in the prior fiscal year. Does not in, uh, does not appear to be, uh, cut at all in this, in prior, in the prior fiscal year. So that significant reduction in local revenue did not take place.  We, so because of this, we do anticipate a significant, not a significant, we do anticipate having fund balance available, increasing our fund balance that's available from this current fiscal year. We are still managing this current fiscal year. Our auditors do not come until October. So we've got basically nearly a full month's worth of work still to do on the prior fiscal year.  but wanted to give you a preview of what this looks like. So one of the takeaways of this is the prior fiscal year ending June 30th looks like we are going to have some increased fund balance, and it's going to give us some flexibility in operating for fiscal year 21, which we're in currently. So in fiscal year 21, we have had some very significant expenditures for COVID-related, either directly or indirectly, kinds of expenses.  The range is well over a million, certainly in approaching the $2 million range in terms of expenditures for PPE equipment. If you remember, we distributed a large number of iPads. We have distributed a very large number of hotspots. So those kinds of expenditures, along with PPE and some cleaning equipment and supplies, they really did add up during this time period.  Some of these are going to be offset by CARES Act monies, but not all of them. CARES Act is not sufficient to cover all of these expenses. So that's one thing that we're keeping an eye on for the current fiscal year. Operational expenditures, we're operating in a huge unknown here. We have never operated a school division where we're bringing in some kids for the year, most kids running virtually,  Um, we were running school buses, but not as many as we'd had previously. So the, the concern is that we're, we're still in terms of operational expenditures in a, in a relatively unknown. As we develop some more, uh, experience in this area, we'll get a better handle on our operational expenditures. Could be some savings, could be some, some, uh, increased expenditures, a lot of question marks during this time period. The next few weeks will provide us with more information.  In terms of revenues, we did have, so we're going to experience some generally lowered school revenues. We are also going to be experiencing some losses in terms of our revenue generating programs. EDEP in particular, the expenditures in that program will be exceeding EDEP revenues.  So we will just need to monitor this as time moves forward. State funding. Again, that that sales tax significant issue associated with last year carries over into the current year. We believe that the same sales tax forecast, um, is is higher than what we had originally began our budget for for fiscal year 21. So that's some good news. Some bad news. The enrollment.  Our enrollment's down. Our enrollment is down a lot. So a large component of state revenue is driven by your overall enrollment numbers. We had budgeted for a higher level of enrollment than we currently have. How this enrollment number rolls out over this time period is going to drive our state revenues.  Because we have lower enrollment, our average daily membership, which is what our revenue is based upon, is anticipated to be significantly lower. The one thing I wanted to point out, much discussion has been taking place at the legislative level about an enrollment hold harmless. That legislation did not get reported out of committee.  That was very disappointing as many divisions across the state are experiencing this enrollment loss. And I know that a number of state organizations are planning on bringing this forward and we're planning on bringing it forward as far as our legislative packet, but really wanted to make sure that that we keep that hold harmless legislation in the forefront of our mind when we have discussions with the legislators. So  sort of summarizing where we are at the end of the first quarter. We have a number of areas where we're keeping an eye on. Some revenue areas are better, some are worse. But the big advantage that we have now is we have some fund balance. And so it gives us a level of flexibility to run through this current cycle that is very, very good for us. It gives us many more options than we had, than we were anticipating at the end of June.  And I'm turning this over to Ms. Kumazawa.",
+    "speaker": "jacksonzimmermann",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "express_concern",
+      "policy_proposal",
+      "request_action",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 8586.36,
+    "end": 8849.194,
+    "text": "Thanks, Jackson. So to shift gears a little bit, we have begun planning our budget development process for our FY22 budget. This is a draft timeline of what we are proposing. And I'll mention what's a little bit different this year than previous years and what's coming up  So the next work session on the 24th will focus around the CIP and long-range planning. And we will give you an update about the CIP and have a discussion around our priorities for how we bring projects back if that is even an option. And then after that, the school board members will come together with the board of supervisors to further have the discussion about CIP, but then also the other  joint efforts of discussing where we are with our compensation based on our, we will compare where we are with our world at work and our other market to see where we are in order to determine any strategies for the future.  And then on November 12th is really the time where we will get together to discuss the annual budget. That is when the state of the division will be presented to you, and that will be a time to provide budget input. And after then is when we will be receiving state and local revenue projections. So as you can see, the fall and the winter work sessions are a little bit more streamlined than previous years. We don't have as many. And that has been planned with the local government  and making sure we are aligned there. And then you can see, typically we have the funding request in January, but we're proposing that we move that back about a month to February so that we can fully incorporate the most recent revenue estimates. And we're not, you know, as uncertain of a place as we might be in January. We just want to work with the full information that we have. And I think that the longer we wait, we can work with better data.  So we're proposing pushing the funding requests back to February and having those work sessions run through the end of February, maybe into March, but still adopt the budget in April. Local government is is proposing a similar calendar where everything will be pushed back just a little bit more to give staff more time to incorporate in more relevant revenue updates. And then I also quickly wanted to  pull up our annual budget goals that we have in our budget document every year. So while we still don't know what our revenues projections are going to be next year, we do have goals that we try to strive for. The first and foremost being to meet our mission. So I'll give you a moment just to read through those.  And I just ask for this evening for your agreement with these goals as we go into the budget planning process. And there will be more time to provide input as you saw in November and January. And I also, the next slide is a slide to encourage you to think about what your preliminary budget input is for next year.  And again, this is extremely early in the process. We really don't have any indication of what our revenues are gonna look like. We don't know what our full expenditure needs will be. But I will open it up just for a few minutes for you all to provide preliminary high level areas where you think should be focus points for the FY22 budget. But before we do that, are there any questions about our current state of finances  or with the budget process for next year.",
+    "speaker": "Unknown",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "request_action",
+      "ask_question",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 8849.214,
+    "end": 8873.55,
+    "text": "Ms. Kozawa, I have a question about two slides back where you were talking about the budget request happening in February. Will that be Dr. Haas's superintendent's budget request as well as the school board budget request? So we'll get both of those done during the month of February as opposed to January and then early February.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 8876.197,
+    "end": 8888.47,
+    "text": " And this will help us align our assumptions with local government a little bit better. Before, we had always been about a month ahead of them. And it's been tricky trying to align a lot of our assumptions going into our budget.",
+    "speaker": "Unknown",
+    "tags": [
+      "express_concern",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 8890.191,
+    "end": 8908.809,
+    "text": "I would add, too, it also puts us out as one of the early school divisions in stating what our if and when we have compensation increases. When we come out of the gate so early, it makes it easier for other divisions to sneak ahead of us.  before they get into the hiring season, which is a disadvantage.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "express_concern",
+      "opinion"
+    ]
+  },
+  {
+    "start": 8916.357,
+    "end": 8920.341,
+    "text": "Are there any other questions for our budget team?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 8926.687,
+    "end": 8961.283,
+    "text": "So these blocks are just a simplified view of our basic budget goals.  These are the goals that we strive for when developing the budget each year, student learning, equity, and employees. But are there other areas such as service restoration? Do we find ways to creatively bring back services that we have cut in the current year? What are other items of interest to you, whether it's legislative or technology? If you all want to chime in and just give us just preliminary guidance, I think that would be helpful for us as we move forward.",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "public_addressing",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 8965.043,
+    "end": 8994.375,
+    "text": " Last year, we had put in a request for technology upgrades for something like $8 million. And Dr. Acuff had tried to get that through the CIP committee, and they really weren't having any of it. I think anything that we can put into a technology folder would be much needed. And I'm sure Dr. Diggs can give a lot of information on that.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "prioritization",
+      "defer_to_expert"
+    ]
+  },
+  {
+    "start": 9002.489,
+    "end": 9008.956,
+    "text": " I'm curious to see how this budget cycle goes, because maybe I guess I'm being premature, but there's going to be cuts, right?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "hedge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 9009.256,
+    "end": 9020.067,
+    "text": "This is going to be my first cycle where it's not, what are we adding, but what can we keep, what needs to go away? So I guess it's going to be an interesting process this time, a little different than what I'm used to.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "opinion",
+      "prioritization",
+      "hedge"
+    ]
+  },
+  {
+    "start": 9020.748,
+    "end": 9026.734,
+    "text": "It's less fun. Yeah.",
+    "speaker": "davidoberg",
+    "tags": [
+      "opinion",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 9026.754,
+    "end": 9188.488,
+    "text": "And I think along with that, the challenge is,  I don't want to sound premature, but as we get into October, November as well, we're going to want to start getting input from the public, from our school community around how we will move forward in our next school year to try to address the learning situation that we have right now.  It's going to be a time of engagement. I know the board has talked about having more town halls moving forward. I'd be very interested in working together with the school board as we work our way into the funding request season to receive input and receive comments and ideas helping us to define what our current situation is and what our problems are from the perspective of  students and families and our employees so that then we can really start to identify targets for things we want to improve and develop strategies going into next school year and over the next several years, particularly to address the learning slide that is taking place with kindergartners, first graders, the youngest age students that  that we need to recover. And it's really a long-term recovery prospect. And I think it should be treated that way. There are many options out there, but I would really want to engage with the public. It's hard to engage during a crisis, and I think the board did an outstanding job of doing that. Opening yourselves up to those town halls was a big deal, I thought. Now it's a different kind of a crisis. It's a learning crisis.  It's different in the sense that we can get in front of it from where we are right now. So I'd really want to just think out loud with the board over the coming month or two about how do we structure those inputs for our community to help us move in that direction. The other piece is that given the idea that a large proportion of the students that haven't come to school this year are kindergartners,  We're going to have, as Dave was pointing out, it's going to be some real shifts around our enrollment that are going to drive a strange looking kindergarten class. If many people did exercise their option to hold their child out for a year, we're going to have a very large kindergarten class.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "policy_proposal",
+      "request_action",
+      "follow_up_request",
+      "express_concern",
+      "prioritization",
+      "acknowledge",
+      "public_addressing",
+      "hedge"
+    ]
+  },
+  {
+    "start": 9191.742,
+    "end": 9222.204,
+    "text": " Well, that was the kindergarten class potential impact on our enrollment was one I was going to ask Roslyn about. I know it's early, it's too early to do this, but what kind of intel can we get from these parents about whether or not they plan to enroll next year? Because that could be huge.  whole buildings of kindergartners. As I alluded to. Yeah, but how cool would that be?",
+    "speaker": "kateacuff",
+    "tags": [
+      "request_action",
+      "ask_question",
+      "express_concern",
+      "hedge"
+    ]
+  },
+  {
+    "start": 9222.785,
+    "end": 9223.907,
+    "text": "It would be pretty cool.",
+    "speaker": "davidoberg",
+    "tags": [
+      "opinion"
+    ]
+  },
+  {
+    "start": 9224.187,
+    "end": 9227.532,
+    "text": "Kindergarteners are awesome.",
+    "speaker": "kateacuff",
+    "tags": [
+      "opinion"
+    ]
+  },
+  {
+    "start": 9227.552,
+    "end": 9258.988,
+    "text": "As I alluded to in the enrollment agenda item, making projections for next year is going to be challenging. So we have begun those processings of what are those creative ways of outreach in the community? Do you survey a lot of those families registered and unregistered? So do you start contacting them?  We're going to talk about that a little bit at the work session about what assumptions we're going to have to make so that we're all on the same page as far as how we're going to build that budget.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "give_update",
+      "express_concern",
+      "ask_question",
+      "request_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 9259.969,
+    "end": 9273.606,
+    "text": "Okay, Mrs. Amaya, did you receive any input on your question, what you were asking about the board or from the board?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "clarify"
+    ]
+  },
+  {
+    "start": 9274.075,
+    "end": 9283.825,
+    "text": " And whatever, it's all up to you guys. If you have any, if you have any thoughts now, but if not, it's still early. So no, we totally didn't respond.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "request_action",
+      "hedge",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 9284.225,
+    "end": 9285.867,
+    "text": "No, right.",
+    "speaker": "davidoberg",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 9285.907,
+    "end": 9298.019,
+    "text": "I mean, I think, you know, students equity and, and, and staff were the three top tier things. I don't see those moving out of the top considerations.",
+    "speaker": "kateacuff",
+    "tags": [
+      "opinion",
+      "prioritization",
+      "reassure",
+      "hedge"
+    ]
+  },
+  {
+    "start": 9299.401,
+    "end": 9299.661,
+    "text": "True.",
+    "speaker": "grahampaige",
+    "tags": [
+      "agreeing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 9302.56,
+    "end": 9305.645,
+    "text": " Although we're going to have to be recruiting a lot of kindergarten teachers.",
+    "speaker": "kateacuff",
+    "tags": [
+      "express_concern",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 9306.086,
+    "end": 9318.205,
+    "text": "Are we all in agreement with Kate's point that the top three shown on the slide, the three that's most important to us at this point in time?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 9320.028,
+    "end": 9322.452,
+    "text": "Operationally, yes. OK.",
+    "speaker": "davidoberg",
+    "tags": [
+      "agreeing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 9324.856,
+    "end": 9328.382,
+    "text": "Yes, with the technology in the lower half.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "agreeing",
+      "clarify",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 9330.168,
+    "end": 9367.266,
+    "text": " All right, so does that give you any input? Yes, thank you. OK. All right, thank you. All right, so thanks to Rosalynn and the whole budget team for our budget update. And again, I think we had mentioned this back in March, too, how we were so much ahead of the game with budget presentation last year. And then in March, everything sort of fell apart. So let's hope for the best. We jinxed ourselves, Graham.  Right, so let's hope that doesn't happen again this year. All right, is there any other business from board members or a superintendent?",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 9369.689,
+    "end": 9372.032,
+    "text": "Ms. Lee, I thought you might have a question.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "request_action",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 9372.553,
+    "end": 9386.331,
+    "text": "I do have a question. I actually have a couple of them. But I know that first and second grade students who need iPads have had difficulty getting them in. Where are we with that?",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "follow_up_request",
+      "request_action"
+    ]
+  },
+  {
+    "start": 9390.479,
+    "end": 9454.02,
+    "text": " Hi, I can answer that. I'm Christine Diggs, Chief Technology Officer. We fortunately just received notice today, as a matter of fact, from the delivery company that they will arrive at our office by 4 p.m. on Monday.  As you know, our order that we placed in July was out of stock in the United States and is coming from China. And we were unable to track it. Apple could not give us any kind of tracking information. So we've been operating completely in the dark, but did get word today. So we have already plans in place to have staff working  every night next week until 10 p.m. to try to process those as quickly as we can. There's 1,660 of them, and it's a slow process to get them into our inventory, into the cases, and assigned to students in buildings. But we're gonna work around the clock to get them out from our offices as soon as we possibly can.",
+    "speaker": "christinediggs",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "reassure",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 9455.522,
+    "end": 9473.948,
+    "text": "And so do you anticipate that would happen by the end of next week with all of that work? I appreciate the work. Do you have a sense of that timeline?  So, you know, ordinarily I might be able to give you a better estimate, but I don't feel like I can promise.",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 9474.348,
+    "end": 9537.396,
+    "text": "We feel like we can finish by next week, the end of next week. The challenge we have right now is that we have very limited staff that's based centrally that we know we can pull during the day to do the work. We can't really pull our building-based staff right now from supporting  their schools and parents and students. They're on site in our buildings, but they're also fielding phone calls that come in to help kind of offload from our service desk. So without having really the full availability of our staff to also help process these, we can only do it after hours. Right now, I can't predict how many folks are available after hours to come in after a long day of supporting families and students.  It's a little unpredictable right now, but our goal is to have them processed by next Friday. And if we can deliver before that, we absolutely will. And I know building services is ready and they're on call on standby that if we get some ready, they'll be able to help deliver for us, which will be a help that we won't have to also be delivering.",
+    "speaker": "christinediggs",
+    "tags": [
+      "give_update",
+      "express_concern",
+      "logistics_info",
+      "reassure",
+      "hedge"
+    ]
+  },
+  {
+    "start": 9538.996,
+    "end": 9547.307,
+    "text": " Great. So Christine, it is the case, however, that all of our students have some sort of device, even if it's not optimal.",
+    "speaker": "kateacuff",
+    "tags": [
+      "clarify",
+      "logistics_info",
+      "hedge"
+    ]
+  },
+  {
+    "start": 9547.968,
+    "end": 9582.161,
+    "text": "That was the plan, that schools would make it available. Now, whether everybody took advantage of it, but yes, we had the inventory to make sure. And so developmentally, we believe that kindergarten, first grade, and second grade students  perform best, do best with an iPad, and that is the ideal. But yes, first and second graders do have a laptop if they came and picked one up, we had them available. So there was a device, yes, available. And kindergarten students did get iPads.",
+    "speaker": "christinediggs",
+    "tags": [
+      "give_update",
+      "clarify",
+      "logistics_info",
+      "reassure",
+      "opinion"
+    ]
+  },
+  {
+    "start": 9585.845,
+    "end": 9589.85,
+    "text": "Great, thank you. Oh, sorry, I didn't mean to cut you off.",
+    "speaker": "judyle",
+    "tags": [
+      "acknowledge",
+      "clarify",
+      "reassure"
+    ]
+  },
+  {
+    "start": 9589.87,
+    "end": 9615.941,
+    "text": "No, I think that it would be ideal if we could get them two buildings and then  They'll, of course, have to schedule pickup times. But I've heard student learning say that these first two weeks are getting acquainted, getting oriented, getting acclimated. And so the sooner we can get them in there and we meet the end of that first two weeks of school and they have their iPads, I think will be really a good goal.",
+    "speaker": "christinediggs",
+    "tags": [
+      "opinion",
+      "prioritization",
+      "logistics_info",
+      "hedge"
+    ]
+  },
+  {
+    "start": 9618.004,
+    "end": 9633.367,
+    "text": "Great. Thank you very much. And along those lines, are we  Have we been able to give everyone a hotspot who has needed one? I knew we were getting some in last two weeks ago.",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "logistics_info",
+      "request_action",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 9633.747,
+    "end": 9701.918,
+    "text": "We did. We got them in. It was really amazing, actually. We have given out over 1,000. And we've been delivering them to schools, and schools have been issuing them. And right now, we've paused on whether or not we need any more or not from what  information we have, everyone that schools have has interacted with has been given one. What's happening right now is the process of families are realizing and trying them, oh, this one doesn't work. So now they're going to have to work through the, there's five different options, right? There's five different carriers. So they're trying to work through that process of, oh, if this AT&T one isn't working, then they'll give them  the next best guest that they can have. And it's an educated guest, but it's still a guest in terms of cell signal from their home location. And for an example, we had a family out in the Crozet area that went through all five different carriers. And the fifth one, which was US Cellular, which is usually the last one that's provided, actually worked for them. So that's the process that's going on right now in schools.",
+    "speaker": "christinediggs",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "clarify"
+    ]
+  },
+  {
+    "start": 9703.139,
+    "end": 9744.985,
+    "text": "Great. Thank you very much.  I did have another question based a little bit off of public comment. And also just because, you know, I've been talking to parents and again, it does seem like, you know, a lot of variation from school to school. And I just wondered if we do have any formal means of feedback. I mean, I know, like, we're sort of, you know, wading into this great unknown of this virtual school, but I was just  I was curious if we had any formal means of feedback in the works for parents, for teachers, for staffers, for any other of our stakeholders.",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "express_concern",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 9746.607,
+    "end": 9752.755,
+    "text": "I think Dr. McLaughlin alluded to that earlier, so I'm going to let him take that question.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "defer_to_expert",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 9754.523,
+    "end": 9768.944,
+    "text": " Yeah, thanks. We are currently planning some surveys and some information to go out to our principals, for staff, also some surveys that are going to go out to students and to community members within the next couple of weeks.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 9772.289,
+    "end": 9779.359,
+    "text": "OK. OK, are there any other questions from board members?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 9782.043,
+    "end": 9805.692,
+    "text": "I guess I just have.  A question to Malani Brookhart, because I know that she is is working on developing a questionnaire to do a survey of high school students. I didn't know if that was still on your agenda on your plans or not, or if you had anything you wanted to ask of the school board or Or I just think you do. I think it's a great idea.",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "defer_to_expert",
+      "follow_up_request",
+      "request_action",
+      "opinion"
+    ]
+  },
+  {
+    "start": 9806.465,
+    "end": 9844.053,
+    "text": " I'm thinking that this survey would be released maybe a month or a month after school starts. So I think that's going to be after my term. So I'm hoping that the next student representative after me could hopefully, um, like give a summary of the report. And then, um, I was also hoping with the survey to attach like an introduction either in like a paragraph form or video form.  of just like who I am, what my role is. And then I thought that was a really good opportunity to introduce the next representative, but I'm not really sure how to coordinate all of that, but I, that's something I'm hoping to do.",
+    "speaker": "melaniburkhart",
+    "tags": [
+      "give_update",
+      "request_action",
+      "logistics_info",
+      "hedge"
+    ]
+  },
+  {
+    "start": 9847.176,
+    "end": 9853.503,
+    "text": "Okay. Ms. Burkhardt, you are working with Ms. Johnson on your proposal, right?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 9854.104,
+    "end": 9859.45,
+    "text": "Yeah. I think you're working with Dr. McLaughlin and Mr. Gilman.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "acknowledge",
+      "clarify"
+    ]
+  },
+  {
+    "start": 9861.452,
+    "end": 9865.571,
+    "text": "Okay.  Well, Mr. Johnson of Monticello, I let him know.",
+    "speaker": "melaniburkhart",
+    "tags": [
+      "give_update",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 9865.591,
+    "end": 9867.593,
+    "text": "OK. No, I was thinking about Ms. Jennifer Johnson.",
+    "speaker": "grahampaige",
+    "tags": [
+      "clarify",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 9868.154,
+    "end": 9868.754,
+    "text": "Yeah.",
+    "speaker": "melaniburkhart",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 9870.416,
+    "end": 9874.22,
+    "text": "But no, he said you were working with Dr. McLaughlin.",
+    "speaker": "grahampaige",
+    "tags": [
+      "clarify",
+      "disagreeing"
+    ]
+  },
+  {
+    "start": 9874.741,
+    "end": 9890.337,
+    "text": "That's right. We've been working together on a few drafts. And one of the things I know that Melanie mentioned that she's really interested in doing is that video introduction. So we'll have something put together prior to that survey going out. OK.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "acknowledge",
+      "reassure"
+    ]
+  },
+  {
+    "start": 9891.953,
+    "end": 9895.559,
+    "text": " All right, any other questions or business school board members?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 9896.661,
+    "end": 9907.277,
+    "text": "I just want to say thank you to everyone. This has been a very informative session. I feel like we got through a lot of topics with a lot of great information in them. So thank you to everyone who is still on for putting that all together.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 9908.059,
+    "end": 9940.724,
+    "text": "Right. You know, I agree with that wholeheartedly, Mrs. Colson. And I've also got to thank Mr. Page for something personally.  Because for those of you who were on early, you heard my dogs were barking loudly. And they consistently kept doing that until we came back from the closed meeting. And then Mr. Page said, may we have a moment of silence? And I swear to God, the dogs have not barked since he said that. Thank you, Mr. Page, you have great influence.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "agreeing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 9940.744,
+    "end": 9941.525,
+    "text": "Thank you very much.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 9941.765,
+    "end": 9945.008,
+    "text": "Hey, Graham, can you talk with my dogs?",
+    "speaker": "davidoberg",
+    "tags": [
+      "request_action",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 9945.329,
+    "end": 9994.978,
+    "text": "I'll work on it, Dave.  All right, so I do just have maybe four real quick thank yous. First, thanks to Mrs. Burkhardt-Milani for that great work that you did in introducing the spotlight on education. You did a very good job there. So thanks so much. Then also thanks to all of our staff for your presentations tonight. Like Katrina said, those were all really informative.  Thirdly, thanks to all of our speakers tonight who made public comment. And then finally, but certainly not least, thanks to our teachers and staff for all that you are doing under these most difficult circumstances and realize that we really truly do appreciate you. So there be no further business. Our meeting for tonight is adjourned. Thank you.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "procedural_move",
+      "reassure"
+    ]
+  }
+]

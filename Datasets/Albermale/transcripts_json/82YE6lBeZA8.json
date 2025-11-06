@@ -1,0 +1,2607 @@
+[
+  {
+    "start": 0.166,
+    "end": 9.703,
+    "text": " I call this meeting of the Albemarle County School Board February 10th meeting to order. Ms. Carlson, do you have a motion?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 10.358,
+    "end": 34.813,
+    "text": " I do. I move that the Albemarle County Public School Board go into a closed meeting as authorized by the Virginia Freedom of Information Act, section 2.23711A of the Code of Virginia under subsection 1, for discussion, consideration, or interviews of prospective candidates for employment and the assignment, appointment, promotion, performance, demotion, salaries, disciplining, or resignation of specific public officers, appointees, or employees of any public body.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "procedural_move",
+      "cite_external_source"
+    ]
+  },
+  {
+    "start": 35.637,
+    "end": 61.111,
+    "text": " And subsection eight, per consultation with legal counsel employed or retained by the school board regarding specific legal matters requiring the provision of legal advice by such counsel. Is there a second? Second. OK, moved by Ms. Carlson, seconded by Ms. Lee, that we go into closed session based on various portions of the Virginia Code. Ms. Johnston, could you please call the roll?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "request_action"
+    ]
+  },
+  {
+    "start": 62.914,
+    "end": 68.156,
+    "text": "Dr. Acuff? Yes.  Ms. Lee. Yes. Ms. Osborne.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 68.637,
+    "end": 70.1,
+    "text": "Yes.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 70.12,
+    "end": 72.984,
+    "text": "Mr. Alcaro. Yes. Mr. Oberg.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 73.565,
+    "end": 73.786,
+    "text": "Yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 74.527,
+    "end": 77.832,
+    "text": "Ms. Colson. Yes. Mr. Page.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 78.213,
+    "end": 141.758,
+    "text": "Yes. Motion carries. So we'll go into closed session. See you there.  It is now 630 and I called a public session of that model county school board for February 10th meeting back into order. Miss Carlson.  Vice Chair Carlson, do you have a motion from the closed session?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "logistics_info",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 141.778,
+    "end": 156.568,
+    "text": "I do. I move that the board certified by recorded vote that to the best of each board member's knowledge, only public business matters lawfully exempted from the open meeting requirements of the Virginia Freedom of Information Act and identified in the motion authorizing the closed meeting were heard, discussed, or considered in the closed meeting.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "procedural_move",
+      "vote_call"
+    ]
+  },
+  {
+    "start": 157.871,
+    "end": 158.532,
+    "text": "Is there a second?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 159.053,
+    "end": 159.334,
+    "text": "Second.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 160.934,
+    "end": 167.761,
+    "text": " You've heard the motion from Ms. Colson and Ms. Lee. Ms. Thompson, could you please call the roll?",
+    "speaker": "grahampaige",
+    "tags": [
+      "request_action",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 170.604,
+    "end": 175.589,
+    "text": "Ms. Acuff? Yes. Mr. Alcaro?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "request_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 176.17,
+    "end": 176.41,
+    "text": "Yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 177.151,
+    "end": 178.012,
+    "text": "Ms. Colson?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "request_action"
+    ]
+  },
+  {
+    "start": 179.373,
+    "end": 179.634,
+    "text": "Yes.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 180.475,
+    "end": 183.898,
+    "text": "Ms. Lee? Yes. Mr. Oberg?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 184.879,
+    "end": 185.139,
+    "text": "Yes.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 185.9,
+    "end": 186.881,
+    "text": "Ms. Osborne?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 187.402,
+    "end": 187.622,
+    "text": "Yes.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 188.703,
+    "end": 189.544,
+    "text": "And Chair Page?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "request_action"
+    ]
+  },
+  {
+    "start": 190.105,
+    "end": 190.485,
+    "text": "Yes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 190.837,
+    "end": 191.558,
+    "text": " So moved.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 192.36,
+    "end": 223.217,
+    "text": "Okay, thank you. All right, now out of the closed session, we do have some appointments to make to three committees that serve the school board. The first one is the School Health Advisory Board, and we have three nominations for that board. So we'll start with Dr. Ako.  Dr. Akos? You're muted.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "logistics_info",
+      "public_addressing",
+      "request_action"
+    ]
+  },
+  {
+    "start": 223.978,
+    "end": 235.053,
+    "text": "I'm sorry. I apologize. I would like to appoint Melissa Sable for the Jack Jewett District representative.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 235.073,
+    "end": 235.674,
+    "text": "Ms. Carlson?",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "request_action"
+    ]
+  },
+  {
+    "start": 237.516,
+    "end": 243.464,
+    "text": "I would like to appoint Brenda Doremus Daniel for the Rio District.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 243.484,
+    "end": 252.733,
+    "text": "And from the Samuel Miller District, I appoint Gail Byrd.  So we have those three nominations for School Health Advisory Board.",
+    "speaker": "grahampaige",
+    "tags": [
+      "give_update",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 254.074,
+    "end": 259.421,
+    "text": "I move that we approve these three nominations for this committee.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 260.182,
+    "end": 274.32,
+    "text": "Second. Moved by Mr. Alcaro, seconded by Mr. Oberg, that we approve the three nominees for the School Health Advisory Board. Any discussion on the motion? If not, Ms. Thompson.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 275.549,
+    "end": 282.218,
+    "text": " Yes, for school health advisory board nominations mosaic. Yes, Mr. Carol.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 282.959,
+    "end": 283.219,
+    "text": "Yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 283.96,
+    "end": 287.084,
+    "text": "Miss Lee. Yes. Mr. over.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 287.925,
+    "end": 288.165,
+    "text": "Yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 288.906,
+    "end": 294.473,
+    "text": "Miss Carlson. Yes. Oh, that's Miss Osborne.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "clarify"
+    ]
+  },
+  {
+    "start": 295.074,
+    "end": 295.354,
+    "text": "Yes.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 296.636,
+    "end": 299.7,
+    "text": "Chair page. Yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 301.115,
+    "end": 311.484,
+    "text": " All right, next we have the appointees for the Long-Range Planning Committee. We have four districts to make nominations. Dr. Acuff?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "request_action"
+    ]
+  },
+  {
+    "start": 312.945,
+    "end": 329.94,
+    "text": "Yes, I would like to appoint John Bruno. Actually, I'm reappointing him. He has served on the Long-Range Planning Committee for the past year. He has excellent credentials, and I move to reappoint him as my representative for the Jack Joint.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "give_update"
+    ]
+  },
+  {
+    "start": 332.182,
+    "end": 333.323,
+    "text": " Thanks, Chair Carlson.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 335.266,
+    "end": 346.44,
+    "text": "Yes, I move to appoint Alexis Mason. She has worked with Admiral County Schools for a long time in the past, and I've known her for actually many years at this point, and I'm looking forward to her helping us.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "procedural_move",
+      "opinion"
+    ]
+  },
+  {
+    "start": 348.102,
+    "end": 348.583,
+    "text": "Ms. Lee?",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 350.625,
+    "end": 353.609,
+    "text": "I'm appointing Kurt Burkhardt to the Rye-Manassas.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "give_update"
+    ]
+  },
+  {
+    "start": 355.992,
+    "end": 367.868,
+    "text": "And from Samuel Millam, appointing Satish Annabethullah.  from Samuel Miller District. Could we have a motion on those nominees for long-range planning?",
+    "speaker": "grahampaige",
+    "tags": [
+      "request_action",
+      "procedural_move",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 369.47,
+    "end": 376.782,
+    "text": "I move that we approve these nominees for the Long-Range Planning Advisory Committee. Is there a second?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 377.142,
+    "end": 377.463,
+    "text": "Second.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 378.665,
+    "end": 392.489,
+    "text": "Moved by Mr. Alcaro, seconded by Ms. Lee, that the said four nominees be appointed to long-range planning. Any discussion on the motion?  If not, Ms. Thompson?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 393.892,
+    "end": 395.834,
+    "text": "Yes, for approval, Ms. Coulson?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 398.599,
+    "end": 398.839,
+    "text": "Yes.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 400.762,
+    "end": 401.523,
+    "text": "Mr. Oberg?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 402.404,
+    "end": 402.685,
+    "text": "Yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 404.347,
+    "end": 405.249,
+    "text": "Ms. Osborne?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 405.87,
+    "end": 406.11,
+    "text": "Yes.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 407.933,
+    "end": 408.894,
+    "text": "Mr. Alcaro?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 409.415,
+    "end": 409.695,
+    "text": "Yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 410.917,
+    "end": 418.349,
+    "text": "Ms. Acuff? Yes. Ms. Lee? Yes. And Chairman Page?",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 418.949,
+    "end": 419.31,
+    "text": "Yes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 420.438,
+    "end": 421.699,
+    "text": " So moved.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 421.719,
+    "end": 439.078,
+    "text": "Thank you, Ms. Thompson. All right, our last committee is ACES, our Environmental Studies or Environmental Committee. And this time we have nominees from all of our board members. So we'll start with Dr. Acuff again.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "logistics_info",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 441.921,
+    "end": 453.654,
+    "text": "I'd like to nominate Joshua Grizzle as my appointee for the Jack  district. He has a background in energy, fossil fuels, and renewables, and I think he'd be a great addition.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "opinion"
+    ]
+  },
+  {
+    "start": 457.259,
+    "end": 487.232,
+    "text": "I am both pleased and proud to nominate Kate Acequith for this position. She has a BA in environmental studies, as well as a JD  And she has been involved with the Southern Environmental Law Center and now Appalachian Mountain Advocates. And I think she will be a great addition to this committee. Vice Chair Colson.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move",
+      "opinion",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 489.98,
+    "end": 505.379,
+    "text": " Yes, I am appointing Keith Bouvier to represent the Rio district. He has decades of experience working with UVA on environmental issues and education. So I'm excited to what he can bring to the committee.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "give_update",
+      "opinion"
+    ]
+  },
+  {
+    "start": 506.721,
+    "end": 507.021,
+    "text": "Ms. Lee.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 508.343,
+    "end": 518.856,
+    "text": "I'm nominating Rebecca Duff to the committee. She also has decades of experience and just a lot of enthusiasm around environmental work.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "opinion"
+    ]
+  },
+  {
+    "start": 520.118,
+    "end": 520.839,
+    "text": " Ms. Doberg.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 522.581,
+    "end": 538.404,
+    "text": "Mr. Chair, it is my pleasure to nominate Elliot Rothman, who is a environmental studies student at Western Admiral High School. And I think Elliot is going to do an outstanding job. And I'm honored to be able to nominate him.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 538.424,
+    "end": 539.886,
+    "text": "Thank you. Ms. Osborne.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 541.068,
+    "end": 554.579,
+    "text": "I nominate Ms. Christine Hirsch Putnam for the Scottsville District. She has made environmental work  her life's work. She's a retired middle school science teacher, native to the area.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "procedural_move",
+      "opinion"
+    ]
+  },
+  {
+    "start": 556.622,
+    "end": 576.906,
+    "text": "From Samuel Muller District, I nominate Greg Swanberg, who I'm also sure will be a great addition to that committee, along with my other two appointees too. I didn't say that about them, but they also would certainly fall into that category. So could we have a motion for the seven nominees for the ACES committee?",
+    "speaker": "grahampaige",
+    "tags": [
+      "request_action",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 577.966,
+    "end": 584.353,
+    "text": " I move that we approve the seven nominees for the Advisory Committee for Environmental Sustainability.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 586.516,
+    "end": 586.816,
+    "text": "Second.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 588.518,
+    "end": 588.819,
+    "text": "Second.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 589.78,
+    "end": 604.497,
+    "text": "All right, moved by Mr. Alcaro, seconded by Ms. Lee, that we confirm the seven nominees for the ACES Committee. Any discussion on that motion? If not, Ms. Thompson?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 606.383,
+    "end": 609.807,
+    "text": " Ms. Acuff? Yes. Mr. O'Carroll?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 610.367,
+    "end": 610.608,
+    "text": "Yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 611.769,
+    "end": 622.38,
+    "text": "Ms. Coulson? Yes. Ms. Lee? Yes. Mr. Oberg? Yes. Ms. Osborne? Yes. Chair Page?",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 623.001,
+    "end": 623.221,
+    "text": "Yes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 624.262,
+    "end": 624.723,
+    "text": "So moved.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 626.044,
+    "end": 705.095,
+    "text": "Thank you. We will now observe our moment of silence.  Thank you. According to state law, we are required to read this into all of our minutes. The minutes of this meeting should reflect that this meeting is being held electronically, pursuant to Virginia state law and Albemarle County ordinance, because the COVID-19 pandemic makes it impracticable and unsafe to assemble a quorum physically in a single location.  The meeting is being communicated to the public electronically through Zoom and streamed live on the Albemarle County Public Schools website. And public comment may be offered through the Zoom waiting room feature in accordance with the school board's protocol or by written submission. And now introducing our board members, Dr. Kate Acuff.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "logistics_info",
+      "procedural_move",
+      "cite_external_source"
+    ]
+  },
+  {
+    "start": 708.038,
+    "end": 711.102,
+    "text": "I'm Kate Acuff, representing the Jack Jewett District.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 712.224,
+    "end": 718.367,
+    "text": "Mr. John O. Elkar.  Donnell at Otero at Large. Ms. Katrina Coulson.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 720.07,
+    "end": 721.794,
+    "text": "Katrina Coulson, the Rye District.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 722.475,
+    "end": 723.337,
+    "text": "Ms. Judy Lee.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 724.018,
+    "end": 725.281,
+    "text": "Judy Lee, Rivanna District.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 726.243,
+    "end": 731.774,
+    "text": "Mr. Dave Oberg. Dave Oberg, Whitehall District. Ms. Ellen Osborne.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 732.435,
+    "end": 734.299,
+    "text": "Ellen Osborne, Scottsville District.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "public_addressing",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 735.055,
+    "end": 762.821,
+    "text": " and I'm Graham Page, Samuel Muller District, and our student representative for this term, Elizabeth Albaran. Elizabeth? Glad to have you with us again, Elizabeth. Hello. All right, we are now ready to entertain a motion to approve our agenda for tonight. I move that we approve the agenda.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 764.283,
+    "end": 764.623,
+    "text": "Second.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 765.363,
+    "end": 775.618,
+    "text": " Moved by Mr. Alcaro, seconded by Ms. Lee, that we approve tonight's agenda. Any discussion? All right, Ms. Thompson, could you please call the roll?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "vote_call",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 776.339,
+    "end": 781.947,
+    "text": "Yes, Ms. Acuff? Yes. Mr. Alcaro?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 782.388,
+    "end": 782.648,
+    "text": "Yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 783.349,
+    "end": 784.27,
+    "text": "Ms. Colson?",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "request_action"
+    ]
+  },
+  {
+    "start": 785.051,
+    "end": 786.193,
+    "text": "Yes.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 786.213,
+    "end": 789.378,
+    "text": "Ms. Lee? Yes. Mr. Oberg?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 791.1,
+    "end": 791.381,
+    "text": "Yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 792.442,
+    "end": 796.236,
+    "text": "Ms. Osborne? Yes.  Chair Page.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 796.256,
+    "end": 797.537,
+    "text": "Yes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 797.558,
+    "end": 798.659,
+    "text": "So moved.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 798.679,
+    "end": 805.325,
+    "text": "Thank you. We need to entertain a motion to approve tonight's consent agenda.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "request_action"
+    ]
+  },
+  {
+    "start": 806.406,
+    "end": 809.189,
+    "text": "I move that we approve tonight's consent agenda.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move",
+      "vote_call"
+    ]
+  },
+  {
+    "start": 812.532,
+    "end": 813.653,
+    "text": "Is there a second?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 813.673,
+    "end": 813.813,
+    "text": "Second.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 814.694,
+    "end": 831.958,
+    "text": "Okay, moved by Mr. Alcaro, second by Ms. Lee that we approve the consent agenda.  I would, I would, I would ask that we pull the for information only policies, and I am unable to pull it up the one I want to pull.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 833.441,
+    "end": 840.493,
+    "text": "Give me one second I'll tell you, it has to do with the, the character education policy.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "clarify"
+    ]
+  },
+  {
+    "start": 841.351,
+    "end": 844.557,
+    "text": " Is that under item 3.8 or 3.2?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 846.2,
+    "end": 852.912,
+    "text": "It's 3.8. It's for information purposes only, but I'd like to pull that just for the purpose of talking about it for a moment.",
+    "speaker": "Unknown",
+    "tags": [
+      "give_update",
+      "request_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 853.473,
+    "end": 853.593,
+    "text": "OK.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 856.338,
+    "end": 878.601,
+    "text": "All right, we've heard Mr.  Mr. Oberg asking to remove item 3.8 from the agenda. So with that item removed, we've heard the motion. Any other discussion or any other items to be removed? If not, Ms. Thompson, could you please call the roll?",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "follow_up_request",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 879.742,
+    "end": 884.067,
+    "text": "Ms. Acuff? Yes. Mr. Alcaro?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 886.729,
+    "end": 887.01,
+    "text": "Yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "agreeing"
+    ]
+  },
+  {
+    "start": 888.211,
+    "end": 889.092,
+    "text": "Ms. Colson?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 890.093,
+    "end": 890.393,
+    "text": "Yes.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 891.217,
+    "end": 895.563,
+    "text": " Miss Lee? Yes. Mr. Oberg?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 896.444,
+    "end": 896.665,
+    "text": "Yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 897.466,
+    "end": 900.751,
+    "text": "Miss Osborne? Yes. Chair Page?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 901.331,
+    "end": 902.553,
+    "text": "Yes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 902.573,
+    "end": 903.014,
+    "text": "So moved.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 903.735,
+    "end": 905.998,
+    "text": "Thank you. All right. Mr. Oberg?",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 908.522,
+    "end": 962.82,
+    "text": "I'd like to have staff take a look at  The rewriting of the character education policy. I think we can do a better job doing it and one of the things that I noted was the fact that, and this isn't entirely unintentional I accept that, but it specifically says that if there are  sexual photographs or portions regarding anti-bullying that a parent wants to have pulled out, that they can do that. But it limits it to that, and the policy addresses other things. So the implication of that is that in other aspects, if there are highly sexualized photographs or something, that it can't be reviewed. And I don't think that was the intention, but that is what it says, I think. So I think we should take another look at that.",
+    "speaker": "Unknown",
+    "tags": [
+      "request_action",
+      "policy_proposal",
+      "express_concern",
+      "clarify"
+    ]
+  },
+  {
+    "start": 967.002,
+    "end": 978.523,
+    "text": " Any other comment? Mr. Oberg, what policy number is that? You know, the little, you have it that you could look at the- Give me one second.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "public_addressing",
+      "request_action"
+    ]
+  },
+  {
+    "start": 978.543,
+    "end": 980.266,
+    "text": "It's I-G-A-I.",
+    "speaker": "Unknown",
+    "tags": [
+      "clarify"
+    ]
+  },
+  {
+    "start": 981.128,
+    "end": 986.617,
+    "text": "I'm trying to pick up three different things on my computer and I can't see them all.",
+    "speaker": "Unknown",
+    "tags": [
+      "express_concern",
+      "request_action"
+    ]
+  },
+  {
+    "start": 986.638,
+    "end": 1000.755,
+    "text": "Okay.  Any other discussions or any other comments on Mr. Oberg's objection to policy, or correction rather, or addition that he'd like to have to policy IGAI?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 1004.498,
+    "end": 1024.837,
+    "text": " So just as a point of clarification, Mr. Oberg, the update that was there is a code-based update. That doesn't mean we can't change the language of it to expand the scope that you're talking about, but I just wanted to provide a bit of clarification that there were some code-based issues.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "clarify",
+      "reassure",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1025.418,
+    "end": 1028.661,
+    "text": "I get that, Dr. McLaughlin. I'd just like us to take another look at it.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "request_action",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 1029.001,
+    "end": 1030.843,
+    "text": "Absolutely. OK.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 1033.321,
+    "end": 1035.985,
+    "text": " All right, so, nope.",
+    "speaker": "grahampaige",
+    "tags": [
+      "disagreeing"
+    ]
+  },
+  {
+    "start": 1036.005,
+    "end": 1107.917,
+    "text": "I had a comment since we pulled that item. Okay. Anyway, I was looking at the KFB one, and I think something that might be helpful going forward, not that it needs to be a standard practice, is some explanation sometimes of why we make changes. Because like, for example, on the KFB page two, it formally said, no questionnaire or survey requesting that students provide sexual information shall be administered to any student in kindergartens grade through six, and unless required,  by federal or state law, any questionnaire survey that does this should not disclose personally identifiable information. And like, we took that out, you know, we took out that thing. You know, it's just like, sometimes you wonder why certain changes are being made. And I know there's thoughtful reasons behind these changes. So I don't know if there's ever like a way to see the document with like comments on the side that kind of explain like, this is why.  We're doing this to comply with new law or because we moving it to another section or, you know, I don't know, just something when there's when there's a lot of changes happening to policy like this KFB one has a lot of changes. A lot of things added a lot of things struck through. I think it might just be helpful in the future.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "request_action",
+      "follow_up_request",
+      "policy_proposal",
+      "express_concern",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1108.719,
+    "end": 1129.621,
+    "text": "Okay. All right. So if there's no objection.  By consensus, can we agree with Mr. Oberg's proposal to have staff look at policy IGAI and bring it back to us again? Yes. Okay. By consensus, you can agree to that?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "vote_call",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1130.662,
+    "end": 1130.783,
+    "text": "Yes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1132.044,
+    "end": 1153.371,
+    "text": "Okay. All right, so staff will look at policy IGAI and bring it back to us again in the next meeting consent agenda.  We are now ready to move to our spotlight on education. And our student rep, Ms. Albaran is going to introduce this for us.",
+    "speaker": "grahampaige",
+    "tags": [
+      "request_action",
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 1156.634,
+    "end": 1315.82,
+    "text": "Thank you, Mr. Page. It is an honor to talk to our board, especially during School Board Appreciation Month. It was in 1995 that the National School Board Association declared the first such occasion. And I only can say what took so long.  I think it was President John F. Kennedy who said, our progress as a nation can be no swifter than our progress in education. And here in Albemarle County, our progress has been in good hands. You have made so many impactful policies and programs possible, starting with where I am here tonight, a student representative on the school board. As students, we are grateful that in your hands  You have established a direct link between us. We are deeply appreciative for your commitment to all families that our educators and support staff will know every student. Tonight we are going to hear a little bit about how  You have made a difference in the lives of our students. The addition of social and emotional counselors in every single one of our schools. If our schools are to fuel the progress of our nation, every student must be ready to learn at their full potential. You have hope to ensure that this will help happen for every student in every school. At no time have you been called upon  to make more important decisions than you have been during this two-year pandemic.  You have kept us safe and you have created learning environments that meet the theme this year of School Board Appreciation Month in Virginia, building the future of public education. We see that work going on in the classrooms, hallways, labs, libraries, and in the portfolios of every student. And it starts right here in these meetings and through your actions. You're not just building the future of public education,  You are leading us to a better future, a more inclusive one, a more exciting, more rewarding one. And it starts with supporting the most basic and important needs of students, their social and emotional well-being, their confidence, their readiness to learn.  On this note, it is my privilege to introduce Miles Nelson from our Student Services Department, who will introduce you to some of the remarkable professionals you have put into our schools. Mr. Nelson.",
+    "speaker": "elizabethalbarran",
+    "tags": [
+      "public_addressing",
+      "acknowledge",
+      "reassure"
+    ]
+  },
+  {
+    "start": 1317.242,
+    "end": 1453.252,
+    "text": "Thank you, Elizabeth, for that wonderful introduction.  I'm very excited to be here tonight, and as Elizabeth said, February is School Board Appreciation Month, and I feel very honored to be here before you tonight to say thank you for everything that you do. And as we talk about appreciation, I would like to say thank you for the wisdom the School Board has shown in supporting children's mental health. Recently, the Surgeon General, in a joint statement with the American Academy of Pediatrics, the American Academy of Child and Adolescent  psychiatry, and the Children's Hospital Association have all recently issued advisories for the current crisis of students' mental health. This year, as Elizabeth has stated, we have added the support of our SEL counselors to our schools to extend the support of school-based mental health services we can provide children. Tonight, I have with me a few of them, our SEL counselors that have been lifting up this work and supporting children's mental health. I'm very excited to introduce Juliana Vining from Curz\u00e9 Elementary,  Summer Popolo from Albemarle, and Bree Lundgren from Monticello. Bree has a background in youth diversion, individual and family counseling, and most recently as a mental health crisis evaluator in the emergency room at UVA Hospital. She's a very qualified school-based mental health professional that will be able to give an example of how our SEL counselors can and have supported children in accessing mental health services within our schools.  Very briefly, I would like to talk about our schools and national trends and children's mental health. So as we all know, schools tend to be the center for our communities and we want to uplift our children to the best of our ability. With that being said, children who have a diagnosable mental health disorder.  often do not receive mental health services. So much so that 80% of children with diagnosable mental health disorders do not receive mental health services. However, I would like to highlight that out of 20% of children that are receiving mental health services, that 70 to 80% of the children's first entry into mental health services are within schools with individuals just like Juliana, Summer, and Bri.  At this time, I would like to turn it over to Brie Lundgren to give an example of how many of our SEL counselors are supporting the mental health of our children in Albemarle County Public Schools.",
+    "speaker": "milesnelson",
+    "tags": [
+      "give_update",
+      "cite_external_source",
+      "acknowledge",
+      "defer_to_expert",
+      "express_concern",
+      "prioritization",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1456.276,
+    "end": 1675.823,
+    "text": "Hi, good evening. I'm Brie and thanks for having me tonight. Like Miles said, I came to Monticello as an LPC resident with a background in youth diversion, individual and family counseling, and most recently as a  mental health crisis at the ER at UVA hospital. A major motivator for me seeking this position was due to the increasing number of youth with mental health crises that I assisted in the ER. The CARES grant provided a lot of leeway for each SEL counselor to determine our own methodologies  to meet the specific needs of the individual schools we are in. At MHS, it has allowed me to have an open door policy that has meant me having over 600 interactions already this school year, including parents and teachers as well as students. It is amazing how sometimes just a few minutes of listening to someone  Acknowledging and processing their emotions or mediating a miscommunication between students can be all that it takes to keep things running smoothly. I have one story that I would like to share with you today about a student at Monticello I will call Mary.  Mary is not someone most people would ever suspect is struggling. In fact, she is one of the ones that teachers rarely worry about because she is so on the ball. Straight A's, accepted by four universities, well-spoken, well-mannered, and she comes from a solid home with loving parents and good resources. Three months ago, Mary was referred to me by her school counselor who felt that something more was going on with the student.  Over regular weekly meetings, Mary and I built a relationship based on trust. She was able to confide her anxiety and depression issues to me, and we were working through them slowly. Two weeks ago, Mary came to me and confided that she was going to kill herself.  I knew her and I knew she was serious and I immediately brought her parents in and I assisted them with the necessary protocols and Mary was admitted and treated and she's now back at school this week. I was able to act as the coordinator between the parents, the teachers, her counselors and her doctors to develop an action plan to make sure she stays in a good place and continues the  positive trajectory she is on. She knows I'm here for her and has stated that knowing I am there in the school if she stumbles is partly what gives her the strength to make it through the school day. And while this is an extreme case, she is but one of four suicide referrals that our team has processed this year.  We live in very scary times and the need for mental health professionals in the school has never been greater. Mary is moving forward and I truly believe she will get through this and be fine. I'm telling you her story with not only the full permission of her and her parents, but with their encouragement and endorsement for all the SEL counselors do.  Having me at the school is the security Mary needs to continue to ride herself, and it gives me immense satisfaction to know I am making a real difference in hers and other students' lives every day. While this is an extreme example to showcase, it is important to note that by being there before it gets this far is how we can prevent these situations in the first place. Thank you for your time.",
+    "speaker": "blundgren",
+    "tags": [
+      "give_update",
+      "express_concern",
+      "reassure",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1697.437,
+    "end": 1698.898,
+    "text": " May I ask a question?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 1698.918,
+    "end": 1709.309,
+    "text": "Yeah, Mr. Nelson, are you going to have? OK. Are you going to introduce the next person? I'm sorry.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "request_action"
+    ]
+  },
+  {
+    "start": 1709.329,
+    "end": 1726.245,
+    "text": "So based on our time, we were having just one example for tonight. I know that some of the others have information prepared. They would like to speak, but I don't want to put them on the spot either. OK.",
+    "speaker": "milesnelson",
+    "tags": [
+      "logistics_info",
+      "acknowledge",
+      "reassure"
+    ]
+  },
+  {
+    "start": 1726.512,
+    "end": 1728.995,
+    "text": " Okay, questions or comments, Ms. Dr. Aka?",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "request_action"
+    ]
+  },
+  {
+    "start": 1730.577,
+    "end": 1752.081,
+    "text": "I would love to hear the others, but I was struck by the fact that Ms. Lundgren had already seen, had 600 contacts over this year so far, and I was wondering if the other counselors had seen similar numbers of contacts.",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 1754.626,
+    "end": 1777.427,
+    "text": " I'm happy to speak to that as a social-emotional learning counselor at an elementary school. I'm over at Crozet Elementary this school year, and I have recorded over 625 interactions in the first semester of school alone. So we're definitely seeing high numbers, even at the elementary level as well, and the impact.",
+    "speaker": "juliannahvining",
+    "tags": [
+      "defer_to_expert",
+      "give_update",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 1779.533,
+    "end": 1805.49,
+    "text": " I would like to just add that this isn't just meeting with students, it's also contacting parents, it's bringing teachers in, it's meeting the staff within the school. We do so many things, that's why it was really hard to try to condense all these cool things into so few minutes.",
+    "speaker": "blundgren",
+    "tags": [
+      "clarify",
+      "give_update"
+    ]
+  },
+  {
+    "start": 1806.668,
+    "end": 1836.203,
+    "text": " Chair Page, this is such an important topic and one that we have devoted quite a bit of our resources toward. And it's certainly an issue that many of our parents have raised in letters to the school board. So if we could yield a bit more time, I think it's very important. And maybe Ms. Guadalupe, I'm sorry, I've destroyed your name, has something to add as well.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "prioritization",
+      "give_update",
+      "request_action",
+      "cite_external_source"
+    ]
+  },
+  {
+    "start": 1837.212,
+    "end": 1955.166,
+    "text": " Yeah. I absolutely agree. And I think part of what struck me, I actually had not had the opportunity to begin in the beginning of the school year the way that my colleagues did. I was hired late to Albemarle High School. So I think my numbers don't really reflect the same that theirs do because I wasn't there till November. But I wanted to share that.  Part of what struck me starting with the school is that there was so much impact on the school and the adults in the building as well. And I think that we all know that this mental health crisis is going on and it affects our school systems, but I didn't realize until I heard dedicated educators who are fully aware that they were at the end of their rope. So we were,  Really trying to support not only the students but also the teachers and so that they wouldn't have that same experience where they say this. This can't go on. I can't be a part of the school system anymore because without them our school system can't exist. And so not only supporting those children in the classroom helps the staff,  but also making sure that they have some ways to connect with each other and with us as a big part of what I think is part of the program's possibilities.  I know that you all take that into consideration so that you can have these thriving school systems and the way that it serves the whole population of people that are part of our school systems. So thank you so much for your dedication to that.",
+    "speaker": "Unknown",
+    "tags": [
+      "agreeing",
+      "give_update",
+      "express_concern",
+      "reassure",
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1961.232,
+    "end": 1970.137,
+    "text": "Thank you. Are there any other comments or questions?  Summer, how did you pronounce your last name?",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 1971.74,
+    "end": 1975.387,
+    "text": "My last name is Popolo. It's like Pope, like the Pope.",
+    "speaker": "Unknown",
+    "tags": [
+      "clarify"
+    ]
+  },
+  {
+    "start": 1975.968,
+    "end": 2012.108,
+    "text": "Okay, Popolo. Okay, thank you. Are there any other questions for Ms. Popolo, Ms. Banning, or Ms. Summer, Ms. Lundgren? Any questions for any of the three or Mr. Nelson?  We certainly appreciate your work. And maybe we'll try to arrange a time when you can come back to us and give us more information because this is important to us and important to the system as a whole. So we really would like to hear more about your work.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "acknowledge",
+      "request_action",
+      "follow_up_request",
+      "prioritization",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2013.691,
+    "end": 2019.801,
+    "text": " I could go on all night, but you have other things to talk about. So thanks for having us.",
+    "speaker": "blundgren",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2019.922,
+    "end": 2037.792,
+    "text": "You know, for your story about Maria too, it's really moving and really touching. So thanks so much. Ms. Popolo, out of the, you didn't give us your numbers, but out of your numbers, how many of those would be working with teachers or would you be able to give us that breakdown?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2038.7,
+    "end": 2081.781,
+    "text": " I I have those numbers, but I didn't work them up because I I wasn't. We had kind of planned are the things that we wanted to say so I I do run some teacher groups so I meet with approximately 10 teachers and then I've I've sent out another email to offer further connection so so that's 10 teachers on a weekly basis just through groups and then I also do individual  check-ins with teachers to help out. So I've tried to streamline the time spent and so that we're kind of providing as much service as possible for as many people as possible.",
+    "speaker": "Unknown",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "hedge",
+      "reassure"
+    ]
+  },
+  {
+    "start": 2082.782,
+    "end": 2096.601,
+    "text": "Okay. And Mr. Page, we would be more than happy to also follow up too. They have done a great job of preparing and we also have letters from students, families that we can share at a later time too. Okay.",
+    "speaker": "milesnelson",
+    "tags": [
+      "follow_up_request",
+      "acknowledge",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 2096.682,
+    "end": 2135.831,
+    "text": " We'll certainly work on that then and try to get you back as soon as possible. But before they leave, are there any other questions for the group? If not, thank you all again for coming up, and we will be calling you back to work with us again. So thanks so much. And thank you, Elizabeth, for introducing this segment of our meeting tonight.  Our next item on the agenda, announcements. Dr. Haas, I think has an announcement to make at this point.",
+    "speaker": "grahampaige",
+    "tags": [
+      "give_update",
+      "reassure",
+      "ask_question",
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2136.833,
+    "end": 2368.405,
+    "text": "Thank you, Mr. Page. Just a couple of announcements. First, I want to really thank Myles and Bree, Juliana and Summer for being here tonight to share the story of our social-emotional counselors. You're doing wonderful work and it's highly impactful.  and we are so glad that you're out in schools working with our students and families and with our staff. Thank you. I wanna thank KTEC director, Stephanie Carter, the lab school principal, Chad Ratliff, Red Hill Elementary School, Nancy McCullen, Walton Middle School principal, Josh Walton, and Monticello High School principal, Rick Verhoevac for coming to the meeting tonight. If y'all wanna turn on your cameras,  briefly just so we can all say hi to you and thank you all for the outstanding work that you are doing, keeping our schools moving forward. We really appreciate it and we're glad you can join us tonight. I did get an opportunity to get out and visit Albemarle High School on Monday. I had a great visit with Mr. Bonham and was able to visit several classrooms. One of the things he told me at the outset of the visit was based on the,  really challenging attendance numbers, some instability at the school with students and some other issues at the beginning of the year, the staff rallied together  and really reconfigured their schedule so that they have their intervention period at the beginning of the day, creating what probably a lot of us would remember as a homeroom period. The staff all pitched in, so everybody has a homeroom, and so they don't have more than 17 students each so that they can build relationships. Students got to pick some teachers they wanted to be with.  or to have a say in the teacher they wanted to be with. And the teacher also had the opportunity to request students. They hand-scheduled the students. And so what they're looking to see is reduced tardiness to the academic classes because students come in for their homeroom first. They're also looking for improved grades because students will be able to go from one teacher to another when they need extra time and support. And for our staff,  what we're doing is respecting their time. And whenever we ask educators to provide extra time and support, it needs to be during the workday so that they can get that done. But I really salute Albemarle High School. I know that this kind of creativity is going on in all of our schools as we get to mid-year, and principals, teachers, and counselors, educators in the building are reviewing your data, your academic data,  and you're making decisions on changes to adapt. And that's especially important right now with what we're dealing with. I had an invitation to visit the chess club at Brownsville Elementary School on Tuesday and had a great time with that visit. And of course we had our annual spelling bee on Tuesday and Wednesday night at Albemarle High School. And I just wanna note the winners, the elementary school winner,  was Layla Theed from Mountain View Elementary School. And the middle school winner was Henry Matthews from Henley Middle School. So I want to congratulate them on their outstanding work. Thank you. So yeah, they did a great job. It was a great event. And so I'll turn the announcements back over to the board. And we do have some soup to business from Dr. McLaughlin when we get a chance.  Okay.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "give_update",
+      "acknowledge",
+      "request_action",
+      "logistics_info",
+      "public_addressing",
+      "reassure"
+    ]
+  },
+  {
+    "start": 2368.425,
+    "end": 2386.564,
+    "text": "Thank you, Dr. Haas. And I was able to visit the spelling bee last night, and I was very, very impressed by our middle school spellers. All right, next school board and superintendent of business, Dr. McLaughlin.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "opinion",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2388.704,
+    "end": 2519.168,
+    "text": " Good evening again board members Pat McLaughlin chief of strategic planning for the school division, and Dr. Haas asked me to take just a minute to give you an update on plans we have to make some calendar adjustments, both to recoup some of these inclement weather days that we've had, and also to look to the future in case we have any more.  So tomorrow, we'll be making an announcement to our community that our workday on Friday, May 20 will now be a full day of instruction for students. We're also going to let the community know tomorrow that if we have another full day closure, that our scheduled workday on March 18 will become a full instructional day for students. In addition to that, as we've been brainstorming how we might make up time should we get more significant weather,  Here we've been developing plans for how we might use virtual learning. For extended school closures and if we do have closures that will last more than a day or two we're developing plans for at home virtual instruction for students. Ideally, this would be something that we have a bit of forewarning about so that we can ensure that all students bring their devices home with them prior to a weather event, hopefully, if something big is coming we.  It doesn't just surprise us the night before but we've got a couple of days to plan for that. And when making a decision about virtual instruction staff would assess several things including the local conditions as they relate to power in folks houses internet access in our ability to have sent those devices home.  with students and if all those conditions are in place that would allow for a virtual learning day, then we may begin that on day two or three of an extended closure. So we've also been developing a website with information on what a virtual day might look like.  and how students and families can prepare for that possibility. And we'll be sharing that site in tomorrow's communication as well. So hopefully with a nice 60 degree day that we had today, we are gonna be out of the woods with some of our weather closures, but it'll be good to kind of have this in our back pocket in case we need to use those either this year or into the future. So I just wanted to bring you up to speed on where we were with that. And that announcement will go out to the community tomorrow.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "reassure",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2520.262,
+    "end": 2558.633,
+    "text": " Thank you, Dr. McLaughlin. Are there any questions from the board related to his announcement? If not, thank you. And also I'd like to extend a welcome to Ms. Carter, Mr. Radcliffe, Ms. McCullough, Mr. Walton, Mr. Verhoeven for being present with us tonight. We always appreciate having our principals with us during this meeting. So thank you all for your presence.  We are now ready for our public comment and Vice Chair Carlson.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "acknowledge",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2560.636,
+    "end": 2683.916,
+    "text": "Yep, so I will start off by reading the public comment guidelines. The school board invites and actively seeks the public's input in the matters relevant to school board governance and provides for time during its business meetings to hear from Alamo County residents and community members.  The school board wishes to maintain appropriate meeting decorum so that persons can observe and hear the proceedings of the school board and that attendees online are not subject to inappropriate language and conduct. As authorized by ordinance, the County of Alamaro School Board is holding its meetings electronically during the COVID-19 pandemic.  The school board is nevertheless committed to encouraging public comment despite its need to meet on a virtual basis. And for this reason, there will be two ways for the public to provide comment. First, as always, reading comments can be submitted to the school board clerk prior to the start of the meeting and will be given to all school board members for review. You can also email them directly to school board members individually or as a group. Second, as long as the school board holds its meetings electronically, members of the public wishing to provide public comment during the meeting may sign up online by 2 p.m. the day of the meeting.  So tonight we have 23 speakers currently with one just cross that so 22 speakers so speakers time has been limited from three minutes to two minutes. I'm going to announce three speakers at a time, so you know if you're up.  And once it's your turn, you can begin. I time it on my phone. I try to hold up my finger if you have one minute left, but please be cognizant of your timing so that you know when it's up. Speakers during the meeting are those submitting writing comments should state their name and address our magisterial district and speakers should limit comments to those matters that are relevant to school board governance or the operations of the school division.  Although the school board does not respond to comments made during the public comment period, school board members may address comments at the end of the meeting under the agenda for other business. So with that out of the way, the first three speakers that I have listed here are Tracy Betsworth, Kristen Smith, and Kirk Bowers. So Tracy.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "public_addressing",
+      "logistics_info",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2684.817,
+    "end": 2685.859,
+    "text": "Yep.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 2685.879,
+    "end": 2688.863,
+    "text": "Awesome. If you're ready.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2689.552,
+    "end": 2838.354,
+    "text": " Yep, I'm ready to go. Um, so my name is Tracy Buttsworth. I'm in the Ravana district and I have a fifth, third and first grader at Stone Robinson and I wanted to speak tonight to address some of my concerns for the ACPS middle school changes. My son is slated to attend Burley in the fall and as parents, we've done some of our due diligence and several concerns have popped up.  One, the de-leveling of English classes starting this fall, the de-leveling of math. Now only one compacted level of math is offered instead of honors like previous years. And three, the implementation of alternative discipline processes for students. It's my understanding that each of these changes has been outlined and implemented in conjunction with the current anti-racism policy.  Your vision, mission, and value statements in your strategic plan states, we will seek to build relationships with families and communities to ensure that every student succeeds. In addition, objection one states, we will provide every student with the level of support necessary to thrive. The definition of equity is the goals of equity must be able to create and allow all students or all people to read their full potential.  If you haven't noticed I'm emphasizing every and all you and as a board have responsibilities to all students to ensure all students are given an opportunity to reach their full potential. No students should be denied any and all opportunity to do that.  I ask you by de-leveling classes, are you truly providing all students support to thrive? By providing alternative discipline for students, has it helped or has it led to additional chaos in the middle school levels? My son hears stories from Burley friends that teachers spend more time trying to get students to actually attend class and discipline than teaching. Lack of structure often leads to chaos. We have seen many families leave ACPS. Ford, I need to ask yourself why.  Not only incoming sixth graders, but also current sixth and seventh grade families are making decisions to leave instead of finishing their current school year. We personally know 25 to 30 students that left ACPS are planning to this year. I asked the board to take a pause, ask for you ACPS to reevaluate the constant and relentless push forward to make all these changes during the chaos of the last couple of years during COVID.  There has to be a better way that all and every student can have their opportunity to thrive.",
+    "speaker": "tracybetsworth",
+    "tags": [
+      "express_concern",
+      "public_addressing",
+      "request_action",
+      "opinion",
+      "ask_question",
+      "cite_external_source"
+    ]
+  },
+  {
+    "start": 2838.894,
+    "end": 2839.315,
+    "text": "Thank you.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2839.675,
+    "end": 2840.176,
+    "text": "Thank you.",
+    "speaker": "tracybetsworth",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2840.496,
+    "end": 2865.58,
+    "text": "Thank you for providing those comments. The next speaker will be Kristen Smith. Ms. Smith, I'm not sure if you're on. I do not see her right now or hear her, so I will come back. After her is Kirk Bowers.  Mr. Bowers.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2867.922,
+    "end": 3012.958,
+    "text": "Yes, can you hear me? I can. OK, thank you. Good evening, everybody. It's great to see you. Thank you for having me this evening. My name is Kirk Bowers. I have lived and raised my family and paid taxes in Albemarle County, Bravada District for 34 years, almost half my life. We have set our son.  to the ACP, Baltimore County Public School System. He went to the school system for 12 years.  And we had a great experience. It was excellent. And I want to extend my appreciation to the board for all the great work that they have done over the years. And I want to see that continue. We are dependent on our school systems to enable our citizens to grow and expand their potential and knowledge.  As the ACA, the Elmore County School System, has an excellent school system, I really just extend my sincere appreciation. I deeply support opposition to Governor Youngkin's policy that ends mask wearing in public schools. This is obviously a political ploy to keep campaign promises.  There is no scientific verification that justifies executive orders. I'm also support the courts dismissing the lawsuit against the school board that claims  indoctrination. It is shameful, I think, that this type of behavior is occurring in our school system. Nobody should be restricted from learning anything. If they don't like some of the things that are taught, maybe they can opt out.  And with that, again, my sincere appreciation to the school board. You all are doing a great job. I have seen this, watched this board for many, many years, and I hope you will continue to do great work. Thank you so much. Thank you so much for those comments, Mr. Bowers.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "opinion",
+      "express_concern",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3014.841,
+    "end": 3027.842,
+    "text": "The next three speakers will be Mo Al-Darsani, Simon Davison, and Christopher Seaman.  So Mo, Al, Darsani, I did see. Oh, I see.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "logistics_info",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3031.491,
+    "end": 3031.692,
+    "text": "Hello.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3032.434,
+    "end": 3155.092,
+    "text": "Hi. You tell me when to start. You can start when you're ready. OK.  Good evening. I'm an active duty military member stationed in Charlottesville. My daughter relies on school bus transportation to get to Waltham Middle School. The county has failed to provide reliable transportation. Her bus consistently is late, sometimes 30 minutes, an hour or longer. Sometimes it just doesn't show. Sometimes we get notice, other times not. Even when we do get notice, it typically comes in the early morning hours before sunrise, too late for us to plan for it.  Each time this happens, we have to adjust everything just to get her to school on time. I suspect there are many parents who are forced to choose between letting their children sit out in the cold rain or snow or calling in late for work. For low wage hourly workers to choose the former could be a choice between buying food or driving to school. Considering how often this happens, it could be a choice between keeping a job or driving them. The issue hurts families, it's frankly unacceptable.  If I showed up late to work as often as these buses are delayed, I wouldn't have a job, at least not for very long. I am not doubting the good intentions of anyone. I have no reason to do that. However, the results indicate failure. Doing my best in failing is still failure. Holding classes with kids not in the class because the buses don't show up, that's failure. Failure at the most basics.  No one would accept this of us. Your own policies do clearly identify late arrivals as disruptive to the educational process, linking them to lower reading skills, subpar math achievement, class failure, and dropout rates. You even have truancy laws to address missing classes. We understand things happen. We understand COVID. However, this isn't the early stages of the pandemic. Good leaders find ways to adapt and fix problems. They don't make excuses. They just make it happen.  Please don't dismiss this as a general complaint and talk about extraordinary times. Please let us know exactly what is happening and what exactly is being done to fix it. I propose that be done by the next meeting. We're more than halfway through the school year. Anything longer just frankly seems unreasonable. Thanks.",
+    "speaker": "moealdarsani",
+    "tags": [
+      "express_concern",
+      "request_action",
+      "follow_up_request",
+      "public_addressing",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 3157.395,
+    "end": 3182.47,
+    "text": "Thank you for those comments, Mr. Aldasani. I tried to write it the way that you had pronounced it. Sorry.  The next speaker will be Simon Davidson. Mr. Davidson, if you're on. I do not see his name, though, on the list.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "follow_up_request",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 3183.592,
+    "end": 3184.053,
+    "text": "Yeah, I'm here.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3184.694,
+    "end": 3184.814,
+    "text": "Oh.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3187.598,
+    "end": 3188.961,
+    "text": "Sorry. It's all right.",
+    "speaker": "Unknown",
+    "tags": [
+      "reassure",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3189.401,
+    "end": 3190.523,
+    "text": "When you're ready, you can go.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3191.431,
+    "end": 3297.35,
+    "text": " Okay, thanks. First, I just want to thank you all for all that you do. I know you don't hear enough, but I greatly appreciate particularly in the difficult time of COVID and also the challenges you've faced recently with tackling the really serious problem of the fact that some groups of children are not succeeding as well as others.  I really applaud your efforts in this, but I know that sometimes solutions can have consequences that cause more harm than good. And one pressing example is the unleveling of classes in middle school. Next year, unless the board steps in to halt it, unleveling will extend to language arts classes, which means children who are still learning to read will be in the same class as children reading at college levels or beyond.  Many teachers and parents are really concerned that this change will harm all children but unfortunately ACPS made it without parent or teacher engagement. So we would ask the board to halt plans to allow time for that necessary parent and teacher engagement and a full assessment of potential harm to children. More broadly parents see this as the latest in a series of many steps to deprive advanced learners of the education that they need.  This has happened in elementary schools and also now in high schools where there are actually limits on the amount of advanced learning students may receive. When we raise these issues with administrators and teachers, they acknowledge that ACPS may no longer be able to meet the educational needs of advanced learners as they had in the past. As a result, advanced learners are fleeing public schools in huge numbers.  I don't want that to continue, but I fear it will unless the board steps in to ensure that ACPS provide all students the education they need. Thanks for your time.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "express_concern",
+      "request_action",
+      "policy_proposal",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3302.96,
+    "end": 3322.917,
+    "text": "Thank you for those comments, Mr. Davison. You ended early, so I wasn't ready to stop my timer. One second.  The next speaker will be Christopher Seaman, and after that will be Kellen Squire, Tim Hickey, and Amy Keenan-Amago.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3327.481,
+    "end": 3447.034,
+    "text": "Sorry about that. Good evening. Thank you very much, members of the school board and Dr. Haas, for the opportunity to comment tonight, and more generally, for your service to our community. I'm grateful for it. My name is Chris Seaman. I'm in the Whitehall District, and I'm the parent of two boys, eight and five, who are enrolled at Brownsville Elementary.  I wanted to speak tonight in strong support of continuing important COVID mitigation measures, most notably universal indoor masking in our schools. The overwhelming weight of medical evidence supports that universal indoor masking in schools is safe and effective, which is why the Centers for Disease Control, the American Academy of Pediatricians, and doctors in our local communities support its continuation. For example, the University of Michigan released a study this fall that virus spread was 62% higher in school districts without mask rules.  And a recent study released just two weeks ago by the CDC from California reaffirmed this finding. The consistent wearers of cloth masks in public settings had a 56% lower odds of contracting COVID, with even better results for surgical and KN94 and N95 masks. On Tuesday, CDC Director Rochelle Walensky reinforced that now is not the moment to drop mask mandates in schools. COVID infection levels remain at high levels at high rates in Virginia.  30,000 cases were reported last week alone, the Virginia Department of Health, and likely thousands more were detected by home testing and went unreported. There's currently a 25% case positivity rate at UVA Hospital. And we are still reporting dozens of positive tests in our school. Almost half of children between five and 11 are not fully vaccinated yet in Alamaro County. This is not the opportunity, this is not the time to let our guard down.  I am deeply grateful for all the measures that teachers, principals, administrators and staff have taken and will continue to take to keep our kids safe in school and continue to go in person. Thank you so much. Thank you for those comments, Mr. Seaman, and my apologies, I realized I wasn't muted while you were speaking, so I heard you clearly then.",
+    "speaker": "chrisseaman",
+    "tags": [
+      "policy_proposal",
+      "request_action",
+      "express_concern",
+      "cite_external_source",
+      "opinion",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3447.354,
+    "end": 3453.621,
+    "text": "But my apologies for that. The next speaker will be Helen Squire.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3455.575,
+    "end": 3578.481,
+    "text": " Thank you, ma'am. And thank you to the school board. I appreciate having the time to chat with you tonight. I just wanted to give a really sincere thanks to all the hard work that you guys have done on the school board, Dr. Haas, you too, all of the teachers, educators, administrators at the Amarillo County Public School District. It's been a tough couple years. I can tell you that from, especially from the emergency department, you know, Amarillo County, our healthcare system doesn't just take care of us. You know, we've got a  A lot of folks in our, I think, like the Thomas Jefferson Health District is what, almost 10% of the state by area, and like three, 400,000 people all said and done. So, you know, it's not just here in Amarillo County that our folks have been sacrificing for, it's all those people. And, you know, things are better than they were in January when we had to close down all of our elective surgeries. Both major hospitals here in Charlottesville had to shut everyone down for at least two weeks.  which was probably every hospital in the Commonwealth had to do that for a while there in January. And we are coming down from that, but things are still not great. I think last I saw this morning, the university still had 76 COVID patients out of 650 beds, which is still pretty aggressive numbers. Like I said, that's half of what it was two weeks ago, but we got a ways to go yet. I recognize that the General Assembly in Richmond is doing everything it can to sort of take the power  out of your hands to stand up for the folks here. I don't know how that's going to come out to be. But I just wanted to take the opportunity to say thank you guys very much. The sacrifices that you have made, that parents, teachers, the working Virginia families have made here have made a difference to those of us who've been going in fighting this pandemic for two years now. So I really can't, I mean,  I cannot overstate how much those sacrifices have absolutely made a difference in what we do. So I just want to take the opportunity to say that. Thanks, guys. Have a great day.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "give_update",
+      "express_concern",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3581.685,
+    "end": 3597.888,
+    "text": "Thank you so much for those comments, Mr. Squire. So the next speaker.  is going to be Tim Hickey, and then that will be followed by Amy Kinanamago, Amanda Alger, and Paula Gately.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3599.95,
+    "end": 3600.751,
+    "text": "So Mr. Hickey.",
+    "speaker": "elizabethalbarran",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3602.413,
+    "end": 3716.783,
+    "text": "Yeah. Good evening, members of the board, Dr. Haas, and everybody on the call. My name is Tim Hickey. I'm the parent of two kids in the Samuel Miller District. I was also a teacher for 11 of my 17 years at Monticello High School. I just wanted to start by inviting everybody who is watching tonight to join me in thanking  All the people who work in our schools, you know my kids love going to school in Albemarle county so whatever your comments be might be. I encourage you to join me in thanking the bus drivers and the nutritional staff, the teachers aids teachers counselors custodians administrators for their Tyler's work, thank you. I wanted to highlight three things that I appreciate about the school system, you know I think you guys do a great job with transparency.  Just last night I got yet another survey from one of my kids teachers asking for input on how things are going, we have boxes of stuff in our basement from our kids of work and papers and projects highlighting all the.  Creativity critical thinking communication skills that the educators instill in them. The second thing I appreciate is the autonomy and professionalism, with which you treat the staff, Dr has mentioned respecting the teachers time during the day, for instance, you know we don't want a bland scripted.  Robots in our classrooms, we need educators, to be able to have the flexibility to adapt and evolve and differentiate instruction and we thank you for. Doing that, finally, the health and safety of our kids you know you all create an inclusive safe respectful environment.  The work you highlighted by Joanna Summer and Bree tonight is a great example of how you care for our kids. And I appreciate all the sensible decisions that you have made throughout the pandemic and following the guidance of our pediatricians. I wanted to lift up the comments of Chris Seaman as well and urge you to continue to do that. So thank you and please know this community has your back.",
+    "speaker": "timhickey",
+    "tags": [
+      "public_addressing",
+      "opinion",
+      "acknowledge",
+      "reassure",
+      "agreeing",
+      "request_action"
+    ]
+  },
+  {
+    "start": 3720.847,
+    "end": 3727.317,
+    "text": "Thank you for those comments, Mr. Icke.  The next speaker is going to be Amy Keenan-Amago.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3731.515,
+    "end": 3818.222,
+    "text": " Good evening, and thank you for having me. My name is Amy Keenan-Amago and I live in the Whitehall District. I have one son who attends Henley and one who is at Western. I'm speaking tonight to express my gratitude for ACPS teachers, staff, administrators, and board members for keeping our school community safe throughout the pandemic and during this newest phase of the Omicron virus.  It is because of your bold and decisive research-based actions, such as mask wearing, that our students and ACPS staff have been protected and we have prevented further community spread. It is thanks to ACPS board members and teachers that we may indeed begin to slowly and thoughtfully loosen some of our COVID mitigation strategies, as supported by the CDC, the WHO, and the American Academy of Pediatrics.  But until then, I just want to express my deep gratitude. My family and I are so grateful for all you've done and continue to do to keep us all safe so our students may learn and thrive. I have to say that since both my children went back to in-person learning, this year has just been such a vast improvement.  over the virtual learning, which, you know, everyone is doing the best they could. But because of masks and the mitigation strategies that our district puts into place, they've been able to continue to learn the way students should learn, and that is in the physical presence of each other, fellow students, teachers, and the school community. So thank you so much from the bottom of my family's heart. We are grateful for you.",
+    "speaker": "amykeenanamag",
+    "tags": [
+      "public_addressing",
+      "opinion",
+      "cite_external_source",
+      "acknowledge",
+      "reassure"
+    ]
+  },
+  {
+    "start": 3821.367,
+    "end": 3827.115,
+    "text": "Thank you so much for those comments, Miss Keenan-Amago. The next speaker will be Amanda Aucher, who I see on.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "logistics_info",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3830.605,
+    "end": 3907.394,
+    "text": " Thank you. My name is Amanda Alger, I'm the mom of three in the Rio district.  I know that this is a challenging time, probably for everyone, especially as a mom of teenagers. I'm aware of way too many children and families struggling with crisis-level mental health challenges over the last few years, myself included. I'm also aware of how tough it can be to find help and support, even for me as a stay-at-home mom with time to prioritize this search.  I'm hoping that mental health is considered a top priority in ACPS for our teachers and staff, as well as families and students, even when it might conflict with academics. This pandemic has been a challenge, but I hope that a silver lining can be that we come out of it stronger with students having the tools to cope in a world with increasing challenges that include negative exposures on social media,  I want to recognize the amazingness of the increase in mental health supports in our schools this year, particularly our social emotional counselors. And I hope that they will receive continued funding and increased resources. As always, thank you so much for your time and your service to our community. Thank you very much. Thank you so much for those comments, Ms.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "express_concern",
+      "request_action",
+      "prioritization",
+      "opinion",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3907.414,
+    "end": 3919.991,
+    "text": "Seltzer.  The next speaker is Paula Gately, and she will be followed by Laurel Gillette, Desi Smith, and Laura Noon.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "public_addressing",
+      "logistics_info",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3920.011,
+    "end": 4008.512,
+    "text": "Good evening, Albemarle County Public School Board members and Dr. Haas. My name is Paula Gately, and I live in the Jack Jewett District. I'm also a teacher here in ACPS. I wanted to speak tonight simply to say thank you for all the important work you do to make our school division a safe and welcoming place to learn.  I greatly appreciate your commitment to the wellness of our entire ACPS community by keeping our current COVID mitigation strategies in place.  Do I want to wear a mask while teaching forever? Absolutely not. But am I willing to because I care about my colleagues and students who live with immunocompromised family members, their grandparents, or young children under five who are not eligible for the vaccine yet? Absolutely. To me, continuing to wear a mask has nothing to do with politics and everything to do with keeping myself, students, families, and colleagues safe and healthy.  Each year, my students and I discuss how we are a class community. If you ask my students what the word community means, they would likely tell you it's a place where people live and work together, but also care about each other. They understand that their actions impact others in our class community, and we all have a collective responsibility to take care of one another. My students are doing a great job with mask wearing, and I see every day how happy they are to be back in school, face-to-face, learning and socializing with their classmates.  I'm proud to work and live here in ACPS, a community where people care about each other. So thank you again for your leadership and ongoing commitment to safety and wellness. I appreciate your time.",
+    "speaker": "paulagately",
+    "tags": [
+      "public_addressing",
+      "opinion",
+      "policy_proposal",
+      "express_concern",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4011.695,
+    "end": 4021.064,
+    "text": "Thank you for those comments, Ms. Gately. The next speaker is Laurel Gillette.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4021.084,
+    "end": 4023.706,
+    "text": "We're ready when you are.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 4024.307,
+    "end": 4116.194,
+    "text": "OK.  Good evening, school board members and Dr. Haas. My name is Laurel Gillette, and I'm a teacher in ACPS as well. I live in the Samuel Miller District. I want to extend my deepest thanks to you all for supporting our schools in Albemarle County with clear-eyed, just policies that honor and protect all of our students, pursue a just curriculum, and keep all of us, staff and students, safe.  It is a privilege for me to teach in a county that recognizes the value of all our vision, mission and values ensure a place for all that embraces authentic and challenging learning and supports healthy growth.  The mitigation strategies that have been in place this school year illustrate your commitment to the health of our students and staff. Mask wearing has been successful. Throughout our school day, I and my students have worn masks properly and consistently, and we have embraced our mutual responsibility toward the health of everyone in our classroom community and in our school.  Thanks to your leadership and support, our community members have demonstrated care and respect for each other and have made our school a safer, healthier place to learn. Once again, thank you so much for standing for schools. We are truly grateful for your support.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "opinion",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4119.538,
+    "end": 4125.904,
+    "text": "Thank you so much for those comments, Ms. Gillette. Our next speaker will be Desi Smith. I see.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4129.782,
+    "end": 4141.118,
+    "text": " Hello, my name is Desi. I'm a ninth grade virtual student.",
+    "speaker": "desi",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4141.138,
+    "end": 4147.407,
+    "text": "We heard you start, but then you're muted. Oh, I'm sorry. You can restart if you want.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "request_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4147.948,
+    "end": 4255.663,
+    "text": "Thank you. Hello, my name is Desi. I'm a ninth grade virtual student in ACPS. I'm here to first shout out the amazing teachers, staff, and administrators at Albemarle Virtual School.  I want to thank you for offering this option for learning for myself and other families due to the pandemic, and I hope it gets the needs to be offered. I also want to applaud your efforts in reducing the spread with mask mandates still in effect. Though I'm a virtual student, I have many friends and family and teachers that I'd want to be safe as possible there. I also want to talk about the Black history and racial injustice being taught in school.  I say those both together because Black history, the good and the bad, does include racial injustice. The governor's tip line and the fear it instills is unfair to all the teachers who want to teach Black history and injustice but are afraid they'll be reported or lose their jobs. This raises concerns for me and other students because Black history is something that is absolutely necessary to teach and learn. It is also crucial we acknowledge that racial injustice and racism is a real issue and we're able to learn and talk about it.  Did those people suffer, work so hard, and even die for equality just so it could all be erased? Or even rewritten, and current events being rewritten to make people more comfortable? Conferred isn't the goal here, it's change. It's not divisive, it's the way we bring change. My school and teachers have been great about teaching Black history and injustice, allowing students to share, and I'm very grateful for that.  This is not something that teachers fear being reported on a tip line and fired for it. I have heard and appreciate that this will not be happening in our county, and it is appreciated by not only myself, but many other students and staff. Political division has no place in our schools that are full of diversity and equality. I hope that you can help our teachers and staff feel more at ease by reassuring them so they can teach us confidently. Thank you.",
+    "speaker": "desi",
+    "tags": [
+      "public_addressing",
+      "express_concern",
+      "request_action",
+      "acknowledge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 4258.646,
+    "end": 4268.929,
+    "text": "Thank you so much for those comments, Desi.  The next speaker is going to be Laura New, and then that's going to be followed by Jared Govan, Celeste Chilton, and Katie Shipley.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "logistics_info",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4272.773,
+    "end": 4353.784,
+    "text": "Thank you. My name is Laura New. I'm a resident in the Whitehall District. I'm an ACPS parent of a sixth grader at Henley and a ninth grader at Western, and I'm also a substitute teacher in the county. I wanted to speak in support and appreciation of the school board's current policy regarding masks  and COVID mitigation strategies. While I think we'd all agree that we would like to see the end of mask wearing in schools, I hope the decisions will be made only after careful consideration of the scientifically driven recommendations of the Blue Ridge Health District Department.  the CDC and the AAP. I hope the school board would consider the risks to our whole local community, especially our most vulnerable populations, like the under five year olds that have yet to be vaccinated, as well as a large number of our five to 11 year olds in our community that have still not been vaccinated. As a substitute teacher, I'm concerned about going into classrooms where masks are not mandated.  It would make my decision to cover for teachers in the schools much more difficult because my first priority is keeping my family healthy and safe. Again, I'd like to say thank you and how much I appreciate and support all the hard work and dedication that the school board has shown to our school community during these last few difficult years. Thank you.",
+    "speaker": "lauraneu",
+    "tags": [
+      "public_addressing",
+      "opinion",
+      "express_concern",
+      "cite_external_source",
+      "request_action",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4357.561,
+    "end": 4369.545,
+    "text": " Thank you guys, thank you so much for the comment I said you guys because you guys have all been on point with the timer usually I have it like stops and have to reset it. The next speaker will be Jared Tobin.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4371.533,
+    "end": 4442.362,
+    "text": " Hi, thank you. I'm Jared Govan, father to five kids in this district. And tonight I promise to exercise more brevity than I did when I last appeared here. I don't have a whole lot prepared here. I just wanted to echo what it turns out many of my neighbors keep saying here tonight, which is that I really, really appreciate the hard and thoughtful efforts of  You all on board, and the, the entire district, and especially considering everything you all have been through and all of the transitions we've been through. And although it looks like, as another one of our neighbors mentioned that we will be having to abide.  under a new law that we don't necessarily agree with. I hope that we can all operate with equanimity under the strictures of this new proclamation from our capital and continue the high level of safety and quality of education. So thank you, thank you, thank you.",
+    "speaker": "jaredgovanhehi",
+    "tags": [
+      "public_addressing",
+      "acknowledge",
+      "opinion",
+      "reassure",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 4445.065,
+    "end": 4459.236,
+    "text": "Thank you so much for those comments. Now I'm really messing with my timer.  Um, let me redo it real quick. Okay. The next speaker. Thank you so much for giving those comments, Mr. Gobbin. The next speaker is Celeste Chilton.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4461.68,
+    "end": 4543.593,
+    "text": " Hi, so my name is Celeste Chilton and I am in the Jack Jewett District. I'm a stepmom to three current ACPS students and mom to two future ones, both of whom are under five years old. So I just wanted to take the time to reiterate much of what others have said here and lend my support for the in-school masking policies as a, you know,  very needed and useful tool to help keep all our community safe, as many have pointed out, especially for those who aren't able to be vaccinated. All of your hard work, all of your following the scientific and medical evidence,  is greatly appreciated by many, many parents and as you've heard tonight. So, we appreciate all you've done and want to lend our support to you continuing to do your utmost to put and keep in place as stringent safety protocols as possible, despite the recent actions taken by some of those in Richmond.  All right, thanks again to you all and to ACPS staff and the system as a whole for doing such a great job to help keep all of us safe.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "opinion",
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 4544.835,
+    "end": 4590.027,
+    "text": "Thanks. Thank you so much for those comments, Ms. Shilton. I'm going to go ahead and just announce the rest of the speakers so everyone knows where they stand in the line. We have Katie Shipley next, followed by Erin Wise-Ackenbaum, then Parker,  then Lauren Carter, then Randy Zachrisson, and then Nick Nacy. Then we have one more person to loop that we missed earlier on. So next up, Katie Shipley. I do not see her on. Ms. Shipley, if you're on, could you speak up? Sometimes you're under different names, so I can't tell. He's not here.  Okay, hearing nothing, we'll move on to Erin Wise-Ackenbaum, who I do see on.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "public_addressing",
+      "logistics_info",
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4591.089,
+    "end": 4702.023,
+    "text": "Hi, I'm employed as a special education teacher in Albemarle County, and I appreciate your attention to our students and teachers, both physical and mental health. I'm a recipient of the social-emotional counseling that they're doing with Ms. Popolo in Albemarle High School, and it is really, really great.  I'm just going into a class sometimes and the way she helps students there is she's constantly in and out of the classes, seeing, checking in. And I think that's something that when I see that help, that gives me hope. I appreciate the medications strategy you have in place. And I know it hasn't been easy. And I know you've worked really hard.  It's really protected us all. The teachers with small children, they're fearful of not having masks. There's an all time shortage of teachers in Albemarle County as well. And we're in a struggle daily to get substitutes to cover for sick teachers. The bus situation is really due to COVID I think too. And this puts a phenomenal strain on our vice principals, sports staff to cover for each other.  which also hinders our, you know, that's why it's really great to mask. I hope people realize this is a systemic ploy to take down public education and to privatize it. If you mandate public schools to do this or that, but don't mandate private schools to do the same, you are in fact taking down the public schools. And in your future, there'll be lots of money, if it comes to play, coming into education in order to privatize.  All our youth deserve better. We have gone to great lengths to understand equity and taking away masks is not equitable. It hurts our teachers and students. So I really appreciate your help with this. Thank you very much.",
+    "speaker": "erinwiseackenbo",
+    "tags": [
+      "public_addressing",
+      "opinion",
+      "express_concern",
+      "policy_proposal",
+      "logistics_info",
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 4705.408,
+    "end": 4710.777,
+    "text": "Thank you so much for coming to speak to us again. The next speaker is Parker, who I see on.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 4715.825,
+    "end": 4747.292,
+    "text": "Hello, I'm purple.  I'm a fourth grader and I go to Cose Elementary. I think you're doing a good job at keeping everyone wearing a mask in school. I think me and a lot of other students in my school are happy to be back inside of school. And I think all the teachers are doing a great job teaching black history, which I understand that some people do not support. That's it. Thank you.",
+    "speaker": "parker",
+    "tags": [
+      "public_addressing",
+      "opinion",
+      "reassure"
+    ]
+  },
+  {
+    "start": 4749.837,
+    "end": 4768.421,
+    "text": " Parker, you might be the youngest speaker that we've had in my tenure here. And I just want to say congratulations. That takes a lot of courage. And I really appreciate you coming on to speak to us. Thank you. The next speaker will be Lauren Carter.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "public_addressing",
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4772.146,
+    "end": 4889.841,
+    "text": "Thank you. That's a hard act to follow.  I'm Dr. Lauren Carter from the Whitehall District. I'm the mom of two boys, current and future students at Crozet Elementary, and I'm a clinical and school psychologist. I practice in Crozet and see many Albemarle students for therapy or psychoeducational testing. I am so grateful to the school board for all of your work and leadership. I know that there are no easy decisions to make in the time of the pandemic, but you have made every effort to keep our students safe.  I am also deeply grateful to our teachers for their dedication, hard work, and flexibility during these difficult times. I'm proud of ACPS's anti-racism policy, and I support the implementation of culturally responsive teaching in all classrooms. Child and adolescent mental health is in a new and ongoing state of crisis. Now more than ever, our children need authentic, meaningful relationships  where their culture and identity are recognized, valued, and incorporated into daily instruction. This is the heart of culturally responsive teaching. With limited energy and resources, this is where we will make the most meaningful change. All of our children deserve to feel a sense of safety and belonging at school. I see the impact on my clients when they don't feel this way.  I see increased school avoidance and anxiety, increased depression, and decreased self-esteem and achievement. For the sake of our children's mental health, the board must continue to prioritize the implementation of culturally responsive teaching. I would encourage all of those who are opposed to read Zerretta Hammond's book, Culturally Responsive Teaching and the Brain, to see for themselves what the framework would bring to all of our students, all in search of connection.  Thank you for providing me with this time to speak.",
+    "speaker": "laurencarter",
+    "tags": [
+      "public_addressing",
+      "opinion",
+      "policy_proposal",
+      "prioritization",
+      "cite_external_source",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4893.827,
+    "end": 4904.945,
+    "text": "Thank you so much for those comments, Dr. Carter. The next speaker is Randy Zachrisson. Mr. Zachrisson, are you on?",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4906.407,
+    "end": 4911.355,
+    "text": "He has not logged on, Ms. Carlson. Sorry.",
+    "speaker": "Unknown",
+    "tags": [
+      "logistics_info",
+      "clarify"
+    ]
+  },
+  {
+    "start": 4911.375,
+    "end": 4921.514,
+    "text": "OK.  Well, I will loop back to him, although we don't have a lot of speakers left. We have the last signup speaker before I go back through the list. And that is Nick Macy.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4921.534,
+    "end": 5017.299,
+    "text": "Hi, my name is Nick Macy. I live in the Whitehall district. I'd like to express my support as well for continued universal masking in our schools as the current legal process plays out. And my thanks to ACPS for making a responsible decision, which is widely supported by the community. Let's be clear. I'm tired of COVID as is probably everyone here.  Clearly, the transition from pandemic to endemic was always destined to be messy given the current polarized climate. However, the virus doesn't care about our politics or if we're tired. The way in which we approach the virus has to be rational, measured, and based on science. While the situation is improving, the current surge is not yet over. Local case counts and hospitalizations are trending downward, but they remain similar to the prior peak from last winter. Having a reasonable discussion about off-ramps to end masking is one thing.  But actually taking that off ramp right now while driving 90 miles an hour is something completely different. Hopefully the current surge continues to recede. However, the one predictable aspect of COVID thus far has been its unpredictability. As a county and as a state, we need to make sure that we are prepared to deal with future challenges. There may be a variant less affected by vaccines or that is more detrimental to children. It would be foolish to institute policies now, which would permanently disallow universal masking in schools in the future, as is currently being discussed in our state.  In summary, we need to be careful about the timing of eliminating universal masking, and if there is a change in policy at some point, we need to be careful that we don't prohibit universal masking should it be needed again in the future in order to preserve in-person learning. Thank you again to our school board for doing what has been necessary to make sure that students, families, and teachers in our community are safe. Thank you.",
+    "speaker": "nicknacey",
+    "tags": [
+      "public_addressing",
+      "opinion",
+      "express_concern",
+      "policy_proposal",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5018.921,
+    "end": 5033.271,
+    "text": "Thank you so much for those comments, Mr. Nacy.  The three who we skipped were Kristen Smith, who I think might be on, Katie Shipley, and then Randy Zacherson. Ms. Smith, are you ready? Hi, I am.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "logistics_info",
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5033.331,
+    "end": 5175.999,
+    "text": "Thank you. Thank you for the opportunity to speak. I'm calling in tonight to express my concern about the entire unleveling system of Albemarle County schools, from removing the gifted program in the elementary schools to unleveling in the middle,  to thinning out the AP classes in high school. Tonight I will focus specifically on the middle school I have a sixth grade son. Oh, I'm sorry I'm in the Havana district. I have a son, Burley who has really benefited from these programs.  a kid who thrives on being challenged and his favorite classes are his advanced placement ones. I respect the fact that the goal is to shrink the achievement gap. It is an important goal, one that has become an even larger task during COVID. I respect the problem, but I do not support the solution. Teachers are spread so thin as it is now. How are they going to be expected to challenge upwards of five learning levels within a single classroom and do it well? I understand that this is the learning model in elementary school, but as curriculum becomes more advanced,  this idea changes in efficacy. Moving middle school math from three levels to two has already highlighted the problem. Students at the top of math six are being pulled for additional work. Even within the advanced placement language arts class, my son has been promised to be pulled out for a small book study group, yet that fantastic teacher is already so taxed that he can't find an opportunity to begin it.  I understand that the new model sounds great in theory. Differentiating within classrooms rather than separating kids out by learning levels into different classrooms could add a rich learning environment. But do we really have the resources to make this a success? I believe it would be prudent to reevaluate considering the many challenges that already exist in the schools, especially as we are still in the thick of COVID recovery.  My son was going to speak tonight because he is personally invested and concerned about the changes, but he had to run out to a basketball practice. He has big dreams and future goals and he worries that Albemarle County schools are not going to provide him a path to reach them. He has friends from other areas of Virginia, as well as some who have moved to other states.  He knows he will one day be applying for the same colleges that they will be, and he also knows that they are learning in advanced level classes. Please consider reevaluating this complete overhaul of the ACPS structure. Thank you.",
+    "speaker": "kristinsmith",
+    "tags": [
+      "express_concern",
+      "request_action",
+      "public_addressing",
+      "opinion"
+    ]
+  },
+  {
+    "start": 5178.022,
+    "end": 5226.245,
+    "text": "Thank you so much for those comments, Ms. Smith. So I don't see Katie Shipley or Randy Zacherson in, so I  Sorry. So I would say that concludes our public comment I want to say thank you to all our speakers I, it might be. I hope it's not just because we heard a lot of positive comments this night which isn't always the case but we did hear so many different things I've always appreciative of people coming in to share I took notes  like transportation issues, restorative practices, having questions about that, masking, the teacher tip line we've heard from two students, we heard support of Black History Month, mental health concerns about our de-leveling. It's just always nice to get feedback and hear about so many different issues from people. So thank you to everyone who took the time to come speak. And that's all.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "public_addressing",
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5227.967,
+    "end": 5251.247,
+    "text": "Thank you so much, Ms. Cawson.  And it really was nice to see the two students that spoke tonight. So thank you to all of our speakers doing public comment. Our next item on the agenda, the superintendent's recommendation for the renaming of Broadus Wood School. And Dr. Haas is gonna lead us off with this segment.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 5252.054,
+    "end": 5294.129,
+    "text": " Thank you, Mr. Page. So in a moment, I'm going to turn things over to Jasmine Fernandez. And before I do that, I just really want to express my gratitude to the Broaduswood Elementary School Name Review Committee. They've been working on this process for several months now. They really put their hearts into the work. They did a great deal of research. And the process that they enlisted was highly inclusive.  So I'm proud of their work, and I'm looking forward to sharing this presentation with you. And at this time, I'm going to turn things over to Ms. Fernandez.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "acknowledge",
+      "defer_to_expert",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5296.513,
+    "end": 5423.44,
+    "text": "Thank you so much, Dr. Haas. Good evening, board members.  My name is Jasmine Fernandez. Over the past two and a half years, I've had the great pleasure to oversee the name review process. Tonight, you will hear from the Broaduswood Committee. This is the sixth school that has been under review, and I'm particularly excited for you to hear about how they have engaged the community, especially the students.  Just quickly, I wanted to remind you all of the directive that you gave to the superintendent. All schools in the division named after individuals will undergo a review process to ensure those designations align with the division's values. And as you know, our four newly approved values include equity, excellence, family and community, and wellness.  In addition to our division values, we are guided by three intentions throughout the review process. Reflection, accessibility, and inclusion of all voices. The purpose of the review process is to reflect on the past, but also reaffirm our school's values and aspirations. Through the use of QR codes, surveys, community meetings, social media, and emails,  we've been able to offer different modes of participation throughout this process. And as with every process, we value and actively work to hear from all stakeholders, including first and foremost, our students, our staff, our families, and our community members.  As a reminder in the past the board has taken action on five names, I think it's important to remind you and the broader public that just because a name is under review. It does not automatically mean that the name will be changed as evidenced by us retaining Virginia or Murray's name.  In fact, moving forward, schools whose names are retained will receive some support so that they can continue to further commemorate the achievements of the individual and continue to share their school's history with future students and families for years to come. And with that, it is now my pleasure to turn it over to Principal Morris.",
+    "speaker": "jasminefermandez",
+    "tags": [
+      "give_update",
+      "public_addressing",
+      "clarify",
+      "reassure",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5435.013,
+    "end": 5532.942,
+    "text": " Thank you, Jasmine. Hi, my name is Amy Morris. It's my sixth year serving as principal at Broaddus Wood Elementary School. The school is named for local farmer and public servant Broaddus Ira Wood. He donated the land in 1905. At that time, Broaddus Wood was part of Earlysville High School.  The building was destroyed in a fire and rebuilt as broad as wood. It became an elementary school in 1953 when Albemarle High School opened.  First, I would like to thank the committee for their dedication throughout the process. As volunteers, they have been instrumental in ensuring this process has been carried out with fidelity. Their participation and ideas helped to make this process successful in part because of the diverse perspectives they represent. The committee reflects the diversity of our school division, including equity of voice and thought.  The committee includes perspectives from community members and families, as well as staff members in terms of staff for the first time in the name review process, we have two co chairs and a representative from the extended day enrichment program.  And while the policy does not require a student representative, the advisory committee was intentional in engaging students all throughout this process. Ray will speak more to this in the subsequent slides. Now it's my pleasure to introduce one of our co-chairs, Katie Brough.",
+    "speaker": "amymorris",
+    "tags": [
+      "public_addressing",
+      "give_update",
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5535.419,
+    "end": 5699.363,
+    "text": " Hi, my name is Katie bro and I'm the talent development resource teacher and interventionist abroad as good, along with Ray crow back I am co chair of our schools name review committee, and an effort to share this process with our community. We utilize multiple modes of communication and participation.  For each survey, flyers were distributed to families, to staff, and to popular places in our community that contained information about the process, as well as QR codes which enabled timely participation. The codes were posted outside of our building and our family drop off and pickup areas.  Mrs. Morris ensured that families were aware of each survey and step of the name review process, including upcoming community meetings by frequently including messages and our weekly emails to families and notices to staff. Further, we had support from central office with regards to routine press releases and social media posts. A comprehensive webpage for Broaduswood Elementary School was added to the county school name review webpage, and we were able to share similar information on our own school's website.  While the current policy only requires two community surveys, our committee felt strongly about including an additional survey to determine how much our community already knew about the name review process, as well as the history of Broadus-Irawood. This first survey showed that a majority of respondents did consider themselves familiar with the life and career of Broadus-Irawood, as well as the Admiral County Public School values and the Broaduswood Elementary School guiding principles.  Additional information on each of these surveys, as well as the press releases community meeting recordings and information about our committee can still be found on the school name review web page and when reviewing the survey data. Please keep in mind that a majority of our approximately 250 students were included in each survey.  We feel grateful for the amount of public participation in this process and for having the opportunity to incorporate their feedback. Thanks to the consistent communication that we were able to share with our community throughout the process, we were able to engage the public through our two community meetings, which were live streamed and recorded, and messages sent to the school name review email address.  Speaking on behalf of the committee, we were energized to hear the public's opinion, both through the email messages and during community meetings. We are very thankful to those who chose to submit public comment and to have had the opportunity to hear from relatives of Broadus Arrowwood, a current teacher and a Broadus Wood alum. We will take a moment now to watch Ben Tiller's public comment.",
+    "speaker": "atiebreau",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "public_addressing",
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5703.342,
+    "end": 5824.272,
+    "text": " Hello my name is Ben Teller and I graduated from Broaduswood Elementary School in June 2021. I attended Broaduswood from Kindergarten to 5th grade and made many friends at the school. I am now going to Jack Jewett Middle School and am in the 6th grade.  I have heard that the school board is thinking about changing the name of the school, and I do not want the school to change its name. In 1905, Brattiswood donated the land and money to help build the school. He was a real person. We should honor him by keeping the name of the school. You would not be happy to know that the school that he built no longer is named after him.  And the story of Broadus Wood is a story that all the people will want to hear when they come and visit the school. It's a story the young students will want to hear. It is a story of the school's history. I think people and events in history should be remembered.  I think if we changed the name of Broaduswood Elementary, people will forget about Broaduswood and what he did for our community. Let's continue to honor people for the good things they did, rather than focusing on one or two bad things. Changing the name of such an important place is almost like changing the name of a hamburger to a meat patty between two whole wheat bun sandwiches.  When my family and I go on vacation, my mom points out different landmarks and statues. I get curious about their names and use the internet to find out more. I know about Florence Martis, better known as the Waving Girl, because of a statue in Savannah, Georgia, and Roger Williams, because of a national memorial in Providence, Rhode Island.  I saw the landmark and did research. I want younger kids to do the same thing about Broadus Wood. So please, vote to not change the name of this school. Broadus Wood should be remembered and not forgotten. Hello, my name-",
+    "speaker": "atiebreau",
+    "tags": [
+      "public_addressing",
+      "opinion",
+      "express_concern",
+      "request_action",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5841.65,
+    "end": 5848.723,
+    "text": " Karen you're muted. I was on a roll sorry about that.",
+    "speaker": "jasminefermandez",
+    "tags": [
+      "interrupt_overlap",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5850.104,
+    "end": 6031.933,
+    "text": " Eddie, thanks so much for humanizing this process with Ben's insightful remarks. I'm Karen Waters Wicks, Community Education Coordinator for Albemarle County Public Schools, and I served on the committee. I was better with my Zoom during the meetings, I promise. Jody Weber, Charles Crenshaw, and I focused on compiling historical research on B.I. Woods, which is how he signed the minutes book when he was serving as the school board chair.  As part of the review process, the committee looked at all of the emails from the public, as well as letters to the editor published in the Daily Progress. We're grateful to Marta Ramsey and Bill Schmidt, two of Mr. Woods' descendants, who shared their family remembrances with us, and we reviewed newspaper articles, school board minutes, and compiled a list of secondary resources.  We're also appreciative of the work of local historian and journalist Jordy Yeager and descendant researcher Dr. Shelly Murphy from the University of Virginia, who provided us with a history of Mr. Woods family land and land holdings. The materials we gathered present a rich picture of Mr. Woods and are available on the website.  We learned that Mr. Woods was very committed to public education, serving for 36 years on the Albemarle County School Board, which met at 11 a.m. on the third Wednesday of the month, and they were paid a grand sum of $5 per diem, according to the school board minutes from September 5th, 1922. His roots in the county date back to his great-grandfather, who came here from Maryland and established the family farm.  Although our research indicates he may have benefited from his ancestors holdings of enslaved individuals, having been born after the Civil War, Mr would had no involvement in this, and further chose to gift a significant portion of the family's property to the school system.  Additionally, school board records indicate he was supportive of local schools, particularly rural schools, and frequently voted in favor of building and supporting the quote unquote colored schools to use the vernacular of the times, and he was commended upon his retirement by the supervisor for Negro education in 1931. And that is the image of the letter that you see on the screen.  In addition to a service to our schools he served as a director of the People's National Bank. He was a forest warden and served as deputy commissioner of the revenue. When he was tragically killed as a result of being hit by a taxi cab while visiting his daughter at George Washington University in Washington DC at the age of 68. Mr. Woods funeral drew a crowd of 1000 people.  It was gratifying for me and for the rest of the committee to have the opportunity to learn about this man whose name has essentially become a place. And with that, I'm going to turn it over to Ray, and he can tell you more about how he and the rest of the faculty and staff at Broadus Wood Elementary engage the children in participating in our process and having fun learning about Mr. Wood.",
+    "speaker": "karenwaters",
+    "tags": [
+      "give_update",
+      "cite_external_source",
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6034.917,
+    "end": 6230.048,
+    "text": "Thank you, Karen.  Members of the board, Dr. Haas, thank you for giving us this time to speak about the school name review for Broadduswood Elementary. I am Raymond Krobach, school librarian and co-facilitator of the Name Review Advisory Committee. I have a few things to show you. I know you can't see the details, but these are Bobcat prints. This one says, you will always be a Bobcat. Love it.  Have fun, that's what being a Bobcat is. This is the best school. We are Bobcats forever. A Bobcat is kind, safe, respectful, responsible, and most of all, a Bobcat. I love this school. Once a Bobcat, always a Bobcat.  These are Bobcat Pride paw prints created by current students at Broadus Wood Elementary, part of a culminating activity for the name review process. Students were engaged in this process concurrently throughout. Mrs. Breaux, myself, and the committee were committed to ensuring the students' experience was both informative and engaging.  This process started at the beginning of the school year when every class had a lesson on the history of Broadduswood Elementary and who Broaddus Ira Wood was. Students participated in lessons that implemented history and research skills. We had a then and now lesson to where we compared what school was like then and now at Broadduswood. The students couldn't believe that horse stables were part of the original school.  The second part focused on lessons that attempted to answer the questions, what's behind a name? Who are we? And what it means to be a Bobcat. The culminating activity included a school-wide virtual assembly that empowered the students to vote on the name and created paw prints for a future mural that symbolizes Bobcat pride. As for the recommendation,  Based on the research, public comments and survey results, the committee voted for Broadus Wood Elementary. This was based on Broadus Ira Woods contributions that align with the division's values and the school's guiding principles. Some examples include how he advanced education opportunities for African American and rural students.  The committee took into consideration all stakeholders' voices, particularly the votes of alumni and current students. The majority of the students, nearly 68%, voted to retain the name after learning about Broadus-Irewood's service and involvement in the community. If the name is retained, the school is looking to commemorate the process and Broadus-Wood's contributions via the school webpage and a forthcoming ceremony. Thank you again.",
+    "speaker": "raymondchr",
+    "tags": [
+      "give_update",
+      "public_addressing",
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 6243.207,
+    "end": 6263.377,
+    "text": " Thank you so much. At this time, we'll be happy to take any questions that you may have, unless Dr. Haas, there's something else that you may want to say. I just want to repeat my thanks, and especially thank Amy and Katie and Ray and Karen for hanging in there tonight for the meeting.",
+    "speaker": "jasminefermandez",
+    "tags": [
+      "public_addressing",
+      "ask_question",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6263.437,
+    "end": 6267.443,
+    "text": "And I thought your presentation was outstanding. Thank you very much.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "acknowledge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 6272.958,
+    "end": 6293.86,
+    "text": " Okay, thank you, Dr. Haas, and thank you to the entire committee. Ms. Fernandez, Ms. Morris, Ms. Breaux, Ms. Watters-Wicks, and Mr. Krobak. Are there any questions from the board for the committee? Any questions or comments?",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6297.845,
+    "end": 6310.98,
+    "text": "Just a comment that I'm always impressed with how  Much effort is made to engage the students at all different levels and. i'm just wondering if you had anything else to say about that.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "ask_question",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 6313.492,
+    "end": 6340.174,
+    "text": " I would just say this is the sixth school that I've supported and I truly have been inspired. Each school takes their own spin and is really creative. And I feel like with each cycle, we sort of level up and continue to increase how we engage the students. And I just, again, want to reiterate Dr. Ha's sentiments. This team in particular has put in a lot, a lot of work behind the scenes. And so thank you to them and thank you to all of you for your continued support.",
+    "speaker": "jasminefermandez",
+    "tags": [
+      "acknowledge",
+      "agreeing",
+      "opinion",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 6344.12,
+    "end": 6381.818,
+    "text": " I would just like to say that I think, as Mrs. Morris knows, I think that Broadus Wood is a very special school. And the fact that all of the hard work from the members of the committee and Karen and Jasmine and others, it just proves that this is a wonderful community with great families,  enthusiastic, to say the least, students and a great deal of pride. So thank you for the work you did and for your recommendation.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "opinion",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6386.703,
+    "end": 6403.067,
+    "text": "Thank you, Mr. Alcaro and Dr. Acuff. Are there any other questions or comments?  If not, just quick comment on this going because you never heard enough.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "ask_question",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6403.087,
+    "end": 6410.457,
+    "text": "Thank you for all the hard work. I always feel like you're doing such a thorough job, um, and making thoughtful decisions and I appreciate it.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "reassure"
+    ]
+  },
+  {
+    "start": 6410.477,
+    "end": 6457.583,
+    "text": "Yeah. Right. Great work from the committee. If there are no other comments, uh, we will be taking action on this at our next meeting at our February, the, uh, 24th meeting.  So thank you again to the committee for your great work. It's really appreciated. We are now down to other business from the board and Dr. Acuff has some business to present.  Chair Page, you broke up a bit, but I will.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 6462.169,
+    "end": 6465.914,
+    "text": "Thank you, Chair Page. Can you hear me now?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 6466.435,
+    "end": 6467.216,
+    "text": "Yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "agreeing"
+    ]
+  },
+  {
+    "start": 6467.757,
+    "end": 6564.831,
+    "text": "As we all know, Dr. Haas and his cabinet are very deeply involved in putting together the funding request that will be presented to us next week.  Even at this late hour, however, I propose that Dr. Haas include in his funding request to the board a five-year overview of the capital needs of our schools. The statute that requires a superintendent to make a funding request is not specific that it's limited to operating costs, and in fact, many other school divisions include both in the funding request.  And I think that we ought to be in that category, that a way to elevate our capital needs, both to the supervisors, but even more so to the community is to include the needs of our capital. You've all heard me speak with some alarm that we now have about 100 classrooms in trailers.  We have a very aging infrastructure. The average age of our core school is over half a century old and they're not set up in many cases for our 21st century teaching. So I guess I propose this. I would like to have a consensus up the board and an assurance from Dr. Haas that this is feasible at this late hour.",
+    "speaker": "Unknown",
+    "tags": [
+      "policy_proposal",
+      "request_action",
+      "express_concern",
+      "follow_up_request",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6568.962,
+    "end": 6569.763,
+    "text": " Thank you.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6570.464,
+    "end": 6572.265,
+    "text": "Yeah, I would say yes, it is feasible.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "agreeing",
+      "reassure",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6574.548,
+    "end": 6597.771,
+    "text": "Okay. Thank you, Dr. Acuff. And thank you, Dr. Haas. We've heard Dr. Acuff's proposal that Dr. Haas include in his budget request a five-year overview of the capital needs of the division. Are there any questions or any comments related to what Dr. Acuff is proposing that the budget include?",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "policy_proposal",
+      "ask_question",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 6599.152,
+    "end": 6630.063,
+    "text": " I'm very supportive of it. I mean, Dr. Acuff and I sit on the CIP Advisory Committee, and this is a strategy that's very near and dear to both of us. I think Dr. Haas and his team will put together a great  part of the budget request that's focused on this issue and hopefully can help us all move forward.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "opinion",
+      "agreeing",
+      "reassure",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 6633.047,
+    "end": 6636.851,
+    "text": "Thank you, Mr. O'Carroll. Are there any other comments?",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 6638.993,
+    "end": 6645.421,
+    "text": "I think it's great to keep it top of mind. I think that's a great idea. Thank you.",
+    "speaker": "Unknown",
+    "tags": [
+      "agreeing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6647.543,
+    "end": 6649.746,
+    "text": "Thanks for bringing it up, Kate.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6652.426,
+    "end": 6669.784,
+    "text": " All right, so by consensus, can we all agree that we are requesting Dr. Haas to include a five-year overview of capital needs for the division in his next budget proposal to the board? Can we agree on that by consensus? Yes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "request_action",
+      "vote_call",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6672.347,
+    "end": 6672.427,
+    "text": "Yes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 6672.447,
+    "end": 6715.002,
+    "text": "All right, thank you. So Dr. Haas, we will expect that to be included in the budget. And thank you, Dr. Acuff, for presenting that request  to the board. Is there any other business that either the board members or superintendent would like to propose for tonight? All right, hearing none, February 10th meeting is adjourned. So we thank you all for your attendance and all of our participants tonight.  Thank you all. Hi everybody. Good night everyone.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "request_action",
+      "ask_question",
+      "procedural_move",
+      "public_addressing"
+    ]
+  }
+]

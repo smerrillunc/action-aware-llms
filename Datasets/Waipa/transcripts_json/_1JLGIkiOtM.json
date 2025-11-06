@@ -1,0 +1,1450 @@
+[
+  {
+    "start": 5.117,
+    "end": 59.804,
+    "text": " All right. So thank you very much, everyone, for attending this hearing for Warren and Wendy Hodges. Sorry it's been delayed, but unfortunately, that was out of our control. So I assume everybody knows where the bathrooms are and emergency exits in case of an emergency. So that's all good. So I did leave the hearing open. We'll get everyone to identify themselves. First off,  is, oh yeah, we have the Olsons here, that's great. So first off, I'll just get around to introduce themselves. I'll go from the top left of my screen, so it might be in no particular order. But Adrienne and Murray Olson, would you guys like to introduce yourselves, please? No, that's good, we can hear you.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "public_address",
+      "ask_question",
+      "assign_action",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 64.622,
+    "end": 65.142,
+    "text": " Good morning.",
+    "speaker": "adriennemurray",
+    "tags": []
+  },
+  {
+    "start": 65.463,
+    "end": 82.157,
+    "text": "My name is Adrienne Olsen and I'm here with my husband today, Murray, and we're residents at 111 Taylor Street. And I believe we're waiting for Bill and Helen James on 107 Taylor Street.",
+    "speaker": "adriennemurray",
+    "tags": [
+      "provide_information",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 82.957,
+    "end": 85.519,
+    "text": "OK. Yes, they're there.",
+    "speaker": "Unknown",
+    "tags": [
+      "report_back"
+    ]
+  },
+  {
+    "start": 86.14,
+    "end": 86.861,
+    "text": "Oh, lovely.",
+    "speaker": "adriennemurray",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 88.962,
+    "end": 97.749,
+    "text": "Can you see everybody on your screen? No.  Now, who can you see? Can you just see the person speaking? I can see you speaking.",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 97.769,
+    "end": 102.21,
+    "text": "I can see Wayne Allen and Quentin Budd, and that is it.",
+    "speaker": "adriennemurray",
+    "tags": [
+      "provide_information",
+      "report_back"
+    ]
+  },
+  {
+    "start": 103.051,
+    "end": 111.314,
+    "text": "That's it. Right. I might get someone. Is there anyone in the Cambridge office that could help to change the view?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 112.314,
+    "end": 115.255,
+    "text": "Yeah, we'll get that sorted for you. OK, thank you.",
+    "speaker": "Unknown",
+    "tags": [
+      "assign_action",
+      "confirm_next_step",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 115.275,
+    "end": 120.877,
+    "text": "All right. Thank you very much. So the applicants, you guys next, if you could just introduce yourselves please.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 128.767,
+    "end": 129.687,
+    "text": " And I'm Wendy Hodges.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information"
+    ]
+  },
+  {
+    "start": 131.188,
+    "end": 136.049,
+    "text": "And I'm Gareth Moran, who's the planner responsible for preparing the application.",
+    "speaker": "wendy",
+    "tags": [
+      "provide_information"
+    ]
+  },
+  {
+    "start": 137.449,
+    "end": 140.69,
+    "text": "I'm Chris Beer, I'm the architect. Great, thank you.",
+    "speaker": "wendy",
+    "tags": [
+      "provide_information"
+    ]
+  },
+  {
+    "start": 141.57,
+    "end": 142.29,
+    "text": "Wayne, Alan.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 145.451,
+    "end": 163.647,
+    "text": "Good morning, everybody. So Wayne Allen, Group Manager, District Growth and Regulatory Services. So I'm just based here in the Cambridge office, so I'm not too far from  from a couple of the submitters there, just probably a wall between each of us. But, yeah, I'm here to assist the hearings panel. Thank you.",
+    "speaker": "wayneallan",
+    "tags": [
+      "provide_information",
+      "public_address"
+    ]
+  },
+  {
+    "start": 164.167,
+    "end": 165.027,
+    "text": "Good morning.",
+    "speaker": "yuhudevelopment",
+    "tags": [
+      "public_address"
+    ]
+  },
+  {
+    "start": 165.808,
+    "end": 167.888,
+    "text": "I'm Christopher James.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information"
+    ]
+  },
+  {
+    "start": 170.909,
+    "end": 190.478,
+    "text": "Hello. I hope you can hear me. My name is Christopher James. I'm actually known as Bill, but we'll call myself Christopher today. I live at 107 Taylor Street, right next door to 109.  Good morning. Tim Wilson.",
+    "speaker": "christopherjames",
+    "tags": [
+      "public_address",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 192.678,
+    "end": 202.201,
+    "text": "Good morning. I'm Tim Wilson. I'm a consultant planner at Kinetic Environmental. I'm the author of the notification assessment and the Session 42A report.",
+    "speaker": "timwilsonw",
+    "tags": [
+      "provide_information",
+      "public_address"
+    ]
+  },
+  {
+    "start": 203.361,
+    "end": 204.541,
+    "text": "Thank you. Quentin.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 206.942,
+    "end": 212.003,
+    "text": "Thank you, Mr Chair. My name is Quentin Budd. I'm a resource consents team leader at Waipa District Council.",
+    "speaker": "quentinbudd",
+    "tags": [
+      "provide_information"
+    ]
+  },
+  {
+    "start": 218.417,
+    "end": 224.682,
+    "text": " Yeah, sorry about that. Yes, I'm Tony Kurtz. I'm the senior DE and acting team leader for development engineering.",
+    "speaker": "tonycoutts",
+    "tags": [
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 226.163,
+    "end": 227.084,
+    "text": "Great, Sam Foster.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 229.646,
+    "end": 241.395,
+    "text": "Morena, my name's Sam Foster. I am an urban designer at Beka and I have been asked by Tim and the team to take a look at the application from an urban design perspective. Thanks. Thanks.",
+    "speaker": "samfosterwdc",
+    "tags": [
+      "provide_information",
+      "public_address"
+    ]
+  },
+  {
+    "start": 241.915,
+    "end": 242.415,
+    "text": "Uh, Yuhu?",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 244.537,
+    "end": 247.139,
+    "text": "Good morning, I'm Yuhu. I'm the development engineer.",
+    "speaker": "yuhudevelopment",
+    "tags": [
+      "provide_information",
+      "public_address"
+    ]
+  },
+  {
+    "start": 249.123,
+    "end": 274.021,
+    "text": " Cool. Right. Thanks very much, guys. Now, if you have any troubles during this hearing, just raise your hands and stuff if you're missing any documentation or you can't hear anybody or things go a bit wobbly, and we will be able to help you out. So I'll get Quinton first to introduce why we're here and the matters of contention and things. So over to you, please, Quinton.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "assign_action",
+      "reassure_stakeholders",
+      "public_address"
+    ]
+  },
+  {
+    "start": 277.075,
+    "end": 329.863,
+    "text": " So, today, we're hearing a combined land use and subdivision application at 109 Taylor Street. It's for a five unit compact housing development with a five lot subdivision.  And so, overall, the application is considered to be a non-compliant activity under the rules of the district plan. The application was initially limited notified to four different parties, and during the submission period, there were two submissions received in response, and we have the two submitters attending here today. So, the main issues in contention are around  the appropriateness of compact housing and the development in the area, and also direct impacts on surrounding, on the neighbours. Thank you.",
+    "speaker": "quentinbudd",
+    "tags": [
+      "provide_information",
+      "public_address",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 331.104,
+    "end": 338.085,
+    "text": "Greg Morgan Great, thank you for that. Right, we'll pass over to you now, Gareth, if you'd like to present your report, please.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 341.046,
+    "end": 421.479,
+    "text": "Gareth Taylor Morning. Thank you. Thank you very much for that.  As I said before, my name is Gareth Moran, so I was the planner responsible for preparing the resource consent application, which we're all looking at at the moment. I've got approximately 16 years experience in planning and planning related fields, and I'm a full member of the New Zealand Planning Institute.  What, if I may, Mr Chair, largely take my evidence as read and just focus just on a couple of the key points rather than reading it out word for word, if that's acceptable.  Yep, that's fine, thank you. Hal, I'd also like to package our presentation, as I'll read through probably, I guess, till I get to the amenity-related parts of my evidence, in which case I'll pass on to Chris Beer, who will then sort of explain his professional opinion regarding the design of the development.  Once he's done that, he'll pass back to me. I'll push through towards the end of the report, but I won't cover off the draft conditions until at that point, I'll pass on to Wendy and Warren just to talk briefly. And at that point, I'll talk about the draft conditions if that's acceptable.",
+    "speaker": "wendy",
+    "tags": [
+      "procedural_move",
+      "assign_action",
+      "confirm_next_step",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 421.539,
+    "end": 433.803,
+    "text": "Greg Morgan That's fine. One thing I did forget to mention, I forgot to introduce Councillor Lou Brown as well as the other commissioner on this hearing today. Sorry about that, Lou. Right, yeah, carry on, Gareth.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "public_address"
+    ]
+  },
+  {
+    "start": 435.047,
+    "end": 554.164,
+    "text": " Thank you. So, as Mr. Budd's alluded to, he's explained the proposal. So I won't go through, I won't talk about an overview of the proposal. I think we've all got a very clear sort of understanding as to what the proposal involves. So I'll move straight forward onto section nine of my report, where I, on my evidence, where I talk about Council's 42A report. Okay.  Now, I've reviewed Council's 42-hour report and concluded that the report is accurate and correct. As such, I agree with all the key points made in the report, including, but not limited to the following points. The effects of the proposal are appropriate in the residential zone. The proposal is not contrary to the objectives and policies of the Waip\u0101 District Plan.  The proposal satisfies the Section 104D gateway test. The proposal aligns and gives effect to the National Policy Statement for Urban Development, or the NPSUD. As I said before, Council's processing planner has also submitted a set of draft conditions, which I will talk about towards the end of our presentation today.  As my opinion accords with that of Council's processing planner, I'll focus my attention on what I believe are the key concerns which have been raised by the submitters. So obviously, there is a gap. And what I'm going to try and do in the next part of my presentation here is bridge the gap and talk about the gap between what's proposed and the submitters' key points.  These key points are the loss of privacy, shading, failure to comply with district plan provisions, permeable surfaces and flooding, and amenity values.",
+    "speaker": "wendy",
+    "tags": [
+      "provide_information",
+      "agree",
+      "summarize_outcome",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 557.605,
+    "end": 558.365,
+    "text": "Loss of privacy.",
+    "speaker": "tonycoutts",
+    "tags": [
+      "express_concern"
+    ]
+  },
+  {
+    "start": 560.082,
+    "end": 663.05,
+    "text": " The submitters have raised particular concerns in relation to the potential loss of privacy. In particular, the submitters at 107 Taylor Street have stated that there will be a total of 20 windows overlooking their property. In my opinion, the statement is misleading as the windows located on the ground floor will not be visible from the property due to the 1.8 metre high fence and the landscaping that is proposed along the internal boundary.  Of the upper level windows, which there are 10, three of the windows will be bathrooms, which will contain opaque glass, which cannot be seen through.  Notwithstanding, in order to further mitigate any potential effects on the owners and occupiers at 107 Taylor Street, the applicant is happy to explore the potential for a higher internal fence. This was not offered up as part of the original application as it would result in a further non-compliance with the district plan standards.  It is important to note that this measure would be voluntary mitigation offered up and would not have any bearing on the overall conclusions reached in this report in relation to the potential privacy effects.  It was also noted that the proposed landscaping identified in a professional landscape design plan prepared by, and I've got line seven design, so it's important to know that a yachting company didn't do the landscaping. It was actually Line N Design, who are a very well-known local landscaping company. So that's all the peripheries of the site, and it will soften the bulk of the dwellings.",
+    "speaker": "wendy",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "state_opinion",
+      "evaluate_option",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 665.787,
+    "end": 675.849,
+    "text": " Sorry, Gareth, can I just interrupt? When you shuffle the paper, it's knocking the microphone, I think, on your desk, which is causing it to... We hear all your shuffling.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "express_concern",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 676.069,
+    "end": 1190.76,
+    "text": "Can you hear me OK, though? Is it right? OK. Actually, my paper was actually sitting on the microphone, so I'll move that.  Accentuating and maximizing privacy in the neighboring properties was a key discussion point during the design phase of the project. As such, the development was designed so the upper levels of the dwellings were recessed off the boundary to maximize the separation distance between the units and the adjoining properties.  It is important to note that there are no district plan provisions that restrict the number of windows that could be constructed on the exterior facade of a building. For example, a dwelling exactly the same size as what is proposed when viewed from the boundaries of 107 Taylor Street could be constructed as a permitted activity, not requiring resource consent.  This point was also specifically referenced in Council's 42a report as follows.  I agree and also note that the number of windows is typical and generally consistent with what could occur as a permitted activity, specifically noting that the proposed buildings comply with the internal setback and height in relation to boundary requirements of the district plan. Furthermore, two-storey dwellings are anticipated by the district plan and are not uncommon in that area. Therefore, while there may be a perceived loss of privacy,  there is no increased loss of privacy as a result of the two-storey dwellings. Based on the above analysis, I conclude that the proposal will not result in a loss of privacy on the neighbouring properties that has not already been anticipated in the residential environment by virtue of the provisions of the district plan. I'll now talk about shading.  the submitters have raised concerns regarding potential shading effects. The key point to note is that the proposal complies with the height in relation to boundary provisions of the plan, of the district plan. Thus, once again, dwelling exactly the same height and the same location could be constructed as a permitted activity, not requiring resource consent.  As such, we're able to conclude that the proposal does not generate any additional shading effects over and above what has been anticipated and permitted in the residential zone. I'd like to now talk about the failure to comply with district plan provisions. It is acknowledged that the proposal fails to comply with a number of district plan provisions and ultimately defaults to a non-complying activity.  However, the journey towards the proposal defaults to a non-complying activity is worth further analysis. As identified in Council's 42A report, compact housing within the compact housing overlay is initially assessed as a restricted discretionary activity. However, since the site vows to comply with a 2,000 metre squared minimum lot size, the land use component of the proposal defaults to a discretionary activity.  The only reason the application defaults to a non-compliant activity is due to the corresponding freehold subdivision. Thus, if the application did not seek a concurrent subdivision, the discretionary activity status would remain intact. Council's 42A report also recognises the significance of activity status. And I'll just paraphrase this subsection from the 42A report, because I think it is quite important.  In terms of the site failing to meet the 2000m2 minimum area of Rule 2.4.2.43, it is important to note that this failure results in the proposal being considered a discretionary activity rather than a restricted discretionary activity should the proposal meet the other matters within the rule. This discretionary activity status indicates that the district plan contemplates compact housing that may not meet the restricted discretionary activity requirement.  If a more stringent activity status, such as a non-compliant, such as non-compliant, applied to the proposal that did not meet the minimum area would set a clear discretion, direction that the proposal inconsistent or not participate in the district plan. I concur with the statement from Council's 42A report.  The submitters have identified the Kerrmool surface area as a key non-compliance with the district plan. Whilst I acknowledge that this non-compliance exists, it is important to understand why Kerrmool surface provisions of the district plan were introduced. And that was to give council a degree of discretion to ensure a proposal or activity does not generate any additional stormwater or flooding effects.  As part of the application process, an engineering assessment and design was provided by Titus Consulting Engineers, which provided a proposed solution for the disposal of stormwater. The same report was also reviewed by Council's Development Engineer, who is satisfied the proposed design complies with the appropriate standards and will not have any effect or will not affect the adjoining neighbours.  Based on the findings of the Titus report and the specialist comments made by council's development engineer, I'm satisfied that the proposal will not contribute to any adverse flooding or stormwater effects, including the historic flooding issues on Taylor Street. In conclusion, the provisions of the district plan are an anticipated level of acceptance, which provides a threshold for development to occur as a right.  Where development fails to comply with the provisions of the district plan, it simply allows council or the decision maker the ability to exercise discretion as to the acceptability of such a development through a resource consent process. If a development fails certain provisions of the district plan, it is by no means a prerequisite for a resource consent to be refused.  If that was the case, I wouldn't have a job and all the other planners attending the hearing today wouldn't have a job as well. I'll now move on to amenity. Amenity-related values were comprehensively assessed as part of the application for resource consent and Council's 42a report where it was concluded that the development of this nature has been anticipated on residential sites adjoining reserves  by virtue of the objectives and policies of the district plan, the compact housing overlay, and the key principles of the NPSUD. A very similar conclusion was reached in Council's 42A report, which I concur with. I'd just also, in the next part here, I'd like to paraphrase a key extract from the 42A reports. Once again, I think it provides some quite good context.  It is noted that this type of development is the first of its kind to occur along Taylor Street, which will indicate that it will look slightly different to that of a standard residential development largely comprising of single storey housing existing along that street. However, given the district plan provisions and further direction from central government to establish higher density housing,  The proposal represents a snapshot into the future development that will exist in time along Taylor Street, whilst not compromising the existing amenity values. Overall, it was concluded that the proposal represents an acceptable outcome for the site. And at this point now, I would like to pass on to Mr. Behr, who will just elaborate a bit further  on the design characteristics and the amenity values of the proposal. And I'm also going to turn up the air conditioning because it's freezing really here.",
+    "speaker": "wendy",
+    "tags": [
+      "ask_question",
+      "provide_information",
+      "cite_reference",
+      "clarify_point",
+      "evaluate_option",
+      "state_opinion",
+      "reassure_stakeholders",
+      "procedural_move",
+      "summarize_outcome",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 1190.8,
+    "end": 1450.776,
+    "text": "Good morning, everyone. Thanks for that, Gareth. I'm Chris Fairman. I've been here from Cambridge. I was approached by Wendy Warren about a year ago to look at the design for this property. Gareth has covered  quite a lot in relation to the building and the shape of the building and the massing and their relationships to the site. So thanks, Gareth. And what I'll cover now, I'll just assume that everyone's read my evidence, and now I'll just cover a few kind of key points from it around the design of the building and sort of the basis for design decisions.  We were quite excited to design this development within a compact housing overlay. It's kind of a  For Cambridge, it's something that Cambridge is looking at more and more, and there are a few around in Cambridge, but we wanted to design something that worked as kind of a good example for what might be developed in the future. We looked at the site in conjunction with Gareth and determined that sort of a site density of one dwelling per 200 square meters was reasonable and suitable, both for the site  the area of the site, but also in relation to compact housing and what sort of density might be suitable, I guess, for the community and the town going forward. The design of the buildings on that density was five buildings on the site. We looked at minimising the driveway and the crossing so we'd have less  impact on the surroundings. We also looked at configuring the dwellings so that they had good-sized outdoor living areas, that the living areas, kitchen, dining, were on the ground floor, and that the upper floors housed the bedrooms, and that the upper floors were sort of pulled back from the boundaries so the buildings had less sort of overall mass from the outside and less effect on neighboring properties.  We made a decision to design within all the building setbacks and within the daylight plan, hypercession plans. And then we further made a decision to configure the overall development of the dwellings into two forms. So there's two dwellings at the back that are in one building form and three in the front that are in one building form. And the idea was that  was to sort of continue the typology of the area and Gareth covered a bit of this in his evidence in terms of  building something that might be able to be seen as a typical development where a similar sized section is subdivided into two properties and there's two dwellings built on the site. So that was something that was quite important to us. In terms of the appearance of the buildings, we worked quite closely with Wendy and Warren, and they'll talk a little bit about this, but the outside quality  and appearance was very important. And so we've looked at using materials that sort of represent that high quality. And quite a lot of emphasis put on landscaping, both kind of the communal landscaping around the driveways and the street frontage, but also within the dwellings themselves. And so there's a big emphasis on building these buildings that are  sort of a high quality that I guess the overall thing is that they're a good example of what compact housing can be in this area. And that's essentially design. I think I'm happy to take questions as well, but I'll hand over back to Kara.",
+    "speaker": "wendy",
+    "tags": [
+      "provide_information",
+      "summarize_outcome",
+      "prioritize_issue",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 1452.937,
+    "end": 1665.747,
+    "text": " Thanks, Chris. I'll continue on and I'll just cover just the key statutory framework, section 104 of the RMA, because that's really important. Before I move on to that, I'd just like to point out section 28 of my evidence. The Smiths have raised specific concerns that the dwellings might be sold to investors for rentals.  This is entirely speculative as occupancy and tenancy of the dwellings is not a relevant resource management issue and should, in my opinion, not be given any weighting today. I'll just, yeah, as I said before, I'll move on to my section 104 analysis. Excuse me.  A thorough assessment against the statutory framework was undertaken within the application of the resource consent in Council's section 42A report. I conclude that the section 42A report has accurately covered off all the relevant statutory requirements outlined in section 104 of the Act, and thus the proposal has accurately been assessed.  The conclusions made within the application for the resource consent also remain relevant. In summary, both reports have drawn the same key conclusions as follows. The proposal represents an acceptable outcome in the residential environment and close proximity to a reserve. The proposal generates a number of positive effects, such as the creation of additional dwellings, providing a mixture of housing typologies,  increased vibrancy of the area. The proposal is not contrary to the objectives and policies of the district plan, but the proposal aligns with the high-level planning documents, in particular the NPSUD, as concluded in Council's section 42a report as follows. I will just read the section in full because it is important.  The key outcome of the supporting policies of the NPSUD 2020 is for local authorities to provide for housing variety, accessibility, density, intensification, and responsiveness to changing community demands. In my view, the proposal represents an alternative housing type that can be appropriately serviced and accessible to recreation activities. On this basis, the proposal aligns and gives effect to the NPSUD.  The proposal is in accordance with Part 2, Principles and Purposes of the Act. The proposal passes through both limbs of the Section 104D Gateway Test. And I see there's a typo in there, sorry. It's not the Section 1041D Gateway Test. Based on the above rationale, I conclude the proposal satisfies the required RMA statutory framework, and thus consent is able to be granted.  At this point now, I'd like to pass on to Wendy, who is just going to just explain sort of her journey and why the development ended up how it is essentially. Following that, I'll just comment briefly on the draft conditions and to summarise some key conclusions.",
+    "speaker": "wendy",
+    "tags": []
+  },
+  {
+    "start": 1666.388,
+    "end": 1666.708,
+    "text": "Thanks.",
+    "speaker": "wendy",
+    "tags": []
+  },
+  {
+    "start": 1666.788,
+    "end": 1895.695,
+    "text": "Hi everyone.  So just thought I'd touch on two things, why this design, and then our thought process in the design. So why this design? In the last couple of years, Warren and I have had a few conversations with a lot of people at High Performance New Zealand, and also in the back of our mind was easy low maintenance  low maintenance living was a big part behind it. You sort of feel like there's a gap for people that just don't want to have lawns and mowing and things like that. And as well, sort of the work from home aspect has become big in these COVID times. So each one of the apartments does have an office, some small, some large. And yeah, so the conversation really did come about a lot from the high performance.  even to the point I think Gareth just said before about being rent as well. Our daughter, Jessie, has just come back from the Olympics and competing there. And so she's going to be one of the purchasers of the apartments. And also, I think Elise Andrews was putting her name down for one. So it came about because they basically said we haven't got time to look after, you know, lawns or energy. So that was a little bit why this design came about.  The thought process in our design is we do have a passion for house design and builds. It's something that we like to do. People like to garden and whatever. So that's us. And we really didn't want to build a line of five, just all the same. We knew that we wanted to, because it's  design is our passion. That's where we, with Chris and a few other conversations, we came up with the three and then the two. And we actually feel that Chris did an amazing job of it. When you look at the three in a row, there's a park at the top, apartments one and two obviously beside each other. They've got fins and you wouldn't even know that they're actually separated. They actually look like one building. So yeah, Chris, we feel like did an amazing job.  and it's got a nice high-end look. We also did some homework. Matt Staff, I'm not sure if you know him, but he's a high-end developer leading the design and development in Hamilton. And we didn't know him, but we asked for a meeting and he obliged, which was really nice. And he went through all his... He's doing the large apartment design  come to Nice, the Hills Laboratory. So yeah, he gave us a lot of feedback and help there. We picked his brains, so that was neat. And the cool thing about it, that even though we'd already engaged with Chris, he actually recommended Chris from Cambridge. So Chris be our architect. So that was a really good pick for us. And then also, you know, we didn't want to stop there. We engaged Linley Fyfe from Line of Design and just  to make sure we have the really nice specimen trees. We're gonna have lights coming up to them to highlight that. So, yeah, I haven't got a lot more to say other than this, that we are passionate and we're really proud of our thought process and what Chris has come up with. So, yeah, that's us. Thank you.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "state_opinion",
+      "cite_reference",
+      "public_address"
+    ]
+  },
+  {
+    "start": 1896.264,
+    "end": 2093.355,
+    "text": " Thank you. Thank you, Wendy. We're nearing the end of our presentation now. I will just comment quickly on the draft conditions. Now, I thought that the conditions are really very good. There's just a couple of very innocuous changes I picked up on, which  to be honest, don't compromise the intent of the conditions at all. I just thought that Condition 2, I assume we all have the consent conditions. I thought Consent Condition 2 was probably not required as it could be dealt with under the General Accordance Condition. It looked like there was a simple, unless I've missed something there, maybe a simple typo.  in Condition 9 regarding just some cross-referencing there. I thought with above Condition 9, there could potentially be another subheading just to break it up from the monitoring because it wasn't really a monitoring condition. And Condition 10, that's quite interesting. So it's been conditioned that a 1.8 metre high fence be built. Now, that's what  has been applied for. However, I feel as though we're willing to revisit that question, that condition for a high offence if need be. I do not believe it's going to compromise the intent of the evidence or the application as lodged. So we can perhaps discuss that later. Now, just in conclusion, having considered all relevant matters,  My evidence draws the following key conclusions. I agree with the findings of the Council's section 42a report. The conclusions made within the application for resource consent application have not altered throughout this consenting process. Development of this nature has been anticipated on residential zone sites in close proximity to a reserve and within a compact housing overlay identified in the district plan, which the site accords with.  Any potential adverse effects of the proposal are concluded to be acceptable, in my opinion. The permitted baseline associated with privacy, height and shading provides clear guidance on the type of effects that have been anticipated and provided for within the residential zone by virtue of the district plan provisions. There is strong policy support in the district plan for development of this nature.  The proposal aligns with the key principles identified in the NPSUD. The purpose of the RMA is best achieved by approving this consent rather than refusing it. So that completes or concludes our presentation. Thank you for listening and obviously welcome any questions",
+    "speaker": "wendy",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "state_opinion",
+      "agree",
+      "summarize_outcome",
+      "defer_decision",
+      "public_address"
+    ]
+  },
+  {
+    "start": 2099.841,
+    "end": 2102.642,
+    "text": " I've got no questions. Lou, have you got any questions?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2103.983,
+    "end": 2106.784,
+    "text": "Not at this time, Mr Chairman. OK, great.",
+    "speaker": "commission",
+    "tags": [
+      "defer_decision",
+      "agree",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 2106.804,
+    "end": 2134.578,
+    "text": "Thank you. Right then, we'll go on\u2014 Mr Chairman, I would like a point of clarification to ask Gareth a question, please. Well, you can't ask Gareth a question directly, but what is the question? On his page 9 of his report,  Page 9, just give me a second. \u2014 Point 25.",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "cite_reference"
+    ]
+  },
+  {
+    "start": 2135.098,
+    "end": 2136.179,
+    "text": "\u2014 25, yep.",
+    "speaker": "adriennemurray",
+    "tags": [
+      "provide_information",
+      "agree"
+    ]
+  },
+  {
+    "start": 2136.199,
+    "end": 2151.854,
+    "text": "\u2014 Amenity and amenity-related values were comprehensively assessed as part of this application, whereas the evidence at this hearing, that it was comprehensively assessed.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 2152.374,
+    "end": 2154.396,
+    "text": "We've only got wording on paper.",
+    "speaker": "adriennemurray",
+    "tags": [
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 2156.128,
+    "end": 2173.413,
+    "text": " All right. That might be something that they could address in their closing comments. Although, Gareth, would you be happy to mention something now or should I too? I'm not 100 percent certain of how to answer the question.",
+    "speaker": "Unknown",
+    "tags": [
+      "defer_to_authority",
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 2175.973,
+    "end": 2212.613,
+    "text": " I think if you look at my application for resource consent, there is a section on amenity, quite a lengthy and comprehensive section on amenity. Then again, if you look at Council's 42A report, there's also a comprehensive section on amenity. They form very important and significant parts of the report. In my view, that was  that's been comprehensively covered, in my opinion, and that's the only way I can answer that question.",
+    "speaker": "wendy",
+    "tags": [
+      "provide_information",
+      "cite_reference",
+      "state_opinion",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 2212.974,
+    "end": 2224.38,
+    "text": "OK, that's fine. Thank you. OK, so we'll pass over to you now, Mr. James, if you'd like to present your evidence, please, and your report. That would be great. Thank you.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 2226.321,
+    "end": 2977.304,
+    "text": "Thank you, Mr. Chairperson. Needless to say, good morning, everyone. My name is Christopher James.  and I live at 107 Taylor Street, Cambridge. And needless to say, I have quite a different opinion from the applicants regarding this development. My wife, Helen and I have lived here for nine and a half years. It is our home. We've put a lot of time and effort into making it a pleasant place to live. And we're very concerned about the effect of this development.  The development at 109 Taylor Street is going to have a significant impact on our quality of living and the enjoyment of our section because of the size of the buildings and their proximity to our home. Our house is placed on the eastern side of our section, quite close to the eastern fence line.  This has never been an issue in the past because the driveway of 109 Taylor is on the western side of the section and there's a significant space between the two dwellings. The plan for 109 Taylor is to place the front three terraced houses 1.5 metres from our eastern fence line.  and four meters from the front of the section and along the whole side of our home with another two dwellings at the rear of the section, making five new households with increased noise levels and activity. The plan given to us shows 15 doors and windows looking directly out towards our home and five more looking over our backyard from the western side of the rear dwellings.  This obviously will affect our privacy and the closeness of the two dwellings will create shading issues. Since we were informed of this proposed development, I've made a special effort to observe the shading effects of the buildings. In the morning, a two-storey building would cast a large shadow over our house from the east. And from the early afternoon, our house casts a large shadow over  from, sorry, from in the, right, our house casts a large shadow over the outdoor spaces of anyone living in the new building. I note that there is a 1.8 metre fence planned between the properties, and this may help with some of the privacy issues, but the windows of the dwellings on both sides of the fence will still be a view of each other, and the fence, of course, will do nothing to help with the shading issue.  The notification report concluded that the neighbours of 109 Taylor Street would be affected by this new development. And I note that while there are some two-storey buildings on Taylor Street near 109, they are not as large as what is proposed and are spaced in a typical residential density of one dwelling per 500 square metres.  This proposed development has dwellings of much smaller sites, and it is a noticeable change from the existing character of the area. Now, while the development has been designed to comply with the height and setback standards of the district plan, the proposal is to build two large, two-storey buildings, which will have an effect on privacy and shading of the neighbouring houses.  The proposal involves three three-bedroom units and two two-bedroom units. Therefore, the total number of bedrooms is 13. To compare this with a permitted development consisting of two dwellings on the site would be a six-bedroom dwelling and a seven-bedroom dwelling, which, of course, is not a realistic outcome for this site.  On this basis, the proposal represents an increase in intensity above what would be reasonably expected to occur on that site. As a neighbour living next door to 109 Taylor Street, we could not have reasonably expected a development of such a size to take place on that site because it does not comply with the district plan.  That is why we've been given this opportunity to express our concerns regarding this proposed development. Also, after reading through the notification report and looking over the district plan, I noticed that the proposed development at 109 Taylor Street does not comply with the district plan in a number of ways, some of which are very technical. So I intend to focus on the non-compliance that I consider to be of the greatest concern to us.  Rule number 2.4.2.43, a compact housing within the compact housing area overlay shall have a minimum area of 2000 square metres. The proposed development is on a total site of 1012 square metres, which is a little over half of the required area and therefore fails to comply with the district plan  or the compact housing overlay. B, provision F of rule number 2.4.2.43, a development requires at least 30 percent of the net site shall be made up of permeable surfaces. The proposed development has a total permeable area for the site of 14 percent, less than half, and therefore  does not comply with the district plan. I note here that the council's development engineer states that there will be soak pits on the site. And when there is heavy rain, water may bubble out of the soak pit and run down the drive into the catch pit on the roadside. The engineer assures us that the stormwater system will cope.  But despite what the council engineer says, we know that that catch pit has been unable to cope with heavy rain in the past and has caused flooding. And it is likely that it will be under increased pressure with runoff from 109 Taylor Street and heavy rain. It seems unreasonable to us  that the council expects us to accept a possible increased risk of flooding due to this development. And rule number 15.4.2.6, subdivision within the urban limits shall not create more than two rear lots. This development plans to create four rear lots.  This proposed development does not comply with the district plan. So why is it being considered? Is it supposed to create affordable housing? These terraced houses are going to be very small and I suspect after a discussion we had with the developers and their planner, very expensive. The current house and garage on a quarter acre section was purchased for less than the price that it is anticipated will be asked for these terraced houses.  The current dwelling is an affordable house, and it's going to be removed. I note in the article, Compact Homes Feed Housing Demand, written by Lawrence Gullery and published in the Cambridge edition on the 21st of July, 2021, that the compact homes built at 47 Coleridge Street will be marketed at prices ranging from $850 to over $1 million.  And I understand that these terraced houses will be marketed at a similar price. That is not affordable. So if it's not about affordable housing, is it about the intensification of building? I know that the central government is pushing for greater intensification of building.  But according to an article, Housing Affordability, an Ongoing Challenge for Hamilton, Waip\u0101 and Waikato Districts, written by Aaron Lehman and published in Stuff on the 3rd of August this year. This applies to Tier 1 cities such as Auckland, Hamilton, Tauranga, Wellington and Christchurch. There's no mention that this needs to happen in Cambridge. In fact, the article goes on to say,  A newly released report on Hamilton, Waikato and Waip\u0101 districts found that there is sufficient land to satisfy demand in the short, medium and long term. And just this morning, I noticed in the Herald, there was an article that states the same sort of thing. So, yes, there will be five dwellings in place of one, but the district plan allows for two dwellings on that site already.  And you only have to drive from Cambridge to Hamilton to see all the land that is already set aside for housing in the coming years. Will an extra few small dwellings make much difference? Why not stick to the district plan and not make our neighbourhood less pleasant? So I ask again, why is this non-complying activity being considered?  Why are the council planners recommending this development go ahead, despite the fact that it doesn't comply with the district plan? When was it decided that the rules stating that a development like this should be built on a 2000 square metre section and is planned for a section roughly half that size with four rear lots instead of two should be discretionary? The district plan is very comprehensive.  and a huge amount of work has been put into its development. It should not be ignored. To allow this development to go ahead could create a precedent, and precedents can cause all kinds of problems when you're trying to plan the managed development of a growing town like Cambridge. In this case, it could indicate that the district plan is just a guide and can be ignored and manipulated.  There is no mandate from the people of Cambridge or the Waip\u0101 district for a non-complying development such as this to go ahead.  If the council wants to change the district plan, then they should do it properly with the full knowledge and consent of the people of Waip\u0101. If this is to happen, then council needs to draft up a new district plan, consult, listen, adjust accordingly and publish, not change the district plan by stealth and allow non-compliant developments to go ahead. All we ask is that the council enforce compliance with the district plan  and consider the well-being of the residents currently in the area. We believe that the proposed non-complying district development at 109 Taylor Street should not be allowed to proceed. It does not enhance the local area or the Cambridge Township. All it achieves is financial gain for the developers and I do not understand why the council's officers are supporting it.  It would be easy to put two very comfortable homes on that property that would comply with the district plan and would contribute to the overall pleasantness of the area. After all, the Waip\u0101 District Council's mission statement says, to partner the community in promoting the wellbeing of the Waip\u0101 District and its people. Finally, I would like to express my gratitude for having the opportunity to have my say about this development.  and I just ask that you consider my arguments carefully. Thank you. Greg Morgan Great.",
+    "speaker": "christopherjames",
+    "tags": []
+  },
+  {
+    "start": 2977.324,
+    "end": 3006.008,
+    "text": "Thank you very much, Mr James. It was a really well read and put together submission. Thank you for that. Is there any questions at all, Lou, that you've got? I've just got one question, Mr James. If the consent was granted, what conditions would you  be wanting in there to mitigate the effects of the subdivision?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 3006.168,
+    "end": 3020.752,
+    "text": "Really, I haven't given that a lot of thought. We could discuss that fence and its design and height. Yeah, that's probably the first thing. Maybe. Yeah, that's it. Thanks.",
+    "speaker": "christopherjames",
+    "tags": [
+      "defer_decision",
+      "prioritize_issue",
+      "evaluate_option"
+    ]
+  },
+  {
+    "start": 3021.833,
+    "end": 3022.713,
+    "text": "OK, cool. Thank you.",
+    "speaker": "Unknown",
+    "tags": [
+      "agree",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 3034.001,
+    "end": 3035.542,
+    "text": " You're on mute, Mr Chairman.",
+    "speaker": "quentinbudd",
+    "tags": [
+      "procedural_move",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 3035.922,
+    "end": 3044.229,
+    "text": "Sorry. Press the wrong button. Sorry. Now, over to you guys now, Adrian and Murray Olsen, if you'd like to present your evidence, please.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "assign_action",
+      "public_address"
+    ]
+  },
+  {
+    "start": 3045.19,
+    "end": 3624.248,
+    "text": "Yes. Thank you, Mr Chairman. We will give you a copy of our evidence after this meeting. Introduction. My name is Adrian Olsen, as I've said before.  I'm Associate Chartered Accountant and the owner of 111 Taylor Street in Cambridge. We purchased the property on the 11th of September, 2020 as our retirement home. My qualifications and experience, I have a business studies degree in Wintec and Hamilton. I have had 47 years experience in corporate accounting. 36 years of my career,  included fraud investigation. I am a past chairperson of the Institute of Chartered Accountants, Waikato Bay of Plenty branch, and spent several years on the National Corporate Committees in Wellington. Today, I want to go through our journey with the Hodges development process, and it is quite different.  Today, I'm going to take a few steps backwards to when the district plan allowed infill compact housing as an overlay in Taylor Street. When compact housing was suggested in our area of perhaps up to two buildings on this sized land of 1,012 square metres, no one, and I repeat, no one could have ever imagined  design like Wendy and Warren Hodges have produced. I have put in a submission against this resource consent being granted for the building of five two-storey, in my opinion, flats by applicants Warren and Wendy Hodges at 109 Taylor Street, Cambridge. They are trying to squeeze the dwellings onto a small  1012 square meters of land. In my opinion, these are the background facts. Some of this was in my submission and some of it I will add comment to. They purchased, Wendy and Warren Hodges, purchased the property in August of 2020. They paid well over the asking price for the specific purpose of putting a development like this on the property.  On the 18th of August, Hodges Projects Company was incorporated to run this project. In December, Warren emails us a pack to look at. In this pack, it clearly states, there is no obligation to sign the affected person's form and no reasons need to be given.  In our 16th of January, Warren tells Bill James here today that Adrian and Murray were going to approve their process, much to our surprise. On the 17th of January, Warren comes over to discuss what we thought of the proposal, and it was quite a lengthy discussion that we had. We summarised it as below. Non-compliance was raised,  and we asked why he intended to put up a proposal that was clearly totally non-compliant with the Waip\u0101 District Plan. Warren replied it was the only site that he could find and that the compliant plots of land that were suitable would have cost him too much. We told him the footprint of the proposal was grossly excessive.  We went on to suggest another unit behind would be acceptable, the normal in our area, and he wouldn't need to consult with us. Having a second unit would naturally comply and would be in keeping with all other properties currently in Taylor Street. We suggested that he sell the property and buy land that does comply.  Needless to say, he didn't like that suggestion. Warren said he would not compromise on the current proposal and he would see how it flies. Warren went on to say he needed to have the five units on his property so he could make a million dollars profit. Warren proposed a meeting with us, with Gareth Moran. He went on to tell us and explain how he came to Gareth.  that he had actively sought Gareth out as Gareth knew the inner workings of the Waip\u0101 District Council and that he knew how to push the non-compliant consent through to get granted. He told Warren that the meeting, we told Warren that a meeting with him was pointless and that we would not attend his meeting due to Warren's hardline stance of  no changes. Warren confirmed that there was to be no body corporate as this would cost him more money and he intended not to live in any of the units. On the 18th of January, we receive an email asking us to come to a meeting. Our email address was passed on without permission to Gareth Moran,  who started sending emails about Warren's project. We felt unduly pressured and were hassled to accept the proposal. Less than half an hour later, Gareth's emails started coming through. Just to emphasize your point below, he says, the purpose of the meeting is for us to listen carefully.  Once we have a good understanding of the potential issues, we will look at whatever compromises can be made. Now, the outcome from that meeting that Bill James was present at was there were no compromises. He then said, very shortly after that, just wondering if it's possible to have a phone conversation if a meeting is not acceptable. We were away at the time.  So we hadn't replied to these emails. And when we did come back, we explained, we let Warren know, with Bill James present at that meeting that day, that we would not be attending or signing the consent form. There's just no point. I then went on to say, I got another email. Was our email not clear? Let me know what part of it you understand.  Then he starts to tell us, why are you being so rude? I'm honestly trying to help you. Now, within that, he sent back a lengthy email and he says, Wendy and Warren really want to work with the neighbours to create something special that will actually enhance property values in the area. How can we do this?  as we don't know what your concerns are. That's not reality. Warren knew clearly our concerns. If council doesn't consider your property to be affected, he then went on to say, and it's a realistic scenario, that the application would be approved without having any input to the outcome.  He then went on to say that it would be quite costly and time-consuming. He asked us to reconsider our position as we could potentially save us a good deal of time and money. We are here today. Time and money isn't important to us. What is important is the development. He said the development would be advanced with or without our involvement. After this email,  which is full of inaccuracies of trying to scare us into attending the meeting, we declined. We felt our rights had been trampled on and we asked him to respect our rights. Now, I want to make a comment under the  Garris under comment on page 28 of his resource consent application. Of this application, he refers to state housing in Taylor Street. And I'll just wait for you guys to catch up so you can see it.",
+    "speaker": "adriennemurray",
+    "tags": [
+      "provide_information",
+      "express_concern",
+      "state_opinion",
+      "persuasion_attempt",
+      "public_address"
+    ]
+  },
+  {
+    "start": 3624.268,
+    "end": 3626.049,
+    "text": "Which point is that on page 28?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 3626.889,
+    "end": 3898.918,
+    "text": "It's in Garris' application for the resource consent, page 28. It's headed comment.  of this application refers to state housing in Taylor Street. And he says that the new development would create a higher benchmark for Taylor Street. In actual fact, state housing actually isn't in our block whatsoever. We strongly disagree with his statement because it does not follow the two dwelling compact housing development for this area. We all know that in the 1960s,  When two-storey state housing was built in the new subdivisions of Porirua, Panmure, et cetera, these were the latest design, and they were designed by architects at the time. And since then, they have turned into low socioeconomic housing, and this development, in our opinion, would be no different.  My submission on social and environment character will substantially change the amenity values on our adjoining property. The proposed units could be sold to investors for rentals and thus destroying the typical character of Taylor Street. Realistic, if this proposal is approved, it will downgrade our property values and quality of living conditions. Currently,  The whole of Taylor Street has only few properties that have been infilled with only one extra property and thus keeping the area a desirable place to live adjacent to the Greenbelt and Cambridge High School. This proposal breaks all council rules with impunity for decent social environmental living for Taylor Street. A current example that does comply  is my neighbours on the other side at 111 Taylor Street. 113, sorry. I am 111, so it's one removed from 109 on the other side of our property. There is an infill currently being built in the back of one dwelling in keeping with compact housing overlay and character of the area. This is going on currently.  The owners did not need our consent as they complied with the council bylaws. Why should Wendy and Warren be anything different with their application? They should comply. Gareth has read today his statement on page nine that our statement should not be given any weighting in the decision-making process. In fact, our statement is highly realistic  with the example I have given on state housing and should have a weighting in your decision-making process. This resort application breaks all council rules with impunity for decent social, environmental, living for us in Tavistrip. The precursor to this hearing of what has come up was all about bullying, keeping costs down, maximising profits,  without any considerations for the neighbours and the neighbourhood. In accountancy terms, this is called vicarious greed. One person, where one person is obsessed on making maximum money, showing a total disregard for the persons, which is us, the neighbours, and how we are affected around them.  This resort application, in my opinion, has been shown that it is totally non-compliant, and we are asking, based on facts for this application, for the consenting authority to reject the application outright as it stands. Now I'll pass to my husband, Murray, who will read the rest. Thank you.",
+    "speaker": "adriennemurray",
+    "tags": []
+  },
+  {
+    "start": 3900.219,
+    "end": 4739.457,
+    "text": "Kia ora koutou, everyone. Good morning. My name is Murray Olsen.  I hold a bachelor's degree from Massey University. The degree is in Geography, which includes Environmental and Urban Studies. I am currently teaching Geography at Tokerau High School. I'm also a property developer in the South Waikato. I'm going to talk and elaborate on five points that we have made in our submission. Point one, permeability of the site and flooding potential. On the 11th of January 2020,  the Waipa District Council sent 111 Taylor Street a letter to say that we were included in their flood hazard zone area. In our submission, we have included a photograph of 111 Taylor Street showing its very low-lying nature. We also showed and included the recent flooding  in 2017, where the sections along that part of the street have been flooded. Flooding is one of the major concerns we have. Properties at 107, 106 and 11 times the street are at the lowest points of the entire street. All of the properties, of all the properties, our dwelling is at ground level.  Taylor Street has a long history of flooding, which indicates that the council has not been able to eliminate the problem. In the development of 109, if it is granted, it must lead to increased flooding of our neighbourhood. This would be the result of the huge increase in the non-permeability of the surface area. Permeability rates of all the proposed five houses  able to comply on more than 50%. For instance, the closest to the situation of a 30% of permeability for each of the dwellings is lot one, and that is 26.6%. The worst is lot two, it's 5.2%.  These developments are going to be putting in soak holes. This will concentrate the water and will quickly saturate the soil and the substrata. The driveway is the biggest non-permeable surface and will increase the surface runoff and discharge into Taylor Street and the adjacent properties. Environmentalists all agree with global warming, there is going to be an increase in storms, weather bombs and rainfall.  The recent example of Auckland's floods this year is a good example of that. Point two, pressures on infrastructure. Traffic issues. We have noticed a steady growth in traffic density, and there's already a problem with parking and through traffic. This is a result of the increase in vehicles used to attend Cambridge high schools  by students on weekdays. Weekends are equally hectic with the use of sports fields, dog obedience fields and the cyclist circuits within the area. We are in a congested part of the street and the council has recognised this and has recently added speed reduction judder bars along the section. The proposed large footprint of 10 plus cars  on the subdivision area will only exacerbate this problem. Sewage issues. We have already noticed an informed council of a sewage type smell in our area. The council informed us there had been previous reports about the same issue. We are concerned that such a big development will exacerbate this problem. Point three, lot design  It says subdivisions within the urban limits shall not create more than two rear units under the district plan. This proposal will create four, therefore totally non-compliant. Point four, fence design. Our boundary fence with 109 Taylor Street, we would like to be kept in the same form. Point five, footprint and non-compliance.  The footprint proposed at 109 Tater Street is agreed by all of the experts at this hearing that is not compliant with the district plan. The site fails to meet the minimum area of 2000 square metres under the compact housing rule by approximately half. Therefore, whilst the site is within the compact housing overlay, the intent of the policy overlay is clearly to enable compact housing and sites  that are less than 2,000 square metres in the area for development like this. Given the direction of compact housing rules, we as the owners of 111 could never reasonably anticipate the development of such a nature for this to occur. The high density of this housing proposal is seen in my opinion being  well above the norm and the character for the street. The application is an attempt to push the boundaries of the district plan for compact housing to the extreme. As Warren Hunter said to us, we'll see how it flies. We are surprised we are open at this meeting today, as the council should have already rejected the proposal for non-compliance under its own bylaws.  I have recently subdivided a property in South Waikato, and in order to get resource consent, I had to comply with all the law requirements of our district plan. Otherwise, it was not going to be granted. Councils are required to provide for their communities, health, safety and equality under the laws for audit citizens. By allowing such a development to go ahead, the Waipou District Council would be breaking its own bylaws.  and therefore making them worthless. Why not just let urban development run rampant, which is exactly what this application is. Bylaws are for the good of all and should be enforced. I wish to make a comment from Gareth Moran about the fact that this is not going to be a precedent. He claims that this development is not going to create a precedent. However,  based on history, this is not correct, as other developers will use this as an example, as it becomes common knowledge in the Cambridge area. He tells us that this statement, sorry, he tells us in this statement that the other developments will be built. That's a contradiction. And thus it will change the character of Trailer Street as a desirable place to live in. We see this development  It's just the thin end of the wedge. Gareth regularly refers to the non-compliance as discretionary. This is an attempt to downplay the failure to comply. I wish to make a comment about Chris Beers' statement. We've heard this morning about the comments about his development on behalf of the applicants and how the applicants want  us to think that this is a wonderful development, which is going to enhance our area. We are going to tell you why his information is irrelevant, as the proposal is a non-starter, as it is totally non-compliant with the overlay, the district plan. In the plan, he tries to trick us  by believing that square peaks can go into round holes. In his conclusion on page 11, point number 46, he says that the arrangement is now for two dwellings. He's trying to mislead us by calling it two dwellings.  Really, it's five, sorry, two buildings. Really, it's five dwellings. We dispute his interpretation as fanciful and ask that this paragraph is not relevant and should not be taken, given any weight in the decision-making process. Page seven, paragraph 31, refers to Auckland. We are a district council,  So this information is not really relevant to the process in our area. Point seven, page 32. This is a fanciful suggestion where he says that if he had 2,000 metres of land, we would be putting 10 sets of flats on this size.  This statement is not relevant. It doesn't apply because the area covered is only just 1,000 square meters, just over that.  On page 9.44, Christopher says, no comment has been provided on overlooking the rear of the premises of 111 Taylor Street. So we will provide information about our property at the rear of 111 Taylor Street. We do not have a standard New Zealand backyard.  as this is shown in the view on page nine. The outdoor cupboard living space was specifically designed for privacy and includes multi-coloured night lighting and clear see-through all-weather protection blinds. We've spent considerable funds on developing an extensive entertainment environment and will now have no privacy at all from dwellings three  upstairs windows as shown on page nine. The last seven pages of Christopher Beer's statement presented to us has no relevance to this hearing. It refers to Auckland. And we ask that these pages that are not relevant should not be taken into consideration.  We are seeking the following decision from the consent authority. This application shows a gross disregard for cultural regulations and other issues that we have identified. And in turn, consequently, has shown total disregard for the adjoining residential properties. We are having to make a submission  on an application that does not comply with council regulations. And the proposal should have been stopped earlier. It raises the real question of why does the council have bylaws when proposals like this are up for consideration? The proposal and its arrogance makes it look normal for our area when it is clearly not.  We are asking the consent authority for this proposal not to be granted. We would support 109 Taylor Street being subdivided into two properties, as this is the character of the rest of the street. Thank you for listening. Greg Morgan Thank you very much for your submission.",
+    "speaker": "adriennemurray",
+    "tags": []
+  },
+  {
+    "start": 4740.137,
+    "end": 4742.498,
+    "text": "Is there any questions from you, Lou, at all?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 4744.588,
+    "end": 4760.579,
+    "text": " Yeah, just quickly through you, Mr Chairman, I just wanted to ask about the frequency of the flooding that he said happened in 2017. How often does the area flood?",
+    "speaker": "commission",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 4763.201,
+    "end": 4771.967,
+    "text": "Yes. Bill James, who lives there, because we've only moved in there recently, could he answer that question, please?",
+    "speaker": "adriennemurray",
+    "tags": [
+      "ask_question",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 4772.407,
+    "end": 4773.608,
+    "text": "Yeah, sure. Go ahead, Bill.",
+    "speaker": "Unknown",
+    "tags": [
+      "agree",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4774.019,
+    "end": 4774.54,
+    "text": " Thank you.",
+    "speaker": "adriennemurray",
+    "tags": []
+  },
+  {
+    "start": 4776.083,
+    "end": 4822.116,
+    "text": "OK, yeah, the weather is changing, as you probably noticed, and instead of getting regular sort of  ongoing rainfall. We tend to get much heavier storms these days. And what happens is the catch pit that is just outside 109 very quickly blocks up. I personally go out there and clear it because our property gets flooded if it's allowed to carry on. So it's something that has to be monitored all the time.  But basically, any heavy rain will cause flooding unless that catch pit is cleared pretty much straight away. Does that answer your question? Eddie Tuiavii It does.",
+    "speaker": "christopherjames",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "express_concern",
+      "ask_question",
+      "report_back"
+    ]
+  },
+  {
+    "start": 4822.176,
+    "end": 4831.081,
+    "text": "Can I just ask from our council staff, how often is that area, is that road cleared? And has there been any work looked at the catchment pit?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 4833.595,
+    "end": 4865.047,
+    "text": " I can answer that, Chair. So that should be part of our maintenance schedule to clear the catch pits as per our sort of maintenance ratios. If this area is highlighted for required further maintenance, then that can be earmarked into those maintenance contracts.  So that can be identified as a catch pit of concern. We do have a series of catch pits that do continually get congested with types of rubbish and other sort of leaf debris. So that can be identified.",
+    "speaker": "tonycoutts",
+    "tags": [
+      "provide_information",
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4865.988,
+    "end": 4870.109,
+    "text": "Is it part of that catch pit at the moment on that list or is it not?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 4872.45,
+    "end": 4884.297,
+    "text": " It would be part of the list, but it might not be as\u2014it might be infrequently maintained. It might be something that we can look at in terms of adding it to our more regularly maintained catchments.",
+    "speaker": "tonycoutts",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "evaluate_option"
+    ]
+  },
+  {
+    "start": 4885.258,
+    "end": 4888.099,
+    "text": "Are you able to get us some information about that today during the hearing?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 4888.88,
+    "end": 4894.343,
+    "text": "I'll have a chat with Brian Hudson, our transportation manager, who manages those contracts. Great, thank you.",
+    "speaker": "tonycoutts",
+    "tags": [
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4895.003,
+    "end": 4901.427,
+    "text": "Mr. Chairman, could I\u2014 Just through you, Mr. Chairman. Sorry, go over here, Mr. Olsen.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4902.898,
+    "end": 4913.922,
+    "text": " It's all very well to be able to say keep clearing the area out, but one can never predict where a storm or weather bomb actually occurs. Yes.",
+    "speaker": "adriennemurray",
+    "tags": [
+      "express_concern",
+      "evaluate_option",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 4915.843,
+    "end": 4917.003,
+    "text": "Thank you. Sorry, Luke.",
+    "speaker": "Unknown",
+    "tags": []
+  },
+  {
+    "start": 4918.004,
+    "end": 4926.267,
+    "text": "Yeah, thank you. Through you, Mr Chairman, could we also ask staff to identify whether there is any flood prone areas in that particular area?",
+    "speaker": "commission",
+    "tags": [
+      "ask_question",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 4929.192,
+    "end": 4972.661,
+    "text": " I can comment on that as well. So as the two applicants have, or the two submitters, sorry, have raised, they have identified themselves as letter recipients of the flood risk profile that we're doing for our modeling. But as part of that process, it goes through three stages. One is the initial LiDAR model. The other one is the site survey specific to each person, and it's done by visual inspection.  And then the final one is a detailed inspection. So we're up to stage two of that process. So under that process, the two properties are no longer considered affected from a habitable dwelling, which is the main sort of assessment we're looking from that flood risk analysis.",
+    "speaker": "tonycoutts",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "report_back",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 4975.282,
+    "end": 6410.978,
+    "text": "Great. All right. I am going to call a break for about 20 minutes. So what we can do is we can all pause our videos and go off  and refresh ourselves. If we could all be back here at 11.50, please, and then we will have Tim Wilson presenting the council's paying report. So, yep, so I'll be back here at 11.50. Thanks.  Right. Welcome back, everybody. We will kick back into it. So, over to you now, Tim, please, for your report.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "assign_action",
+      "confirm_next_step",
+      "public_address"
+    ]
+  },
+  {
+    "start": 6412.402,
+    "end": 6512.811,
+    "text": " Mr. Chairman, if I can just clarify a couple of points just before the officers have their response. But it's just clarifying some errors in terms of the numbering of the consent conditions. And Mr. Moran, I think, identified that in condition nine of the land use consent that refers to some numbers of conditions that don't make sense.  What's happened is in the version that Mr. Wilson prepared, he'd had the land use consent conditions numbered 1 to 10. Sorry, I just realised my video is not on. The land use conditions were numbered 1 to 10, and then the subdivision conditions followed on from that being 11 to 23.  And then, at some point, someone has changed the numbering of the subdivision back to 1 to 13. Hence, Condition 9 refers to numbers that don't exist because the numbering system was changed. And then also, just in Condition 6b of the subdivision consent, it refers to, there's a consent notice referring to a landscaping plan  or Condition 3, but it refers to the subdivision consent. It should refer to the land use consent. And there's also some heading errors that the landscaping fencing condition is under a monitoring heading. So it should have a different, its own separate heading. That's not a monitoring condition. So I just wanted to clarify some numbering issues with the recommended conditions if it was a bit confusing.",
+    "speaker": "quentinbudd",
+    "tags": [
+      "clarify_point",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 6514.846,
+    "end": 6517.747,
+    "text": " OK, have you got those changes, Gareth? Does that make sense?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "confirm_next_step",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 6523.649,
+    "end": 6527.97,
+    "text": "Yeah, perfect. Yeah, no problems. Yeah, I agree with Mr Budson.",
+    "speaker": "wendy",
+    "tags": [
+      "agree",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 6529.97,
+    "end": 6530.591,
+    "text": "OK, great.",
+    "speaker": "wendy",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 6531.251,
+    "end": 6536.692,
+    "text": "So we'll hand over to the staff now, if that's all right, Mr Chairman. Yeah, sure. Go for it.",
+    "speaker": "quentinbudd",
+    "tags": [
+      "procedural_move",
+      "defer_to_authority",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 6537.533,
+    "end": 6580.715,
+    "text": "Thank you. So, yes, I'm Tim Wilson. I'm the author of the Foresway report.  And in preparing the report, I rely on evidence from Mr. Coutts and Mr. Sam Foster. So in terms of going through that report, I think it would be helpful to get Mr. Coutts and Mr. Foster to provide some comments on their respective areas of expertise. So I'll hand over to Tony Coutts first, and he'll touch on the engineering aspects, and then Sam Foster will talk about the urban design and urban form  And then I'll wrap up with the rest of the 42-hour report, policy assessment and conditions. So Tony, I'll leave it with you, thanks.",
+    "speaker": "timwilsonw",
+    "tags": [
+      "provide_information",
+      "defer_to_authority",
+      "assign_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6581.815,
+    "end": 6947.508,
+    "text": "Thanks Tim. So there's been a couple of points raised specifically around sort of components of infrastructure. So I think the main one I'll focus on is the stormwater and the flooding risk. So I've been in contact with our contracts manager for that.  the catch pit clearing. So previously this catch pit wasn't identified on our frequent regime. That frequent regime also characterizes taking in weather forecasting into effect. So with that, that item or that catch pit can now be added to that regime. So that helps predict when the catch pits need to be made clear.  to help alleviate those concerns with some of our soil systems. One of the other points raised around soil strata, so those points there under the testing regimes that were done by Titus Seville, the groundwater was not impacted and deemed to be quite low.  in terms of that. So an increase in sort of deluge of water concentrated in flows does not impact the water on the groundwater level. Therefore, it's not considered a perched water. The soakage characteristics of that soil strata also indicated good soakage volumes.  So that means that the layer of conservatism with the good soakage and also adding in the safety factor of timing that factor by two doubles the amount of conservatism in terms of catering for the impervious area. So although it breaches the requirements from a total impervious versus permeable area, those areas are captured appropriately in those devices.  Further to this as well in regards to the flood mapping point, there is identified flood  mapping for both these two properties and also with 109 in the 100-year event. As part of our private way design review, which is a condition of consent and a specific item around the disposal of still water, we'll be adding that requirement for the displacement of any event in the 100-year to also be recorded within the site and managed appropriately.  So in terms of the effects mitigated and brought to light through that permeable rule, that's deemed mitigated to less than minor by way of conditions based on both the soil strata effects, and this also takes into account climate change through relevant 2.1 degrees Celsius is what they've claimed, which is a case law representation of what to expect.  There's been further sort of points raised in regards to is this enough in terms of climate change. Now with that in question, the MFE have given guidelines around what is considered an appropriate scenario, and that indicates a 2.3 degree Celsius change. So there's a 0.2 degree separation distance which  In terms of the intensity figures, that doesn't change necessarily to a high degree. So in terms of the effects related to that sort of flood hazard analysis mentioned in the initial submissions versus what's considered a rural breach, I deem that the effects related to the flood risk to be considered minor and mitigated through wet conditions.  There's been some light touching on the wastewater systems. So with regards to that, our wastewater treatment facility located further down the road down to the Cambridge, that's our main sort of approach. Sorry, I'm just getting a call at the main, I'll just try and get rid of that.  So our LTP has been upgrading the scope of our mains infrastructure that connects to the wastewater treatment facilities, and it also increases the wastewater treatment facilities' ability to take waste. So with these planned infrastructure upgrades, they're encompassing a growth rate in the infill housing design.  So that's captured through our DC funding for sort of projects like this. And that also feeds into what our expected ultimate sort of peak wet weather flows will be for those waste systems. So with the right conditions in place around the private way design, ensuring that meets the right requirements from a design perspective, the effects of that would be also considered less than mine.  And then lightly on the traffic side of things as well. So as you might be aware, the national policy statement with regards to car parking, that has meant that our sort of operative district plan had to remove any points regarding car parking. But as from what I can see from the plans, car parking is still provided on site with the correct tracking curves to exit the site on a forward-facing maneuver.  which helps alleviate any of the traffic risk associated with that. As part of other urban statements or sort of national policy statements with regards to urban mobility, we're leaning towards trying to get those business cases sorted for the cycleway inclusions to help sort of provide a motile modal version of sort of connecting the infrastructure together with cycleways, shared paths, and that's to help  encourage other uses of traffic vehicles through a wider district plan initiative. So with those aspects, I feel that the site in question, the effects would also be considered less than minor with the correct conditions in place around the private way design and the entrance design.  In terms of the other components of infrastructure, I think those were appropriately commented on by our development engineer, Yuhu, in regards to other components of infrastructure, and they haven't been raised as a submission, and I consider those appropriately mitigated through the conditions as well. So that's it from me, unless you guys have any questions in regards to that.",
+    "speaker": "tonycoutts",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "evaluate_option",
+      "reassure_stakeholders",
+      "report_back",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 6951.49,
+    "end": 6959.092,
+    "text": " Thanks, Tony. Yeah, I'll hand over to Sam Foster to talk around urban design and urban form matters, please.",
+    "speaker": "timwilsonw",
+    "tags": [
+      "assign_action",
+      "defer_to_authority",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6961.673,
+    "end": 7503.824,
+    "text": "Yeah, thank you, Tim. Mr. Chair, just a quick introduction myself. My name's Samuel Foster. I'm a senior designer at Becker, a multidisciplinary company operating throughout the country. I hold a degree in Bachelor of Planning from University of Auckland and also a Master of Urban Design.  from the University of Auckland. So I'm also a full member of the New Zealand Planning Institute and have approximately 10 years experience in the field. So my scope of evidence relates to urban design and Mr. Wilson, the processing planner, requested an urban design review of the application, which I undertook in March this year. The review also included a site visit, which was completed on the 12th of March with Tim and you,  who to visit the site. So the design review considers the urban design merits of the proposed application generally broken down into the components of context and character, relationship with the street and form and appearance of buildings, amenity, site access and circulation for vehicles, but also considering pedestrians, landscape design, although I must say I am not a landscape designer. So those comments are generally  fairly general in nature, and then some general commentary on the planning and policy context. I won't go through my full design assessment, as this has been taken into account by Mr. Wilson in his assessment, and there have been no areas of contention highlighted in the evidence presented to you from Mrs. Moran and from the applicant side. So I'll just provide some brief highlights there. I guess just starting off with some  character and context. So the site is located within the compact housing overlay of the Waip\u0101 residential zone. So that signals a change, I guess, to the design and appearance of buildings that would be anticipated in those areas. And section 2.13 of the Waip\u0101 district plan residential zone talks about the anticipated outcomes there. Whilst this isn't an objective or a policy, it just gives a broad overview of the expectations.  and highlights that different typologies may be expected as part of compact housing development. So that includes duplexes and terrace houses, which is what we are seeing with this application. Generally, the area is comprised of single detached dwellings with some two-story dwellings in the area, a range of architectural forms and styles, I guess, reflecting their age of development and construction throughout the area.  So I guess you're looking at the immediately adjacent buildings, 107 and 111 Taylor Street. The building to the west, so that is 107 has hip roof style, and then the neighbouring to the east, 111's got a variety of roof pitches, and I guess the architectural feature of that is its roof line. There's some quite steep pitches and also some flatter pitches. So you've got some variety, I guess, in the built form across the area. The streetscapes generally defined  by a variety of setbacks, so that the building where it sits on the site in relation to the road front, and that varies quite heavily across Taylor Street, between four and a half and 12 metres. I guess just worth noting that the buildings close to the street are anticipated in that compact housing area. And I guess in terms of relation, sorry, in relation to the materiality of the buildings, the plan reserves discretion over  of development in terms of its facade treatment, proportions, detailing, and the materials and landscape treatment. So as I've mentioned, it's fairly varied along Taylor Street. And the proposal uses a range of materials to break up its bulk and form using a mix of timber weatherboard, profile metal cladding, and brick. So those materials are seen throughout Taylor Street. So I consider those to be appropriate from a material point of view.  So just picking up on the bulk of the proposal. So it's five units across two building footprints, which has been discussed by both the submitters and the applicant. And I think looking at the proposal, the splitting of the five units across two buildings breaks up what would otherwise be a large building if five units were combined and serves to reference the development pattern in the area, which is typically a front  front dwelling and subdivided to provide a rear dwelling on the site. I guess just talking now about the relationship to the streets. So, generally, the development provides a positive interaction with the street frontage. It brings in passive surveillance. So, the idea of eyes on the street, which conveys safety, taking into account the safety principles, which is crime prevention through environmental design. It also  clearly delineates ownership between public and private. So you've got a low wall in the front, stepping up some height to provide some privacy for those units. But generally the surveillance and interaction with that street frontage is considered positive, in my opinion. And then talking very briefly around the amenity and on the site. So the site is  north-facing and the street is north-facing, so north towards Taylor Street. So that provides good access to daylight and sunlight, so sun rising, obviously, east and setting in the west and provides access to, so daylight access to the outdoor living areas in particular, taking into account the shadowing that is inevitable from the adjacent buildings, but both buildings being within the height relation to boundary controls. In my opinion, that's acceptable.  And I think just briefly commenting on the location of those outdoor living areas, west-facing outdoor living obviously gives you the opportunity to use it in a sunny respect in the afternoon rather than the morning. So it's generally considered to be a more pleasant or more usable arrangement on site. So I think that is a positive of the design. I will leave kind of vehicle  to that on the site. And I would also just like to, in terms of landscape design, support the inclusion of a condition that requires the submitted landscape plan to be implemented and maintained throughout the, throughout the site. And I would also just like to, in terms of landscape design, support the inclusion of a condition that requires the submitted landscape plan to be implemented and maintained throughout the site. And I would also just like to, in terms of landscape design,  the lifespan of the development. And I think just talking about that, the landscape design provides some screening on the boundaries. Just picking up the comment from the submitters from 111 Taylor Street around their rear yard. I just note the inclusion of Magnolia Little Gem in the landscape plan on the fence boundary adjacent to their outdoor living area.  These trees can grow to four or five metres, so they will need to be maintained to not be overly large, but they do or should provide some screening benefits in that location. Just quickly, I think, talking about the district plan, compact housing area and the 2000 square metres, from an urban design perspective, you generally use a rule framework like that to facilitate a better design outcome. Typically, larger sites provide you  more flexibility to arrange buildings on a site. And it's a tool to provide, I guess, that screening for development and suggest that bigger sites can be designed more comprehensively. In my opinion, the approach taken on the site creates a good urban form.  splits the five units over two building footprints and the use of articulation of the building facade and the materiality, so the building materials used and the variation in the elevations, so how the building steps in and out, so reduces the bulk and form that you'd see if it was a straight flat facade. So I think  the use of or provision of compact housing in an overlay which is identified for increased density, albeit on a small site anticipated. I think the design outcome is appropriate in that setting. I'm happy to take any questions or answer anything in further detail if that's helpful.",
+    "speaker": "samfosterwdc",
+    "tags": [
+      "provide_information",
+      "state_opinion",
+      "cite_reference",
+      "agree",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 7507.285,
+    "end": 7520.765,
+    "text": "Thank you very much. I've got a question. What is around the area of Cambridge,  any other developments like this happening? Like, is this becoming more common? Greg Morgan Thank you, Commissioner Gower.",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 7521.105,
+    "end": 7550.963,
+    "text": "I have, I am aware of multiple applications at various stages throughout Waipa and various locations. You've mentioned, or sorry, the submitters briefly mentioned the Coleridge Street application, which is one that has been recently approved by Council. And there are others, I think, that have  that have been submitted or will occur. I think it's a trend that's happening across the Waikato and, indeed, the country.",
+    "speaker": "samfosterwdc",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "state_opinion",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 7558.707,
+    "end": 7559.607,
+    "text": "Have you any questions, Luke?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 7562.128,
+    "end": 7564.109,
+    "text": "Not at this point in time, Mr Chairman.",
+    "speaker": "commission",
+    "tags": [
+      "defer_decision"
+    ]
+  },
+  {
+    "start": 7566.41,
+    "end": 7627.71,
+    "text": "OK, great. If I may, Mr Commissioner. Sorry, I just had one more comment. I think  just in relation to the boundary fence discussion and the height of that for privacy. I would just suggest some thought goes into that if that is to be explored and the, I guess, the potential consequences of a higher fence on overshadowing and daylighting issues, particularly over the height relation to boundary control. And just would make the suggestion that maybe a revisitation of the landscape plan might be  better way to resolve that in terms of using some planting, which will provide screening, but not necessarily or still allow some sunlight or daylight penetration. So just, I guess, providing a softer interface rather than a solid wall. But I will leave that to the planners. But that's just my input from that perspective. Thank you for that. OK, Tim, over to you again.",
+    "speaker": "samfosterwdc",
+    "tags": [
+      "build_on_point",
+      "express_concern",
+      "evaluate_option",
+      "state_opinion",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 7629.119,
+    "end": 7834.936,
+    "text": " Thank you. So, I'll just touch briefly, I guess, on Mr. Moran's evidence and the 42-hour report and conditions. So, Mr. Moran's evidence has highlighted, I guess, the key points that I would like to make anyway, and I agree with the evidence that Mr. Moran has provided. I would like to make a comment in relation to the points the submitters have raised in the proposal not compliant with the district plan.  In my view, because the proposal complies with the bulk and location rules, there are actually very few rules that the proposal doesn't comply with. The key one being the 2000 square metre requirement for compact housing. And as Mr. Foster has talked about, and I agree with that the design outcome of the proposal  appropriate for the setting in terms of it not meeting that 2000 square metre requirement. So, I just wanted to make that point. In terms of the subdivision aspect of the proposal, which hasn't really been talked about, that is what trips it up as being non-compliant. Otherwise, the land use consent is discretionary activity. And as Mr Moran highlighted in his presentation,  The fact that only occurs because of the 2000 square metre non-compliance and a few other non-compliances with that rule in the plan 2.43, I think it is. So in terms of the, I guess the overall sort of effects assessment, I rely on Mr. Foster's advice and forming an opinion around that. And I think that the,  level of effect in terms of amenity in particular are acceptable in this setting. And in terms of the other effects in relation to infrastructure, Mr Coops has addressed those, so I won't touch on those. In terms of the 104 assessment and the consistency of proposal against the relevant planning documents, I just highlight that, in my view, I think it is consistent with  the direction of the district plan and the objectives and policies, and as well with the NPS for urban development. Submitters have picked up on affordability, but I think NPS for urban development also, as I said in the 42A report, is seeking to provide a mix of housing typologies, which I think this proposal is a good example of.  So, in my opinion, the proposal was consistent with the main planning documents that are relevant. And on that basis, I think the proposal should be granted. In terms of the conditions, as Mr. Budd highlighted earlier, there are some minor touch-ups that need to be done to those, and I'm happy to provide those after the close of this hearing.  So, yeah, I'll keep it quite brief. I don't really have anything else to add. Happy to answer any questions.",
+    "speaker": "timwilsonw",
+    "tags": [
+      "provide_information",
+      "state_opinion",
+      "agree",
+      "build_on_point",
+      "defer_to_authority",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 7837.658,
+    "end": 7838.659,
+    "text": "You got any questions, Luke?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 7842.362,
+    "end": 7843.944,
+    "text": "Really at this point, Mr. Chair.",
+    "speaker": "commission",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 7849.289,
+    "end": 7854.093,
+    "text": "All righty then, so we'll pass it back over to you now, Gareth, then for your right of reply.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 7857.318,
+    "end": 7887.04,
+    "text": " Thank you, Mr Chair. Look, we won't talk for too long now, but I've just got a couple of points, more clarification just to go through. Can everyone hear me all right? Because someone started the vacuum cleaner downstairs. So, OK, that's all good.  Chris, I might put it onto you first to chat about a couple of your key points and then come back to me just to summarise our conclusion for today.",
+    "speaker": "wendy",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "assign_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 7887.06,
+    "end": 8083.466,
+    "text": "Thanks, Gareth. I'd just like to address a couple of points raised by myself on the statement of evidence I prepared and just provide clarification of why I think each of those points in the statement is relevant and correct.  The ones I have here are 0.46, where it says the arrangement of the dwellings into two building forms is consistent.  It is correct that the dwellings are arranged into two building forms, and I think Mr. Foster agreed with this and just noted that in his statement a minute ago. Point 31, and also in relation to the appended design example from Auckland City Council, that was included as an explanation of the reason the site was configured in the way that it was configured,  one building in the front and one building in the back and a driveway running in down the side of the property. We look to various examples when we're designing projects and those examples that we look to are  either sort of local or national or even international, but locally there aren't too many, or there isn't, as I'm aware, an example from Waipa District Council of, I guess, best practice compact housing subdivisions. So, we look to Auckland City, which is kind of facing those issues, and they've prepared different examples of what might be suitable on different sites.  as part of our design strategy, we design what we think suits the site best, but we also sort of cross-check it with what other people think. So those were included just as an example of what Auckland City thinks is suitable and best practice. So it's included as an explanation. And I think the third point was point 32.  And Gareth might just explain this in a bit more detail, but in terms of design and sort of density on site and configurations of buildings on site, in the compact housing overlay, we approached the site in a way where we were designing something that might be of a similar scale and density,  as the 2,000 square metre site that the district plan references, and so we just used that. What I mean by that is sort of as further explanation, if the site was 2,000 square metres, most likely what our response to  Wendy and Warren would be that we might look to provide on-site maybe 10 volumes, or maybe fewer, maybe slightly more, but sort of around that density. And so that's why that point's included there. Yeah, thanks, Gareth. Cool, thanks.",
+    "speaker": "wendy",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "cite_reference",
+      "build_on_point",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 8083.686,
+    "end": 8283.272,
+    "text": "Thanks, Chris. I just want to touch on that density discussion. Now, look, the site isn't 2,000 metres squared, right? We all accept that.  But hypothetically, if it was or if one down the street was 2,000 metres, a compact housing development becomes a restricted discretionary activity in that area. Now, we've got discretionary activity here, we've got a non-compliant here, restricted discretionary is up here, which is even more  on the direction from Council that developments like that are anticipated in that area. Obviously, you can still notify restricted discretionary consents.  but the chances of notification, I know this realises the generalisation, but the chances of a, say, a discretionary activity being notified is far greater than what a restricted discretionary activity would need to be notified. So that's just, it's not directly relevant to the site, but it's important context to the wider environment.  I want to talk about precedence briefly as well. Now, precedent is a really important factor which can be taken into account in these applications for resource consent. If this application or this site was located two or three streets further away from the reserve, we would not have applied for resource consent.  The reason we've applied for resource consent from this particular site is because it relies heavily on a really key policy or objective of the District Plan 2.3.4.5, which encourages compact housing within close proximity to reserves. Areas outside  this close proximity to reserves will not have the support of this policy. So therefore, a precedent cannot be created for other sites, albeit along Taylor Street. Yes, but it is a compact housing overlay. So it's very important to notice that or to note that.  Also, just in terms of the permeability as well, now, look, I'm, Mr. Coot's covered this off, and I don't want to thrash this out too much longer, but we've got a, we relied on our evidence from Titus to conclude our flooding stormwater effects to a point where we concluded them to be acceptable. Now, this is based on specialist,  input, which has been obviously from Titus and then peer reviewed by councils. So that's two specialists saying that any flooding and stormwater effects can be mitigated to a point subject to resource consent conditions, which we will be accepting of. So in summary, that's the only  We do conclude or do concur with the points raised by all Council staff. And we have no further points to present today. And that summarises or concludes our presentation. Happy to answer any questions.",
+    "speaker": "wendy",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "cite_reference",
+      "agree",
+      "summarize_outcome",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 8285.634,
+    "end": 8287.515,
+    "text": "All right. Lou, have you got any further questions?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 8290.14,
+    "end": 8296.943,
+    "text": " One of the submitters actually put in that they looked at a higher fence. Do you consider that?",
+    "speaker": "commission",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 8299.324,
+    "end": 8365.043,
+    "text": "Look, we did consider that. Now, Mr Foster raised a really good point, that the higher the fence goes, the more likely it is to restrict sunlight. That was sort of, I suppose, the applicants offering up an additional  mitigation measure over and above what we originally applied for. If, put it this way, if the neighbouring property owners were accepting of that, then that was going to go to some way to resolving some of their concerns then from a planning perspective.  it would be, it would work. Because obviously, if a neighbour signs off on an encroachment like that, you don't even need resource consent for that these days. So that's something which has been offered up. Whether it's practical or not, I don't know. I'd probably concur with what Mr Foster said, and it's probably not a practical option. However, maybe a resource consent condition around landscape planting along that boundary might be more acceptable.",
+    "speaker": "wendy",
+    "tags": [
+      "provide_information",
+      "build_on_point",
+      "clarify_point",
+      "agree",
+      "evaluate_option",
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 8371.576,
+    "end": 8389.126,
+    "text": " Sorry about that. I'm just wondering, Mr Olsen and Christopher James, if you guys were interested in negotiating a condition about the fencing, is that something that you'd want to have a conversation about to write into the conditions?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 8393.448,
+    "end": 8402.806,
+    "text": "Yeah, I'd be happy to discuss it.  I'm also concerned I don't want a great big war between us and them. I'd rather look at the landscaping as well.",
+    "speaker": "christopherjames",
+    "tags": [
+      "agree",
+      "express_concern",
+      "prioritize_issue",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 8403.486,
+    "end": 8423.69,
+    "text": "If that was if the thing was going to go ahead, that's how I prefer to approach it. And Murray, what are your thoughts on. You guys are muted, sorry. Can you unmute them please, Karen?",
+    "speaker": "Unknown",
+    "tags": [
+      "state_opinion",
+      "ask_question",
+      "procedural_move",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 8450.734,
+    "end": 8480.702,
+    "text": " We heard everything. The fence between 107 and 109 doesn't really affect us in any way, shape or form. We're only hoping that the existing fence that we have currently, which is just put up, that we want to keep that fence. So, if anything else is put up along the side of that fence and inside that on the 109 side of the property,  OK.",
+    "speaker": "adriennemurray",
+    "tags": [
+      "provide_information",
+      "state_opinion",
+      "express_concern",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 8481.863,
+    "end": 8499.297,
+    "text": "What I might do\u2014and let me know if this would be OK\u2014if the submitters and the applicant maybe go to a breakout room where you guys can have, like, a 5 to 10 minute discussion over boundary fences and stuff, so you could write that into the conditions. Gareth?",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "assign_action",
+      "ask_question",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 8504.509,
+    "end": 8515.392,
+    "text": " Yes, we can. That would be fine. Would it be prudent to have Council's processing plan there as well as part of that?",
+    "speaker": "wendy",
+    "tags": [
+      "agree",
+      "ask_question",
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 8516.052,
+    "end": 8531.356,
+    "text": "Sure. Yep. Yep. We can organise that. I just I'd quite like some kind of agreement on fences if we do approve this. And it would be nice if the submitters are here. But that's completely acceptable.",
+    "speaker": "Unknown",
+    "tags": [
+      "agree",
+      "assign_action",
+      "prioritize_issue",
+      "express_concern",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 8531.396,
+    "end": 8538.633,
+    "text": "Yeah, we can.  I don't know how to create a breakout room, so we might need a bit of a tutorial on that. Oh, that's okay.",
+    "speaker": "wendy",
+    "tags": []
+  },
+  {
+    "start": 8538.653,
+    "end": 8554.998,
+    "text": "Well, I'll get Kieran to make a breakout room where she can put in the right people, and then we'll just take a break for 10 minutes while you guys are having a chat with yourselves, and then you can come out of the room, or else Kieran can boot you out when you're ready.",
+    "speaker": "Unknown",
+    "tags": [
+      "assign_action",
+      "procedural_move",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 8556.755,
+    "end": 8571.145,
+    "text": " Just confirming, we've got Adrian and Murray Olsen, we've got the Hodges, we've got Chris James and is it Quentin Budd is the other one to come in with you? Sorry, who? Foster.",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 8578.882,
+    "end": 8583.325,
+    "text": " I'm happy to. Tim Wilson. I wonder whether maybe Tim just joins.",
+    "speaker": "wayneallan",
+    "tags": [
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 8583.445,
+    "end": 8584.126,
+    "text": "Yeah, Tim.",
+    "speaker": "quentinbudd",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 8584.806,
+    "end": 8587.328,
+    "text": "So Quentin, do you want to go in, sorry?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 8588.569,
+    "end": 8589.75,
+    "text": "Probably OK, I think, thanks.",
+    "speaker": "quentinbudd",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 8592.271,
+    "end": 8606.441,
+    "text": "Alrighty. Cool, I should be able to do this now. Sorry, just one moment. Something's gone wrong.",
+    "speaker": "Unknown",
+    "tags": [
+      "confirm_next_step",
+      "report_back"
+    ]
+  },
+  {
+    "start": 8609.379,
+    "end": 8609.44,
+    "text": " So.",
+    "speaker": "yuhudevelopment",
+    "tags": []
+  },
+  {
+    "start": 8636.946,
+    "end": 8641.23,
+    "text": " Okay, so we can have a little break for 10 minutes and we'll come back shortly.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 8642.551,
+    "end": 8643.072,
+    "text": "Thanks, Marcus.",
+    "speaker": "wayneallan",
+    "tags": []
+  },
+  {
+    "start": 8645.414,
+    "end": 8662.31,
+    "text": "Thank you for hearing that didn't work.",
+    "speaker": "commission",
+    "tags": [
+      "close_discussion",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 8690.302,
+    "end": 8698.341,
+    "text": " Excuse me, Olsen's. I don't know if there is there a message up on your screen to tell you to join the breakout room, you might have to tap it and yes or no.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_address",
+      "procedural_move",
+      "assign_action",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 9592.117,
+    "end": 9595.68,
+    "text": " Right, we're all back. How'd that go?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "report_back"
+    ]
+  },
+  {
+    "start": 9599.383,
+    "end": 9606.109,
+    "text": "I think we were, we might've been a minute and a half off resolving it, but it just cut out a bit soon.",
+    "speaker": "wendy",
+    "tags": [
+      "clarify_point",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 9607.27,
+    "end": 9618.38,
+    "text": "Oh, sorry. Do you want to have a little bit longer? I think maybe just took maybe two more minutes or maybe three, four more minutes probably. Yeah. Yeah. Okay. Go ahead. If not, just tuck them back in.",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 9623.257,
+    "end": 9623.567,
+    "text": " Join us.",
+    "speaker": "yuhudevelopment",
+    "tags": [
+      "persuasion_attempt"
+    ]
+  },
+  {
+    "start": 10086.76,
+    "end": 10090.642,
+    "text": " Roddy, how did that go?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "report_back"
+    ]
+  },
+  {
+    "start": 10091.683,
+    "end": 10236.014,
+    "text": "Yeah, I think we've come to some common ground. Now, I'm going to do my best to explain what we've come up with in terms of what could be added as some new consent conditions. So in terms of the boundary of 107, we've agreed that the 1.8 metre high fence is acceptable and should be  That's the extent to which it should be built. But we've also agreed that the front doors and windows will be appropriate to screen them. So we will go back to our landscape specialist and get a revised plan which shows those windows and doors to be screened.  We're happy for that to be incorporated in the consent condition regarding landscaping, that the front doors and windows need to be screened so they can be grafted into a consent condition. In terms of 1.11, we're happy for a resource consent condition for the existing fence to be  retained on that boundary, and any improvements or alterations to the fence had to be undertaken on the applicant's side. In terms of the landscaping plan, I don't think Mr. and Mrs. Olsen saw the revised landscaping plan, but when we presented that, thanks to Mr. Foster, who put it on the screen, correct me if I'm wrong, but I think Mr. and Mrs. Olsen were happy  with their landscaping plan. They didn't raise concerns about how it was going to be maintained, but it was those concerns, I guess, alleviated by explaining that the landscaping will need to be conditioned and there will be consent notices requiring it to be retained or maintained in perpetuity. So correct me if I'm wrong, happy for the  through the chair, of course, to ask any questions, but that was where we've got to, in my opinion, in terms of resolving those boundary treatment issues.",
+    "speaker": "wendy",
+    "tags": [
+      "summarize_outcome",
+      "provide_information",
+      "assign_action",
+      "confirm_next_step",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 10236.094,
+    "end": 10246.842,
+    "text": "OK, so is that fine with you, with the submitters, what Gareth has read out? Yes, yes, I agree with that.",
+    "speaker": "Unknown",
+    "tags": [
+      "agree",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 10256.106,
+    "end": 10259.449,
+    "text": " And we agree with the outcome.",
+    "speaker": "adriennemurray",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 10260.67,
+    "end": 10267.775,
+    "text": "Great. Excellent. OK, well, is there anything further else that you would like to add, Gareth, in your closing remarks?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 10269.817,
+    "end": 10295.924,
+    "text": "Well, I think that's, excuse me, my voice.  summarised everything we've spoken about today, and look, we've got nothing further to add. So, just on behalf of sort of the applicant and the team here, we just thank you for everyone for their contribution today, submitters, council, planning staff, and we will wait for a decision in due course.",
+    "speaker": "wendy",
+    "tags": [
+      "summarize_outcome",
+      "reassure_stakeholders",
+      "defer_decision",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 10297.565,
+    "end": 10315.379,
+    "text": "All right. We had a site visit yesterday, or the day before, lost my days.  So, we are aware of the site and have seen it. So, I will close the meeting now and we will bring out and  Oh, sorry, Quinton.",
+    "speaker": "Unknown",
+    "tags": [
+      "report_back",
+      "provide_information",
+      "close_discussion",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 10315.439,
+    "end": 10339.579,
+    "text": "Yes, Mr. Chair, I just wonder, just before you do close, whether- because I think Mr. Moran mentioned submitting a revised plan and fencing plan that would be best done- Oh, yes. And still kept open. So, you might- one option is to adjourn it and then receive that plan and circulate it to council staff and submitters before closing the hearing.",
+    "speaker": "quentinbudd",
+    "tags": [
+      "procedural_move",
+      "defer_decision",
+      "assign_action",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 10341.054,
+    "end": 10348.598,
+    "text": " Yes, you're correct. OK, so we'll adjourn the meeting now then and wait for the amended plans to be circulated amongst everybody.",
+    "speaker": "Unknown",
+    "tags": [
+      "agree",
+      "close_discussion",
+      "confirm_next_step",
+      "defer_decision"
+    ]
+  },
+  {
+    "start": 10350.178,
+    "end": 10371.248,
+    "text": "Sorry, Mr Chair, we could also look at putting an additional consent condition on there saying that the windows and doors needed to be screened. That could be tagged to the consent condition rather than  the meeting, we could probably close it with those consent conditions. But that's just a thought.",
+    "speaker": "wendy",
+    "tags": [
+      "policy_proposal",
+      "procedural_move",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 10372.851,
+    "end": 10374.895,
+    "text": "Quentin, I'll take your advice on that, please.",
+    "speaker": "Unknown",
+    "tags": [
+      "agree",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 10375.972,
+    "end": 10396.808,
+    "text": " Well, I guess we're not really sure what that condition might be and what they're putting forward exactly. So, yeah, but it really just came down to whether that amended plan, if the applicant was wanting to submit an amended plan or not, or intending that to be recirculated to the submitters as well.",
+    "speaker": "quentinbudd",
+    "tags": [
+      "clarify_point",
+      "ask_question",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 10401.032,
+    "end": 10423.682,
+    "text": "Look, I'm happy to adjourn then.  and we'll wait, yeah okay, we're better off to adjourn then and wait for the amendments and stuff to come from you guys. So that's cool. Okay, thank you very much for your attendance everybody, and yeah, you're free to go. Apart from",
+    "speaker": "Unknown",
+    "tags": [
+      "close_discussion",
+      "confirm_next_step",
+      "summarize_outcome"
+    ]
+  }
+]

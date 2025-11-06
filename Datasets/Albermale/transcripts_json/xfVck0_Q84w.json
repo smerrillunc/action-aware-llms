@@ -1,0 +1,2890 @@
+[
+  {
+    "start": 0.149,
+    "end": 2.912,
+    "text": " Yep, I have it.",
+    "speaker": "davidoberg",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2.932,
+    "end": 28.043,
+    "text": "Let me pull it up real quick. I move that the Albemarle County Public School Board go into a closed meeting as authorized by the Virginia Freedom of Information Act, section 2.2-3711A of the Code of Virginia, under subsection one, for the discussion, consideration, or interviews of prospective candidates for employment and the assignment, appointment, promotion, performance, demotion, salaries, disciplining, or resignation of specific public officers, appointees, or employees of any public body.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 29.245,
+    "end": 29.565,
+    "text": "Second.",
+    "speaker": "judyle",
+    "tags": [
+      "agreeing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 30.828,
+    "end": 40.201,
+    "text": " OK, moved by Ms. Carlson, seconded by Ms. Lee, that we go into closed session. Ms. Johnston, could you give us a quick roll call vote on that?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "vote_call",
+      "request_action"
+    ]
+  },
+  {
+    "start": 40.902,
+    "end": 53.099,
+    "text": "Mr. O'Carroll? Yes. Ms. Lee? Yes. Ms. Osborne? Yes. Ms. Carlson? Yes. Mr. Oberg? Yes. Dr. Acuff? Yes. Mr. Page?",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 53.44,
+    "end": 60.75,
+    "text": "Yes. All right, so we will convene in the closed session. See you there.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 159.297,
+    "end": 166.467,
+    "text": " There's gotta be an easier way to toggle in and out of meetings. I mean, I just don't know what it is, but.",
+    "speaker": "kateacuff",
+    "tags": [
+      "express_concern",
+      "hedge"
+    ]
+  },
+  {
+    "start": 166.487,
+    "end": 167.068,
+    "text": "It has to be.",
+    "speaker": "grahampaige",
+    "tags": [
+      "agreeing"
+    ]
+  },
+  {
+    "start": 167.909,
+    "end": 181.108,
+    "text": "I actually kind of like it because I was in a different meeting this past weekend and accidentally was in someone else's closed session and they had to kick me out. And so I really prefer this method.",
+    "speaker": "judyle",
+    "tags": [
+      "opinion",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 182.971,
+    "end": 186.115,
+    "text": "Of intentionally having to figure it out each time. Right. Yes.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 187.141,
+    "end": 203.508,
+    "text": " Okay, it is about 6.32, so I call this January, I mean, January, June 10th meeting of the Albemarle County School Board to order. Ms. Carlson, do you have a motion from the closed session?  Yes, sir.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "request_action",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 203.548,
+    "end": 221.518,
+    "text": "I move that the board certified by recorded vote that to the best of each board members knowledge only public business matters lawfully exempted from the open meeting requirements of the Virginia Freedom of Information Act and identified in the motion authorizing the closed meeting were heard discussed are considered during the closed meeting.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "procedural_move",
+      "vote_call"
+    ]
+  },
+  {
+    "start": 222.258,
+    "end": 236.38,
+    "text": " Okay, moved by Miss Carlson, second by Mr. O'Carroll. Everything that was discussed in the closed session was what the motion had identified that would be discussed. Miss Johnson, could you call the roll please on that motion?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 236.921,
+    "end": 254.421,
+    "text": "Miss Lee? Yes. Miss Osborne? Yes. Miss Carlson? Yes. Mr. Oberg? Yes.  Dr. Acuff? Yes. Mr. Alcaro? Yes. Mr. Page? Yes. Motion carried.",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 254.742,
+    "end": 354.386,
+    "text": "Motion carries. All right. So we'll have a moment of silence.  Okay, thank you. Now for, since we are still under some restrictions according to the state,  Our minutes must include this each time. The minutes of this meeting should reflect that this meeting is being held electronically, pursuant to Virginia state law and Albemarle County ordinance, because the COVID-19 pandemic makes it impracticable and unsafe to assemble a quorum physically in a single location.  The meeting is being communicated to the public electronically through Zoom and streamed live on the Albemarle County Public Schools website. And public comment may be offered through the Zoom waiting room feature in accordance with the school board's protocol or by written submission. And now to introduce our board members, Dr. Kate Acuff.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 355.348,
+    "end": 358.172,
+    "text": "Kate Acuff, representing the Jack Jewett District.",
+    "speaker": "kateacuff",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 359.3,
+    "end": 368.991,
+    "text": " Mr. John O. Alcaro. John O. Alcaro at large. Ms. Katrina Coulson. Katrina Coulson, Rio District. Ms. Judy Lee.",
+    "speaker": "grahampaige",
+    "tags": [
+      "logistics_info",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 370.072,
+    "end": 371.093,
+    "text": "Judy Lee, Rivanna District.",
+    "speaker": "judyle",
+    "tags": [
+      "public_addressing",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 371.694,
+    "end": 372.735,
+    "text": "Mr. Dave Oberg.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 374.157,
+    "end": 376.059,
+    "text": "Dave Oberg, Whitehall Magisterial District.",
+    "speaker": "davidoberg",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 376.72,
+    "end": 377.801,
+    "text": "Ms. Ellen Osborne.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 378.361,
+    "end": 379.963,
+    "text": "Ellen Osborne, Scottsville District.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 380.544,
+    "end": 390.305,
+    "text": "All right, I'm Graham Page, Samuel Miller District. And our student reps.  I don't see them, but I hope they are both here. Leila Bonds?",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "logistics_info",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 391.607,
+    "end": 394.733,
+    "text": "He's running a little late. She'll be here shortly. Okay.",
+    "speaker": "Unknown",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "reassure"
+    ]
+  },
+  {
+    "start": 395.034,
+    "end": 410.282,
+    "text": "And Maya Shannar. This is Maya's first meeting. And so Maya, are you here? Yes, I'm here. Yeah. Could you give us a brief rundown on who you are and your school, et cetera?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 410.752,
+    "end": 422.364,
+    "text": " Um, I was a student at Murray. Um, I recently graduated. Um, yeah, it's nice to be here.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 424.566,
+    "end": 435.797,
+    "text": "We are glad to have you. And, um, I think, didn't you have a pretty great honor that you received upon graduation last week?",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 436.469,
+    "end": 443.536,
+    "text": " Yes, I received that I was one of the recipients of the Emily Quirk scholarship.",
+    "speaker": "davidoberg",
+    "tags": [
+      "acknowledge",
+      "give_update"
+    ]
+  },
+  {
+    "start": 445.218,
+    "end": 461.155,
+    "text": "Okay. Congratulations, Mia. Congratulations, Mia. Right. All right, moving right along. We need now motion for the approval of our agenda for tonight. I move that we approve the agenda.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "vote_call",
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 463.257,
+    "end": 463.978,
+    "text": "Second. Second.",
+    "speaker": "judyle",
+    "tags": [
+      "procedural_move",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 464.836,
+    "end": 476.854,
+    "text": " Moved by Mr. Alcaro, seconded by Ms. Lee, that the agenda be approved. Any discussion on that motion? If not, Ms. Johnston?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "public_addressing",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 478.577,
+    "end": 479.077,
+    "text": "Ms. Osborne?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 480.56,
+    "end": 480.82,
+    "text": "Yes.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 481.641,
+    "end": 490.074,
+    "text": "Ms. Colson? Yes. Mr. Oberg? Yes. Dr. Acuff? Yes. Mr. Alcaro?",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 490.615,
+    "end": 490.855,
+    "text": "Yes.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 491.436,
+    "end": 494.1,
+    "text": "Ms. Lee? Yes. Mr. Page?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "vote_call"
+    ]
+  },
+  {
+    "start": 494.435,
+    "end": 494.795,
+    "text": " Yes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 496.558,
+    "end": 497.219,
+    "text": "Motion carried.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 498.641,
+    "end": 502.606,
+    "text": "Okay. And we also need a motion on the approval of the consent agenda.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "request_action"
+    ]
+  },
+  {
+    "start": 505.13,
+    "end": 507.353,
+    "text": "I move that we approve the consent agenda.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 510.738,
+    "end": 511.378,
+    "text": "Is there a second?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 515.144,
+    "end": 515.604,
+    "text": "I second.",
+    "speaker": "kateacuff",
+    "tags": [
+      "agreeing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 516.686,
+    "end": 527.124,
+    "text": "Okay, moved by Mr. Alcaro, second by Dr. Acuff that we approve this consent agenda that's outlined.  Any discussion on that motion?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 527.144,
+    "end": 558.386,
+    "text": "I just have one point that I'd like to ask a question on. I don't know that it needs to be pulled. And it has to do with the fees. I don't have the agenda right in front of me. Graduation fees, I just want to make sure that those are covered if somebody is not able to afford them.  Yes, those are covered. Okay, that's all I needed. Thank you.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "clarify",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 558.406,
+    "end": 576.872,
+    "text": "I actually had that question on other fees as well. I know the AP fee is covered, correct? That's correct. If it needs to be. Are there any others that are covered possibly?",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "clarify"
+    ]
+  },
+  {
+    "start": 577.392,
+    "end": 637.459,
+    "text": " All all fees are covered there's actually by code, we cannot require a child to pay for you know to pay for something if they. In order to participate so, for example, with the athletic fees, those were adopted many years ago. To. Essentially subsidize athletic programs during when the recession started and it's still in place.  But if a child or their family cannot afford the fee, or if they qualify for free lunch or free or reduced lunch, then those fees are adjusted. I do want to say, too, that the discussions around fees, like the athletic fees, are open to discussion at any time for the board to take a look at those. We've done a lot to eliminate fees over the years, and if there's more work the board wants to do in that area,  Please let us know.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "clarify",
+      "reassure",
+      "give_update",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 639.742,
+    "end": 648.493,
+    "text": "I actually want to clarify that the version that I looked at had an AP fee, but now this the newest version does not so I see that that's a part of it.",
+    "speaker": "judyle",
+    "tags": [
+      "clarify",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 649.695,
+    "end": 680.561,
+    "text": "I asked our staff to remove the AP fee as one of our fees because the students are not required to  pay a fee to be in an AP class. And we also cover expenses for exams as well. The thing, the reason I asked staff to pull that was because the fee is not paid to Albemarle County Schools for the student to take the exam. It's paid directly to the college board. So I didn't think it was appropriate to keep that on.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "give_update",
+      "clarify",
+      "logistics_info",
+      "opinion"
+    ]
+  },
+  {
+    "start": 681.723,
+    "end": 683.205,
+    "text": "Thank you.",
+    "speaker": "judyle",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 683.225,
+    "end": 693.173,
+    "text": "Thank you.  All right, if there's no other discussion, we do have the motion on the floor to approve the consent agenda. So Ms. Johnston.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 694.475,
+    "end": 704.97,
+    "text": "Ms. Colson. Yes. Mr. Oberg. Yes. Dr. Acuff. Yes. Mr. Alcaro.",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call"
+    ]
+  },
+  {
+    "start": 705.45,
+    "end": 705.731,
+    "text": "Yes.",
+    "speaker": "jayjennings",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 706.272,
+    "end": 712.661,
+    "text": "Ms. Lee. Yes. Ms. Osborne. Yes. Mr. Page. Yes. Motion carried.",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 713.301,
+    "end": 724.824,
+    "text": "Thank you.  All right, moving next to our spotlight on education. I don't have in my notes who is going to introduce the spotlight tonight.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 726.426,
+    "end": 933.728,
+    "text": "I'm going to be doing this. Thank you, Chair Page. I'm delighted to introduce tonight's spotlight on education because I'm the daughter of a public school science teacher who reached out to broaden his experiences in science  and creatively engaged students. So spotlighting one of Albemarle County's own is a real treat. In 1994, the US Congress signed into law the Albert Einstein Distinguished Educator Fellowship Act, which provided a unique opportunity for highly accomplished K-12 teachers  to serve in a national setting, one of which is a Smithsonian Institute. Teachers are given access to and will leave with a national network of leaders and programs to consult. Not only will this invigorate their professional development around STEM, but it will enhance their contributions to their school division when they return home. Yes.  This highly prestigious national competition reached into Albemarle County this year for its newest recruit. She's Kate Cogey, who teaches science at our Charter Middle School. Kate will be working with the Smithsonian's famed Air and Space Museum, one of the most iconic, engaging, and heavily visited museums in our nation's capital. The timing is ideal for Kate,  in addition to not having COVID to deal with, the museum is in the process of reimagining all 23 of its galleries and presentation spaces to, as the museum says, to inspire a new generation of pioneers and explorers. The work, Kate says, will fit perfectly into her next year's lessons in physics. It's a dream come true for a teacher who is passionate about break the mold learning.  As exciting as the Einstein Fellowship is, it is not the first national selection process that tapped Kate's talents. A few years ago, she joined a cohort of influencers, which included a best-selling author, a movie star, I want to know who, an astronaut, and leading business executives and scientists in the NASA outreach program.  As the only educator chosen, Kate visited Vanderbilt Air Force Base for the launch of an environmental satellite. She participated in briefings on the mission, pre-launch activities, news conferences, and was a VIP for the satellite launch itself.  To capture her experiences for her students, Kate set up a YouTube channel. She returned to ACPS with an impressive lesson plan that ignited her students' interest to build their own launch pad and rockets. She also strengthened their engagement to NASA's Goddard Space Flight Center, where her students met, talked with, and learned about space flight from the laboratory's principal scientists.  as Kate prepares to begin her Einstein fellowship. She's with us this evening to share her plans for what her goals will be and how the opening of these new frontiers of learning have and will continue to impact Kate and her students. So Kate, welcome tonight. And if you'd like to say a few words, I'm sure after that, all of my colleagues will have questions for you. But you have the floor.",
+    "speaker": "kateacuff",
+    "tags": [
+      "public_addressing",
+      "give_update",
+      "acknowledge",
+      "request_action"
+    ]
+  },
+  {
+    "start": 933.978,
+    "end": 1040.278,
+    "text": " Well, thank you. That was a really kind introduction. I really appreciate it. It's so nice to see you all tonight. And just thank you for the opportunity to be here. It has been just a dream come true to work with community lab school these past three years. It has been such an engaging and inspiring environment. And I am so excited to share  everything with the Smithsonian and bring back everything I learned in this next year to Agremont County. So thank you for everything, for creating this program for us. These past few years have been awesome. I'll be working, as you said, with the Air and Space Museum for the next year, working specifically on their Teacher Innovator Institute and  What that program is, is it brings each year 30 STEM educators from across the country for free to the Air and Space Museum. They get to stay there for two weeks and work with each other and build these amazing projects that they get to take back home to their schools. And I would love to have a cohort of Admiral County educators out there too. It's an incredible program.  I also would love to build projects with Averill County students, certainly with our school, but any school within the division. There are so many great resources there and I'm still learning quite a bit about them. This fellowship is quite, I'm learning something new every day, but yeah, thank you so much for this opportunity and for, yeah, for inviting me here today. And I'm happy to answer any questions or,  Anything.",
+    "speaker": "katekogge",
+    "tags": [
+      "give_update",
+      "public_addressing",
+      "acknowledge",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 1040.298,
+    "end": 1042.199,
+    "text": "You said, I mean, congratulations.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1042.219,
+    "end": 1072.328,
+    "text": "Go ahead. Oh, I was just really, Kate, congratulations. I mean, what an honor. And we are truly honored to have you here with us. When you were just talking about bringing the program back after working with the other 30 educators so that you can show it to your students, somehow I'd love it if we could figure out a way to see that too.  That I know that's going to be really, really interesting and I sure would be interested to see it. I'm sure everybody else would too.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "follow_up_request",
+      "request_action",
+      "opinion"
+    ]
+  },
+  {
+    "start": 1072.969,
+    "end": 1114.29,
+    "text": "Absolutely. Yeah. And those educators. So those the educators in the teacher innovator Institute are specifically middle middle school teachers from around the country and they built these projects and it's  very similar to what we've been doing at our school with doing interdisciplinary projects and kind of taking these nontraditional approaches and lending that to authentic learning. And so we'd love to share that. As well, Ed, there's a cohort of, so we're 18 fellows within the fellowship program. And I certainly will be learning a lot about the Department of Energy and Library of Congress. So there'll be a lot, a lot of fun things to bring back here that I'm excited to learn about too.",
+    "speaker": "katekogge",
+    "tags": [
+      "give_update",
+      "clarify"
+    ]
+  },
+  {
+    "start": 1118.219,
+    "end": 1122.829,
+    "text": " How did you and your students interact with the Goddard Space Flight Center?",
+    "speaker": "davidoberg",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 1123.147,
+    "end": 1194.74,
+    "text": " Oh, um, so gosh, we, so that rocket launch was the ICESat-2 satellite. It is a satellite that tracked sea ice levels and really just any sort of elevation change on the earth's surface. Um, it's a really awesome program. Um, and so after the launch, well, prior to the launch, I reached out to the principal scientist, Thorsten Markus, who, uh, helped build that whole pro or put that whole project together. And, um,  So we reached out and we actually brought all of the students to meet all of the scientists and engineers on that mission. We got to check out the clean rooms where they put together parts of the satellite. We also got to connect with folks from the GLOBE program, which is NASA's educational outreach program specifically for citizen scientists.  And we learned about ways in which students in our school and students in other schools can actually track. We can actually like measure from the ground, the height of certain things, and it can compare to the ICESat-2 satellite to see if those measurements are accurate. So we did a lot of work along the lines of citizen science and how kids can participate in that too.",
+    "speaker": "katekogge",
+    "tags": [
+      "give_update",
+      "cite_external_source",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 1198.646,
+    "end": 1202.091,
+    "text": "Wow. Are there other questions?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1203.86,
+    "end": 1205.463,
+    "text": " Which movie star was in your group?",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 1206.224,
+    "end": 1244.021,
+    "text": "Oh, gosh. I am forgetting his name now. He's a voice actor. And I know when you said that, I was like, oh, I forget. I can check my computer. But he was a voice actor. The program NASA Social, I highly encourage anyone to check it out. It's just a really great way to connect folks with what's happening at NASA.  I was just so fortunate to do that. But really, truly, it is such a cool program. But yeah, just all walks of life in one place. And yeah, I felt very fortunate to be there. We're very proud of you.",
+    "speaker": "katekogge",
+    "tags": [
+      "hedge",
+      "opinion",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1244.462,
+    "end": 1262.618,
+    "text": "We really are. Thank you so much. So Kate, when will you know so that we can have it on our calendar for the presentation that  would be presented to people in the county or other places that we could have it also for us.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "request_action",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 1263.74,
+    "end": 1312.12,
+    "text": "Oh, for the teacher innovators? What's the take to hold? Oh, gosh, like just with as far as the Institute with the Smithsonian or?  I still have to learn. I haven't even started my job there yet. So I'll be so this not this weekend, but next weekend. I'm actually going to be kind of taking on a volunteer role with the Smithsonian and I'm taking part in this year's Teacher Innovator Institute. So that will involve this current cohort of teachers, but my hope is as I  gain a little bit more background in this program and how folks can apply is to get a team of Abramoff County teachers out there for next year, because it'll be in person next year. So all the museums, all of the projects and connections, it should be really fun.",
+    "speaker": "katekogge",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1313.281,
+    "end": 1323.051,
+    "text": "Okay, that is really cool. And do you think you could get us any special behind the scenes passes to the Space and Science Museum?",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "ask_question",
+      "request_action"
+    ]
+  },
+  {
+    "start": 1323.487,
+    "end": 1371.802,
+    "text": " Oh man, if I find out, I will certainly let you know. So just so you know, with the Air and Space Museum, the Udvar-Hazy Center, so the Air and Space Museum has two locations. The Udvar-Hazy Center, which is over by Dulles, and that is the big airplane hangar where they have space shuttle and planes and the Blackbird, like all the big stuff. And then they have the one on the National Mall, which is the one that most people think about. And that's typically holds  some of the smaller historic pieces of air and space history. But Udvar-Hazy has been open for the past couple months and the one on the National Mall is opening up the end of July. So very soon we shall be going there. But I've got ideas for how to get our kids over there too and other folks here.",
+    "speaker": "katekogge",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "clarify",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1372.663,
+    "end": 1378.671,
+    "text": "Much more important getting our kids there. I think we can all figure out how to get there. Right. Thank you so much.",
+    "speaker": "kateacuff",
+    "tags": [
+      "prioritization",
+      "reassure"
+    ]
+  },
+  {
+    "start": 1381.553,
+    "end": 1409.822,
+    "text": " Are there any other comments or questions? Okay, if not, well, Kate, again, we really are pleased and so happy that you have this opportunity to sort of showcase Albemarle County Public Schools. So thanks so much for the presentation to us. And we do look forward to hearing more from you once your tenure shift there has started. So thanks again.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1409.937,
+    "end": 1415.825,
+    "text": " Thank you so much. Thank you.",
+    "speaker": "katekogge",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1415.845,
+    "end": 1417.908,
+    "text": "OK, Dr. Acuff, is that the end of spotlight?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 1419.27,
+    "end": 1419.65,
+    "text": "It is.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 1420.271,
+    "end": 1434.551,
+    "text": "OK. All right, announcements. I think we do have at least two from the cabinet. So yes, sir. Yes, sir, Mr. Page.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1435.672,
+    "end": 1439.337,
+    "text": "So I think first we have an announcement from Dr. McLaughlin.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1441.73,
+    "end": 1488.665,
+    "text": " Yeah, thanks Dr. Haas and good evening board members. I'm Pat McLaughlin, chief of strategic planning, and I just wanted to take a minute to let you know how excited I am to have the chance to share with you and hear your feedback on our draft strategic plan at the board retreat tomorrow. As you'll recall, it was just over a year ago that we introduced you to our planning partners at Battelle for Kids, and it's great to see that this project is finally coming to a conclusion.  So at the retreat tomorrow, Mike Nicholson and Shannon King from Battelle will take you through a discussion of each major section of the plan to hear your affirmations, your concerns, questions, and suggestions. And we hope to use your feedback to bring you a final plan for adoption at our next business meeting on July 8th. So I'm looking forward to seeing you all again tomorrow morning and getting to hear your feedback then.",
+    "speaker": "Unknown",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1490.327,
+    "end": 1495.395,
+    "text": "Thank you. Thank you very much, Dr. McLaughlin. Then we also have an announcement from Dr. Harrison.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1501.754,
+    "end": 1639.34,
+    "text": " Thank you, Dr. Haas. Good evening, school board members. The Office of Community Engagement will host the division's sixth annual equity conference on Friday, June 17th from 8.30 a.m. through 12.30 p.m. The conference theme is Purpose, Passion, and Progress. Keep rising to the top.  The purpose is to celebrate the continuation of a transformative journey of 69 educators who met the criteria for credentialing in culturally responsive teaching by earning a micro-credential or certification.  The conference is about acknowledging passion by showcasing the unwavering commitment to Albemarle County Public Schools evidence-based culturally responsive teaching homegrown best practice model for addressing achievement gaps. The P of practice is about highlighting the impact culturally responsive teaching is having on teacher and student learning.  The featured educators will share how they have begun to shift their teaching practice to teaching to and through their students' strengths from a cultural lens. These 69 educators are examples of our desire as a school division to keep rising to the top.  This featured group of educators represent our largest to date. We have grown from a cohort of four candidates in 2016, to 36 in 2018, to a total of 139 in 2020, and to a total of 2008 educators completing the culturally responsive teaching process over our six year history.  I believe you have received a link to register for this conference. We currently have over 220 participants registered, and we hope that you will be able to join us. Thank you for allowing me to make this announcement.",
+    "speaker": "bernardhairston",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1641.943,
+    "end": 1649.852,
+    "text": "Thank you very much, Dr. Hairston. And so when the board members register, are they eligible for a t-shirt?",
+    "speaker": "matthewhaas",
+    "tags": [
+      "ask_question",
+      "logistics_info",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1650.068,
+    "end": 1658.997,
+    "text": " Yes, there is a delay in getting those printed, but they will receive one. Absolutely. And so will you, Dr. Haas.",
+    "speaker": "bernardhairston",
+    "tags": [
+      "reassure",
+      "acknowledge",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 1659.277,
+    "end": 1741.294,
+    "text": "Thank you. Thank you. Thank you, Bernard. I have one announcement for the board. When you look at the consent agenda for tonight, there is under information for information. There is there are some minor edits. Well, not minor, but  a few edits to the policy on masks and face coverings. It's policy EBA and with summer programming imminent, we are seeking to make some changes to it around mask wearing outdoors. Ross has worked on the policy  We did run by the changes we're looking at making with our local pediatricians as well as the health district. They are in agreement with them. We put them on the consent agenda tonight, but it was added today. And so we wanted to draw your attention to it in case you had looked at the agenda earlier and then came back to it again tonight. It won't be up for action until July the 8th.  So there's plenty of time to look at it, but I wanted to be sure that you could see it there. That's all I have, Mr. Page. Okay.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "cite_external_source",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1741.314,
+    "end": 1755.532,
+    "text": "Thank you, Dr. Haas and Dr. McLaughlin and Dr. Harrison. Is there any school board business at this time? Anyone on the board? Chair Page? Yes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "public_addressing",
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1755.612,
+    "end": 1763.414,
+    "text": "I just wanted to ask a clarifying question about the  Dr. Harrison's announcement. It's Thursday, right?",
+    "speaker": "judyle",
+    "tags": [
+      "clarify",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 1765.016,
+    "end": 1771.825,
+    "text": "Yeah, June, he said Friday, June the 17th, but it is Thursday. Okay.",
+    "speaker": "grahampaige",
+    "tags": [
+      "clarify",
+      "logistics_info",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1772.005,
+    "end": 1775.489,
+    "text": "Okay. I just want to be sure about that. Thank you. So we're in my t-shirt from last year.",
+    "speaker": "judyle",
+    "tags": [
+      "clarify",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1777.652,
+    "end": 1785.983,
+    "text": "Right. All right. So it is Thursday, June 17th. All right. Any other questions or comments from the board?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "ask_question",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 1787.448,
+    "end": 1831.666,
+    "text": " I did have one piece of business just that I met attended it, but the vision keepers I don't know if y'all remember but post.  pandemic, we had started to put a board member on this Vision Keepers group, which is a group dedicated to expanding preschool access for kids and implementing a way to kind of track how kids are doing to make sure that they continue whatever progress they gained during preschool in our schools. It's a really good partnership, and they just had a meeting. I have a slide where they've kind of summarized the work that they've done, and I'm happy to share it with the rest of you. And then come January, maybe we can get another board member to attend those meetings as well.  And Matt is a part of them and is contributing as well. They're doing good things, that's the update.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "give_update",
+      "request_action",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 1832.488,
+    "end": 1847.796,
+    "text": "Okay. All right, thanks, Ms. Carlson. Any other school board members with business at this time? Okay, if not, moving to our public comment. Ms. Carlson, vice chair.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "ask_question",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1849.362,
+    "end": 1998.376,
+    "text": " I'm going to start by reading the public comment guidelines. The school board invites and actively seeks the public's input in the matters relevant to school board governance and provides for time during its business meetings to hear from Albemarle County residents and community members. As authorized by ordinance of the County of Albemarle, the school board will hold its meetings electronically during the COVID-19 pandemic.  the school board is still committed to encouraging public comment despite its need to meet on a virtual basis. For this reason, there will be two ways for the public to provide comment. First, as always, written comments can be submitted to the school board clerk prior to the meeting and will be given to all the school board members for review. And second, so long as the school board holds its meetings electronically, members of the public wishing to provide public comment during the meeting may sign up online by 2 p.m. the day of the meeting.  We have a lot of speakers tonight I think last time I checked it was 41 and for that reason each speakers time instead of the regular three minutes, it will be two minutes and you should have all received that notification via email.  Before electronic public comment commences, a few things I think we should go over based on last time when we had a lot of things. One, I'm gonna just try to do an on-deck thing. So I'll say the speaker and I'll tell the next speaker to kind of get lined up that they're gonna be next. Two, please make sure you're muted until it is your time to speak. And then three, and this is a really big one, please follow the Zoom meeting to determine when you need to speak. Don't look at the live stream because there is a delay and it can create confusion.  So I think there's someone that already, yep, great. So speakers during the meeting should state their name and address, our magisterial district, our school that they attend. Further speakers should limit comments to those matters that are relevant to school board governance or the operations of the school division. And my last bit is although the school board will not respond directly to comments made during the public comment period, school board members may address comments at the end of the meeting agenda under other business. So with that,  Oh, and one last little piece of advice. We don't have a timer. I time things on my phone. It's a little hard for you to see when there's one minute left. I really strongly encourage you to time yourself so you have a kind of an understanding of when your time is coming up. So the first speaker is going to be Fontina Bumms, followed by Nikki Athe. So Fontina, I'm not sure if you're on.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "public_addressing",
+      "logistics_info",
+      "procedural_move",
+      "request_action"
+    ]
+  },
+  {
+    "start": 1998.636,
+    "end": 1999.838,
+    "text": "I'm here. Thank you so much.",
+    "speaker": "fotiniburns",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2000.599,
+    "end": 2001.46,
+    "text": "You can start.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "request_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2001.625,
+    "end": 2090.037,
+    "text": " Okay, good evening, everyone. I strongly support every parent's liberty to direct the upbringing, education, and care of their children as they see fit. I also feel that it is critically important that the school fosters a respectful, inclusive learning environment. Hopefully, these are common goals amongst everyone in this meeting, and as such, I would encourage parents to, one, examine the Courageous Conversations curriculum and slides, and two, to read Gerald Singleton's book, Courageous Conversations About Race.  that is the basis for this curriculum. After reviewing the resources, I have found that they are directly opposed to creating an environment where every child is respected. Instead of teaching our kids to judge people based on their actions and character, this curriculum strips them of their individual identity and lumps them into categories based on the color of their skin, gender, sexual orientation, et cetera. As an example, the eighth grade curriculum slide specifically states that it is wrong to say things like,  We all belong to the human race, and there are two sides to every story. This curriculum actually says that these logical and uniting statements are racist and building blocks towards genocide. As a society, we have to work to achieve unity and mutual respect. A curriculum that divides children into groups and places primary importance on attributes that they cannot control will not achieve this goal. Thank you so much for your attention.",
+    "speaker": "fotiniburns",
+    "tags": [
+      "opinion",
+      "express_concern",
+      "public_addressing",
+      "cite_external_source",
+      "request_action",
+      "disagreeing"
+    ]
+  },
+  {
+    "start": 2092.936,
+    "end": 2099.366,
+    "text": " Thank you for those comments, Ms. Bumms. The next speaker is going to be Nikki Athey, and following that will be Tim Henson.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "logistics_info",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2103.593,
+    "end": 2229.829,
+    "text": "Good evening. I'm Nikki Athey from Samuel Miller. I will submit a letter detailing why I oppose the foundation principles behind the anti-racist policy, the overhaul of the strategic plan, the continuation of the Courageous Conversations program,  the ill-conceived use of funds supplied to equity trainers and outside policymakers, and my strong objections to the changes to the sex offender notification policy. I will also detail concerns about the subjective standards for introducing and reviewing new curriculum, the equity review cycle for updates to policy, and evaluation criteria of success in the new paradigm set forth by the draft strategic plan. I ask tonight  for board members to commit to listening, hearing, and responding in earnest to the concerns of the community. Some of the feedback that concerned parents are receiving from the school board or ACPS staff has ranged from disinterested to patronizing to flatly arrogant.  What is being presented to you is genuine concern, well thought through and well researched positions and hopefulness for achieving a solution agreeable to all, and all with the best interest of children at heart. What citizens who disagree with ACPS positions and its agenda have received in response is mockery closed doors and desires to strip them of the ability to choose what is best for their children.  Citizens have entrusted this board with a grave responsibility to provide a foundational education for Albemarle children commensurate with the $193 million budget. This trust has been either misdirected at best or abused at worst. ACPS is not a place for activism or social experimentation.  It is a place for sober deliberation of how to deliver the very best we have to offer children. And it is a place to set an example of how to balance priorities and work together when we have wildly different opinions without encouraging and stoking us versus them mentalities. I ask you to respectfully consider the recommendations of those who are seeing the fruits of these policies for the first time. Thank you.",
+    "speaker": "nickiathey",
+    "tags": [
+      "public_addressing",
+      "express_concern",
+      "opinion",
+      "request_action",
+      "give_update"
+    ]
+  },
+  {
+    "start": 2232.29,
+    "end": 2238.098,
+    "text": " Thank you for those comments, Ms. Athey. The next speaker will be Tim Hinson, followed by Sarah Harris.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 2241.362,
+    "end": 2291.456,
+    "text": "Hi. I'd like to thank you all for the work that went into the Courageous Conversations program. I grew up in a nice suburb of a college town. I attended a Catholic school with nuns as teachers. But despite that, when I was young, much younger than middle school, I heard some ignorant things, some racist things, hurtful things.  and repeated some of them, not really understanding the deeper meaning. And at that point, I don't really remember anyone saying, whoa, hold on. So I'm happy to have my kids get an open, honest, educational forum to learn about these issues and help my kids understand and know better. I know there are people who don't support this program, but please remember the 700 people who signed a letter supporting Courageous Conversations. Don't give up.  We're all with you. Thank you.",
+    "speaker": "timhensen",
+    "tags": [
+      "acknowledge",
+      "reassure",
+      "opinion",
+      "cite_external_source",
+      "public_addressing",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 2293.439,
+    "end": 2325.902,
+    "text": "Thank you for those comments, Mr. Hinson. The next speaker will be Sarah Harris, followed by Heidi Gilman-Bennett. Ms. Harris, I think your sound doesn't show you as muted, but I can't hear you. Mm-mm.  Okay, we'll come back to you and let you figure it out. So we'll go to Heidi Gilman Bennett, followed by Madeline Benedict, and then I'll loop back to you, Ms. Harris.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "procedural_move",
+      "logistics_info",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2328.669,
+    "end": 2438.505,
+    "text": "Hi, my name is Heidi Gilman Bennett. I'm a parent of two kids at Henley.  First of all, I want to speak in support of the Henley Middle School student journalists who have been quoted in national conservative publications recently. I congratulate these students for their fine writing on the 1619 Project and LGBTQ identity. And I thank their teacher who has led outstanding real-world lessons on both facts and free speech. Along with over 700 other people, I urge the school board  to continue to support the approved ACPS anti-racism policy with professional development and instructional materials. I am so personally grateful to the Henley diversity resource teachers for creating lessons that are so age appropriate and engaging, and also to their classroom teachers who are leading the courageous conversation lessons so thoughtfully.  These lessons have sparked great conversation in my home. My sixth grader, mama, I have a bias towards cheeseburgers. And my eighth grader is so ready for the uncomfortable questions about skin color and economic and social disparities that he sees around him in the world. I'm also glad that teachers are affirming and fully including the transgender and gender expansive students who are at peddling.  that's in ACPS policy and state law. Plus it's consistent with my family values and my church values. I especially want to thank Dr. Costa for her bold leadership. All of the Henley educators are helping us raise a generation of humans who will try to make the U.S. and especially our local community more just and equitable. Thank you.",
+    "speaker": "heidigilmanbe",
+    "tags": [
+      "public_addressing",
+      "policy_proposal",
+      "request_action",
+      "opinion",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2442.535,
+    "end": 2451.229,
+    "text": " Thank you for those comments, Ms. Gilman-Bennett. The next speaker will be Madeline Benedict, and then we will try you again, Ms. Harris.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 2452.745,
+    "end": 2581.849,
+    "text": " Hi, everyone. My name is Madeline Benedict. I'm an eighth grader at Headland Middle School, and I live in the Samuel Miller District. I'm going to be talking about the anti-racism policy and courageous conversations and why I support them. As a young white girl going to an almost all-white school, I've seen subtle and blatant racist views displayed by my fellow classmates on multiple occasions. And I'm not proud of it, but in most of those situations, I didn't say anything because I didn't know what to do because I wasn't educated on the topics of racism and anti-racism. There are two specific lessons I want to touch on when it comes to courageous conversations.  One was a video we watched about police brutality for people of color, and one talked about white privilege. The video showed issues that are very serious in our community and are the kinds of productive conversations and topics that we really need to delve into. People with white privilege, myself included, should be held to the standard of acknowledging white privilege, racism, and trying to dismantle both. Acknowledging white privilege is not enforcing the idea that white people are better than black people. White privilege is prevalent in our society because of the discriminatory laws and oppression that black people face and are still facing.  Ignoring white privilege or claiming that it isn't real is ignoring systemic racism and oppression to make you feel more comfortable. I want to make it very clear that the school is in no way teaching us that white people are bad. The only purpose is to bring awareness to these kinds of issues. Those of you who think that the county is pushing a political agenda or narrative.  The idea that being anti-racist is somehow an attack on your political or religious views because it promotes being against bigotry is disgusting. If being racist is considered a political view to you and you agree with that political view, then you're just racist. Using politics or religion to excuse and offend bigotry is hindering our efforts as a community to make Black and LGBTQ people feel safe and accepted.  The responsibility of advocating for Black lives should fall onto everyone, including White people, and we should use our privilege to speak up about such issues. The one-sided viewpoint some of you have referred to is the viewpoint that empathy and acceptance are important, and I personally think that that is a pretty good view to be teaching the students. Having these kinds of conversations in our school is so important because it shows our students how to combat and recognize racism within and out of our school environment.  Black people do not get to opt out of being Black or being discriminated against because of their skin color. So white people should not be allowed to opt out of acknowledging it. Thank you.",
+    "speaker": "madalynbened",
+    "tags": [
+      "public_addressing",
+      "opinion",
+      "express_concern",
+      "request_action"
+    ]
+  },
+  {
+    "start": 2582.83,
+    "end": 2598.208,
+    "text": "Perfect time. Thank you for those comments, Ms. Benedict. And I always take a second to say thank you so much for coming to speak. I know it's hard, and I love when we have students come and share their experiences. So thank you. The next speaker, we will, Ms. Harris, if you want to try and see if your audio is working.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "reassure",
+      "request_action",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2599.369,
+    "end": 2717.466,
+    "text": "Can you hear me now? Yes.  Yay. Thank you, members of the school board. My name is Sarah Harris, and I'm here again tonight to voice my strong support for courageous conversations in particular, and anti-racism and LGBTQ inclusion in ACPS in general. Several of us drafted an open letter in support of the board's commitment to equity and inclusion in ACPS, which you've already heard about. More than 700 members of our community, including parents, educators, and administrators have signed it in just the last week. The letter's in your inbox.  We're grateful for the work that educators, students, county leadership, and the school board have already done, such as creating a strategic plan that centers on equity, implementing the anti-racism policy through lessons and classroom practices and materials, and providing professional development for teachers and staff in CRT, which we all know means culturally responsive teaching.  And we're proud of where the county is heading. With the forthcoming approval and implementation of the policy on the treatment of transgender and gender expansive students in schools, which is required prior to the start of the next school year, ACPS is sending a clear message of acceptance and celebration of our LGBTQ students.  As for the opinion that it should be the parents, not the students having these conversations, we have been for years. We've been listening and learning and making important progress. It's why these policies are in place and it's how these laws have been passed. The list of signatures includes over 125 students, indicating their eagerness to have these conversations.  But they too have been doing this work for years. Students were instrumental in the development of the anti-racism policy. So don't underestimate them or what they can handle. None of this is new. None of this should be controversial. Albemarle County Public Schools is firmly and categorically on the right side of history with this adoption of these policies and the implementation of this curriculum. And the vast majority of the community supports this critical work. So stay strong, stay focused, and thank you.",
+    "speaker": "sarahharriss",
+    "tags": [
+      "public_addressing",
+      "opinion",
+      "acknowledge",
+      "reassure"
+    ]
+  },
+  {
+    "start": 2720.72,
+    "end": 2745.529,
+    "text": " Thank you for those comments, Ms. Harris. I did not announce the next speaker. We have Nancy from Whitehall. I do not know the last name. And that will be followed by Marsh Patty. So Nancy. I do see a Nancy Moir.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "logistics_info",
+      "clarify"
+    ]
+  },
+  {
+    "start": 2748.108,
+    "end": 2751.895,
+    "text": " I am going to give my time to Marsh Patty, please.",
+    "speaker": "katesodermansh",
+    "tags": [
+      "procedural_move",
+      "request_action"
+    ]
+  },
+  {
+    "start": 2751.935,
+    "end": 2771.449,
+    "text": "OK, thank you. So Marsh Patty will be next, followed by John Bryce. And just so we're clear, it doesn't double the time. I don't believe you can't give your time to someone to double their time, but you can yield the floor if you don't want to provide a comment. So Marsh Patty, you're up.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "logistics_info",
+      "clarify",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2773.758,
+    "end": 2907.343,
+    "text": " Great, thank you very much. Good evening, my name is Marsh Patty and I'm a parent of two children in the Whitehall district. Tonight I want to present a letter or petition to the school board. I want to be clear that I did not personally author this petition, but I am a signatory. I was asked by a collection of parents to present it to the board and I do so tonight with great respect for the diverse viewpoints of many caring parents.  On Monday, June 7, this petition was created to request transparency, discussion, and community engagement regarding the Courageous Conversations pilot at Henley. It also asks that this pilot be paused until there is an opportunity for transparency and discussion. In just three days, the petition is now nearing 300 signatures.  The signatories are over 18 years of age. They do not include children. The petition was translated into Spanish to advance the important goal of being as inclusive as possible for our Albemarle County residents. I ask us all to keep in mind and respect that the signatories no doubt have their own reasons for signing the petition. We come from different political and religious views and from a variety of life experiences.  Though our differences may be many, there is in fact one strong voice with respect to this pilot. I would like to read a portion of our petition. As diverse members of the Albemarle County community, we join our neighbors in supporting a learning environment for our children that is free from discrimination, hate, exclusion, and bullying of any kind.  We are concerned about the new Courageous Conversations program being piloted at Henley, and whether it is the right way to achieve the above goals we are all united in supporting. We, the undersigned members of the Albemarle County Public School community, are writing to request a pause in any future and broader implementation of the program to allow adequate time for one, a comprehensive fact-driven and balanced analysis, and review of program content by key stakeholders.  including parents. And number two, open public conversations and forums to discuss the materials. As a first step, we ask the board to hold a town hall where the components of the pilot can be presented to the public in questions asked. We also request that quantitative feedback from the pilot be shared, including the performance metrics for the program, its original goals, and how success is being measured. Mr. Clady,",
+    "speaker": "marshpattie",
+    "tags": [
+      "public_addressing",
+      "request_action",
+      "express_concern",
+      "give_update"
+    ]
+  },
+  {
+    "start": 2907.323,
+    "end": 2925.096,
+    "text": " Yes. I'm so sorry. Please forward that to us. We will read it, I promise. And in the future, if you're speaking on behalf of a group of people, you can let us know and we can extend your time in the future so you know. I'm sorry to cut you off. The next speaker will be John Bryce, followed by Christy Commons.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "request_action",
+      "reassure",
+      "acknowledge",
+      "procedural_move",
+      "public_addressing",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 2928.248,
+    "end": 3034.236,
+    "text": " Hi, I'm john Bryce from Samuel Miller, and I have two simple requests for the board regarding the rollout of its courageous conversations program. Based on what I've heard from other parents, I have some major concerns, however, like most parents, I need a lot more information from you. You failed to communicate your intentions and process to us. Now I hope it's not the case.  but it seems like you're attempting to implement a controversial unproven program as quickly and quietly as possible without the required due diligence and without including the parents and taxpayers. Where is the transparency, the communication? Where is the inclusive community discussion? Where are the town halls, the surveys and comment periods? How could you possibly think it might be acceptable to roll out something like this without a minimum of one town hall per district?  Why are you excluding the very community you're supposed to serve? And where's the data from the pilot program, which conveniently was implemented at the 11th hour during a pandemic while parents were distracted and juggling more balls than ever?  What were the target outcomes? Were they achieved? How were they measured? As a parent, I want what's best for my children, but your lack of due diligence has excluded me from a top secret process. Was that your intent? I'm requesting that you take a timeout on the rushed rollout of this program to communicate with us transparently. Give us a chance to review the data, to ask questions and provide feedback. Give us a chance to weigh in on what's best for our children. I'm also requesting that you invite us parents  to have some courageous conversations during town halls before introducing content from your controversial pilot program to any additional classrooms. Thank you for your kind attention.",
+    "speaker": "johnbryce",
+    "tags": [
+      "request_action",
+      "follow_up_request",
+      "express_concern",
+      "policy_proposal",
+      "public_addressing",
+      "hedge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 3036.981,
+    "end": 3044.874,
+    "text": "Thank you for those comments, Mr. Bryce. The next speaker will be Kristi Cormans, correct me if I'm wrong, followed by Christine Koenig.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3046.517,
+    "end": 3132.27,
+    "text": "Good evening. I'm a mother of two ACPS elementary students.  When I first heard rumblings of the Courageous Conversation pilot program at Henley, the information was hearsay. I began to ask parents who had students at Henley, and they knew very little, which was even more concerning. As I began to dig in and ultimately saw the slides of the curriculum, I was shocked to say the least. My concern is the apparent deceit or at a minimum lack of transparency between the school and parents. It made me question what high schoolers and elementary students are being taught behind our backs.  Regardless of the content of the curriculum, the big red flag here is the process and the lack of transparency. Why is this being hidden? Why does a slide presented to our eighth graders say, and quote, what is said in our classroom must stay in our class community? Surely we all agree that these are minors and parents have legal and moral rights to the care and control of their underage children. I implore all parents to consider this. What happens when the day comes, and it will, that you're on the other side of agreeing with the curriculum in schools?  Won't you want to know that the precedent has been set for a methodical process where materials are shared, feedback is received, and a respectful conversation and decision is reached? Don't you want to know that your children's safety comes first to our school leaders? What's the rush on this program? What's the big secret? Nothing is gained by rushing. Slow down, press pause, and be transparent with parents. Thank you.",
+    "speaker": "christycormo",
+    "tags": [
+      "public_addressing",
+      "express_concern",
+      "ask_question",
+      "request_action",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 3134.694,
+    "end": 3144.515,
+    "text": "Thank you very much for those comments, Ms. Cormans.  And since you didn't state it, I'll just say for the record from the Samuel Miller District. Next up will be Christine Koenig, followed by Nathan Moore.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3146.18,
+    "end": 3146.902,
+    "text": "Hi, can you hear me?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3147.984,
+    "end": 3148.285,
+    "text": "I can.",
+    "speaker": "sarahharriss",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 3148.807,
+    "end": 3283.063,
+    "text": "Thank you.  Hello, I'm Christine Koenig, a Brownsville parent. I'm confused and frustrated. I watched the last school board meeting I was confused by all the parent comments about a pilot program at a school my child will attend in a few years. I am familiar with the culturally responsive teaching at ECPS and from what I have personally seen and heard I believe it is a good and valuable program.  Critical race theory is a new term for me, and I had to Google it. Honestly, I'm still not sure I understand it. Courageous Conversations is apparently a new pilot program at Henley, but I couldn't find anything about it on the ACPS website, so I Googled it. And links to local news articles and websites I've never visited before came up. There I found what were referred to as leaked materials. Were they truly leaked? If so, why were they not meant to be shared with parents? I reviewed the quote leaked PowerPoints, and it seemed to have some good slides about bias and others that may stimulate really powerful conversations.  There are also slides that I'm not quite sure what they're trying to get at. So I want to know more so I can understand. So my questions are, will all materials in this new curriculum be shared with parents? Were there and will there be opportunities for parent feedback across all of ACPS? And has ACPS engaged in accumulating feedback from diverse parent populations across the county and not just Henley parents? How is this pilot program being evaluated? And what are the measurable success criteria, both for the pilot and the program moving forward? When and how will the decision be made to roll it out to other schools?  I'm frustrated that I don't have direct and detailed information from ACPS on anything related to this program and all I have is Google. I'm sure other parents like me are waiting for this communication from ACPS, especially since this new curriculum has made national news and is creating controversy.  Finally, what kind of training were teachers given to implement courageous conversations? Is it true that teachers were given the materials just 10 days before they were being required to teach it? Were teachers given any training in how to guide the discussion so it doesn't go in a harmful direction? Are teachers being given the support they need to make this a positive learning experience for all? We are supposed to be creating safe spaces for our children and to have these important and sensitive conversations. And without the proper tools and training to support our teachers, you could end up traumatizing and re-traumatizing some of our most vulnerable and at-risk students.  These conversations are so important, so let's take the time to do it right. Slow down, involve parents in the community, set metrics for success, and actually give teachers the support and training they need to make it successful. We can't afford to get this wrong and destroy any progress that has already been made. Thank you for listening.",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "request_action",
+      "policy_proposal",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3284.485,
+    "end": 3291.013,
+    "text": "Thank you for those comments, Ms. Koenig. The next speaker will be Nathan Moore, followed by Samuel Parks.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 3291.753,
+    "end": 3389.667,
+    "text": " Thanks Katrina. My name is Nathan Moore from Rio District and my kids had some very good years at Woodbrook Elementary. A year ago, I would have said my two girls instead of my two kids because my two kids were both born biologically female. My older child, who's now 12 years old, came out to me as a trans boy in December. That was an adjustment for sure, but I am so proud to have Charlie as my son and so proud of his courage.  Because what really matters in all this is that all of our kids in Alamaro County feel loved and that they feel supported, not just by their dads and their moms, but by their community.  What matters is for all of our kids to be able to lead free and flourishing lives. As they grow into adolescence and then young adulthood, they need to be physically safe. They need to be economically secure. They need to feel heard and understood and feel a sense of belonging. And it's our job to tear down the structural walls that exclude some people from living those free and flourishing lives. That's why I support initiatives like Courageous Conversations, that curriculum, as well as Albemarle County's overall efforts to engage in culturally responsive teaching.  And I just want to comment for a minute. There are people on the right who don't like this model, and they're egged on by media outlets that are literally fascist. These people think it's perfectly fine for some kids to feel unsafe, just not theirs. For some kids to experience discrimination, just not theirs. For some kids to be pushed out of the resources that our society offers, just not theirs. But they know they can't say those things here in polite society. So instead, they go on and on and on about process, right? They're wrong.  As a school system, please continue to support culturally responsive teaching, and please keep making that Courageous Conversations pilot program better and better. Thank you for your time.",
+    "speaker": "nathanmoore",
+    "tags": [
+      "public_addressing",
+      "opinion",
+      "request_action",
+      "policy_proposal",
+      "express_concern",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 3391.809,
+    "end": 3398.516,
+    "text": "Thank you for those comments, Mr. Moore. The next speaker will be Samuel Parks, followed by Rebecca Elliott.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "logistics_info",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3401.078,
+    "end": 3523.568,
+    "text": "Hello, my name is Sam Parks from the Whitehall District, and I bring the perspective tonight of a homeschooling parent. Through the past year, a number of families have confided in us  that they're pulling their children out of Albemarle County schools, often after witnessing what their children were taught virtually. For example, one family witnessed their second grader being taught that people are sometimes not the gender they were assigned at birth, and that if they have a funny feeling in their belly right now, maybe they are one of those people. Finding these and other lessons to be manipulative, psychologically destabilizing, and certainly usurping of their parental role, these parents remove their children from their schools quietly, lest they be labeled bigots.  Board, I've reviewed the Courageous Conversations curriculum, and rather than make pronouncements, I want to ask you to consider a few questions. One, will students formed by this curriculum be more likely to treat others as unique individuals or instead see others as stand-ins for an identity group? Two, are students likely to emerge more emotionally resilient, more graceful with others, or will they be less so, more likely to find trauma or grievance in everyday conflicts and disappointments? Three,  Will students emerge with more of a sense of belonging, a shared common identity? Or will they feel further fractured into identity groups, groups almost designed to be antagonistic? Four, will our minority students emerge more ennobled and enabled to participate in American civic life? Or will they have had the expectation reinforced that the odds are stacked against them? Five, will teaching our white students that their skin corresponds with privilege and oppression  make them less or more vulnerable to the seductions of white nationalism. Members of the board, search your hearts and be honest with yourselves. You have been entrusted with the molding of young minds. Do not be cowed by a cultural zeitgeist, but know that history will not look kindly on this. It is not too late for you to do the right thing. Open this curriculum up to transparent community review and know that to fear doing so is the surest sign that something is very amiss. Thank you.",
+    "speaker": "samuelparks",
+    "tags": [
+      "public_addressing",
+      "express_concern",
+      "ask_question",
+      "request_action",
+      "policy_proposal",
+      "opinion"
+    ]
+  },
+  {
+    "start": 3525.218,
+    "end": 3563.787,
+    "text": " Thank you very much for those comments, Mr. Parks. The next speaker will be Rebecca Elliott, followed by Luka Schroer. So Rebecca or Ms. Elliott, if you are on now is your go time. Let me see if I see you. I do not see her.  Okay, I will put her a note, try her at the end if she comes on. So next up then will be Luca Schroer followed by Shawn Johnson.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "logistics_info",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3565.67,
+    "end": 3640.571,
+    "text": "All right, I would like to start off by telling you all a story. I have two lesbian mothers. I first experienced homophobia when I was in kindergarten. We were talking about our families and I mentioned that I have two mothers. I was told by another child that I couldn't have two mothers and that I must have a mother and father.  all throughout my elementary school years, I was ostracized, always asked who my quote unquote real dad was, or who was like the dad in my parents' relationship. It got worse in middle school and all the way up to high school where I have been called slurs. So here's what I have to say.  If your child is old enough to say hurtful and hateful things, they are old enough to learn that what they're saying is not okay. And people trying to prevent that from being taught are enabling and supporting bullying and hate. I was going to speak my mind. I was going to speak on my support.  of the anti-racism policies, but I believe Madeline Benedict has said what I wanted to say, so I'm just going to second that. I would, however, like to say that if a person has a problem with their child learning how to not be racist, they might be racist themselves. Thank you.",
+    "speaker": "lucaschroeer",
+    "tags": [
+      "public_addressing",
+      "opinion",
+      "express_concern",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 3640.591,
+    "end": 3650.235,
+    "text": "Thank you for those comments, Luca. The next speaker will be Shawn Johnson,  followed by Sophia Toronto.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3651.419,
+    "end": 3786.964,
+    "text": "Hello, Sean Johnson Whitehall district. I want to talk about the critical race theory instruction that's being proposed.  We have three kids with one currently at Henley. Our kids are not racist, never have been. They've never told us that they feel racism or lack of inclusion or issues in their schools. They're not confused about racism, religion, or their gender. They are well aware that racism does exist in many shapes and forms. I've reviewed the materials that you intend on sharing with the students at Henley and do not approve.  This material contains many false assumptions and that's many important facts and will lead kids to many wrong conclusions. Your student presentation material for eighth graders, for example, was designed to create reactions from students that fit your social engineering goals on slide 53 of the eighth grade material.  You point out that black men are more likely to be in prison than white men. Also that black men are more likely to be killed by police. What is missing are important facts that put these stats in a real context. According to the FBI in 2019 black men accounted for 56% of all homicides, while the whole black population was only 14% of the US.  The FBI also reported that an overall per capita offending rates for black men was six times higher than white men. There's much more data available that really shows the whole picture, yet in developing your program you have cherry picked convenient statistics to perpetuate a radical false narrative.  On slide 38, a biracial couple answers questions about white privilege. One of the questions asks if you've ever had to teach your children how to not get killed by police. Any common sense parent knows that children need to be caught to obey laws and respect law enforcement. I have forwarded that material to both police chief Ron Lance and Sheriff Jan Bailey just recently this week, so waiting for comment from them.  Finally, I do want to thank the Citizens Advocating Responsible Education of Alamaro County. In only a few days, this group has grown dramatically and has become very well organized. Mr. Johnson, your time is over. Okay, thank you.",
+    "speaker": "ashlynjohnso",
+    "tags": [
+      "express_concern",
+      "disagreeing",
+      "cite_external_source",
+      "public_addressing",
+      "opinion",
+      "give_update",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3786.984,
+    "end": 3801.82,
+    "text": "Thank you for providing your comments. The next speaker will be Sophia Gerano, followed by Levy Duncan. So Sophia Gerano, I will see if I see her real quick.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3803.403,
+    "end": 3865.924,
+    "text": " Oh, hi. My name is Sophia. I'm a 10th grader at community lab school. In my opinion, I think it's great for teachers to talk about anti-racism in school because learning our history is important. It's not as hard as one might think. One way it would be helpful is being taught the history of how people came up with the vocabulary for racial slurs and how not to and and why not to use them.  There are many people who are educated about slurs and their history. So allowing the teachers teach the history of slur words is important. The teacher can show a documentary about how people came up with the slurs and why they are used. I know slur words are offensive, but why do people use them so much to hurt other people? Why can't this be acknowledged? Thank you.  Thank you for this time, for your time.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "opinion",
+      "ask_question",
+      "request_action",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 3865.944,
+    "end": 3907.264,
+    "text": "Thank you so much for those comments. And again, I will call out, thank you as a student for coming and sharing your perspective. We always appreciate it hearing from our students. You're welcome. The next speaker will be Levy Duncan, followed by Scott Guggenheimer. So I do not see Levy Duncan in here.  So hearing nothing, I will move to Scott Guggenheimer, followed by Mary Govan and let me move to the bottom of the list.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 3907.284,
+    "end": 4030.29,
+    "text": "Thanks. My name is Scott Guggenheimer, a parent of two students at Henley Middle School.  Both my students are white. I don't think they have a ton of firsthand experience with feeling excluded because of their identity. They show up at Henley Middle School and they are loved and valued and affirmed and challenged. And they're having a wonderful academic experience. I cherish it. I'm grateful for it. I think they'll build on that academic experience, whatever sort of life they want to live. And when I reflect on that, three things occur to me.  First, not all kids in our schools are having that same type of experience. Secondly, we can't really have a fair democracy if not all of our young people are having an academic experience in which they can build whatever sort of life they want to live. We can't have a just society without an inclusive school system.  And third, the aspirations that the school board has articulated in the anti-racism policy, the work that educators have been doing for years to become more culturally responsive in their teaching, and the work being done at Henley Middle School to start having conversations about race and identity. These efforts don't take anything away from my kids. Being more inclusive, having more affirmation and more love for some young people does not mean less of anything for other young people.  In fact, it's more of everything for all young people more opportunities to relate to other people, more skill building for navigating complex problems from a diverse perspective, a deeper appreciation of our skills and  both individually and collectively. So I continue to support the school board's anti-racism policy. It's so exciting to hear that over 700 people feel the same way. And I'm so glad that Henley Middle School has started to have courageous conversations in their classrooms. Thanks.",
+    "speaker": "scottguggenheim",
+    "tags": [
+      "opinion",
+      "express_concern",
+      "reassure",
+      "public_addressing",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 4030.31,
+    "end": 4037.378,
+    "text": "Thank you very much for providing those comments, Mr. Guggenheimer. The next speaker will be Mary Govan, followed by Heath Forbes.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 4041.712,
+    "end": 4138.486,
+    "text": " My name is Mary Govan and I am a student at Albemarle High School. Growing up in the Western feeder pattern, most of my friends and most of my fellow students and many of my teachers were white, unlike me. I learned that sometimes even a really friendly and caring school doesn't feel friendly and welcoming when your race sets you apart. For example, it's hard to feel like a recognizable individual when teachers regularly get you mixed up with the only other Asian kid in your grade.  I go to Albemarle now, and one big change that I liked was that there are so many different types of people with different types of names and backgrounds. I don't think Western and Henley are responsible for changing the population of the schools, and I don't think they should. But I support the Albemarle County Public Schools anti-racism policies and LGBTQIA inclusion work.  because these policies might help make schools really welcoming for people who don't match the majority of people at that school, the way I didn't. One last thing. Tonight, I am listening to a lot of adults who are scared of having students and teachers talk about race and identity. But as an Asian American, I can't escape these topics.  And I need my teachers and peers to know how to have those conversations with me and when I'm around and feel safe having them. I want to thank ACPS for continuing to recognize and support curriculum like Courageous Conversations. Thank you.",
+    "speaker": "marygovan",
+    "tags": [
+      "public_addressing",
+      "opinion",
+      "express_concern",
+      "request_action"
+    ]
+  },
+  {
+    "start": 4140.769,
+    "end": 4174.875,
+    "text": "Thank you very much for those comments, Ms. Govan. And again, thank you for coming to speak as a student. We appreciate it.  Thank you. The next speaker will be Heath Forbes, followed by Jay Jennings. Mr. Forbes, if you're on, now is your time. I do not see him. OK. So we'll have Jay Jennings, followed by Matthew Mirza-Jewski.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4176.543,
+    "end": 4298.213,
+    "text": " Hi, thank you. I'm Jay Jennings. I'm the father of a rising fifth grader at Mountain View and a resident of the Scottsville district. First, I applaud the creation of the community working group that began meeting last night to work on the Mountain View overcrowding issue. I want to bring forward data to help you as you work to decide where our children will spend their first full school year since the middle of third grade. It's not easy to find studies on fifth graders in middle school. However, the 2008 paper, the negative impacts of starting middle school in sixth grade is telling.  The authors found that students who attend middle school in sixth grade are twice as likely to be disciplined and perform worse on standardized test scores than their counterparts in elementary school. According to the study, the results suggest that exposing sixth graders to older peers has persistent negative consequences on their academic outcomes. This is important because no matter how the day would be structured for fifth graders at Walton, many of the children would spend nearly two hours a day on a bus with eighth graders.  This study was based on sixth graders. It's not a stretch to extrapolate the effect on fifth graders would be at least as negative. According to the VDE Offense Frequency Report, over the past five years, Walton had nearly two times as many offenders per capita as any other middle school in the county, primarily substance and behavioral offenses. Over one student in 10 is disciplined each year. Meanwhile, Mountain View Elementary School has reported no offenders over the same five-year period.  If we combine the existing disciplinary situation at Walton with the findings of the cited study, we must conclude that sending our rising fifth graders who have spent nearly a year and a half outside of school to Walton is setting them up for failure and trauma that will likely follow them for the rest of their academic careers. Overcrowding in the building at Mountain View cannot be the only factor, nor should it be the primary driver in determining where our children spend their final year of elementary school.  Based on this data, the school system should consider every other possibility, including learning cottages in the bus loop and or using the Boys and Girls Club offered space to reduce overcrowding before putting nine and 10 year olds on a bus unsupervised for up to two hours a day with 13 and 14 year olds. Thank you for your time.",
+    "speaker": "jayjennings",
+    "tags": [
+      "public_addressing",
+      "cite_external_source",
+      "policy_proposal",
+      "express_concern",
+      "acknowledge",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 4301.877,
+    "end": 4319.151,
+    "text": "Thank you very much for those comments, Mr. Jennings.  The next speaker will be Matthew. I see you smiling because this can't be that uncommon. Matthew Marzyewski, followed by Lori Tamburino.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4320.473,
+    "end": 4461.789,
+    "text": "Yes, Matthew Marzyewski, great job. Whitehall District. ACPS policies state that, quote, children and youth function best when there's clear and cooperative communication between the home and the school.  And I'm here tonight to say this has not occurred with the Henley Courageous Conversations pilot. Indeed, just yesterday, a survey was emailed to the Henley students to gather feedback on the eighth grade program. Not only were parents not surveyed, they were not even made aware that the survey was being sent.  And for the majority of this year's pilot, the website has read that the eighth grade units are forthcoming for the CCAR program. As of today, those slides have been uploaded, so thank you for that. But these are not the same slides that my child was actually presented in units one and two in the classroom. So my question is, where is the cooperation, trust, and transparency? The pattern seems to be to err on the side of secrecy instead of transparency. You've heard that theme a bit.  If I'm wrong, please prove it to the community that holding multiple town halls will expose and dispel that statement and hold them over the next few months, please. Second, quantitative evidence of success and failures must be presented in this forum, I request. The pilot was rushed to implement in secret, but worse, without key performance indicators. Why do I say that? A parent recently asked the Henley administration in a public forum  How does the teacher know that they've met daily weekly and big vision goals to which the administration responded I quote.  we don't have a very good measure for advisory. We give the kids surveys. They give us feedback. And so that's really going to be some of it. And it will almost be all qualitative in what the kids say. And they've been saying all along, it's not like a unit test or something that we plan to give. So the majority of our measure of success is going to be qualitative feedback in the form of writing for kids that check in. But one of the things we could have done better we didn't do is a pretest that we could have something that we  That might have been a stronger element, end quote. So I urge the pause of these rollouts. Host multiple town halls, please, over the next few months. Parents in other districts, you've heard from some of them, are severely unaware of the program and transparency should reach them too. And personally, I have a lot of positive ideas, productive ideas that I think can help these kids and meet all the goals that you're hearing from both sides, honestly, on this topic.  it can't fit into two minutes. We should come together and share those ideas, brainstorm, build on them as a community. So that's my urge to you. Thank you very much.",
+    "speaker": "mattmierzejewski",
+    "tags": [
+      "express_concern",
+      "request_action",
+      "policy_proposal",
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4463.07,
+    "end": 4478.025,
+    "text": "Thank you very much for those comments. The next speaker will be Laurie Tamburino, followed by Marie Merzyczewski.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4478.045,
+    "end": 4651.161,
+    "text": "Hi, good evening. My name is Laurie Tamburino.  and I'm the parent of a rising fifth grader at Mountain View Elementary School. I'm here tonight to once again ring the alarm regarding the proposed move of fifth graders to Walton for the 2021-2022 school year. When I spoke at the meeting on May 27, I begged the administration to put together a working group to address the urgent issue so an alternate plan could be put in place. A work group was in fact organized  and I hopefully watched the live stream last night. As the meeting progressed, however, it became painfully obvious that the administration's goal with this work group is not to solve the problem, but instead to run out the clock on making a different plan for the fifth graders at Mountain View for the upcoming school year. Then they could say that they tried, but it's too late to implement a different plan for the 2021-2022 school year.  and ship the fifth graders off to Walton as originally planned. And the people that would bear the brunt of that decision would be the rising fifth graders, one of which is my child. But I'm not here to advocate for my child tonight. The painful fact is that my white middle class child will be fine regardless of what decision is made for the 21-22 school year. She's not battling things that some of her classmates are having to.  such as food insecurity and housing insecurity. The families that will be most negatively affected by this proposed change are not being heard by the county's administration, the school members and the community at large. So I'd like to read some of the comments that came out of last night's work group regarding what is important to them about being at Mountain View for the 21-22 school year. One parent said,  Many families in my community are unable to be with kids in the morning to get the bus. We need the schedule to work for families with single parents or for families that have issues with transportation. Another parent said, we need our kids to have good experiences with the teachers. The teachers in Mountain View are supportive. They understand our community. They are great at communicating with me in Spanish when I need them to.  And finally, one of the most heartbreaking comments, my family needs to not fight this hard to keep our kids from suffering more than they already have. I once again implore the Albemarle County Public School Administration to treat this with the urgency that it deserves and develop a strong working plan to keep the rising fifth graders in their school home at Mountain View for the 21-22 school year.",
+    "speaker": "lauritamberrino",
+    "tags": [
+      "express_concern",
+      "request_action",
+      "public_addressing",
+      "opinion"
+    ]
+  },
+  {
+    "start": 4651.542,
+    "end": 4660.057,
+    "text": "Thank you.  Thank you for those comments, Ms. Tamburino. Next up will be Marie. Hi.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4660.999,
+    "end": 4661.68,
+    "text": "Can you hear me OK?",
+    "speaker": "mattmierzejewski",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 4662.121,
+    "end": 4662.422,
+    "text": "I can.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "agreeing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4662.883,
+    "end": 4793.243,
+    "text": "OK. Hi. Thank you for having me. I'm pleading with you to hear the feedback regarding Courageous Conversations and to halt this program. This was a pilot program and it did not work.  I want to be honest, I support better protection for LGBTQ students from discrimination. We must always work to protect the dignity and worth of every human person, especially our youth. However, ACPS outright endorsing gender fluidity as the one correct view is not the same thing as protecting one against discrimination. If this curriculum continues, it has two possibilities for my children.  One, stay quiet, keep their head down, or two, change their beliefs. The message sent from their very own tax-funded school and staff is clear. There is only one set of correct beliefs, and what your Christian religion teaches is wrong.  For everyone speaking out like I am today, there's another 50 who are too afraid that they will be fired from their jobs, ostracized from their community, all this from the very curriculum that is geared towards fighting discrimination. As published research has shown, anti-racism training often causes divisiveness and does not authentically meet the goal set before it. Rather, studies show missions unite. I'd like to give you a concrete example.  My child had the delight of presenting a multi-week group project at school. The students, when placed together, worked hard in trying to present a cohesive argument. It was mock trial. In this small group of students, I couldn't be more proud of how well they worked together on a common goal. What is noteworthy about this is that these students have incredibly different held values, identities, and beliefs.  They all completely respected one another and were kind to one another. This is what we need. Not more conversations led by the school with a magnifying glass on their differences. Courageous conversations is not a common mission. It is a forced mission from a particular set of beliefs. Our kids are not to be experimented on. I hope the school board will correct course and learn from these courageous conflicts. Thank you.",
+    "speaker": "mattmierzejewski",
+    "tags": [
+      "request_action",
+      "express_concern",
+      "opinion",
+      "public_addressing",
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 4795.535,
+    "end": 4817.748,
+    "text": " Thank you very much for those comments. The next speaker, and just so we have an update for school board members and those, we have about 15 speakers left. We have a few people that missed, so I'll cycle through them at the end. The next speaker is gonna be Matt Anderson, followed by Carlos Ibanez. Mr. Anderson.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "procedural_move",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4818.389,
+    "end": 4938.343,
+    "text": "Hi, I'm Matt Anderson. I have two daughters at Henley Middle School.  At the last board meeting, I asked whether ACPS was introducing curricula that is based in whole or in part on critical race theory. I would like to be clear, I was not talking about culturally responsive teaching. I'm asking about critical race theory as the basis or underpinnings of your anti-racism initiatives. I've been performing further analysis of ACPS materials. I believe I've probably answered my own question, but I'm still interested in a publicly available statement from ACPS.  To me, it seems clear that ACPS is introducing curricula that is based at least in part on critical race theory. It is also clear to me that you're working at foundational levels with materials that include some unhealthy indoctrination. This may not be as apparent to you, but it is to me as an ex-CULT member. When you combine bad forms of us versus them social identity teachings with some additional unhealthy indoctrination, you have a recipe that can produce bad outcomes in the lives of children.  You can also lay the foundation for new kinds of racism between American social groups under initiatives labeled anti-racism, equity, diversity, and inclusion. Labels like these do not mean a lot to ex-cult members like me. We know how to look past the labels towards the substance and to consider the side effects of people's good intentions. In the end, it is not just about good intention. It is the overall effect, which can nullify good intentions. I believe fair and open discourse will help demonstrate that my concerns have merit.  Please do not misconstrue my concerns. I'm not invalidating the problems you're trying to solve or the goals you're setting to create a fair inclusive environment without racism. I also know your desire to improve the educational performance for key groups that have consistently underperformed for years. I'm with you for these goals. However, I'm calling attention to problems in your methodology and approach. In other words, I see and understand your intentions. I do believe your intentions are good, but today I'm cautioning you as someone with knowledge and experience from cult environments, that your best intentions are not enough.  Thank you for your time, and I appreciate the opportunity to share.",
+    "speaker": "mattanderson",
+    "tags": []
+  },
+  {
+    "start": 4940.008,
+    "end": 4950.079,
+    "text": "Thank you so much for those comments, Mr. Anderson. The next speaker, and that was perfectly timed. The next speaker will be Carlos Ibanez, followed by Michelle Miles.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4950.937,
+    "end": 5087.209,
+    "text": " And I'm Jody Harrison, I have a child at Henley and I'm reading on behalf of Dr. Carlos who cannot be here tonight. And there's his letter, dear members of the Admiral accounting school board. My name is Dr. Carlos, or Ben is and I'm writing you out of concern, the addition of the courageous conversations to the school curriculum.  My wife Tatiana and I legally immigrated to this country, many years ago, in hopes of providing our children a brighter future and freedoms we were not allowed, having grown up in a socialist military dictatorship in Central America.  We have experienced firsthand what government indoctrination is like and the helplessness of not being allowed to disagree or have an individual opinion other than the official version. Our children have been enrolled in ACPS since we moved here 13 years ago. Our oldest son is a product of ACPS, was in all AP classes and has successfully completed his first year at Johns Hopkins University. Our second son is a freshman at Western, is taking multiple AP classes and is a straight A student.  Our daughter is currently a student at Henley Middle School, will be in eighth grade next year and is also doing well in class. None of us have ever had any incident or issue with discrimination or racial bias of any kind in the time that we have been here. So the courageous conversations wanting to label my children as victims or subservient to a more privileged or dominant race is not accurate in our experience. Asking my children to label themselves as such would be in our case, racist in nature.  The entire concept of placing fault or blame or the need to feel guilty simply because of race, the color of skin, sex, or gender identity would violate the premises of individual rights, equal opportunity, and individual merit that my wife and I so highly coveted when we came to this country and have instilled in our children at home.  Tatiana and I have seen the modules that will be presented during eighth grade, and we strongly disagree with several points that are mentioned. Forcing those on our child without allowing us to opt out is an overreach by the school system, would amount to indoctrination as we know it, and at least an open and transparent discussion on the matter is warranted.",
+    "speaker": "jodiharrisonreadi",
+    "tags": [
+      "public_addressing",
+      "express_concern",
+      "request_action",
+      "opinion"
+    ]
+  },
+  {
+    "start": 5087.249,
+    "end": 5094.799,
+    "text": "Ms. Erickson, your time is up, but if you could, if you have an electronic copy of that, you can email it to us or feel free to send the paper copy.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 5095.049,
+    "end": 5096.13,
+    "text": " I can do that, thank you.",
+    "speaker": "jodiharrisonreadi",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 5097.852,
+    "end": 5102.216,
+    "text": "The next speaker will be Michelle Miles followed by Jared Govan.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "logistics_info",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5109.343,
+    "end": 5109.723,
+    "text": "So.",
+    "speaker": "matthewhaas",
+    "tags": []
+  },
+  {
+    "start": 5112.186,
+    "end": 5124.718,
+    "text": "Do not hear anything from. And us here in the meeting. Miss Miles. So we will move on to Jared. And I believe you must have had another one speak because I wrote down how to pronounce it. I think, yep, Govan.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "procedural_move",
+      "acknowledge",
+      "clarify",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 5125.171,
+    "end": 5241.376,
+    "text": " Thank you. Father of three students in the system in two districts and two more coming. The modern pace of social change, how it's changed in my lifetime alone is almost dizzying. I think it's fair and honest, and in fact, necessary to acknowledge that this can be challenging, messy, scary even. But we're faced here with a moral decision, a civil decision, one where we either address our complicated feelings about race, gender, sexuality, and religion for the good of our whole community,  or accept the status quo at the expense of those who are just gaining a voice, or those who have always struggled to be heard, to have a true cultural representation. So I see as a moral imperative, a civil rights imperative, the need to re-examine our country's complicated past with regards to race, to acknowledge the scientific community's modern understanding of gender and sexuality, to celebrate diversity as a source for greater strength in our community,  This conversation, of course, begins in our homes with our families, but that's not enough. It must continue in our schools. Indeed, it will in some form or another, whether we want it to or not. So it's our responsibility to frame this conversation in a way that doesn't perpetuate discrimination, neglect, marginalization. The conversation must continue with our educators and how they're empowered as advocates for all members of the community.  It seems now that social justice and religious freedom are sometimes strangely at odds. But I ask, how are the issues we're discussing today morally distinct from those faced by my parents' generation when debating school desegregation? For all this, which for me simply amounts to matters of justice and equality,  I support, along with the other 700 signatures, planned initiatives to make our schools more inclusive and equitable for all. Thank you.",
+    "speaker": "jaredgovan",
+    "tags": [
+      "opinion",
+      "policy_proposal",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 5245.14,
+    "end": 5258.634,
+    "text": "Thank you so much for those comments, Mr. Govan. The next speaker will be Peter Buckingham, followed by Laura Breeden. So Mr. Buckingham.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 5259.915,
+    "end": 5262.638,
+    "text": "He's not in the meeting. OK, I'll skip him.",
+    "speaker": "sallyhudson",
+    "tags": [
+      "logistics_info",
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5262.989,
+    "end": 5266.633,
+    "text": " Laura Breeden, I saw earlier. Ms. Breeden, you're ready.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5268.895,
+    "end": 5353.659,
+    "text": "Yes, I'm here. Thank you. I am in the White Health District. As parents, our greatest responsibility is our children. We want to guide them and raise them according to our family principles and values. We do not all share the same vision for our children, but we do share a common bond, which is the love we have for our children. We all strive to do what we believe is best for them.  That is our job as parents. My husband and I know what subject matter and material is appropriate for our children. No one else can or should determine that for them. We're not demanding the school board adopt our family's principles. It is the responsibility of the school board to ensure our children are given a solid education, being taught academics, reading, writing, math, science, history, without a hidden agenda. Nothing should be woven into the curriculum without parental consent.  Our children are our children. They do not belong to the school board. They do not belong to the schools they attend. They do not belong to their principals. They do not belong to their teachers, and they do not belong to other parents in our community. Please focus your energy on academic excellence and leave the parenting in our hands. My husband and I would appreciate the school board's kind consideration to pause the rollout of the Courageous Conversations curriculum or similar programs  until a public survey or multiple town halls can be held. Thank you for your time.",
+    "speaker": "laurabreeden",
+    "tags": [
+      "public_addressing",
+      "opinion",
+      "express_concern",
+      "request_action",
+      "policy_proposal",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 5356.523,
+    "end": 5385.047,
+    "text": "Thank you for those comments, Ms. Breeden. The next speaker will be Karen Hill, followed by Amanda Moxon. So Karen Hill, let me see if I see her. I do not.  So hearing nothing, I will skip her for now and move to Amanda who I do see on.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 5385.067,
+    "end": 5510.193,
+    "text": "Great, thank you. The fact that parents are rising up against equity and anti-racism is a direct result of ACPS's inability to effectively engage the community with a clear operationalized anti-racism strategy. For over two years,  This administration and some of the current board members continually pushed back on anti racist efforts to ban Confederate imagery and struggled to clearly declare a CPS as an anti racist school system you reap what you sow.  Because of ineffective community engagement and dysfunctional communication strategies, ACPS and anti-racist educators and community members are now being doxed and targeted by a global right-wing audience that was invited into this community through many of the speakers that spoke earlier this evening against the Courageous Conversations program. You reap what you sow.  Because ACPS is not fully and authentically grounded in intersectional anti-racist work, the rights of Black, Indigenous, and people of color, as well as LGBTQ plus students and educators is at risk. It's time to reckon with the ongoing coddling of racist white families in this school system.  Why is it easier to coordinate brutal police attacks on anti-racist parents than to shut down the destructive racist attitudes of bigoted white parents? If you replace the words courageous conversation or anti-racism with desegregation, when you listen to each of those speakers speak, you will hear exactly the same messages that have been around since the dawn of time, as well as specifically 60 years ago during the civil rights and desegregation movement.  I don't know how long you expect us to beg to keep our children safe. In the words of Lerone Bennett, Jr., an educator in a system of oppression is either a revolutionary or an oppressor. Please choose a side. Thank you.",
+    "speaker": "amandamoxham",
+    "tags": [
+      "opinion",
+      "express_concern",
+      "request_action",
+      "public_addressing",
+      "cite_external_source"
+    ]
+  },
+  {
+    "start": 5513.037,
+    "end": 5519.225,
+    "text": "Thank you for those comments, Ms. Maxim. The next speaker will be Allison Miller, followed by Emily Mathan.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 5523.531,
+    "end": 5525.854,
+    "text": "Hi. You didn't give me a warning, but I'm ready.",
+    "speaker": "alisonmiller",
+    "tags": [
+      "express_concern",
+      "reassure",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5526.02,
+    "end": 5529.864,
+    "text": " Oh, I'm sorry. That's OK.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "reassure"
+    ]
+  },
+  {
+    "start": 5529.884,
+    "end": 5662.383,
+    "text": "I'm going to just go for it. I'm a parent in the Whitehall District. I've got two kids in ACPS schools. And I'm thrilled to have been able to sign on to the letter submitted tonight in support of CCAR. It was especially meaningful to me that those who have signed onto the letter include not just parents, but teachers, administrators, doctors, mental health providers, counselors, adults who run programs for kids in our community, and most importantly, students.  There are more of us out there, and we are 100% committed to supporting the school division and the board in this work. I also wanted to speak to a misconception floating around on social media recently culturally relevant teaching is not critical race theory, and I feel I can speak to this because I sat in.  on culturally relevant teacher training modules and a book study put on by ACPS this spring. I learned a ton and I would strongly encourage anyone who has concerns or questions to reach out to ACPS to find out how to get involved. At its essence, culturally responsive teaching is about investing in learning and understanding who students are and what they bring to the table and how best to support them in becoming independent learners.  I think that if parents who are concerned take time to really understand what ACPS is doing, they'll see that it's not what national media outlets or people outside our county say it is. I think what they'll see is that our teachers are doing an amazing work. I also want to address the idea that Henley is acting as a renegade with this CCAR curriculum. It's just false. This curriculum was developed with input from around the county.  And this curriculum was discussed at every monthly meeting that Dr. Costa had for us since January. I also just want to take a moment to shout out to the Student Equity Advisory Team. These students have hosted two amazing panels that show how much agency, empowerment, empathy, and passion they are bringing to the work that they are doing. I was so grateful to be a part of those.  And finally, to the parents who are asking why we can't just wait and slow things down, I would just refer them back to James Baldwin, who in the 1980s asked, how much time must we wait for your progress? Thanks.",
+    "speaker": "alisonmiller",
+    "tags": [
+      "public_addressing",
+      "opinion",
+      "clarify",
+      "reassure",
+      "request_action",
+      "cite_external_source",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5663.144,
+    "end": 5677.746,
+    "text": "Thank you for those comments, Ms. Miller. The next speaker will be Emily Mathan. Hi. So that I don't mess up for the next person. The speaker after that will be Sally Williamson.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 5678.823,
+    "end": 5775.975,
+    "text": " Sorry, no problem. So my name is Emily Nathan and I am in the Rio district and I have two children in county schools.  Last month, I had the opportunity to attend a two-day training with Dr. Kenneth Hardy that was organized by the Counseling Alliance of Virginia called Race Matters. He facilitated what you might call a courageous conversation with a range of local professionals working with children and families. I would like to share one concept that he highlighted in relation to the recent backlash that we're hearing tonight to the county's efforts to serve all students, in particular those at the margins, with dignity and respect.  It's the distinction between safety and comfort. Dr. Hardy stated, everyone is entitled to safety. No one is entitled to comfort. The courageous conversations about identity and understanding and celebrating differences might have some people feeling uncomfortable. Does that mean we shouldn't be having those conversations? When our child is struggling to understand a concept or complete an assignment, do we prioritize their comfort  over what we know they need to learn. For too long, the safety of marginalized students in ACPS has been compromised because of the priority of comfort for white, cisgendered, able-bodied, straight students and community members. ACPS is on the right track with the anti-racism policies, professional development, curriculum, and hiring decisions. We must prioritize the safety of the most marginalized, not the comfort of the privileged. Thank you.",
+    "speaker": "emilymathon",
+    "tags": [
+      "public_addressing",
+      "opinion",
+      "express_concern",
+      "prioritization",
+      "request_action",
+      "cite_external_source"
+    ]
+  },
+  {
+    "start": 5778.385,
+    "end": 5787.097,
+    "text": " Thank you for those comments, Ms. Mathan. The next speaker will be Allison Miller, oops, sorry, Sally Williamson, followed by Linda Dukes.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing",
+      "clarify"
+    ]
+  },
+  {
+    "start": 5789.6,
+    "end": 5898.758,
+    "text": "Hi, good evening. My name is Sally Williamson. I am a parent in the Vyvana district. I'm a queer parent. I was previously a queer student in schools in this area.  I'm commenting this evening in support of the Courageous Conversation Program, ACPS's anti-racism policy, full intersectional support of LGBTQ youth, and culturally responsive teaching within the ACPS district.  The concerned group of citizens and parents from Albemarle County who are organizing as citizens advocating for responsible education or care do not represent me or hundreds of others who had signed on to the petition mentioned before. And that group of citizens should not be allowed to act as the arbiters of what constitutes responsible or education. Discomfort, as mentioned just in the comment before mine, is different than harm.  Your family's opinions do not negate the existence or the lived reality of students and families in Albemarle County and the harm that racism and bigotry has caused them within this school system. Pausing the implementation of anti-racist goals in order to placate a portion of the community who benefit from the status quo is not a neutral action. A lack of anti-racist action is not neutral.  There's a reason this is a contentious issue, because whether benevolent or overt, our culture is deeply rooted in white supremacy. We need to pull it out by the roots. I would like to uphold the students who previously spoke who are ready and willing and want to engage in these conversations. And I would like to uphold the staff and teachers who are leading them in these conversations. Thanks.",
+    "speaker": "sallyhudson",
+    "tags": [
+      "public_addressing",
+      "policy_proposal",
+      "opinion",
+      "express_concern",
+      "disagreeing",
+      "request_action"
+    ]
+  },
+  {
+    "start": 5903.108,
+    "end": 5910.36,
+    "text": " Thank you very much for those comments, Ms. Williamson. The next speaker will be Linda Dukes, who I see, followed by Burden Burkholder.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 5913.846,
+    "end": 6035.715,
+    "text": "Hi, my name is Linda Dukes and I live in the Rio district. I'm a retired elementary school reading specialist. Most importantly, though, I'm a parent of two adults who attended Albemarle County Schools K through 12.  I strongly support the board's anti-racism policy and the plan to implement an anti-racism curriculum for all students. Both of our adult children are upset at how little they learned in school, with a couple of exceptions, about the history of Black, Latinx, Native, and Asian Americans, and about the omissions and outright falsehoods they learned about how white Americans interacted with these groups of people.  Most white citizens of Albemarle County do not routinely interact with people of color, except possibly in the workplace and rarely in situations of equality. And yet they do not even realize how much richer their lives would be if they did. Even though our schools are not segregated, many classes pretty much are.  We need to give all our kids the knowledge and skills they need to interact with all of their peers, valuing the inherent worth and dignity of each other. We need the Courageous Conversations program for all students. And this is from my husband, Frank Dukes. He works with leaders from all around the state. These are cooperative extension agents, directors of nonprofit organizations, business executives, and local and state agency staff.  He hears over and over again how their schools fail to teach them how to foster effective conversations about race, gender identity, and other equity issues within their organizations. Please let us not raise yet another generation of citizens who are so unprepared to enter the workplace or to live in peace with their neighbors. Thanks.",
+    "speaker": "lindadukes",
+    "tags": [
+      "public_addressing",
+      "opinion",
+      "policy_proposal",
+      "express_concern",
+      "request_action"
+    ]
+  },
+  {
+    "start": 6038.682,
+    "end": 6046.799,
+    "text": " Thank you for those comments, Miss Dukes, and that was perfectly timed. The next speaker will be Burden Burkholder, followed by Scott Townsend.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6048.202,
+    "end": 6170.353,
+    "text": "Yeah, hi, Whitehall District. My wife and I have been residents of Albemarle County for 20 years and raised three children here.  First, to those responsible for the recently circulated letter that calls for the barring of an opt-out option for the LGBTQIA plus curricula, your letter serves to highlight an important truth, that there are some issues so foundational to the health and well-being of our children, that the appropriate course of action is not compromise, but to fight for what we know to be true, not only for our own children, but for all of the children in our community.  And on this point, I agree wholeheartedly with the signers of this petition and their allies.  However, it is here that my agreement ends. I firmly believe, as many other parents and teachers in this county, that a true and therefore healthy understanding of human gender and sexuality is founded on the laws of nature and nature's God, that we are created male and female, that as such our biological sex and gender are inextricably bound, and therefore any attempt to divide them does not bring health and well-being to our children, but rather deep psychological and physical harm, and harm that is often irreparable.  So I say to those parents of like mind, it's not enough to come to the table begging for scraps. It's not enough to merely ask for the preservation of your opt out. It's time to fight for our children with the same clarity and determination as those who brought forward this petition. It's time to demand that our schools promote in their curriculum policies, the understanding that we are all born male and female and that gender cannot be separated from this binary reality without causing lasting harm.  If you care about the children of this county and Commonwealth do not stay on the sidelines, it is time to understand what you believe why you believe it and then fight for it. If Albemarle County Public Schools choose to inculcate your children with theories of sexuality and gender that threaten their health and well being.  Then it's time to wake up and pull your children out of the public school system. For this, for many, this will require deep personal sacrifice. But what treasure lays greater claim on our honor and sacred duty than the very hearts, minds, and souls of our children? Thank you.",
+    "speaker": "burtburkholder",
+    "tags": [
+      "public_addressing",
+      "opinion",
+      "express_concern",
+      "agreeing",
+      "disagreeing",
+      "request_action",
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 6173.337,
+    "end": 6184.013,
+    "text": "Thank you for those comments, Mr. Burkholder. The next speaker will be Scott Townsend, who I see. And then it will be followed by Erin Califero and then Kate Soderman.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "logistics_info",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6186.018,
+    "end": 6308.128,
+    "text": " Thank you. Can you hear me? I can. Perfect. Thank you. I want to thank you for taking, for allowing me to come and speak again. Um, as a soldier with 21 years in the army, I witnessed many, many types of discrimination. Um, I was deployed around the world. I've been to Afghanistan multiple times. I've been to Ethiopia, Kuwait, Djibouti and multiple other nations where I've seen bigotry and racism on many levels. I,  I abhor racism, I abhor bigotry, and I abhor discrimination. However, I am asking, along with my other colleagues, that Albemarle County consider halting the rollout of courageous conversations about race in order to allow us to have the chance, us as parents and community members, to work together to develop a more academic and inclusive education and program for our children.  Looking at the definitions within this system, within this program, bias is defined as unfairly showing favoritism towards something or someone. That's a very reductionist definition of bias. When you see on the University of Minnesota's  psychological school, they list 12 different cognitive biases to include anchoring bias, which is the overwhelming reliance on the first piece of information obtained and using it as a baseline for comparison, all the way to recency effect or recency bias in which recent events are easier to remember and therefore placed more heavily weighted than others.  And I am again asking that the Albemarle County Public School Board halt this rollout until we can have a series of workshops in which more parents are involved, more parents are allowed to speak and hear and give their opinion on this. Thank you for your time.",
+    "speaker": "scotttownsend",
+    "tags": [
+      "public_addressing",
+      "express_concern",
+      "request_action",
+      "cite_external_source",
+      "follow_up_request",
+      "opinion"
+    ]
+  },
+  {
+    "start": 6311.213,
+    "end": 6323.466,
+    "text": " Thank you very much for those comments, Mr. Townsend. The last two speakers on the list before we cycle through those who missed is going to be first up is going to be Erin Talley Farrell, followed by Kate Soderman.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 6326.474,
+    "end": 6466.787,
+    "text": "Hi, good evening.  I wanted to speak tonight about the courageous conversations. I actually have four children in the Whitehall District, two at Henley and two at Brownsville. I personally welcome conversations about race and identity. Within the Henley community, as well as the school itself, however, my experiences and perspective are usually unwelcome, labeled as ignorant and unjustified, and most often are met with hostility and aggressive rhetoric.  The third principle of the county's anti-racism policy states explicitly that the board commits to respecting and championing the diversity and life experiences of all community members. The Henley community is failing at this, and the pervasive school of thought is robbing those of us with differing opinions and perspectives of feeling unwelcome in our own town, robbing us of our freedom of speech, and is attempting to rob us of the power to educate our children on the very sensitive topics of identity and race.  complex constructs that even adults have difficulty dissecting and analyzing. Despite this, Henley announced the courageous conversations on race curriculum on a Thursday with expected implementation the following week. Omission of documentation left parents with no choice but to make a gut decision as to whether to opt in or opt out. There was no time for educated decision making. Parents were simply expected to accept the decision that had been made on their behalf.  If the county feels so strongly that this curriculum is instrumental in quote eliminating racism in the division. Why not be completely transparent, why not provide parents with all material prior to implementation, so that we can more effectively help our children become citizens to quote practice identifying challenging and changing the value structures and behaviors that perpetuate systemic racism.  Wouldn't such transparency help parents educate their children on how to as laid out in the county's anti racist policy.  become a lifelong learner who actively seeks new information and opportunities to grow in one's understanding about race and racism? How can we help our children to be upstanders, challenging and disrupting practices that perpetuate racism and maintain power if we don't have access to the curriculum prior to implementation? Was there ever any intention to promote conversations about identity and race, or was it simply an edict being imposed upon the parents of this community? Thank you.",
+    "speaker": "erintaliaferro",
+    "tags": [
+      "express_concern",
+      "ask_question",
+      "request_action",
+      "policy_proposal",
+      "public_addressing",
+      "opinion"
+    ]
+  },
+  {
+    "start": 6467.408,
+    "end": 6470.252,
+    "text": " The next step will be Kate Soderman.",
+    "speaker": "davidoberg",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6472.255,
+    "end": 6530.164,
+    "text": "Hi, thank you. My name is Kate Soderman. I'm a parent of two students in the Rio district. And I'm speaking today in support of an anti-racist curriculum in our schools. Our children are growing up in a community where we have Confederate statues coming down, thankfully.  and where we debate the role of police. They're growing up in a community that is still recovering from the horrors of the Unite the Right rally and where they see Black Lives Matter signs in their neighbor's yards. I think it's critical that the schools provide a safe place for students to learn about and discuss these issues. In our home, we talk about systemic racism, but in school, my kids will be able to hear from other students and teachers who have different experiences than our white family.  So I applaud Albemarle County Public Schools for exploring this issue, and I wanna urge the school board to support an anti-racist curriculum for all students. Thank you.",
+    "speaker": "katesodermansh",
+    "tags": [
+      "public_addressing",
+      "opinion",
+      "policy_proposal",
+      "request_action",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 6532.328,
+    "end": 6564.43,
+    "text": "Thank you so much for those comments, Ms. Soderman. I will quickly cycle through those who missed. Rebecca Elliott, Levi Duncan,  Keith Forbes, Michelle Miles, Peter Buckingham, or Karen Hill. Many of those people are on. Here's your chance. Hearing nothing, I would say that public comment is done, and I turn the floor or the mic back over to you, Chair Page.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "request_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6565.171,
+    "end": 6592.29,
+    "text": "OK, thank you very much, Vice Chair Carlson. If there is no objection, we will take a 10 minute break  And then reassemble at 928. I'm sorry, 828. So is there any opposition to taking a 10-minute break at this time? OK, Kate, you're on mute.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "logistics_info",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 6593.051,
+    "end": 6595.335,
+    "text": "Oh, I just said it sounds good. OK.",
+    "speaker": "kateacuff",
+    "tags": [
+      "agreeing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6595.355,
+    "end": 6597.838,
+    "text": "All right, so 10-minute break. Thank you.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "logistics_info",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 7168.312,
+    "end": 7169.093,
+    "text": " Let's go, Graham.",
+    "speaker": "davidoberg",
+    "tags": [
+      "request_action"
+    ]
+  },
+  {
+    "start": 7170.055,
+    "end": 7191.771,
+    "text": "All right, Dave. OK, I call our meeting back to order. Our next agenda item, COVID update, Dr. McLaughlin and Ms. Gomez.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "logistics_info",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7194.046,
+    "end": 7229.829,
+    "text": " Hi, good evening, board members. Pat McLaughlin, chief of strategic planning for the division. And I'm here along with Eileen Gomez to give you our COVID-19 status update for June 10th, 2021. As the board recalls, we have five stages that we look at in determining the level of community transmission as it relates to how we operate our schools. And one of the levels that the board specifically has asked us to report on each week is the level of community transmission  in the Albemarle and Charlottesville area. And so I will turn things over to Eileen at this point to take us through the latest updates on that.",
+    "speaker": "Unknown",
+    "tags": [
+      "give_update",
+      "public_addressing",
+      "procedural_move",
+      "logistics_info",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7231.551,
+    "end": 7391.203,
+    "text": "Thank you, Dr. McLaughlin. I'm happy to tell you that the the numbers over the last month or so have fallen and continuing or continuing to look good. As of today, Albemarle County, seven day floating or moving average number of new cases for one hundred thousand people is one point four.  The seven-day moving average of cases has been increasing for the past 13 days, which does not exceed the threshold of 14 days. So this is considered a fluctuating trend. However, I believe these are some of the lowest numbers we've reported. The seven-day moving average for the percent of COVID cases that were positive  is 1.8%. This indicator has been decreasing for eight days, which does not exceed that threshold. So this is also considered a fluctuating trend. For the city of Charlottesville, the seven day floating average as of today is, or as of yesterday is 1.2. And this  indicator has been increasing, although very slightly, for the past 19 days. So this is considered an increasing trend. The seven-day moving average of the percent of COVID tests that were positive in the city of Charlottesville was 1.1%. This number has been increasing for the past 25 days, so it's also considered an increasing trend. But these are also very low numbers compared to what we had throughout the pandemic.  In Albemarle County, public schools have had very good numbers. We've only had reported two cases in the last month. So the cases have fallen a lot in Albemarle County. And then at UVA, they've had very few cases. They've had two since the end of the spring semester. Our youth vaccination rates are continuing to climb. We have an estimated 44.8% of  all those in Albemarle County in the 10 to 19 age group who have had at least one dose. But if you take out the 10 and 11 year olds, that would be 57% of our students age 12 to 19 have had at least one dose. And 36, almost 37% of our students in that age group are fully vaccinated at this point.  Turn it back over to you, Dr. McLaughlin.",
+    "speaker": "eileengomez",
+    "tags": [
+      "give_update",
+      "reassure",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7391.403,
+    "end": 7502.338,
+    "text": "Yeah, thanks, Eileen. So as you recall, we look at the numbers one more way from the CDC core indicators, which look at the total number of new cases per 100,000 people over the past seven days and the percent positivity over the past seven days.  And you can see that those indicators are at the moderate level for the case incidence rate and at the low level for the percent positivity that's here. And so that puts us into the moderate range. This number, what we're tending to see on a seven-day cumulative average  is numbers really fluctuating around that, just going over and just going under that 10 cumulative cases in Albemarle County each week when they measure it on Saturdays. And so as you recall, what the CDC and the Virginia Department of Health recommend is that we use two figures or two sets of facts, the level of impact on a school, which we are considering low at this point because of the  The very low number of cases that we are seeing that aren't affecting student absenteeism or staff capacity. And the moderate level of transmission puts us into the lowest level of school impact.  We are hoping that this is the second board meeting in a row that we've been able to come to you with the figures that show us in that lowest level of impact. We are keeping our fingers crossed and cautiously optimistic that we will be able to continue to report that our impact remains low throughout the division. And so that is our update for tonight. We'd be happy to take any questions that the board may have.",
+    "speaker": "Unknown",
+    "tags": [
+      "give_update",
+      "cite_external_source",
+      "reassure",
+      "clarify",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 7508.292,
+    "end": 7510.777,
+    "text": " Do we have any board members with questions?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 7512.0,
+    "end": 7519.976,
+    "text": "Just for Miss Gomez, are we continuing to have vaccination clinics at our schools?",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 7520.918,
+    "end": 7543.19,
+    "text": "Yes, we are. We had them in in all three of our high schools and all of our middle schools.  We have not gotten a large participation rate, but we think, well, we know kids, parents are taking their students to their physicians because they're administering the vaccine at Pediatric Associates and Piedmont Pediatrics.",
+    "speaker": "eileengomez",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "clarify"
+    ]
+  },
+  {
+    "start": 7543.21,
+    "end": 7544.931,
+    "text": "Thank you. Okay. And Ms.",
+    "speaker": "lindadukes",
+    "tags": [
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 7544.951,
+    "end": 7550.657,
+    "text": "Gomez, I have a question too. You said the percentage of fully vaccinated was what, 36%?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 7551.818,
+    "end": 7554.0,
+    "text": "Yes. Estimated to be that.",
+    "speaker": "eileengomez",
+    "tags": [
+      "acknowledge",
+      "give_update",
+      "hedge"
+    ]
+  },
+  {
+    "start": 7555.302,
+    "end": 7572.49,
+    "text": "All right. Thank you.  Are there any other questions from our board members on the COVID update? Okay, if not, thanks, Dr. McLaughlin and Ms. Gomez.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 7573.11,
+    "end": 7573.611,
+    "text": "Thank you all.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7577.055,
+    "end": 7586.207,
+    "text": "Our next item on the agenda is a third quarter financial report and update. Mr. Zimmerman.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 7592.549,
+    "end": 7616.042,
+    "text": " Can't hear you. Is Mr. Zimmerman with us? He was talking, but his thank you. He's working on it. No, I cannot hear you.",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "interrupt_overlap"
+    ]
+  },
+  {
+    "start": 7631.598,
+    "end": 7637.827,
+    "text": " Are you saying anything, Mr. Zimmerman? We can see that your screen is being shared, but we don't hear any comments.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "public_addressing",
+      "logistics_info",
+      "request_action"
+    ]
+  },
+  {
+    "start": 7640.752,
+    "end": 7642.775,
+    "text": "We can't hear if he's saying anything or not.",
+    "speaker": "kateacuff",
+    "tags": [
+      "express_concern",
+      "request_action",
+      "clarify"
+    ]
+  },
+  {
+    "start": 7643.195,
+    "end": 7646.0,
+    "text": "He said he's trying. He's working on it. OK. All right. All right.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "reassure"
+    ]
+  },
+  {
+    "start": 7647.782,
+    "end": 7650.366,
+    "text": "Technical difficulties. We'll hold on a few seconds.",
+    "speaker": "grahampaige",
+    "tags": [
+      "logistics_info",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 7655.442,
+    "end": 7663.056,
+    "text": " And we need to get Sarah Harris back on. She had the same thing happen where it's like she's not muted. He's not muted. It's just the sound is not coming through.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "request_action",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 7663.797,
+    "end": 7667.143,
+    "text": "This is what we get for allowing them to go not last.",
+    "speaker": "davidoberg",
+    "tags": [
+      "opinion",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 7667.584,
+    "end": 7674.497,
+    "text": "Yeah. I'm just saying. Well, speaking of that, should we move? Should we do the next agenda item?",
+    "speaker": "kateacuff",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 7676.24,
+    "end": 7698.523,
+    "text": "OK, we can do that.  All right, our next item on the agenda while we are waiting for Mr. Zimmerman is, are you here Mr. Zimmerman? Can you be heard? No, I don't think so.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "logistics_info",
+      "public_addressing",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 7698.544,
+    "end": 7699.145,
+    "text": "Can you hear me now?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 7700.928,
+    "end": 7701.008,
+    "text": "Yes.",
+    "speaker": "davidoberg",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 7701.68,
+    "end": 7711.753,
+    "text": " Yeah, we can hear you now. All right, so I will be using my phone for sound and my computer for the report.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 7712.154,
+    "end": 7908.211,
+    "text": "Thank you. My name is Jackson Zimmerman. I'm your school finance officer, and I'm here to present for your consideration the third quarter financial reports. One of the important things, a number of important things to consider with this report,  In this particular section of report, we do have March 31st ADM, which is the count of students across the fiscal year that we've enrolled in Albemarle County Schools. And it is 1,033 less than was originally budgeted. Another very important consideration during this financial report is that that has not affected state revenues as it would normally have affected state revenues.  there is a hold harmless provision in state funding, in addition to extremely strong state revenues that were not initially projected when our budget was adopted in the midst of the pandemic last year. So if we take a look at our financials in terms of revenues, our revenues are strong this year, primarily due to a conservative estimate in state revenues, and then also hold harmless funding that was passed by the General Assembly  Uh, just this past winter on terms of, of expenses, we do expect our expenses to be less than what was originally budgeted. Um, that's not, uh, unusual during this time period, uh, that there are slightly less than originally anticipated. So we will end up with, um, a fund balance at the end of this fiscal year.  And then I will move on to the final discussion regarding fund balance. At the start of this fiscal year, we had about a $9.5 million initial starting fund balance. We budgeted the use of just over a million dollars in that fund balance when we first started the year. We have some lapse savings. We have additional revenues coming in from the state.  We have some operational savings that are budgeted. We did use $2.6 million for a one-time payment made to staff in April that was approved by the board. And that has taken place. We did transfer during the month of April $4 million of our fund balance to CIP to cover projects that are associated with that.  And then we did use $5 million worth of fund balance in the adoption of the budget for FY 22. We do anticipate at the end of this year, we will finish the year with approximately $3 million, a little bit less than $3 million in available fund balance at the start of next fiscal year, end of the current fiscal year. So just wanted to report to the board that we are in a strong financial position.  We are following under the 2% requirement for fund balance by the Board of Supervisors. And I'd be happy to field any questions that you may have.",
+    "speaker": "Unknown",
+    "tags": [
+      "give_update",
+      "public_addressing",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 7913.156,
+    "end": 7917.141,
+    "text": "Are there any questions for Mr. Zimmerman on the financial update?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 7922.827,
+    "end": 7925.45,
+    "text": "It appears we're looking pretty good, Mr. Zimmerman.",
+    "speaker": "kateacuff",
+    "tags": [
+      "reassure",
+      "opinion"
+    ]
+  },
+  {
+    "start": 7925.93,
+    "end": 7927.572,
+    "text": "Right. We are.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 7929.391,
+    "end": 7937.183,
+    "text": " OK, Mr. Zimmerman, do we need to take any actions on anything related to your report?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "request_action"
+    ]
+  },
+  {
+    "start": 7937.984,
+    "end": 7941.749,
+    "text": "I think the only thing I would be looking for is for the board to receive a report.",
+    "speaker": "Unknown",
+    "tags": [
+      "request_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 7942.911,
+    "end": 7947.318,
+    "text": "OK. All right.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7947.338,
+    "end": 7951.284,
+    "text": "I move that we receive Mr. Zimmerman's third quarter report.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 7951.985,
+    "end": 7952.125,
+    "text": "Second.",
+    "speaker": "mattmierzejewski",
+    "tags": [
+      "procedural_move",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 7953.1,
+    "end": 7970.964,
+    "text": " OK, moved by Mr. Alcaro, seconded by Mr. Oberg that we receive the third quarter report from Mr. Zimmerman. Is there any discussion on the motion? If not, Ms. Johnston, could you call the roll, please?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "vote_call",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 7972.726,
+    "end": 7979.575,
+    "text": "Mr. Oberg? Yes. Dr. Acuff? Yes. Mr. Alcaro?",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call"
+    ]
+  },
+  {
+    "start": 7980.497,
+    "end": 7980.777,
+    "text": "Yes.",
+    "speaker": "erintaliaferro",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 7981.358,
+    "end": 7984.139,
+    "text": "Ms. Lee? Yes.  Ms. Osborne.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7984.62,
+    "end": 7984.84,
+    "text": "Yes.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 7985.661,
+    "end": 7988.204,
+    "text": "Ms. Colson. Yes. Mr. Page.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 7988.685,
+    "end": 7988.925,
+    "text": "Yes.",
+    "speaker": "samuelparks",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 7990.147,
+    "end": 7990.868,
+    "text": "Motion carried.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 7991.549,
+    "end": 8016.903,
+    "text": "OK, thank you. Thank you. The numbers always be this good, Mr. Zimmerman. Yeah. All right, our next item is the school board salary public hearing and action to vote on that salary.  Ms. Johnson, do we have anybody for public comment on school board salary?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "ask_question",
+      "request_action"
+    ]
+  },
+  {
+    "start": 8017.964,
+    "end": 8018.265,
+    "text": "Yes, sir.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 8019.526,
+    "end": 8047.697,
+    "text": "Okay. If not, you will recall that we are saying the proposed budget for the school board then was $7,183 per year with the chair stipend being 1,800 and the vice chair $35 per meeting that is being chaired by the vice chair.  Could I have a motion to accept that salary?",
+    "speaker": "grahampaige",
+    "tags": [
+      "give_update",
+      "procedural_move",
+      "request_action"
+    ]
+  },
+  {
+    "start": 8053.716,
+    "end": 8056.665,
+    "text": "So moved. Second.",
+    "speaker": "kateacuff",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 8057.337,
+    "end": 8082.915,
+    "text": " All right, moved by Dr. Acuff, seconded by Ms. Lee, that we accept the salary of $7,183 per year, chair stipend $1,800, vice chair stipend $35 per meeting presided over. Is there any discussion on the motion? If not, Ms. Johnston, could you call the roll, please?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "logistics_info",
+      "ask_question",
+      "vote_call"
+    ]
+  },
+  {
+    "start": 8084.377,
+    "end": 8092.368,
+    "text": "Dr. Acuff? Yes.  Mr. O'Carroll. Yes. Ms. Lee. Yes. Ms. Osborne.",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 8092.829,
+    "end": 8093.049,
+    "text": "Yes.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 8093.95,
+    "end": 8096.553,
+    "text": "Ms. Colson. Yes. Mr. Oberg.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 8097.313,
+    "end": 8097.914,
+    "text": "I abstain.",
+    "speaker": "davidoberg",
+    "tags": [
+      "vote_call"
+    ]
+  },
+  {
+    "start": 8099.436,
+    "end": 8100.156,
+    "text": "Mr. Page.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 8100.817,
+    "end": 8101.077,
+    "text": "Yes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 8102.339,
+    "end": 8102.979,
+    "text": "Motion carried.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 8106.022,
+    "end": 8116.673,
+    "text": "OK, thank you. All right, is there any other business by board members or the superintendent at this time?",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 8119.066,
+    "end": 8154.447,
+    "text": " Yes, I know when we do public comment, we say that we might bring it up in the other business. So I guess I would just want to open it up for discussion on should we do anything about the fact that we've gotten quite a few public comments, almost 30-something last time, 40 this time. Just what are other board members thinking? I don't want to leave that many comments without saying anything. I don't know if we can do a two-by-two meeting, Matt, to find out more information and get a better understanding of what we're doing to deal  some of the concerns, I don't know. I'm open to hear what y'all have to say.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "express_concern",
+      "request_action",
+      "ask_question",
+      "follow_up_request",
+      "hedge"
+    ]
+  },
+  {
+    "start": 8158.897,
+    "end": 8182.679,
+    "text": "I guess to me it feels, I don't know a lot about the program, but I also feel like  It's pretty operational. That's just my view on it, and it follows our anti-racism policy. So that's just my view on that.",
+    "speaker": "judyle",
+    "tags": [
+      "opinion",
+      "hedge",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 8187.147,
+    "end": 8286.999,
+    "text": "My concern is  more with the process. The concern that was raised, which I can sympathize with, is the fact that the eighth grade curriculum was not on the website. Because I looked for it and couldn't find it. And I only got it through the graces of Mr. Alcaro. He got it from the school.  That was a mistake. And I think we need to own that that was a mistake. I'm sure it was an oversight. I know for certain it was not some sort of conspiratorial secrecy attempt. But we need to own the fact that, yeah, if we're going to do that, if you're going to put up the sixth and seventh grade curriculum and say the eighth grade curriculum is going to be put up, it needs to get put up. Because it does have an appearance of,  impropriety, even though I don't believe for a minute that it is improper. I welcome the conversations. I quite frankly am very proud of what Henley did. I think there are things that can be improved, but that's why we have pilots. That's why we do this, so that we can learn. But I'm  I'm frankly a little disappointed by the apparent allegations that this board is somehow has some sort of malign intent. I think we deserve better than that. And I know that our teachers and our administrators deserve better than that.",
+    "speaker": "davidoberg",
+    "tags": [
+      "express_concern",
+      "acknowledge",
+      "conceding",
+      "clarify",
+      "reassure",
+      "disagreeing",
+      "opinion"
+    ]
+  },
+  {
+    "start": 8294.208,
+    "end": 8295.43,
+    "text": "Are there other comments?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 8296.827,
+    "end": 8367.047,
+    "text": " I would like to echo Judy, Ms. Lee's comments that we have crafted an anti-racism policy for a reason. And the reason is that racism in our schools does directly interfere with our academic mission. And that unless we are serious about it beyond, you know, training ourselves or educating our teachers, I think we have to have  a forum for our students to talk about these issues. They are, it's called courageous conversations because it's not easy. But I think, you know, I would like to know more from  Dr. Haas and maybe Ms. Costa at Henley about how the pilot has gone and have more student feedback. But I think that that is probably part of the plan. But I would look forward to hearing a bit more about a bigger picture of. Whether or what criteria we use, if we're going to roll it out more broadly.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "agreeing",
+      "defer_to_expert",
+      "follow_up_request",
+      "request_action",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 8369.339,
+    "end": 8396.224,
+    "text": " And one thing about the rollout is that I don't even really know when that happened. I don't recall hearing about it ahead of time or know exactly when it started. And so I'll be very interested to hear what the feedback was on it once the school year is done.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "follow_up_request",
+      "request_action",
+      "express_concern",
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 8403.325,
+    "end": 8465.981,
+    "text": " I guess since I was the one that brought it up, I haven't had enough time to think about it. I think I echo what Judy is saying, but with an emphasis being on I don't know a lot about it. And I think given the amount of comment that we've had from the public, it behooves us to try to find out more about it. And so Matt, I can reach out to you personally, but I would love to find out more information just because I don't really know. I'll own that I don't know a lot about the program.  being on the board for a few years I know sometimes things can be presented in a way that's like it's different people have different interpretations of things so because we've gotten so much comment it's a little hard to like weed out what's fact and what's not. Are you so like some things were said that were concerning and i'm like well, I hope that's not what happened like I hope we didn't tell a parent on Friday that their kid was going to be in an opt in program.  on Monday or she said Thursday, and then, you know, like, you know, I would like to find out, obviously, if that's happening, that's not ideal. But I am supportive of the program, just like Kate said and Judy said. But I need to find out more information.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "request_action",
+      "follow_up_request",
+      "express_concern",
+      "reassure",
+      "hedge",
+      "clarify"
+    ]
+  },
+  {
+    "start": 8467.283,
+    "end": 8489.914,
+    "text": "Yeah.  I'm in support of the program too. And I'm not sure how many board members have had a chance to look at the slide deck that goes along with the sixth, seventh, and eighth grade units. But if not, I would advise you to look at those slide decks and really evaluate them based on our anti-racism curriculum.",
+    "speaker": "grahampaige",
+    "tags": [
+      "agreeing",
+      "request_action",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 8490.67,
+    "end": 8551.525,
+    "text": " And in their entirety. In their entirety. What is frustrating is you can cherry pick things and make them seem something that they're not. And I think that they're, and that's my criticism of the fact that it wasn't online in full, that people saw the cherry picked things and went, wow, that's terrible. Where is this? And then couldn't find it. Right. I also wanted to just,  There have been allegations that this that the children were told not to talk to their parents. And if you read all the curriculum. That's hogwash. I'm sorry but that's just hogwash, what it was indicating was that when people share.  their private things, that you not spread that around the school. And that's absolutely completely appropriate. It should be expected of our children that they not share other children's personal information. But nothing in the curriculum suggested that children should not share with their parents what took place.",
+    "speaker": "davidoberg",
+    "tags": [
+      "express_concern",
+      "clarify",
+      "disagreeing",
+      "reassure"
+    ]
+  },
+  {
+    "start": 8552.669,
+    "end": 8573.26,
+    "text": " PB, Lisa Smith-Miyazaki, she, her, hers.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "public_addressing",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 8573.24,
+    "end": 8595.957,
+    "text": " They all say, let's respect our privacy, you know, what takes place here is for us. But it's not to hide it from the parents. It's to make sure that children who are talking about things that are sensitive, keep those things sensitive. Otherwise, kids might say things or be afraid to say things because they're afraid that it'll get around the school.",
+    "speaker": "davidoberg",
+    "tags": [
+      "express_concern",
+      "clarify",
+      "opinion"
+    ]
+  },
+  {
+    "start": 8596.308,
+    "end": 8638.858,
+    "text": " Right. And again, if you haven't had a chance to look at that slide deck, please do, because they are very thought provoking in quite a few areas that the parents mentioned tonight. And the one question that I do have, and this is sort of, I guess,  Difficult too, but what's the opt out policy in relationship to any of our programs? Dr. Haas or anybody?",
+    "speaker": "grahampaige",
+    "tags": [
+      "request_action",
+      "ask_question",
+      "defer_to_expert"
+    ]
+  },
+  {
+    "start": 8640.5,
+    "end": 8699.4,
+    "text": "Thank you, Mr. Page. I would let Ms. Collins speak in more detail on this. However, when it comes to curriculum, parents can opt out from pretty much anything.  When they have a disagreement about a topic that's being presented to their children, they can, you know, whether it's a language arts topic or history or a particular book that's being ran in a class, they are entitled to have a meeting with the teacher, discuss it, and the teacher and the school administration are responsible for providing an alternative  method for the instruction. And then, you know, it's really just a form of differentiation. So that's our policy for all programming. There are some programs, though, that are that the state mandates that we provide opt outs for. And so we also follow those guidelines. Did you have anything to add, Ms. Collins?",
+    "speaker": "matthewhaas",
+    "tags": [
+      "acknowledge",
+      "defer_to_expert",
+      "clarify",
+      "reassure",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 8701.622,
+    "end": 8704.125,
+    "text": "I did not, Dr. Hoss. That was exactly what I would have said.",
+    "speaker": "marygovan",
+    "tags": [
+      "disagreeing",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 8707.295,
+    "end": 8746.892,
+    "text": " And again, really the entire slide deck of that program is very thought provoking. And again, like Ms. Lee mentioned, it aligns perfectly with our anti-racism policy. So it would be good then, as I think one of our board members mentioned, to have feedback on  what the outcome has been from the program, from Dr. Haas and staff and Dr. Costa at Henley, if possible. So that would be, I think, something that would really help the board.",
+    "speaker": "grahampaige",
+    "tags": [
+      "request_action",
+      "follow_up_request",
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 8749.136,
+    "end": 8756.388,
+    "text": "And perhaps an overview of the timeline as well, like when we would roll it out other places, just basic information.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "request_action",
+      "follow_up_request",
+      "clarify",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 8757.13,
+    "end": 8759.053,
+    "text": "Right. OK. Yeah. Good point, Ms. Osborne.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 8760.232,
+    "end": 8772.31,
+    "text": " Including going to a parent, what's going to be going to parents and when, so that we have a better rollout, at least people are more aware of it, better communication. Yeah.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "follow_up_request",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 8772.33,
+    "end": 8785.851,
+    "text": "Yeah, that would be my takeaway. I wrote down, you know, I like write down the summary, like the theme I saw kind of running throughout a lot of the comments was just a frustration with the getting the information, kind of a transparency type thing. I don't, you know,",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "express_concern",
+      "give_update"
+    ]
+  },
+  {
+    "start": 8786.59,
+    "end": 8807.805,
+    "text": " So it's something we can learn from as we go to. And it's a fair criticism Katrina. I mean, it was a fair, it is a fair criticism, but it's also needs to be placed in the context of we're in a pandemic. We're at the end of the school year. And we have placed a lot on our teachers and our administrators over the past year.",
+    "speaker": "davidoberg",
+    "tags": [
+      "acknowledge",
+      "conceding",
+      "reassure",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 8808.207,
+    "end": 8837.134,
+    "text": " I think that we need to respect the public's right and especially the parents' right to see the curriculum, but I would also ask that the public grant a certain amount of grace to our administrators and our teachers to recognize that the pandemic has been a huge challenge and that there are obstacles to better communication that exist currently that in a normal environment would not exist.",
+    "speaker": "davidoberg",
+    "tags": [
+      "opinion",
+      "request_action",
+      "express_concern",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 8837.738,
+    "end": 8862.07,
+    "text": " I would like to just also point out the majority of the speakers were strong supporters of the program. A, and we had some extraordinarily eloquent students who also strongly supported the program. And I think that, I mean, to come on as our, I don't know, Katrina, we had maybe half a dozen students. I think that says a lot about the value that they see in it.",
+    "speaker": "kateacuff",
+    "tags": [
+      "opinion",
+      "acknowledge",
+      "reassure"
+    ]
+  },
+  {
+    "start": 8863.312,
+    "end": 8864.353,
+    "text": "True. That is true.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 8866.443,
+    "end": 8915.844,
+    "text": " I think I'll say a few things now because I was just waiting for all the board members to speak. So what I'm hearing is that what the board would like is for us sometime in the future, keeping in mind that we have a meeting on the 8th of July. Then we go to our bimonthly meetings again in August.  that we would provide an overview of this particular curriculum to the board and give background information on it, as well as a response from students on their experience with the pilot, and then talk a little bit about what the plans are for rolling it out. So is that accurate?",
+    "speaker": "matthewhaas",
+    "tags": [
+      "give_update",
+      "request_action",
+      "clarify",
+      "ask_question",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 8916.544,
+    "end": 8918.607,
+    "text": "Yes. Yeah, that's true.",
+    "speaker": "grahampaige",
+    "tags": [
+      "agreeing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 8918.823,
+    "end": 8998.813,
+    "text": " I will say that we, through the communications office, we really have scrutinized Dr. Costa's rollout of what she did with the pilot. And while I would say that I can only think of a handful of times over the time that I've worked in this school system where there's been absolutely flawless rollout of anything, that Dr. Costa and her team at the school really did  do what we ask our principals to do and what we ask our teachers to do in communicating to families around programming. So while we can always improve, we can always get better at what we do, I want to be sure and make sure that, again, I always take responsibility. If there's a flaw in how something's rolled out,  or if people felt left out of the process, then that's not Dr. Costa's responsibility. She used all the tools at hand. She followed the policies that we have. And so I want to be sure that I say that. Having said that, we can always do better. And there's always a way to try to reach families another way. And we're going to continue to try to do that.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "reassure",
+      "clarify",
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 9000.076,
+    "end": 9017.865,
+    "text": " Dr. Haas, just one more addition to your proposal. One or two people questioned the training or the backgrounds or the preparations of the instructors or the teachers that were doing this. So if you could include that, I would be grateful.",
+    "speaker": "kateacuff",
+    "tags": [
+      "request_action",
+      "follow_up_request",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 9018.453,
+    "end": 9151.971,
+    "text": " And just, and we'll be happy to provide that what I would say is that as, as you know, as a school board, you went through several sessions of working with your way through Glenn Singleton's book courageous conversations about race and engaged in conversations on that topic and I'm, you know, I'm just going to say that I'm.  I'm proud to be part of a school board to work for you for a board that would engage in that kind of work and a lot of boards around the state and nation run away from this kind of work and so you've rolled up your sleeves and engaged in it. That is very similar to what our teachers and administrators have been doing in the schools throughout the school year.  some schools to a greater extent than others, but what you experienced in many cases is what has been experienced in terms of training with our educators. And I'm also proud to be part of a system that is enacting a policy that we approve. As some board members pointed out, students worked on that policy, they went around and  shared that policy at different groups, such as parent council, student council, all various advisory groups. We had a seat team meeting last week that was publicly advertised for quite some time that any member of our Albemarle County Schools community could attend that talked specifically about the topics that that were brought up tonight. And we had nine people in attendance at that meeting.  So there are many, many opportunities to engage our administration, to engage our teachers, to engage with our students around this work. So we're going to keep providing them, and I hope that attendance at these opportunities that are already on the table without creating new ones, the ones that are already planned to share our work, to get feedback on it, are there for people to partake.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "reassure",
+      "give_update",
+      "acknowledge",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 9156.035,
+    "end": 9208.35,
+    "text": " Thank you, Dr. Haas. Do we have any other school board business? Any other school board members with additional business? If not, remember our retreat is tomorrow beginning at nine o'clock.  And also, I'd like to thank because this is the last night that Layla will be our student rep. She had to leave early, I think, but we do appreciate her serving on the board and also Maya tonight. Tonight would also be Maya's last time. So we'll end up with new student reps beginning in July. So if there is no other business,  Our meeting for tonight is adjourned and thanks. Good night, everybody. Bye, guys.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "logistics_info",
+      "acknowledge",
+      "procedural_move"
+    ]
+  }
+]

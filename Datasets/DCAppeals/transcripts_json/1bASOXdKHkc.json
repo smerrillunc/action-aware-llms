@@ -1,0 +1,2043 @@
+[
+  {
+    "start": 4.89,
+    "end": 29.586,
+    "text": " All persons having business for the Honorable Chief Judge and Associate Judges are residing with the District of Columbia Court of Appeals. Draw near and give your attention. God save the United States and this Honorable Court. This Honorable Court is now in session. Please come forward. All right.",
+    "speaker": "courtroomclerk",
+    "tags": [
+      "court_opening",
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 29.646,
+    "end": 84.284,
+    "text": "Good morning. Good afternoon, everyone. This is a specially set matter.  in the case involving John F. General versus United States. As you know, in light of the COVID-19 pandemic, we've adjusted our court operations and are hearing our oral arguments and cases via this virtual platform of Zoom and it's live streamed so that the public can participate and join in as well. Even though our expert court staff have worked with us sometimes  From time to time, we have some technical glitches, and I just ask that everyone be patient with us if that occurs at this time. So are the parties ready to proceed in this matter? Yes, Your Honor. All right. Mr. Clevin, is that the correct pronunciation of your name?",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "court_opening",
+      "case_call",
+      "court_procedural_remark",
+      "judge_procedural_directive",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 85.245,
+    "end": 85.545,
+    "text": "Yes.",
+    "speaker": "adamkleven",
+    "tags": [
+      "acknowledge",
+      "agreement"
+    ]
+  },
+  {
+    "start": 86.105,
+    "end": 88.586,
+    "text": "If you could state your name for the record and proceed.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_procedural_directive",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 89.742,
+    "end": 155.9,
+    "text": " Yes, good afternoon, your honors. May it please the court, Adam Clevin, on behalf of appellant, Mr. John General. Before starting, I'd like to reserve two minutes for rebuttal. Your honors, the key question before the court is whether the defendant, Mr. General, was in custody when detectives questioned him and took his DNA during a lengthy interview at the station house about the murder of Ms. Deborah McKinney. We submit Mr. General was in custody for four main reasons.  First, the station house setting raises significant Miranda concerns. Second, the detectives took Mr. General's DNA during the interview with the saliva swab. Third, the nature of the questioning was accusatory. And fourth, the detectives never told Mr. General that he was not under arrest and that he was free to decline to answer their questions.  Simply put, the detectives did not treat Mr. General as a mere witness who was there to help investigate a crime. The detectives treated him as the prime suspect for one hour and 27 minutes of closed-door questioning.",
+    "speaker": "adamkleven",
+    "tags": [
+      "opening_argument",
+      "reserve_time",
+      "substantive_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 156.76,
+    "end": 189.188,
+    "text": "Mr. Cleveland, can I interject briefly here? Because we do have one case that seems to be almost directly on point, and that is our decision in Graham.  What distinguishes this case from Graham on the facts, such that we should rule differently than we did in Graham where we held under circumstances that seem to be fairly similar, that there was not custodial interrogation.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_interruption",
+      "judge_question",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 191.656,
+    "end": 260.595,
+    "text": " There are about four points that I want to make about Graham and explain why on the facts we have here, it should not be considered persuasive. To start, Graham was a close case where the court did recognize that there were factors on both sides of the ledger, but the court says the balance tilts against custody. And there are several things here that distinguishing factors here from Graham that make the balance tilt the other way toward custody.  First, in Graham, the defendant, the court says, did go to the station house to assist the police as a witness in their investigation. And he was treated like a witness. Because of the other factors, the nature of the questioning and the taking of his DNA here, Mr. General was not treated that way. Second, the detectives in Graham also left the door open. And at one point, the defendant in Graham walked out of the room to use the restroom.  And here, the door was closed. And then third, the detectives in Graham did not.",
+    "speaker": "adamkleven",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "rebuttal_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 264.458,
+    "end": 274.084,
+    "text": "Here, Mr. General was told that he could leave in time to go to his court appointment, that if he wanted to get something to eat or use the restroom, he was free to do that.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_comment",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 275.865,
+    "end": 414.375,
+    "text": "Yes, two points on that, Your Honor. The first is,  The Turner case was resting on similar facts where in Turner, the defendant accompanied the police, he technically agreed to accompany police to the station house. And police in that case told the defendant, we'll take you wherever you want once the interview is wrapped up. And indeed the defendant there did walk out of the interview at the end. But the court still in Turner placed emphasis on the station house setting  and how the interview was conducted. But there are also three other points in the video that show it was really the detectives who were controlling when Mr. General was going to walk out of that room. And in the first two, Mr. General is trying to wrap up the interview and expressing his desire to leave or go have a cigarette break.  But right when he does that, immediately, the detectives begin with another line of questioning, completely ignoring his desire to wrap up the interview. And then in the third instance,  Uh, he wants to leave again, but this time detective Brigadini says, actually, can you give us a minute? And the detectives leave the room and shut the door. And mr. General is left in there for about nine minutes in a closed room by himself. And he even asks, asks out loud in this time, what is taking so long? And it's not until the one hour and 27 minute Mark, once the detectives reenter,  and say, quote, unquote, are you ready to rock? And they allow him to leave. And so I think that shows they were really controlling when he could leave. And at that point, Mr. General had been subjected to accusatory questioning and they had taken his DNA. And it's in circumstances like this, where this court has said in a number of cases that  whether police advisement is an important factor. And here, Mr. General was not told that he was not under arrest or that he could decline to answer their questions. And so the fact that police didn't advise him of these two things should be an important factor in this context too.",
+    "speaker": "adamkleven",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 415.235,
+    "end": 447.374,
+    "text": "Mr. Cleveland, I think, excuse me, you use the word accusatory and it didn't seem, it did not seem to me from the trial record, either at the,  uh, suppression hearing or in limiting hearing or at the trial that badgering, uh, which I think is what, what you're getting at, that he was being badgered, uh, was really stressed. And I'm just wondering if you could point to the record that you think that's the case at the trial court level. Well,",
+    "speaker": "judgeferren",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 452.412,
+    "end": 473.818,
+    "text": " At the trial court, the trial court did not watch the full video, but at the March 13th, 2012 hearing, the government did offer to play the whole hour, but ultimately only three clips were played. But now the court has the full video on appeal. And is that.",
+    "speaker": "adamkleven",
+    "tags": [
+      "fact_statement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 473.998,
+    "end": 485.564,
+    "text": "Excuse me, but I don't think we can start controlling the video in ways that the trial court didn't.  Isn't that appellate court fact-finding and enhancing a record that was not made?",
+    "speaker": "judgeferren",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "court_procedural_remark",
+      "disagreement"
+    ]
+  },
+  {
+    "start": 487.665,
+    "end": 498.774,
+    "text": "Well, no, Your Honor, because the trial court had the option, if it so wanted, to watch the full video. And I think the video is clear, and it shows the objective historical facts.",
+    "speaker": "adamkleven",
+    "tags": [
+      "rebuttal_argument",
+      "substantive_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 499.175,
+    "end": 535.65,
+    "text": "It may have had the option, but I didn't sense that the defense was saying, well, we want to make sure you watch the whole video. Well, I got that.  In other words, you're trying to make something, and I respect this because it's the tough case, as you know. But it just seems to me that the burden is on the defense to make sure that every aspect of that video is before the trial court and ruling. And I don't know how we can look at it and say, gee, if we'd been a trial judge, we'd have gone the other way on it. That's kind of what we're supposed to do.",
+    "speaker": "judgeferren",
+    "tags": [
+      "judge_comment",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 537.311,
+    "end": 569.361,
+    "text": "Two or three responses, Your Honor.  Our argument on the nature of the questioning is simply a different argument in support of the underlying Miranda custody question. And that's the question before this court. And the underlying Miranda claim was preserved. So it is true that defense counsel, trial counsel below, did not make these precise arguments. But you don't necessarily have to tee up the precise arguments.  And then secondly, I'm not bothering you.",
+    "speaker": "adamkleven",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "concession",
+      "hedge"
+    ]
+  },
+  {
+    "start": 569.441,
+    "end": 608.815,
+    "text": "I understand that the claim Miranda claim is preserved. The custody is the issue. And then the defense has the burden of the trial level to believe that has to offer. And if that wasn't done and the record doesn't include that precise aspect of custody, I just don't know how we can, even if we want to,  can watch that whole video and say, gee, look at the defense counsel missed that one. That was badgering. But what is it then, plain error? Or what are you asking us to do with it? And what is it for the trial court that we should be paying attention to?",
+    "speaker": "judgeferren",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 610.496,
+    "end": 627.574,
+    "text": "Your Honor, we're not raising an independent badgering claim. I think a badgering or coercion claim might arise if the defendant actually invokes his Miranda rights.  And then the police badger him into waving it, I suppose. That's not the claimant.",
+    "speaker": "adamkleven",
+    "tags": [
+      "substantive_argument",
+      "concession",
+      "hedge"
+    ]
+  },
+  {
+    "start": 628.415,
+    "end": 632.723,
+    "text": "You don't think that badgering is inherent in custody?",
+    "speaker": "judgeferren",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 634.185,
+    "end": 684.646,
+    "text": "Your Honor.  I don't think that the questioning needs to rise to the level of badgering to weigh on the side of custody. Cases like Morton say the questioning needs to be accusatory and inquisitorial, indicating that the police believe the defendant committed a crime. So it's that accusatory and inquisitorial standard from cases like Morton  And if that's met, then it it's on the side of custody. And as to the video, as to the video, um, I guess at worst it's forfeiture and this court can review it on plain error, uh, for themselves, uh, for, for your, for yourselves. But, um, even the government agrees that the custody question itself is a question that this court can review DeNovo.",
+    "speaker": "adamkleven",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "concession",
+      "hedge"
+    ]
+  },
+  {
+    "start": 685.526,
+    "end": 710.476,
+    "text": "Mr. Clevin, would you please clarify something for me?  When you say that the entire video was available to the trial court to watch, that the court had the option to watch the entire video. Clarify something for me if you would. Was the entire video admitted in evidence introduced into the record by either party?",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 712.493,
+    "end": 744.71,
+    "text": " Your Honor, I don't know if the entire video is in evidence in the sense that there's a docket number for it, like the individual clips, but at the March 13th 2012 hearing at page eight or nine, the government says, I'm more than happy to play the whole hour.  but I think only these few are relevant. And that is ultimately what's played. And so it was offered, and what I'm trying to say is the court could have said no. That's what I'm wondering.",
+    "speaker": "adamkleven",
+    "tags": [
+      "legal_citation",
+      "record_reference",
+      "substantive_argument",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 745.37,
+    "end": 787.814,
+    "text": "I think I had been under the impression that only portions of the entire video were provided to the judge for the judge to make a decision.  and only portions of the entire video were introduced in evidence at trial. And if that is true, then I don't quite understand how we could properly look at other portions that were never, in effect, proffered to the trial judge as relevant or put in evidence. So that's what I'm trying to get clear on.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment",
+      "judge_question",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 789.892,
+    "end": 795.096,
+    "text": " So your honor, I think at worst then we're on plain error review and the record on appeals.",
+    "speaker": "adamkleven",
+    "tags": [
+      "court_procedural_remark",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 795.416,
+    "end": 810.067,
+    "text": "I think plain error applies to things that are in the record that show an error which the parties and the judge overlooked. But plain error doesn't apply where something's not even in the record.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 812.109,
+    "end": 820.833,
+    "text": "So I think I'll say three things.  at worst, it's forfeiture then. And the record on appeals would have said I would have said waiver.",
+    "speaker": "adamkleven",
+    "tags": [
+      "substantive_argument",
+      "concession",
+      "record_reference",
+      "hedge"
+    ]
+  },
+  {
+    "start": 820.873,
+    "end": 824.596,
+    "text": "Frankly, your honor, I think waiver is more of an affirmative.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 824.636,
+    "end": 890.508,
+    "text": "We are abandoning this claim or no, we don't object to this. I don't think that's what was done. I just think it's a more passive failure to raise at worst. So that's forfeiture under forfeiture. This court can consider it.  But even if the court looks only at the parts of the video that were watched at the suppression hearing and trial, I would still submit the nature of the questioning is accusatory. And at the suppression hearing, it was shown that they took Mr. General's DNA with the saliva swab. And then I think, to go back to the Graham point, if you read it too broadly, it starts to come into attention with Turner, which placed weight on the fact that the DNA was taken as part of the custody analysis.  Now, I think police have a number of means at their disposal to make an individual feel restrained to a degree that amounts to formal arrest. And they don't have to use all of them at the same time to trigger custody. And our submission is that the tactics employed here, the questioning, and the taking of the DNA is one way to trigger custody. And I'll save the remainder of my time for rebuttal.",
+    "speaker": "adamkleven",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement",
+      "reserve_time",
+      "hedge"
+    ]
+  },
+  {
+    "start": 891.248,
+    "end": 953.956,
+    "text": "Let me just ask you very, very quickly, Mr. Clevin, just to circle back to my initial question.  As I understand your responses about why this case should be decided differently from Graham, even though the facts seem to be similar in many ways, I understand you to make two points. One, that in Graham, the door was left open during the interrogation, seeming to indicate more clearly that there was a freedom to leave, whereas here,  even though Mr. General was told he could leave in time for his appointment or to use facilities, if I recall, the door was closed. And then the other point of distinction that you make is that Mr. Graham's DNA was taken here and that it wasn't taken in the Graham, Mr. General's DNA was taken here and it wasn't taken during the interrogation in Graham. Are those two of the key distinguishing factors that you rely on?",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 955.787,
+    "end": 975.618,
+    "text": " I think those are two of them. The only other one I would add is the nature of the questioning here was sharply accusatory. In Graham, it was shorter. And indeed, in that case, a lot of the questioning was done by the defendant's mom who came down to the station. But yes, the DNA in particular is a distinguishing factor and those other two.",
+    "speaker": "adamkleven",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "legal_citation",
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 976.359,
+    "end": 985.938,
+    "text": "OK, thank you. And we'll still reserve your two minutes for rebuttal. Thank you, Your Honor.  Ms. Heffernan?",
+    "speaker": "judgeblackburn",
+    "tags": []
+  },
+  {
+    "start": 987.279,
+    "end": 1224.853,
+    "text": "Good afternoon. May it please the court. Patricia Heffernan on behalf of the United States. One just factual issue I wanted to clear up. The record is silent as to whether or not the defendant was told he was not under arrest. Because at the motions hearing, neither party asked the detective whether the appellant was told that he was not under arrest.  With respect to Judge Farron's questioning, it's clear in this case that the badgering issue wasn't presented and also that the argument based on the nature of the questions  generally was not before the motions court and the evidence, which is the videotape of the interview was not in evidence before the motions court. While it's true the prosecutor stated she could play the entire video if the court wanted to,  The video wasn't played, it wasn't offered, and it wasn't accepted into evidence. At page 21 of the transcript, the court explicitly states that it received into evidence several exhibits identified as Exhibits 321A, B, and C.  And so all that was before the court in terms of its custody ruling were those three clips. And just backing up more generally, the transcript of this motions hearing is very, very, very short. And what is abundantly clear is that the defendant's appellant's custody theory was that at the time he left the apartment, he was in custody. So his argument was the entire  everything was custodial. So his argument was at point A, I was in custody. Now we're hearing at point D, I was in custody, maybe at point G, I was in custody, or certainly by point N, I was in custody. And that is not something that was raised, litigated, or ruled upon by the motions court. And with respect to the three clips that are in evidence, my opponent says that those clips themselves show badgering, but that  That conclusory statement doesn't establish that fact. That's not briefed. It's not described. I'm trying to remember off the top of my head those clips precisely. Certainly the first clip was just the defendant appellant sitting alone in the interview room.  So that clip doesn't support that argument. And with respect to the taking of the DNA, that again seems to be yet another new argument being raised at oral argument as to why this is now custodial. And a couple things with respect to that. First of all, the statements  that appellant is complaining about were made well before the taking of the DNA. So even if this court were to now go down the road of considering whether taking DNA necessarily, I guess our appellant is suggesting that anytime DNA is taken, that renders a situation custodial. Here, the taking of the DNA was consensual. And as I said, it came well after the statements that appellant complains about.  So if this became custodial at minute 44, that doesn't answer, that has no bearing on the statements that Appellant made 20 minutes earlier, nor for that matter does when Appellant actually left, that again, he agreed to wait for nine minutes at the very end of the videotape, well after all the statements had been made. And so the fact that the detectives asked him if he would hang around for another few minutes,  that can't bear on the custody question.",
+    "speaker": "patriciaheffernan",
+    "tags": [
+      "opening_argument",
+      "substantive_argument",
+      "rebuttal_argument",
+      "fact_statement",
+      "record_reference",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1225.593,
+    "end": 1300.305,
+    "text": "Ms. Heffernan, on the custody question, I know we pressed Appellant's counsel about the Graham case, but we had another case before our court in White, U.S. v. White in 2013, which was a few years after Graham was decided. And in that case, we seemed to focus on the fact that where the  person in custody is not specifically advised by police that he or she doesn't have to answer the questions, that fact might tend to lean more toward finding the situation to be custodial custody. And if it's a case that you, I don't mean to spring this on you, if it's not a case that immediately comes to mind, but in that case, the issue was that, you know, we found it decisive that where  the party in custody is not advised specifically that they don't have to answer the questions. They're free not to answer the questions. That might tend to lean toward the view that it is a custodial interrogation. And here, Mr. General wasn't specifically advised that he did not have to answer the questions, was he?",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 1306.086,
+    "end": 1365.241,
+    "text": " My recollection from the transcript was the detective was asked, did you tell him that he didn't have to answer questions and then he was entitled to a lawyer?  And the answer to that compound question, I believe, was no. But that's off the top of my head. But just more broadly, with respect to white, that was not in the party's briefings. And I can't say that I'm familiar with the facts of white. But I would say, generally, every single case is completely fact-driven. And so the court looks at the totality of the circumstances. I don't believe that it's black  letter per se custody in this jurisdiction that where a defendant does not advise that he does not have to answer questions, the situation is per se custodial. In Graham, the defendant... But it's certainly a factor that might, in the balancing test that we do apply, might weigh in favor of finding that a situation was custodial.",
+    "speaker": "patriciaheffernan",
+    "tags": [
+      "fact_statement",
+      "record_reference",
+      "substantive_argument",
+      "legal_citation",
+      "hedge",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1365.261,
+    "end": 1382.894,
+    "text": "It may not be the only dispositive or  per se deciding factor, I agree I in Graham the court sort of described this as looking at a ledger and what do you put in this column when what do you put in that column and you know the government government doesn't dispute that that would be that would be a factor weighing against.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_comment",
+      "legal_citation",
+      "agreement",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 1384.355,
+    "end": 1413.602,
+    "text": " a finding of no custody, but certainly not a dispositive one. And looking at the circumstances, the totality of the circumstances here, this case is sort of Graham-like. And Graham, he was not, Graham was not told that he was free to terminate the interview, but the court also said that he wasn't threatened with arrest, nor was he told that he had no choice but to cooperate. And so- But the record here, with Mr. General, just to be clear, is unclear.",
+    "speaker": "patriciaheffernan",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "concession",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1414.327,
+    "end": 1419.129,
+    "text": " as to whether he was told he didn't have to answer the questions.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 1419.369,
+    "end": 1586.765,
+    "text": "My recollection is there was a compound question. I don't want to commit without being able to look. So I don't want to misrepresent anything. My recollection was he was asked a compound question. But let's assume for purposes of the argument, he was not told that he didn't have to answer questions. I don't think under the circumstances here that would render the situation  custodial be given that he, the defendant freely have his own free will agree to accompany the detectives for an interview, and he conditioned his willingness to submit to an interview.  on their promise that he would be finished well in time to make his 1230 court hearing. So, so no reasonable person, having been told that could possibly think that the circumstances were tantamount to a formal arrest.  He accompanied the detectives. He wasn't searched, frisked, or handcuffed. He was treated like a witness, not an arrestee. Sure, the door here was closed to the interview room. But I would say that looking at the videotape, even just the clips that were admitted into evidence and not the entirety of the videotape, shows that that door was unlocked. The detectives both leave the room just by opening the door.  And this is at 321B, Exhibit 321B. This is after the DNA swab is taken. And they tell the defendant, they tell appellant, you're free to either stay and eat a sandwich or go. And then the second detective leaves. Well, obviously the only way the appellant can leave is if he can open the door and leave, just as the detectives have done. So the door was closed, but it wasn't locked.  And with respect to a couple of other points that the detectives were not controlling whether appellant could come or leave that room he didn't need to use the restroom he never asked to use the restroom he was offered that ability.  And again, the arguments that I'm hearing now about how the taking of the DNA, or the request at the very end of the interview that he remained for a few more minutes came well after the statements that appellant is seeking to suppress. So the conduct.  What happened at minute 44 or minute 110 or 111 can't, if that's what rendered the situation custodial, the statements were made, you know, at minute 20, you know, well before this other conduct that appellant is complaining about having rendered the situation custodial.",
+    "speaker": "patriciaheffernan",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "record_reference",
+      "rebuttal_argument",
+      "concession",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1587.646,
+    "end": 1595.027,
+    "text": "What way do you think we should attach to the accusatory nature of the questioning?",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 1596.227,
+    "end": 1608.638,
+    "text": " Well, if the court considers that, because as I've said- I understand your argument that below the claim was that he was under arrest or the equivalent of arrest from the get go.",
+    "speaker": "patriciaheffernan",
+    "tags": [
+      "acknowledge",
+      "court_procedural_remark",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 1609.319,
+    "end": 1638.714,
+    "text": "Yeah. But on appeal, the briefing has gone beyond that. And there's been analysis and discussion in the briefs of the effect that's at least some  the events at the police station. So let's assume for the sake of argument, at the very least, I'm not saying way before, that we consider the accusatory nature of the questioning in our calculus. What way should we give that?",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment",
+      "judge_question",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1639.606,
+    "end": 1758.308,
+    "text": " First of all, I disagree that this question was accusatory that the detectives were asking. This is the and that's when I when I said that this is sort of Graham light. That's what I meant in Graham, they were actually the questioning actually was accusatory they confronted Graham with evidence of his guilt.  And then he made admissions and they continued to interrogate him. Here, the detectives were very clear to say, your name just came up as someone we should talk to, we're investigating this murder. And what they said to him was, did you ever have sex with this woman? What would you say if it turns out, they gave him the impression that they didn't have DNA evidence at all.  and said, you know, we're now collecting DNA evidence, what would you say if it turns out your blood is on the scene? So this was certainly, if it was accusatory, it was quite gentle. The fact, if the court looks at this entire videotape, which is the government has submitted is not in evidence, was not in evidence, the motions court.  You'll see that for sure they were investigating this murder, also talking about a lot of other things, really developing the defense, the appellants recollection of that time period, what he was doing, trying to jog his memory about the specific time period.  They talked about his other, sort of his life. They talked about what a nice apartment he had. So this was not, this was, the only badgering case I found was Dorsey. And when the court reads the opinion in Dorsey, it's almost exhausting for the reader. The reader almost feels having been badgered. It really was just, it wiped me out. I can't tell you how it pains me to hear you say that.  But this case doesn't come anywhere close to that. And so- Could I just interrupt to ask a little clarification?",
+    "speaker": "patriciaheffernan",
+    "tags": [
+      "disagreement",
+      "rebuttal_argument",
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 1758.328,
+    "end": 1769.271,
+    "text": "Do you consider, let's assume for the sake of argument, that there was badgering. Does that go to the custody question or is it something else?",
+    "speaker": "judgeferren",
+    "tags": [
+      "judge_question",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1769.451,
+    "end": 1896.364,
+    "text": "It strikes me that it really goes more to a sort of a question of coercion.  And at that, in Dorsey, the defendant from the get-go had invoked his right to counsel.  And so, and it's not, it's not exactly clear how, because Appellant, I don't believe, cited, really briefed this question of badgering. He complained about it, but didn't offer a case or kind of a legal theory, a separate legal theory. And now I'm hearing him say that's just another factor as to custody.  Whatever it is, we don't think there was badgering here I think it's pretty clear if the court does go ahead and reviews the entire the entirety of the videotape, even though that was not an evidence before the motions court, the court will see that the, it was a, it was a cordial  courteous interview, at times the defendant appeared quite relaxed, at times he joked with the detectives, and so this does not approach, and the fact that he was, you know, these light gentle accusatory questions, what would you say if it turns out your blood is on the scene,  These circumstances in their totality, that's the detective's job. I mean, they're there to investigate the murder. He knows that they're investigating the murder. Those are the kind of questions that would ordinarily be asked when one is investigating this kind of murder. And so really, if the court were to find custody here, it's hard to imagine  It's hard to imagine what more the detectives could have done to have made sure that this was not a custodial situation. They gave him food. They treated him very courteously. And I think that's about all I can say on that point. Mr. Everton, I have just one more question that is more a matter of curiosity.",
+    "speaker": "patriciaheffernan",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "rebuttal_argument",
+      "fact_statement",
+      "hedge",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 1898.018,
+    "end": 1958.727,
+    "text": " One thing concerned me, and I'd just be interested in your reaction as to whether there's any relevance to this at all. And I'm talking about, I think, the suppression hearing, where the judge said, the court is looking at the exhibits, and the government's opposition notes that the defendant is no novice to the criminal justice system. On previous occasions, he has been advised of his Miranda rights, and on a number of occasions, invoked and refused to answer any questions without a lawyer present. In other words, it sounds as though the judge was saying,  This guy doesn't need Miranda rights. He already knows about them. So what's the big deal? Now I'm overstating that to say it troubles me or I'm concerned if that's the lens through which the judge is making the decision. And I realize it's a question of law that we have the record and we deal with it, but I'm just wondering to what extent does the prior, excuse me, prior experience with the criminal justice system  have anything to do with a particular case where this kind of question comes up?",
+    "speaker": "judgeferren",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 1959.567,
+    "end": 2031.84,
+    "text": "I don't think it does have anything to do with it. But I think if you look at- It sounds as though it made some impact on the way the trial court was deciding the motion. Well, I'm not sure I agree with that. I think that that's what the court said. The court makes those remarks at the very end of its ruling, but  But the findings of fact that the court made had nothing to do with his prior having been previously advised of his Miranda rights. I don't think the court was saying, sure, this is custodial, and he should have been advised of his Miranda rights, but it doesn't matter because he knows what his Miranda rights are. The court found that he wasn't in custody.  And so I just don't think those remarks that the court made with respect to the prior Miranda, having been given Miranda rights in the past, had any bearing on its custody conclusion, no custody finding. If there are no further questions, we would ask that the judgment be affirmed. All right.",
+    "speaker": "patriciaheffernan",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "disagreement",
+      "fact_statement",
+      "record_reference",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2031.88,
+    "end": 2037.472,
+    "text": "Thank you, Ms. Heffernan.  Mr. Cleveland will allow you your two minutes for rebuttal.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_procedural_directive",
+      "acknowledge",
+      "time_management"
+    ]
+  },
+  {
+    "start": 2038.833,
+    "end": 2169.964,
+    "text": "Thank you, Your Honor, I want to make one point on Miranda and then very quickly address harmless error. I think under the government's theory, the detectives can take a defendant's DNA at the station house and engage in an hour and a half of closed door questioning and not have to advise the defendant of his Miranda rights.  And we would submit that as not the result this court should reach. It's in tension with Turner and also with Morton in terms of the nature of the questioning. And then the other point on Miranda is at 12 minutes in the video, Detective Williams says that they have information that he and Ms. McKinney may have come into contact with each other, may have known each other and may have at some point been involved with her murder.  And then after that, he's saying, we're looking for an explanation to what may have happened. And then at minute 14 is when they first raised taking his DNA. They raised it again at 32 minutes, or 33 minutes and 44 seconds. And then they ultimately take it after 40 minutes. And to quickly move on to harmless error, it's the government's burden to show that the un-Mirandi statements did not contribute to the verdict.  and that the error was harmless beyond a reasonable doubt. There are three things I want to say as to why they cannot carry that burden. First, the government emphasized the statements in closing, and again in closing rebuttal, they ended their entire presentation by referencing the statements. Two, the way they used the statements was to suggest that Mr. General had no innocent explanation and left the jury with a highly prejudicial impression  that Mr. General was a liar and that helps fill the various gaps the government had in the case about how they came into contact. The fact that there's no eyewitness, it distracts from those questions and helps fill in the gaps and contributes to the verdict. And lastly, the government still relies on the statements at pages 49 and 50 of their brief as to why, uh, as to, to support the verdict. And so the government cannot carry their burden and we respectfully ask that this court reverse. Thank you.",
+    "speaker": "adamkleven",
+    "tags": [
+      "opening_argument",
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 2171.388,
+    "end": 2194.747,
+    "text": " All right, thank you. I'd like to thank both counsel for your briefs and arguments today. I thank the law firm of Sidley and Austin, I believe, for your pro bono efforts in this case as well. You're welcome. Thank you. And I think at this time, counsel is free to leave while we reconstitute the panel for the second special setting. Thank you.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "court_closing",
+      "acknowledge",
+      "judge_procedural_directive",
+      "case_transition"
+    ]
+  },
+  {
+    "start": 2199.707,
+    "end": 2207.093,
+    "text": " This honorable court is back in session. I'll give you the final order.",
+    "speaker": "courtroomclerk",
+    "tags": [
+      "court_opening",
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 2207.113,
+    "end": 2243.803,
+    "text": "All right. Good afternoon, and thank you for your patience today. This is a matter that's been specially set on our calendar for this afternoon in the matter of Parker et al versus United States. Are the parties ready to proceed? And again, in our virtual Zoom  um, platform for oral arguments. We've tried to anticipate technical glitches, but, uh, inevitably some may still occur. So we just ask for your continued patience. We are being live streamed. Um, so our party's ready to proceed.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "court_opening",
+      "case_call",
+      "judge_question",
+      "court_procedural_remark",
+      "judge_procedural_directive"
+    ]
+  },
+  {
+    "start": 2244.804,
+    "end": 2247.827,
+    "text": "Yes, Your Honor. Peter Mars on behalf of Mr. Parker.",
+    "speaker": "petermeyers",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2249.849,
+    "end": 2250.53,
+    "text": "Good afternoon.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "court_opening"
+    ]
+  },
+  {
+    "start": 2252.155,
+    "end": 2274.485,
+    "text": " Good afternoon, your honors, and may it please the court. I'm Peter Myers, counsel for Mr. Timothy Parker, together with David Ryder, counsel for Marcellus McCray, and William Cowden, counsel for Antonio Fortson. I will be the sole counsel arguing for all three appellants, and I hope to reserve five minutes for rebuttal.",
+    "speaker": "petermeyers",
+    "tags": [
+      "court_opening",
+      "opening_argument",
+      "reserve_time"
+    ]
+  },
+  {
+    "start": 2275.185,
+    "end": 2282.729,
+    "text": "OK, thank you. I was wondering how, if at all, the counsel planned to divide the time between the three  appellants. So thank you.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_question",
+      "time_management",
+      "reserve_time",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 2283.85,
+    "end": 2477.687,
+    "text": "Your Honors, there are three preliminary points I would like to make concerning the Fleming jury instruction issue. First, the government's brief on the Fleming issue concedes that the Fleming decision, which vacated a conviction for second-degree murder, applies to appellants' voluntary manslaughter convictions, in this case, where the same erroneous urban gun battle instruction was given.  Second, the government also concedes that if appellant's convictions for voluntary manslaughter are vacated, that their related convictions for possession of a firearm during a crime of violence, which are premised on their voluntary manslaughter convictions, must also be vacated.  And third, if this court vacates the appellant's convictions for voluntary manslaughter and for possession of a firearm during a crime of violence, then each of the three appellants has already completed serving their sentences and would be eligible for immediate release.  The court asked counsel to address whether appellants have waived the Fleming issue in this appeal. They have not. They raised a virtually identical challenge to the urban gun battle instruction when the case was tried before Judge Henry Green, and then in their first appeal, and then again immediately after the law changed with the Fleming en banc decision in this renewed appeal.  When the case was originally tried before Judge Green, counsel for appellant Parker, joined by counsel for the other co-appellants, objected to giving the urban gun battle instruction in language that mirrored what this court subsequently held in Fleming. Counsel stated that the instruction improperly, quote,  imports principles from negligence and tort law, reasonable foreseeability, substantial probability. Counsel for Mr. Parker made a similar objection to the preliminary instructions given by Judge Green, stating that the urban gun battle instruction improperly focused on, quote, substantial causation.  So these objections by counsel for Mr. Parker, which focused on the problem of guilt based upon substantial probability and substantial causation, mirror the holding in Fleming, which struck down the urban gun battle instruction because it allowed conviction if the defendant's conduct was a substantial factor in causing the death rather than a but-for factor.  And not only was this objection raised before Judge Green, but in their first appeal of this case, Mr. Fortson's brief at page 25 argued that the urban gun battle instruction, quote, permitted the jury to find Mr. Fortson guilty, even if they did not unanimously conclude that he was the actual cause of Mr. Buckner's death, as long as he actively participated in the gun battle, unquote.  Mr. Parker's brief. You've left out some language there.",
+    "speaker": "petermeyers",
+    "tags": [
+      "opening_argument",
+      "substantive_argument",
+      "legal_citation",
+      "concession",
+      "fact_statement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 2478.227,
+    "end": 2574.221,
+    "text": "I did. That's right. I think the language you left out makes a big difference. I don't read that paragraph of the brief as preserving a Fleming objection to the failure to give a but-for causation instruction. Okay. What he's objecting to there, as I read it, is  the fact that the urban gun battle instruction allows for conviction of someone who was not the actual shooter. That's a different issue. The paragraph then goes on to complain about aiding and abetting liability being attached. Now, aiding and abetting liability, you don't have causation issues at all. That's not the question.  Um, so I must tell you, I don't, I don't not read that portion of Mr. Forreston's brief or anything else set on appeal on direct appeal as preserving or as presenting the, but for causation, um, objection of funding. And that leads me to ask you the following question. If we conclude that the defendants did not present.  their Fleming claim on direct appeal or in the remand proceedings in superior court that are now on appeal to us? Where do you think that leaves us?",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question",
+      "court_procedural_remark",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 2576.343,
+    "end": 2591.431,
+    "text": "Well, it would certainly, Your Honor, affect what harmless error standard that the court would apply.  But in addition to Mr. Fortson's brief, we also cited Mr. Parker's brief in that first appeal.",
+    "speaker": "petermeyers",
+    "tags": [
+      "substantive_argument",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 2591.712,
+    "end": 2642.734,
+    "text": "Well, I understand. But before we get to that, just answer my question if you would. Sure. You see, my reaction is to think that we should hold that the Fleming claim, if it's being raised for the first time before us now,  If it's going to be pursued, it's not probably before us now. It must be pursued by bringing a collateral challenge pursuant to 23-110 in the superior court. And you go from there. And you would argue in which case you would need to overcome, the defendants would need to overcome the procedural bar to such a motion by showing  cause of prejudice as is usually the case.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_procedural_directive",
+      "legal_citation",
+      "judge_comment",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 2643.135,
+    "end": 2706.165,
+    "text": "Now, is that your view or not? No, it's not. Because again, even, and again, I want to go on to talk a little bit more about the first appeal and what the panel said and what Parker argued. Again, they didn't use, I agree with Your Honor, that the but-for language  And the precise language in Fleming was not used in either of the briefs. I'm not disputing that. But my argument is that the language of the appeal was close enough. It mirrors what Fleming did.  And again, I want to come back to that in a minute, Judge Glickman, that the language is close. It's not, I agree, but for is not said and the precise language of Fleming is not said, but it's extremely close to that. It was a challenge to the jury instruction because of, you know, that it lowered the burden of proof and the language used in the objections was close enough, I would say, to what the court focused on in Fleming. But do you think it's telling that on direct appeal,",
+    "speaker": "petermeyers",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "concession",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 2707.013,
+    "end": 2712.684,
+    "text": " None of the judges on the panel who read those briefs have any inkling that you were raising this Fleming claim?",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 2713.534,
+    "end": 2829.207,
+    "text": " Well, the court's opinion in McRae, Your Honor, specifically said that the appellants are, and I'm quoting the court's decision, at 133 A3rd at 223 footnote 12. The panel says that the appellants have argued that the urban gun battle instruction, quote, unlawfully lowered the government's burden of proof for aiding and abetting a homicide.  So, so let me, again, I'm, I'm not disagreeing with your honor that the language of but for and was not raised. It was not the, the objections were not exactly in the words of the Fleming court.  My argument is that they were very close. It was an objection to the Urban Gun Battle Instruction based, as the Court of Appeal says in its opinion, on unlawfully lowered the government's burden of proof to convict them of these homicides. The court itself said that. And so my argument, Your Honor, is that both before Judge Green and in our first appeal, that the objection was made and it was made in language  very close to the Fleming decision. That's my argument. And again, even if I understand that now, I want to go back to the question I asked, which is, if we disagree with your argument, do you agree that the issue is not properly before us in this appeal?  No. Why not? Because again, even if an argument is, this court would then have the choice of saying we can consider it under the plain error standard, which is what the government is arguing. They're saying that in addition to a possible 23-110, I mean, even arguments which were not previously raised could be adjudicated by this court, but under this much more difficult plain error standard.",
+    "speaker": "petermeyers",
+    "tags": [
+      "legal_citation",
+      "substantive_argument",
+      "rebuttal_argument",
+      "acknowledge",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 2830.49,
+    "end": 2942.722,
+    "text": " No, you're confusing plain error has to do with. Otherwise, probably before us whether whether the claim was raised in the trial court at trial. That's not the issue here. The issue here is this is an appeal from a collateral proceeding in which.  before the trial judge raising, in effect, a collateral attack on the conviction in which this issue, the Fleming issue, was not presented. And now on appeal from that, you're raising, in effect, a new issue. If I will agree that if you preserve the issue on your direct appeal,  the plain error standard might apply because we could then treat this as if we were considering it on direct appeal. But you don't get the benefit of that unless you actually did raise it on direct appeal. And I'm asking you to assume  and discuss how we should proceed if we conclude that you didn't raise it on direct appeal. It's just like any other situation where we get an appeal from the 23-110 proceeding and the appellant seeks to raise a claim on that appeal that was not raised in the 23-110 proceeding in the trial court. We normally say we won't consider that, we won't hear that. You have to bring that claim.  Uh, you have to raise that claim in the first instance in your 23, 23, 1, 10 proceeding. And that's what I'm wondering is how you get around that.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 2943.594,
+    "end": 3031.35,
+    "text": " Well, I get it. My response to your honor, I strongly disagree with the characterization of the remand and then this new renewed appeal as a collateral attack, which is the government's argument that it is not your honor. If you look at the history of this case, it's on appeal.  The, the principal issue which is argued in the first appeal is the phase on credibility issue that was the principal issue the first one raised in my brief and in the oral argument, the court said in that in the McRae decision, we are not going to consider this issue at this time we want  We want a more complete record. So it's remanded back to Judge Greene. And the hearing before Judge Greene is not in any way, Your Honor, a collateral attack, but a continuation of the first issue which was raised in the first appeal. When we went back to Judge Greene,  The Roy case was the law of this jurisdiction. And this court had already said in the first appeal in McRae that, you know, we're rejecting your arguments that this jury instruction unlawfully lowered the burden of proof, the urban gun battle instruction. We're rejecting that argument. So when the case- Mr. Mayors, I'm sorry to interrupt you, but on that point, is that what the court said in McRae?",
+    "speaker": "petermeyers",
+    "tags": [
+      "rebuttal_argument",
+      "substantive_argument",
+      "legal_citation",
+      "disagreement",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 3031.87,
+    "end": 3054.407,
+    "text": " that they were rejecting that argument. I read the court's opinion. There is a citation to Roy because it was, as you say, the law at that time. But I read that opinion as dealing with the instructional argument on the argument that it was a constructive amendment of the indictment.",
+    "speaker": "judgevanessaruiz",
+    "tags": [
+      "judge_comment",
+      "legal_citation",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 3055.725,
+    "end": 3089.881,
+    "text": " Well, that was certainly one of the arguments which I made and the other counsel made. But again, even the court's language is that the court is saying, and again, citing back to 133A third at 223 footnote 12, the court says, appellants have argued, and we're rejecting on the basis of Roy, that this urban gun battle instruction, quote, unlawfully lowered the government's burden of proof.  for aiding and abetting a homicide. So I think the court was addressing the issue and citing Roy, which was still the case.",
+    "speaker": "petermeyers",
+    "tags": [
+      "substantive_argument",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 3089.901,
+    "end": 3107.09,
+    "text": "Well, it depends on what the reason was for saying that the burden of proof was being improperly lowered. And the reason given was not the Fleming claim. That's the point I make to you.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 3108.585,
+    "end": 3161.875,
+    "text": " And again, my argument around it, well, it was more than just constructive amendment. It was, the argument was made by, again, in that point, the three appellants were filing separate briefs as opposed to this renewed appeal, which we can have one consolidated brief.  But I'm not disagreeing with you, Judge Glickman, that it wasn't precisely the but-for language that Fleming dealt with. My argument is that it was close enough that, in fact, all the appellants were saying that we were challenging this jury instruction on the basis in the court's language that it unlawfully lowered the government's burden of proof.  And the court cites Roy in rejecting this argument. So I'm saying it wasn't exactly but it's close enough. I don't understand why you say that's close enough.",
+    "speaker": "petermeyers",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "concession",
+      "rebuttal_argument",
+      "disagreement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3161.935,
+    "end": 3166.379,
+    "text": "I don't want to prolong the back and forth on this, but I don't know what close enough means.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 3167.458,
+    "end": 3198.416,
+    "text": " Well, it's objecting to the jury instruction on the fact to use the language which Parker's trial lawyer did in his instruction that he said. It allowed, again, to quote the counsel for Mr. Parker's trial. It improperly, quote, imports principles from negligence and tort law, reasonable foreseeability, substantial probability.  That's pretty close.",
+    "speaker": "petermeyers",
+    "tags": [
+      "substantive_argument",
+      "record_reference",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3199.057,
+    "end": 3227.161,
+    "text": "And the answer to that that the court gave is, we've decided these questions already, in effect, in Roy. There's no merit to this. And there was no argument made that was not already decided. And you don't claim that the panel erred in what it said, other than the fact that Fleming later on said, you know, there's another consideration here.  causation must be but for.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment",
+      "legal_citation",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 3228.162,
+    "end": 3251.14,
+    "text": "I agree with that, that when the case was argued to the first panel, Roy was the law. And one panel, of course, has no authority to overrule a prior panel decision in Roy. But my argument, going back to Your Honor's characterization, that somehow this is a collateral proceeding, it is not. Well, I understand.",
+    "speaker": "petermeyers",
+    "tags": [
+      "agreement",
+      "legal_citation",
+      "substantive_argument",
+      "rebuttal_argument",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3251.64,
+    "end": 3253.702,
+    "text": "The point is, this is not the direct appeal now.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment",
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 3254.885,
+    "end": 3275.442,
+    "text": " Well, it's a renewal of the direct appeal. That's where we disagreed, Your Honor. It is a renewal on the principle issue raised in the first appeal, the witness credibility issue, which the court said, we're not going to decide it at this time. Instead, we're going to remand it for a further record. We then went back on the instruction. Well, that's not quite right.",
+    "speaker": "petermeyers",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 3275.982,
+    "end": 3333.549,
+    "text": "We said it was an error by the trial court in refusing to allow this Mr. Faison's  mental condition to be explored for possible use in impeachment. And so he said, given that error, you know, there's going to be another proceeding on me, man. And the trial judge will decide whether to grant a new trial. It was a new trial motion proceeding in effect based on whether, um, you could, whether the defendants could show that, um,  an investigation would have produced something that would have entitled them to impeach Mr. Faison and could also show prejudice. Well, okay, there was a new trial motion. That doesn't make this appeal from the denial of a new trial motion the equivalent of a direct appeal. That direct appeal was not a record remand, it was a case remand.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment",
+      "substantive_argument",
+      "court_procedural_remark",
+      "record_reference",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 3335.982,
+    "end": 3425.533,
+    "text": " But that's true, Your Honor. But again, I strongly disagree with the characterization of this. What the court said was that Judge Green did not allow an investigation of this witness's mental state and whether it had a substantial impact on his credibility.  The court said, Judge Green didn't do that. And now we're going to send it back to Judge Green for a hearing and a determination of whether he suffered from mental disabilities, which substantially impacted his credibility. And so it goes back to Judge Green. That's not exactly right, but we'll get to the substance of that.  And it's remanded to create a more complete record for the court to decide the witness credibility issue. Judge Green holds the hearing. We don't re-raise the Roy issue before Judge Green because that's been decided. It's the law of the case. And then we have a hearing on what the court asked Judge Green to create a more complete record on.  And then to make a ruling on did he suffer from mental disabilities, which could seriously impact his credibility. It comes back to this court for consideration of exactly the same principle issue that was the principle issue in the first appeal. It is a renewal of that first appeal. This is not like a typical collateral attack. It's the same appeal. Even if it is a, even if you want to characterize it as a renewal of the",
+    "speaker": "petermeyers",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "disagreement",
+      "fact_statement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 3426.152,
+    "end": 3440.563,
+    "text": " direct appeal, which I think is not correct. I don't know what that's supposed to mean. If it's a renewal, it's only a renewal with respect to that one issue. It doesn't reopen all the other issues that were decided in that direct appeal.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment",
+      "disagreement",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 3440.663,
+    "end": 3551.016,
+    "text": "Well, and of course, Your Honor- Well, I didn't allow you to say, oh, we have another argument now about one of those issues. No, no. I mean, it's a renewal of the appeal that, again, when it was first argued,  The principal issue, among others, I mean, the appellants are not atypical in these criminal cases raise a number of different issues, but the lead issue, which was raised in Mr. Parker's brief and in that first oral argument was the witness credibility issue.  That was the principal issue in the first appeal, among other issues. And this court said, we're not going to decide this issue based upon the record we have before us. We want a more complete record and a decision by Judge Green as we're directing him. So of course, when we come back, we're not free to raise in a collateral way a whole variety of other issues. We focused on, in this second appeal,  focused on the same exact issue based upon a more complete record and additional decision from Judge Green. So this is not, Your Honor, a collateral attack. There was a case which this court decided in terms of whether this is the same case or appeal. If I could refer the court to the Taylor case, Taylor versus US, which is 661, a second 636,  decided by this court in 1995. And the court did what it did here. It did not retain jurisdiction. When the case came back again the second time, it had a CO number. But in that case, this court recognized that it was the same appeal come back a second time after it were mandated to the trial judge to consider an issue. The trial judge did that. It came back.  and this court in the language of the court on page 638 says this case is before us a second time and then the court goes on to explain it's the same case.",
+    "speaker": "petermeyers",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "legal_citation",
+      "record_reference",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 3552.916,
+    "end": 3563.239,
+    "text": "So how does that allow you to inject a new issue in this appeal that has nothing whatsoever to do with the issue that was to be investigated on remand?",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question",
+      "disagreement"
+    ]
+  },
+  {
+    "start": 3566.098,
+    "end": 3610.553,
+    "text": " Well, because when the case went back to Judge Green, a separate issue was raised in terms of the Brady issue. So that was brief. But this court has not asked us to address it. And that's not the main focus of this appeal by any means. So Judge Green addressed it. And that was brief. But again, this court didn't even ask me to argue that. And I'm not going to today.  No, I'm saying you're injecting a new issue that has nothing to do with the remand issue when you raised the Fleming claim. Your Honor, the course... I know you disagree with that because you say you raised it on direct appeal.",
+    "speaker": "petermeyers",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "record_reference",
+      "concession",
+      "disagreement"
+    ]
+  },
+  {
+    "start": 3610.573,
+    "end": 3631.886,
+    "text": "I'm saying if we disagree with you on that point, where are we? And it seems to me where we are is to say,  I put it to you, that the Fleming issue is not properly before us now, and that it needs to be litigated in the first instance by means of a 23-110 proceeding in superior court.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "judge_procedural_directive",
+      "substantive_argument",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 3632.873,
+    "end": 3759.442,
+    "text": " The way it became relevant when this case was, again, what I'm, what I think most accurately characterizing as a renewed review by this court of the same issue that was reviewed in the first time, when, and of course, Fleming was not  discussed before Judge Green, and it was not discussed when we initially filed the appeal in this case. Why? Because it had already been decided in our view, and it was the law of the case. But everything changed radically on January 30th of this year,  when the Fleming en banc decision was handed down. And then this case was still pending on appeal. And within 11 days of the Fleming decision on February 11th, we filed a motion saying now that the law has changed in this jurisdiction, while this case is no longer final, language which is court has used in a prior case, Judge Glickman,  While even now that there's been a fundamental change here, the law in this jurisdiction which used to be Roy, and was the law of this case and we could be raised that, but until Fleming on bonk decision was handed down January 30 within 11 days.  We filed a motion with this court saying in this jurisdiction, the law has been changed. And this case is still not final. It's still pending on review, not as a collateral attack, but as a renewal, just like in the Davis, excuse me, in the Taylor case I cited a second time.  This case is coming back to this court. So it's proper for us to raise in this case now, once the law has changed, overruling the Roy decision, which was the law of the case when this second appeal was filed, that it was certainly proper for us, we believe.  in the context of this appeal to say, now that the law has changed, this case is not yet final. It's returned after a remand. It's proper for this court to consider this Fleming issue at this time.",
+    "speaker": "petermeyers",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 3759.803,
+    "end": 3806.021,
+    "text": "Mr. Myers, let me ask you a minor point on this whole procedural question. You termed this current matter a renewed appeal in which all three  appellants join together in the briefing. With respect to Appellant Fortson, I don't see in the docket where Appellant Fortson joins in the motion to vacate with the other two appellants. Does that preclude Appellant Fortson from any relief that this court might grant  in light of what you've called this renewed appeal on the same issues that were previously raised.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_question",
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 3806.683,
+    "end": 3848.559,
+    "text": " Well, I don't think so, Your Honor. Of course, when the case went back to Judge Henry Green, he allowed counsel for Fortson and Mr. Fortson to join in to this witness credibility issue. And all three of these co-appellants were equally and totally involved. They all adopted the arguments with Judge Green's approval.  And therefore, when it was before Judge Green, and now on this appeal, since Judge Green allowed all three co-appellants to join, I think that they stand on equal footing before this court and this appeal.  Just as Judge Green did.",
+    "speaker": "petermeyers",
+    "tags": [
+      "rebuttal_argument",
+      "substantive_argument",
+      "fact_statement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 3848.939,
+    "end": 3856.523,
+    "text": "Does he explicitly do that in his order, Judge Green? Or are you saying he assumed and proceeded? Oh, he said it.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 3856.663,
+    "end": 3895.178,
+    "text": "I mean, because again, when the case went back to Judge Green, it became a question of who is allowed to participate in this proceeding. Is it just the two of you? Or can all three of you?  and can counsel for Mr. Fortson made the motion, I want to join in. And I believe it was an oral ruling at a hearing in which Judge Green says. And then again, the fact is, if you look at the transcripts of the hearing, all three are allowed to counsel to question the witnesses. All three are allowed to fully participate. So again, this issue, I think, was resolved by Judge Green putting all three of these appellants on the same footing.",
+    "speaker": "petermeyers",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 3896.711,
+    "end": 4013.642,
+    "text": " Mr. Meyer, if I may, if the chief is done with that inquiry, I'll go back to the waiver issue. You and Judge Glickman disagree on whether the Fleming issue was raised in the initial briefing in this appeal. But as you mentioned, Roy was the law at that time. And there's a question as to whether you should have been expected to  challenge it in the direct appeal, right? So I guess what we're talking about is what is the correct procedural vehicle and who should decide in the first instance whether an instruction that the government concedes was erroneously given, right? Cause prejudice such that  the defendants, the appellants should be entitled to a new trial, right? And that is the issue. Who should, what's a vehicle, who decides that and pursuant to what standard, I guess, depending on whether you view it as collateral or not. The case is in this kind of odd procedural posture, but do we have authority  Um, given that we've already, let's say that we rejected that either it wasn't raised or it wasn't, um, or it was rejected kind of sub silencio by citing Roy, um, to just. So respond, they rehear that issue as a division.",
+    "speaker": "judgevanessaruiz",
+    "tags": [
+      "judge_question",
+      "judge_procedural_directive",
+      "judge_comment",
+      "case_transition"
+    ]
+  },
+  {
+    "start": 4014.93,
+    "end": 4132.671,
+    "text": " Again, let me begin with perhaps a simpler factual scenario. Let's say this was the original first appeal. And while that first appeal was pending before this court, the Fleming en banc decision has come down. I think it would be legitimate that now, even if it hadn't been raised at the trial court, for us to submit a motion to this court saying,  Now that the instruction which the government concedes was erroneous was given in this case, this court could address if this was the first appeal that now that the law has changed while this appeal is pending. This court could address the Fleming issue.  immediately. And my characterization which I'm hoping that I can persuade Judge Glickman on is that, you know, in effect, this is just like the first appeal. It's not materially different in terms of their right, the appellant's rights to raise this issue.  So that would be my principal response. I mean, you know, if the law changes, what was the law when the appeal was first taken, changes while the appeal is pending, this court has in many cases said, we can apply, we must apply the new law, which has come down from the en banc court while the appeal is pending.  And again, I'm hoping to persuade Judge Glickman that rather than characterizing this as the government does, as a collateral attack, it is not anything like that. It is a renewal of the consideration by this court of the principal issue raised in the first appeal after this Judge Green gave what the court asked for, a more complete record to enable this court to address it.  So that would be my answer. If the law had changed in the first appeal, this court could address it. And this is, for all practical matters, the same as the first appeal.",
+    "speaker": "petermeyers",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "rebuttal_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 4133.972,
+    "end": 4157.246,
+    "text": "Well, all I'm saying is that this is, I mean, we have, well, I guess we don't have the same provision.  I was just wondering whether it would be possible, I guess we're not the same division rehearing.  that case.",
+    "speaker": "judgevanessaruiz",
+    "tags": [
+      "judge_comment",
+      "judge_question",
+      "hedge"
+    ]
+  },
+  {
+    "start": 4157.566,
+    "end": 4185.003,
+    "text": "That's true. But it's the same court and the court said, again, my view of what the court said, I think it's clear. We're not going to deal with the Faison credibility issue based upon the arguments and the record we have to date. And the only way we're going to look at this issue is to send it back to Judge Henry Green for a hearing, testimony, a new decision, and then we'll revisit it. I think that's what the court's decision in McCrae said. Well, we'll revisit it.",
+    "speaker": "petermeyers",
+    "tags": [
+      "court_procedural_remark",
+      "legal_citation",
+      "substantive_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 4185.964,
+    "end": 4198.267,
+    "text": " depending on whether there's an appeal from it. I mean, of course, Judge Green could have.  made determinations that could have been perfectly satisfactory to the appellants, right?",
+    "speaker": "judgevanessaruiz",
+    "tags": [
+      "judge_comment",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 4198.587,
+    "end": 4271.207,
+    "text": "And then, of course, we wouldn't have appealed if we had been successful before Judge Green. But at least the court was anticipating. I think the court's language was, I'm expecting something like, and then we will have the opportunity to revisit this. Or even if it didn't say that implicitly,  the courts remand for creation of a further record and a decision by Judge Green would give the, you know, is giving the court the option once that direction is followed and the more complete record is compiled and Judge Green makes these findings,  the case could come back to this court. So I think this is most accurately characterized as the second time the same case has been before the court, just like the Taylor case that I referred to earlier, which, again, this court did not retain jurisdiction. A new notice of appeal had to be filed in Taylor. There was a new panel. But what's said, we remanded it to the judge to reconsider this issue. The judge has, and now we have it back a second time.  rather than a collateral attack. And it makes a big difference because it has to do with, especially, can the court consider it? And if it could consider it, which harmless error standards the court will apply.",
+    "speaker": "petermeyers",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement",
+      "rebuttal_argument",
+      "hedge",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 4273.109,
+    "end": 4283.017,
+    "text": "In Taylor on appeal, did the appellate court consider any issue other than the one that had been remanded, that was considered on remand?",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 4283.418,
+    "end": 4285.76,
+    "text": "No. And that's all this court needs to do in this case.",
+    "speaker": "petermeyers",
+    "tags": [
+      "substantive_argument",
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 4287.82,
+    "end": 4298.659,
+    "text": " Well, that means we only have to consider the phase on cross-examination issue. Yes. So we don't have to consider the Fleming issue in this.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_procedural_directive",
+      "case_transition"
+    ]
+  },
+  {
+    "start": 4298.93,
+    "end": 4423.249,
+    "text": " No, no, no. The issue, forgive me, forgive me. The issue, which was, again, which would be the phase-on issue, and then the court, not because of anything Judge Green did or what anything this court said in remand, but based upon the fundamental principle that while a case is pending on appeal,  If assuming again, my analogy that this is just like the first appeal, that if the law changes, this court has the authority and has often said, oh, this wasn't it. And again, we're conceding Judge Glickman, this whole Fleming issue was not a viable issue when we took the second appeal.  It had nothing to do with what Judge Green said. And the law was clear. It was the law of the case and the law in this jurisdiction. Roy was the law. So when we file this appeal, and for two years while the appeal was pending, there was no Fleming related issue. But while this appeal is pending,  when the en banc decision changes the law in this jurisdiction, well, then this court has often said, ah, there's a change in the law. We can and should apply it to this case. So that's why I didn't mean to, forgive me if I got overexcited, Judge Lick, but it said only the Fleming issue. Yes, when the appeal was taken and for two years thereafter, only the Fleming issue would be legitimately before this court, period.  But when the law changes, this court has often dealt with that situation. When a case is pending on appeal, the law changes. I've argued that it was properly challenged on using similar language before Judge Green. Suppose, to give you a hypothetical, and forgive me if it's not a particularly well-crafted one, suppose a month after Judge Green's opinion on remand,",
+    "speaker": "petermeyers",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "concession",
+      "rebuttal_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 4423.981,
+    "end": 4472.18,
+    "text": " This court issued an opinion saying, you know, it turns out that to prove voluntary manslaughter, well, let's make it easier to conceptualize something. To prove possession of a firearm during a crime of violence, we've always been requiring something that we failed to require the government to prove.  some elements, some elements from intent or knowledge or use or what have you, that you could argue, well, gee, that's helpful to us because at our trial, the government wasn't required to prove that. Are you saying that you'd be able to raise that claim in this appeal from Judge Green's remand?",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 4473.437,
+    "end": 4496.763,
+    "text": " If that decision came down while Judge Greene was... Yeah, I'm hypothesizing a decision of this court that came down at like, in this case, a month or a few weeks, whatever it was, after Judge Greene's decision.  while it was before Judge Green. I'm sorry. So I thought Fleming was decided after Judge Green ruled.",
+    "speaker": "petermeyers",
+    "tags": [
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 4497.104,
+    "end": 4529.584,
+    "text": "Yes. I just wanted to make sure I understood. So I'm saying the same situation here. This new requirement for PFCV claims came out of this court the same day that the Fleming decision came out of the court. Would you be able to  say, oh, judges of the Court of Appeals, while I'm bringing this appeal from Judge Green's ruling to you, I'd also like you to give me relief on the PFCV convictions because of your recent decision.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 4532.553,
+    "end": 4642.29,
+    "text": " I think that this court could look at that issue. If it felt it would want to initially remand the case back to the trial judge to make an initial ruling on that issue, it could. But I think the court could say, you know, if the record in this case is clear enough,  and the applicability of the new state of the law based upon an en banc decision. I think this court could address it. Of course, as we say, that's not really the facts here, because it was properly raised, again, if not in exactly the same words, but lowering the standard of proof, focusing on the substantial factors.  So that would be my answer. I think it could be done, but we have, in this case, an even better record where a very similar argument to what the court decided in Fleming was raised. It was the urban gun battle instruction was challenged. It didn't come out of nowhere that we were challenging some other statutory crime on  It was the urban gun battle instruction with all counsel arguing that they have lowered the standard of proof. This, you know, it's improper instruction. Again, close enough to this but for objection at the court found in Fleming, that it was properly before the court the first time and  as I don't want to unnecessarily repeat myself. Therefore, it's not like this is coming out of the blue, but it was before this very similar objection was before this court the first time. And therefore, with the government conceding that it was improper instruction and it applies to voluntary manslaughter, it would be appropriate for this court to consider it. All right, Mr. Myers, I'm sorry.",
+    "speaker": "petermeyers",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "record_reference",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 4644.425,
+    "end": 4663.877,
+    "text": " We gave you additional time because you are arguing on behalf of all three appellants, but I wanted to make sure you touch somewhat on the other argument about Mr. Faison's mental health and whether it seriously impacted his ability or willingness to testify.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_procedural_directive",
+      "time_management"
+    ]
+  },
+  {
+    "start": 4665.367,
+    "end": 4697.224,
+    "text": " And I thank you so much, Your Honor. Would the court find it helpful in that even if the court is going to apply the plain error test or whatever standard of harmless error here, I had prepared a short argument addressing the fact that this is not harmless error.  in this case in terms of the Fleming issue? Would that assist any of your honors in terms of me talking about that for a minute?",
+    "speaker": "petermeyers",
+    "tags": [
+      "acknowledge",
+      "reserve_time",
+      "substantive_argument",
+      "time_management"
+    ]
+  },
+  {
+    "start": 4698.665,
+    "end": 4754.518,
+    "text": "It would be helpful to me, and I would be interested also if you would do it by reference to the hypothetical that this court set out in Fleming about how a jury on the facts of that case could have come to a determination.  that Fleming was a substantial factor. And then the court comes to the conclusion that the jury could not on those conclusions reasonably find beyond a reasonable doubt that Mr. Fleming's firing of the gun was by itself a but for cause of the death in that case, which frankly to me sounds as if it were saying  that the evidence was legally insufficient, or the court then says on the next page, we're not addressing insufficiency of the evidence because it hasn't been challenged. Right.",
+    "speaker": "judgevanessaruiz",
+    "tags": [
+      "judge_question",
+      "judge_procedural_directive",
+      "legal_citation",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 4755.739,
+    "end": 4826.741,
+    "text": "Thank you. And again, let me briefly address why we believe that this was not a harmless error in this case.  And that, in fact, the government cannot show that their conduct was a but-for cause of Mr. Buckner's death. And I think there's two points I'd like to make. First, with respect to the actual shooting incident in which Mr. Buckner died.  With respect to Mr. Parker, first of all, the government argues that there was, quote, compelling evidence that established that he fired the first shot. But the government's brief acknowledges that Sunita Raja was, quote, the only witness who saw Parker shooting and that, quote, it is highly improbable that the jury convicted Parker without crediting Raja's account. That's the government's brief.  But the government ignores the fact that Raja's 9-1-1 call made immediately after the shooting incident. She said that in the 9-1-1 call, that she didn't see who was shooting because she ducked and only heard the shots. Was that 9-1-1 call introduced in evidence?",
+    "speaker": "petermeyers",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 4826.841,
+    "end": 4843.642,
+    "text": "I thought the whole point about that call was that it was the basis. It's alleged withholding was the basis for the  Uh, it was the basis for the Brady claim your honor.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 4843.722,
+    "end": 4872.899,
+    "text": "However, if you look at the record in this case, what you see is that at the trial.  The 9-1-1 call was referred to by government witness, Tony Hopkins, who testified that she gave Ms. Roger her phone so that Ms. Roger could make the 9-1-1 call. That's in the trial transcript of June 5th, 2012 at pages 159 to 60. And in fact, in the last oral- Well, the existence of the call is not the issue.",
+    "speaker": "petermeyers",
+    "tags": [
+      "fact_statement",
+      "legal_citation",
+      "record_reference",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 4873.619,
+    "end": 4875.801,
+    "text": " Well, I'm just saying, but that's part of it.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment",
+      "hedge"
+    ]
+  },
+  {
+    "start": 4876.141,
+    "end": 4947.251,
+    "text": "So that, in fact, the existence of the call was part of the record. And in fact, the Assistant US Attorney David Sapo discussed this in detail and referred the court to those pages in the first oral argument. And the court's decision in the first case at page 133A, third at 215, refers to the 9-1-1 call being made. But it's true, Your Honor.  While they talked about the 911 call, the contents of the call were not introduced until the case was remanded back to Judge Henry Green. And then when the case was before Judge Henry Green on remand, the 911 call was introduced and the contents of it were thoroughly discussed. So we would say in terms of look in light of that history,  in looking at whether or not the 911 call can be used by this court in looking at the harmless error question. It was discussed at the first trial and at the first appeal. And then the contents were introduced on remand. The government does not contest the accuracy of the contents. So this court can consider it now in the harmless error. Wait a minute.",
+    "speaker": "petermeyers",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "record_reference",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 4947.772,
+    "end": 4974.572,
+    "text": "Hold on. I mean, you really.  are arguing that evidence that was introduced on remand solely in connection with the Brady motion, which the trial court denied, it found the evidence was not suppressed. And the defense had it available to present that trial, but didn't. You're telling us even though the defense didn't, we should consider that evidence in deciding whether there was harmless error at trial?",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_interruption",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 4975.367,
+    "end": 4986.718,
+    "text": " The evidence is now part of the record, which was introduced before Judge Henry Green on remand, and that it would not be inappropriate, even if we don't find the Brady.",
+    "speaker": "petermeyers",
+    "tags": [
+      "fact_statement",
+      "record_reference",
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 4987.178,
+    "end": 5007.727,
+    "text": "In other words, the government gave the defense, exculpatory evidence, let's call it that.  the defense did not use it at trial and the jury never heard it. We should nonetheless, in deciding whether there was harmless error at trial, consider that evidence? Is that your position?",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 5008.608,
+    "end": 5019.555,
+    "text": "Yes, looking forward to the fact that if this case would be, if the government would seek to retry this case, that evidence which would be able to be introduced, Your Honor.",
+    "speaker": "petermeyers",
+    "tags": [
+      "substantive_argument",
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5021.716,
+    "end": 5028.114,
+    "text": "Right, and who knows what else might be introduced as well.  All right.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment",
+      "acknowledge",
+      "case_transition"
+    ]
+  },
+  {
+    "start": 5028.454,
+    "end": 5202.01,
+    "text": "OK. And then I also want to jump to if the court wants to hear it, the government's alternative theory of alternative, excuse me, of overwhelming evidence is that these appellants instigated the gun battle that resulted in Mr. Buckner's death. And again, if the court wants to hear this, again, I could just briefly say that there's two problems with this argument.  this instigation argument. First, I think that it is far too attenuated a theory to establish causation. But second, and even more important, the government concedes in its brief  that its instigation theory is totally dependent upon the testimony of one witness, Mr. Faison, who was the only witness who testified about this instigation theory. AUSA Jeff Perlman said this in his rebuttal argument to the jury. That's transcript 7212 at 119, which we cite in our applied brief.  The problem with this is that if this instigation theory, which the government concedes is totally dependent upon the testimony of Mr. Faison, both the government and Judge Green have stated that they did not believe that the jury found Mr. Faison's testimony to be credible.  The government's brief, which they filed April 26 of 2018 on page 38, states that the jury's verdicts in this case, quote, suggest they place little credence in Faison's testimony. And Judge Green reached the same conclusion. This court's decision in McRae specifically quoted Judge Green as saying, quote, that there were, quote, serious questions regarding his credibility  And Judge Greene added, which this court quotes in the McRae decision, 133A, second at 231, Judge Greene says he would be astounded, quote unquote, if the jury believed this testimony. So to the extent that the government's theory that they instigated this offense was totally based upon, as the government concedes, Mr. Faison's testimony, both the US Attorney's Office and Judge Greene have said the jury didn't buy it.  I think that the government's main theory with regarding prejudice goes back to the notion that the jury surely found that Parker initiated the shooting up at the circle and the liability of McCray and Fortson is really aiding and abetting liability, which is not affected by the error.  Sure, but again, again, and that was my argument earlier, your honor, that the argument that Mr. If we disregard the 911 call. Well, that's right.",
+    "speaker": "petermeyers",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "legal_citation",
+      "record_reference",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 5202.25,
+    "end": 5206.172,
+    "text": "If an evaluating harmlessness, right disregard the 911 call, where are you?",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 5207.592,
+    "end": 5340.731,
+    "text": " Well, that's why I'm in a much more difficult situation. Because again, at her testimony at trial, Ms. Rogers says, I saw Mr. Parker fire the first shot. But I don't need to repeat the argument that I think now that 911 call was referred to without the contents at the first trial and on the remand before Judge Green, it was introduced and discussed, that it would be proper.  And I think the court should incorporate that 911 call into its analysis of harmless error. Turning briefly, and your honors have been so kind to me to let me talk well beyond my time, just to talk for just one minute in the most brief way about the confrontation clause issue with respect to Mr. Curtis Faison's testimony.  In just two minutes, Your Honors, the key point here is that the jury in this case was never apprised of a crucial basis of impeachment of Mr. Faison, that as a result of his diagnosed mental disability, he was so desperate to avoid further incarceration that he would do or say anything.  The government psychiatrist, Dr. Patterson, testified after interviewing him and reviewing his extensive medical records that he suffered from antisocial personality disorder, that he was suffering from this when he testified in this case. And Judge Henry Green adopted that testimony, which was also consistent with the defendant's expert, Dr. Remy Gupta, based upon not just a character flaw, but based upon the two psychiatrists  diagnosis of a mental disorder within the context of the DSM, the American Psychiatric Association's Statistical Manual of Mental Disorders. So that based upon this, and not only this diagnosis, but the- Well, but according to your own witness or defendant's own witness, Dr. Gupta said that Mr. Faison didn't really suffer",
+    "speaker": "petermeyers",
+    "tags": []
+  },
+  {
+    "start": 5343.973,
+    "end": 5360.784,
+    "text": " or it was not really impacted, at least his willingness and his ability to testify wasn't impacted by his mental illness. How do we get around that testimony?  His abilities, Your Honor, she made a distinction, which I think is important.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 5361.825,
+    "end": 5410.759,
+    "text": "Looking at this court's remand, which was discussed in the last oral argument in this case, of it's not just the ability. If somebody is so impaired by a mental disease that they cannot function as an individual, that's one thing. But another thing is the ability or willingness to tell the truth.  And I don't believe I'm misstating, Your Honor. If Dr. Gupta was referring to his willingness to tell the truth, he wasn't so impaired that he couldn't understand what the truth was. But as a result of his mental disease, he was caught up with this and unable to tell the truth here. Is it that he's unable, again, or unwilling?",
+    "speaker": "petermeyers",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5410.839,
+    "end": 5422.115,
+    "text": "Is the point really about the people with his  this personality disorder, that they have like almost a sociopathic disregard for the truth.",
+    "speaker": "judgevanessaruiz",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 5423.096,
+    "end": 5459.337,
+    "text": "I would not go that far, Your Honor. I think the fact that somebody receives a diagnosis, either of antisocial person, as this court said in its prior remand in the McCrae case, the fact that somebody has a diagnosis of antisocial personality disorder or  bipolar disorder or schizophrenia or depression in and of itself would not necessarily impact a witness's credibility. That's a very important point that this court made in its remand. The diagnosis in and of itself does not. So what is your argument?",
+    "speaker": "petermeyers",
+    "tags": [
+      "disagreement",
+      "legal_citation",
+      "rebuttal_argument",
+      "hedge",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 5459.897,
+    "end": 5464.92,
+    "text": "Just to make sure I'm clear on this point, is it that Mr. Faison was unwilling to tell the truth?",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 5465.785,
+    "end": 5485.935,
+    "text": " Yes, but unwilling from the perspective, not just of a volitional question, but unwilling to use this language on remand, given his mental disorder diagnosed. And so it's not just a diagnosis. It is that it's seriously impacted.",
+    "speaker": "petermeyers",
+    "tags": [
+      "substantive_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 5486.375,
+    "end": 5488.857,
+    "text": " his ability or his willingness.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 5489.457,
+    "end": 5591.14,
+    "text": "And the reason which we say that's true in this case, which doesn't automatically apply to any other individual who has a diagnosis of either the mental disorders that I've mentioned, including antisocial personality disorder, bipolar disorder, any of these things I mentioned, none of those automatically in and of themselves  create a question about credibility. But you add that to the conduct which he displayed, which both the government's expert Dr. Patterson and Dr. Gupta relied upon, based about hundreds of pages of these mental health records, including days before he testified at the trial in this case, where he's engaging in a series of actions, showing his abhorrence of being incarcerated, and showing his repeated history  of lying and deception to avoid further incarceration, and therefore cutting a deal to testify against these defendants. Because remember, he wasn't an eyewitness. His testimony was, I spoke to them when we were in jail together, and therefore made a deal with the government. And our argument is that his mental health history, not merely the diagnosis,  with these repeated instances of faking suicide, faking hallucinations, threatening falsely to burn down a juvenile facility, that history shows how abhorrent incarceration was to him and that as a result of this mental disorder, he is lying and the jury never heard about this separate and independent ground for impeaching him.",
+    "speaker": "petermeyers",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 5592.952,
+    "end": 5743.572,
+    "text": " Because as I understood this ASPD diagnosis and what ASPD means, I mean, Dr. Patterson was asked, or he agreed, that having an antisocial personality disorder can affect whether a person chooses to comply with the obligation to tell the truth in court. Again, there's this notion that it's a person who is  kind of can distance himself or just is not bound by, quote, lawfully or culturally normative ethical behavior. That's why I mentioned a kind of almost sociopathic distancing from the truth. Because if you have a witness who swears to tell the truth,  in front of the jury, that's supposed to have some weight with a jury, right? But if you tell, if you're able to reveal to the jury or discuss in front of the jury that this particular witness has been diagnosed with a condition that basically says that, you know, he doesn't take oaths seriously. He doesn't feel bound by them. He doesn't care. He is willing to come here and lie.  It's not just that he lied at one point before. It's not just that it would be to his benefit. It's that this guy has really no regard for the oath. That's how I read some of the discussion about what this ASPD diagnosis mean. And I was wondering whether it's not analogous to the cases where we've talked about corruption bias and how that is a kind of bias  that is different from self-interest, for example. The fact that somebody is willing to lie in court because they just can disregard the obligation or the oath to tell the truth, even as very serious matters, is something of independent,  significance to the question of the trial of the jury's assessment of credibility. Do you see a connection there? Because I've been trying to, in my own mind, understand to what aspect of credibility this diagnosis goes.",
+    "speaker": "judgevanessaruiz",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 5744.78,
+    "end": 5827.49,
+    "text": " I think your honor states it exactly right. That is the concern. And my, and I just want to add to that that we not only have the diagnosis, but we have this history that shows kind of a desperation to avoid further incarceration.  Kenneth Klingenstein, M.D. : Which which supports it as well, not only the diagnosis, but this history and Kenneth Klingenstein, M.D. : The, the final point I'd like to make is I know in the the argument we had in this case, two years ago, there was a lot of back and forth about whether these independent  instances of lying and deception to avoid incarceration could be admissible. And I just want to emphasize, as we did in our reply brief, that in the analogous case where the insanity defense is raised and where this court has said that the psychiatrist,  can testify about the individual's mental state and whether it substantially impairs his ability to comply with the law, that the psychiatrist, this is the Bethea case, which we cited in our brief, said that not only can the psychiatrist give an ultimate opinion on this issue, but is allowed to fully describe the facts and the incidents which support that opinion. So it's the package.",
+    "speaker": "petermeyers",
+    "tags": [
+      "agreement",
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 5828.193,
+    "end": 5838.079,
+    "text": " Mr. Myers, thank you. Mr. Sable, we will reserve some time for a rebuttal, Mr. Myers, but let's hear from the government at this point. Thank you, Ronna.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "reserve_time",
+      "acknowledge",
+      "case_transition",
+      "judge_procedural_directive"
+    ]
+  },
+  {
+    "start": 5839.552,
+    "end": 6387.647,
+    "text": " Thank you, Your Honor. David Sable on behalf of the United States, may it please the court. A couple small points, Your Honor. Chief Judge, you asked a question about why Fortson was part of this appeal. The court remanded the case for McCrae and for Parker, but not for Fortson.  The government did not oppose Mr Fortson joining at the evidentiary hearing so there wasn't a need for a rule and we just said it was okay if you wanted to join because he hadn't raised the mental health issue previously. Turning to the procedural posture with Fleming.  We think that Judge Glickman has it exactly right. This is, there is a remedy for appellants here and that is a collateral attack, which is, and they would need to satisfy the Boozley standard. It's not appropriate of course for this court.  to do the Boosley analysis because Boosley envisions that, of course, the question is raised collaterally. The trial court makes a determination about cause and prejudice and actual innocence and then the appeal is taken from that.  The question is, perhaps it's difficult to state exactly what the status of this appeal is. There is a second appeal, the first appeal that mandate issued the certificate of the petitions for cert were denied. The case was remanded, not the record.  And the issue that appellants now are seeking to raise the Fleming issue is far afield from the initial from the issues that were remanded. Moreover, we would make the argument that of course this could have been raised initially on the basis of barrage and of course.  Chief Judge and Lucas, recently a Fleming opinion that you wrote, you talked about how Fleming adopted the framework of barrage. So that raises the question of a second remedy for appellants, which would be to move to withdraw the mandate and file an ineffective assistance of appellate counsel claim for failing to raise this kind of claim in the first appeal.  Of course, to judge Reese's question about could they have raised this in the first appeal. We know that it does happen typically that arguments like this are raised where appellants might say well barrage undermine the basis that for Roy and we want to take that up with the panel and perhaps the panel would then have.  signal their willingness to go on bonk with the issue, which is essentially what happened with with Fleming, of course, and the government in Fleming, that was the argument and Fleming, that was the outcome. But here, the case has been remanded, and we're on an unrelated issue, which is the mental health impeachment issue. We're not on any other issues. And so to raise Fleming now,  The issue would be waived under the court's jurisprudential decisions talking about an issue could be raised initially, but also because the remedy is the collateral attack. Court's brief indulgence.  With respect to whether the issue was raised, I'll just say briefly, Judge Glickman, you asked about what does close enough mean? Well, this court has said close enough means an issue is raised with reasonable specificity, enough to alert the trial court to the existence of the claim.  Judge Green never discerned that kind of claim being raised. I know I briefed this case on the direct appeal. I didn't perceive it. And on the argument with the initial panel on which you sat, Judge Glickman, and the decision that was written by Judge Reed, that issue was never discerned. So if it was raised, everybody missed it. And so I think that doesn't satisfy the Hunter standard.  Turning to the merits of the prejudice argument for Fleming, if I may, just briefly, the government set out three different theories under which the  the instructional error, which is now playing on appeal, would be harmless. I want to say something first, if I can, about the standard to be applied here. This court recently in Malloy talked about, which I think was an Alanis case, talked about  plain air review for instructional error and said that appellant has to establish a reasonable probability that but for the air, the fact finder would have had a reasonable doubt respecting guilt. And then of course it went on to talk about what that means, not a probability but simply a.  that the defendant would more likely than not have received a different verdict with the evidence, but whether in its absence he received a fair trial understood as a trial resulting in a verdict worthy of confidence in the outcome. That's the standard that appellant would have to surmount here if this court addressed the Fleming issue on the merits. And what's clear from that language is that what the court is called upon to inquire is, had the jury been instructed properly  Is there a reasonable probability that, but for the error, the fact finder would have had a reasonable doubt? It's not, had there been, if there were a different trial and everybody got to introduce different evidence, what exactly would be the outcome of that trial? And that's relevant to Mr. Meyer's 911 call argument, because I think Judge Glickman was asking him about that. The 911 call is not going to be part of the Fleming analysis. It can't be part of the Fleming analysis.  because the question is, had the jury been properly instructed? I do want to say something about, so the 911 call then is pertinent, is not pertinent, but even if it were, it would not be, it would not affect the materiality because what Raja said on her 911 call was,  She looked down off her balcony, she saw Buckner on the ground and she said, and the 911 operator asked her, did you see who shot Buckner? Did you see who shot him? And she said, no. And so she testified at trial that she observed the Avenue crew member Weedy shoot Buckner.  Buckner and appellants asked the jury to credit that statement because they wanted the evidence to be that, of course, that Avenue killed Buckner. But it was the statement was not material. She didn't say she didn't see any shooting. She said she didn't see who shot Buckner. But talking about that first theory of of harmlessness here,  The evidence was long and involved, but there were essentially three eyewitnesses who saw this shooting in the circle. There was Shanita Roger on her, on her neighbor's balcony looking down from apartment building 610 and she saw Parker shooting.  And then there were two other witnesses in a different location, a cooperating witness, Jovan Clay, and another witness who wasn't a cooperator but was a crew member named Angela Wages, and they saw Fortson and McCray shooting.  So the only witness who could say that I saw Parker shooting, the only witness that could form the basis for a voluntary manslaughter while armed conviction was Shanita Rogers. There were some ear witness statements, of course, but I think it's highly unlikely that those would have formed the basis for a conviction here. So the jury had to have credited Shanita Rogers. And although she was impeached in many different ways, it's obvious from the verdict that they credited her.  And what she said was, she heard the shots from the back of the apartment building, which was McCray doing the first court shooting. She went out on the balcony and she saw Parker walking across the courtyard with a rag over a gun. He posts up in front of her building. She sees Avenue crew member Weedy come through the gap between the two buildings and she sees Parker fire first.  She was very clear. She saw Parker fire first. Then he racks the slide as if he has a jam. We know that's true because the firearms examiner described the light. Does she also say she saw Weedy fire the fatal shot?",
+    "speaker": "davidsaybolt",
+    "tags": []
+  },
+  {
+    "start": 6388.268,
+    "end": 6390.408,
+    "text": "Or did I misunderstand that from the record?",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_question",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 6391.029,
+    "end": 6471.31,
+    "text": "You're exactly right, Your Honor, and I'm about to get to that. So the chronology, I think it's important under Fleming to establish but-for causation. Parker fires the first shot.  gets a gun jam, he racks the slide, he dips back under the balcony, and then he comes back out, and we know that he fixed the jam because there's a live cartridge on the ground consistent with the jam. And then he comes back out, he starts firing again at Weedy, and then everybody starts firing. After everybody starts firing, Buckner runs across the courtyard towards Parker,  According to Raja, Weedy fires a shot, Buckner takes a bullet in the side of the head and collapses. And Raja says that Weedy then fired the shot that killed Buckner. By that time, of course, everybody was firing. That means Parker had been firing the first shot, and then McCrae and Fortson had also been firing his aiders and abettors. On the strength of that testimony, which we know was credited by the jury, the but-for causation, which  in Lucas, you said was not owner standard, is satisfied. And it's satisfied under Fleming as Fleming sets up clearly that if you're buyer first, that's but for causation. That's the government's first theory.",
+    "speaker": "davidsaybolt",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement",
+      "acknowledge",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 6474.211,
+    "end": 6482.794,
+    "text": "The second theory- If you're buyer first, I'm not sure Lucas went that, was that explicit, but",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_comment",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 6483.918,
+    "end": 6488.402,
+    "text": " I think that was Fleming, Your Honor. I meant Fleming said that. Yes, I'm sorry. Lucas was.",
+    "speaker": "davidsaybolt",
+    "tags": [
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6491.564,
+    "end": 6522.058,
+    "text": "So just can you expand on that a little bit? The near firing first in this type of shootout situation. How is that? I may misunderstand your argument here. You're saying that is sufficient for but for causation or  that get us out of the harmful error range. Can you point me specifically in Fleming to where that said?",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 6525.441,
+    "end": 6529.644,
+    "text": "Well, that was the facts of Fleming. Well, and I thought of that on page 223.",
+    "speaker": "davidsaybolt",
+    "tags": [
+      "fact_statement",
+      "legal_citation",
+      "record_reference",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6530.044,
+    "end": 6582.725,
+    "text": "And I know that Mr. Myers didn't have time to address the hypothetical that the court set out in Fleming. And so I wanted to ask you.  Because there it says, assume that Fleming. Can I ask you where you are? I'm sorry. Page 223. Right. The court goes through how it is that on the facts of that case, the court, the jury could have found that Fleming was a substantial factor. However, not be.  but for causation of the death of Mr. Jones. Jones was it? Yes, Michael Jones. So tell me how this case is different.",
+    "speaker": "judgevanessaruiz",
+    "tags": [
+      "judge_question",
+      "legal_citation",
+      "judge_comment",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 6587.546,
+    "end": 6590.167,
+    "text": "My understanding of Fleming was that Fleming",
+    "speaker": "davidsaybolt",
+    "tags": [
+      "legal_citation",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6603.433,
+    "end": 6624.167,
+    "text": " Now, that hypothetical, not a hypothetical, it is actually, it's just going through how the jury could have reasoned this. And it says that he fired after the first shots had been fired, but I don't see where it says that if you fire the first shot, you're but for cause. So I was just asking you where that is stated.",
+    "speaker": "judgevanessaruiz",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 6626.025,
+    "end": 6672.28,
+    "text": " I'm not sure I can point the court to it right now. That's my reading of Fleming, and especially that's also a reading of the part of Roy that would survive Fleming. It doesn't mean, I would say, Your Honor, of course,  a person could fire first and still fire in self-defense. So we're just talking about actual causation here. But a person who fires first in a gunfight is going to be a person who, if their actions are removed, then the decedent would not have died. That is the standard that Fleming sets out. But that sounds more like the urban gun battle.",
+    "speaker": "davidsaybolt",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "concession",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6672.779,
+    "end": 6709.197,
+    "text": " standard than the but-for causation standard. I suppose if someone fires first and hits the decedent with the fatal shot, and then there are other subsequent shots that also hit the decedent, then you have but-for causation. But I'm not sure I'm completely following how the mere act of firing first  is but for causation.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6711.658,
+    "end": 6778.742,
+    "text": "We cited Fleming at 226 for saying that a defendant could be viewed as having personally caused death, which is the actual causation. If one, the defendant acting with the requisite mens rea, quote, shoots at another person,  that would be one way of doing it, shoots it at another person or takes other actions such as bringing an armed group in search of another person or brandishing a gun at another person. And then of course goes on to talk about foreseeability and then the latter's shots fatally wound the decedent. So with respect to cause and fact, Fleming talked about essentially two ways of being a cause and fact. The first is shooting at another person  And the second would be doing things that were so provocative that, although you didn't fire first, that you were a but-for cause. And I think the court provided- But this talks about shooting at another person, not just being the first person to fire a shot.",
+    "speaker": "davidsaybolt",
+    "tags": [
+      "legal_citation",
+      "substantive_argument",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 6779.502,
+    "end": 6787.584,
+    "text": "So was it evidence here that Parker shot at Buckner?",
+    "speaker": "judgevanessaruiz",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 6787.604,
+    "end": 6789.144,
+    "text": "No, the evidence is that he shot at Weedy.",
+    "speaker": "davidsaybolt",
+    "tags": [
+      "fact_statement",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 6790.321,
+    "end": 6964.191,
+    "text": " Mr. Sebald, correct me if I'm wrong, but I think my understanding had been that the person who, that the way the but for causation theory would work in this instance is that the person who by firing first sets the match as it were, and triggers beyond the gun battle in which somebody is shot.  has caused that gun battle to occur and is the but-for cause of the person's death, whether that person who fired first was themself shooting at the particular victim or in fact hit the particular victim. It's the triggering effect that can support the but-for causation. Now, I do have a question about that for you.  But that's been my understanding of why focusing on the person who fired first makes sense from the point of view of but-for causation. Now, one question I do have about Fleming that bears on that. There is language in Fleming, and I'm not going to try to give you the page because I don't have it in front of me. But there is language in Fleming  which suggests that if one could say that, well, even if that person had not even been there, that's not right. Even if that, well, even if that person had, I didn't say that right. Even if that person had not fired a gun at all. No, let me put it a little bit differently to make it a little clearer.  even if that person had been the person who was a but for, but for, um, or I'm having trouble articulating this, but the notion I think is if regardless of that person's actions, other persons, other, um, people involved in the shooting would have fired anyway. And one of them would have killed the person then.  That raises the question about whether the first person that we talked about was a but-for causation, that would eliminate but-for causation. It strikes me as an odd thing for the opinion to have said, if I've understood it correctly, because I think you can, there are cases in which, what that would lead to is saying nobody is a but-for cause of the death.  But I wonder if you would comment on that because that's a feature of the Fleming opinion that I realized I found somewhat confusing to me.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "substantive_argument",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 6966.132,
+    "end": 6968.332,
+    "text": "If I understand your question correctly.",
+    "speaker": "davidsaybolt",
+    "tags": [
+      "hedge",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6968.432,
+    "end": 6970.293,
+    "text": "I garbled it tremendously.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "concession",
+      "acknowledge",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 6970.333,
+    "end": 7037.716,
+    "text": "Well, and so there is the part of Fleming, which I just read, which talks about ways in which a party can light the match, as you put it.  without firing the gun first. So it gave two examples. One would be brandishing a gun. So if I'm in a beef with you, Judge Glickman, and you're coming down the street like in Roy, and I point my gun at you,  In such a way, I brandish my gun and then you pull your gun out first and you shoot, and then we get into a gunfight in which an innocent bystander is killed. I've lit the match by brandishing my gun. I lit that match I'm not just a substantial factor which is the.  Standard that we've rejected now, but I'm actually a but for cause because I lit the match suppose in this case though Maybe I can put the hypothetical this way and we'll make it a hypothetical suppose in this case Parker and McRae Gotten together.",
+    "speaker": "davidsaybolt",
+    "tags": [
+      "legal_citation",
+      "substantive_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 7037.736,
+    "end": 7077.49,
+    "text": "We're gonna do this and They're in a race as to which one is gonna fire first And Parker fires first and  But McCrae was going to fire, and it's just a coincidence that Parker fired first. Does the fact that McCrae was going to fire anyway, regardless of what Parker did, eliminate the fact that Parker is at what for cause of the shooting? There's something in Fleming that could be read to suggest that. And I find that troubling, as I said, because then nobody would be at what for cause.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question",
+      "legal_citation",
+      "judge_comment",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 7082.854,
+    "end": 7359.518,
+    "text": " I think the court is saying, I recall Fleming raising a lot of situations that were not exactly presented by the case. And it was a, it was a fairly wide ranging opinion which my judge would not have liked.  And they tried to address a lot of different scenarios and give guidance to the trial court, obviously. But not all scenarios were resolved. I think there was one scenario we talked about, two people both firing and their bullets both kill somebody. Are they both but for causes when you know that even if you take one of them out of the equation, the other one would have shot anyway. And I think the court might have punted on that. It's a barrier on that, right. That's like a law school hypothetical.  That's right, but we do know that we know from Fleming that there's various ways of lighting the match. And another way that Fleming talked about was if I bring an armed group of search of somebody and we're going to search for someone and that person happens to fire first at us and then we fire back and somebody's killed in the hail of bullets. Well, we're still but for causes because we brought that armed group to you.  And so this this way of provoking a fight of being a but for cause of a fight is analogous to the inquiry that a jury's and called upon to decide in self defense. And that was the case here the judge instructed the jury look.  If you find that appellants were the first aggressor or otherwise provoked this or brought this upon themselves, then you cannot find that they acted in self defense and we know the jury found that they did not in fact act on self defense and here.  So that means the jury found that they were the aggressors or that they provoked this fight upon themselves. Not in exactly the same as the but force causation, but it's getting there. The two concepts are certainly related. And so we're saying that they are but for causes because Parker fired first and the others aided and abetted, or because they took such provocative actions that they were but for causes.  And so I can talk just briefly about what those actions were and they don't rely on the testimony of Curtis Bayes on necessarily what we know is that.  McRae, Hebron, and Mungo went over to First Court, fired bullets at the Avenue members. McRae was convicted of that. The bullets were heard in the courtyard. They come running back. They go inside, rearm themselves, including their extended clip holding 30 bullets, and post up, armed at one location,  Parker gets his gun from under some stairs, walks across the courtyard, shuns people from the barbecue inside, takes up an armed position in front of 610, and then Fortson and Henson get a gun and they guard the third way of entering the fortress. So there's three ways to enter the fortress that is the circle. And groups of men from the circle stand at each location armed.  brandishing weapons, waiting for the Avenue guys to come through, which they do in five to 10 minutes. And in fact, we have testimony to McCrae is plotting. He's pointing his gun at people coming through the cut. And so those actions are very provocative. They brought that fight upon themselves. We also know that they did that in the context of McCrae going over there and starting things first. They knew that the Avenue members were going to come back. And  The third argument I would say to your honor is that it's possible.  The court may or may not want to do this, but it's possible to view the two shootings as one continuous event. And I know Judge Glickman, in your concurrence and dissent, and Roy, you expressed concern about a temporal hiatus between the two shootings as necessarily being a concern for cause and fact. But under these facts, we view these two shootings as one continuous event. The match was set.  when McCrae went over there to start things, or as Faison said, to go start the fight so that they would come over and the circle could box them in and end the beef right there. And if the two events are viewed as one, then they certainly lit the match by going over to first court and starting the shooting there. So those are the three different ways that we see that the Fleming actual cause standard is met here.",
+    "speaker": "davidsaybolt",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement",
+      "concession"
+    ]
+  },
+  {
+    "start": 7361.535,
+    "end": 7428.757,
+    "text": " I want to interject one thing, Mr. Sable, because when you mentioned page 226 of Fleming, I just wanted to make clear that there the discussion is about proximate causation, not about but-for causation. And you said that the person who, let's put it this way, started it, lit the match, was, who was it, McCrae?  by firing the first shot? Is it McCray or Parker? I get them confused. Parker. Parker, okay. But then you moved from Parker and then you said they. I'm sorry. So Parker, okay. So let's say that that, let's assume  not clear to me that that establishes but for causation with respect to Parker. So what establishes but for causation with respect to the other two, if they were not the ones who lit the match?",
+    "speaker": "judgevanessaruiz",
+    "tags": [
+      "judge_interruption",
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 7430.158,
+    "end": 7452.017,
+    "text": "If we're under the Parker fired first theory, the but for causation,  for McRae and Fortson is that, well, it's not but for causation, it's an aiding and abetting theory. That as soon as Parker- Well, I was wondering whether you can rely on that because we said in McRae, the court said,",
+    "speaker": "davidsaybolt",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "hedge"
+    ]
+  },
+  {
+    "start": 7460.384,
+    "end": 7474.728,
+    "text": " I think the court said the record does not reflect any prejudice to defendants with respect to, there wasn't an argument that there was confusion as to whether the aiding and abetting instruction should have been given in the case, right? That's in McCracken.",
+    "speaker": "judgevanessaruiz",
+    "tags": [
+      "judge_comment",
+      "judge_question",
+      "legal_citation",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 7475.348,
+    "end": 7475.608,
+    "text": "Right.",
+    "speaker": "davidsaybolt",
+    "tags": [
+      "acknowledge",
+      "agreement"
+    ]
+  },
+  {
+    "start": 7476.088,
+    "end": 7528.185,
+    "text": "It says record does not reflect any prejudice to defendants because as previously indicated, the prosecution did not make an aiding and abetting argument to the jury. And as we hold below, the government's evidence was sufficient to convict  victim as co-principles and he said that and the court also said that they were charged as co-principles is not as haters and the betters. So I'm still if the case is presented to the jury where each of these appellants was a co-principle, then I guess we have to show what for causation as to each one. If you could tell us as to each one, which would be the  what would be the evidence the jury could have relied upon to find but for causation. Thank you. Sure.",
+    "speaker": "judgevanessaruiz",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 7528.886,
+    "end": 7593.131,
+    "text": "Um, first of all, two points, Your Honor. The first point with respect to McCray, the court relied on the harmlessness analysis for McCray. But I think for the purposes of our analysis, we're saying  if the jury had been properly instructed, not with the urban gun battle instruction, but with the instruction as supplemented by Fleming. So there isn't any sense in which aiding and abetting was inappropriate to give in that circumstance. There was no infirmity with the aiding and abetting instruction. And there wouldn't be any sense in which  I guess I think that under your scenario, that solves the problem that you're asking about. I don't think the government has to show but-for causation for McCray and Fortson if the court concludes that, because if the court concludes that they aided and abetted Parker. But secondly- So we would have to say, well, wait.",
+    "speaker": "davidsaybolt",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "hedge"
+    ]
+  },
+  {
+    "start": 7595.672,
+    "end": 7627.566,
+    "text": "We would say,  that the jury could have, would have convicted them as aiders and abettors. But the problem with that is that in McRae, we as a court punted on the question of whether the aiding and abetting instruction was even appropriate in the case. So would we then have to decide that issue?",
+    "speaker": "judgevanessaruiz",
+    "tags": [
+      "judge_question",
+      "legal_citation",
+      "judge_comment",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 7630.303,
+    "end": 7667.671,
+    "text": " I don't think so, Your Honor, because the we know the jurors found. We know the jurors found that Fortson McRae fired their guns. Fired their guns, right? Yes, they fired their guns, they fired their guns, maybe not first, but they fired their guns in the general conflagration that ensued after Parker started and  Had the jury been properly instructed, there is no reasonable probability that that jury would not have found that by far.",
+    "speaker": "davidsaybolt",
+    "tags": [
+      "rebuttal_argument",
+      "substantive_argument",
+      "fact_statement",
+      "concession",
+      "hedge"
+    ]
+  },
+  {
+    "start": 7668.111,
+    "end": 7711.293,
+    "text": "I don't understand that formulation, Mr. Sewell. Why are we hypothesizing about what a juror jury would have done had it been properly instructed? I mean, we are told over and over that we look at the trial as if at the evidence and at the trial as it was tried.  We don't take anything out. We don't put anything in. We're trying to decide whether this jury, instructed as it was, could have come to a determination, could have convicted without finding but for causation. That's why I keep going back to that hypothetical. No, that's not quite right. I don't think that's quite right.",
+    "speaker": "judgevanessaruiz",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "disagreement"
+    ]
+  },
+  {
+    "start": 7711.333,
+    "end": 7726.622,
+    "text": "The question is if the jury had been properly instructed on but for causation for purposes of the  urban gun battle theory, um, would they have been, or we can, how satisfied are we that they would have reached the same results?",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 7730.303,
+    "end": 7745.49,
+    "text": "Is there a reasonable probability? Is there a reasonable probability that they would, has, has, has the challenge shown that there's a reasonable probability they would have acquitted a voluntary manslaughter had the jury been properly instructed on",
+    "speaker": "judgevanessaruiz",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 7747.023,
+    "end": 7750.004,
+    "text": " but for causation with regard to the urban gun battle theory.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 7751.485,
+    "end": 7764.73,
+    "text": "It's the Nader standard, the Supreme Court opinion in Nader, which this court has applied in Malloy. And it used to be a slightly different formulation, which I think called white back in the 80s and 90s.",
+    "speaker": "davidsaybolt",
+    "tags": [
+      "legal_citation",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 7767.311,
+    "end": 7771.453,
+    "text": "And that is because we're looking at it through the lens of what?",
+    "speaker": "judgevanessaruiz",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 7772.611,
+    "end": 7825.659,
+    "text": " The Court of Appeals sitting as the 13th juror, essentially, is looking at the evidence and looking at the evidence as the jury found it. So, for example, Raja was impeached, but you're not weighing her testimony, you know, from the beginning. You know that the jury credited her because they convicted him.  because she was the only person who saw him do the shooting. Fortson and McRae, you're not deciding whether Fortson and McRae actually shot anybody because you have eyewitness, the jury already decided that they shot somebody and that would not have been affected had the jury been instructed differently.  You're looking at the evidence as found by the jury. This is how I understand it. Maybe I'm wrong, but you look at the evidence as found by the jury and what you know the jury decided and decide whether you still have confidence in the outcome of the jury had the jury been properly instructed.",
+    "speaker": "davidsaybolt",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 7826.239,
+    "end": 7855.52,
+    "text": "Well, so we don't consider whether the jury's convictions verdict were misdirected.  by an erroneous instruction? I mean, how can we have confidence in a verdict where we know that the jury was given an erroneous instruction that did not even require them to make a finding on but for causation?",
+    "speaker": "judgevanessaruiz",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "substantive_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 7858.112,
+    "end": 8132.8,
+    "text": " We cited some cases where this court has done that. For example, in Wilson Bay, I think it did that. In some of these other cases, the court, the evidence was such, the facts were such that the court said the instructional error did not affect. I mean, the evidence in Wilson Bay was quite different from the evidence here, no? Well, there are not tons of data points for this kind of analysis. It's a little bit of a... I'm turning to the...  There's the Wilson Bay, and then we also had, there's the Williamson case, the Perez case, and Wilson Bay, and actually Alanis itself. And this is on pages 42 to 43 of the government's brief in this matter.  So those that I tried to look at those and say, this is the analysis that the court should engage in and to be careful about that. Obviously, the court's not weighing all the evidence itself. I don't think the court's looking at the way the jury weighed the evidence. If there are no further questions, I would turn to the  turn briefly to the mental health impeachment question. With respect to Curtis Faison's testimony, Curtis Faison was a defendant in this case. He was charged with murder.  He was not present for the shooting where Antoine Buckner was killed, but he essentially decided to plead guilty in the middle of the trial. He pled guilty in the middle of the trial and then decided to testify for the government. And so it was a situation where everybody was scrambling to do the best that they could at the time. And the question of course arose, well, they obtained his mental health records from  the jail and looked at them and whether or not they were entitled to an expert. And there was some evidence in these mental health records about some things that went to bipolar disorder from 2004. And this court decided that the trial court should have had an evidentiary hearing to see what that meant and whether they were entitled to a mental health, an expert to testify who could have impeached Curtis Faison.  It's important to remember that Faison was impeached on many different respects. He malingered at the jail, lied about different things in order to go to segregation or to get medical treatment. He had obstructed justice. He had committed murder. He obviously said something. He said he didn't know somebody on the stand on cross-examination and admitted knowing them on redirect. He was extensively impeached with a lot of prior instances of not being truthful.  And when Dr. Patterson, who was the government expert, looked at that, he said, well, he said a couple things. First of all, he said there's no evidence that he was asymptomatic at the time of the trial.  But and so the the bipolar issue went by the board very quickly. But he said, you know, he does have a pattern of line. He has this pattern of line. So I would say he has not a disability, not an illness, but he has a disorder where one of the features is that he has a pattern of line.  And this did not, and Judge Blackburn-Rigsby, you asked this question. He said, this does not impact Faison's credibility. Not just that he did not significantly impact it, he said it did not impact his credibility. And the court credited Dr. Patterson, did not credit the defense expert, and found that the standard on remand had not been met.  Mr. Sable, just to clarify, did you understand the trial court's ruling to be that his illness, Mr. Faison's mental condition did not seriously impact his ability and or willingness?",
+    "speaker": "davidsaybolt",
+    "tags": []
+  },
+  {
+    "start": 8136.942,
+    "end": 8163.552,
+    "text": "Yes. And even if it did,  Well, it didn't impact his ability or willingness to testify. And therefore, his testimony was not needed, not necessary, wouldn't have changed the outcome, I guess, from the government's perspective. Yes.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_comment",
+      "substantive_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 8164.032,
+    "end": 8558.29,
+    "text": "Right.  The question is, when can expert testimony be used to impeach the credibility of a witness? And in all the cases that this court, I believe, have ever addressed, and almost any court has ever addressed, that goes to the ability or capacity of a witness to testify. That is their ability to perceive, recall, and relate.  So somebody who has delusions around the time of when they perceive recalled or related. So the incident, the grand jury, or the trial, about two years within. Anytime somebody has got those, that's going to be the subject of possible impeachment. Assuming, of course, you can satisfy the 403 issues, which are confusion of the jury, a trial within a trial, and the invasion of the witness's privacy. So it needs to be very relevant. That's what this court has said.  We're in a completely different area now because this did not have anything to do with Faison's ability to tell the truth. This had to do only with his willingness to tell the truth. And so I have not found any cases anywhere in this country where a court permitted mental health impeachment by an expert on this basis of  and a diagnosis of antisocial personality disorder. It comes in in death penalty cases in the sentencing phase, but I had never found it in a trial. The only case where anybody seems to think that this similar testimony came in was the Alger Hiss case. And there's just where the person had, it's not clear exactly what happened, but that seems to be an outlier from a district court in New York.  In McRae, Judge Reeds mentioned a case called Baxter in the circuit that talked about ability and willingness to testify and credibility. But the marking orders that the panel gave to Judge Green was to determine at a hearing whether at the time of this trial testimony, Mr. Faison's mental disabilities  seriously impacted his credibility. So it was a two-part, and then to go on and address prejudice. And Judge Green didn't address prejudice because he felt that the first part wasn't satisfying. So the two-part test here was, does Mr. Faison have a mental disability  And then if he did, did it seriously impact his credibility? And the judge said no on both fronts. And the expert said no on both fronts. And I think this was actually a very smart formulation because it embraced the two concepts that all the opinions I've read talk about. First of all, it has to be a mental disability. It has to be a condition that impairs the witnesses  willingness to tell the truth. And secondly, it has to seriously impact his credibility in order to surmount the 403 concerns. All the opinions talk about impairment. For example, we know there are cases where somebody has compulsive lying, where they are unable to control their lying.  So somebody who sees a crime in the paper and goes down to the police station and falsely confesses to it, the jury needs to hear from an expert just to see why somebody would falsely confess to a crime they did not commit. There are other cases where, and so that's an example of where somebody has an impairment. And this is why Dr. Patterson talked about disabilities and mental illnesses as,  conditions that the victim does not control, you don't control whether you have a disability or an illness, you suffer from them, and they don't control that. What Curtis Faison had was a disorder where he controlled his lying. He lied a lot, but he controls his lying.  The reason I believe that courts require a pronounced disposition to lie or an impairment or a situation where the witness is unable to control it is because we know that juries, and this, Judge Ruiz, I think this gets to the concern that you were expressing. We know that juries can assess credibility. We know that juries can assess when somebody lies because they're selfish. Juries can assess when somebody lies because they're narcissistic or they have a bias or a motive.  Juries need help from an expert when someone lies because there's some sort of medical phenomenon going on that affects what the witness is able to do. So that would be schizophrenia, for example, or that would be this kind of compulsive lying that a witness has no control over. And what Judge, what Dr. Patterson emphasized over and over again is,  Faison lies, but he is able to control his lying. I can't tell you whether he's lying at trial. I can't tell you whether he's going to lie in any particular incidents. What I can tell you is he can control it. And we also know the jury heard about the many instances in which Faison lied. Dr. Patterson, he's not a human lie detector. He didn't sit and talk to Faison and say, oh, well, I can tell you're lying. He just looked at the same record of lying that the jury looked at, and he put this label on it.  The courts that the opinions don't permit that kind of label would not have helped the jury, it would not have helped the jury at all because they jury was capable of making this determination.  That's why, I mean, I don't know, that's why I think the panel decision got it right when it remanded with this language. Maybe the word disability needs some clarification, but we know that it needs to be an impairment, and we know that it needs to be something that seriously impacts the credibility, or in this case, the willingness to tell the truth. And antisocial personality disorder  does not meet that criteria. It certainly didn't meet it in Faison's case. And the only expert testimony we have that was credited by Judge Green is Dr. Patterson's testimony who said that this did not affect Faison's willingness to tell the truth.",
+    "speaker": "davidsaybolt",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement",
+      "rebuttal_argument",
+      "concession",
+      "hedge",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 8559.831,
+    "end": 8573.721,
+    "text": "But didn't he say also that the disorder could affect whether a person chooses to comply with the obligation to tell the truth in court?  He was asked that question.",
+    "speaker": "judgevanessaruiz",
+    "tags": [
+      "judge_question",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 8573.861,
+    "end": 8576.141,
+    "text": "He said it could, but it didn't in this case.",
+    "speaker": "davidsaybolt",
+    "tags": [
+      "concession",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 8576.702,
+    "end": 8701.084,
+    "text": "Well, but see, that's another thing. You said, can you use expert testimony to impeach the credibility of the witness? It's not the expert who is making the credibility assessment. The expert is giving testimony. And the question is whether that is testimony that would be helpful to the jury, to the fact finder.  which has the role of assessing credibility in making that assessment. And if a doctor can explain to a jury how somebody would just lie because they have really no regard for the obligation to tell the truth, they can just lie. It's not that they're compelled to lie. It's that they don't care.  that you should not put any stock on the fact that they have gotten on that witness stand and sworn to tell the truth. Why is that not a relevant consideration for a jury? Now, the argument can be made on the other side. That doesn't mean he always lies, right? And then you might point to other evidence that corroborates what the person has said.  But isn't I just found that I understand that this court mentioned mental illness or disability in the remand order, but that really those it is, in fact, what you said was a condition, something that was probative of the witnesses credibility. Of the trust that anybody should put in that person and what that person says,  that actually has a medical diagnosis and is recognized and where both doctors agreed that this witness showed, I think it was six out of the seven characteristics of people with that personality, a recognized personality disorder, which goes to truth-telling or rather not truth-telling.",
+    "speaker": "judgevanessaruiz",
+    "tags": [
+      "judge_comment",
+      "substantive_argument",
+      "judge_question",
+      "record_reference",
+      "concession",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 8702.157,
+    "end": 8715.741,
+    "text": " It's a label, Your Honor. I don't recall Dr. Patterson saying it's a total disregard for oaths. I don't I don't recall anything about that kind of conversation coming up. What is on page 306 of the 418 2017 transcript?",
+    "speaker": "davidsaybolt",
+    "tags": [
+      "rebuttal_argument",
+      "disagreement",
+      "hedge",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 8720.763,
+    "end": 8748.258,
+    "text": " I mean, he didn't say that you can never comply with your oath, but that, yes, it can affect it because the failure to conform to norms and cultural and ethical standards is a characteristic of people with this disorder. And he said that many people coming out of the jail, career criminals, would be diagnosed with antisocial personality disorder.",
+    "speaker": "judgevanessaruiz",
+    "tags": [
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 8749.545,
+    "end": 8756.371,
+    "text": " And so, right, and so... That's a different argument you're getting at there.",
+    "speaker": "davidsaybolt",
+    "tags": [
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 8756.792,
+    "end": 8765.28,
+    "text": "No, well, I mean, it's a practical... It doesn't say anything about whether it is helpful to the jury in making a credibility assessment.",
+    "speaker": "judgevanessaruiz",
+    "tags": [
+      "judge_comment",
+      "hedge",
+      "disagreement"
+    ]
+  },
+  {
+    "start": 8766.704,
+    "end": 8826.558,
+    "text": " Right, because we know, we ask jurors to be the finders of facts. We ask jurors to make decisions about credibility, and when it's within their ken, we leave it to them as the Israel decision that I forwarded to the panel yesterday. We leave it to them to make these determinations unless it's outside their ken. I guess, Your Honor, if you think that antisocial personality disorder is something that  The pervasive pattern of lying that Faison exhibited is outside the jury's ken, then perhaps an expert should have testified. But that was not the way the testimony came in from Dr. Patterson the way I understood it. And certainly, it wasn't a serious impact that would justify the intrusion in his privacy and also the risk of a trial within a trial.  the four or three concerns that the court, as you said, Dr. Patterson is not a human lie detector test.",
+    "speaker": "davidsaybolt",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement",
+      "hedge",
+      "policy_argument"
+    ]
+  },
+  {
+    "start": 8828.32,
+    "end": 8845.671,
+    "text": "So was was it proper for Dr. Patterson even to opine as to whether Mr. Faison would lie or had lied to make that ultimate determination of credibility?",
+    "speaker": "judgevanessaruiz",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 8846.458,
+    "end": 8871.129,
+    "text": " Well, the court asked him to. I mean, I think he was talking. Enough of what? Was that improper? He just did what you asked. He was making. So to the extent that the court relied on that in making its determination, what weight should we put on that as far as whether we defer to the court's",
+    "speaker": "davidsaybolt",
+    "tags": []
+  },
+  {
+    "start": 8872.173,
+    "end": 8879.357,
+    "text": " reliance on an opinion credibility assessment that was improper in the first place.",
+    "speaker": "judgevanessaruiz",
+    "tags": [
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 8879.937,
+    "end": 8982.821,
+    "text": "There seems to be some circularity here. The diagnosis of ASPD is based in part on a history of prior, a pattern of prior dishonest behavior, lying, malingering.  and so forth, and some other criteria. If you're saying that that history can't be considered and determined by the expert or anybody, then the diagnosis presumably of ASPD is worthless. But beyond that, can anybody think of any case in which  We've said that an expert can come in and testify to the jury. In my expert opinion, based on my study of this person, the oath means nothing to him. I find that a little odd. It's hard to believe. And I take it that certainly no one has found any case in which antisocial personality disorder has been the basis for such a claim.  I don't see the necessary support for the argument that Dr. Patterson or any other expert should have been allowed to present testimony that Faison's credibility as a witness should be impeached because of my opinion that the oath means nothing to him. He has ASPD.",
+    "speaker": "judgeglickman",
+    "tags": [
+      "judge_comment",
+      "judge_question",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 8985.948,
+    "end": 9003.885,
+    "text": " Excuse me, Henry. I'm still in court. I'll be off in a bit. Okay. You know, my kids are coming over to my house. I thought we were done and they're rolling in right now. We are way, way, way over time here.",
+    "speaker": "davidsaybolt",
+    "tags": [
+      "time_management",
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 9003.925,
+    "end": 9024.568,
+    "text": "And I know we've been very generous with both council and thank you both for your patience.  I mean, unless there is something final brief remarks that you'd like to make Mr stable to wrap up, I think we need to move on to hear the final and very brief rebuttal of attorney Myers.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "acknowledge",
+      "time_management",
+      "judge_procedural_directive",
+      "case_transition"
+    ]
+  },
+  {
+    "start": 9026.174,
+    "end": 9056.869,
+    "text": " The last if I could just say briefly, Your Honor, Dr. Patterson reviewed the same evidence that the jury did. So his opinion would not have helped the jury. It would have usurped their role. These kinds of determinations are the kinds of determinations that are within their ken. And that's why he didn't have  the kind of impairment that an expert needed to explain to the jury and it didn't seriously impact his testimony. And so that's why we would urge the court to affirm on that ground as well.",
+    "speaker": "davidsaybolt",
+    "tags": [
+      "rebuttal_argument",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 9058.391,
+    "end": 9064.798,
+    "text": "All right, thank you. Mr. Myers, I believe we reserved about four minutes for rebuttal.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "reserve_time",
+      "time_management",
+      "judge_comment",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 9066.53,
+    "end": 9245.689,
+    "text": " Thank you, Your Honor, and I don't think I'm going to need even that much time. I appreciate all the attention the court's paid to it, and I'd like to make three very brief points. First, that Mr. Sable referred at length to the circumstances involving the shooting, but I would ask this court to take a look at the reply briefs which the appellants filed, which documented that there was a lot of  inconsistency and confusion about what the circumstances actually are. Second, Mr. Sable referred to the case he brought to this court's attention yesterday, in which the court said that testimony about antisocial personality disorder was inadmissible, but  This case strongly supports the appellant's point of view because the court held in that case that such psychiatric testimony and the medical records supporting it could be introduced if there were, quote, compelling reasons for it.  And we've argued that there were compelling reasons in this case. And the final brief point I'd like to make is response to the Burrage argument that Mr. Sable made, that the government says that we waived the Fleming issue because it was readily foreseeable that Roy no longer was good law in light of the Burrage case.  And I'm not going to repeat the argument I made before that I do not think we waived it that with that council are repeatedly made very similar arguments to the on reasonable probability that was adopted in Roy, but even if it didn't.  there's a problem with this government's waiver argument that it was readily foreseeable. Because the government relies upon, to make this argument, Judge Easterly's concurring opinion for the three-judge panel in Fleming, in which he cites Burgess. But the point is, there were two other judges on the panel, including a judge who's sitting on this panel, who didn't agree with, who didn't go along with that concurrence.  And in addition, the government ignores the fact that in 2016, more than two and a half years after Burridge was decided, this court decided Bryant. And that's one forty eight, a third, six eighty nine, in which this court extended the Roy analysis.  to first degree murder without considering the Burrage case. And again, another member of this panel sat on the Bryant court. So there's two out of the three members of this panel itself who dealt with this issue without expressing that it was readily apparent that Burrage had overruled Roy.  I would appreciate the court's long consideration of this oral argument. And I thank the court for its consideration. And that's all I have to say today. Thank you.",
+    "speaker": "petermeyers",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "legal_citation",
+      "fact_statement",
+      "record_reference",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 9246.87,
+    "end": 9262.753,
+    "text": "All right. Thank you. I'd like to thank both counsel for your briefs and arguments today and for your patience as we have provided extended time for the important arguments in this case today. So thank you both.",
+    "speaker": "judgeblackburn",
+    "tags": [
+      "judge_comment",
+      "acknowledge",
+      "time_management"
+    ]
+  },
+  {
+    "start": 9264.598,
+    "end": 9265.649,
+    "text": " This is now adjourned.",
+    "speaker": "courtroomclerk",
+    "tags": [
+      "court_closing"
+    ]
+  }
+]

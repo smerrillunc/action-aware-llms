@@ -1,0 +1,2737 @@
+[
+  {
+    "start": 0.979,
+    "end": 7.144,
+    "text": " We're on. We're on. We're on. Morning. Afternoon, Gary. Evening.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "procedural_move",
+      "public_address"
+    ]
+  },
+  {
+    "start": 7.604,
+    "end": 10.907,
+    "text": "Hey, Gary. Hi, Jim.",
+    "speaker": "garyknighton",
+    "tags": []
+  },
+  {
+    "start": 12.448,
+    "end": 62.758,
+    "text": "Welcome to this April meeting, is it? May meeting of the Cambridge Community Board. Good to see you all here. We'll start with, and if we've got anybody else who's watching, to welcome  We'll start with any apologies? No apologies? Fine. Disclosure of members' interest. Any disclosure of interest? No? Nothing? It's gone very quiet. It's a good sign.  Late items, any late items.",
+    "speaker": "suemilner",
+    "tags": [
+      "public_address",
+      "procedural_move",
+      "ask_question",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 62.778,
+    "end": 68.222,
+    "text": "Madam Chair, can I just, nothing major, just to talk about the rural tours, please. Yep.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "procedural_move",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 68.922,
+    "end": 70.684,
+    "text": "When would you like to do that? Now?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 71.546,
+    "end": 92.503,
+    "text": " No, well my concern was that they are supposed to start Saturday. Can we get something going out on Facebook, the website or Grapevine or whatever and maybe an email to the people that open the halls to say that that's not happening. I realise people probably realise that it won't happen but just for confirmation otherwise you get a whole lot of confusion out there.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "express_concern",
+      "assign_action",
+      "public_address",
+      "community_reference",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 92.663,
+    "end": 95.285,
+    "text": "Yeah, just to confirm that not happening.",
+    "speaker": "suemilner",
+    "tags": [
+      "confirm_next_step",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 95.706,
+    "end": 97.407,
+    "text": "Yeah. We can action that, yep.",
+    "speaker": "manager",
+    "tags": [
+      "assign_action",
+      "confirm_next_step",
+      "agree"
+    ]
+  },
+  {
+    "start": 98.107,
+    "end": 98.608,
+    "text": "Thank you Jo.",
+    "speaker": "suemilner",
+    "tags": []
+  },
+  {
+    "start": 99.469,
+    "end": 116.758,
+    "text": "Great.  Yes. Is it possible to, and we usually have the two regional councillors and the mayor coming. Oh yes, yes, yeah. So there's a little bit of a, just some emails. They will understand, but I think we should just do that. Yeah, yeah.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "ask_question",
+      "agree",
+      "reassure_stakeholders",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 117.078,
+    "end": 129.081,
+    "text": "Yeah, that'd be good. We'll, when everything's sorted out and settled down again, we'll sort out dates again, I think. Okay. Any other late items?",
+    "speaker": "suemilner",
+    "tags": [
+      "agree",
+      "confirm_next_step",
+      "procedural_move",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 130.617,
+    "end": 133.079,
+    "text": " Just, Madam Chair, under the general business.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 133.94,
+    "end": 135.401,
+    "text": "Yes.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 136.081,
+    "end": 140.865,
+    "text": "Just the general state of the streets and the leaves and the blocking of the drains.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "clarify_point",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 143.647,
+    "end": 144.128,
+    "text": "Yeah.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 144.888,
+    "end": 148.511,
+    "text": "Also on another one, the cemetery.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "prioritize_issue",
+      "procedural_move",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 150.613,
+    "end": 204.972,
+    "text": "Oh, right. Not good, is it? Right. OK, we'll bring that up at the  At the end, okay. Leaves, et cetera. Righto. Just remind me, Jim, at the end of the meeting, at the end of everything. Okay, that'd be great. Okay, so confirmation of the order of meeting. There's no public forum at this stage, so if we go straight  into the minutes of the previous meetings. We've got two... Madam Chair, I'm happy to move that we confirm the order of the meeting. OK, sorry, Graeme, I should have done that. No, no, that's OK. Yeah. OK. Do we have a seconder?",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "assign_action",
+      "confirm_next_step",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 205.452,
+    "end": 205.992,
+    "text": "Yeah, I'll do that.",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "confirm_next_step",
+      "agree"
+    ]
+  },
+  {
+    "start": 207.112,
+    "end": 210.033,
+    "text": "Thank you, Mark. All those in favour? Aye.",
+    "speaker": "suemilner",
+    "tags": [
+      "call_vote",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 210.233,
+    "end": 210.733,
+    "text": "Aye.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 211.193,
+    "end": 240.039,
+    "text": "Right. Thank you. So minutes of the previous meeting.  that the minutes of the meeting held the 4th of March, 2020 as circulated with the agenda be confirmed as a true and correct record of proceedings. And B, the minutes of the extraordinary meeting held 20th of April, 2020 as circulated with the agenda be confirmed as a true and correct record of proceedings. Do we have a mover? I move that.",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 241.22,
+    "end": 242.261,
+    "text": "I'm happy to second that.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "agree",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 242.681,
+    "end": 287.349,
+    "text": "You've got a seconder, thank you. Any discussion about that?  No? All happy with the minutes? Okay, all those in favour? Aye. All those against? Motion is carried, thank you. Now this is Mif's turn to do her presentation on the Keep New Zealand Beautiful road signs. You should have all received them. Okay, yep.  that's all come up. So, Mif, would you like to start your presentation, please? Sure.",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "call_vote",
+      "summarize_outcome",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 287.609,
+    "end": 580.982,
+    "text": "I will try to... I'm worried that it's quite long, so I'll try and go reasonably speedy. Yes, everybody should have read it by now. And any questions, just sing out as we go through. So, the background there, we can probably skip through to slide number five, I think. Karen?  So the background is that we won the Keep, the most beautiful large town in the Keep New Zealand beautiful wards last October.  and it's for the year 2019 and in 2020 there'll be new winners announced so we have it until until October 2019 and we'll be applying again for status so hopefully we get it for another year or two. Been talking to council and roading and comms team about getting some signage up around town to celebrate this and it's just taking a little while to get positions that we can use  And in the interim, I did take photos of a bunch of our Welcome to Cambridge signs to also show you and just draw attention to and start a conversation about those. That's the second part of this presentation. So with the Keep New Zealand Beautiful signs, we've got two locations that we permitted to use. One of them has changed since this slide was sent out. And you would have seen what Julie has sent through. So the picture we're looking at there is coming in from the Avanti Drome End.  And on the right-hand side, you've got a welcome to Cambridge sign tucked into the trees there. Originally, we were allowed to repurpose that sign or put a sign down below, which is the mock-up of the next slide. But thank you. We have now been given permission to use the left-hand side of the road. So if we scoot back one. Sorry, Kieran.  We can now use the left-hand side of the road. And the reason I asked for that is because when you're driving into Cambridge, the right-hand side gets lost. Your eye's not naturally drawn to it. You're driving at 50 k's an hour, and it just doesn't get that well seen. So we have got permission to use the left-hand side. And the sign is 2.4 by 1.2, so it's the same size as what you're seeing there with that Welcome to Cambridge sign. If we go to the next slide,  This is a mock-up of what the sign could look like. So this has been done for free by CAS Designs, and it's in keeping with the Keep New Zealand Beautiful branding guidelines as well. But it's by no means a firm and fast vinyl design, so that's up for feedback as well. What I'm really asking from the community board today is would they support and be okay with these signs going, and any feedback around the design of them?  So if we scoot to the next one, this is coming in from the expressway, Victoria Road. So you've got the Hautapu Rugby Clubs on the left. And again, we were allowed to either repurpose the first sign you see there, the blue sign, or put the sign with the red markers. So if we go to the next sign, I think, sorry, PowerPoint, thank you. It's just also pointing out the state of that first sign. That's probably one of our worst around town. Next slide.  So that is just a bit of a mock-up of its positioning. It'll be slightly behind that tree that you can see there, but that's roughly what would be 50 meters down the road from that current sign. Go to the next one. So that's a slightly more close-up.  On this one here, you can see the 2019 and then the word winner. We have to have the year on the sign as part of the requirements. The reason it's sort of positioned a bit like that is that we would hope to win it in 2020 and we just repurpose it and take out the winner and put in 2020 in that space.  Go to the next slide, thank you. So who pays for it? CAS Designs has done the design for free. Wrapped Trade offered pre-COVID, so I need to double check again, to make and sponsor the actual signs, and council have advised that they would install them for free. So there's no cost to the Cambridge Community Board. And what happens if we do not win in 2020? The signs can stay there or they can be removed. Most towns leave them up for a good couple of years, so that can be decided at a later stage.  Next slide. So council have advised that they'd like the community board to approve design and concept. And that next bit is now not relevant. So yeah, I guess I'm asking for feedback at this stage from council, community board, what your thoughts are on those signs.",
+    "speaker": "miff",
+    "tags": [
+      "provide_information",
+      "ask_question",
+      "procedural_move",
+      "clarify_point",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 584.912,
+    "end": 602.878,
+    "text": " Sorry, Madam Chair, can we just discuss the siting of the signs? I think they're all sited well, and I'm really, really supportive of you changing the sign outside Rest Haven to the other side of the road. I think that's common sense. I do have some issues with the sign per se. Yeah.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "procedural_move",
+      "state_opinion",
+      "express_concern",
+      "agree"
+    ]
+  },
+  {
+    "start": 603.298,
+    "end": 604.658,
+    "text": "Yeah.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 604.958,
+    "end": 606.879,
+    "text": "Can I, Madam Chair, can I?",
+    "speaker": "jimgoddin",
+    "tags": [
+      "procedural_move",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 607.399,
+    "end": 608.939,
+    "text": "Yes, go ahead, Jim.",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 609.8,
+    "end": 681.668,
+    "text": "Yeah.  Like Graham, I do think it needs to come to the other side of the road. One, a couple of things. The entrance to Cambridge is no longer Rest Haven in the rugby club. It's where we come off the motorway at Howe Tapu. It's where we, the new roundabout by the Velodrome is now the entrance to Cambridge. That's how most of the public is seeing the entrance to Cambridge, the new welcome to Cambridge sort of thing. It's coming off the,  expressway when you're heading north, down past the golf course. And the only other thing on there, I see we've got the big C. Yeah I'll come to that, don't panic. Sue may remember the big C from last year or the year before, whenever that is. Yes, yes we do remember the big C. Yeah, I just wondered, what about, it's just  I'm interested to see that that's what Kaz has come up with. I'm a bit surprised. I would have thought that there was a bit more, a graphic designer might've come up with something a little bit more exciting.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "build_on_point",
+      "clarify_point",
+      "state_opinion",
+      "express_concern",
+      "evaluate_option",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 682.448,
+    "end": 722.194,
+    "text": "Yeah. I guess, number one, it has to be impactful and seen. And number two, there are a few constraints, but I guess what, we also didn't put pictures in there. We didn't put a background in there because there's quite a few things going on in that location already.  those locations, and we already have that in the other Welcome to Waip\u0101, Welcome to Cambridge kind of signage. And I guess, what would you like to see? I just think those signs, Welcome to Waip\u0101, yes, I totally agree they're senior day and they need to window the gust of wind that we've had of recent, haven't blown them over.",
+    "speaker": "miff",
+    "tags": [
+      "state_opinion",
+      "provide_information",
+      "express_concern",
+      "ask_question",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 723.375,
+    "end": 733.575,
+    "text": "But I think we need to see something a little bit more exciting than playing white sign.  with the big C on it.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "state_opinion",
+      "evaluate_option",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 735.156,
+    "end": 783.777,
+    "text": "Mif, can I just chip in a little bit here? It's Graham. The sign that you've got with the hands, which is designed to be like an oak tree, that was made, the Chamber of Commerce made that, and it's not officially the Cambridge Town of Trees,  where they have a lovely green oak tree, Town of Trees and Home of Champions, that needs to be replaced with, and those signs, those logos are actually registered as belonging to Cambridge, and I think it's very, very important that we actually get those on there, because, you know, we are the Town of Trees, and that's what people actually know us about. So, I had a quick chat to Sue about this, because I haven't seen that green",
+    "speaker": "grahamewebb",
+    "tags": [
+      "provide_information",
+      "state_opinion",
+      "community_reference",
+      "express_concern",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 785.676,
+    "end": 840.277,
+    "text": " tree. And that is sort of the second part of my presentation is around our Cambridge brand, so to speak. So I guess we finish off on the on the Keep New Zealand Beautiful sign. I think what I'm hearing is that location is fine. And I'll come to the LTE address to Jim in the next piece. So the locations are OK. I mean, these things can be moved as well, like later when we if we do define where they should be.  the two locations are kind of okay at the moment but we want to see a slightly more snazzier design. Yeah I think I'd like to see something that a little more pictorial that sort of actually gets people excited about what they might see as they drive into Cambridge itself and at the moment I think we're getting more the place of the welcome to Cambridge sign now which is different again.",
+    "speaker": "miff",
+    "tags": [
+      "provide_information",
+      "state_opinion",
+      "clarify_point",
+      "summarize_outcome",
+      "community_reference",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 841.477,
+    "end": 905.101,
+    "text": "I think they  Both, I think it should be working together. Have you been into Fielding? Yeah, Fielding have had the title of Best Whatever Town for a good number of years, but they actually have, as you come in, you see this picture of, I think it's of the centre of their town, and it looks, you know, really interesting and makes you want to think, oh yes, I do want to go and look at this town.  And I've been using the example of Tasmania, where if you drive down from Launceston to Hobart, there's an awful lot of lovely little old towns that are actually off the main road, but they have a sign at the main road and just about all of them have got a really nice photograph of a part of their town that makes you think, yes, I want to drive that extra few k's to go and look at that town.  And I think that's what we need, something that says, yes, I really do want to have a look at Cambridge.",
+    "speaker": "suemilner",
+    "tags": [
+      "state_opinion",
+      "provide_information",
+      "build_on_point",
+      "persuasion_attempt",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 905.801,
+    "end": 951.772,
+    "text": "I think, I understand where you're coming from, but my, I guess they're already in Cambridge. And I just really wanted to make sure we shouted out and got that main message of, you're in, you know, New Zealand's most beautiful large town. And if we look at putting an image in there, that just makes it a lot more complex in what do we put in there.  There's definitely some great imagery, you know, blossom and town hall and gardens and that kind of thing, so we could have a play around with it. I just, my fear is that the main message would get a little bit blurry. I just think the plain white mesh is a bit, sorry, Madam Chair, I just think the plain white and it's just, it looks a bit like a black and white sign.",
+    "speaker": "miff",
+    "tags": [
+      "state_opinion",
+      "express_concern",
+      "evaluate_option",
+      "clarify_point",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 952.452,
+    "end": 954.153,
+    "text": "Yeah, yeah.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 955.353,
+    "end": 958.315,
+    "text": "And it will get rubby very quickly, that white.",
+    "speaker": "suemilner",
+    "tags": [
+      "provide_information",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 960.608,
+    "end": 970.331,
+    "text": " I was aware I'd have to be out there with my rag now and again. Okay, so we'll come back on that one.",
+    "speaker": "miff",
+    "tags": [
+      "agree",
+      "defer_decision",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 971.272,
+    "end": 977.754,
+    "text": "The tree. Did you get a copy of the entire agenda for today's meeting, Liz?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 979.114,
+    "end": 981.455,
+    "text": "Yeah, I've got the agenda.",
+    "speaker": "miff",
+    "tags": [
+      "provide_information",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 981.795,
+    "end": 1002.684,
+    "text": "Yeah. And did you look on, say, page three? That's where I'm looking at the moment, in the corner.  you printed it black and white you won't see it quite so well but if you printed it in colour you will see a very nice picture of a tree and that is the Cambridge Town of Trees logo.",
+    "speaker": "suemilner",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 1005.225,
+    "end": 1016.989,
+    "text": "I will go back and have a look at that. Yeah and it is on a Cambridge Town of Trees flag that normally sits in the foyer of the Wilson Street building.",
+    "speaker": "miff",
+    "tags": [
+      "confirm_next_step",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 1018.189,
+    "end": 1019.17,
+    "text": "So it's not",
+    "speaker": "suemilner",
+    "tags": [
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1021.258,
+    "end": 1042.145,
+    "text": " You're right about Graham, that Chamber of Commerce one, and it was owned by Chamber of Commerce, I believe they've let the rights go to that one. I guess the tree one, that's great, it's just that nobody knows about it. Nobody, it's not used anywhere that I know publicly to sort of identify us as that symbol and that brand.",
+    "speaker": "miff",
+    "tags": [
+      "agree",
+      "provide_information",
+      "clarify_point",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 1044.166,
+    "end": 1048.584,
+    "text": "It's elderly people like me, Miff, that have been here for 100 years that know.  Yeah.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "community_reference",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 1048.845,
+    "end": 1054.107,
+    "text": "Yeah. So I'd be keen to see the design and the uses that are allowed, etc.",
+    "speaker": "miff",
+    "tags": [
+      "ask_question",
+      "state_opinion",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1054.808,
+    "end": 1071.737,
+    "text": "Yeah, because it's a really attractive one. And I think it's got an appeal. And a lot of people still think of Cambridge as this lovely town you drive through with all the lovely trees. And I think we've got to, you know, appreciate that.",
+    "speaker": "suemilner",
+    "tags": [
+      "state_opinion",
+      "community_reference",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 1072.828,
+    "end": 1081.043,
+    "text": " Madam Chair, I see Liz with us tonight. I just wondered if we could invite Liz to just make some comments, please.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "procedural_move",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 1083.291,
+    "end": 1181.135,
+    "text": " Hi, everybody. Yeah, look, I'm happy to. I guess I'm just going back to the Cambridge Town of Trees and Champions logo. I guess, yeah, going back a good 20 years ago when I was at the eye site, we did use it quite regularly as Cambridge's brand. And I don't think it's lost or is at the end of its life. I think that it needs a refresh for sure and needs a whole bunch of community consultation around it. But I still think it's quite relevant for today.  I think we saw that when we tried to introduce a different brand that actually the general community really wanted and actually feel really aligned with that Town of Trees and Champions brand. So just on that, on a refresh for that brand and for any new Welcome to Cambridge signs,  I think that that sits very simply with Council. Our comms and marketing team, Charlotte, who heads it up, she needs to own the process. It's hers to do. So, I think, you know, we want to support and definitely do a lot of consultation and thanks for bringing it up. It has been raised before and it is definitely on Charlotte's list of things to do, I think, for this coming year.  I raised that with Charlotte and Amber and they're really keen to to progress on this so this they sort of advise we get this Keep New Zealand Beautiful sorted and then we look at the next piece and they also said that when and if these Keep New Zealand Beautiful signs go up there needs to be a little bit of PR come from them",
+    "speaker": "lizstolwyk",
+    "tags": [
+      "provide_information",
+      "state_opinion",
+      "assign_action",
+      "defer_to_authority",
+      "community_reference",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 1181.878,
+    "end": 1197.864,
+    "text": " because there'll be people all of a sudden start noticing the other older signs and there'll be a bit of a reaction to those possibly. So they'd like to be able to say, yep, here's to keep using the beautiful signs. We're aware that the other signs need an update and it's a work in progress. Yeah, yeah.",
+    "speaker": "miff",
+    "tags": [
+      "express_concern",
+      "reassure_stakeholders",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 1198.164,
+    "end": 1256.757,
+    "text": "So yeah, I think there's just been a little bit of a delay, but yeah, so I guess, you know,  Charlotte will lead that process and make sure, we'll just make sure that she consults with all the appropriate community organisations as well, Miff, and obviously that will definitely include, you know, your group. So on the keep, on the keep, yeah, the Cambridge beautiful, the new signs that you wanted to pop up.  They are a bit bland. I think we can do better. And I think that that C brand has to go. The community haven't accepted it. And I think if we put them on there, we're gonna lose engagement with our community. So I think that's like a red rag to a bull having anything with the C brand on it, I still think. So yeah, I'd like to almost go back to Kaz and say, yeah, let's try a bit harder.  I think we can do better. Thank you.",
+    "speaker": "lizstolwyk",
+    "tags": [
+      "provide_information",
+      "confirm_next_step",
+      "community_reference",
+      "express_concern",
+      "state_opinion",
+      "persuasion_attempt"
+    ]
+  },
+  {
+    "start": 1260.019,
+    "end": 1345.721,
+    "text": "So happy to move on to the next piece. Thank you. So yeah, current welcome signs in Cambridge. Our current welcome signage is a bit tight and disjointed. It doesn't really present a nice welcome for our visitors and as a local  not feeling particularly proud of them at the moment. So it doesn't reflect the rest of the town and how well it's maintained and how beautiful it is. So I just wanted to draw to your attention about getting it updated. If we go to the next slide, there are some provisions in the town concept plan around major gateway signage and some wayfinding. So it got me thinking about, again, a disjointedness. We've got a few signs here and there about walkways, and we've got a few signs for  the welcome to Cambridge, but we don't have one brand look and feel to it. So I just thought this was a good opportunity to try and achieve that. So go to the next slide. Yeah, my question was around that town concept land, and maybe it's more of a council question, but the gateway signs, are they also intended to be our welcome signs or are they separate? So for example, at the Avanti drum, you've got the nice sculpture going up in the middle of the roundabout.  Is that what they mean by gateway signs? Maybe, Liz, you might be able to answer this. Or are we still talking about having a welcome to Cambridge sign a bit further out with their new gateways?",
+    "speaker": "miff",
+    "tags": [
+      "provide_information",
+      "express_concern",
+      "ask_question",
+      "cite_reference",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1347.543,
+    "end": 1386.279,
+    "text": " So in the middle of the roundabout, there will be no sign. I don't want there to be any confusion about that. No, look, that hasn't been confirmed. And given the current environment, we were simply going up, we were out for consultation on the design, but I think the entire world has changed since we went out for consultation. So whether that actually proceeds or not, will be an annual plan discussion that councillors will have.  So yeah, so look, we need to have a bit of a think about what signage we do want, but it won't be in the middle of a roundabout, but it will be, I think, at the main entrances to town. Okay, cool.",
+    "speaker": "lizstolwyk",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "defer_decision",
+      "defer_to_authority",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 1386.319,
+    "end": 1565.945,
+    "text": "So in red there, you'll see hard, we all know that the big C is not the answer for Cambridge, but my, yeah, I guess my purpose is to try and think about a cohesive grant. So if we think to be skipped to the next one, and even also, I guess a bit of background there on why we need a bit of a,  bit of a brand. It does create that sense of identity and unity, it boosts tourism, it gives us a marketing toolbox to use as well, but it really says something about where you are and hopefully it's attractive and makes people want to live and play and visit there. So the next slide just gives you a bit of example, Hansburg, I just don't know where that is, but just shows you what I mean by that toolbox or that cohesive brand. So you've got your welcome signs and this is by no means what I think it should look like,  but you've got your welcome signs, you've got your cycleway, you've got your parking, you've got your library signs and you've got your flags on your street lights. So that's kind of what I'm angling at, I guess, is to try and achieve that throughout the town. We look at the next one.  This is just an example of what good, in my opinion, looks like, and there are different opinions out there, but this is a brand that started off as being graffitied on the footpaths in Dunedin by a local brand company, and it just took off and got picked up, and it's now universally used throughout Dunedin. It's on their council websites, their iSite websites. It's on their airport now. It's on their everything from locally made peanut butter and beer to these welcome signs.  that's been really picked up and identified with. If we flick to the next one. So this is just highlighting kind of the current state of our signs. And you can flick through those, sorry, Kieran, just bit by bit to show people. That's the golf course ones. And then coming in at Cambridge Park.  So this is an example of what I thought, you know, just teases really of what good might look like for a Cambridge sign. And you'll notice I haven't got welcome in there. A lot of places don't now, they just have a bit of a statement. The Te Awa Life Care Village one, I thought it's really classy and it's also used over at Cambridge Park or somewhere over that side of town. I can't quite remember now. Yeah, yep.  So last slide I think. So yeah to conclude I'd just like to see the signage implemented and that celebrated more as a town and then yeah just see if we can't work on those gateways and why finding and grand I guess for Cambridge but yeah my question is perhaps it's not community board perhaps it's more Waipae Council starts at the top and works its way down not too sure. Thank you.",
+    "speaker": "miff",
+    "tags": [
+      "provide_information",
+      "policy_proposal",
+      "ask_question",
+      "community_reference",
+      "persuasion_attempt",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 1574.169,
+    "end": 1628.498,
+    "text": " I think you've done a fantastic job. Absolutely love that. And my OCD kicks in and when I saw all those matching signs, it was like, yes, absolutely. I think it's great. I don't know where it sits, whether it's with us or whether it's with council. And also, I'm very much for you  signed at the entrance, and it's something that's been on\u2014that frustrates me every time I drive past them. They don't look pretty. And as the city, town, whatever it is, expands, we need to have them out on the Karapero\u2014sorry, not Karapero\u2014the Kaipake Road, the\u2014  There's five or six entrances, really, so yeah.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "state_opinion",
+      "clarify_point",
+      "express_concern",
+      "community_reference",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 1628.698,
+    "end": 1630.139,
+    "text": "Yeah, the golf course.",
+    "speaker": "miff",
+    "tags": [
+      "agree",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1630.499,
+    "end": 1641.808,
+    "text": "And also those signs that also have the Rotary and the Lions banner and whatever else is on there, I can't remember now. I think that's time for an overhaul as well.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "state_opinion",
+      "prioritize_issue",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 1642.689,
+    "end": 1652.696,
+    "text": "I understand the Rotary Club were trying to have an overhaul a few years ago, and they did talk to Lions, but there was some issue there.",
+    "speaker": "suemilner",
+    "tags": [
+      "provide_information",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 1652.736,
+    "end": 1653.857,
+    "text": "Well, I can sort Lions.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "assign_action"
+    ]
+  },
+  {
+    "start": 1654.567,
+    "end": 1656.829,
+    "text": " You consult lines. \u2014 Absolutely.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 1657.149,
+    "end": 1665.614,
+    "text": "I'm past president. I could go there and... \u2014 The one out by the golf course, interesting, looks like someone's taken some interest in that one.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "provide_information",
+      "assign_action",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 1665.654,
+    "end": 1673.859,
+    "text": "That's been cleaned up and tidied up, at least. It's a bit nicer looking. \u2014 Yeah. \u2014 The other ones are not, yeah.",
+    "speaker": "miff",
+    "tags": [
+      "provide_information",
+      "evaluate_option",
+      "report_back"
+    ]
+  },
+  {
+    "start": 1673.879,
+    "end": 1690.533,
+    "text": "\u2014 No. \u2014 Is there \u2014 sorry, through you, Sue \u2014 is it defined that Cambridge boundary is  the other side of St. Peter's now and Hatapu, is that definite? Liz, you may be able to.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "defer_to_authority",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 1691.313,
+    "end": 1709.937,
+    "text": "Well, we have boundaries, but we don't have a town boundary or CBD boundary. But I think it's about where, well, we've got the plans and we know where our subdivisions are going to be, where our new residential homes are going to be. So I think it's about making just an educated decision, you know, something that's going to work for everybody.",
+    "speaker": "lizstolwyk",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "state_opinion",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 1710.727,
+    "end": 1726.991,
+    "text": " You're just thinking the Cambridge Rugby Club, you've got that there, but you've already, those that have come in have already turned off to Norfolk Downs and up to Tulip Drive or Tulip Park or whatever it's called up there, Kings Garden or, you know, they've already missed all the sign.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "provide_information",
+      "express_concern",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1727.671,
+    "end": 1745.576,
+    "text": "Yeah, so when I, I guess I did start off with where those existing signs were, so I could go back to Julie and quickly say, can we put it further out? Because I thought it was going to be a place of replacing those  current signs or using those. Yeah.",
+    "speaker": "miff",
+    "tags": [
+      "provide_information",
+      "assign_action",
+      "confirm_next_step",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1745.716,
+    "end": 1766.843,
+    "text": "If I was you, I would just stick with your current. I know, it's taken this long to get this passed. It'll be another year before we. Just my advice, stick with what you've got. If we, yeah, just maybe bring some designs back and hopefully it won't take another month to get this approved. Perhaps we can shorten the process. Yeah.",
+    "speaker": "lizstolwyk",
+    "tags": [
+      "state_opinion",
+      "persuasion_attempt",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1768.589,
+    "end": 1788.643,
+    "text": " Yeah I think we can and we've got a couple of options here and I think we'll perhaps go for saying we approve a new sign at the locations but we're just not approving the design that we've been presented with at this point.",
+    "speaker": "suemilner",
+    "tags": [
+      "policy_proposal",
+      "evaluate_option",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 1790.144,
+    "end": 1818.962,
+    "text": "I'm just trying to read now what the options are that we've got here.  we yeah comment while you're yep i was just gonna say um if i do think it's really important for people coming into cambridge to see that we've won that award while we're waiting for further designs or the process itself could we have like a banner that we've won perhaps underneath",
+    "speaker": "suemilner",
+    "tags": [
+      "policy_proposal",
+      "prioritize_issue",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 1819.422,
+    "end": 1843.188,
+    "text": " the existing signs that when people still come in, they still see it. I think that was one of the options, but maybe not the whole full sign underneath, but more just like a little tag. It catches people's eye and... Yeah, a sticker or something that we just put across those signs. Just in the meantime, till a proper design comes with what we all... Yeah, I think that that'll take design process as well.",
+    "speaker": "jodaviescolley",
+    "tags": [
+      "policy_proposal",
+      "build_on_point",
+      "state_opinion",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 1843.288,
+    "end": 1850.906,
+    "text": "So I think  I think he has to get on to it pretty smartly and I have something through to you in a couple of days, starting next week. Yeah, that would be good.",
+    "speaker": "miff",
+    "tags": [
+      "assign_action",
+      "confirm_next_step",
+      "prioritize_issue",
+      "report_back"
+    ]
+  },
+  {
+    "start": 1852.288,
+    "end": 1906.944,
+    "text": "I think we all... Sue, can I just say something?  Yes. The signs won't be approved straight into Council. I heard Mif say, but it'll be picked up by the Cambridge Community Board, who are representing the people in Cambridge. We'll do the heavy work, for want of a better word, and go to the public with some designs. Then it will go for approval up to the Council.  The community board is a very integral part of this. And this is why we're all meeting and should meet with some designs and with our communication department. The budget from the council sits in the comms department. It always has. And Liz makes a good point of wanting some more upmarket signs. So there's some funds there that would help that case in getting a nicer looking sign that the community is pleased to accept. Yeah.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "assign_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1907.164,
+    "end": 1907.404,
+    "text": "Yeah.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 1909.579,
+    "end": 1919.078,
+    "text": " start with that. So how will we do this? I think Muff's done a great job of presenting the case too.",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "state_opinion",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 1922.68,
+    "end": 1936.703,
+    "text": " Would you like a new resolution which just approves the location and states that further work to be undertaken in the design? Is that something along those lines? Yeah, working with the communication department or something like that.",
+    "speaker": "manager",
+    "tags": [
+      "ask_question",
+      "policy_proposal",
+      "procedural_move",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1938.103,
+    "end": 1955.312,
+    "text": "Yeah, that's fine. And if we could have some indications of possible signage for our next meeting, that would be good, because I don't think we want to be sitting on this  another six months or anything, something like that. Yeah, carry on.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree",
+      "assign_action",
+      "confirm_next_step",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 1959.255,
+    "end": 2000.0,
+    "text": " So the Cambridge Community Board approves the location of the Keep New Zealand Beautiful signs at location A, Hamilton Road, and location B, Victoria Road, as set out in the presentation of McDonnell McDermott for submission to council's transportation team. So, thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you.  being undertaken on the designs. Do you want to be reported back to the board at the next meeting? Yes, please. Yeah. Yeah. Sorry, it's a bit of a mouthful. Can I just ask a question? Was there also going to be a community consultation in there as well or not?",
+    "speaker": "manager",
+    "tags": [
+      "procedural_move",
+      "summarize_outcome",
+      "confirm_next_step",
+      "ask_question",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 2000.84,
+    "end": 2002.201,
+    "text": "Just to clarify.",
+    "speaker": "suemilner",
+    "tags": [
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 2002.501,
+    "end": 2012.806,
+    "text": "Yes, there was going to be a community consultation in there as well, but it wasn't going to be a community consultation.",
+    "speaker": "manager",
+    "tags": [
+      "clarify_point",
+      "community_reference",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 2015.695,
+    "end": 2016.335,
+    "text": " not for this one.",
+    "speaker": "miff",
+    "tags": [
+      "clarify_point",
+      "disagree"
+    ]
+  },
+  {
+    "start": 2020.697,
+    "end": 2033.844,
+    "text": "They won't go up as quick as if you do that, I'm sorry. I've been sort of trying to get it done for several months now and obviously COVID-19 just threw us into a wee tizz because I was scheduled to talk earlier.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 2035.104,
+    "end": 2042.428,
+    "text": "I just think if it goes to community consultation it'll be October. No, I think this could be, I mean",
+    "speaker": "miff",
+    "tags": [
+      "state_opinion",
+      "community_reference",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 2043.687,
+    "end": 2059.834,
+    "text": " It's not a permanent sign. It's in the past and we haven't consulted the community. You know, the community hasn't been consulted. Hopefully we can do a reasonable job of having a look at it and deciding whether we think it looks a possibility.",
+    "speaker": "suemilner",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "evaluate_option",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 2060.534,
+    "end": 2076.402,
+    "text": "Excuse me, Madam Chair.  Yep. Sorry, it's one thing. Would it be possible, Mif, if when you do come back to us in a month, CAS comes back with perhaps two or three designs rather than one, so we have more flexibility to come up with something? That'd be great.",
+    "speaker": "elisebadger",
+    "tags": [
+      "ask_question",
+      "assign_action",
+      "evaluate_option"
+    ]
+  },
+  {
+    "start": 2077.222,
+    "end": 2078.523,
+    "text": "Yeah, that would be good.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 2079.903,
+    "end": 2124.403,
+    "text": "Madam Chair, this is, from my point of view, this is now leaving  what myths put in and from now on it's the board that takes over.  I don't want to be awful and rain on someone's parade, but the Cambridge Information Centre, as I know it, or Cambridge, whatever it is, is an entity that is like anybody else can come in and put a submission in. But the ultimate thing that has to happen now is the process of going to the community board, working with the council, the comms department, getting the finance and design, and then moving on to a public consultation.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "procedural_move",
+      "provide_information",
+      "clarify_point",
+      "community_reference",
+      "defer_decision"
+    ]
+  },
+  {
+    "start": 2127.526,
+    "end": 2151.74,
+    "text": " yeah is that a different thing though would that be for like the welcome signage as opposed to the award signs or signage i think alana yeah yeah so how do we want to proceed on this one then",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "procedural_move",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 2153.125,
+    "end": 2162.849,
+    "text": " Yes, when I spoke to Amber in Charlotte, they never mentioned a community consultation in and around this sign. So that's the first time I've kind of heard that.",
+    "speaker": "miff",
+    "tags": [
+      "report_back",
+      "community_reference",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 2166.07,
+    "end": 2210.111,
+    "text": "Yeah, I'm not sure that we need, if we were to have a community consultation, it can take a long time. It's about the time everybody's had a say. If we can, but  I mean, we didn't have a community consultation for the blue signs that are there currently. They just appeared. I'm just wondering if we can, there's gotta be a way where we, I mean, we have other signs that get put up and they don't go to a community consultation. I think the trick is getting one that the community will be happy with from day one, isn't it?",
+    "speaker": "suemilner",
+    "tags": [
+      "express_concern",
+      "community_reference",
+      "evaluate_option",
+      "ask_question",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 2211.323,
+    "end": 2214.425,
+    "text": " Madam Chair, how long have those YPAS signs been up?",
+    "speaker": "jimgoddin",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 2215.645,
+    "end": 2217.867,
+    "text": "They went up for the World Rowing Champs.",
+    "speaker": "suemilner",
+    "tags": [
+      "provide_information"
+    ]
+  },
+  {
+    "start": 2220.108,
+    "end": 2226.751,
+    "text": "I'd better refresh my memory. What year was that? 2010. That's why I don't remember. It was before my time.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 2233.542,
+    "end": 2235.484,
+    "text": " You were born there, Jim, I'm sure.",
+    "speaker": "lizstolwyk",
+    "tags": [
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 2236.065,
+    "end": 2248.861,
+    "text": "Everybody loved them at the time. They were on the street banners as well, and people were buying. Yeah. So you've got to have something that people want to actually hang in their homes.",
+    "speaker": "suemilner",
+    "tags": [
+      "provide_information",
+      "state_opinion",
+      "persuasion_attempt",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 2259.212,
+    "end": 2263.696,
+    "text": " Who was around at that time, Liz, Graeme, Sue? Yeah, we're really young.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 2264.317,
+    "end": 2264.677,
+    "text": "Yeah.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 2266.058,
+    "end": 2308.792,
+    "text": "Yeah, I do remember some public consultation around those signs, but it wasn't extensive, but there was some, but I'm not too sure about, Miff, I think you'd probably get away with a temporary sign. I think we need to check that with council staff, but given your award sign is essentially a temporary,  yeah i'd like to think that you could you could get it up relatively quickly yeah yeah we should be able to do something like that yeah i think that seems reasonable so joe have you got joe greed that is have you got a suggestion for how we can phrase the emotion to move this on please",
+    "speaker": "lizstolwyk",
+    "tags": [
+      "provide_information",
+      "defer_to_authority",
+      "state_opinion",
+      "agree",
+      "ask_question",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 2311.207,
+    "end": 2338.382,
+    "text": " Or did you, you were still looking at, yeah, like we said, maybe improving the location. And I mean, you could still deal with it, like in terms of the end of that previous recommendation was in terms of it just said further work being undertaken on the designs to be reported back to the board without kind of talking about the next step. So I think that that recommendation could still accommodate what you're talking about and kind of further steps in the process if need be.",
+    "speaker": "manager",
+    "tags": [
+      "clarify_point",
+      "provide_information",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 2341.832,
+    "end": 2344.215,
+    "text": " Do you want to phrase that for us, please?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "assign_action",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 2344.295,
+    "end": 2369.371,
+    "text": "So if I just read that one out again. So it's the Cambridge Community Board approves the location of the Keep New Zealand Beautiful signs at location A, Hamilton Road and location B, Victoria Road as set out in the presentation.  and further work being undertaken on the designs to be reported back to the next community board meeting. Yeah. Yeah. I think that does it nicely. So, I'm happy to move that. Do we have a seconder? Yeah. Thank you, Alana.",
+    "speaker": "manager",
+    "tags": [
+      "summarize_outcome",
+      "procedural_move",
+      "ask_question",
+      "confirm_next_step",
+      "report_back"
+    ]
+  },
+  {
+    "start": 2389.118,
+    "end": 2417.203,
+    "text": " All those in favour? Aye. Those against? No. The motion is carried. Thank you very much. And thank you very much, Myth, for all your work. It's been great. Oh, we've lost it. Right, we're here. Picture maybe? Yeah. Okay. So, yeah, we will now move forward on that one. Hopefully the next meeting we'll have something to look at.",
+    "speaker": "suemilner",
+    "tags": [
+      "call_vote",
+      "summarize_outcome",
+      "confirm_next_step",
+      "public_address",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 2417.903,
+    "end": 2419.793,
+    "text": "Yeah.  will be great.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 2420.454,
+    "end": 2428.683,
+    "text": "Now, we move to the next item on the agenda. Kirsty's going to talk about the seaport structure plan.",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 2430.184,
+    "end": 2530.345,
+    "text": "Kirsty Clark Thank you for having us here tonight. I've also got with me Justine Kennedy, who is the project manager for this piece of work. So,  I'm just going to provide a brief intro and then hand over to Justine. So, my understanding is that we're here tonight just to provide an overview and to respond to any questions that you may have in determining whether you wish to submit to the C4 structure plan.  and, if so, formulate that submission. So, just to start by outlining that this document is currently out for public feedback. We did kick off this engagement process prior to the Alert Level 3 and 4 lockdown.  the process was due to come to a conclusion and we were approached directly by one party seeking an extension. So, that did occur. And then our elected members of council provided a direction to staff that no community engagement processes would come to an end during the COVID-19 lockdown. So, the direction that we've provided and communicated out to the community is that this community engagement process will remain open  until such time as council offices reopen to the public. So, Justine, if it's OK with you, I'll hand over to you just to provide a brief summary of the status of the document and what it's seeking to achieve. And then either of us can be available to respond to questions. Thank you.",
+    "speaker": "manager",
+    "tags": [
+      "provide_information",
+      "public_address",
+      "procedural_move",
+      "assign_action",
+      "report_back",
+      "defer_to_authority",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 2531.487,
+    "end": 2650.135,
+    "text": " Sounds great. Good evening, everybody. It's nice to see all of you. My husband is very handsome, but he's the only face I've seen for quite a while now. So, C4 structure plan. This is about 66 hectares for residential development going on sort of in the  in Leamington, so just balancing out some of that CBD, making sure that stays in the middle of the town, balancing out all the development we've got going on in the northern areas of Cambridge. So as I said, it's for residential development, so we'll be getting 12 to 15 lots per hectare in there.  So Kirstie sort of talked a little bit to this that it's this is a feedback process this is not a legislative or or this is a or a statutory process so we're not as sort of in a plan change or anything like that we just want to go out and get just some feedback from the community on the draft plan.  So the draft structure plan has actually been produced based on technical reports. So we've had things like geotechnical, three waters, transportation, ecological, archaeological reports produced for the structure plan.  And it is intended to be high level. We just want to sort of show people where we sort of think the roads and houses should go. And it also just shows the intention for connectivity, allowing for walking and cycling, protecting that gully, making sure people can kind of access it. And we can really enhance that feature because it is a really, really cool space and our Parks and Reserves team are very keen to sort of keep it, maintain it and enhance it.  already touched on the fact that the feedback process is open until council is open until the council offices are open. And, yeah, we're expecting sort of five to six hundred houses in there. Greg Morgan Fantastic.",
+    "speaker": "justinekennedy",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "community_reference",
+      "prioritize_issue",
+      "public_address"
+    ]
+  },
+  {
+    "start": 2654.622,
+    "end": 2706.836,
+    "text": " like the idea, you know, that you're hoping to keep gullies and things, the exciting places. That's an awful lot of houses. I just wondered about what are we going to do about play areas for the kids? Because over here in Cambridge North, we've got a lot of houses and they seem to be very large houses on quite small sections. But where are the playgrounds within walking distance  And that's my concern, that we're doing great big subdivisions, but there's nowhere where the kids can go along and perhaps have a game of cricket or something like that. It's within walking distance of their home. Are we going to do something like that, or is it going to be two playgrounds, maybe one at each end of the subdivision?",
+    "speaker": "suemilner",
+    "tags": [
+      "express_concern",
+      "ask_question",
+      "prioritize_issue",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 2708.154,
+    "end": 2761.916,
+    "text": " Yeah, so in terms of the parks or open space provision that we've got in that draft structure plan, you're right, there's sort of a pocket sort of to the northern end and another one to the south. It's quite a compact growth cell. So, you know, I'm fairly confident that those houses, you know, the residents of those houses nearby would find it easy to access those open space areas without even having to go on the road. They could, you know, take the path that we've got shown along the edge of the gully.  to access those open space areas as we have them shown. We've also got walking and cycling connection through to the south down to the greenbelt and also to the north to be able to sort of head into town and also access the bottom sort of northern end of that gully where there's that flat and there's a lake and everything there so the idea is that that would be enhanced as well for public use certainly.",
+    "speaker": "justinekennedy",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 2762.556,
+    "end": 2784.134,
+    "text": "Yeah I just think it's important I mean personally I think you know that  every house should be, say, 300 to 400 metres max away from a play area. I know that can be a bit hard to achieve, but I think in terms of health for children and for big people too, it's pretty important. So- Greg Morgan Madam Chair, just up on the southern end.",
+    "speaker": "suemilner",
+    "tags": [
+      "state_opinion",
+      "prioritize_issue",
+      "express_concern",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2784.194,
+    "end": 2795.917,
+    "text": "Sorry, Kirsty. Kirsty Clark Madam Chair, we have- so Justine talked about the technical reports that have informed the structure plan, but as part of obtaining those technical reports, we have also",
+    "speaker": "grahamewebb",
+    "tags": [
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 2796.438,
+    "end": 2840.865,
+    "text": " brought into the team to work with us staff from across the organisation in the relevant activity areas. So, we have had staff from transportation, our community services area, property and the like. And certainly the community services staff through Parks and Reserves have inputted  into providing feedback as to what is desirable for those open space areas and ensuring that there is alignment, if you like, with the work that they're doing and developing an open space network plan. So Anna McElray is the person as the senior reserves planner within the community services team who has had significant input into this plan. Thank you.",
+    "speaker": "manager",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "report_back"
+    ]
+  },
+  {
+    "start": 2841.892,
+    "end": 2858.924,
+    "text": " Susan, Graeme here. Just in the southern end, of course, it goes straight on to the Greenbelt. And then right across the road, you have the BMX track and most of the recreational area there. So in terms of being close by to those amenities, it's absolutely fantastic.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "provide_information",
+      "state_opinion",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 2859.665,
+    "end": 2862.266,
+    "text": "Yeah, but I'm thinking of the wee ones too, Graeme.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree",
+      "express_concern",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 2863.087,
+    "end": 2863.767,
+    "text": "Oh, absolutely.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 2864.468,
+    "end": 2868.07,
+    "text": "That end is a bit short on, you know, swings and seesaws.",
+    "speaker": "suemilner",
+    "tags": [
+      "provide_information",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 2869.071,
+    "end": 2869.872,
+    "text": "We'll put a few in there.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 2876.68,
+    "end": 2879.341,
+    "text": " Anybody else got any comments? Through you, Madam Chair.",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "defer_to_authority",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2880.081,
+    "end": 2931.127,
+    "text": "Yes. Hi, Justine, thank you. Hey, I totally second what Sue said. I think we need to be really proactive with creating significant outdoor space for kids and community to connect rather than just perhaps token small areas. I think that massively enhances community well-being. The other thing, and I haven't walked through that gully, but I just wondered if there were ways  that we could be a bit more creative or more creative with our cycling tracks to sort of plug people into other parts of Leamington and into Cambridge even faster than traveling along the traditional arterial routes that the cars are driving on? And again, I don't know what the gully looks like. I haven't walked through it, so maybe that's not practical, but are there opportunities to actually send a bike path through the gully to connect into Browning Street or something along those lines?",
+    "speaker": "elisebadger",
+    "tags": [
+      "agree",
+      "policy_proposal",
+      "ask_question",
+      "build_on_point",
+      "prioritize_issue",
+      "community_reference",
+      "evaluate_option"
+    ]
+  },
+  {
+    "start": 2932.423,
+    "end": 3007.922,
+    "text": " Yeah, so what we've shown here is a sort of shared walk and cycle path that would run along the top edge of the gully. Now, the reason for that is because the sides of the gully are actually really quite steep and heavily vegetated. So we actually wanted to retain some of that vegetation, especially at sort of the southeastern end of that gully when we had that ecological  survey done they said look it's actually in pretty good condition at that top end so certainly the ecological advice is really just to sort of leave it alone so that's why we've put that shared walk and cycle path at the top. That also ties in quite nicely with a stormwater solution that's been proposed as part of the three waters technical report that we've received and that talks about sort of a swale system  that would run sort of alongside that as well. It would basically just be like a grassy depth. You wouldn't necessarily have water in there sitting or anything like that. And so that would run along that path as well. And it also means that you have your building and fence setbacks that are required by geotechnical, or sorry, that is in line with geotechnical advice that we've received with regard to the stability of that slope. So it's just trying to tie it all in together and best use that space.",
+    "speaker": "justinekennedy",
+    "tags": [
+      "provide_information",
+      "cite_reference",
+      "clarify_point",
+      "prioritize_issue",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 3008.583,
+    "end": 3016.688,
+    "text": " Okay, so it seems it's not super practical or achievable to perhaps have a path that cuts through the gully into Leamington.",
+    "speaker": "elisebadger",
+    "tags": [
+      "evaluate_option",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 3017.189,
+    "end": 3033.019,
+    "text": "Correct, yes. That's why we've tried to sort of link it through into the green bout at the southern end and then also just popping out sort of in front of the lake at the northern end and then joining up with the shared path that currently comes down from",
+    "speaker": "justinekennedy",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 3035.89,
+    "end": 3039.454,
+    "text": " What's it called? Rolling Ave. Rolling Ave.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "clarify_point",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 3040.856,
+    "end": 3041.116,
+    "text": "Yeah.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 3041.817,
+    "end": 3059.628,
+    "text": "Sure. OK, cool. Yeah, I was considering just more connecting people quickly into other parts versus perhaps anything else. But if it can't be done, it can't be done.  Madam Chair, well, I lived on Lamb Street and backed onto the gully for 23 years.",
+    "speaker": "elisebadger",
+    "tags": []
+  },
+  {
+    "start": 3060.849,
+    "end": 3080.361,
+    "text": "If you walk down Rolling Ave, there's a walkway right across the swamp there that comes out in Shelley Street, and all the kids walk or cycle across there. It's on piles and flotation drums. It's quite substantial, cost a quarter of a million bucks.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "provide_information",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 3083.451,
+    "end": 3086.554,
+    "text": " Yeah, it's a very nice little walk actually.",
+    "speaker": "suemilner",
+    "tags": [
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 3087.054,
+    "end": 3087.355,
+    "text": "Yeah.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 3088.476,
+    "end": 3089.637,
+    "text": "Madam Chair, I just have one question.",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 3090.378,
+    "end": 3090.698,
+    "text": "Yeah.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 3091.759,
+    "end": 3100.808,
+    "text": "Is there any difference, I see in the key eight is Gully Edge Reserve, is there any difference in status between the Gully Edge Reserve and the gully itself?",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 3104.9,
+    "end": 3130.639,
+    "text": " I am assuming that the differentiation would have been made so that the gully edge reserve can be used for a shared path and that swale, whereas the gully itself, we actually want to replant, protect, restore, you know, the amenity value of it rather than actually use it for transport, which is what the gully edge reserve would function. Part of its function would be for moving people sort of on that shared walk and cycle way.",
+    "speaker": "justinekennedy",
+    "tags": [
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 3132.777,
+    "end": 3134.137,
+    "text": " Thank you. That's what I was after.",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "agree",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 3136.178,
+    "end": 3140.659,
+    "text": "Oh, anybody else got any comments on the post plan?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 3141.719,
+    "end": 3155.903,
+    "text": "Can I just, sorry, Madam Chair. Just those roads that are going to be in there, they're not going to be real narrow, little wee skinny things that someone's got to park on one side of the road and breathe in while the other car passes on the other side, are they?",
+    "speaker": "jimgoddin",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 3157.075,
+    "end": 3176.843,
+    "text": " So they'll be compliant with the appropriate sort of level of road hierarchy that they're determined to be. And that's based on your traffic volumes that we expect to have through there, which is directly linked to your number of houses. So yeah, certainly don't want to have tiny little roads that could potentially be hazardous.",
+    "speaker": "justinekennedy",
+    "tags": [
+      "provide_information",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 3177.583,
+    "end": 3189.206,
+    "text": "Yeah, some of us work in the emergency services and drive vehicles that have flashing lights on top. And I'll tell you, it's very tight.  when there's a car parked on either side of the road, even in some of the standard streets in Cambridge.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "provide_information",
+      "express_concern",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 3189.966,
+    "end": 3190.266,
+    "text": "Yeah.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 3193.607,
+    "end": 3196.248,
+    "text": "I have been known to go on the footpath and then come back down again.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 3199.389,
+    "end": 3200.969,
+    "text": "Right, any more comments?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3202.75,
+    "end": 3226.923,
+    "text": "Madam Chair, yes, I think the roundabout sitting on Kaipake Road intersection is a really good idea, especially to bring Lamb Street across onto the Silverwood and then into the intersection.  It's quite a complex one just now. To add another entry is definitely not a good option. So to bring it back still to forward is just a really good move. Okay.",
+    "speaker": "andreewilten",
+    "tags": [
+      "state_opinion",
+      "evaluate_option",
+      "build_on_point",
+      "agree"
+    ]
+  },
+  {
+    "start": 3228.284,
+    "end": 3254.773,
+    "text": "Okay, well, should we move on? I'd like to move that the information contained in Appendix 1 of this report, proposed C4 structure plan consultation document, be received for further consideration in the Cambridge Community Board meeting.  We probably have to, it's a night here. Could we, I think we've virtually discussed it, haven't we?",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "defer_decision",
+      "community_reference",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 3256.154,
+    "end": 3265.282,
+    "text": "Absolutely, happy to see you, Madam Chair. Would you like to put in a submission or you're happy with it as it is or?",
+    "speaker": "grahamewebb",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 3266.583,
+    "end": 3268.345,
+    "text": "Submission and support.",
+    "speaker": "manager",
+    "tags": [
+      "procedural_move",
+      "agree"
+    ]
+  },
+  {
+    "start": 3268.825,
+    "end": 3271.868,
+    "text": "Does anybody want to work on a submission for this one?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 3276.409,
+    "end": 3303.324,
+    "text": " is it necessary i don't know i've done a good job i think we've expressed our views um yeah i think it's yeah let's see how we go well done background yes absolutely yeah okay so i've moved that could we have a seconder i've seconded it you second it all those in favor all right okay we now move to um",
+    "speaker": "jimgoddin",
+    "tags": [
+      "state_opinion",
+      "procedural_move",
+      "call_vote",
+      "summarize_outcome",
+      "agree"
+    ]
+  },
+  {
+    "start": 3304.345,
+    "end": 3307.707,
+    "text": " the request for new road names, which is page 39.",
+    "speaker": "suemilner",
+    "tags": [
+      "cite_reference",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 3329.976,
+    "end": 3336.499,
+    "text": " I have another meeting as well, so I'll disappear as well. Thanks, everybody. Thanks for dropping in, Liz. Liz, bye.",
+    "speaker": "lizstolwyk",
+    "tags": [
+      "procedural_move",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 3338.62,
+    "end": 3364.014,
+    "text": "Right, okay. The road naming policy, page 39 of the agenda, it's request for new road names for the Pukakura Park stage three. You should all have read this one. It should be,  So there's an information thing about it. I'm happy to move it. Do we have a seconder?",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "cite_reference",
+      "provide_information",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 3364.835,
+    "end": 3365.075,
+    "text": "Yeah.",
+    "speaker": "garyknighton",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 3366.336,
+    "end": 3382.867,
+    "text": "Thank you, Alana. All those in favour? Aye. Thank you. Right. The next one is the Treasury report. Anyone to talk on that one?",
+    "speaker": "suemilner",
+    "tags": [
+      "call_vote",
+      "procedural_move",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 3401.072,
+    "end": 3449.388,
+    "text": " Madam Chair, I've had a reasonable look at this. The only thing that I'm not concerned, the only thing that there's a hell of a lot happened in terms of some of your funding, because, you know, our sister city visits not taking place. You know, the students from the Cambridge High haven't gone to Lurkie Noire.  You know, and a lot of these things haven't happened. Armistice, we've decided that we're going to do something different. So it frees up some of the allocated money, but just what, in the dollar terms, the bits and pieces add up to, to make a resolution, I couldn't quite, I couldn't quite grasp it. Sorry. I understand.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "ask_question",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 3449.688,
+    "end": 3454.049,
+    "text": "Me too. Yeah. You know, it's,",
+    "speaker": "suemilner",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 3457.373,
+    "end": 3490.229,
+    "text": " I'm just wondering, Madam Chair, Kieran, I'm just wondering when we come out of this bit of a lockdown, whether the board should just one afternoon get together. We might not even need the board, just maybe the chair, the deputy chair, and go through some of the resolutions and get a handle on just what we don't require and what's left over. That would make some sense at the next board meeting to put a resolution together to repatriate those funds back into the  into the general pot, so to speak.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "evaluate_option",
+      "policy_proposal",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 3491.409,
+    "end": 3499.811,
+    "text": "Look, if anyone wants to, you're welcome to host the meeting in my lounge, and I'm sure we can find a bottle of wine.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "procedural_move",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 3501.731,
+    "end": 3506.372,
+    "text": "Graeme, yes, we can certainly accommodate and work through that in the next meeting.",
+    "speaker": "manager",
+    "tags": [
+      "agree",
+      "confirm_next_step",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 3507.273,
+    "end": 3509.933,
+    "text": "I think that's a good way to do it, yes.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 3511.494,
+    "end": 3529.608,
+    "text": "Sorry, I'm maybe talking above people. Can you see what's happened in the last month that's really changed  what we've done with, you know, it's affected our budget big time. Not in a detrimental way, but some of the things need shifting back to where we can use the money for other purposes or reallocate. Yeah. Yeah.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 3529.808,
+    "end": 3533.951,
+    "text": "Yeah. Rather than sit there and say, no, we can't use that because we've got to save it for something. Yeah.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree",
+      "evaluate_option"
+    ]
+  },
+  {
+    "start": 3534.031,
+    "end": 3535.071,
+    "text": "Yeah. Yeah. Yeah.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 3535.832,
+    "end": 3555.097,
+    "text": "I'd rather we just, yeah, I think we will. So maybe we say we have received the report and we will  We will have a special meeting to discuss this. How does that sound, Jo?",
+    "speaker": "suemilner",
+    "tags": [
+      "state_opinion",
+      "procedural_move",
+      "confirm_next_step",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 3557.259,
+    "end": 3561.223,
+    "text": "Do we need a special meeting? Not a special meeting, no.",
+    "speaker": "garyknighton",
+    "tags": [
+      "ask_question",
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 3561.263,
+    "end": 3563.785,
+    "text": "I don't think a special meeting. No, we don't do.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "disagree",
+      "state_opinion",
+      "clarify_point",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3563.805,
+    "end": 3582.812,
+    "text": "What we could do is, effectively, if you just receive the information at this meeting, effectively, we can set up  prior to the next meeting, like a working group, so a smaller group just to kind of go through some of those budget lines and put forward a proposal to come back to the next board meeting about shifting those funds.",
+    "speaker": "manager",
+    "tags": [
+      "procedural_move",
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 3588.195,
+    "end": 3592.579,
+    "text": " And Madam Chair, to be fair, there's not actually a hell of a lot happening at the moment.",
+    "speaker": "suemilner",
+    "tags": [
+      "state_opinion",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 3592.599,
+    "end": 3601.946,
+    "text": "So I think by taking a month to do that, bring it back to the next board, you certainly won't be missing out on anything. That's all I think. No, I think you're right.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "agree",
+      "reassure_stakeholders",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 3601.966,
+    "end": 3603.808,
+    "text": "OK. Jo, thanks for that.",
+    "speaker": "suemilner",
+    "tags": []
+  },
+  {
+    "start": 3604.248,
+    "end": 3604.909,
+    "text": "We'll set that up.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 3605.749,
+    "end": 3611.254,
+    "text": "OK. Does somebody wish to move that we receive the information on the Treasury report?",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 3612.375,
+    "end": 3612.935,
+    "text": "I'll move that.",
+    "speaker": "jodaviescolley",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3614.156,
+    "end": 3621.189,
+    "text": "OK, thanks Jo. Who's seconding it? Jim?  Oh, Mike, who was seconding it?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3622.31,
+    "end": 3623.531,
+    "text": "No, it was you.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "disagree"
+    ]
+  },
+  {
+    "start": 3623.611,
+    "end": 3647.269,
+    "text": "OK. All those in favour? Aye. Right. Now we move to the standing order amendment. And this is all about how long we, you know, the size of the gap before we get a cup of coffee.",
+    "speaker": "suemilner",
+    "tags": [
+      "call_vote",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3648.891,
+    "end": 3711.529,
+    "text": " It is indeed. You know, you could always at any time pass a recommendation to Maduren if you need to, but this was just something that we as recently passed through the council standing orders. It was just when we looked at it and the change that we'd made to drop the breakdown from the three hour mark to the two hour mark, we thought it might be a bit more practical to actually go back to the  back to three hours before we had a break, because, you know, often sometimes meetings can finish at the two, two and a half hour mark. So it was just some thoughts around that, that maybe we might be better to revert to the position that we had previously. Just to point out that if we  if you do want to make that amendment, that it requires approval of 75 percent of the members present. OK, any discussion?",
+    "speaker": "manager",
+    "tags": [
+      "provide_information",
+      "procedural_move",
+      "clarify_point",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 3713.19,
+    "end": 3717.993,
+    "text": "Damn good incentive to get over the meeting a lot earlier, isn't it?",
+    "speaker": "grahamewebb",
+    "tags": [
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 3718.113,
+    "end": 3721.736,
+    "text": "I'm happy with what's suggested. OK, how's it?",
+    "speaker": "suemilner",
+    "tags": [
+      "agree",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 3722.485,
+    "end": 3725.906,
+    "text": " I pointed this out last time and felt ripped off we didn't get our coffee break.",
+    "speaker": "suemilner",
+    "tags": [
+      "express_concern",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 3726.887,
+    "end": 3727.787,
+    "text": "No, we're never going to.",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "disagree"
+    ]
+  },
+  {
+    "start": 3728.547,
+    "end": 3742.472,
+    "text": "Yeah, I mean, you know, there's nothing there about there will be, you know, a service, you know, an on-demand coffee service. You know, I thought that should have been there somewhere, you know, to keep us going.",
+    "speaker": "suemilner",
+    "tags": [
+      "express_concern",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 3743.032,
+    "end": 3747.796,
+    "text": "Is anybody old enough to remember thermos flasks?  Yes, I've got one.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "ask_question",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 3747.816,
+    "end": 3748.376,
+    "text": "Do you want one?",
+    "speaker": "jimgoddin",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 3749.016,
+    "end": 3773.382,
+    "text": "I've got a beautiful one. You probably keep your red wine in it. OK, so shall we? So how do we want to go on with the standing order amendment? Somebody would like to move this one?",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 3773.802,
+    "end": 3775.903,
+    "text": "Yeah, I'm happy to move it.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "agree",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3778.595,
+    "end": 3779.015,
+    "text": " OK.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 3779.695,
+    "end": 3780.596,
+    "text": "All those in favour?",
+    "speaker": "suemilner",
+    "tags": [
+      "call_vote"
+    ]
+  },
+  {
+    "start": 3782.216,
+    "end": 3782.997,
+    "text": "Aye.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 3784.737,
+    "end": 3831.418,
+    "text": "Those against? Right. Great. Thank you. That brings us to my report. There were just two things really I noticed was the roughly state of the footpaths and  I noticed today when I walked downtown, they're still grubby and the places haven't been used this week, only for a very short period, and I'm not quite sure what we do about this. Somebody suggested we should be asking if the streets are being steam cleaned. Does anybody know if the steam cleaning does happen on the streets?",
+    "speaker": "suemilner",
+    "tags": [
+      "provide_information",
+      "ask_question",
+      "report_back",
+      "express_concern",
+      "prioritize_issue",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 3832.039,
+    "end": 3877.238,
+    "text": "Yes. When? That's the problem.  they have to do it twice a year. And it's not specific enough. And I've asked for some when we approved in the council the extension of the contract because we couldn't go for a contract publicly because of the COVID-19.  then I ask for some input from myself or the board in terms of getting that specifically down. So that does get that at particular times of the year. Yeah, yeah. But where, and I'm the same as you, I walk every morning, Sue, but where there's high traffic, especially in some of the cafes, it's really black and gungy. You can see a lantern on. Yeah.",
+    "speaker": "grahamewebb",
+    "tags": []
+  },
+  {
+    "start": 3878.598,
+    "end": 3895.1,
+    "text": "Yeah. I mean, two of them are particularly bad at the moment, and I think it's not a good look.  Do we ask the same cleaning to be more often or do we? How do we get around this one?",
+    "speaker": "suemilner",
+    "tags": [
+      "express_concern",
+      "ask_question",
+      "evaluate_option",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 3895.86,
+    "end": 3905.386,
+    "text": "Can I just see clarification? Is the steam cleaning done twice a year by council or by the people who have the license to put the chairs and stuff out?",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 3907.227,
+    "end": 3912.971,
+    "text": "It's the contractor that's in charge of the CBD. It's part of their contract. Right. Thanks.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "agree"
+    ]
+  },
+  {
+    "start": 3915.913,
+    "end": 3969.584,
+    "text": "Yeah.  so whether we ask for a special clean now or we just I'm not sure how we do it I mean I would actually like to see some of the owners of these establishments taking a little more care because yeah I think there are some that are worse than others and I think you get some places  you know they're quite busy but yes they're quite clean outside so you think well maybe they're actually doing a bit of yeah well at Rouge between us and the landlords we kept everything out the front nice and tidy we never had any black marks like some of them do yeah so maybe it is worth having a word to those that are putting their furniture out on the footpaths and and using those kind of spaces about keeping things a bit tidier",
+    "speaker": "suemilner",
+    "tags": [
+      "policy_proposal",
+      "express_concern",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 3971.98,
+    "end": 3998.148,
+    "text": " because you don't really want to be adding more cost to the community in terms of trying to keep those spaces clean yeah and what they're paying for the tables to be out there isn't particularly huge so well maybe um alana i'm just thinking of who you who you're particularly talking about and tell him that he might have to clean something is like",
+    "speaker": "suemilner",
+    "tags": [
+      "express_concern",
+      "community_reference",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 4000.115,
+    "end": 4001.496,
+    "text": " a red rag in front of a bull.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "express_concern",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 4003.476,
+    "end": 4007.017,
+    "text": "And there's another one further down that's just as bad.",
+    "speaker": "suemilner",
+    "tags": [
+      "express_concern",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 4007.357,
+    "end": 4028.771,
+    "text": "Yes, I know, but there's just one that's particular that springs to mind. Is it not something that we could talk to the council, look at the council, ask the council to say, OK, as of 1 July, the prices are going up and include a steam clean once a month or something. I don't know how much a steam clean costs,  just outside those caps.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "policy_proposal",
+      "defer_to_authority",
+      "ask_question",
+      "persuasion_attempt"
+    ]
+  },
+  {
+    "start": 4035.305,
+    "end": 4075.563,
+    "text": " While it's nice that Alana did that on her own bad, then the people that rent, at least the cafes or whatever, they're not obliged because within their rates, we are, i.e. the council, are cleaning it and doing a steam clean twice a year. What we don't know is when it took place or whether it did take place, but I suggest that we ask service delivery, like Dawn Ingalls,  to find out and asked if it can be done, even if it's a targeted clean, because a lot of the street is fantastic, but there just are some spots.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "assign_action",
+      "report_back",
+      "prioritize_issue",
+      "express_concern",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 4076.964,
+    "end": 4097.58,
+    "text": "Okay. So maybe we'll do that. It's not a good look at the moment. I had somebody down there quite often with tourists and things, and he says it's not good. So maybe we'll do that.  just ask Dawn.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree",
+      "assign_action",
+      "express_concern",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 4099.921,
+    "end": 4102.682,
+    "text": "I'm happy to do that if everybody wants.",
+    "speaker": "suemilner",
+    "tags": [
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4102.722,
+    "end": 4102.922,
+    "text": "Yes.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 4103.462,
+    "end": 4108.003,
+    "text": "Yeah. Well, if you're seeing Dawn, that would be great. I'm going through my agenda in a couple of days.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4108.103,
+    "end": 4109.124,
+    "text": "So, yeah.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 4109.304,
+    "end": 4111.704,
+    "text": "If you could have a word, that would be much appreciated.",
+    "speaker": "suemilner",
+    "tags": [
+      "assign_action"
+    ]
+  },
+  {
+    "start": 4112.084,
+    "end": 4124.568,
+    "text": "Yeah. And I'll come back. I'll get a definitive line from her about the steam cleaning and whether it's been done and what frequency it is being done under the contract terms.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "assign_action",
+      "report_back",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 4125.088,
+    "end": 4125.248,
+    "text": "Yeah.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 4127.794,
+    "end": 4168.791,
+    "text": " Yeah, that'd be great. Thanks very much, Graham. And the other thing I had noted was the phone box, which will, under level two, we may be able to use again, but it does need some work. And I just wondered if anybody had a suggestion. Well, there's a couple of bits that need, you know, nailing back properly.  a bolt holding the, one of the bolts holding it into the ground is loose. It just needs a little bit of love. And probably another little touch of paint. TLC. TLC.",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "provide_information",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 4170.692,
+    "end": 4174.175,
+    "text": "I could probably sort of organize the paint and the painter.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "assign_action"
+    ]
+  },
+  {
+    "start": 4174.856,
+    "end": 4245.546,
+    "text": "And the other thing I want, if possible, and I thought I might ask Bill Wilson or even Wacrose actually, who built this originally, to,  turned the door around so that it opens outwards rather than inwards, which is a pain in the butt at the moment. It is terrible. It is, yeah. It's really hard to get in there. They sent it away to be done up. The people who were doing that, doing up Empire Street, sent it to some other contractor. They didn't send it back to Whack Pros who built it in the first place. So I think we need to  So it might, we might need to make some inquiries there, so see what we can do. So if anyone's got suggestions, or knows people who would like to do it, we could always do the painting ourselves if need be. The community board has been known to paint before. You're going to do something for us, Jim. You'll find out. I'm happy to paint and supply the paint and painter,",
+    "speaker": "suemilner",
+    "tags": [
+      "assign_action",
+      "ask_question",
+      "express_concern",
+      "community_reference",
+      "evaluate_option",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 4246.415,
+    "end": 4274.655,
+    "text": " yeah if once it's all fixed okay i can i can sort that you think you can sort that that would be brilliant and come back to us for the cost because i think there might be a bit of a cost there well i don't know about the builder side of it does someone else have a builder that could go and do the door well i i might talk to bill wilson about the door or i might talk to wet crows in fact i think if i talk to wet crows they might do it",
+    "speaker": "suemilner",
+    "tags": [
+      "assign_action",
+      "ask_question",
+      "provide_information",
+      "express_concern",
+      "confirm_next_step",
+      "report_back"
+    ]
+  },
+  {
+    "start": 4276.0,
+    "end": 4292.346,
+    "text": " So if they can't do it for anything and you're going to get Bill Wilson to look at it, I'm very, very certain that we would have a few hundred dollars to, you know, to pay. I think you get a better job and a kind of a guarantee if you pay someone to do it professionally. Yeah, I think so too.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "state_opinion",
+      "evaluate_option",
+      "provide_information",
+      "defer_to_authority",
+      "agree"
+    ]
+  },
+  {
+    "start": 4292.707,
+    "end": 4294.627,
+    "text": "Yeah. Yeah.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 4295.288,
+    "end": 4303.751,
+    "text": "Yeah. Because they built it in the first place, so they might like to do it again.",
+    "speaker": "suemilner",
+    "tags": [
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 4304.502,
+    "end": 4309.505,
+    "text": " And the other thing, Sue, is I'm not sure whether it's part of the property portfolio.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 4310.085,
+    "end": 4310.365,
+    "text": "Not?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 4311.106,
+    "end": 4316.829,
+    "text": "Okay. I might just try and find out just where it's sitting. Yeah.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4317.029,
+    "end": 4317.269,
+    "text": "Yeah.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 4317.489,
+    "end": 4321.952,
+    "text": "Yeah. Because I tried asking and someone said no, it's not.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "report_back",
+      "disagree"
+    ]
+  },
+  {
+    "start": 4323.332,
+    "end": 4325.033,
+    "text": "No. Does Gary know?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 4325.073,
+    "end": 4350.805,
+    "text": "Yeah, I think we did ask that question  I just can't recall the conversation. It wasn't a transport asset, but it might have come under the community facilities. But I think the outcome was, well, if you're prepared to do the work, then go for it.",
+    "speaker": "garyknighton",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "summarize_outcome",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 4352.806,
+    "end": 4354.887,
+    "text": "We're not going to get our hands smacked for doing it.",
+    "speaker": "suemilner",
+    "tags": [
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 4356.383,
+    "end": 4359.784,
+    "text": " Gary, we were going to anyhow, mate. Yeah, exactly.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "agree",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4360.584,
+    "end": 4363.305,
+    "text": "Easier to ask for forgiveness than permission.",
+    "speaker": "garyknighton",
+    "tags": [
+      "state_opinion",
+      "persuasion_attempt"
+    ]
+  },
+  {
+    "start": 4363.906,
+    "end": 4381.532,
+    "text": "Yeah, yeah. OK, I'll talk to Whack Crows about that and see what they can do. And yeah, I'll get back to the board the next meeting. OK?",
+    "speaker": "suemilner",
+    "tags": [
+      "assign_action",
+      "confirm_next_step",
+      "report_back"
+    ]
+  },
+  {
+    "start": 4382.632,
+    "end": 4384.853,
+    "text": "I'm happy to move the receipt of your report, Madam Chair.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4385.89,
+    "end": 4399.232,
+    "text": " Okay, seconder? No seconders. I second. Thank you, Elise. All those in favour?",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "call_vote"
+    ]
+  },
+  {
+    "start": 4400.152,
+    "end": 4400.633,
+    "text": "Aye.",
+    "speaker": "garyknighton",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 4401.033,
+    "end": 4408.274,
+    "text": "Aye. And I think that concludes tonight's meeting. Jim, Jim, late item.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree",
+      "close_discussion",
+      "assign_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4409.034,
+    "end": 4409.594,
+    "text": "Late item.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4411.834,
+    "end": 4490.167,
+    "text": "Just the two things I brought up to start. Sorry.  The leaves around the streets\u2014I know one old\u2014oh, well, she'd probably kill me if she said old, but she is old in my eyes. It was walking, and the leaves are so badly built up in Thomas Place and Moore Street that she kept walking and didn't realise the kerb was quite where it was, and it had a soft landing because the leaves are so badly built up on the intersection of Moore Street and Thomas Place.  She had a soft landing onto the road, mercifully, because it's just one big\u2014it's just covered. The leaves up the street are just covered, absolutely. And it rained there the other night, and, of course, it was flooding right back to the fences, the drains block. Now, I rung the council twice, and they said, well, you've already rung once. And I said, yeah, I know, but it's over 24 hours ago and nothing's happened.  and I drove there tonight and it still hasn't happened. The streets aren't being swept. Does anyone know when they are going to be swept? I saw the street sweeper today on Alpha Street, but I imagine they've got quite a demand.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "report_back",
+      "provide_information",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 4490.227,
+    "end": 4491.867,
+    "text": "I've seen them in town a couple of times.",
+    "speaker": "suemilner",
+    "tags": [
+      "provide_information"
+    ]
+  },
+  {
+    "start": 4493.228,
+    "end": 4495.208,
+    "text": "Yeah, I saw it today.",
+    "speaker": "suemilner",
+    "tags": [
+      "provide_information"
+    ]
+  },
+  {
+    "start": 4496.269,
+    "end": 4497.989,
+    "text": "They started at five o'clock this morning.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "provide_information"
+    ]
+  },
+  {
+    "start": 4501.45,
+    "end": 4520.395,
+    "text": "We had issues at work and I rang them about work and they  a couple of phone calls and eventually came because I really did my nana when I had to get out there in a suit and take the grate out and empty the drain myself. Looked real good. Town's been done, but it's just the streets and the subdivisions.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "report_back",
+      "provide_information",
+      "express_concern",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 4521.296,
+    "end": 4528.118,
+    "text": "Oh, parts of the town aren't being done. Yeah. I'm not sure how we're going to get around this one at the moment.",
+    "speaker": "suemilner",
+    "tags": [
+      "express_concern",
+      "provide_information",
+      "defer_decision"
+    ]
+  },
+  {
+    "start": 4529.859,
+    "end": 4553.076,
+    "text": " As I say, they started at five this morning and Jenny and I went walking at quarter to seven and there was seven men up the street with motorised blowers going for it. Okay. And then this afternoon we went riding out towards, up Victoria Road and in through new subdivisions and there was the same guys doing the catch pits.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "report_back",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 4554.137,
+    "end": 4598.544,
+    "text": "Okay, so is it a case of the fact that under  level four they just weren't able to get out and do it they hadn't been here for a month because of the of the lockdown yeah and so maybe we just have to hope that gradually it will yeah yeah i'd like to think so yeah because otherwise there will be enough more yeah yeah but when i saw all the guys blowing today i thought well they're really hooking into it so i was quite pleased with the progress okay okay  We'll just keep a BDI and if we ever feel next week that things have not improved, we maybe have to get back to somebody and say, what are you doing?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "state_opinion",
+      "confirm_next_step",
+      "assign_action",
+      "defer_decision"
+    ]
+  },
+  {
+    "start": 4599.986,
+    "end": 4607.213,
+    "text": "We can always ask for an update from Brian Hudson or something to report back to the board members. Yeah, that would be great.",
+    "speaker": "manager",
+    "tags": [
+      "assign_action",
+      "report_back",
+      "confirm_next_step",
+      "agree"
+    ]
+  },
+  {
+    "start": 4607.333,
+    "end": 4609.275,
+    "text": "Thanks. Joe, I just thought I'd given you one.",
+    "speaker": "suemilner",
+    "tags": [
+      "clarify_point",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 4613.078,
+    "end": 4623.1,
+    "text": " I mean, I did from Lurkenwa up to the Suda House at half past nine the other night, because I could see what was going to happen with the flooding. And thank God I did. We had 111 millimetres.",
+    "speaker": "grahamewebb",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 4623.12,
+    "end": 4628.661,
+    "text": "Yeah, I'll see if he's got any information on the forward plan for the coming weeks.",
+    "speaker": "suemilner",
+    "tags": [
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4628.701,
+    "end": 4631.121,
+    "text": "So we've had an update on today.",
+    "speaker": "manager",
+    "tags": [
+      "report_back",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 4632.441,
+    "end": 4755.305,
+    "text": "That would be great, thank you. Thanks, Joe. OK, Roto. Also, the cemetery staff. Yes.  We had a wee incident today where I put my foot down and just told him that he had to have a bit of compassion. The rules are that we can have 10 people at a cemetery plus staff, plus a minister. Now, there is no limits on how many staff we can have there. We had 10 people, we had a minister, and we had four staff there because we were live streaming it for the other 50 or 60-odd that weren't able to be there.  And the sexton came across and threatened to shut me down. I said, just bring it on. That's not happening. And he said, yeah, it is. Anyway, I told him that if he wished, he could go and ask the deceased sister which nephew or niece he hated the most and get them to leave the cemetery. It's been really tough and quite  hard on families. They made the family feel very unwelcome, which was rather an embarrassment. I happened to be sitting on as a funeral director on the council's NZCCC, and we all agreed that, yes, we are  trying to stick to 10 as much as possible, but you have to show compassion when there's 11 or when there's nine, you know, you've just got to... You can't tell some grandchild that, well, I'm sorry, you're the 11th grandchild, you're the ugly one, you need to stay home. So just bringing it to the attention of everyone, because it's not really appropriate that these guys throw a Hollywood in front of families saying that there's 11 or 12 people here.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "express_concern",
+      "provide_information",
+      "community_reference",
+      "prioritize_issue",
+      "state_opinion",
+      "report_back"
+    ]
+  },
+  {
+    "start": 4758.319,
+    "end": 4760.942,
+    "text": " and that we'll be closing this funeral down.",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 4762.824,
+    "end": 4767.748,
+    "text": "So I'm trying to get hold of Sally to speak to her about it.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "assign_action",
+      "report_back"
+    ]
+  },
+  {
+    "start": 4768.769,
+    "end": 4775.856,
+    "text": "Yeah. It's very difficult, isn't it?",
+    "speaker": "suemilner",
+    "tags": [
+      "agree",
+      "express_concern",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 4775.916,
+    "end": 4797.194,
+    "text": "It is a very difficult time, I realise that, and yeah, not for a minute trying to  the fact that it's very awkward for everybody, but we're trying to conduct funerals for\u2014with 10 people, and you try and get a family to choose the 10 best people of that person, that family.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "express_concern",
+      "provide_information",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 4798.776,
+    "end": 4802.018,
+    "text": "Yeah, exactly, Jim. Yeah, yeah.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 4802.398,
+    "end": 4810.365,
+    "text": "We can certainly provide\u2014get Sally to provide an update on processes to the board, to everyone, if that would be helpful.",
+    "speaker": "manager",
+    "tags": [
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4811.45,
+    "end": 4870.352,
+    "text": " I would like\u2014I'd like to talk to Sally because, obviously, I've got a family tomorrow that is 10 people and potentially one grandchild who happens to be here from London. Now, she doesn't\u2014she's stuck in New Zealand. She can't do anything. The parents are coming. As it stands at the moment,  She's going to sit in the car outside the cemetery because she's not allowed in. Now, 11 persons plus\u201411 persons, 11 people plus a minister, surely we can\u2014you know, we've got to have a little bit of compassion. Everything else is\u2014the funeral director is allowed to sort of\u2014we know the rule. We know we were allowed to go limits. I realise 19's not 10, but surely 11's can be stretched.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "express_concern",
+      "state_opinion",
+      "persuasion_attempt",
+      "policy_proposal",
+      "defer_to_authority",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 4871.954,
+    "end": 4879.96,
+    "text": " And it's easy enough to maintain the distance. It's not as if we're hugging and shaking hands and kissing and all that sort of thing.",
+    "speaker": "suemilner",
+    "tags": [
+      "reassure_stakeholders",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 4880.961,
+    "end": 4914.296,
+    "text": "We're just saying farewell to someone. Their old man of 90 who's been in the district for 90 years and his granddaughter that's here from London because of COVID who can't get a flight home is not allowed to attend. We've got to stand outside the cemetery because the sextons, I'm just, I don't know  whether she's going to end up coming, but that's potentially what's going to happen. But that was basically what happened today. The family felt very uncomfortable because they wanted to know what was going on and why I got pulled away and what this man in orange was doing.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "provide_information",
+      "express_concern",
+      "community_reference",
+      "report_back"
+    ]
+  },
+  {
+    "start": 4916.898,
+    "end": 4921.362,
+    "text": "Yeah. Well, if you can talk to Sally tomorrow, that might help.",
+    "speaker": "suemilner",
+    "tags": [
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4921.962,
+    "end": 4924.624,
+    "text": "Yeah, I hope so.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 4926.606,
+    "end": 4930.269,
+    "text": "Very awkward. Don't envy your job, Jim.",
+    "speaker": "suemilner",
+    "tags": [
+      "express_concern",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 4931.911,
+    "end": 4936.292,
+    "text": " No, well, at the moment, the whiskey bottle's getting used a lot, but anyway.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "provide_information",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 4939.153,
+    "end": 4953.157,
+    "text": "Yeah. Okay. Right. Well, I think at this point, we'll meet until close, and thank you all for attending, and I hope it goes better for you tomorrow, Jim.",
+    "speaker": "suemilner",
+    "tags": [
+      "close_discussion",
+      "procedural_move",
+      "public_address",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 4953.837,
+    "end": 4954.197,
+    "text": "Thank you.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 4955.998,
+    "end": 4957.258,
+    "text": "Yeah, it's not easy.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree"
+    ]
+  }
+]

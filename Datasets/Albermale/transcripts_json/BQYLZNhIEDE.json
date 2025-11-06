@@ -1,0 +1,1857 @@
+[
+  {
+    "start": 0.031,
+    "end": 5.416,
+    "text": " on this special session, closed session. Dr. Acuff, you do have a motion.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 6.117,
+    "end": 72.235,
+    "text": "I do, Chair Page. I move that the Albemarle County Public School Board go into a closed meeting as authorized by the Virginia Freedom of Information Act, section 2.2-3711A of the Code of Virginia, under subsection 1, for the discussion, consideration, or interviews of prospective candidates for employment and the assignment  appointment, promotion, performance, demotion, salaries, disciplining, or resignation of specific public officers, appointees, or employees of any public body. Subsection three, for discussion and consideration of the acquisition of real property for public purpose, or the disposition of a publicly held public real property, where the discussion in an open meeting would adversely affect the bargaining position or negotiating strategy,  of the public body and subsection eight for consultation with legal counsel employed or retained by the school board regarding specific legal matters requiring the provision of legal advice by such counsel.",
+    "speaker": "kateacuff",
+    "tags": [
+      "procedural_move",
+      "cite_external_source",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 74.218,
+    "end": 81.869,
+    "text": "Is there a second? Is there a second?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 82.67,
+    "end": 86.302,
+    "text": "Second. Did that not come across?  I'm on mute again.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "clarify"
+    ]
+  },
+  {
+    "start": 86.322,
+    "end": 96.412,
+    "text": "OK, it's been moved by Dr. Acuff, seconded by Ms. Lee that we go into closed session. Ms. Johnston, could you call the roll, please?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "request_action"
+    ]
+  },
+  {
+    "start": 97.393,
+    "end": 100.797,
+    "text": "Dr. Acuff? Yes. Ms. Osborne?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 101.257,
+    "end": 101.477,
+    "text": "Yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 102.078,
+    "end": 106.923,
+    "text": "Ms. Lee? Yes. Mr. Alcaro? Yes. Mr. Oberg?",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 107.904,
+    "end": 108.164,
+    "text": "Yes.",
+    "speaker": "davidoberg",
+    "tags": [
+      "agreeing"
+    ]
+  },
+  {
+    "start": 108.865,
+    "end": 109.566,
+    "text": "Mr. Page?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 109.966,
+    "end": 110.206,
+    "text": "Yes.",
+    "speaker": "joe",
+    "tags": [
+      "agreeing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 110.907,
+    "end": 111.528,
+    "text": "Motion carried.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "vote_call"
+    ]
+  },
+  {
+    "start": 111.868,
+    "end": 113.89,
+    "text": "Motion carried. So we'll go into closed session.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 114.646,
+    "end": 115.831,
+    "text": " See you in a second.",
+    "speaker": "Unknown",
+    "tags": [
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 144.717,
+    "end": 159.119,
+    "text": " Good evening. It is now 631 and I call this February 24th meeting of the Alamo County School Board to order. From our closed session, Ms. Carlson, do you have a motion?",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "request_action"
+    ]
+  },
+  {
+    "start": 160.14,
+    "end": 175.274,
+    "text": "I do. I move that the board certified by recorded vote that to the best of each board member's knowledge only public business matters lawfully exempted from the open meeting requirements.  for the Virginia Freedom of Information Act and identified in the motion authorizing the closed meeting were heard, discussed, or considered in the closed meeting.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "vote_call"
+    ]
+  },
+  {
+    "start": 178.217,
+    "end": 196.235,
+    "text": "Is there a second? Second. OK. Moved by Ms. Carlson, seconded by Ms. Lee and Ms. Doberg, that we certify by closed vote that nothing was discussed, that the original motion did not entitle us to discuss. Ms. Johnston, could you please call the roll?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "vote_call",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 197.676,
+    "end": 201.099,
+    "text": "Dr. Acuff?  Yes. Miss Osborne.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 201.64,
+    "end": 201.88,
+    "text": "Yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 202.921,
+    "end": 213.833,
+    "text": "Miss Lee. Yes. Mr. O'Carroll. Yes. Mr. Oberg. Yes. Miss Colson. Yes. Mr. Page.",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call"
+    ]
+  },
+  {
+    "start": 214.333,
+    "end": 214.594,
+    "text": "Yes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 215.615,
+    "end": 216.355,
+    "text": "Motion carried.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 216.636,
+    "end": 303.694,
+    "text": "Thank you. We will now have a moment of silence.  Thank you. This statement must be read into our minutes until we go into having open meetings again.  The minutes of this meeting should reflect that this meeting is being held electronically, prescient to Virginia state law, and Albemarle County is thought of because the COVID pandemic makes it impracticable and unsafe to assemble a quorum physically in a single location. The meeting is being communicated to the public electronically through Zoom and streamed live on the Albemarle County Public Schools website.  and public comment may be offered through the Zoom waiting room feature in accordance with the school board's protocol or by written submission. Our board members, Dr. Kate Acuff.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "logistics_info",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 303.714,
+    "end": 305.616,
+    "text": "Kate Acuff, Jack Jewett District.",
+    "speaker": "kateacuff",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 306.437,
+    "end": 310.76,
+    "text": "Mr. John O. Alcaro.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 310.78,
+    "end": 313.723,
+    "text": "John O. Alcaro, At Large.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 313.743,
+    "end": 314.724,
+    "text": "Ms. Katrina Coulson.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 316.705,
+    "end": 318.187,
+    "text": "Katrina Coulson, Rio District.",
+    "speaker": "Unknown",
+    "tags": [
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 318.887,
+    "end": 319.748,
+    "text": "Ms. Judy Lee.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 320.875,
+    "end": 322.217,
+    "text": " Judy Lee, Raybana District.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 322.898,
+    "end": 326.484,
+    "text": "Mr. Dave Oberg. Dave Oberg, Whitehall Magisterial District.",
+    "speaker": "davidoberg",
+    "tags": [
+      "public_addressing",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 327.485,
+    "end": 328.407,
+    "text": "Ms. Ellen Osborne.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 329.108,
+    "end": 331.011,
+    "text": "Ellen Osborne, Scottsville District.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 331.912,
+    "end": 346.294,
+    "text": "I'm Graham Page, Samuel Muller District. And our student representative for this quarter, Elizabeth Albaron. Elizabeth. Hello. OK, good to see you, Elizabeth.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 347.016,
+    "end": 347.997,
+    "text": "Good to see you as well.",
+    "speaker": "joe",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 350.457,
+    "end": 353.96,
+    "text": " Could I have a motion to approve our agenda for tonight?",
+    "speaker": "grahampaige",
+    "tags": [
+      "request_action",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 355.061,
+    "end": 356.743,
+    "text": "I move that we approve the agenda.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 358.865,
+    "end": 359.285,
+    "text": "Second.",
+    "speaker": "kateacuff",
+    "tags": [
+      "procedural_move",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 360.987,
+    "end": 371.676,
+    "text": "OK, moved by Mr. Alcaro, second by Dr. Acuff that we approve tonight's agenda. Any discussion on the motion? If not, Ms. Johnston.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 373.718,
+    "end": 377.602,
+    "text": "Ms. Colson. Yes. Mr. Oberg.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 379.504,
+    "end": 379.924,
+    "text": "Yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 380.815,
+    "end": 381.657,
+    "text": " Mr. O'Carroll?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 382.378,
+    "end": 382.638,
+    "text": "Yes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "agreeing"
+    ]
+  },
+  {
+    "start": 383.66,
+    "end": 386.866,
+    "text": "Ms. Lee? Yes. Ms. Osborne?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 387.367,
+    "end": 387.607,
+    "text": "Yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 388.369,
+    "end": 391.174,
+    "text": "Dr. Acuff? Yes. Mr. Page?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 391.694,
+    "end": 391.935,
+    "text": "Yes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 392.756,
+    "end": 393.458,
+    "text": "Motion carried.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 396.243,
+    "end": 399.689,
+    "text": "We now need a motion to approve the consent agenda for tonight.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 400.931,
+    "end": 403.135,
+    "text": "I move that we approve the consent agenda.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 405.138,
+    "end": 405.439,
+    "text": "Second.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 406.651,
+    "end": 418.549,
+    "text": " Moved by Mr. Alcaro, seconded by Ms. Osborne, that we approve the consent agenda. Discussion on the motion? If not, Ms. Johnston.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 420.792,
+    "end": 425.218,
+    "text": "Dr. Acuff? Yes. Ms. Osborne?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 425.939,
+    "end": 426.22,
+    "text": "Yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 426.941,
+    "end": 432.409,
+    "text": "Ms. Lee? Yes. Mr. Alcaro? Yes. Mr. Oberg?",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 433.01,
+    "end": 433.25,
+    "text": "Yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 434.051,
+    "end": 437.434,
+    "text": "Ms. Colson? Yes.  Mr. Page?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 438.094,
+    "end": 438.355,
+    "text": "Yes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "agreeing"
+    ]
+  },
+  {
+    "start": 439.456,
+    "end": 440.077,
+    "text": "Motion carried.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 440.697,
+    "end": 460.94,
+    "text": "Thank you, Ms. Johnston. We are now ready for announcements and school board or superintendent's business. We could consider those two things jointly. So are there any announcements from Dr. Haas or any of the cabinet?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 462.041,
+    "end": 693.0,
+    "text": "Thank you very much, Mr. Page. I did want to announce that we have two of our principals here.  Jennifer Underwood from Meriwether Lewis Elementary School, and Reed Gillespie, who's our principal of our virtual school. If you want to turn on your screens momentarily, if you want, just let us see you and acknowledge you and all the great work that you're doing under tough conditions. Thank you so much for all the work you do. Glad you could be here tonight.  And I also wanted to just say that I had a unique experience on Wednesday, along with Jono and Kate. I had never attended a topping out ceremony in my life. And so having said that, probably about 100 people gathered over at Crozet Elementary School on Wednesday morning, right before lunchtime to celebrate a topping out ceremony  And what it means is that the structural frame of the new school addition had reached its highest point. So they put the highest beam on the new addition. So construction workers, contractors, architects, school and county project managers, administrators. Ms. Crummey was there, of course, because she's the principal. And school board members gathered to celebrate  the exterior structure of the building. So this addition and renovation to Crozet Elementary School is really something to celebrate. It is the largest construction project for Albemarle County Public Schools since Baker Butler opened in 2003. It's almost 20 years. The school will also boast the county's first, it'll be the first  county building, not just the county school building, with a geothermal HVAC system. It will create new capacity for 350 students and, as you know, the board is redistricting 219 students to attend there from Brownsville. And  I would just share a few notes. Ms. Schmidt gave these notes at the meeting. Just really want to share our appreciation, especially with the construction workers, because this was really meant to celebrate the construction crew, which there were always about 60 members of the construction crew out there working long hours. And at times, there was up to 100.  And if you can imagine having school and having students in the school while the whole structure around the school is being worked on, you can appreciate that the construction team really does everything they can every day to minimize disruptions to the school. And they've done a great job. And they've kept the project on track.  We just really want to thank Tulsa Cook, who is the superintendent for Nielsen, Rocky Moulton, the project manager for Nielsen, Ken Thacker from VMDO, of course, Lindsay Snoddy, our director of building services, Matt Workman, who's the project manager from the county, Gwedet Crummy, principal, and over 20 different subcontractors. And of course, we wanted to thank our school board for supporting this project.  So I just really wanted to give a shout out, and it was quite a fun ceremony, and I hope we can have some more in the future. Thank you.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "public_addressing",
+      "give_update",
+      "request_action",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 696.625,
+    "end": 778.596,
+    "text": "Thank you, Dr. Haas. And I'd like to announce that on last, I think it was probably the last Wednesday or Thursday,  Yancey Community Center, in cooperation with Dr. Harrison and the Community Engagement Division of the county schools, presented a workshop on culturally responsive teaching at Yancey. Well, it was partly virtual and part in-person attendance at Yancey Community Center.  So they did a very, very good job of presenting to the community exactly what was involved in culturally responsive teaching, including a few breakout sessions to sort of give some work involving the process. So thank you to Dr. Harrison and other folks from community engagement who helped present that program.  And also thank Ms. Underwood and Mr. Gillespie for being in attendance at our meeting tonight. We always appreciate having our principals here with us. So thank you so very, very much. And Dr. Haas, good to hear the news about the topping ceremony, the topping off ceremony. And did all of you, including Dr. Acuff and Mr. Alcaro, end up wearing hard hats during this ceremony?",
+    "speaker": "grahampaige",
+    "tags": [
+      "give_update",
+      "acknowledge",
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 778.711,
+    "end": 817.576,
+    "text": " We had hard hats, we walked the site, learned a lot about geothermal. I didn't realize they sank how many, like a hundred different pipes down to do that. They're gonna have a ceremony when the school is finished of the students knocking down the current chimney since they're going green. And that will be fun as well. But I don't know that I've seen, certainly not one of our schools that makes  such a use of its natural setting in terms of the windows and the placement of the courtyards. It's going to be by far our most lovely campus.",
+    "speaker": "kateacuff",
+    "tags": [
+      "give_update",
+      "opinion",
+      "logistics_info",
+      "hedge"
+    ]
+  },
+  {
+    "start": 818.978,
+    "end": 838.165,
+    "text": "Inside and out. It was just incredible the work that was done and is in the process of being done. And it's so impressive. It's going to be a gorgeous structure when it's completed. I have to say I was quite grateful that it was 65 degrees and not raining.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "opinion",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 838.904,
+    "end": 840.867,
+    "text": " So it was lovely.",
+    "speaker": "kateacuff",
+    "tags": [
+      "opinion"
+    ]
+  },
+  {
+    "start": 842.549,
+    "end": 862.515,
+    "text": "And construction is on schedule, right, Dr. House? Yes, sir. OK, very good. All right, any other board members with any announcements? If not, we'll move to a public comment. And Vice Chair Carlson.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "acknowledge",
+      "request_action",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 862.535,
+    "end": 963.155,
+    "text": "Yes, sir. OK, first I'm going to start with reading the public comment guidelines.  We have one, two, three, four speakers today, just so everyone's aware. So the school board invites and actively seeks the public's input in the matters relevant to school board governance and provides for time during its business meetings to hear from Albemarle County residents and community members. As authorized by ordinance of the County of Albemarle, the school board will hold its meetings electronically during the COVID-19 pandemic.  The school board is nonetheless committed to encouraging public comment, despite its need to meet on a virtual basis. For this reason, there will be multiple ways for the public to provide comment. First, as always, written comments can be submitted to the board clerk, and they will be given to all school board members for review. You can also email documents directly to the school board at the school board email. And then second, as long as the school board holds its meetings electronically, members of the public wishing to provide comment during the meeting may sign up online by 2 p.m. the day of the meeting.  I'm going to go ahead and announce the order of all the speakers, since there's only four of them. When it's your turn, you will have three minutes to speak. I will try to notify you when you have one minute left. It is just me holding up a finger, so it's helpful if you have your own timer going as well.  Speakers during the meeting or those submitting written comments should state their name and address or magisterial district. Speakers should limit comments to those matters that are relevant to school board governance or the operations of the school division. Although the school board will not respond to comments made during the public comment period, school board members may address comments at the end of the meeting agenda under other business. And so with that, we have Joe Grassi, Chris Seaman, Vernon Lichty, and Bethany Sarosiak.  So, Mr. Grassi, if you are on.",
+    "speaker": "Unknown",
+    "tags": [
+      "logistics_info",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 966.739,
+    "end": 970.484,
+    "text": "Yes.",
+    "speaker": "joe",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 970.504,
+    "end": 971.506,
+    "text": "Oh, I see you.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 972.447,
+    "end": 1061.59,
+    "text": "Hello, I'm Joe Grassi. I'm a sixth grader here to represent Henley Middle School and Henley's Student Council Association. Today, I'm here to talk about how Henley's recess is important to us and students' opinions about the topic.  We surveyed Henley students and of the 305 people surveyed, 304 students responded that recess is valuable time in their school day. The students surveyed would like to keep recess for the following reasons, mental health, physical health, and socialization. Mental health is a serious problem that can have effects on anyone, including children at Henley. The mental health recess aspect is very important to students.  We have spent numerous days in and outside of school researching about recess and its effects on health and attitude. Multiple studies, including one conducted by the Grayson School, show that without recess, attention spans worsen and become harmful towards students. Students' physical health is needed at middle schools as well, because if they don't have a break, their learning will be critically affected. Studies show that kids learn better when they exercise throughout the day.  socialization is something Henley takes to heart. After a year of virtual learning, socialization is crucial to everyone, and especially our students. Kids who are not in touch with friends would also strongly benefit from recess socialization. We strongly encourage a break in all middle schools for the aforementioned reasons. Thank you for your time.",
+    "speaker": "joe",
+    "tags": [
+      "public_addressing",
+      "give_update",
+      "cite_external_source",
+      "policy_proposal",
+      "opinion",
+      "request_action"
+    ]
+  },
+  {
+    "start": 1064.405,
+    "end": 1075.038,
+    "text": " Thank you so much for those comments, Mr. Grassi. I feel like you might be on the school board before we know it. I was very impressed. A future Whitehall representative.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "opinion"
+    ]
+  },
+  {
+    "start": 1076.32,
+    "end": 1077.601,
+    "text": "We have to talk, Jo.",
+    "speaker": "davidoberg",
+    "tags": [
+      "request_action"
+    ]
+  },
+  {
+    "start": 1081.066,
+    "end": 1084.149,
+    "text": "Thank you very much. Our next speaker will be Chris Seaman.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1085.691,
+    "end": 1279.023,
+    "text": "Thank you very much. My name is Chris Seaman, and I'm the resident of the Whitehall district.  Along with my spouse, I'm the parent of two children ages eight and five who are enrolled at Brownsville Elementary here in Crozet. I'm also an attorney and a law professor, though my comments tonight are solely in my personal capacity. I want to express my deep disappointment in the school board's apparent acquiescence to Senate Bill 739, the recently enacted mask optional law.  Without the benefit of a public discussion or hearing, the district announced just hours after SB 739's enactment that it would adopt a mask optional policy effective March 1st, despite serious concerns about the law's validity under both the Virginia Constitution and federal law. First, SB 739 violates Article 8 of the Virginia Constitution, which provides that local school boards are vested with exclusive power over the supervision of schools in each school district.  Under well-settled precedent, the supervisory power includes a district's decision to protect the health, safety, and welfare of its students. SB 739 violates this by unlawfully prohibiting districts from continuing universal indoor masking, which, as the district's own website states, is one of the most effective tools in stopping the spread of COVID. Second, I would argue that SB 739 is not legally effective until after the end of the school year.  Article 4, Section 13 of the Virginia Constitution requires a fourth if supermajority to enact an emergency clause and expedite the effective date of a session law like 7 SB 739 before July 1st. But both the Virginia House and Senate votes fell far short of this required supermajority. And so the current policy requiring universal indoor masking should remain enforced in my view. Third and most importantly, SB 739 contains no exceptions to protect children with disabilities  who are especially vulnerable to severe disease from COVID due to a variety of medical conditions, including asthma, diabetes, autoimmune disorders, lung conditions, and cancer. Federal law, including the Americans with Disabilities Act, requires that districts accommodate these students by providing a safe in-person educational environment, which, in the judgment of numerous federal court decisions across the country, includes universal indoor masking in classroom settings. My older son is one of these children.  He has been battling leukemia for over three years and is immunocompromised from his extensive treatments, including a bone marrow transplant. He desperately wants to return to school as soon as he can do so safely, but he simply cannot if masks are optional as it would place him at risk for severe COVID. We are lead plaintiffs with a number of other parents in a lawsuit against the state on this particular issue.  It is clearly not yet time to go mask optional. Although cases are declining statewide, we are still at the highest level of transmission here in Albemarle County, according to the Virginia Department of Health. Moreover, the board's current COVID-19 update states that there are multiple classrooms with multiple positive cases within each classroom and staff capacity is currently strained due in part to COVID. And some, I urge you to reconsider your decision to go mask optional starting next week. No parent should be forced to choose between their child's health  and their education. Thank you for your time.",
+    "speaker": "chrisseaman",
+    "tags": [
+      "public_addressing",
+      "express_concern",
+      "request_action",
+      "cite_external_source",
+      "opinion"
+    ]
+  },
+  {
+    "start": 1280.085,
+    "end": 1287.919,
+    "text": "Thank you for those comments, Mr. Seaman. Our next speaker will be Vernon Lecte. It's been a while since I've seen you, Mr. Lecte.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1289.843,
+    "end": 1420.649,
+    "text": "Good to see you all again. Good evening. My name is Vernon Lecte, and I'm the president of the Albemarle Education Association.  I'm currently Albemarle County, as is almost every county in Virginia has a COVID transmission rate at a high level, according to the Virginia Department of Health. Under the Virginia Department of Health's own website, they state that masks are recommended for everyone two years or older when indoors during a high transmission rate of COVID.  I appreciate Albemarle County Public Schools has maintained the current mitigation strategies to prevent the spread of COVID-19 in our school division. Since July, the current ACPS dashboard has verified over 1,400 students that have confirmed COVID cases and 321 staff members have confirmed COVID cases.  Every student and worker in Albemarle County deserve to work in a setting that ensures that they are in a healthy and safe environment, especially if those individuals are immunocompromised. Students and workers' health and lives depend on it. The county has taken the advice of the Center of Disease Control and followed their mitigation strategies up to this point to ensure that everyone is in a safe environment. I encourage you to continue promoting and following the recommendations of the CDC.  There is also a bigger issue about your constitutional authority to make decisions in public schools. We encourage you to hold firm in protecting that authority. I'll close by sharing some remarks from a former Deputy Attorney General of Virginia, Claire Guthrie-Gustanaga.  If local school boards do not draw the line and defend local control of the day-to-day operation of schools, in this case, their power to set school safety standards, there will be no end to state-mandated rules that have nothing to do with establishing minimum standards of quality as the Virginia Constitution provides.  Our Virginia constitution guarantees every child a free and appropriate education. It does not authorize the state legislature to act as a super school board or the governor to act like a chief state of schools officer with the power to substitute their judgment and decisions for those of local school boards and the superintendents they hire. I hope the Albemarle County Public Schools will continue to stand firm against these unconstitutional actions. Thank you.",
+    "speaker": "vermonliechti",
+    "tags": [
+      "public_addressing",
+      "express_concern",
+      "request_action",
+      "cite_external_source",
+      "policy_proposal",
+      "opinion"
+    ]
+  },
+  {
+    "start": 1423.732,
+    "end": 1432.56,
+    "text": "Thank you for those comments.  We have one more speaker. I do not currently see her in. It's Bethany Sarosiek.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1432.58,
+    "end": 1434.403,
+    "text": "She was not able to participate tonight.",
+    "speaker": "Unknown",
+    "tags": [
+      "give_update",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 1435.025,
+    "end": 1443.058,
+    "text": "OK. So that concludes public comment. Thank you again to all of our speakers. We appreciate hearing from you. With that, I hand it back to you, Mr. Page.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1443.72,
+    "end": 1471.415,
+    "text": "Thank you, Ms. Gossett.  Thanks to all of our public speakers, and especially as Ms. Carlson mentioned to Mr. Grassi, very, very outstanding presentation there. We're now ready for our work session number two. Ms. Kumazawa and Gang, please come forth to make our presentation.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1476.583,
+    "end": 1748.301,
+    "text": "Good evening, school board members.  My name is Maya Kumazawa, Director of Budget and Planning. It's good to see you all again at our second work session. As a recap, the purpose of our work session is to unpack the draft funding requests, answer your questions, and get feedback and guidance in preparation for developing and approving the school board's funding request. This evening is the second of three scheduled work sessions. You're scheduled to approve a school board's funding request on March 10th,  and that will be formally presented to the Board of Supervisors on March 14th. Our agenda for this evening focuses on human resources and organizational development. We have a great group of staff from this department who will present and answer any questions you have in these areas. And if needed, we'll schedule a break after the compensation increase and the healthcare fund discussion.  As a review of the work session last week and the budget overview, this pie chart represents the expense breakdown in the draft funding request. Compensation and benefits make up 86% of the proposed budget and naturally the compensation and benefits are driving a majority of the increases in the draft funding request.  With regards to our learning for all strategic plan, we will be focusing in two specific strategies under the third goal area, which staff will elaborate on later. Strategy one, ACPS will implement a total compensation structure that makes us highly competitive compared to other employers and to other employers. And strategy three, ACPS will research, develop and stand up an employee services department that functions solely  for the Albemarle County Public Schools Division. Each of our new proposals that you will see is guided by a logic model in the budget document. As we have stated previously within our budget goals, we have a goal that states, schools, departments, and strategic proposals will incorporate the use of logic models  and performance measures to assist in making decisions that support budget priorities related to the strategic plan with a goal of using metrics as a management and decision-making tool during the budget process. So we have four primary components within our logic models called inputs, activities, outputs, and outcomes. Inputs and activities ensure that we follow through and fully implement the proposals we put forward  and outputs and outcomes represent success measures. They should be measurable, achievable, relevant, and time-bound. For the proposals that will be presented this evening, staff will provide a summary of proposed outputs and outcomes for your review. In addition, I want to bring your attention to page A59 in the budget document.  This page features a dashboard of previous year's budget proposals since FY20. After proposals are fully implemented, we transition them over to our program evaluation process to ensure that the programs are meeting intended outcomes. So please let us know if you're interested in hearing about updates about any past proposals as well, as they're all relevant within the budget.  Finally, a note on staffing standards. You'll hear about proposed changes to our staffing standards throughout this work session. You can find the details of them in section G of the budget book. The standards exist to foster equity across all of our schools and provide an objective lens by which to provide resources to our schools. New this year, we've included notes on how some of the standards relate to our proposals and have also included some unfunded goals.  Last week we discussed class size ratios and this evening we'll look at some other parts of general education staffing, as well as human resources. So with that I will introduce Mr Brody Downs, Assistant Director of Human Resources, to take us through our first proposal.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "public_addressing",
+      "give_update",
+      "logistics_info",
+      "follow_up_request",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1751.403,
+    "end": 1970.025,
+    "text": " Thank you. We can actually go to the next slide. Good evening. I'm Brody Downs, Assistant Director for Human Resources. It's very nice to be with you all. And it's good to see you again in such a short amount of time. I think it's only been about a month. To begin the discussion on the compensation increase being proposed, it's important to revisit the school division's strategic plan and how these efforts align.  Strategy one for the strategic plans goal of equitable and transformative resources commits to implementing a total compensation structure that makes us highly competitive compared to other employers and other organizations.  Within that strategy, we've established several metrics to allow us the opportunity to measure. Among those metrics, we'll focus on benchmarks related to the quality and diversity of our applicant pools, retention information, such as engagement and employee forum participation, exit survey measurements, and other critical areas as well.  The proposed funding request related to compensation focuses on three primary areas. First is a 4% increase to regular employee salaries effective later this month, in fact, in just a couple of days. The second focuses on a comprehensive compensation study to help the school division ensure that its ongoing competitive market, critical benchmarks, and internal compensation policies and programs are optimally  competitive. Lastly, being requested for an effective date of July 1 is a 6% salary increase for all regular employees. Additionally, this funding request also includes pay increases for certain hard-to-fill positions and also allows the school division to address the need to adjust compensation as a result of recent changes to the local government's and school divisions payroll processes and cycles. Next slide, please.  In January, the school board approved one time funding for a compensation study. While the school division has experienced compensation studies smaller scope. This effort will be the first time in more than 20 years the school division has comprehensively reviewed its compensation policies programs and market to maintain purposeful market competitiveness.  This is also the first time the school division will be reviewing compensation policies programs and market and its market autonomously, not having to align those efforts with the local government through its prior commitment of commonality.  The study will help the school division revisit its competitive market to establish renewed annual benchmarks. This competitive market review will also consider benchmarking that may not be limited to public sector organizations. As the school division has identified some of its hard to fill positions, having to compete with non-public sector industries as well. Two examples would be electricians and school nurses.  It will also provide comparative analysis to support internal equity evaluation and will solidify the school division's analysis of its total compensation packages, which encapsulate not only salary, but also benefits, leave programs, insurance programs, work arrangements, and professional development opportunities offered routinely by many organizations, both public and private.",
+    "speaker": "brodiedowns",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "logistics_info",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1970.946,
+    "end": 1972.468,
+    "text": "Over to the next slide, please.",
+    "speaker": "joe",
+    "tags": [
+      "request_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1974.625,
+    "end": 2049.136,
+    "text": " We're going to turn briefly to some of the challenges recently observed regarding staff and retention. This information was shared with the school board at its December meeting. Although I did want to highlight that we have made some some adjustments since, especially to the substitute daily rates to maintain competitiveness with our adjacent competitive market.  Shifting focus to the current challenges regarding our teacher population, more than a quarter of our teachers who have left site pay as the top reason for their departure. We also know our teachers are frequently needed to cover colleagues' classes in lieu of a devoted substitute teacher due to the known shortage of substitute teachers overall. And this most recent year, we observed a decrease in overall teacher applicants while our vacancies also increased.  Regarding classified staff pay was also a top reason for staff exiting, and we observed the lowest retention rate in the past half decade at just 76.4%. Dr. Daphne Kaiser is gonna speak later much more thoroughly about our substitute teacher workforce, but I did wanna make a note quickly that our fill rate has been observed to be under 50% and with only 75 active substitute teachers.",
+    "speaker": "brodiedowns",
+    "tags": [
+      "give_update",
+      "express_concern",
+      "defer_to_expert",
+      "logistics_info",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2050.859,
+    "end": 2052.0,
+    "text": "Next slide, please.",
+    "speaker": "joe",
+    "tags": [
+      "request_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2053.752,
+    "end": 2196.457,
+    "text": " So while the last slide really delved into some of the challenges that we've been observing, we now turn to an overview of the school division's recent pay increase history by year. You'll notice that the first two years were two and 2.3% increases for classified staff and four and 3% increases for our teachers. The following year, due to the start of the pandemic, no increases were provided.  And that takes us to the start of the current fiscal year where classified staff received 4% increases and teachers a 5.2 increase to their step scale.  And due to the school board's commitment to its staff and teachers, as mentioned, there is a 4% mid-year being implemented in just a few days, along with the proposed 6% increase to start the next fiscal year. And if you're wondering how four plus six equals 10.2, it's because the 6% increase takes into consideration the 4% increase as well, they compound. So an employee will be 10.2% higher in July than they are this evening. Next slide, please.  Next, we turn to what we anticipate will be a peak at our competitive markets come July 1 for our teachers. And we looked at the master's scale as our example this evening. This slide highlights a few key data points. First, we pulled compensation information for our adopted market, as well as the new metric market discussed with the school board at its December work session.  We projected a 5% increase to the markets and projected the 6% increase for Elmore County Public Schools being proposed. We landed on 5% increase for our markets because we're following what the state's guidance is so far. Thanks to the school board support, the mid-year adjustment and the proposed July 1 adjustment have positively impacted the school division's position as compared to the top quartiles of our adopted market as well as the new metrics market.  And importantly, when compared to our adjacent market, Albemarle is now not only competitive, but it's beating the market for teachers through the first 10 years of their careers. Our classified employees utilize a pay grade system, not a step scale like the teachers utilize, and the classified pay grade scales will also be adjusted to reflect the four and 6% increases accordingly.",
+    "speaker": "brodiedowns",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "clarify"
+    ]
+  },
+  {
+    "start": 2197.8,
+    "end": 2198.661,
+    "text": "Next slide, please.",
+    "speaker": "joe",
+    "tags": [
+      "request_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2201.155,
+    "end": 2309.409,
+    "text": " So as we near the conclusion of this compensation section, this slide serves as an overview of the funding request. The compensation increase proposal total 17.2 million, allowing two increases totaling 10.2% for all staff by July 1st. The proposal also provides $880,000 to target certain positions deemed hard to fill and $350,000 to provide meaningful adjustments to employees impacted by recent changes to our payroll cycles.  And while this funding request does not specifically address any changes that may be needed as a result of the comprehensive compensation study, this budget does account for a one-time funds of $3 million to address the study's critical needs, should there be. Go to the next slide, please.  So revisiting the logic model methodology that Ms. Kumazawa mentioned earlier this evening. When we look at this strategy's outputs, we're looking towards exit survey data reflecting compensation, not being a main driver for leaving the school division. We're also looking towards engagement survey data indicating that the school division staff are not dissatisfied for reasons related to compensation.  And we're also looking towards applicant pools being richer to the extent that we're no longer starting a school year with vacant teaching positions. When we look at these strategies outcomes, we're expecting employee retention rates to increase as well as experiencing improved exit data and improved engagement data as it relates to compensation being a reason for employee dissatisfaction or disengagement.  At this time, I will, I believe, hand it back to Ms. Kamizawa for the next portion of the presentation, unless there are questions.",
+    "speaker": "brodiedowns",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "procedural_move",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 2313.615,
+    "end": 2318.102,
+    "text": "Yeah, we'll pause for any questions related to the compensation increase or discussion.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 2325.777,
+    "end": 2350.418,
+    "text": " Ms. Kumazawa, and the answers to the questions you sent out to us today, or yesterday, which were terrific, thank you very much. They were very helpful. You said that there was going to be some more detail about the compensation study in tonight's presentation. Is that still ahead, or could you just expand on it a little bit now?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "clarify",
+      "follow_up_request",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2353.25,
+    "end": 2371.478,
+    "text": " Sure, I can bring the slide back up where there was an overview, but if you had some more specific questions outside of this, the staff can be here to assist. Mr. Downs, do you want to touch on this slide again?",
+    "speaker": "mayakumaza",
+    "tags": [
+      "logistics_info",
+      "request_action",
+      "defer_to_expert"
+    ]
+  },
+  {
+    "start": 2374.276,
+    "end": 2393.073,
+    "text": " Yeah, I'm actually going to ask Mr. Redding. He's actually been partnering a little bit more closely with our identified consultant on this. He can speak a little bit more knowledgeably about this process than I can at this point.  Thank you, Mr. Downs, and thank you for the question, Mr. Alcaro.",
+    "speaker": "brodiedowns",
+    "tags": [
+      "defer_to_expert",
+      "request_action",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2393.614,
+    "end": 2484.49,
+    "text": "So we are close to really getting to a signed agreement with a consultant that will work with us to identify specific benchmark positions in our organization, roughly 80 of them, and really do a comparison, not just within school divisions, but within the broader local market.  as well as more of a regional and statewide, I'm sorry, a nationwide market for comparable positions. They'll actually do a detailed analysis right down to job descriptions to get into the nitty gritty of what constitutes a comparable position and then look at  total compensation, so not just salary, but benefits, packages, professional learning, all of those things. So we'll identify those benchmark positions. They will go out and gather that data and bring it back and provide us with a really solid analysis of where we're falling within those different comparative groups, our local market and similar school divisions, as well as private employers.  And from there, bring us recommendations for what they would see to really enhance our compensation plan and be a leader with compensation. One part of that will also be developing and revising our compensation strategy, working with the board, working with the school division leadership, and working with our stakeholders.",
+    "speaker": "danredding",
+    "tags": [
+      "give_update",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 2488.672,
+    "end": 2585.166,
+    "text": " So one example would be, just to kind of give an in-the-flesh example, we've talked often about our school nurses and how those are difficult positions to fill. And part of the reason we believe, and we're, you know, we're placing a bet here that if we do the study and really do it well, what we're going to find is that if we really go out and benchmark  our school nurses, compensation, benefits, how their positions are structured against nurses at hospitals, at clinics, in private facilities. It will give us a better read on who we're really competing with to hire school nurses. Another example that I hear talked about often is a master electrician who works in building services. Right now,  We don't really have a competitive market for the master electrician. We have been structuring the master electrician's pay around just the generalized classification system we used when we were tied with local government.  What we want to do is get out and find out what are electricians being paid by private employers, by UVA, for example, some of our big competitors, so that we can really get in there and compete. We're not competing at all right now in some of those types of positions. So I just thought I would add a couple of examples of those tough to fill positions that we have.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "policy_proposal",
+      "clarify",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 2587.981,
+    "end": 2614.073,
+    "text": " To any of the four of you who are presenting, in the $3 million number, are there any additional uses that involve compensation to help make changes for what the study shows? Or is this strictly a $3 million study where the money is going to the consultant?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 2614.897,
+    "end": 2633.935,
+    "text": " No, $3 million is a one-time amount of money that Ms. Kumazawa is setting aside as a block to change compensation for employees. The consultant is, what's the cost of the consultant, Dan? I can't remember.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "clarify",
+      "logistics_info",
+      "ask_question",
+      "defer_to_expert",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2634.303,
+    "end": 2651.423,
+    "text": " I believe the school board set aside $150,000 at a meeting in January. That would be the top end. We haven't settled on an agreed price yet, but we're working with them to come to that price. But the board appropriated that money a couple of weeks ago.",
+    "speaker": "danredding",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2652.224,
+    "end": 2657.571,
+    "text": "So the big block of funding is to change compensation for employees.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "give_update",
+      "clarify"
+    ]
+  },
+  {
+    "start": 2658.612,
+    "end": 2661.255,
+    "text": "OK, thank you. That makes good sense.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 2665.184,
+    "end": 2691.831,
+    "text": " I have a question. I think you mentioned, Mr. Brody, that 27% of our teachers were leaving because of salaries. Was there any other category that had a pretty high number for our employees leaving besides that, you know, pretty close to that?  Let me go back to our exit data.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 2692.272,
+    "end": 2708.276,
+    "text": "I can revisit that. If you give me about 10 minutes, I can get that number back to you, if that'd be okay. There are other items, but one of the main drivers that we do see for sure is compensation related. Then one other question too.",
+    "speaker": "brodiedowns",
+    "tags": [
+      "give_update",
+      "follow_up_request",
+      "request_action",
+      "logistics_info",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 2709.078,
+    "end": 2732.029,
+    "text": "With our new salary for our teachers,  Will we still be very, very competitive with the surrounding counties? Because before this, one or two other surrounding counties toward the end of the scale were ahead of us. So will we still be outpacing the surrounding counties?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 2734.473,
+    "end": 2758.469,
+    "text": " So with the two adjustments combined, this does put us in a much better framework off to go back and look at the specific benchmarks of 5, 10, 15, 20 years. There may be an anomaly in there, but for the most part, the 10.2 aggregate increases does put us in a much better position where we are beating a vast majority of our market.",
+    "speaker": "brodiedowns",
+    "tags": [
+      "give_update",
+      "follow_up_request",
+      "opinion"
+    ]
+  },
+  {
+    "start": 2759.731,
+    "end": 2759.991,
+    "text": "Okay, thanks.",
+    "speaker": "davidoberg",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2768.054,
+    "end": 2772.419,
+    "text": " Are there other questions from board members at this time?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2777.524,
+    "end": 2821.382,
+    "text": "Just a comment. Mr. Batting, I'm glad to hear that the consultant will be looking not only locally and in a tight market, but nationally where we should be. I know my colleagues are well aware that Virginia ranks 36th in the country for teacher compensation.  So 2% here, 4%, even 10%. I would just like to know if ever getting to the median is feasible. I mean, I think that that would surprise many people in our community that we are so far off the national median even. But anyway, that's it.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "cite_external_source",
+      "ask_question",
+      "express_concern",
+      "opinion"
+    ]
+  },
+  {
+    "start": 2831.588,
+    "end": 2832.79,
+    "text": " Okay, Miss Kumisawa.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2833.931,
+    "end": 2841.782,
+    "text": "All right, thank you all. So for our next section, I will introduce Miss Claudine Cloutier, Benefits Program Manager.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "acknowledge",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 2844.365,
+    "end": 3129.791,
+    "text": "Good evening, everyone. And thank you, Maya. It's been a while since I've been in front of you. So I think it's good to start off a conversation about the health care plan to talk about our fund and what that means. Next slide, please.  So as a reminder, we have a self-funded health care fund, which means that we don't pay an insurance company to take on our risk. We, in effect, insure each other via our health care fund. The fund is a pool consisting of employee and employer contributions. And you can see from the slide, which is intended to be somewhat proportional  You can see that the majority of contributions that go into the health care fund are from employer contributions, along with employee premiums. So from the fund, we pay our claims. So if someone goes to the emergency room or has a hospitalization.  or needs to pick up a prescription, we're going to pay the claims from the fund. From that fund, we also pay for the administrative expenses for Anthem, who is our current administrator of the plan, along with stop-loss premiums for the plan. Stop-loss coverage is insurance of our plan  so that if we do have large expenses that exceed $250,000 in a plan year for a given member, that the insurance coverage will reimburse us for the expenses beyond that $250,000. And then we pay for wellness activities throughout the year. Whatever's remaining after we pay for all these things sits in the reserve  fund and that's used to pay for claims when our expenses exceed the number of contributions coming in the given year. Next slide, please.  I'd like to take a moment to talk about our management of the plan and fund throughout the year. In October 2020 ACPS and the county adopted a health care management plan, which formalized the structure for how we manage the plan and documents our strategic reserve balance targets, which, as you see, is set at two to four months or 17 to 33% of anticipated plates.  The structure consists of the Healthcare Planning Committee, a cross-divisional team of HR and finance staff, along with a participating stakeholder. This group is responsible for the oversight of plan and fund performance and, working with our benefits consultant, makes recommendations for funding and premium rates, along with plan design, each year. These recommendations go to the Steering Committee, which is made up of ACPS and county leadership,  this committee is ultimately responsible for all decisions impacting the funds. This last year, probably year and a half, really, we've focused a lot on wellness activities around mental health. Vanessa Stangle, our wellness specialist, has sent out many, many emails about mental health services, where you can get information,  things that you can do to support your own mental health. So I want to call a shout out to her for all her efforts throughout the last year and a half. We instituted a waiver of telehealth visits in 2021 so that people could go ahead and get the treatment that they needed without any out-of-pocket costs. We increased our employee assistance program visit number from five visits per member per issue to eight visits per year.  And wellness activities throughout the year include vaccine clinics, activity tracker promotions, which that's a very popular question right now. Vanessa is working on that. And then also the Be Well site and Be Well programming. Next slide, please. I think it's good before we approach the topic of what we're looking for for next year to look at where we've been so far in the last few years. And so as you can see,  The employees have not had to pay an increase on employee premium rates in the last few years. In fact, we're paying exactly the same rates we paid back in October of 2016. So we've been fortunate that we've had good plan performance over the last few years and also the board contribution taking the hit on making sure that we're adequately funded for a given year. Next slide, please.  All right, I am going to turn this over to Laura Andrake, who is our Health Care Fund Analyst.",
+    "speaker": "claudinecloutier",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "public_addressing",
+      "acknowledge",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 3135.076,
+    "end": 3370.693,
+    "text": "Thank you, Ms. Cloutier. This is Laura Andrake. I'm excited to present you the information. I'm the Senior Health Care Fund Analyst with Elmira County Department of Finance and Budget, and I was  honored to present to you last year in my first year and so hopefully we'll be able to move through this pretty quickly and we'll be able to pause for questions after two slides. So we'll hope to make this brief and informative. So you'll see I've been tracking, Anthem has been tracking for us the total COVID expenses. This includes testing, treatment, and  anything that is COVID claims related for our healthcare plan participants since March of 2020. And as you'll see here, it's broken out between the different plan participants, different entities that are in the healthcare plan. And the Elmira County school system is 1.16 million of that total spend of 1.5. And so,  Thankfully, there are vaccination efforts and there's treatment plans and things that have brought this cost down. I do expect that there's going to be an increase in this number in the next few months because providers have anywhere from 12 to 24 months to submit claims on the plan. So we do expect this number to increase, but I'm optimistic that this will be steadying off in the next few months.  Next slide, please. Just wanted to give the board an opportunity to see what our past two years have, the past three years have been for total revenues and total expenditures. The revenues are those contributions and deductions from employee salary. And the expenditures are the pure claims data from Anthem  that includes the administrative costs, the claims data, and also the prescription drugs. So you'll see, if you look at this in a quick little glance, you'll see that we are expending more in 2021 than we did taken in revenues. And so we're projecting that that trend will continue. And so that is planned.  Last year, we offered a premium holiday because the reserve was healthy and we were able to draw down that reserve a little bit. And we're working because now we have a final COVID expense, hopefully a final COVID expense that will allow us to make a more accurate projection. We were all concerned with the pinup demand and people getting back into the doctor's office for their well checks.  And so it appears that that is the case. Now we're returning to more of a normal cadence in our medical claims. So the next slide will show you our ask for this year is 6% for the employer rate, which will equal $2.4 million. And the, let's see.  Yes, 6% rate increase for the $2.4 million that will be asked for the school board. And I believe that's my last slide. So is there any questions about this or can I answer?",
+    "speaker": "laramndrake",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "public_addressing",
+      "follow_up_request",
+      "reassure"
+    ]
+  },
+  {
+    "start": 3381.406,
+    "end": 3384.99,
+    "text": "Last slide, was it a 6% followed by an 8%?",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 3386.337,
+    "end": 3400.053,
+    "text": " No, actually, if you want to go back to that, the 8% represents what was asked in the plan year, I believe. Could we redisplay that last slide, Maya Eskimoza?",
+    "speaker": "laramndrake",
+    "tags": [
+      "clarify",
+      "request_action",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3400.934,
+    "end": 3402.216,
+    "text": "Do you want me to explain?",
+    "speaker": "mayakumaza",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 3404.338,
+    "end": 3425.427,
+    "text": "Yes, if you wouldn't mind. So I, as a health care plan analyst, I operate on a plan year, which is equivalent to the calendar year.  And of course, for budgetary process, we work on a fiscal year. So if you'd like to explain that, Maya, I'd appreciate it. Thank you. The plan year runs from January to December.",
+    "speaker": "laramndrake",
+    "tags": [
+      "clarify",
+      "request_action",
+      "defer_to_expert",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 3426.068,
+    "end": 3455.967,
+    "text": "So when we talk about the fiscal year 23 budget, we're budgeting for the last six months of plan year 22 and the first six months of plan year 23. So half of the cost are  But part of the cost is due to an 8% increase that was instituted this year during this calendar year. That's half of it. And then the other half is another 6% that is projected for January of 2023 that will cover the 12 months beginning January 2023.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "clarify"
+    ]
+  },
+  {
+    "start": 3461.802,
+    "end": 3500.504,
+    "text": " So just going backwards, when there was an $8 million shortfall, I guess that was last year, in the revenues and the expenses. Do we have sufficient, and we're only doing an 8%, so that would be the $2.4 million.  Did we have enough reserves on hand and did we add a significant number last year? I'm not remembering what the employer contribution increase was last year.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "express_concern",
+      "follow_up_request",
+      "request_action"
+    ]
+  },
+  {
+    "start": 3502.486,
+    "end": 3573.096,
+    "text": "Well, the deficit between what we expended and took it in revenue was a planned drawdown of the reserve. Our management plan says that we have to keep the balance or have a plan to draw down the balance.  to be between 16 and 33%. And at the beginning of last plan year, we had a 62% reserve. And because of COVID and because of the things we didn't know about, obviously we were gonna be very conservative with those numbers. And so with the plan holiday, that drew down the reserve considerably, but we're still in a good position. The projections show that we'll draw down the balance  to our target around 33% in the next two fiscal years. We want to do that in a slow and steady pace, just in case there's any other unexpected expenses that may come up, because obviously it costs more to do everything these days, and that includes going to the doctor. So we want to make sure that we're very conservative with these funds.",
+    "speaker": "laramndrake",
+    "tags": [
+      "give_update",
+      "clarify",
+      "reassure",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 3574.662,
+    "end": 3578.107,
+    "text": " Thank you, Ms. Hendrick. That was very clear and very helpful. Thank you.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3578.748,
+    "end": 3579.189,
+    "text": "You're welcome.",
+    "speaker": "laramndrake",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3582.073,
+    "end": 3588.843,
+    "text": "So if I'm an employee under this proposal, then when would I see the rate change? That would be in January.",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 3591.708,
+    "end": 3672.213,
+    "text": "So the rate for the employee for plan year 22 did not change. The employer received a rate change, and that would be the board contribution portion.  We are reviewing what the employees will see for plan year 23, which is the second half of fiscal year 23. So that's still under review. And so what we'll do is we will work with our consultant to look at our final numbers and our final medical expenses and those cost drivers and ask them to help us with their actuarial  of magic machinery to help us to project what the expected expenses are. Obviously, you know, we're kind of dealing with a moving target here because those plain claims do have 24 months to hit our actual expenses. So, I'm cautiously optimistic that we will be able to maintain that, but there may be in plain,  23, there may be an adjustment to the plan rate for employees based on what the consultants share with us and what we experience.",
+    "speaker": "laramndrake",
+    "tags": [
+      "give_update",
+      "clarify",
+      "logistics_info",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3672.233,
+    "end": 3672.913,
+    "text": "OK, thank you.",
+    "speaker": "daphnerkeiser",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3674.816,
+    "end": 3686.972,
+    "text": "Ms. Hendrick, will our employees be given, say, a few months notice that something might be coming down the pike instead of just?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 3686.992,
+    "end": 3748.36,
+    "text": "Well, absolutely.  The employees are notified, obviously, with open enrollment processes. But then we are taking that consideration. There hasn't been any change in the past at least five years that I'm aware of. And so there would be plenty of communication. And I believe that Mr. Redding and Ms. Cloutier would be heavily involved in that effort if there were a change. I certainly want to.  be optimistic, but we also understand that it may not be exactly fiscally responsible to keep that at a flat rate for more than six or seven years. We're really reviewing, and along with the comp and benefit study, we're going to include that data with what we're doing here for the healthcare fund to make sure that we're equitable and to make sure that we're in line with what the market is doing as far as premium rates are concerned.",
+    "speaker": "laramndrake",
+    "tags": [
+      "give_update",
+      "reassure",
+      "logistics_info",
+      "hedge",
+      "express_concern",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3749.757,
+    "end": 3764.34,
+    "text": " I can add on a little bit to this this question if you were to assess premium rate increases those would occur on January 1 of next year and typically we plan to have everything.",
+    "speaker": "daphnerkeiser",
+    "tags": [
+      "give_update",
+      "clarify",
+      "logistics_info",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3765.063,
+    "end": 3804.444,
+    "text": " And we should have everything known by the time open enrollment rolls around, which is in early November each year. So our goal throughout the year as we do this is to have final decisions made by September so that we have our final fund recommendations and our premium recommendations approved by the steering committee. And then at that point in time, we can start communicating out with employees. So in theory, we could be communicating  by the end of September, early October, because normally I spend the month of October really talking a lot about what's coming for the new year as people prepare for open enrollment.",
+    "speaker": "claudinecloutier",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "prioritization",
+      "reassure"
+    ]
+  },
+  {
+    "start": 3805.585,
+    "end": 3857.153,
+    "text": "I would add, if I may, the Health Care Plan Committee that works on these recommendations for the steering team, it is a broad group with several areas of expertise.  There are budget expertise, there's human resources expertise, there's finance expertise, and nothing is done in a vacuum and nothing will be done without incremental changes. Our approach is slow and steady and conservative on both ends. So we don't want to surprise anybody and that's why I'm at least mentioning that it's a possibility now that the rates may  be adjusted. We don't necessarily know what that would mean, but any adjustment would be an incremental basis, and it would be planned out over several planning years.",
+    "speaker": "laramndrake",
+    "tags": [
+      "give_update",
+      "reassure",
+      "clarify",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3860.758,
+    "end": 3875.378,
+    "text": "Okay, thanks. And with our reserve balance, that's going to be within safe boundaries, acceptable boundaries, right? It won't be in any jeopardy to the reserve balance.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "clarify"
+    ]
+  },
+  {
+    "start": 3876.067,
+    "end": 3921.506,
+    "text": " And I believe as we explained, the reserve would be between 16 and 33% as a general goal. But we do want to draw that down very slowly over the next few years because we don't know what, we didn't know what COVID was going to do to our budget and to our health, our employee population. But now that we have a general idea of what that expense is going to be or has been, we're able to make more solid decisions based on actual data.  and not projections. Is there any other questions?",
+    "speaker": "laramndrake",
+    "tags": [
+      "give_update",
+      "clarify",
+      "reassure",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 3926.773,
+    "end": 3959.076,
+    "text": "I know over the years we've been concerned about the high cost of prescription drugs and we've talked about different ways to  address that because those prices were going up higher than other medical costs? Has the oversight or the steering committee or in-house, have you had any conversations about that? And what did you see over this last premium year or claims year with respect to medication? Oh, yes.",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "clarify",
+      "request_action"
+    ]
+  },
+  {
+    "start": 3959.337,
+    "end": 4015.035,
+    "text": "The prescription costs have increased exponentially.  However, we are looking at that, and we've been in conversation with Anthem about what we can do to mitigate costs for our most expensive drugs, which would be the specialty drugs. And so we have enacted a few plan benefit enhancements that would help lower the cost of those. I don't necessarily know that the detail of that is important, but we have taken measures, and I provide a monthly report  to the steering team and to the committee with prescription drugs are called out in their own line item. And so we are watching that very closely. In any future contracts or plan administrators, prescription drugs is going to be top of the topic.",
+    "speaker": "laramndrake",
+    "tags": [
+      "give_update",
+      "reassure",
+      "prioritization",
+      "logistics_info",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4015.792,
+    "end": 4038.002,
+    "text": " I'd like to add that we'll be going out to bid this year for medical and dental and vision and pharmacy. And as part of that process, we would investigate the idea of a pharmacy carve out. So we could potentially go one way with the insurance for the rest of it, and then go in other directions in pharmacy.",
+    "speaker": "claudinecloutier",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 4038.022,
+    "end": 4038.643,
+    "text": "Thank you both.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4048.411,
+    "end": 4056.384,
+    "text": " There's nothing further on health care. I'll turn it to Chair Page to see if you all would want a break or continue moving forward.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "procedural_move",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4058.828,
+    "end": 4061.131,
+    "text": "OK. Board, do we need a break?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4062.353,
+    "end": 4063.215,
+    "text": "I'm fine to move forward.",
+    "speaker": "Unknown",
+    "tags": [
+      "agreeing",
+      "reassure"
+    ]
+  },
+  {
+    "start": 4064.076,
+    "end": 4072.49,
+    "text": "OK. One vote for moving forward. Everybody in agreement with that? Let's keep on going. All right. OK. All right, Ms. Kawasawa.",
+    "speaker": "grahampaige",
+    "tags": [
+      "vote_call",
+      "ask_question",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4073.011,
+    "end": 4085.453,
+    "text": "All right.  For our next section, I will introduce Mr. Dan Redding, Director of Human Resources. All right, good evening school board members and Dr. Hawes and cabinet and Albemarle community.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4086.214,
+    "end": 4223.374,
+    "text": "The next section of our work session is around the HR redesign and how that will impact our proposed budget. Let's go ahead into the next slide.  We always start with how we tie back to the school board's strategic plan. The redesign is embedded within the goal around equitable and transformative resources. The objective of attracting, developing, and retaining the highest quality staff. And it's specifically a strategy three in there, focusing an HR department that functions solely for the school division and is truly designed to meet the needs of the employees in the division.  so you can see some parts of the strategy as they're identified in the strategic plan. Next slide please.  The redesign does have an impact on the budget, and we've outlined some of the expenditure changes, specifically an increase in the number of positions in the HR department. There will also be a request for funding for two positions in the Department of Technology that are related to the redesign, and we'll talk about that in a couple minutes.  There's some operational increases in spending related to initiatives around recruiting talent acquisition, and to an human resources information system, some licensing costs around one of the cornerstones of our redesign.  The funding request for the expenditure increase is about $839,000. There's also some revenue changes embedded within this redesign because we are separating from the county government human resources team. In the past, the county government has reimbursed costs related to providing HR services to the government.  So the revenue transfer will decrease by $586,000, a little more than that, to account for the fact that they've established their own department. And that leaves a net total new funding of roughly $1.4 million. Next slide.",
+    "speaker": "danredding",
+    "tags": [
+      "give_update",
+      "procedural_move",
+      "public_addressing",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 4225.852,
+    "end": 4231.561,
+    "text": " We've looked at some of this information in the past when we updated you on the redesign in December.",
+    "speaker": "Unknown",
+    "tags": [
+      "give_update",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4231.601,
+    "end": 4702.614,
+    "text": "In December, we shared the three-legged stool. Another way to think about it is we have centers of expertise in HR. Those are the process-facing leg of the stool. And that's our benefits, our compensation, and our recruiting function.  We have a service center that's focused on customer service, that's the employee facing leg of the stool. And then that third leg was the leader facing leg and that's our business partners and how they're supporting school and department level leaders in carrying out human resources related duties and really meeting the needs of their employees.  But it's the human resource information system that's really going to help facilitate a lot of this transformation. And that is basically the software package that holds our employee data. This will be one that is owned and operated and supported by  ACPS. Currently our tech systems are systems that are owned by the local government, and so these systems have to be configured and tailored to meet our needs. The HRIS is really going to help us enable metrics. We'll be able to very easily report on  things such as turnover and drill down to specific positions, departments and schools, demographics on employee data, the capacity to report and build custom reports to answer specific questions that will help us make better decisions for our workforce and then ultimately our students and our families. Next slide, please.  We've talked about how this HR redesign is really about moving from transactional to transformative.  And right now, a lot of HR's work is around employment transactions related to hiring and transferring positions, processing salary increases, and leave applications. It is deeply transactional. We want to really shift that. And some of the transactional pieces we want to take on are shown on this slide.  We really want to augment that recruiting function, so having a recruiting manager and specialists will really support how we're going to face the tight labor market that we're living with now and as the teacher shortage across the country continues into the future.  or business partners will really provide that direct support to leaders and help them with HR decision-making, help them analyze data around employee engagement in areas of need to create optimal environment for their employees and ultimately increase retention. So that's how we foresee this transformation occurring. Next slide.  Couple slides back we shared that there were some new positions in HR, some positions are changing their focus and some will be brand new.  One of the big areas of change will be in the recruiting function. There's currently a Director of Educator Quality and there's a Diversity and Recruiting Coordinator. We'll have a three-person recruiting team moving forward to really focus on that recruiting area and support bringing in the very best talent for our classrooms and for our support areas.  One of the new positions will be a service center supervisor who will really lead that customer service effort for us and ensure that we're being very responsive and we're enabling self-service for our employees. Our goal is that 60% of the HR transactions employees need to do, they'll be able to do by self-service, either by reading how-to documents on our  on our intranet or through that self-service functionality in the human resources information system, changing their address, updating their dependents and beneficiaries, changing their benefits enrollments, all of those pieces that can be done automatically, electronically.  Because we're going to adopt a human resources information system, there are some staffing needs around that. Within human resources, we'll be bringing on board an HRIS manager and an HRIS analyst. This team will be responsible for the configuration of the system and making sure it aligns with our employment policies and how our employees are working within the system.  as well as configuring reports and ensuring that we're able to get the data out of the system, so that we can act on it and make decisions based on data for our employees needs.  leader-facing leg of that three-legged stool are our business partners. And the closest analogy we currently have for them are our generalists. But we're removing some of that transactional work that our generalists have to do and really freeing them to work directly with principals and department heads around their HR needs. They'll be bringing data from exit surveys,  From stay interviews, they'll be bringing all of that information out of the HRIS to our leaders and helping them act on it, helping them address issues of workplace climate and ensure that we're delivering an optimal workplace for our employees. Next slide. So some of the outputs and outcomes within our logic model.  HR, like all ACPS departments, will develop a department improvement plan with goals and strategies, really focusing on those three functional areas. Within that year, we expect to have a fully functional HRIS with the HR team as well as employees trained to use it and support that system moving forward.  We'll have a solid communication plan to introduce our employees to this redesigned department and how we will be serving them moving forward. We expect to see staff retention, teachers, administrators, and support staff increase by 2%.  We want to gather baseline metrics around customer service and the experience our employees and our leaders are having as they come to HR with questions or needs, and then set goals for improving those metrics over time. We really want to get in a good cycle of continuous improvement.  And finally, in the report we shared with you in December and the recommendations around the redesign, our own HR team was asking to move from a transactional focus to that transformative focus. And we'll be asking them, how has this redesign gone? And we expect them to provide favorable responses around their work and around this redesign.  So that is the HR redesign. What questions might you have?",
+    "speaker": "danredding",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "logistics_info",
+      "prioritization",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 4716.123,
+    "end": 4717.727,
+    "text": "Are there any questions for Mr. Reddick?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4721.622,
+    "end": 4730.569,
+    "text": " So Mr betting none of this will be in place yet, since it's in the budget for next year for this, the season of recruiting is that correct.",
+    "speaker": "daphnerkeiser",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 4731.781,
+    "end": 4774.41,
+    "text": " So we are actually able to start making some of these shifts in the near term. The county government has been hiring and onboarding team members. I believe they have about four coming on board in the next two weeks. And that is freeing staff within the current HR department, whose responsibilities are primarily related to the local gov to support the school side more. And we're very excited  about that. We'll start seeing some increased support for schools, understanding that there's knowledge transfer to do as people on board for the government side, but I'm excited that we're going to be able to get a little bit of a jump start as this goes forward.",
+    "speaker": "danredding",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "reassure"
+    ]
+  },
+  {
+    "start": 4777.954,
+    "end": 4785.582,
+    "text": "And since this will be on the next fiscal year with the HRIS, how long does it take to stand that up?",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 4787.62,
+    "end": 4817.458,
+    "text": " That's a great question. And it's going to depend on the product. Different products have different levels of complexity. In my mind, I would imagine we're looking at about a six-month, potentially a little more, implementation period. We are preparing to go out with an RFP. We've been working with procurement, and we believe our draft is very, very close to done. So we are preparing to put that out and start that process.",
+    "speaker": "danredding",
+    "tags": [
+      "acknowledge",
+      "clarify",
+      "give_update",
+      "logistics_info",
+      "hedge"
+    ]
+  },
+  {
+    "start": 4818.434,
+    "end": 4833.135,
+    "text": " Well, I was just thinking about your outcome measures, so the HRIS won't be there. It'll be next, the next recruitment year, you'll be mostly up and going. Is that about right?",
+    "speaker": "kateacuff",
+    "tags": [
+      "clarify",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 4833.419,
+    "end": 4850.981,
+    "text": " In terms of the HRS will be fully functional, hopefully by the next recruiting year, yes, but we'll be moving that employee data over and starting to really utilize the features of it, hopefully as early as late fall, early winter. Thank you.",
+    "speaker": "danredding",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "hedge",
+      "reassure"
+    ]
+  },
+  {
+    "start": 4859.191,
+    "end": 4871.097,
+    "text": "Other questions for Mr. Redding?  Okay, thank you, Mr. Redding, for that segment. Thank you.",
+    "speaker": "grahampaige",
+    "tags": [
+      "follow_up_request",
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4871.117,
+    "end": 4876.903,
+    "text": "All right. Our next presenter will be Dr. Daphne Kaiser, Director of Educator Quality.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "public_addressing",
+      "logistics_info",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4879.045,
+    "end": 5216.94,
+    "text": "Evening, Chairman Page, board members, and Superintendent Haas. The first phase of the substitute program improvements was implemented during the fiscal year 2019-2020 budget.  to address the ongoing issues related to substitute shortages, increase the number of substitutes, improve daily fill rates, and explore creative ways to enhance the overall program. Next slide, please. Over the last two years, the program has evolved and been impacted throughout the various stages of the pandemic. During the onset and early months,  encompassing virtual learning and the first phases of return to school, there was less of a need for substitutes. Schools were utilizing internal staff and regular substitutes who were familiar with the students, school organization, and routines. Then as more students and staff transitioned back to the buildings, the need for substitutes increased.  In this school year with increased infection rates and the presence of the Omicron variant, even more substitutes have been needed to support schools and students when teachers are out quarantining and or needing to be home to care for sick and or quarantine children. The current substitute program initiatives have been critical in addressing the needs of students and staff. First,  to increase the number of highly qualified substitute teachers available to serve our students and schools, as well as remain competitive in the marketplace. Last month, the board approved a hard-to-fill critical needs supplement to increase the daily substitute rate. Second, teaching assistants and teachers have been incentivized to serve as daily substitutes. In addition to their regular pay, TAs and teachers participating in the program  are paid the sub-incentive calculated based on the daily substitute rate and the actual time spent substituting during that pay period. Teachers have been supportive of the program and greatly appreciate their participation. Third, we have put a call out to our retiring and retired teachers to seek their support in this effort. Our retiring and retired teachers are committed to the division and want to help to ensure  that we are providing high-quality continuity of learning for students during teacher absences. Some of the benefits available to our retired teachers include a one-time bonus for their commitment to become an active substitute teacher, increased daily substitute rate, plus the hard-to-fill critical needs supplement, cover the cost of one-time renewal of their Virginia teaching license,  participation in professional development offerings through ACPS and Albemarle County local government, and reactivation of their ACPS email account. Lastly, our licensed central office staff members have provided continuous, on-call, same-day support to schools throughout the pandemic that have been a tremendous help to schools and students.  Central office staff members have been asked to serve as a substitute at least once per month. However, there are staff members who serve much more throughout the month. Central office staff members frequently communicate with partner schools to inquire about ways they can support schools and students. The next slide provides comparison information for the substitute field rates during school year 2018-2019 and school year  2021-22. The substitute fill rate is the percentage of teacher absences requiring a substitute that were in fact filled by a substitute. A substitute could be a traditional daily substitute or retiree, a current teaching assistant taking on a teaching assignment for the day, a teacher filling in during a planning block,  And throughout the pandemic, administrators and central office staff members have stepped in to support daily substitute needs. The graph gives a visual of where we were prior to the pandemic and where we are now. The top or gold line represents the fill rates for the months of August through February during school year 2018-2019. And the bottom or blue line represents the monthly fill rates so far for the current school year.  Prior to the pandemic, our field rates were roughly between the mid to high 70s to mid 80s. Now our field rates are between the mid to high 40s to mid 50s. Absences across the school years are consistent. However, the numbers of unfilled assignments are significantly more this school year due to lower numbers of active substitutes taking assignments.  We currently have over 300 substitutes in the system, but only about 75 are actively substituting this year. The substitute program improvements proposal for this upcoming school year aims to address this issue and provide additional supports to schools and students. Next slide.",
+    "speaker": "daphnerkeiser",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "policy_proposal",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 5218.928,
+    "end": 5232.764,
+    "text": " Along with our current substitute initiatives this year, we are proposing to add an additional one to four permanent school-based substitutes based on school enrollment and a central level substitute coordinator.",
+    "speaker": "daphnerkeiser",
+    "tags": [
+      "policy_proposal",
+      "give_update",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 5234.006,
+    "end": 5551.302,
+    "text": "During phase one, first year of the substitute program improvements, we piloted a regular substitute model. In this model, we had one FTE assigned to move or float weekly  to fill daily substitute assignments between the Greer, Jewett, and AHS feeder pattern. We received feedback from the office associates and administrators that the substitute was needed each day at the assigned school to fill assignments with no opportunities during the week to support other schools. This year's proposal improves on the pilot study by utilizing an allocation for the school-based substitute  like the allocation for a teaching assistant. This allows for an increased number of school-based substitutes that can serve schools and students. One school-based substitute is equivalent to .33 FTE. The school-based substitute position has the same requirements as a regular daily position.  Furthermore, the school-based substitute position provides an opportunity for entry-level employees to gain some experience and decide if they would like to pursue teaching as a career. This is a great opportunity for our current teaching assistants who would like to begin or complete a teacher education program, and or for current and future college students who desire and need a paid position with benefits.  We see this position as a potential pipeline for future ACPS teachers. In addition, serving as a permanent school-based substitute, one can develop strong connections and relationships with students and staff and become an integral part of the school staff. The school-based substitutes would know our students, the school routines and division goals, et cetera.  There would be opportunities for collaboration with teachers, involvement in school activities, after school clubs, and community events, engagement during planning and PLC meetings, as well as participation in professional development sessions. This year's proposal also adds one FTE central level substitute coordinator.  Currently, one of our HR office associates coordinates the program along with her other duties. Having a designated central level substitute coordinator would provide focus and dedicated resources to this position. The central level substitute coordinator will maintain the employment life cycle of all ACPS substitutes, including recruiting, onboarding, managing access to frontline, the substitute management system,  customer service, performance management, as well as providing ongoing training and development to substitutes. The next slide provides information regarding the proposed school-based substitute standard. For example, each elementary school would receive one school-based substitute. If the school has an enrollment of over 350 students, then the school would receive two school-based substitutes.  and schools with enrollment over 700 students would receive three school-based substitutes. You can see the breakdown regarding the allocation for the comprehensive middle and high schools and the community lab school. The last slide provides the outputs and outcomes of the substitute program improvements.  By the end of next school year, we will have data to support the following outputs and outcomes. The outputs include a month-to-month comparison over the last three years to show an increase in film rates. Adding permanent school-based substitutes will help to reduce the number of daily substitutes needed to fill assignments.  Staff members will resume their normal duties and will be less likely to be asked to cover classes. And the number of daily substitutes will increase to allow for an 85% or higher field rate.  The outcomes include staff filling daily substitute assignments, will have stronger connections and relationships with students and teachers, while increasing the continuity of instruction during a teacher's absence. Substitute teachers will report having adequate training and resources to help them feel successful in their position.  and the substitute coordinator will positively impact the recruitment, onboarding, development, and placements of substitutes based on substitute survey data. We look forward to updating the school board on the progress of the substitute program improvements next year. This is the end of this section, and I'm happy to answer any questions.",
+    "speaker": "daphnerkeiser",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "clarify",
+      "reassure",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 5561.255,
+    "end": 5582.217,
+    "text": " Any questions for Dr. Kaiser? Okay, I have one, Dr. Kaiser. How has the response from our retired and retiring teachers been? You know, have they been knocking down the door to become substitutes?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "defer_to_expert",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 5583.58,
+    "end": 5632.871,
+    "text": " Yes, I would say prior to the pandemic, we had very good response from our retirees, and we still have good response from our retirees. However, some of them have taken a little time off during the pandemic due to concerns around health concerns.  And also we have some retirees who are currently helping their children with their children when they have to quarantine and have other related issues. But overall, I would say, yes, we have had good response from our retirees. They are very supportive of the program.",
+    "speaker": "daphnerkeiser",
+    "tags": [
+      "give_update",
+      "reassure",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 5639.419,
+    "end": 5639.98,
+    "text": "OK, thanks. Other questions?",
+    "speaker": "joe",
+    "tags": [
+      "acknowledge",
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5650.844,
+    "end": 5652.687,
+    "text": " All right, Dr. Kaiser, thank you so much.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 5654.229,
+    "end": 5658.155,
+    "text": "Thank you. And I'll turn it over to Dr. Claire Kaiser.",
+    "speaker": "daphnerkeiser",
+    "tags": [
+      "acknowledge",
+      "defer_to_expert",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5661.119,
+    "end": 5950.316,
+    "text": "Good evening, board members. And I'm so excited to share one more proposal with you tonight that really does take our employees into consideration. Tonight, you've heard the budget proposal specifically focusing on helping them. And here is one more way that we would like to do that. You may go on to the next slide, Maya.  You will find this proposal on pages A, 44 and 45 in the budget book with the staffing standards on page G6. And the staffing, the proposal is around increasing our number of elementary school principals or changing the staffing standard for them. The work of school leaders is invaluable when it comes to ensuring that we have high quality teaching and learning happening in our schools.  The interactions between principal and assistant principals around instructional leadership with teachers, the relationships built with students and their families, and the overall logistics of managing a school are vital to student and staff success. The work of school leaders is similar across all of our schools, large and small, and each with their own complexities.  The current staffing standard for elementary assistant principals is one per school where the enrollment is over 350 students and two per school where the enrollment is over 700. That standard leaves our five small elementary schools without an assistant principal.  When there is one person as a sole administrator, it is challenging to meet all of the demands and expectations placed on our principals. Recognizing the importance of building relationships, of leadership, and the unique challenges placed on principals in small schools, this budget proposal shifts the staffing standard to have an assistant principal in each of our elementary schools, with an additional AP continuing at a school that is larger than 700.  The proposal would add five elementary assistant principals, one each to Broaduswood, Murray, Red Hill, Scottsville, and Stony Point. Next slide, please.  Across the school division, we have seen the demands placed on our school leaders to have increased. There are increased demands regarding testing requirements, student health requirements, safety and security, and overall logistics. Additionally, our strategic plan calls for a more direct attendance and involvement of our administrators in professional learning communities or PLC meetings.  We ask that they establish stronger relationships between the home and the school and to provide feedback and coaching around instructional practices as outlined in our learning walks in our educator performance appraisal.  Finally, if a principal is unavailable, whether for division level meetings or while in PLCs or student related meetings, or for illness or other things that may pull them away, a small school may be without administrative coverage and support. In past years, a designee has served as an acting administrator when the principal was out.  and that seemed to work well in that time period. However, in our current state, it is not unusual for a sole principal to request an administrator coverage when they are out of the building, even for just a few hours. Adding an assistant principal to those schools would add continuity with students, staff, and parents if the principal is unavailable, as the need for coverage would not exist.  While these positions may not be limited to novices, being an assistant principal in one of our small schools is a great entry-level position for an aspiring administrator. It is in a time where we see fewer educators choosing to go into administration, these roles may assist with planning for succession for us. Next slide, please.  And finally, I'll go to the logic model. The outputs that we intend to see in this, with the addition of the assistant principals in our small schools, is that the number of learning walks that are completed by the end of the first semester will show an increase over prior year data. These learning walks allow us to see trends in our classroom, focusing on the guaranteed viable curriculum, culturally responsive teaching practices, and the use of adopted resources.  Additionally, we anticipate seeing increased attendance by administrators in PLC meetings when compared to prior years. And when we check in with our principals, we anticipate hearing statements that indicate an increased level of job satisfaction. Longer term outcomes, we will include feedback from surveys that we put out around greater, where we anticipate hearing about greater job satisfaction, greater support, and greater family connection.  Again, this proposal is about changing the staffing standard to add five assistant principals, one to each of our small elementary schools. As with the other proposals, I will now pause and see if you have any questions.",
+    "speaker": "clarekeiser",
+    "tags": [
+      "policy_proposal",
+      "give_update",
+      "public_addressing",
+      "clarify",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5956.202,
+    "end": 5970.453,
+    "text": "Dr. Karzai, I just want to tell you that I think this is a very good, important step. I was very unhappy when we had to take those positions away and it's  been years now, but I'm glad to see that we're getting to the point where we can restore them.",
+    "speaker": "davidoberg",
+    "tags": [
+      "acknowledge",
+      "opinion",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 5980.329,
+    "end": 5999.687,
+    "text": "I agree that this is a good and needed step.  Although, Dr. Kaiser, I have been reading about how principals are escaping and that there's been many resignations even mid year, so do you anticipate any challenges to hiring five more?",
+    "speaker": "kateacuff",
+    "tags": [
+      "agreeing",
+      "defer_to_expert",
+      "ask_question",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 6000.882,
+    "end": 6024.612,
+    "text": " I'm hopeful not. It's interesting. We have recently posted the general postings for anticipated vacancies for administrator positions for the upcoming school year, both for principals and assistant principals. And I will say that the pool of candidates in the assistant principal school pool greatly outnumbers those in the principal pool. So it's a good thing that we can be building capacity here.",
+    "speaker": "clarekeiser",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "reassure",
+      "opinion",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6032.894,
+    "end": 6042.683,
+    "text": " Any other questions for Dr. Claire Kasa? OK, Dr. Kasa, thank you.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6043.224,
+    "end": 6045.646,
+    "text": "Thank you very much. And I will turn it back to Ms. Komizawa.",
+    "speaker": "clarekeiser",
+    "tags": [
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6049.189,
+    "end": 6103.637,
+    "text": "Thank you all. Just as a summary and to bring these proposals back to the budget, here is an overview of the proposals you have heard about this evening. As you can see, they make up  bulk of that $30 million increase that we're proposing and the draft funding requests. And looking forward to next week, here's a draft agenda for you to consider. There are a few proposals that we have not yet talked about. Those are listed here in the dark green. But I also want to take a moment to  get some feedback from you all. What else would you like to hear about? What else would you like to discuss? Next week really focus will be more of a discussion on any other topics that may be of interest to you that will help you prepare for your funding.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "ask_question",
+      "follow_up_request",
+      "public_addressing",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 6106.216,
+    "end": 6150.313,
+    "text": " Maya, one thing that is unclear in my mind is to sort of call back to a meeting we had a couple months ago, I'm going to say, when we heard from the social emotional support counselors. And I just don't understand exactly what their role is and how it intersects with the counselors who have been on the ground for  a longer time. So I just wanted to get a sense of how their roles either intersect or complement or what they are.",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 6150.614,
+    "end": 6187.008,
+    "text": " Maya, one other thing. I know that Dr. Haas's funding request included a section on capital. And now that the county, Jeff Richardson has presented his budget proposal to the Board of Supervisors on Wednesday, we might want to include a slide in terms of what he is, what he is recommending to the Board of Supervisors.  It is less than what our optimal was, but I think it would be worthwhile including that.",
+    "speaker": "kateacuff",
+    "tags": [
+      "request_action",
+      "logistics_info",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 6194.402,
+    "end": 6222.886,
+    "text": "OK, Maya, I'd like to see more information about our Language Immersion Program, the status of that.  Any other requests for Ms. Kumazawa to include in next week's presentation?",
+    "speaker": "grahampaige",
+    "tags": [
+      "request_action",
+      "follow_up_request",
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 6222.906,
+    "end": 6239.481,
+    "text": "And if you have anything else, the email budget at k12albemarle.com will be monitored for further questions, comments, and any follow-ups that you may think of in the meantime. And that is also available for the public and community for questions and feedback.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "logistics_info",
+      "public_addressing",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 6242.633,
+    "end": 6276.995,
+    "text": " Okay, thank you, Ms. Kumasawa. And Mr. Downs, Mr. Redding, Ms. Gutierrez, Ms. Andre, Dr. Daphne Kaza, and Dr. Claire Kaza, thank you all for participating in tonight's presentation. We really appreciate how well organized our presentations have been. So thank you, Ms. Kumasawa, for taking care of that.  Is there, do we have any other business from board members or from the superintendent.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "procedural_move",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 6278.979,
+    "end": 6613.411,
+    "text": "So, thank you, Mr. Page, I just want to echo what you said.  Tonight's presentations were great. It was a kind of a walk down memory lane to see Claudine presenting. It's been a long time since we've had her at a school board meeting. Just knows everything about health insurance. If any of you ever have any questions, you want to email her. And having Laura has been great in terms of managing that health care reserve.  I do remember a time when we were always reacting to where the healthcare reserve was instead of getting out in front of it and having her in that position has been a real game changer. I want to, I did have a couple, I did have a board member reach out to me to just check in on March the 1st, as you know, the state law on March the 1st allows for families to make a decision around their child  wearing a mask to school around COVID-19 mitigation. The steps we've taken are, I think, in line with other school divisions and also just best practices around dealing with our school communities. First of all, we put out, I think, what was a crystal clear communication  to our families about the new law, what it entailed, what is changing, what is not changing. I had a lot of feedback in my email and just talking with staff around the schools that our communication was, it just covered everything. And they really appreciated the way it was written.  what it meant and they understood that. So I think that was the first step in that. We really, I think sometimes you see us come out with a communication and it's like, oh, great. Well, that took probably about seven hours of staff time to get that nailed down with our attorney and everybody looking at it. So those things don't just happen as an accident. The next thing we did,  was we've, just like before when the governor put out executive order two, in the interim we have had meetings with our leadership team, which includes all of our principals, department heads, and then we've had follow-up meetings again with elementary principals and secondary principals to really unpack scenarios, to talk with them about their plans, let them just  think out loud, express their concerns, and then help them brainstorm solutions at their schools. We put together a slide deck that every school could use to share with their teaching staff around the change and how to work with it. We encourage our teachers and our  school leaders to use existing structures such as their morning meeting times, the advisory periods, freshman seminar, as well as the intervention periods at the high schools to have conversations around this topic. So I feel that our schools, and I've seen independent communications go out from the schools to their families, explaining again in family terms,  what the change means on March the 1st. I think our principles have been amazing all throughout these two years of the pandemic and their work to get ready for March 1st is no exception. I would think about what happened when the original executive order came out. I certainly as  in my role, was very anxious about the day that that executive order was to take effect because of the circumstances where there were differing views about its application. And I don't want to jinx us, but that day went well. I feel like our community all has one thing in common, which is we all love our children.  We're all concerned about them. We all want them to have a positive day every day and have continuity in their learning and feel good about coming to school. All other things aside, we all agree on that. So I'm trusting our families. I'm trusting our parents. And I'm putting a great deal of trust, well-placed trust, in our teachers and our administrators at the schools to leverage those relationships  that are well founded and built on trust to have March 1st go well.  We do have, we happen to have this coming week, another elementary principals meeting and a secondary principals meetings in the middle of the week. So we will be able to gather, hear how things are going and continue to work through this new scenario as a team. So I just wanted the board to know, and just to speak in public about it, that this is at the top of our minds among all the other  issues that we're currently dealing with in the school system.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "give_update",
+      "reassure",
+      "agreeing",
+      "acknowledge",
+      "prioritization",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 6616.978,
+    "end": 6644.182,
+    "text": "Thank you, Dr. Haas. Do any board members have any other business for our discussion tonight?  Okay, if not, our meeting is adjourned. We will have our next work session on March 3rd. So thank you all for your attendance.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "logistics_info",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6646.328,
+    "end": 6647.772,
+    "text": "Bye, everybody. Bye, everybody.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing"
+    ]
+  }
+]

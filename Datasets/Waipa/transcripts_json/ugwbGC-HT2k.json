@@ -1,0 +1,2460 @@
+[
+  {
+    "start": 2.622,
+    "end": 5.003,
+    "text": " I'm here to do this. Got it.",
+    "speaker": "tonyquick",
+    "tags": [
+      "confirm_next_step",
+      "agree"
+    ]
+  },
+  {
+    "start": 5.023,
+    "end": 27.316,
+    "text": "Okay. Afternoon, everyone. Good to see you all. And we'll, yeah, we're here for the Pirongi Award Committee. So we'll start with the first thing on the list, which is the apologies. So have we got any apologies? And Kieran, I think you said we do? Yes, we do have apologies from Haupai Puki for non-attendance and Ruth Webb for lateness.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "public_address",
+      "procedural_move",
+      "ask_question",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 28.636,
+    "end": 29.477,
+    "text": "Okay, that's great.",
+    "speaker": "Unknown",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 30.753,
+    "end": 45.665,
+    "text": " And no other apologies from the members there that\u2014 \u2014 No, no. \u2014 Okay, cool. All right, so could we have a mover and a seconder, please? Let the apologies be accepted. Who would like to move? You can put your hand up if you like. \u2014 Andrew's moved.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 45.685,
+    "end": 47.066,
+    "text": "\u2014 Oh, okay, thank you, Andrew.",
+    "speaker": "brucethomas",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 47.087,
+    "end": 81.192,
+    "text": "Sorry, I couldn't see you. And did you put your hand up as a seconder? Cool, all right. All in favour, please say aye. \u2014 Aye. \u2014 Aye. \u2014 Against, carried.  Thank you. And then the next item is disclosure of members' interests. Is anyone making any disclosures? Wouldn't expect to. Great. Excellent. Then we'll go on to late items. So Kieran has got something to help us through.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "ask_question",
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 83.055,
+    "end": 138.43,
+    "text": " Thank you, Sarah. So what we have is that in the agenda, we included the water services activity report to 31 August, whereas it should have been the activity report to 30 November, 2021. So we'd like to add the later report to the agenda to ensure that the committee has the most up-to-date information available to them.  which is why it cannot be delayed to the next meeting. And we'd just like this item to be included in item seven. It can be discussed in that part as opposed to instead of being a late item. So the staff recommendation at this stage is that the Pirongi Award Committee receive the report Water Services Activity Report to 30 November 2021 as a late item and consider the document in item seven, quarterly reports.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "procedural_move",
+      "clarify_point",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 139.79,
+    "end": 180.353,
+    "text": " All in favour, please say aye. Aye. Against, carried. Thank you. It went smoothly. All right. And then I'm just going through the report because I think the next item is confirming the order of the meeting. So, I'm just going to go through the order of the meeting. So, I'm just going to go through the order of the meeting. So, I'm just going to go through the order of the meeting. So, I'm just going to go through the order of the meeting.  Yeah, and that's on page 22. So we have a recommendation that the Purongi Award Committee confirm the order of the meeting. So are there any changes to the order or anything like that, Kieran, that you were thinking of?",
+    "speaker": "clairestpierre",
+    "tags": [
+      "call_vote",
+      "summarize_outcome",
+      "procedural_move",
+      "ask_question",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 180.554,
+    "end": 189.821,
+    "text": "No, no, because that late item is going to be slipped into item seven, quarterly reports. So no, it can just continue on in the same order and all staff.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "provide_information",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 190.841,
+    "end": 246.63,
+    "text": "Excellent. Yeah, so could I have a mover then and a seconder that the order be confirmed?  Someone's got their hand up, I can't see it. I don't know. Yeah, Alan and Dan, thank you. All in favour, please say aye. Aye. Against, carried. Thank you. I'm sorry, Andrew, I can't see you on my display, so you might have to do something to get more attention from me. Anyway, the next item is confirmation of the minutes of our previous meeting.  And so these start on page 24. So we'll just go through them page by page and see if anyone has any things they want to amend or query. So we've got page 24, 25, 26. Very clear.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "summarize_outcome",
+      "confirm_next_step",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 246.77,
+    "end": 248.47,
+    "text": "Have we heard anything from Janet Williams?",
+    "speaker": "brucethomas",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 249.547,
+    "end": 254.149,
+    "text": " No, which is really unusual for her, actually, because she's usually so onto it.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "state_opinion",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 254.37,
+    "end": 254.69,
+    "text": "Yeah.",
+    "speaker": "janetwilliams",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 257.211,
+    "end": 261.193,
+    "text": "Okay. Yeah.",
+    "speaker": "brucethomas",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 261.533,
+    "end": 266.756,
+    "text": "Sometimes she is late, actually, but she might have some other commitment.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 266.796,
+    "end": 274.42,
+    "text": "Bear with me just for a moment. I have actually quite literally just got a text. She will be on Zoom in 15 minutes. Oh, okay.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "public_address"
+    ]
+  },
+  {
+    "start": 274.98,
+    "end": 348.748,
+    "text": "Yeah, that's cool. All right. So now I'm on page 27.  28, yeah, all right, that's it. So no one's picked up anything that they want amended. So with that, the recommendation on page 23 is that the committee confirm the minutes of the meeting held on the 8th of September is confirmed as a true and correct record. So can I have a mover and a seconder for that, please? I'll move. Thank you, Bruce. Yeah, and a seconder?  Thank you, Alan. All in favor, please say aye. Aye. Against. Carried. Excellent. Thank you. All right. And now we do the verbal reports. So who, oh, I guess I could call out the person's name in the order that they appear, but I don't know if that's going to be the best idea really, because we've got Kaipaki, which is,  Jeff, and then Koromatua, which was Janet. But then Ng\u0101harapuri, so Jan, would you like to give us an update? In fact, you did send something through to Bruce, I saw, so, yeah. Yeah, sure.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "summarize_outcome",
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 349.688,
+    "end": 411.671,
+    "text": "So no real updates, everything seems to be going really well, apart from the bridge on State Highway 39, which has now been, it's now been, what's the word, detoured for heavy vehicles. So a lot of talk around the community  in relation to this, and with the trucks being detoured down Nahanapuri Road, which is a one-way, has a one-way bridge, and then theoretically back down Ham's Road, which is another very old one-lane bridge. So there's a lot of concern about the deterioration of those two bridges with the heavy trucks going down there. So then sort of,  all that's happening, it is quite concerning. I know that the tenders have gone out to replace the State Highway 39 bridge, but once again, I think last time they didn't get any response to that, so. In fact, with those 50K signs up there for about three or four years, I think.",
+    "speaker": "janthomas",
+    "tags": [
+      "provide_information",
+      "express_concern",
+      "community_reference",
+      "report_back"
+    ]
+  },
+  {
+    "start": 412.731,
+    "end": 415.232,
+    "text": "So I think the residents' main concern is that",
+    "speaker": "clairestpierre",
+    "tags": [
+      "express_concern",
+      "community_reference",
+      "state_opinion",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 416.383,
+    "end": 435.377,
+    "text": " These trucks, and they are the big trucks, are coming off a transit road and travelling down our council roads as well. So obviously the deterioration in those two bridges and with them both being one lane bridges is quite a concern to them. That's all from us.",
+    "speaker": "janthomas",
+    "tags": [
+      "express_concern",
+      "provide_information",
+      "prioritize_issue",
+      "community_reference",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 436.398,
+    "end": 462.028,
+    "text": "Okay, Kieran, I just wonder whether or not we could sort of flag that query about how those one lane bridges on the detour are sort of  handling the extra... We've got Brian here. Oh, Brian is there? Yeah. Sorry, Brian, yes, it'd be great if you could give us some feedback or if you're monitoring things. Okay, yeah, so I guess we have some concerns too and we're",
+    "speaker": "clairestpierre",
+    "tags": [
+      "ask_question",
+      "assign_action",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 464.23,
+    "end": 603.396,
+    "text": " weren't particularly pleased that Waka Kotahi sort of let things go as long as they have, but they've got some really tight funding restrictions also that have governed where they can spend money on structures around the whole country.  But we've certainly been keeping in touch with them. We had hoped that their efforts to contact all of the big trucking firms that use that route and encourage them to use State Highway 3 would have seen more of the trucks detour off 39 onto State Highway 3. But I don't think that has happened. And actually an email I got from them just today when I queried  how things were going, they responded, well, they haven't actually got, or they said they didn't have one of the signs up for the northbound traffic, meaning that they couldn't enforce the restrictions. And so some heavy traffic was still running over the old bridge there.  So I hope they do get all of the things in place that they promised that they would do. So our expectation is that they are regularly monitoring the detour route. So their contractor would do that, the signage and the road condition and the like. And they are responsible to repair any damage to the road or the single lane bridges  as a result of the detour. I mean, that's cold comfort for the residents along the route who are putting up with more heavy traffic and noise and, you know, trucks on roads, you know, much bigger trucks than those roads were designed to deal with. So I've certainly prodding Waik\u014dtahi to be monitoring and reporting and addressing any  negative issues that arise on that detour route as a result. But it is a little bit of a wait and see what happens, how well it works, and whether we need to take more steps or we require Waki Kotahi to take more steps to protect or, you know, change the way the detour route is operating.",
+    "speaker": "manager",
+    "tags": []
+  },
+  {
+    "start": 605.078,
+    "end": 609.261,
+    "text": "And Brian, so obviously those two bridges concerned can take the weight.",
+    "speaker": "brucethomas",
+    "tags": [
+      "provide_information",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 610.598,
+    "end": 639.019,
+    "text": " Yes, yes, they can easily. They're very short bridges. And so, you know, they're rated for 50 ton trucks. And so there's no high productivity motor vehicles which are more than 50 ton because they're not allowed on State Highway 39 because there's numerous bridges along that route that can't take those bigger trucks. So they're all 50 ton or less, which is fine on those short bridges.",
+    "speaker": "manager",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 641.945,
+    "end": 649.272,
+    "text": " My other concern would be that that road, even when you've got a car and a truck, is very narrow. Two trucks would have to actually get off it, wouldn't they?",
+    "speaker": "brucethomas",
+    "tags": [
+      "express_concern",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 650.192,
+    "end": 666.207,
+    "text": "Yes, that's right. That's the risk that we'll get the edge of seal break away as a result, or the trucks, as they come around some of the sharp corners, they'll have to be travelling slowly because they might have to stop if a vehicle is coming the other way because they won't be able to stay on the left side of the road.",
+    "speaker": "manager",
+    "tags": [
+      "agree",
+      "provide_information",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 670.174,
+    "end": 694.217,
+    "text": " I was just going to ask you, Brian, like James, you know, voice these concerns, like, so what would your recommendation be if some of the residents sort of see something they're concerned about, like to  file something through the CRM system, through the 0800 number? Yeah, through the CRM system is best.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "community_reference",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 694.457,
+    "end": 720.309,
+    "text": "You know, I was talking to one resident of Hams Road just this morning and I recorded all of her concerns or her family's concerns and posted those through to the transport agency, to Waka Kotahi.  letting them know that these are the issues that are arising for people on those local roads and that we expect them to be monitoring and making sure the detour is safe.",
+    "speaker": "manager",
+    "tags": [
+      "report_back",
+      "community_reference",
+      "express_concern",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 721.089,
+    "end": 723.37,
+    "text": "Yeah, I know that's great.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 723.41,
+    "end": 732.032,
+    "text": "We can always fix up roads in terms of edge break or any other damage. We can fix stuff, but we don't want crashes to occur.",
+    "speaker": "manager",
+    "tags": [
+      "provide_information",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 733.509,
+    "end": 744.757,
+    "text": " Yeah, yeah. Jan, you haven't had any reports of near misses or anything like that, have you? No, there hasn't been any reports or anything like that.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "report_back"
+    ]
+  },
+  {
+    "start": 744.777,
+    "end": 751.162,
+    "text": "That detour did just start, I think, from the 1st of December. Yeah, OK, right.",
+    "speaker": "janthomas",
+    "tags": [
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 751.462,
+    "end": 754.865,
+    "text": "Are you happy about that, Jan? Yeah, yep.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 755.645,
+    "end": 758.948,
+    "text": "Brian's obviously aware of it, so yeah. OK, that's cool.",
+    "speaker": "janthomas",
+    "tags": [
+      "agree",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 762.321,
+    "end": 772.624,
+    "text": " Okay and then the next one up is a Hopo and Andrew's there if you'd like to just give a bit of an update of what's happening in his end of the world.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "ask_question",
+      "assign_action",
+      "report_back"
+    ]
+  },
+  {
+    "start": 773.684,
+    "end": 883.335,
+    "text": "Yeah, no worries, much the same, sort of help us just taking a long coming out of a bit of a lockdown with COVID so people starting to  amalgamated again and the community gather as a community, which is good. So, but the big news for our help, of course, since the last committee meeting was the announcement of a pedestrian crossing for our help. And so that was really good and quite an exciting development and long overdue. So, there was an online public consultation meeting about a month ago,  and that was really well done and well attended to. Quite a few community people there and some real good back and forth. So, I just commend staff there for facilitating that. That was really good. Lots of points come out of it and things to consider. So, no, the health guys are really looking forward to something progressing there, so it's cool. There was a letter from John Turner yesterday, I believe, went to Council, came back to me, I've seen. So,  and said much the same thing as everything else you know just we need a pedestrian crossing good to have it go forward just a few little tweaks here and there but hopefully we'll get it to work so that was good he also made mention and as did other people  So, if that could have some attention, I don't know if it would be at the same time or the same project. And I'm not too sure even whether that's council or the transit. But, anyway, yeah, look, it's a bit of a, you know, it's a bit of a, you know, it's a bit of a, you know, it's a bit of a, you know, it's a bit of a, you know, it's a bit of a, you know, it's a bit of a, you know, it's a bit of a, you know, it's a bit of a, you know, it's a bit of a, you know, it's a bit of a, you know, it's a bit of a, you know, it's a bit of a, you know, it's a bit of a, you know, it's a bit of a, you know, it's a bit of a, you know, it's a bit of a, you know, it's a bit of  pretty sort of thin bit of protection between the footpath all the way down there and the State Highway 3. So that was all good. So yeah, it's pretty exciting for us, but otherwise, nothing much to report. That's great.",
+    "speaker": "andrewreymer",
+    "tags": [
+      "report_back",
+      "provide_information",
+      "community_reference",
+      "express_concern",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 883.395,
+    "end": 902.476,
+    "text": "Thanks, Andrew. I was part of that online forum too, which was really well, lots of people involved and great feedback. I'm wondering, Brian, have you got any updates from  Yeah, what's happened next or is it still everything's happening behind the scenes still?",
+    "speaker": "clairestpierre",
+    "tags": [
+      "ask_question",
+      "provide_information",
+      "clarify_point",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 903.037,
+    "end": 1014.367,
+    "text": "Yeah, I guess it's a little bit behind the scenes at the moment. So we're taking that feedback and, you know, there were a lot of comments around where should the buses park and how would that affect parking and the use of the public toilets at the hall and, you know, whether the lights would be visible enough and so whether there should be some advanced warning.  and all those concerns about people in bigger vehicles that want to stop and will we have enough parking space and things like that. So the guys have taken away that and they're working through it with the designers to see how many of those things can we accommodate, changes can we accommodate. So what things we can easily make changes and what things could be pretty difficult to change.  we're always in that position where we're dealing with Waka Kotahi as the road owner and we're kind of just sidling up to them and nudging them to get as much of what we need and want without annoying them too much because we need their cooperation to get a final sign off so we can build something. So  We want the, you know, the absolute best outcome for the village, for pedestrian safety, for parking, for the commercial area, for walking and cycling. And we've got to, you know, there are some, definitely some trade-offs across all of those things, and we've just got to try and get the best result. And, you know, not forgetting that other one where they mentioned that actually we get some pretty big vehicles  travel through our helper on the highway. Big tractors with dual wheels towing big trailers or trucks with houses on them. And so we've got to make sure that that can still happen at the end of it too.",
+    "speaker": "manager",
+    "tags": [
+      "provide_information",
+      "express_concern",
+      "evaluate_option",
+      "defer_to_authority",
+      "prioritize_issue",
+      "reassure_stakeholders",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 1015.668,
+    "end": 1030.461,
+    "text": "It's quite congested up the hill there around the pedestrian crossing and maybe need a bit of work there.  So will there be a revised proposal coming through at some stage for further consultation or something like that?",
+    "speaker": "andrewreymer",
+    "tags": [
+      "provide_information",
+      "ask_question",
+      "express_concern",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1030.861,
+    "end": 1101.323,
+    "text": "Yeah, I think that that'll be the next step. We'll take all of that feedback and put it into a revised plan because, you know, we want to make sure the community, you know, best informed that we can going forward. But obviously, we've got to show that revised plan to Waka Kotahi, who have to give it a final  sign off before anything can be built. So yeah, there's a few hurdles to jump through. And we also have to have a, what's called a safety audit of the design where independent designers take the plan, they visit the site and they look at all the possible pitfalls of the design and make sure it's safe from every aspect.  and they feed that information back to us. And then we obviously have to make any amendments and we've got to get Waikato to also accept any changes. So yeah, a number of steps to go through before we get to a final agreed plan that we can put into a contract document and get a contract on to building it.",
+    "speaker": "manager",
+    "tags": [
+      "provide_information",
+      "procedural_move",
+      "reassure_stakeholders",
+      "defer_to_authority",
+      "assign_action",
+      "confirm_next_step",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 1104.284,
+    "end": 1127.268,
+    "text": " I just like to pass on congratulations, you know, to Eric and the team who lead that sort of online forum. Brian, yeah, I thought it went really well and great interaction and obviously it was well planned and he had really great material.  you know, it was all visual and people could understand what was being proposed. So, you know, well done. It's great. Thanks for that.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "state_opinion",
+      "reassure_stakeholders",
+      "public_address"
+    ]
+  },
+  {
+    "start": 1127.349,
+    "end": 1141.837,
+    "text": "It was an interesting challenge. We'd never done anything like that before for that type of thing. So it was all new for us. But the team, you know, enjoyed it too. That participation from the community was excellent and just what we need for a project like that.",
+    "speaker": "manager",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "state_opinion",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 1142.897,
+    "end": 1159.662,
+    "text": " Yeah, that's great, yeah. Yeah, so looking forward to seeing the revised plan eventually, so that's great. Okay, so the next report is Te Pahu. So, Alan, have you got anything to report? Can I ask what's been happening? It would be a case of no news is good news.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "report_back",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 1159.722,
+    "end": 1210.302,
+    "text": "Not a lot is happening. The whole committee is appreciative of the discretionary fund.  I pointed out that they have a very good bank balance, which was mentioned in the meeting, and they said, yes, and their new roof is required. That's what the money's for. So it says, well, you may want to put that in if you ever want some more money, because sometimes people are influenced by those sort of things. So that's the next big project. So it's a center of the community, so it needs to be sorted out. I've had no,  feedback, I mean, I can't say that I've actively pursued to find any. The normal potholes in the roads that have been marked, so I presume they've all been worked on, but, and yeah, it's just business as usual.",
+    "speaker": "allanrawlings",
+    "tags": [
+      "report_back",
+      "provide_information",
+      "community_reference",
+      "prioritize_issue",
+      "express_concern",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 1211.762,
+    "end": 1218.604,
+    "text": "That's great. Yeah. Yeah. That's good to hear. Okay. Now, Kieran, have you got any sign of Janet yet?",
+    "speaker": "clairestpierre",
+    "tags": [
+      "agree",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 1220.684,
+    "end": 1221.764,
+    "text": "Jeff and Janet are on.",
+    "speaker": "brucethomas",
+    "tags": [
+      "provide_information"
+    ]
+  },
+  {
+    "start": 1222.884,
+    "end": 1236.321,
+    "text": "Oh, great. All right. So, well,  we'd like to get a report from either of them. So, which one's been there the longest? Geoff or? Ruth's here as well. Oh, okay.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "ask_question",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 1236.781,
+    "end": 1242.462,
+    "text": "Oh, well. Ruth was first on, Geoff, then Janet. Okay, well, let's go with Ruth then.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 1242.502,
+    "end": 1245.322,
+    "text": "So, Ruth, have you got a report, please, for Pirongia?",
+    "speaker": "clairestpierre",
+    "tags": [
+      "ask_question",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 1246.262,
+    "end": 1302.29,
+    "text": "Yes, we do. So, with the lockdown, obviously, there hasn't been too much happening, but we're definitely looking forward to  having more activity in the halls. We met as an emergency committee meeting to determine whether we would work under the WIPA district council regulations or mandates with vaccines, passports. And as a group, we have at this stage decided to run as a open site available for anybody to use and to leave it up to the organisation to impose their own rules on their gathering.  at this stage. So the Lions market greatly appreciated that because they weren't going to actually run it if the vaccine passports were a requirement because that wasn't part of their, yeah, they felt it was excluding people.",
+    "speaker": "ruthwebb",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "procedural_move",
+      "community_reference",
+      "equity_reference"
+    ]
+  },
+  {
+    "start": 1303.491,
+    "end": 1311.237,
+    "text": "I must say it was very well attended because I saw heaps of cars parked at the last market day.  Yeah, it looked like there were lots of people there.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "state_opinion",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 1311.377,
+    "end": 1439.94,
+    "text": "Yeah. Yeah, it was a very busy day and they're getting between sort of four and five inquiries a day for stallholders coming up to the Christmas buns. So the Christmas bun's going to be even bigger. So in order to get around the requirements, or not get around them, to comply with them, they've done it as a retail setting and any food has actually been segregated off and will require vaccine passports to enter the food area.  but everything else will just be as a retail outlet. So, that's good for the market. The association itself, I've got a statement from them. So, just excuse me while I read it over. So, it was commented how much the esplanade was used during the lockdown period between dog walkers and just generally people trying to get out and about. So, we definitely appreciate that and we appreciate council's maintenance of that area.  We did experience some antisocial behaviour with, for example, signs being removed and damage done to properties over the lockdown. We feel it was family members who came back to stay with locals and were a bit bored and decided that they would take their boredom out on the signs and graffiti, which happens when we do have holiday periods.  The association itself is, sort of, going through a restructuring process and looking at more becoming a community connector rather than, sort of, having meetings, because we're finding the meetings are not being attended. And also, I'm not too sure at this stage what the changes with the one less representative at council, so we're just looking at how we can-, so they said in the light of the council changes,  We recognize the gravity of the changes and the importance of having a very visual representation to counsel from us and adapting ourselves to do that. So, yeah, so that's what we're up to. That's great.",
+    "speaker": "ruthwebb",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "express_concern",
+      "prioritize_issue",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 1439.96,
+    "end": 1481.215,
+    "text": "Just on that representation review, I understand from governance that appeals have been filed. So it looks like, yeah, a review on what the decision was will be made. Yeah, so we might get a change to what  The one that was adopted by council. Yeah, yeah. I'm not sure of the timeframe though. Yeah. Jo Greed's here. I don't know if she's still here. She might be able to get us know when that appeal sort of would be looked at. No, she's not there. No, that's okay. All right. Well, any other things, Ruth? That's the thing from you?",
+    "speaker": "clairestpierre",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "defer_to_authority",
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1481.655,
+    "end": 1483.356,
+    "text": "Yeah, no, that's okay. Yep, that's this.",
+    "speaker": "ruthwebb",
+    "tags": [
+      "agree",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 1483.896,
+    "end": 1488.272,
+    "text": "Excellent, thank you.  All right, so Geoff, how's things going at Kaipake?",
+    "speaker": "clairestpierre",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 1493.296,
+    "end": 1500.603,
+    "text": "Geoff, you're muted. There you go.",
+    "speaker": "brucethomas",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1500.843,
+    "end": 1585.377,
+    "text": "With lockdown, we're obviously quietish, but there has been a lot of activity up at the hall.  So I would assume that they are working on the inside. So you never see them on the outside, but there's often three vans there. And so there must be something happening up there. They have certainly cleaned out the inside. That was a real mess with the number of birds that thought it was wonderful having all those open rafters and places to perch and do whatever birds do after they've eaten.  Yeah, that was all nicely cleaned out and all the railings, all the stainless steel railings have all been put in and appear to be in good order. And cricket must be starting because I've just paid a bill for a large number of cricket balls. So maybe this year they'll be using it. I can say that if you want to go up there and have a look,  The view up there on a fine day is magnificent. You don't realize how flat the area around there is, and you can see for miles. And it's all at this time of the year. It's beautiful. The grass is green, the trees all look neat and tidy, and there's heaps of them.",
+    "speaker": "geofforchard",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 1586.561,
+    "end": 1592.447,
+    "text": " Oh, that's great. Are there any plans to do a Christmas function there? I don't know.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 1592.788,
+    "end": 1612.198,
+    "text": "I think that got blown around so much by shutdowns and lockdowns and open ups and whatever. It would be difficult to try and organise that. Yeah.  There certainly hasn't been a lot of, I haven't heard any discussion at all. I think they basically gave up earlier in the year.",
+    "speaker": "geofforchard",
+    "tags": [
+      "state_opinion",
+      "express_concern",
+      "report_back"
+    ]
+  },
+  {
+    "start": 1614.621,
+    "end": 1624.553,
+    "text": "Yeah, yeah. OK, cool. All right. So that's it from you then. Thank you very much. And then Janet, how's things at Konmatua?",
+    "speaker": "clairestpierre",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "report_back"
+    ]
+  },
+  {
+    "start": 1627.131,
+    "end": 1663.135,
+    "text": " Oh, before that, I drove past that hall at Waipake today, this afternoon, hence being late to this. And wow, it looks good. All the scaffolding's up outside. They've done some painting and yeah, it's looking close from the outside, but who knows about the inside?  Jeff, I know you'll know that. And I just wanted to ask these appeals that are being done, can you tell me whether those appeals are relating to the loss of a councillor or the appeals on other things?",
+    "speaker": "janetwilliams",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "provide_information",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 1665.195,
+    "end": 1682.763,
+    "text": "So I was talking to Jo just yesterday, I think, and she said that the appeal had been made to do with community boards, but she said that  It doesn't really matter because if it goes to the local government commission, they will look at everything.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "defer_to_authority",
+      "report_back"
+    ]
+  },
+  {
+    "start": 1683.883,
+    "end": 1699.175,
+    "text": "Right. Yeah. Okay. Yes. Because my understanding is the community boards are staying as they are, is what the decision was. Yeah. So a person appealing that would be to say goodbye to the community boards. Yeah. That's my understanding.",
+    "speaker": "janetwilliams",
+    "tags": [
+      "clarify_point",
+      "summarize_outcome",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 1699.456,
+    "end": 1704.84,
+    "text": "Yeah. Yeah. But nothing to do with the two current councillors becoming one.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "clarify_point",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 1705.387,
+    "end": 1884.24,
+    "text": " no no but um but when i spoke to joe um the um appeal period hadn't quite closed you know like i think it was in the middle of the day and it was closing at five o'clock so some other appeals may have been filed too yeah but yeah but being in that process it was very much  not so much about the coun\u2014 my personal view\u2014 was not so much about the councillors or removal of a councillor, but the community boards was the main issue that people had. And, yeah, disappointing that the focus was on that and not on the councillors. But anyway, Koramatua. A bit like Pirongia, quiet because we've had this lockdown and  and we're opening up, but undecided how we're opening up, obviously to one or two people for dancing, et cetera. It's a piece of cake, they're vaccinated. But I have been talking to Bruce Nunns, and I think, yes, he's on here at the moment. He's been doing a bit of work with his team regarding what the council buildings are actually, the buildings that the council manage.  and what they're doing, and guidelines for that. And that's just come through this afternoon. So, nice and clear. We do not have to run with it, like Porongia's not running with theirs. They're doing their own thing. But I think that's something that I need to talk to the committee about, as to how comfortable they are. The last thing I want  is there to be an issue with being a COVID centre or place of interest and who's going to pay for the deep clean and other issues and also should there be a major incident where it required an insurance claim and guidelines from the council were that  you didn't have it open to anybody and everybody, insurance companies are looking for the first way out that they can. And if guidelines have been, and you haven't followed those guidelines, I think it could create an issue after the initial $10,000, of course.  But that's okay. And we're also, Bruce is also looking into the numbers of people that can be in the hall through firing things. So things that are being updated. And I think also maybe the leases need to be looked at as well. I mean, the people that signed our hall lease have all been dead and gone for a number of years. So they probably all need to be reviewed and renewed.  there. So yeah, everything's ticking along very quietly. I know, that's cool.",
+    "speaker": "janetwilliams",
+    "tags": []
+  },
+  {
+    "start": 1884.5,
+    "end": 1888.001,
+    "text": "Yeah, you want it that way, don't you? You don't want too much excitement. Yeah.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "state_opinion",
+      "agree"
+    ]
+  },
+  {
+    "start": 1888.061,
+    "end": 1915.016,
+    "text": "Well, it's a loss of income by not having people there, which is, you know, an issue.  But this is something that we're all having to live with, obviously, and our lives are changing because of that. And obviously, calls are not going to have the incomes that they did have with some people don't want to go out or don't want to go to big public events. Yes.",
+    "speaker": "janetwilliams",
+    "tags": [
+      "express_concern",
+      "provide_information",
+      "state_opinion",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 1915.697,
+    "end": 2010.905,
+    "text": "Yeah, it's very true. Yeah.  Now we're just sort of watching the space really just to see what the traffic light system is going to bring in and whether or not there'll be any reduction in the seriousness of the COVID strain itself, you know, if this Omnicron thing isn't as serious. Yeah. Who knows? Yeah. Yeah. Thank you. Thank you very much, Janet. So have I covered everyone? I think I have Kieran.  So I've got a recommendation there on page 29 that the Pirongi Award Committee receive the reports from the Kaipake, Koromatua, Ngahinapori, Ohaupo, Pirongia and Te Pahu representatives. So I'd like a mover please and a seconder and it'd be great if you could put your hand up or use the sort of  function down below to raise your hand. But who'd like to move? We've got a mover there. Put your hand up. Yeah, great. Thank you, Janet. And the seconder? I'm seconded. Thank you, Bruce. All in favour, please say aye. Aye.  against carriage. Thank you. And now we're going to move into the quarterly reports, okay? And so the first quarterly report I have listed is the water services one. So we've got Martin Mould here, who's the manager of the water services. So Martin, would you like to take us through your report, please?",
+    "speaker": "clairestpierre",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 2012.066,
+    "end": 2195.575,
+    "text": "Yes, certainly. Good afternoon, Chair and committee members. Yep, so I won't  go through the whole report, take it as read, and just highlight a few key points of interest for you, which Claire has alluded me to previously. So the first one is water restrictions this year. So, you know, hopefully you're aware of previously for the last 10 years, we've had alert levels one, two, three, and four across the district, which we bring into, usually the 1st of December, we bring in alert level one.  And then we move through the alert levels depending on demand and supply issues. But we've changed due to a significant level of investment by the council over the last five years in water treatment capacity and water supply capacity that we're moving away from those determined alert levels and going with an educational campaign.  So the first part of that is hopefully you've seen the signs that now say save water or save why. Put a nice purple sign on the lamppost with a teardrop on it, a water drop. So that's the start of the campaign is to more educationalised rather than we're at level one, no sprinklers or whatever the outcome was. We won't be saying any of that. We're saying it's about conserving water. And so unless it gets serious and we get a severe drought that causes us to change  and bring in alert level threes and four, we won't be moving to having alert level one and two. It will be an educational campaign. We've got a social media campaign starting and a print media campaign starting all about education, how you could save water, all the normal things. So that's a change in tact for us.  And we're currently just compiling some documents that go with that. And one of them is our water story, which takes us through the last probably five or six years of where we've come from over those five or six years with investment, what we've done both in water and wastewater to show where we are today.  And why we've made these changes this they've enabled the change so that's that's the plan for the summer, hopefully we don't need to to go any more. into the older level threes or four that's largely dependent on say on the weather and on the supply to tahi.  Although we've now got water coming from the new Planet Parallel Road, which pumps water over to Te Amutu, we're still also reliant on Te Tahi as well. But not as reliant as we were, but we've still got some reliance on it. And it is all about that story of saving water. If demand goes crazy, we'll ramp up the message so people do the right thing.  Any questions on that?",
+    "speaker": "martinmould",
+    "tags": [
+      "provide_information",
+      "policy_proposal",
+      "report_back",
+      "public_address",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 2197.155,
+    "end": 2205.619,
+    "text": "Martin, one for me. The new parallel plant, how much is it pumping out to our meter? What roughly volumes a day is it putting there?",
+    "speaker": "brucethomas",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 2207.5,
+    "end": 2249.237,
+    "text": "Yeah, so currently it's producing around between six and eight megalitres a day, of which around four supply the Pukurimu scheme.  And the other four is currently being pumped to Tiamutu, which is probably about half of the demand in Tiamutu is coming in that way. We can ramp that up to do some more. It's only just been commissioned and it's got a few issues that need solved before it can reach full capacity of 12 megalitres a day. And then in theory, it could supply all of Tiamutu's demand, but we still got a couple of",
+    "speaker": "martinmould",
+    "tags": [
+      "provide_information",
+      "evaluate_option",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 2249.88,
+    "end": 2254.884,
+    "text": " So that's the name of the game in the long run, to have it really running properly so there should be no issues, hopefully.",
+    "speaker": "brucethomas",
+    "tags": [
+      "state_opinion",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 2255.425,
+    "end": 2266.274,
+    "text": "Yes, even in a, well, apart from a severe drought where the Waikato River level's low, then we can't abstract the water. Yeah, it'll give us much more resilience than we had before, yeah.",
+    "speaker": "martinmould",
+    "tags": [
+      "agree",
+      "provide_information",
+      "clarify_point",
+      "evaluate_option"
+    ]
+  },
+  {
+    "start": 2267.034,
+    "end": 2267.335,
+    "text": "Thank you.",
+    "speaker": "brucethomas",
+    "tags": [
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 2268.055,
+    "end": 2577.008,
+    "text": "Yeah. And if it got that way, we've turned off the old parallel road plan. We could turn that back on to supply Pukerimu  and send all the water over to Timutu. So we've got some plans if it does get very dry. And the next one was the flood hazard mapping. So if you're aware, over the last wee while, we've been doing a flood hazard mapping process. So we've done a model that predicted where properties would flood across the district, only in urban areas.  We haven't done rural, that's the next stage. And as an account of that modeling, we determined there was a thousand houses that could be a risk of being flooded. And that's not the garden being flooded, that is the house being flooded. So there was approximately a thousand houses. So we sent letters to all those properties to address that issue, telling them we'd identify them as possible.  But we had some more work to do to confirm that number. And the confirmation we needed was more detailed modeling and going out to site and actually surveying the levels to determine that. And we've reduced the number from that 1,000, we're down to now less than 100 of houses that we predict in a one in 100 year rain event that their house would flood. So we're close, we've still got a couple to survey before we completely finished.  but we'll be planning, we'll be sending those letters out in the new year to those houses that we believe could be at risk of flood. And those letters will be on their limbs for them and for any future purchases to see. So there is an impact of that work. And we've, most of the thousand people we have alerted apart from those hundred, most of them have had a letter  that says we've done further work and they're no longer, we deem them no longer at risk of flooding their house in that one in 100 year event. But say we still got a few stragglers that we need to survey where no one's been at home or we haven't had permission to go on the property. So we're still working through those issues. But it's been a long, a very long project. And on January 17th, when we send those letters out, we'll also have a map  On our GIS system, like our intermaps, where you can go on and look at where all the pipes and stuff are. You can go on and look at a flood hazard map and you can be able to see for yourself where those flood hazard areas are. It will be quite coarse for the public viewing. The staff view will be much more detailed. This will be quite coarse, but it will prompt questions if someone looks at their house, it looks like it's flooded.  to be flooded they can give us a call and we can go into more detail and tell them yep from our model it looks like your garden would flood and pond in the left-hand corner but your house shouldn't flood. So we'll be able to go to that level of detail. So that's been a long journey and the last one was stormwater. I don't really know anything in particular in stormwater Clare but one of the things we're doing  um in in Cambridge around where the white church is we're just putting in some rain gardens so rain gardens take the runoff from the road and it goes through a little garden just looks like a roadside garden and it cleans the first the first flush off the road is is held in in the rain garden and prevents it um getting into the system and so that will protect um more future contaminants going into the lake so all there's a there's about  12 rain gardens were put in all that protect Lake Tukahutu from that first flush of contaminants off the road. So that's a project we started a while back and we've got a ready to lead a contract for that and now started February for that. And that's the first trial area. If you'd like to see how successful that is and then there'll be plans in the future to roll out more rain gardens as part of our, we were just in the process of  renewing our stormwater consent, which will be for the whole district. And the last one we got 10 years or 15 years ago didn't have much in it around quality of discharge. The new consent we're about to get will be very much a quality based outcome requiring us to have treatment on an awful lot of stormwater discharges. So it'll be an expensive  deliverable at the end, once we've got the consent to meet the requirements of that consent. But it will improve the environment substantially. So that's a good thing. Yeah. OK, I'm happy to answer any questions. I just think you've done brilliantly, Martin.",
+    "speaker": "martinmould",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "confirm_next_step",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 2577.048,
+    "end": 2613.026,
+    "text": "You covered all those things that I thought would be of particular interest to the committee. But yeah, we'll just open it up to the members now. Have you got any other questions?  Okay, I can't see any hands up, so if someone's got their hand up and I'm not responding, just speak up, please. Okay, all right, you had your chance. All right, thank you very much, Martin. Yeah, it'd be great, like with that rain garden proposal, I presume that if it looks promising, that might be a solution that's used in rural villages a bit more?",
+    "speaker": "clairestpierre",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "clarify_point",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 2613.912,
+    "end": 2636.444,
+    "text": " Yeah, it could be used in a lot of places to treat that first flush of the water. Again, most of the concentration is in urban areas where there's a lot more traffic contaminating the local waterways. So it will be, where do we get the best bang for buck? But yeah, over a 20-year period, you'd probably see it rolled out across the district. Yeah, cool.",
+    "speaker": "martinmould",
+    "tags": [
+      "provide_information",
+      "evaluate_option",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 2636.985,
+    "end": 2663.467,
+    "text": "I know, that's great. Thank you very much.  So yeah, we'll let you go. I think we don't have any questions for any water questions. And then our next report, I'm just trying to flick through to the next one, which is the transportation one. So I don't know if,  Brian's still here. You've been doing a lot of talking already, Brian, yeah?",
+    "speaker": "clairestpierre",
+    "tags": [
+      "close_discussion",
+      "procedural_move",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 2663.847,
+    "end": 2848.265,
+    "text": "Yep, no, still here. Thank you, Madam Chair. So I take it, so the agenda's sort of pre-circulated, so people may have already had a chance to have a look through. So I'll just skim over a couple of items and then just a chance to ask questions. So typically the quarterly report is just often an information report giving an update on where things are at.  This one did have one recommendation that council support the submission to Waikato Tahi to raise the speed limit on the Waikato Expressway to 110 when the last remaining parts of it are complete and have had the safety upgrades done on it. So,  We look forward to the day that that's all finished because it's a pretty marvellous asset for Waikato, just a Waikato region, which has been many years in the making and billions of dollars. So it's pretty cool. In the programme there we list some of the transport programme for the year. We've got some  roads at the top there we were doing design work to do reconstruction type work so the first contracts out to tender at the moment for Panui Road, Whitmore Street and also a seal extension on Low Road near Rukahia. Tipahu Road is one area where we've got a design underway and so that's from just  or around the Clothier Road intersection going north for just over a kilometre. And it treats that quite narrow section of road, which is also, I guess, the seal is quite worn. We've had a few crashes there in the wet and there's some signs up in locations there warning of a slippery road surface. So that's a piece where there'd be a bit of widening and strengthening of that piece of road.  So we're doing the design now and depending on how our budget holds up, because certainly construction costs for all road construction work have really gone up. We talk about inflation and where it's running, but often in the roading scene, the costs have increased 10, 15, 20 percent for some types of work.  in the last 18 months. And that just reflects the growth going on in the region where so many of the contractors have got full workbooks, you know, building subdivisions and, you know, housing developments and things like that, which are really going on.  As far as resealing, so back in October, we started the chip sealing work around the district, and we've done quite a lot of that in urban areas and a little bit in the rural. So you will see more of that, you know, in the next two months around the district. Can we ask questions now, just while you're on it? Yes, yeah, sure. I just, Mystery Creek, and I've been on to you about it, it's been extensively patched.",
+    "speaker": "manager",
+    "tags": [
+      "provide_information",
+      "policy_proposal",
+      "procedural_move",
+      "report_back",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 2848.824,
+    "end": 2873.562,
+    "text": " but I've gathered in the last few days, it's been sealed right through, but what's the guarantee because there are parts that the chip had come off and they seal over those parts, so they're good underneath. Is there some comes with some guarantee that it's going to be nice and smooth or smooth? Sometimes I don't put enough tar on, I'm not a roading expert, but it's, you know, and that's a bone of contention with that area of being so high profile at times.",
+    "speaker": "brucethomas",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "clarify_point",
+      "state_opinion",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 2875.611,
+    "end": 3013.792,
+    "text": " Yeah, no, good point. We certainly know that parts of Mystery Creek Road are showing their age and there's quite a bit of wear and tear and even before the Kaipake Road sand quarry  you know, gets fully operational, there's already been quite a bit of heavy traffic through that route from, you know, the Cambridge sand quarry, all heading towards the south side of Hamilton. You know, we've got a number of sand quarries operating in our district that really serve  both the housing market in Waipa but significantly the housing market in Hamilton. So often these roads like Mystery Creek Road, Kaipake Road have a lot of heavy traffic on them and historically they were quite lightly built roads. You know we dig a hole in them there might only be  100 millimetres or 150 millimetres of gravel underneath the seal. And for these country roads, which now have a lot more heavy traffic, normally they would have sort of like 300 millimetres, so double the depth of pavement underneath them. So we've got to prioritise roads in terms of maintenance cost and safety. And so sometimes it is most economical to make some repairs and reseal them and get another five years life out of them.  before we can afford to reconstruct them. It costs around $4 or $5 a square metre to reseal a road, even if we spend $10,000 or $20,000 doing repairs. And that's a big difference to the cost of about $50, $60 or $70 a square metre for reconstruction of the road. So it is really a numbers and economics sort of game in terms of  If we can get more life out of that pavement, we're obligated to do that to balance the budget. And sometimes, yeah, as you say, ideally we want the pavement as smooth as possible before reseal goes on, but all sorts of vagaries, traffic and weather and things can impact on that. But if it is bumpy afterwards and causing issues with noise, then yes, our contractor would have to fix it at their cost.",
+    "speaker": "manager",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "evaluate_option",
+      "prioritize_issue",
+      "community_reference",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 3017.453,
+    "end": 3036.659,
+    "text": " Any other questions of Brian? Brian, can I just ask you about peat roads and how they're standing up in the summer heat? Because our rural areas have got quite a few peat roads. And then I'll get Janet to, once you've answered that question, I'll get Janet to ask you something.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "ask_question",
+      "community_reference",
+      "procedural_move",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 3037.108,
+    "end": 3154.937,
+    "text": " Sure, sure. Yep. So peat roads, yep, they operate on a fine sort of moisture balance. And when we get a really dry summer, then the land beside the road dries out and that sucks moisture out from under the road and the peat shrinks. So the road on top of the peat is almost like a water, you know, a raincoat.  And it means that for most of the time, the moisture content in that peat is reasonably stable until we get a drought type situation. And then the surrounding land dries out, the peat under the road dries out and shrinks. And if the peat is anything from sort of  you know, three to five to 10 metres deep, then, you know, there's nothing we can do to stop that shrinkage. I know that if farm drains are not close to the road or farm drains, if they're not cleaned out, so they're left where they are so that water levels remain high, then that can partly protect the road and reduce that peat shrinkage. But we, you know, last summer we had a lot of  shrinkage and we've we repaired the worst pieces in some places we had to put up signs and temporary speed limits like Collins Road is one of those and say hey you need to slow down because we cannot we simply cannot afford to fix all of these roads. I think this year we've probably allocated three to four hundred thousand dollars to go in and smooth  some of those roads which are out of shape. But if we do end up with another dry summer, we'll get another $300,000 or $400,000 worth of damage from that drying that we'll have to repair as well. So it is a risky business, but sometimes the only option we've got is to do some light smoothing and put up those signs and warn people to slow down.",
+    "speaker": "manager",
+    "tags": [
+      "provide_information",
+      "express_concern",
+      "report_back"
+    ]
+  },
+  {
+    "start": 3155.945,
+    "end": 3161.267,
+    "text": " Yes, I've noticed them on Collins Road, yes. Thank you. Janet.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "provide_information",
+      "report_back"
+    ]
+  },
+  {
+    "start": 3162.727,
+    "end": 3187.339,
+    "text": "Yes, I was going to ask, and Collins Road was part of it, but Koramatua Road, the low flat of it at the Hamilton or Collins Road end of it, yeah, probably,  1K in from the actual intersection of T\u016btokaramea and Collins Road. Just beyond the school there, yeah.",
+    "speaker": "janetwilliams",
+    "tags": [
+      "clarify_point",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 3187.619,
+    "end": 3193.4,
+    "text": "Yeah, past the school and past Barrett Road, but before Willis Road.",
+    "speaker": "manager",
+    "tags": [
+      "clarify_point",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 3193.84,
+    "end": 3199.882,
+    "text": "Now, there's marks on the road there. Is that indicating that the road's going to be repaired, is it?",
+    "speaker": "janetwilliams",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 3201.494,
+    "end": 3286.783,
+    "text": " very likely that that's again another piece of road which has probably got organic soils underneath it and has over the years gone out of shape and it is reasonably narrow too. So the normal situation is my guy, my network inspector, he's doing patrols of all roads. Once a week he's going over the busiest roads and then  a different, you know, a lower frequency as the volumes of traffic drop down. So the cycler crew are obviously patching any potholes and edge break, but the inspector is marking up bigger repairs and then putting those in a programme of works. And they put a priority on them, you know, one to five, one or more like three, something needs to be done, but it could be several months away.  Four, boy, we better monitor this more frequently because it could blow out or get worse. And five, it's a safety hazard and something needs to be done straight away. So that's the sort of regime they work under. And then they're trying to balance a workload.  across the district and getting the highest priorities while also trying to be productive and efficient with all of that machinery that they have to bring to the site to do individual repairs, to work in an area and knock off all of the repairs in that area in one go.",
+    "speaker": "manager",
+    "tags": [
+      "provide_information",
+      "procedural_move",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 3288.144,
+    "end": 3301.624,
+    "text": "So would you say that where it's marked, there's a colour around the area, certain parts of it,  Does that mean that that's the monitoring part, or does that mean that that's the repair part?",
+    "speaker": "janetwilliams",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 3302.405,
+    "end": 3309.553,
+    "text": "Yeah, so normally they use white paint to mark up the extent of the repair. So it is a repair cut.",
+    "speaker": "manager",
+    "tags": [
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 3309.954,
+    "end": 3312.397,
+    "text": "The marking means it's going to be repaired.",
+    "speaker": "janetwilliams",
+    "tags": [
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 3313.298,
+    "end": 3353.329,
+    "text": " Normally, yeah, sometimes the contractor might mark something and then my team look at the list of repairs and might say, well, no, actually you've marked up nearly the whole road for repairs and it would be much cheaper for us to come in and reconstruct that because that's cheaper than doing individual repairs that then have dodgy bits of pavement between them.  So occasionally, we might squash the contractor's program and tackle it in a different way. But normally, if they're doing their job right, then yes, those repairs will go into the program, get approved and get done in due course.",
+    "speaker": "manager",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "evaluate_option",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 3354.069,
+    "end": 3354.569,
+    "text": "Thank you.",
+    "speaker": "janetwilliams",
+    "tags": [
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 3356.49,
+    "end": 3377.648,
+    "text": "Great. Any other questions? OK. All right. Thank you, Brian. That's been great. That's right. Finish it off there? Yeah. Yeah. OK.  Excellent. All right, and then we'll go on to the next report, which is the quarterly district growth report. Kieran, have we got anyone that's going to speak to that? I can't see anyone.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3379.569,
+    "end": 3382.431,
+    "text": "I can do that, Clare, if you like.",
+    "speaker": "tonyquick",
+    "tags": [
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 3382.751,
+    "end": 3385.112,
+    "text": "Yeah, thank you. Yeah, take it away, Tony.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "assign_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3385.813,
+    "end": 3838.363,
+    "text": "Hi, everyone. So I'm the manager of district plan and growth and there's  Quite a lot to cover in this report, it's quite comprehensive, so I'll just skim through like the other managers here, just cover the high bits really. So probably the first one to cover is under item four, so Future Proof, just an update. So Future Proof is going through an update of the growth strategy, the sub-regional growth strategy. They've got their hearings this week. The second day of hearings was today on submissions to change the strategy.  There are a number of submissions from developers, I guess, looking to the next 20, 30, even 50 years out and taking an opportunity, I was supposed to say, where could the future of the sub-regional go to? In the area of your interest, I suppose, Ahaup\u014d was a submission that came up today. And there are three landowners who were representing the 02, 03 and 04 growth cells in Ahaup\u014d.  and their submission was seeking to bring that forward. At the moment, it's marked for post-2035 in the district plan, and they were looking to bring that forward so that development could start, and there were large lot residential zones. So the future brief will go through. There's a panel. It's almost like a pseudo-resource management panel. Mia Jim is Waip\u0101 Council representative on there.  and they'll go through and make their decisions on whether there's any merit in any of these. It was hard to pick from the questions on whether there was any support for that particular proposal, so I guess we'll wait and see. The Three Waters, I think you're fairly familiar with that and probably Martin is better. Not sure if he's still there, but he's probably better qualified to cover that off. There is a study to investigate a rapid transit network  the future proof in the Hamilton metropolitan area, that generated a bit of interest in the future proof hearings. It was a bit unclear what rapid transit means, and there were some questions from some of the representatives on the hearing panel for that, and there wasn't really a clear answer, but I think that's looking quite a way into the future, and it extends into probably Te Waimotu and Cambridge, if it ever came to fruition, so no further south than that.  National policy statement in development, so we've got a plan change underway at our council, which will come to shortly, and at a future proof level, they've released an update of the feasibility development capacity, and that's going to flow through into changes to the district plan and the regional policy statement for what they call housing minimum bottom lines. So that's a requirement that we have to put into the district plan, and it just  pretty much sets what our minimum housing capacity is, and it's what we're expected, and we will get up for that in my part. I know Kirstie's got an item later on, on the spatial plan, so I won't cover that off. So under item six of the agenda for this report, the e-plan is a project that we're working on. So what that does is that takes our district plan and puts it into a,  I guess a bit much more user friendly component where you can interact with it on a map based GIS platform. And for example, it means when this rolls out and we're looking at early 2022 rolling this out, you'll be able to go and, for example, put in a property address and it should show all the rules that apply to that property. Or another example of how you can use it is you can go in, put in your address and say, put in a keyword like second unit, second house.  and it will show you all the rules that apply. So it's a much smarter way of understanding the rule framework that we've got at the moment, and it should help inform a lot of people wanting to do things. And in terms of national direction and RMA reform, so I talked about the National Policy Statement for Urban Development. There is a bill, and you'll be familiar with it, the Housing Enablement Bill. I understand it passed its second reading in Parliament yesterday.  We did put a submission on it, so that's the one that's proposing to allow up to three houses, up to three houses of up to three storeys on all residential zones and tier one councils. So our reading is that it applies to Waipa in our residential zones, but only obviously because it's large lot residential, the growth areas there, it won't apply to. That's the proposal at the moment. It's looking almost certain that it'll go through,  So the second reading I heard on the radio this morning that both of the major parties were backing up the amendments. So you can probably anticipate that'll go through with amendments. And the amendments will be probably that will confirm that we will be mandated to put in medium density residential standards in our residential zones. And the areas that are mostly affected will be Te Aumuri and Cambridge. So it will be a whole new world because it's fast tracking housing  At a level that we haven't really seen in this country, and there's quite a lot of concerns with practitioners around what that will leave us in terms of legacy of design. And just just the way communities run so. We're not quite sure what they will deliver, but we can expect it will be mandated under legislation to do that soon. We've got a number of plan changes that are rolling out, so a couple that you might be interested in. I won't go through the full list.  Plan Change 18, so that's to make it easier to keep bees in residential zones, and that includes large slot residential zones. So the district plan at the moment has some rules in there which are pretty ineffective. And we're preparing a bylaw which will take the rules out of the plan and will open up beekeeping in those zones. And I talked about Plan Change 21, which is our council's urban intensification plan change. So we've got that going on.  they will come together quite nicely. So we're quite well set up in Waip\u0101 because we didn't anticipate the bill coming out, but we sort of front footed some of the intensification we needed to do. So we've got a happy accident here, I suppose, where we can use our plan change to implement some of that legislation that we expect to come through. In the resource consent space, there's quite a lot of activity. I guess both the resource consent and the building consent  Applications are higher than they have been. We just like sort of unprecedented coming up frequently just in terms of the volume of applications we're seeing in both resource consents and building consents. We are seeing increased interest and applications coming through and being granted for intensification. Even when they're out of size, even with a compact housing, but not in the compact housing overlays. And they are merit based approvals. So we go through a process of assessment  Some of them have gone to hearings and they've been tested through evidence. We're pretty keen on making sure there's good urban design around those proposals. And when the applications come in, we encourage the applicants to make sure that they cover off everything that we think they should be covering off. So we're seeing more of those coming through.",
+    "speaker": "tonyquick",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "public_address",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 3840.825,
+    "end": 3848.368,
+    "text": "Sorry, Tony, this must mean that the system is working well. You're having no hearings. There's no big debates about pretentious things happening.",
+    "speaker": "brucethomas",
+    "tags": [
+      "state_opinion",
+      "evaluate_option"
+    ]
+  },
+  {
+    "start": 3850.721,
+    "end": 3982.414,
+    "text": " I think it is working well. We've had a couple where there's been a bit of media interest. There's one in Coleridge Street, both in Cambridge, and there's another one after that in Taylor Street, I think, and both of them generate a little bit of media interest. They were from people, I suppose, who were interested or affected parties who really just didn't agree with the outcome. And, you know, people are entitled to do that, but  they kind of took it to the next level and started, I guess, lobbying against a decision that council commissioners had made. So, you know, people are entitled to disagree. And our stance when we get those sort of responses, and these aren't the first ones we've had, is we follow due process and we've got to really abide by the outcome and the decision that's been made. And it gets tested, you know, it gets tested through a hearing process, or it's not a hearing process, certainly,  The staff look at it very closely. We get expert urban design input if we need that. We get expert engineering traffic advice if we need that. So I'm reasonably confident, yeah, Bruce, that the system is working okay. Which, again, is part of all the council's feedback to government around the Housing and Neighbourhood Bill. A lot of councils, not just Waipa, have responded proactively like this. And so we are wondering,  why the government is wanting to impose additional fast track measures where councils by and large have pretty much responded in quite a positive way and developers have sort of taken up that opportunity as well. So we've got the housing amendment bill coming over the top. We're not quite sure if it's actually needed, but I guess time will tell. What else can I say about those? So volumes are all up.  In terms of the enforcement space, that's in the report there, so I won't go into that too much. And of course, in terms of development, you'll be aware of some of the large lot subdivisions that are underway in Porongia, and also in the Ohiopo-Grace cell as well. I think that's pretty much it, Madam Chair, so happy to take any questions.",
+    "speaker": "tonyquick",
+    "tags": []
+  },
+  {
+    "start": 3983.535,
+    "end": 3994.803,
+    "text": "Thanks, Tony, you covered it really well. Are there any questions from the members?  Raise your hands. Yeah. No.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "agree",
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3995.564,
+    "end": 4002.61,
+    "text": "Yeah, just just the touched on the AHAPO applications that have been trying to be brought forward. Just just where are they? Have you got any details on it? Sorry.",
+    "speaker": "andrewreymer",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 4004.171,
+    "end": 4010.236,
+    "text": "So. I can share a screen if you like me to.",
+    "speaker": "tonyquick",
+    "tags": [
+      "procedural_move",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4013.459,
+    "end": 4015.621,
+    "text": "Yeah, just out of interest sake really nothing more.",
+    "speaker": "andrewreymer",
+    "tags": [
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 4016.201,
+    "end": 4018.563,
+    "text": "Yeah, no, that's fine. Be with me a second.",
+    "speaker": "tonyquick",
+    "tags": [
+      "agree",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4025.062,
+    "end": 4031.828,
+    "text": " I know you gave us all the numbers, but they don't mean much to me. So can you see that, Matt? Yep, it's come through now.",
+    "speaker": "andrewreymer",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 4032.989,
+    "end": 4077.964,
+    "text": "So 01 here, that's been consented, it's been subdivided, it's been taken up at the moment. So it's 02, 03 and 04. And the submission that the landowner represented is in each of those put through. So this is yellow. So what that means is in the Waipa 2050 growth,  strategy and in our district plan that scheduled for growth after 2035. And what they're seeking to do is bring that forward and start development as soon as they're able. And the justification for that is that there's a lot of demand. They're getting people knocking on the doors. It was part of their submission saying, can we develop in here? Can we go somewhere? Because everything else has taken up. So whether that's right or wrong, I guess future people consider that.",
+    "speaker": "tonyquick",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "summarize_outcome",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 4079.724,
+    "end": 4086.095,
+    "text": "Yeah, yeah.  The Q2 ones I would have thought would be one of the next ones here.",
+    "speaker": "andrewreymer",
+    "tags": [
+      "agree",
+      "prioritize_issue",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4086.755,
+    "end": 4092.318,
+    "text": "Yeah, that's cool.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 4095.92,
+    "end": 4120.025,
+    "text": "Any other questions? OK, alright, well thank you very much, Tony. It's been really informative. Yep, it's a busy space actually, isn't it? It sure is. OK, thank you very much.  OK, so that's the growth one, so I'm just looking through to the next report. Hopefully you can see.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "ask_question",
+      "agree",
+      "summarize_outcome",
+      "procedural_move",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 4124.218,
+    "end": 4163.369,
+    "text": " The next report is the Civil Defence Emergency Management quarterly report, Madam Chair. Thank you, Angie. Unfortunately, Dave has double booked himself so can't present to the committee. He just did say that at the moment Civil Defence's main focus is  supporting the COVID response and that has been their main focus. It does keep them quite busy. He has said that he's happy to take any questions you can either and he can he can contact you direct or we can do it via the committee if anybody has any questions to his report.  Oh, thank you, Kieran.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "defer_to_authority",
+      "prioritize_issue",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4163.829,
+    "end": 4204.625,
+    "text": "So are there any questions relating to civil defense, which probably does cover the COVID response? So good to know from the members if you have any questions in any of those areas or whatever. Pretty comfortable with this? Cool, that's great. All right, I hope I'm not rushing you too much, but that's, I'm not gonna,  hang around if there's no need to be dwelling on it. So I'm going to move along. Oh, so now actually we'll have to have a resolution, won't we, that will receive those reports. So could I please have a mover and a seconder that those cruelly reports be received?",
+    "speaker": "clairestpierre",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "close_discussion",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4206.606,
+    "end": 4207.147,
+    "text": "I'll move it.",
+    "speaker": "geofforchard",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4207.947,
+    "end": 4231.402,
+    "text": "Oh, thank you. So was that Geoff and then Janet? Yeah, is that all right?  Is that right, Kieran? Because I don't know if Andrew put his hand up first because I don't get to see each of your beautiful faces on my screen. How about we save Andrew for the next one? OK, Andrew.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "procedural_move",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4231.562,
+    "end": 4235.424,
+    "text": "Thank you. My favouritism or anything.",
+    "speaker": "brucethomas",
+    "tags": [
+      "reassure_stakeholders",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 4235.844,
+    "end": 4255.781,
+    "text": "OK, so all in favour, please say aye. Again, carried. Thank you. All right. And now I'm looking at  the Halls Compliance Report, and that's on page 155 of your agenda. And have we got someone speaking to that, Kieran?",
+    "speaker": "clairestpierre",
+    "tags": [
+      "call_vote",
+      "summarize_outcome",
+      "procedural_move",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 4257.362,
+    "end": 4258.002,
+    "text": "You have indeed.",
+    "speaker": "Unknown",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 4258.542,
+    "end": 4261.183,
+    "text": "Oh, right. I recognise that voice, Bruce.",
+    "speaker": "clairestpierre",
+    "tags": []
+  },
+  {
+    "start": 4261.904,
+    "end": 4263.244,
+    "text": "Kia ora, good afternoon.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_address"
+    ]
+  },
+  {
+    "start": 4264.064,
+    "end": 4265.645,
+    "text": "So would you like to take it away, please?",
+    "speaker": "clairestpierre",
+    "tags": [
+      "assign_action",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 4275.831,
+    "end": 4369.109,
+    "text": " Sure, sure, I'll do that. So this is a report on compliance related. I wanted to run through the main points after which I'm happy to take any questions. So firstly, I think it's important to note that while many buildings don't comply with the requirements of the current building code, because this changes over time. So I think that's the first point to note that a lot of them don't comply with the current building code because this does change significantly over time. The requirement to upgrade though,  if it doesn't comply, is only triggered when there's a change of use of the building or when a building is altered and a building consent is required. In these instances, upgrades are generally required for means of escape from fire. So that would be if you didn't have a fire alarm and you needed to under the current code, you'd have to install fire alarms and emergency lighting, those sorts of things. And the other compulsory requirement is when there's an upgrade or a change of use is access and facilities for people with disabilities. And that includes ramps and disabled toilets.  In all other respects, the building has to continue to comply with the building code to at least the same extent as before the alteration. So that's an important point to make. Just because a building doesn't comply with the current code doesn't mean that that's an issue. If a building contains specified systems,  And they are things like if there are no specified systems within a building, build a B1.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "summarize_outcome",
+      "clarify_point",
+      "public_address"
+    ]
+  },
+  {
+    "start": 4378.195,
+    "end": 4381.397,
+    "text": " Oh, Bruce, we've lost your voice, actually. We're not getting it.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "provide_information",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 4385.398,
+    "end": 4401.053,
+    "text": "Bruce, can you, sorry, you're flickering it off. Can you turn off your video? It might just give us better sound quality.  Sorry, we're not hearing you. You keep on freezing, so I think you're freezing right now.",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "assign_action",
+      "procedural_move",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 4401.813,
+    "end": 4418.239,
+    "text": "Yeah, and so yeah, like if you could turn off your video and then maybe just repeat like what you were doing just in that last section. Yeah, we're doing OK to start with. I think you was just starting on the specified systems. Can you hear me now?",
+    "speaker": "clairestpierre",
+    "tags": [
+      "assign_action",
+      "ask_question",
+      "clarify_point",
+      "procedural_move",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 4418.939,
+    "end": 4423.681,
+    "text": "Yep, that's great. OK, it's been perfect for weeks and weeks.",
+    "speaker": "Unknown",
+    "tags": [
+      "agree",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 4425.836,
+    "end": 4428.318,
+    "text": " Oh, well, it's high pressure with the Pirongi Award Committee, I'm afraid.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "express_concern"
+    ]
+  },
+  {
+    "start": 4436.845,
+    "end": 4450.876,
+    "text": "Clearly, it is clearly and contains a specified system. So, and that's things like fresh air systems, automatic doors or fire alarms. So, if there are no... I think we've got problems.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 4452.219,
+    "end": 4457.482,
+    "text": " Yeah, we're losing you again, Chris, I'm afraid. Yeah, yeah. It's not happening.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "express_concern"
+    ]
+  },
+  {
+    "start": 4457.962,
+    "end": 4464.705,
+    "text": "I haven't had this issue for at all. Can you hear me now?",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 4465.846,
+    "end": 4467.567,
+    "text": "Yes. Yeah, that sounds good.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 4468.067,
+    "end": 4563.199,
+    "text": "OK, so in terms of commercial buildings and halls, there are maximum occupancy numbers required, and that's generally based on the size of the building,  type of fire alarm and if there are any and number of fire exits. So under the current building code. In a building such as  buildings built under, you know, sort of greater occupancy numbers. So where the occupancy numbers are unknown, the only way you can really get a good idea of the halls' capacity. So in most buildings, it's normally on the BWOF or it's on a fire report when the building was originally built. However, a lot of our halls are very old and those documents don't exist.  Finally, and the final point I just wanted to make is that all halls should contain fire evacuation schemes or something that actually advises occupants what to do in the event of a fire. So if there was a fire alarm, it would say where that was, it would have a plan showing the sort of fire exits, that type of thing.  So yeah, they're the key points in the paper. So yeah, so if there are any questions.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "cite_reference",
+      "summarize_outcome",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 4564.961,
+    "end": 4586.218,
+    "text": "Yeah, thanks Bruce. Yeah, so I know Janet was one of the people that raised some points at our last meeting. So Janet, are you happy with what's being reported or do you have any questions? And of course, anyone else is welcome to ask as well. I think Bruce, probably I need to check when the extension was done on the whole",
+    "speaker": "clairestpierre",
+    "tags": [
+      "ask_question",
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4586.898,
+    "end": 4642.168,
+    "text": " because there must be some council paperwork there of when that was done. And it is a ramp for wheelchairs and obviously the bathrooms were changed for that too.  So that might be in the system, but yeah. And the council records may be there for some of these halls. I guess it's a matter of trying to find out where they are and what they are. But I think the older halls do need some guidelines as to how we're gonna go about making them all compliant. I know if we do a major extension or different works, it has to come up to today's standards,  But a lot of halls don't meet that. And, you know, it would be good to know that we could actually, especially knowing how many people were there and what happens in the fire, that it actually goes out to the people hiring it.",
+    "speaker": "janetwilliams",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "policy_proposal",
+      "express_concern",
+      "equity_reference",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 4646.903,
+    "end": 4673.899,
+    "text": " would generally, the people who would do that, would to engage a fire engineer to do a gap analysis on your hall. So they would come in and they would say, this is what you currently have, this is what the current code says, and I'd do a gap analysis on that for you. And at the same time, they would identify the number of people who were allowed to... Bruce, is that something that the council would fund that with being the owner of the building?",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "ask_question",
+      "defer_to_authority",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 4674.079,
+    "end": 4679.784,
+    "text": "Or is that something that the...  committee would need to do. Not sure if you heard all of that.",
+    "speaker": "janetwilliams",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 4680.264,
+    "end": 4709.31,
+    "text": "Yeah, I did. I did. I got that. I'm sorry, I'm just actually saying now my internet connection is unstable. So if I drop out, that's what's going on. Yeah, I'm not sure that I can answer that right now. So a lot of the halls where we don't own them, we're not actually responsible. And I think that the key point is that the halls aren't necessarily non-compliant and can operate the way that they've always operated.  So legally, so there is no issue there, but we could certainly look at how we might.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "defer_decision",
+      "reassure_stakeholders",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4714.775,
+    "end": 4727.565,
+    "text": "For the halls that are actually leased or have leases to the hall committees, those halls, I understand, are owned by the council.",
+    "speaker": "janetwilliams",
+    "tags": [
+      "clarify_point",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 4729.299,
+    "end": 4742.209,
+    "text": " Yes, there are leased halls owned by the council. That's not necessarily true. So some of the leases just cover the land. So if the paper actually outlines, so there's a range of buildings where we own the land, but the whole committee owns the actual.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "disagree"
+    ]
+  },
+  {
+    "start": 4747.573,
+    "end": 4759.425,
+    "text": "Yeah, great difficulty with not hearing you. Maybe if we have a phone conversation another day and we can.  Yeah, go from there.",
+    "speaker": "janetwilliams",
+    "tags": [
+      "express_concern",
+      "procedural_move",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4760.366,
+    "end": 4764.927,
+    "text": "OK, that's fine. Yeah, apologies about that. As I say, it's been working fine for months.",
+    "speaker": "Unknown",
+    "tags": [
+      "reassure_stakeholders",
+      "agree"
+    ]
+  },
+  {
+    "start": 4769.689,
+    "end": 4771.77,
+    "text": "Thank you. OK, thanks. Andrew, do you have a question?",
+    "speaker": "clairestpierre",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4772.83,
+    "end": 4778.692,
+    "text": "No, I was just commenting that kids must be home on Xbox or something and using up all your bandwidth.",
+    "speaker": "andrewreymer",
+    "tags": [
+      "clarify_point",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 4779.032,
+    "end": 4787.335,
+    "text": "No, no kids here at the moment, so all gone. Maybe it's because you've got your Wi-Fi code or something. Yeah, well, that could be what's going on, yeah.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 4788.148,
+    "end": 4817.992,
+    "text": " Yeah. Any other questions from any other members? Okay. All right. Oh, that looks great, Bruce. Thanks. I actually thought it was an excellent paper for this group because most of our members here have got a whole lot they're responsible for. Yeah. And so it's really great to have it sit down. So yeah, plainly and in a straightforward way that we can follow. So thank you very much. And it looks like Janet will be following up  with you, yeah, afterwards.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "ask_question",
+      "state_opinion",
+      "confirm_next_step",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 4818.352,
+    "end": 4819.713,
+    "text": "Yeah, cool. Okay, thank you very much.",
+    "speaker": "Unknown",
+    "tags": [
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 4820.213,
+    "end": 4868.64,
+    "text": "Thank you, cool. All right, so with that, we'll just receive that report. So there's a recommendation on page 156 that the information contained in the Halls Compliance Report of Bruce Nunn's be received. So could I have someone that will move it and a seconder, please? Now, Andrew, I think you're lined up for this, aren't you? Yeah, so we'll go, Andrew's gonna move, who's gonna second?  Thank you, Alan. All in favour, please say aye. Against. Carried. Cool. Thank you very much. And then we are on to the Waipa Community Spatial Plan. That's on page 162.  And I did see Kirsty Downey there earlier, so I'm hoping she's there and she's ready to speak to her item.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "summarize_outcome",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4869.16,
+    "end": 4968.298,
+    "text": "Yes, thank you, Madam Chair. Kia ora koutou. I'm Kirsty Downey, Manager of Strategy with responsibility for delivery of this project. And with me also is Vanessa Honere, who is a senior strategic planner within the strategy team and is project managing this piece of work.  So if I can just briefly talk to the report and then Vanessa will lead through a PowerPoint presentation. So in your agenda, you've been provided with a staff report and the purpose of this really is to provide you with a brief introduction to the development of the district wide community spatial plan.  It outlines what it is, why we're doing it, where it will sit in the hierarchy of documents that council has developed and implements. But look, I think the best way for us to work through that with you is for Vanessa to now share her screen and take you through a brief presentation and absolutely happy for you to ask us any questions either as we work through the slides or at the end. Thank you.  Sorry, Vanessa, we just we can't see your presentation yet. It's just. A blank screen. Maybe there's an issue in coming to Padongia.",
+    "speaker": "kirstydowney",
+    "tags": [
+      "provide_information",
+      "procedural_move",
+      "public_address",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 4972.52,
+    "end": 4980.685,
+    "text": "Who knows? Yeah, it's really strange, isn't it? It is indeed. Zoom meetings and we don't really usually have these technical issues, do we?",
+    "speaker": "clairestpierre",
+    "tags": [
+      "ask_question",
+      "state_opinion",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 4986.572,
+    "end": 5020.331,
+    "text": " Vanessa, you're on mute. Can you hear me? I'm just going to try and message her another way.  Okay, I'm going to mute myself if you don't mind and just try and contact her.",
+    "speaker": "kirstydowney",
+    "tags": [
+      "ask_question",
+      "public_address",
+      "procedural_move",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 5021.314,
+    "end": 5033.755,
+    "text": "Okay, that sounds great. Karen, do you think we should...  go along to the next item, or we should just wait patiently for a few moments to see how it goes.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "ask_question",
+      "confirm_next_step",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5034.315,
+    "end": 5056.591,
+    "text": "So, Vanessa actually clocked off the computer and is off the meeting and has just come back on. So, can you just give us a couple more minutes, please, and then we'll move on if we have to. Yeah, no thanks. There she is. She's here.  You're on mute. You're on mute, Vanessa.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 5058.313,
+    "end": 5067.344,
+    "text": "Everything just dropped. I couldn't actually get either onto Zoom or... That's an introduction, isn't it? It is indeed.",
+    "speaker": "vanessahonore",
+    "tags": [
+      "report_back",
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5067.484,
+    "end": 5070.969,
+    "text": "I think it's because we're trying to get to Parongia. We need to do it here in person.",
+    "speaker": "kirstydowney",
+    "tags": [
+      "state_opinion",
+      "clarify_point",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 5074.29,
+    "end": 5101.22,
+    "text": " My apologies for this. I was actually trying to present to share my screen for the presentation. So please bear with me. I'm going to try to do this again. And that is with great fear. But I am actually trying because the last time it completely rebooted my entire system. So bear with me.  What how are we doing right now?",
+    "speaker": "vanessahonore",
+    "tags": [
+      "ask_question",
+      "provide_information",
+      "express_concern",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5101.32,
+    "end": 5110.765,
+    "text": "It's great we can see on the slide. That was exhausting and it's really hot as well so I'm I yeah fantastic.",
+    "speaker": "kirstydowney",
+    "tags": [
+      "state_opinion",
+      "express_concern",
+      "agree"
+    ]
+  },
+  {
+    "start": 5111.166,
+    "end": 5953.618,
+    "text": "Okay bear with me a second I need to see what I'm presenting because I can't actually see this now.  I'm hoping in year three of this pandemic I will actually get better, but it feels as chaotic as my first Zoom meeting back in 2020. Okay, bear with me a second. Can I see?  This is OK, great. Sorry about this. My name is Vanessa Honor\u00e9, kia ora koutou to everyone. As Kirsty mentioned, I'm the Senior Strategic Planner at WIPA District Council and I'm also the Project Manager and Co-Technical Lead for the WIPA Community Spatial Plan, but I will be introducing  to you all today. I apologize for some of the councillors like Bruce, you would have seen actually some of those slides before. And please, this is really an informal update at this stage and I'm really open to have kind of an open discussion if it comes to it. So if I don't see raising your hands, I'm hoping  Madam Chair, you can support in this or Kirsty yourself can look into that. Fantastic. So the purpose of today's update is to obviously provide you with an introduction and an overview of the development of the committee's spatial plan to date. It's also to explore the opportunities that we might have in 2022  to gather and capture peer and peer work committee feedbacks on the spatial plan. As we go along, there is actually an engagement plan that will actually start up at the start January, February next year. And we can talk about this a little bit later in the presentation. And obviously, as I said, an opportunity for an open discussion and for to receive actually feedback.  So a little bit of the background of the spatial plan because that's something which is quite new in New Zealand and why do we actually need one in WIPO. So spatial plan there is quite maybe another use of the word itself it can be called also a master plan it can be also called a strategic plan and all those words can are interchangeable  And they mean actually the same thing. This is really to set direction at the portfolio level for any kind of activity or investments that we need to look at from the four well-beings for economic, environmental, cultural and social.  And when I mean actually long term, we're looking at 30 years within the plan, within NYE, on 50 years. And it happens that some spatial plans do also look at 100 years ahead.  When we look at Manufaenuan Iwi management plans, some will actually look at seven generations ahead. So we're looking really long term, projecting ourselves into what WIPA could look like in 2050 and beyond.  So we have a set of feature that we need to kind of go through when you actually scope for a spatial plan and I will go into this in a minute. And the first why do we need one. And I think we all heard from from 20 quick full presentation, you know, developers are knocking at  be looking to develop further the few amount of places that we have, and remain, and develop at this stage, we're looking at, you know, and some areas like Pyrongia for example,  We did the concept plan refresh last year and we've got about 230 more residents. Dwellings actually will be planned to be developed by the end of 2050. In Cambridge for example we've got actually the population which is forecasted to double. So how do we actually retain those four well-beings while there is so  so much changing around us. And that's really what the spatial plan is trying to do. How do we retain the vision, the community outcomes that we are set to deliver through all those changes? And how do we actually visualize those activities? How do we pass on the message to other entities, other organizations,  for them to know what are the main investments, what are the main priorities for us to achieve the vision and community, and that's really the purpose of a spatial plan, but of our spatial plan in particular.  As I was saying, there is a step by step. When you kind of start thinking of building a spatial plan, you look through all those kind of criteria, and you start defining a little bit more on how the spatial plan might actually look like. So as I said, I won't be looking at 30 years ahead with an eye on the 50 year plus, potentially.  We're looking at a district-wide document, but really one of the particularities of this spatial plan is retaining the concept of a collection of community, and I must stress this. This is quite particular when it comes to the spatial plan. We're going through play summaries, workshops with elected members at the moment,  we are really trying to retain this collection of communities and this collection of community identity within the district council as well. How can we actually retain those characters through the growth of the district?  From a level of detail, we want this to be, as Kirsty mentioned, it sits at a portfolio level, beyond before the strategy, before the district plan, before actually all the plans that we have at the moment. So we need to feed on from the documents who are currently existing and currently operative, but we also need this document to inform the future strategy and the future district plan.  From an engagement approach, it is completely in partnership with Manafinwa and Kirsty and I are completely devoted to make this point across actually the spatial plan. This is really important that Manafinwa come to the table and outline the aspiration as much as we do with the rest of our communities. So a high level of partnership with Manafinwa and Iwi, that's really what we're trying to strive for here.  Some of the outcomes, as I said, retaining those well beings while being pragmatic, we know that there will be a dial in and some calibration happening between, between all those four well being is we need to remain realistic and we need to remain pragmatic about this.  On the philosophy, we know that the achievement is to deliver on the vision and the committee outcomes that were set actually by previous long-term plans. Governance as well as the engagement approach, manifold and council-led.  And on the document itself, it needs, as I was saying, to provide direction and guidance to national entities and other organizations on what WIPA is promoting as being their priorities, almost like a manual of what WIPA will need to look like.  so they know exactly what kind of investment they are looking to provide to WIPA, but also a bit for our communities to think, OK, so there is a bit of a gap here for a project. I'm just going to see if this is something that we can do as a community as well. So something technical, but also completely legible by every one of us here as well.  And for the end product, we're really looking at almost like a web page, a site held almost like a one-shop website where anyone could actually get the information that they're looking for in the spatial plan.  How does they actually fit? Because yes, we have a lot of documents and you will be aware, there is so many and engagement as a moment and so many are asked by the communities. As I was saying, that's about the relationship of the spatial plan with other documents is really a lesson and informed. So knowing what actually the  those other plans are saying and what they are directing to, but also trying to inform the next one. But it will sit as a portfolio level, providing guidance to the rest of the plans and strategy in the future.  So a little bit on the project overview. So the project really started at the start of this year of 2021. And that's when we started actually phase one.  And that was really an evidence-gathering phase where we spent three to four months reviewing every document we could review within the WIPAC literature, if you want, looking at what were the main priorities for the Council.  Now we are entering, and I will talk a little bit about the outcome of phase one in the next slide. And then we entered phase two in September. Yeah, about September. So we're really at the start of the development of this project. And as I put right there, we're creating the community special plan. This is really what phase two is all about.  And in there, we're opening the doors to those two engagements. As I said, with Mana Fenoa, with key stakeholders. And I will talk about those two groups a little bit later on. We've done a lot of integration workshop and with WIPA district council managers and the business case writer. Those people who are creating those implementation projects at the bottom of the flow chart. And then obviously the wider community at the stage.  So as I said, Phase One ended up with outlining seven focus areas for the preparation of the Community Spatial Plan. And that line, I'm not going to go through the descriptive of each of them.  But they were, you know, usual suspects here. Our population change, our transport, our free waters, community facilities, vibrant communities will really actually reflect the economic side of what makes a community vibrant at any kind of scale, from Cambridge to Deparu. The natural environment, the cultural and heritage of each of those communities as well.  Then we entered phase two and we established four main workstreams.  to ensure that this partnership is delivered throughout the lifecycle of the project. We also are approaching a stakeholder engagement from a targeted approach, where we have appointed and are appointing a technical advisory group, but also a community stakeholder advisory group. And I will go into detail on to the next slide for those two advisory groups.  We also have the possible future scenario work stream, which is currently ongoing. And this is really about how a community might evolve in response to the changing key variables. And those key variables meaning population change, demographic change, and also economic change.  And then we've got the last one, which will come a little bit later in the life of the project, around April, March, which is really the preparation of the plan and how do we actually conceptualize and visualize all the work that would have been done by then. There is an evaluation of those possible future scenarios as well that we'll plug in there and that will establish a foundation for the community spatial plan.  And with it, with the preferred feature scenarios, obviously there is a set of intervention. There is a set of KPIs of key project indicators that we need to kind of establish to make sure that the spatial plan is a success, not only right now, but in five years and 10 years. Something measurable, tangible that we can actually measure so that we can see changes  and see our achievement to achieve a vision and the community outcomes as I mentioned earlier. Is there any question at this stage? No?",
+    "speaker": "vanessahonore",
+    "tags": [
+      "provide_information",
+      "ask_question",
+      "community_reference",
+      "equity_reference",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5954.378,
+    "end": 5954.679,
+    "text": "Okay.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 5956.979,
+    "end": 6117.606,
+    "text": "As I mentioned, our approach to engagement with the stakeholders is really kind of twofold. So we're having, we're appointing a technical advisory group, which is mainly,  representatives from ministries, national agencies, and all those agencies where we're looking to get actually some investments to be put in WIPOV over the next 30 years. And that's really to make sure that we align  our investment priorities to their financial agenda. We also have the appointment of a community stakeholder advisory group, and this is just so that we don't get lost into the technical aspects without actually forgetting about what we're doing this for.  and our community stakeholder advisory group are there to really make sure and ensure that the project team and the development of a community spatial plan retain the social, environmental, cultural and economic well-being at heart.  A little bit on the deliverables. So we have an ambitious timeframe. We're looking to finalize the project by the end of year 2022. October is our target at this stage, but we have a lot of work to do. And I've tried to outline there when we will be actually looking at bringing stakeholders  into the mix, but also when we will be bringing the wider community consultation. So just to outline, the fact is that this project is very dynamic. It has already changed from what we had planned in phase one, and it's quite a complex technical kind of level of input as well.  So we really, the ideas, the approach that we have with stakeholder advisory group is for us to, is for them to actually lift that technical input before we go to the wider committee engagement. So that we have something a little bit more tangible, something clear and something evident by the time that it gets onto the wider committee for consultation.  Do you have any question at this stage as well? Because we're getting to my last slide.",
+    "speaker": "vanessahonore",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "equity_reference",
+      "procedural_move",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 6121.168,
+    "end": 6129.532,
+    "text": "So this will be adopted before this present council, we change over whatever may happen. Is that the idea?",
+    "speaker": "brucethomas",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "confirm_next_step",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6131.088,
+    "end": 6172.38,
+    "text": " It is, it would be the idea. And look, we've talked about this with the project team as a as an opportunity or as a risk. The fact is that, you know, we are confident, confident, comfortable, sorry, comfortable, but  whatever happened in October, our WIPA committee spatial plan should be evidenced enough and should have been engaged with enough, but it should actually stand the trouble that might happen in October. Kirsty, do you want to jump in?",
+    "speaker": "vanessahonore",
+    "tags": [
+      "state_opinion",
+      "evaluate_option",
+      "reassure_stakeholders",
+      "defer_to_authority",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 6172.7,
+    "end": 6264.537,
+    "text": "Yes, if I may.  So look, that was the original intention, but obviously we've had COVID and we've also, I guess, sharpening our approach as we engage with mana whenua iwi, with stakeholders, with elected members. And so what's really important is that when we do this, we do it right.  And so we're reporting into a project control group, which has elected member representation, our mayor, deputy mayor, and chair of strategic planning and policy committee, as well as mana whenua iwi representation and project team representation. And we've identified this as a risk, but one that we will actively manage and mitigate. So as Vanessa said, we are  Confident that there will be sufficient engagement, clarity, and detail that this will be progressed to the point where come October 2022, we will have buy-in, but also there will be enough detail to inform those business cases for the development of the next long-term plan, and those business cases will kick off in October 2022.  So we will continue to report through to our PCG and also through to our Audit and Risk Committee and elected members as a collective on how we're tracking against the project plan. Thanks, Kirsty.",
+    "speaker": "kirstydowney",
+    "tags": [
+      "provide_information",
+      "reassure_stakeholders",
+      "community_reference",
+      "equity_reference",
+      "confirm_next_step",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 6264.557,
+    "end": 6269.059,
+    "text": "I know I wasn't concerned. I just don't want to rush these things and get it right and do it once.",
+    "speaker": "brucethomas",
+    "tags": [
+      "state_opinion",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 6270.442,
+    "end": 6284.97,
+    "text": " You're absolutely right, Bruce, and that this will be our priority strategic planning document that will provide our direction for our organisation and how we work with our communities. So you're absolutely right. It's critical that we do it well.",
+    "speaker": "kirstydowney",
+    "tags": [
+      "agree",
+      "prioritize_issue",
+      "provide_information",
+      "community_reference",
+      "reassure_stakeholders",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 6286.13,
+    "end": 6294.535,
+    "text": "I personally think it's a great thing because I don't think up till now, while we have worked with the communities, but not as closely as what's happening in this present climate.",
+    "speaker": "brucethomas",
+    "tags": [
+      "state_opinion",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 6296.778,
+    "end": 6339.12,
+    "text": " And I think, you know, some of you may recall Vanessa from her involvement in the development of the Pirongia Village concept plan refresh. She was then working with AECOM and providing a lead consultancy input to that project. So that work really has been foundational.  you know, for Parongia, but likewise what we did in Cambridge and Kihikihi. So that all helps to inform and shape the development of this plan. And we will come back, you know, to communities. So the next slide, I think Vanessa's going to talk with you about how you might like to be involved. I'll just see whether there's any other questions from the members.",
+    "speaker": "kirstydowney",
+    "tags": [
+      "provide_information",
+      "assign_action",
+      "ask_question",
+      "reassure_stakeholders",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 6339.621,
+    "end": 6346.836,
+    "text": "Anyone else wants to jump in now before the next slide?  Okay, that's right you had your chance.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "procedural_move",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 6350.801,
+    "end": 6397.521,
+    "text": "Yeah, so that was more a slide to open for for for discussion. You know, now that we have actually introduced the project, you know, I'm very could be really happy to kind of come back.  um at the at the next meeting or whenever actually is required to kind of provide an update on progress um we also know that there is uh you know there is some alignment happening uh for engagement so that we don't actually fatigue uh our people more than they are already uh especially after a festive period there is engagement alignment happening between the annual plan and strategies who are currently uh under development so then again that could  create a new opportunity for us to interact with this committee. Yes.",
+    "speaker": "vanessahonore",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "confirm_next_step",
+      "prioritize_issue",
+      "community_reference",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 6398.862,
+    "end": 6460.295,
+    "text": "So just on that, my understanding, we've reached out to elected members and had very strong direction  and Clare and Bruce will be able to talk to this if needed, but about the importance of engaging with communities. So we're conscious that we will be going out early next year, looking at engaging on our annual plan.  And we're also reviewing a number of strategies, transportation, environment, economic well-being, as well as the work that we're doing in this space with the Community Spatial Plan. So we're looking at how we might bring that together with the likes of a bit of a council expo. And in terms of the planning that sits beneath  what is, I guess, the detail, we are looking at coming to the Pirongia community specifically as part of that engagement process. I also think that if you keep it simple and communities can understand where you're coming from, that's half the battle.",
+    "speaker": "kirstydowney",
+    "tags": [
+      "provide_information",
+      "defer_to_authority",
+      "community_reference",
+      "clarify_point",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 6460.995,
+    "end": 6469.18,
+    "text": "And I was just going to say something to Vanessa, congratulations, but I really didn't really want you to have to repeat it again for another year because you'd be getting quite good at it.",
+    "speaker": "brucethomas",
+    "tags": [
+      "state_opinion",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 6471.738,
+    "end": 6475.76,
+    "text": " Well, it wasn't like we have a good start, Bruce. You probably so.",
+    "speaker": "vanessahonore",
+    "tags": [
+      "express_concern",
+      "disagree",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 6478.762,
+    "end": 6517.141,
+    "text": "Thanks a lot. Any other questions from any of the other members? It's a it's a big project, but I was really keen to have it introduced at our meeting today, because as Vanessa and Kirstie pointed out, the plan is that early in the new year,  Council will be coming to communities and possibly this committee to get some more input. And so I thought it'd be good to have an overview of what it's all about, but then we'll get down into the detail. Yeah. And it'll be a fun thing. Yeah.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "ask_question",
+      "provide_information",
+      "community_reference",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 6517.561,
+    "end": 6568.519,
+    "text": "It is very, it's an exciting project. And I mean, you know, as I said, this is, and I think we received such feedback with Kirsty  of, you know, from external parties saying, well done, you know, well done for taking this forward, for going through the hurdles of having this spatial plan, because that is a tricky thing to do, it's a complex thing to do, but it's coming through the RMA reform and WIPA needs to hold a stand and a voice in what is about to happen.  So I think, yeah, I would, I do hope that, you know, every committee members here would champion this within their own kind of committees as well.",
+    "speaker": "vanessahonore",
+    "tags": [
+      "state_opinion",
+      "provide_information",
+      "community_reference",
+      "persuasion_attempt",
+      "assign_action",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 6571.56,
+    "end": 6608.328,
+    "text": "Thank you. Great. Oh, look, thanks, Vanessa. You've just presented it with so much energy and enthusiasm. Yeah, I think we're all going to be really keen to be involved  Now we're meeting, our next official meeting is in April, but I'm not sure if that's actually going to fit in with your timing or whether or not we might need to have a special workshop or something before that date so that we can fit in with your data collection.  processes, I'm not sure. Have you got any comments about that?",
+    "speaker": "clairestpierre",
+    "tags": [
+      "provide_information",
+      "express_concern",
+      "ask_question",
+      "procedural_move",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 6608.988,
+    "end": 6627.565,
+    "text": "Thank you, Madam Chair. So we have spoken with Kieran about the possibility of scheduling a dedicated workshop session with the Pirongi Award Committee. And yeah, we're very keen to engage directly. Excellent. We'd be looking to possibly do that in February. Oh, right.",
+    "speaker": "kirstydowney",
+    "tags": [
+      "provide_information",
+      "confirm_next_step",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 6627.765,
+    "end": 6638.741,
+    "text": "Yeah. OK, that sounds wonderful.  All right, I'm just gonna invite any more questions just before we finish up. All right, you've all had plenty of opportunity.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 6639.001,
+    "end": 6643.043,
+    "text": "Yeah. Thank you so much. Thank you. Thank you all, have a good evening.",
+    "speaker": "kirstydowney",
+    "tags": [
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 6643.423,
+    "end": 6649.625,
+    "text": "Yeah, we really appreciate you coming along and presenting. Yeah, it looks great. You're welcome. Thanks, okay, cool. Thank you.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 6649.885,
+    "end": 6651.946,
+    "text": "Great, thanks. Thank you.",
+    "speaker": "vanessahonore",
+    "tags": [
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 6652.466,
+    "end": 6701.138,
+    "text": "And so I've got a recommendation there to receive the report  from Kirstie Downing. So would someone like to move that and then the second or two, please? And be good if you could just call out your name so that, oh, here we go. Janet, you've got your hand up. Thank you. So Janet's going to move and the seconder, please. Oh, thank you, Jeff. Right. All in favour, please say aye. Aye. Carried. Great. Thank you. And we'll be hearing more about that maybe in February.  And now I'm moving on to the next item, which is the treasury report. And so we have that on page 166. And I don't think we've got any particular staff members here to speak to that, like Yolanda's not here, is she?",
+    "speaker": "clairestpierre",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "summarize_outcome",
+      "ask_question",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 6702.039,
+    "end": 6819.681,
+    "text": "No, no, unfortunately you're stuck with me.  Look, I've added up, I always have a running total as well, and everything measures up correctly. So the good news is that Finance and I agree with how much money is in the budget there. There are a couple of things that I was wondering, wanting to take further. So in the prior year commitments, which is on page three of the report,  There's $2,500 which was set aside for the Pirongia public toilets upgrade. So in the end, they did not require this funding. They managed to find funding from elsewhere and they did not require that $2,500.  There's that, and there's also Pirongi Place Centre has, they took some, it's got some money last year from the committee. They've used all the money that they need, and there's $180 that isn't required. I've got it in writing that they do not require that $180. So I was wondering whether we could,  My staff recommendation is that we return that $2,500 and the $180 to uncommitted funds. Also in that line, there is that $1,000 that was set aside for the book for Mount Pirongia. At the moment, we're doing a bit of research because I'm pretty sure that the invoice has come through.  Finance isn't so sure, so we could just do a bit more follow up to confirm on that one, whether that, because technically that falls outside of the 12 months that we have, limit that we have on the funding.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "policy_proposal",
+      "assign_action",
+      "clarify_point",
+      "report_back"
+    ]
+  },
+  {
+    "start": 6821.702,
+    "end": 6848.73,
+    "text": "On the discretionary fund, yeah. Yeah, OK, so let's just deal with those, the two items, $2,500 and $180.  Is it appropriate for us to have a resolution at this meeting or do you now take the direction of the committee and at our next meeting you'll have a resolution prepared? I just happen to have one on standby.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "confirm_next_step",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 6853.053,
+    "end": 6865.819,
+    "text": " My recommendation is that the Pirongi Ward Committee return the unused funds of $2,500 for Pirongi Public Toilets upgrade, which is Resolution 8-1941, and $180 for Pirongi Play Centre with the Resolution 8-2029 to uncommitted funds. Wonderful. All right.",
+    "speaker": "Unknown",
+    "tags": [
+      "policy_proposal",
+      "provide_information",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 6876.7,
+    "end": 6931.258,
+    "text": " It sounds pretty straightforward. Has anyone got any discussion about that or any concerns? Sounds cool. I'm happy to move, Madam Chair. OK, thank you, Bruce. And do we have a seconder? Janet's got her hand up. That's great. Thank you. Sorry, Ruth, I wasn't fast enough. So I've got Bruce and Janet. All in favour, please say aye. Aye. Against. Carried.  All right, thank you, Kieran, that's fantastic. So with that, we'll also have the recommendation that the report of the financial accountant for the period end of 31st of October, 2021, be received as well. Could those two people move the same one? So we just have the one, sort of do it as a block, or Kieran, or should I have separate people?",
+    "speaker": "clairestpierre",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "call_vote",
+      "summarize_outcome",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 6931.807,
+    "end": 6940.231,
+    "text": " If Bruce and Janet are happy that both are passed, then that's no worries. That's good. Great. Excellent.",
+    "speaker": "Unknown",
+    "tags": [
+      "agree",
+      "defer_to_authority",
+      "reassure_stakeholders",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 6940.791,
+    "end": 6958.765,
+    "text": "OK, great. And now I'm moving on then to the next item, which is the discretionary grant requests. And you've set it out there in a nice paper.  But do you just want to go over it to reflect people's minds?",
+    "speaker": "clairestpierre",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 6958.845,
+    "end": 7056.597,
+    "text": "Certainly. So we've had two requests. One is a very clear reallocation of funds. So the Te Aumutu Bible Chapel has cancelled this year's Light Party.  aiming to hold it again, which is an annual event in Te Awamutu. They're hoping, again, COVID permitting, that it'll be able to go ahead next year. So they were wondering if the $1,000, sorry, I can't remember off the top of my head,  The $1,000 that the committee gave them this year, if we could, if they could, if the committee could like defer it to the 2022 year. That's the first one. The second one, Pirongi School was allocated $1,500. Again, COVID has stepped in. Now, some of the funding for that $1,500 was to teach students, to be able to work with students in the pool.  but some of it was also to be able to open the pool up to the community. Now the community side of things, they have since decided not to open up the pool to the community over the summer holidays, hoping maybe there may be a chance to open it up once school returns, but certainly it is closed over the summer holidays. So  What they're saying here is these are our circumstances. Does the committee want to still give them $1,500 or do you want to make it less or what?",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "ask_question",
+      "community_reference",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 7060.338,
+    "end": 7068.681,
+    "text": " And can I just clarify, Kieran, have they claimed the $1,500 or hasn't it been requested yet? Has it been paid to them yet?",
+    "speaker": "clairestpierre",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 7068.841,
+    "end": 7078.865,
+    "text": "Just off the top of my head, yes, they have. So they would have to, if you decided that they wanted less money, they'd have to return some money. Yeah, okay.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 7079.305,
+    "end": 7111.766,
+    "text": "All right, thanks. So let's deal with the Bible Chapel one first, with the Light Party Grant.  and I do know that councils received similar requests in the event space where people haven't been able to, organisers of events haven't been able to hold them, that there's been requests to allow them to hold on to it for a bit longer to see if they can  stage the event once COVID restrictions ease. So it's not unusual, is it, Karen, that we would be asked to do something?",
+    "speaker": "clairestpierre",
+    "tags": [
+      "procedural_move",
+      "provide_information",
+      "ask_question",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 7111.806,
+    "end": 7130.31,
+    "text": "No, but certainly the difference here is we're asking to do it into a new financial year. Yeah, and yeah, so that's up to the committee to decide whether you're quite happy for you to hold it into the new financial year, which means they would not be able to apply for funding next year.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "defer_decision"
+    ]
+  },
+  {
+    "start": 7131.69,
+    "end": 7158.405,
+    "text": "Yeah.  So what are the thoughts of people about this? Would you be comfortable with that, or do you think they should give it back and try again, apply next year in the usual way? If they can't apply in the following year because they've received in this year, but not used the money, I think we should actually allow them to keep the money.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "ask_question",
+      "evaluate_option",
+      "policy_proposal",
+      "state_opinion",
+      "persuasion_attempt"
+    ]
+  },
+  {
+    "start": 7158.805,
+    "end": 7199.138,
+    "text": "And of course, it's all going to be recorded and everything,  that money is to go to that project, you know, the light show, in order for, I mean, we gave it in good faith to them, but out of everybody's control, COVID came along, and it hasn't been able to be used. But I think in good faith, we should actually give it to them, or we ask for it back, but guarantee that they can have it at a time when they can do it.  which is really against what we do in allowing people to reapply the following year for the same event.",
+    "speaker": "janetwilliams",
+    "tags": [
+      "state_opinion",
+      "policy_proposal",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 7200.799,
+    "end": 7202.799,
+    "text": "Right, yeah.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 7202.859,
+    "end": 7207.48,
+    "text": "I hate to see the community miss out because of COVID. Yeah.",
+    "speaker": "janetwilliams",
+    "tags": [
+      "express_concern",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 7208.14,
+    "end": 7210.46,
+    "text": "Okay, cool. Bruce, were you going to say something?",
+    "speaker": "clairestpierre",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 7211.76,
+    "end": 7220.502,
+    "text": "Not really. I agree with Janet. I think I've got no problem with them keeping it. Well, it's recorded everywhere now, so that's my personal one. I don't know what anyone else thinks.",
+    "speaker": "brucethomas",
+    "tags": [
+      "agree",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 7220.542,
+    "end": 7222.479,
+    "text": "Yeah.  Does that sound right to other people?",
+    "speaker": "clairestpierre",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 7223.901,
+    "end": 7228.726,
+    "text": "Yeah. I'm quite happy for them to hang on to the money. I don't think they're going to run away with it.",
+    "speaker": "geofforchard",
+    "tags": [
+      "state_opinion",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 7229.647,
+    "end": 7237.255,
+    "text": "All right. OK, so Janet, do we have a separate resolution for each item?",
+    "speaker": "clairestpierre",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 7240.203,
+    "end": 7275.491,
+    "text": " I'm just thinking that, yeah, because I don't know what decision you're going to make on the Pirongi School one, so I have a pre-prepared recommendation here again. It was going to go either way, but that the Pirongi Award Committee defer the discretionary funds of $1,000 to the Te Awamutu Bible Chapel  for the Te Awamutu Christian Church Leaders' Association Light Party Resolution 8-21-27 to the 2022 financial year. All right.",
+    "speaker": "Unknown",
+    "tags": [
+      "policy_proposal",
+      "defer_decision",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 7275.912,
+    "end": 7276.932,
+    "text": "You're so good now.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 7276.992,
+    "end": 7281.075,
+    "text": "I know. We've trained you well. I'd like a mover and a seconder, please.",
+    "speaker": "brucethomas",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 7287.147,
+    "end": 7305.763,
+    "text": " I can move it. Okay, thank you. Yeah, so I'm going to do Janet and Ruth. Thank you. All in favour, please say aye. Aye.  against carried. Thank you. Brilliant. And I'm just waiting to see what Kieran's prepared for the next one.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "summarize_outcome",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 7305.823,
+    "end": 7317.412,
+    "text": "Sorry, there's a blank space there because I couldn't kind of there's no if or maybe sorry. So I'll be try and work around what you what you're saying and hopefully I'll be able to come up with something.",
+    "speaker": "Unknown",
+    "tags": [
+      "clarify_point",
+      "confirm_next_step",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 7318.813,
+    "end": 7348.637,
+    "text": "It's a lot trickier this time because they haven't actually been explicit, have they? And what they're asking, I think.  Yeah, they're just setting out their circumstances, which obviously means that they're not going to need all the money probably, but I think they'd like to keep their options open. That's the way I could describe it. Geoff, were you going to say something there? No. Okay. All right. So, well,",
+    "speaker": "clairestpierre",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "state_opinion",
+      "ask_question",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 7350.143,
+    "end": 7360.304,
+    "text": " Claire, can I say something? I think, OK, they're going to honor one part of it. Hopefully, the school kids will have use of it. But they're not going to be able to do the community part. So just have it. That's my thoughts.",
+    "speaker": "brucethomas",
+    "tags": [
+      "procedural_move",
+      "state_opinion",
+      "express_concern",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 7361.253,
+    "end": 7380.85,
+    "text": " yeah yeah um i was wondering whether or not we could um ask them to give us an update in april when we meet because it's still within the financial year and by that time they will have known if they could open the the pool to the public you know once school goes back and so they might i mean i'd be a bit loath to",
+    "speaker": "janetwilliams",
+    "tags": [
+      "assign_action",
+      "confirm_next_step",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 7381.294,
+    "end": 7421.712,
+    "text": " get them to pay back, you know, the 700 and then they're still not going to get the right amount of money because they might have a bit left over or they might not. I don't know. I mean, it's not going to hurt, is it, to let them have a bit longer?  Yeah, Ruth, I'm afraid you've frozen. Can you hear me? No, it'd be good if you repeated that, please. Yeah, we lost bits of it, I'm afraid.",
+    "speaker": "clairestpierre",
+    "tags": []
+  },
+  {
+    "start": 7421.772,
+    "end": 7435.848,
+    "text": "They still do have the maintenance over the summer to maintain the chlorine levels and checking of it, even though it's not accessible. So that's the only thing. But I'm agreeing with you to check where they are given  you know, the next meeting and see what happens.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "provide_information",
+      "agree",
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 7437.77,
+    "end": 7449.138,
+    "text": "Yeah. OK, so people are generally happy with that approach. OK, so could I have a mover and a seconder to that effect? Ruth, would you be happy to move that?",
+    "speaker": "clairestpierre",
+    "tags": [
+      "procedural_move",
+      "assign_action",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 7449.959,
+    "end": 7482.37,
+    "text": "Sorry, just Madam Chair, I just wanted to confirm that the Pirongi Ward Committee is deferring any decision  About, sorry I'm writing this on the fly, the discretionary grant to get on your school for review at the April meeting. How does that sound?",
+    "speaker": "Unknown",
+    "tags": [
+      "confirm_next_step",
+      "defer_decision",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 7483.164,
+    "end": 7492.071,
+    "text": " And would you be able to advise the school that we'd like them to give an update in time for that meeting? Yeah, late March or something.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "ask_question",
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 7494.814,
+    "end": 7512.288,
+    "text": "Thanks. Yep, okay, yep. I can, yep, work through that. So the Pirongi Ward is deferring the decision about the discretionary grant, fund grant to Pirongi School for review at the April meeting, April 2022 meeting. How does that sound?",
+    "speaker": "Unknown",
+    "tags": [
+      "defer_decision",
+      "confirm_next_step",
+      "assign_action",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 7513.037,
+    "end": 7559.612,
+    "text": " Okay, that sounds cool. Okay, so who's going to move it and who's going to second it? I'll move it, Ruth. Okay, thank you, Ruth. And then Jeb's going to second it. Thank you. All in favour, please say aye. Aye. Against? Carried. Thank you. So that's all those items, isn't it, for that particular thing? Yes, we just need to receive the report. Okay, so the recommendation is that the Pirongi Ward Committee receive the requests  regarding discretionary funding from Te Umutu, Bible Chapel, and Purongi School. So would someone just move those as well? Yeah, because we've had different people for each one, I think. So thank you, Ellen, and someone else that we haven't had before. Yeah, is that Andrew?",
+    "speaker": "clairestpierre",
+    "tags": [
+      "call_vote",
+      "summarize_outcome",
+      "assign_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 7559.892,
+    "end": 7560.353,
+    "text": "Andrew, yeah.",
+    "speaker": "brucethomas",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 7560.893,
+    "end": 7596.223,
+    "text": "Yeah, thank you. All in favor, please say aye. Aye. Aye. It's carried. Lovely, brilliant, cool. And I think we're on the last item now, the next meeting.  The date of the next meeting of the Pirongi Award Committee is Wednesday, the 13th of April, starting at four o'clock. So I hope that suits people. It's a little bit different in timing because we're trying to align with the second funding round that's available to the other community boards. And yeah, so that's why it's a bit later than usual. But I hope that's not going to cause any issues for you.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "call_vote",
+      "summarize_outcome",
+      "provide_information",
+      "clarify_point",
+      "confirm_next_step",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 7598.601,
+    "end": 7608.31,
+    "text": " Can I ask the dates of the applications for the next funding round, please?  OK, Kieran, I bet you've prepared that in advance, haven't you?",
+    "speaker": "janetwilliams",
+    "tags": [
+      "ask_question",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 7608.35,
+    "end": 7631.299,
+    "text": "Of course I have. I believe it's in March, it closes at the beginning of March, if I remember correctly. Sorry, I am just hunting it down right now. It says it's open for a month, aren't they? Yeah, it's open for a month and I'm thinking it's opening through February and closes the beginning of March. And I'm sorry, I'm still busy trying to find the",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "clarify_point",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 7634.932,
+    "end": 7642.055,
+    "text": " I don't even know if they'll have actually advertised the dates. It's the first time we will have done it, eh?",
+    "speaker": "clairestpierre",
+    "tags": [
+      "express_concern",
+      "ask_question",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 7642.355,
+    "end": 7665.384,
+    "text": "Yeah, and to be fair, anybody could apply between now and April and the beginning of March, to be fair, and they will receive it. It just won't go before the meetings until April.  Sorry, I still can't find it. Here we are, found it. Just bear with me.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "reassure_stakeholders",
+      "report_back"
+    ]
+  },
+  {
+    "start": 7671.147,
+    "end": 7690.846,
+    "text": "So all applications for all three will actually have the same date, Karen? Yes.  And will our meeting on the 3rd of April be the first meeting to discuss those applications? Or will the community boards have theirs earlier?",
+    "speaker": "janetwilliams",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "confirm_next_step",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 7691.866,
+    "end": 7710.174,
+    "text": "You'll probably find that Cambridge will be earlier, and Te O Mutu, just off the top of my head, might be the day before your one. So you might be the last one of the three for consideration. It's handy to know if the community wards did actually give any money to people.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 7710.434,
+    "end": 7713.184,
+    "text": "If you've got a lot of applications,  Not so much money.",
+    "speaker": "janetwilliams",
+    "tags": [
+      "provide_information",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 7714.847,
+    "end": 7728.035,
+    "text": "Yep. Sorry, now I'm looking at the wrong piece of paper. Madam Chair, would you like to close this meeting and I'll get us off live stream and we can continue the discussion afterwards.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 7728.636,
+    "end": 7729.278,
+    "text": "Okay, all right.",
+    "speaker": "clairestpierre",
+    "tags": [
+      "agree"
+    ]
+  }
+]

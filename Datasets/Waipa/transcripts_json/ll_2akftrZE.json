@@ -1,0 +1,2679 @@
+[
+  {
+    "start": 0.131,
+    "end": 1.252,
+    "text": " Right now, so you're on.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2.233,
+    "end": 11.32,
+    "text": "OK. Got it. OK, welcome everybody. We have one apology from Graham Webber.",
+    "speaker": "suemilner",
+    "tags": [
+      "public_address",
+      "report_back"
+    ]
+  },
+  {
+    "start": 11.98,
+    "end": 18.985,
+    "text": "Could we have somebody move that the apology from Graham Webber, board member Webber be accepted?",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 19.506,
+    "end": 25.37,
+    "text": "Madam Chair, we actually have an apology also from Councillor Andre Wilton's as well. OK.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 26.791,
+    "end": 41.318,
+    "text": "Well, can we have  someone to move that we accept apologies from two people. I'll move it. Thank you Alana. Seconder? Thanks Mike. All those in favour? Aye. Aye.",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "call_vote"
+    ]
+  },
+  {
+    "start": 42.019,
+    "end": 42.559,
+    "text": "Carried.",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 43.94,
+    "end": 57.974,
+    "text": "I'll just make a note that it was our one also. They must have had a busy day. Disclosure of members' interests. Any interests that we should note?  Do we have any late items?",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 60.955,
+    "end": 64.057,
+    "text": "Madam Chair, yes, we do have one late item. Yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 65.657,
+    "end": 66.538,
+    "text": "What would that be?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 68.018,
+    "end": 79.523,
+    "text": "That would be the payment of the invoice. I've given you the information there. That's right. We've got the payment of the invoice for the two better electrical for the bit of work they did on the Christmas tree.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "report_back"
+    ]
+  },
+  {
+    "start": 80.624,
+    "end": 86.284,
+    "text": "So we can look at that at the end of the  Meeting, is that right?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 87.004,
+    "end": 92.789,
+    "text": "Yes, as long as the community board is happy to move that it receives it, accepts it as a late item.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "community_reference",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 93.749,
+    "end": 127.501,
+    "text": "Are we happy to? I think we've got the money to pay for it, I don't think. Thank you, Elyse. Seconder? I'll second that. Thanks, Alana. Sorry, Jo got in first, so I think it's Jo. All those in favour? Aye? Yep. OK, carried. Right.  That's the data item. Confirmation of the order of meeting, that the order of the meeting be confirmed. We have somebody to move that.",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "summarize_outcome",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 129.442,
+    "end": 131.403,
+    "text": "Yeah, happy to do that, Sue. Thanks, Mike.",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "confirm_next_step",
+      "agree"
+    ]
+  },
+  {
+    "start": 131.883,
+    "end": 139.946,
+    "text": "Thanks, Elise. All those in favour? Aye. Aye. Do we have anyone in the public forum?",
+    "speaker": "suemilner",
+    "tags": [
+      "call_vote",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 141.047,
+    "end": 141.667,
+    "text": "No, we don't.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "disagree"
+    ]
+  },
+  {
+    "start": 142.687,
+    "end": 168.034,
+    "text": "Right, okay.  We'll just move to the minutes of the previous meeting on pages nine to 12. All right. Does anybody have any issue with anything on the minutes?",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 170.876,
+    "end": 172.737,
+    "text": "Happy to move to receive those, Madam Chair.",
+    "speaker": "elisebadger",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 173.982,
+    "end": 206.598,
+    "text": " Thank you, seconder. Thanks, Alana. All those in favour? So nothing arising. OK, but if we're all happy, we can move on. Economic Strategy Wellbeing Project.  Steve Tripp, Business Development Manager. Steve there?",
+    "speaker": "suemilner",
+    "tags": [
+      "call_vote",
+      "procedural_move",
+      "ask_question",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 209.019,
+    "end": 217.245,
+    "text": "Yes. Yes, I am here. Yes. And since there's no public, you've got me to look forward to for the first 10 minutes.",
+    "speaker": "stevetritt",
+    "tags": [
+      "provide_information",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 218.285,
+    "end": 219.666,
+    "text": "Right. OK.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 222.248,
+    "end": 574.037,
+    "text": "Thank you. So I'll take my really short PowerPoint as read. I'll just  kind of acquaint you with where we're at with the economic wellbeing strategy. The strategy has been changed from an economic development strategy to an economic wellbeing to recognise a slight change in emphasis towards a greater wellbeing. And we're complying with the need for council to  adopts the four well-beings from government and the Local Government Act. So we've started the strategy. We're in targeted engagement with stakeholders, and this is part of engagement with stakeholders, business, elected members, councillors, community board, and iwi.  The aim is to work up a strategy for formal adoption in June by the Council. So the first stage, which is in progress, targeted engagement with stakeholders, and then drafting and stakeholder feedback. So we're still in the talk stage. I've started collecting  a few themes from our first few meetings, which I'm happy to go through shortly. So we've been gathering technical economic data. I can bury everybody in technical analysis and economic analysis. No two economists agree on the way things are looking. We're in a  interesting phase now with COVID has changed the expectation of business going forward and the business outlook. So it's a really appropriate time to update our 2012 strategy, which is, of course, now 10 years old. So our stakeholder and partner engagement is with  business owners, chambers, elected member, iwi consultative committee at the moment. And that's ongoing. The key sectors that we've identified loosely in the strategy, primary industry, food and agriculture, manufacturing, including agri-tech, technology, business professional services, education, high performance support, construction,  visitor and events. So those are the main sectors of interest. Our wellbeing priorities are across business and employment growth, the Maori economy, innovation and investment, workforce, education and training. So that's, yeah, that's it.  So, our aim is to work up a strategy that's fit for purpose in the current economic environment. And the strategy will align with the council's vision and community outcomes. So, over the last two years, we've engaged on community outcomes and we have a  a format for what is important to our community. So we want to ensure resilience and prosperity, economic well-being of the district, promote Waipara as an accessible and attractive place to do business, and identify opportunities for growth. So our engagement is with  partners, stakeholders, and elected members. We are not required to do a formal public consultation SCP process under the Local Government Act, but we know there's good community interest and business interest in our strategy, so we're looking for every opportunity to talk to people.  The emerging themes, let me list five of them so far, and then add a couple of sectors. So wellbeing outcomes, education, training, partnership, relationships, employment, and agriculture, primary industries. So added to that has been continued support for high performance sport,  support for events in the visitor industry. A suggestion from some quarters that we look at environmental sector businesses, education, aged health businesses, and the equine sector. That's a whole lot of sectors that I've just named. So if any, I can go through  the five themes in more detail, if you like. But let's just pause for some questions, comments.",
+    "speaker": "stevetritt",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "prioritize_issue",
+      "community_reference",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 575.315,
+    "end": 576.595,
+    "text": " Does anybody have any comments?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 576.975,
+    "end": 623.782,
+    "text": "Yes, so I do, please. Thanks, Steve. I just just this is probably the first I've really heard of the of this strategy. Just can you give me a little bit of more background of what this is that do my questions kind of around this? Do all district councils have a strategy similar to this?  And how much are you guided in what it looks like? You know, you were talking about the four well-beings. Do you have to be covering off those?  So just those couple of questions, just general background, because I'm struggling to understand it. And then finally, your emerging themes, most of them kind of hit me as sort of central government core business rather than district. So three sort of comments.",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "express_concern",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 624.403,
+    "end": 729.033,
+    "text": "Okay, I'll step through some of the themes in a minute. But yes, all councils, well, the majority of councils have an economic development strategy.  They all have business development, people like me, or economic development groups, to a greater or lesser extent. Some councils use, some councils are lucky enough to have a trust running an economic development agency, like Grow Wellington, ATEED in Auckland, which is now called something else,  So yes, the four well-beings are enshrined in the Local Government Act, so council must give effect to the four well-beings, and economic well-being is one of those. So it's a statutory requirement that we have something around the strategy. Our current one is 2012,  It was created by a group of business stakeholders and elected members, quite a few workshops, and there's a copy on our website. I've actually done an outcome review from the original strategy, which is quite interesting to show how we've fulfilled the original strategy.  What were the other questions?",
+    "speaker": "stevetritt",
+    "tags": [
+      "provide_information",
+      "cite_reference",
+      "ask_question",
+      "report_back",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 730.594,
+    "end": 742.778,
+    "text": "That's covered off. Usually just the final one was the emerging themes seem to me kind of central government business. In a lot of aspects rather than district, yeah.",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "provide_information",
+      "state_opinion",
+      "clarify_point",
+      "report_back"
+    ]
+  },
+  {
+    "start": 744.779,
+    "end": 899.922,
+    "text": "Yes, you might. You can say that and and partnership relations relationships is a big theme so. So.  We have the benefit of being next to a major metropolitan area linked with key corridors to Auckland. So it's important that WIPA contributes to outcomes in the regional and sub-regional economy as well. It's kind of a joined up approach to growth. So it's important that we work with central government and its agencies to get a good outcome for us.  In terms like, and the theme under employment, a lot of the businesses reported a massive skills and talent shortage. And we've got an environment of full employment, which makes finding workers difficult. So growing employment was important to our community and employment issues around youth training  Staircasing into employment was really important. Now, central government doesn't operate in our area really well. And so we've got to take the initiative around some of these issues. So we've got to manage our own partnership relations between business and council.  Our employment outcomes are important. We don't have to do everything, but we need to make sure that training as much as possible can be local. Not everybody needs to travel to a tertiary or to Hamilton for training. Things as simple as driver's license training. If left to the government, we probably wouldn't have any of that locally.  And our wellbeing outcomes, you know, many of our economies are taking a wellbeing focus, and that's a shift from measure for looking for added value growth outcomes, not just growth. And we'll be picking a range of kind of economic wellbeing indicators that kind of signpost our progress in that area.",
+    "speaker": "stevetritt",
+    "tags": [
+      "provide_information",
+      "policy_proposal",
+      "prioritize_issue",
+      "community_reference",
+      "equity_reference",
+      "state_opinion",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 901.756,
+    "end": 910.74,
+    "text": " I think, Steve, that is a really good explanation of the strategy. Just one final question before I go quiet. That outcomes review, have you published that?",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "agree",
+      "ask_question",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 914.482,
+    "end": 937.202,
+    "text": "No, but it's a council document. I'm happy to make that available to you. It's quite an easy read. It's full of graphs and diagrams showing how well we've done. Be aware that it's about 50 pages.  I thought I did send it to community board members on Friday, but I'll do it again.",
+    "speaker": "stevetritt",
+    "tags": [
+      "provide_information",
+      "assign_action",
+      "confirm_next_step",
+      "cite_reference",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 939.144,
+    "end": 943.767,
+    "text": "You might have just caught me out there.",
+    "speaker": "mikemontgomerie",
+    "tags": []
+  },
+  {
+    "start": 945.188,
+    "end": 981.059,
+    "text": "Yeah. So at the end of our economic development strategy, we'll have a kind of an activity plan as well. Things that we feel the business community and elected members feel that we  could, should be doing. I'm conscious about not over promising because I'm a team of one. So, but we, you know, we want to have a kind of, we want to have a strategy going forward that directs some of my activity.",
+    "speaker": "stevetritt",
+    "tags": [
+      "provide_information",
+      "express_concern",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 985.855,
+    "end": 1004.98,
+    "text": " Steve, I just wanted to say I was happy to hear you say environmental and sustainable business in there, because I definitely think that's something that we should be looking to support going forward, both in terms of businesses working in that space and making the businesses that are here more sustainable. So good to hear.",
+    "speaker": "alanamackay",
+    "tags": [
+      "agree",
+      "state_opinion",
+      "prioritize_issue",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 1005.62,
+    "end": 1075.799,
+    "text": "Yeah, yeah. And we're also working on our environment strategy at the same time. And I'm  I'm taking a look into the environment strategy as well, because there may well be themes or techniques that our businesses need to pull out of the environment strategy to make their own lives sustainable. I mean, the first sustainability challenge for business is to stay in business and be there in two years' time. The second challenge is to do the right thing.  by the environment. So we'll be having a look at that. I'll also be looking for businesses that work in the environment sector. It's not clear to me whether there are very many, but I'll be looking hard because, you know, that's a growth sector and we'd like to  we'd like to be doing our own thing in that sector as well.",
+    "speaker": "stevetritt",
+    "tags": [
+      "provide_information",
+      "state_opinion",
+      "prioritize_issue",
+      "build_on_point",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 1077.499,
+    "end": 1077.859,
+    "text": "Thank you.",
+    "speaker": "alanamackay",
+    "tags": []
+  },
+  {
+    "start": 1079.3,
+    "end": 1109.999,
+    "text": "Any other questions? Who'd like to move that we receive the presentation Economic Wellbeing Strategy of Mr Tripp, Business Development Manager? Happy to Sue. Thank you Alana. All those in favour?  Thank you. Thanks very much, Stephen. Yeah, I'm always available by email if you have any thoughts or other ideas.",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "call_vote",
+      "reassure_stakeholders",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 1110.86,
+    "end": 1133.268,
+    "text": "In the next month, I need all the ideas that I can get. And this is the time to kind of make suggestions before we start writing the strategy. But there's plenty of time.  to comment or discuss the strategy down the track.",
+    "speaker": "stevetritt",
+    "tags": [
+      "assign_action",
+      "prioritize_issue",
+      "confirm_next_step",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 1134.409,
+    "end": 1135.889,
+    "text": "Thank you.",
+    "speaker": "elisebadger",
+    "tags": []
+  },
+  {
+    "start": 1136.029,
+    "end": 1136.609,
+    "text": "Thank you, Steve.",
+    "speaker": "alanamackay",
+    "tags": []
+  },
+  {
+    "start": 1137.51,
+    "end": 1156.136,
+    "text": "Thank you. The next item is the proposed guidelines for lighting the Cambridge Town Hall and Clock Tower. So let's go to that one, because that's quite an interesting one. You've done some work on it, have you, Manana?",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 1159.957,
+    "end": 1162.318,
+    "text": " Yeah, Elise and I caught up with Hannah about this one.",
+    "speaker": "alanamackay",
+    "tags": [
+      "report_back"
+    ]
+  },
+  {
+    "start": 1163.079,
+    "end": 1163.359,
+    "text": "Yes.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 1165.08,
+    "end": 1253.73,
+    "text": "Good evening Sue and the rest of the community board. Thank you for having me along tonight.  So we've included the report and your papers there. So I will take the report as read, but it does follow on from our discussions at the end of last year to create a set of guidelines that would be adhered to for applications for lighting up the town hall and also the clock tower as well. So I've worked with Alana and Elise to pull together the proposed guidelines.  So you'll see those there in front of you. So the criteria includes charities or community initiatives that Waip\u0101 District Council supports through funding or strategic partnerships, a private event that a town hall event has a town hall event booking and does not clash with preferential dates listed below, to mark a special national event milestone or celebration for a particular council run or partnered event, and as a symbol of respect or of solidarity with other global landmarks following guidance from central government.  And then, obviously, we've listed those preferential dates here that came up at the former meeting. So that includes Waitangi Day, Anzac Day, Easter, Matariki, Basil Day, Likanoi, Liberation and Armistice and Christmas. So we're just here tonight just to see if we can get those endorsed and recommended, and then they'll be going back to Council for the Finance and Corporate Committee.",
+    "speaker": "hannahblake",
+    "tags": [
+      "provide_information",
+      "policy_proposal",
+      "procedural_move",
+      "summarize_outcome",
+      "defer_to_authority",
+      "confirm_next_step",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 1254.558,
+    "end": 1272.033,
+    "text": " Okay well I've got a question. A private event that has a town hall event booking and does not clash with preferential dates listed below. So if somebody has a wedding for example they could pay to light up the clock tower",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1274.238,
+    "end": 1283.184,
+    "text": " Elise, did you want to answer this one? This was maybe something we needed to discuss tonight and iron out in a bit more detail.",
+    "speaker": "hannahblake",
+    "tags": [
+      "ask_question",
+      "defer_to_authority",
+      "procedural_move",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1283.504,
+    "end": 1420.203,
+    "text": "So we've put at the top, it's available to be booked by community groups and charities. So that kind of excludes a private event. However, I think it's worth discussing the potential merit of those  assets being available to be lit up by someone if they'd booked the town hall. And if I can just share my opinion, I understand there was some discussion at our last meeting that if they were available for private lighting, for private events, that that would potentially reduce the impact of lighting up the assets. In my opinion, I think having a vibrant CBD with a lot of activity,  would be a good thing. So if you drove through the town and it was lit up because there was a wedding on or there was a film theater or something, I don't see that as a negative thing. I see it as something that shows we have a vibrant township, vibrant CBD, and in fact would help to promote our town hall, which I think is good to promote. That is a really wonderful part of Cambridge. So we've left this intentionally vague  tonight so that we could just bring that idea to you all and see if there was strong opinion in regards to whether it remain exclusively for community groups and charities and then it would just be as simple as changing that note that says if  that you know the charity or community group needs to be aware if there's a private booking already happening in the hall and liaise with that with that group to make sure they're happy for it to be lit up because we don't want to light it up if someone's wedding is happening and they don't want it lit up so we just need to kind of make some modifications there but if if people are happy to that concept of there being available for private a private event  with the caveat that they meet the criteria around being able to meet the costs and they don't clash with any other of the preferential dates, then we can make it happen too. But I was happy just to, it wasn't clear where we were at with our guidelines. It wasn't really specific. And I thought we needed to probably nail down exactly what the expectation was there and then tighten this up, which we can probably do in this meeting without sending it back to council again.",
+    "speaker": "elisebadger",
+    "tags": []
+  },
+  {
+    "start": 1420.952,
+    "end": 1431.315,
+    "text": " And also whether it would be both the town hall and the clock tower, or whether they could be separated out. So if you were having a wedding in the town hall, you might just want to light the front of the town hall.",
+    "speaker": "alanamackay",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "persuasion_attempt"
+    ]
+  },
+  {
+    "start": 1432.055,
+    "end": 1436.037,
+    "text": "Yeah. Yeah. We probably could not one or both. Yeah.",
+    "speaker": "elisebadger",
+    "tags": [
+      "agree",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 1436.457,
+    "end": 1480.231,
+    "text": "Yeah. My concern was that people would say, you know, let's say, you know, you could see it already over the Cambridge grapevine. Oh yeah. So what's, why is the clock lit up today?  and then we'll start getting lots more queries and people saying, well, I've got a birthday and I want it lit up. And they may not necessarily be using the town hall. I just, I think- That's where I think we'd be clear with our criteria that it would be a town hall clock. That's the difficulty. And, you know, whether we actually set a really decent price on lighting up the town hall clock, you know,",
+    "speaker": "suemilner",
+    "tags": [
+      "express_concern",
+      "clarify_point",
+      "policy_proposal",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 1481.55,
+    "end": 1526.713,
+    "text": " I think if we're clear with our criteria, let's say, depending on what everyone thinks, if we're open to it being lit up for a private event, then it would need to coincide with the town hall booking. So I think that would preclude lighting up the clock tower for private events, but it would include lighting up the town hall.  in conjunction with a booked private event that didn't clash with the aforementioned dates. So I hear you, so it has to be a clear connection. But I don't think that's a problem, having people talking about what's happening in town. I think that's only a good thing. It sparks interest, it sparks conversation, it makes people aware of our wonderful assets, it draws their attention to it. But that's my opinion, I'd be happy to hear from everybody else as well on that.",
+    "speaker": "elisebadger",
+    "tags": [
+      "policy_proposal",
+      "clarify_point",
+      "state_opinion",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 1527.414,
+    "end": 1529.735,
+    "text": "Does anybody else have anything they'd like to say about this?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1530.819,
+    "end": 1532.101,
+    "text": " I've got a couple of comments, Sue.",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1532.462,
+    "end": 1533.002,
+    "text": "Yes, Mike.",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1533.583,
+    "end": 1572.86,
+    "text": "Just for starters, the way I read the guidelines, it was absolutely clear that private people couldn't do this because you've said you have to be booked by community groups or charities and then you have to meet one of the following criteria. Birthday party was miles outside of it.  So the way it's written, I think it's absolutely clear. Just to your point, Elise, if you are happy for private individuals to start lighting up the town hall, I think you've just got to be careful with how far you go on this. I mean, would you want them to have a laser light show projecting home movies onto it, for example?  It is a continuum once you start to do private projections onto community assets. So there's a counter argument to what you're suggesting.",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "state_opinion",
+      "express_concern",
+      "evaluate_option",
+      "disagree"
+    ]
+  },
+  {
+    "start": 1573.281,
+    "end": 1608.542,
+    "text": "I assume we're referring though to what's already in place. So when it speaks to at the minimum, the cost is 125 per adjustment. So I assume we're just referring to what's in place. Anything outside the scope of what already is done is not included in this criteria.  would be my understanding from reading this to the point of laser light shows. But again, I don't feel passionately about it. So if we feel like it's just let's scrap the private event thing, then that's fine. That's fine with me. I thought it was just worth discussing.",
+    "speaker": "elisebadger",
+    "tags": [
+      "clarify_point",
+      "provide_information",
+      "state_opinion",
+      "defer_decision",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 1609.423,
+    "end": 1619.229,
+    "text": " So for example, like during the Autumn Festival, we had an art exhibition and they were having an opening evening. You might like to light up the front of the Town Hall.",
+    "speaker": "alanamackay",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 1619.929,
+    "end": 1626.453,
+    "text": "But that then is an event that's, you know, literally a public event happening in the Town Hall.",
+    "speaker": "suemilner",
+    "tags": [
+      "clarify_point",
+      "provide_information",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 1626.493,
+    "end": 1634.598,
+    "text": "It's a private booking though, isn't it? Because you pay for the booking. Well, we do. It's not a community group or a charity.",
+    "speaker": "alanamackay",
+    "tags": [
+      "ask_question",
+      "provide_information",
+      "clarify_point",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 1634.838,
+    "end": 1646.572,
+    "text": "But an exhibition is run by a community group.  If it's run by a group established in the community, it's not the same as, say, somebody's wedding.",
+    "speaker": "suemilner",
+    "tags": [
+      "clarify_point",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 1647.513,
+    "end": 1676.743,
+    "text": " I agree, so I reckon that the autumn festival lighting it up would clearly be within the scope of the guidelines you've currently written. Yes, I think, you know\u2014 The birthday party ones, the good example of a private\u2014 Yes, specifically weddings, birthday parties, yeah. Look, my inclination is to keep it the way you've written it, don't let privates do it myself. Just the inclination I've got that it's a community asset, it's lit up anyway. We have to remember that bullet point in the guidelines then?",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "agree",
+      "state_opinion",
+      "policy_proposal",
+      "community_reference",
+      "clarify_point",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 1677.132,
+    "end": 1705.96,
+    "text": " yeah the second one that would just clarify it's become part of the yeah i guess what we wanted to say was that the um lighting of the town hall for those charity or community groups shouldn't clash with the preferential dates so um whether or not hannah we just need to adjust that that wording a little bit yeah i think we have to keep you know the lighting of the town clock and the town hall if need be",
+    "speaker": "elisebadger",
+    "tags": [
+      "clarify_point",
+      "community_reference",
+      "assign_action",
+      "provide_information",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 1706.528,
+    "end": 1728.337,
+    "text": " as something, you know, for really special events. Like, you know, the day Ukraine manages to get rid of the Russians, I would love to see, you know, blue and yellow, for example. But, you know, it's for very special occasions. I think the clock tower, it's, yeah, that's my personal view.",
+    "speaker": "suemilner",
+    "tags": [
+      "state_opinion",
+      "policy_proposal",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 1732.171,
+    "end": 1739.081,
+    "text": " Sorry, through you Madam Chair, just wanted to check. Hannah, is there an administrative process around this yet?",
+    "speaker": "garyknighton",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1741.052,
+    "end": 1753.896,
+    "text": " The process that is in place with it already is that quite often these requests come through to the events and marketing team, and then they go through from there, but they will be creating a more solid application form once we have these guidelines in place.",
+    "speaker": "hannahblake",
+    "tags": [
+      "provide_information",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 1754.416,
+    "end": 1758.137,
+    "text": "So it doesn't relate to the trust that runs the town hall?",
+    "speaker": "garyknighton",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1759.097,
+    "end": 1796.008,
+    "text": "No, but we will be working in conjunction with them. Each request coming through will be checked off by them as well, just to make sure of what they've already got in their bookings and everything else.  yes so i'm not convinced we've got a consensus here have we yeah well so how are people feeling on this i'm kind of on the fence it's a tricky one because i certainly see the merit of people being able to enjoy the town hall in its full capacity if they have paid to use it for a wedding it would be nice to have that then i can also see",
+    "speaker": "hannahblake",
+    "tags": [
+      "provide_information",
+      "ask_question",
+      "state_opinion",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 1797.565,
+    "end": 1819.652,
+    "text": " I don't know. I can also see that kind of going bad. I just wonder if we don't have enough details around what they could do. I mean, it just seems to be a tricky one. I mean, say you had like a political party hire it for an event and they light it up in the color of their political party and they had their flags outside. I don't know.",
+    "speaker": "jodaviescolley",
+    "tags": [
+      "express_concern",
+      "state_opinion",
+      "evaluate_option",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 1820.819,
+    "end": 1826.064,
+    "text": " Yeah, that's probably a no from me. I agree with you, Jo, that's a great example. It's a very good example.",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "disagree",
+      "agree",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 1826.104,
+    "end": 1882.428,
+    "text": "And the other thing is we have to remember that between the town hall and the clock tower, we actually have the cenotaph. And that's, you know, and that is often lit up at night time anyway. So  you know that there is that sort of break between we have to remember that you know what we do it's more difficult to manage doesn't it what's appropriate as a private event it gets difficult to say your private event's okay and your one's not so yeah by keeping it community groups and charities will will make that easier in the application process yeah and and i think the community will start to see that that's something really special and if they know they can actually make the request because a lot of community groups  possibly don't know that they could, that would make things a little easier for the rest of the community.",
+    "speaker": "suemilner",
+    "tags": [
+      "provide_information",
+      "express_concern",
+      "policy_proposal",
+      "community_reference",
+      "reassure_stakeholders",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1883.208,
+    "end": 1922.639,
+    "text": "Yeah. Maybe we just need the events team to have a little bit of discretion around some things. But maybe if it was a school ball or a nationally touring concert that we're using the town hall, we might want them to be able to light it up.  But you said maybe not a product launch or a political thing.  No, at least there's just so many different options for what people could be using the Town Hall for. Alana, you've covered that off because it has to be a community group or a charity for starters, and then it can have a private event.",
+    "speaker": "alanamackay",
+    "tags": [
+      "policy_proposal",
+      "provide_information",
+      "clarify_point",
+      "evaluate_option"
+    ]
+  },
+  {
+    "start": 1923.06,
+    "end": 1957.383,
+    "text": "So, for example, Cambridge High, you'd argue, is a community group. It's having a private function, but your political party, you'd argue, wasn't a community group.  yeah yeah maybe community group keeps it open enough to have a conversation about what cap classes is a community group it means that there can be whether or not we need to add in all applications will be at the discretion of who is it hannah the um the event for marketing then you know maybe there's a point there that they'll be they'll be at that is you know",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "clarify_point",
+      "state_opinion",
+      "community_reference",
+      "evaluate_option"
+    ]
+  },
+  {
+    "start": 1958.32,
+    "end": 1982.265,
+    "text": " applications uh approved will be at the discretion of the events marketing team and then it just creates marketing team can come back to the community board if there's a query yeah hopefully they shouldn't need to but um yeah but it's probably in there yeah okay so",
+    "speaker": "elisebadger",
+    "tags": [
+      "provide_information",
+      "defer_to_authority",
+      "procedural_move",
+      "community_reference",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 1985.438,
+    "end": 2006.982,
+    "text": " Are we happy to receive the information contained in the guidelines for lighting? Yes. And endorse and recommend to the Finance and Corporate Committee that the proposed guidelines included in the report be used by staff to manage requests for the lighting of Cambridgetown assets. Well, I think we have to put something there about the private use of, don't we?",
+    "speaker": "suemilner",
+    "tags": []
+  },
+  {
+    "start": 2008.03,
+    "end": 2033.527,
+    "text": " Madam Chair, sorry, do we need just to add subject to removing the second bullet point in the guidelines in relation to private matters? Yep, that's the way of doing it. So endorse and recommend to the Finance and Corporate Committee that the proposed guidelines included in the report be used by staff to manage requests for the lighting of Cambridge Town assets subject to removing the second bullet point in the guidelines in relation to private events.",
+    "speaker": "Unknown",
+    "tags": [
+      "clarify_point",
+      "procedural_move",
+      "policy_proposal",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 2034.227,
+    "end": 2051.966,
+    "text": "Yeah, I think that covers it mostly.  Okay, with someone, so someone going to move that? I'll move that. Thank you, Jo. Seconder? All those in favour? Carried. Thank you.",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "summarize_outcome",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 2053.587,
+    "end": 2056.468,
+    "text": "Thank you, Hannah.",
+    "speaker": "alanamackay",
+    "tags": []
+  },
+  {
+    "start": 2058.309,
+    "end": 2065.633,
+    "text": "We now move to John Miles, the Manager of Property Projects. Hi, John.",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2066.56,
+    "end": 2337.729,
+    "text": " Good evening, everyone. Like Steve, I'm a team of one. And Bruce has left in the last couple of weeks. So the property services team is two down out of six and have been for some time. So resourcing is a real issue for us at the moment. Take the report as read. It's a report till the 31st of December, 2021. I'll just go some of the Cambridge.  Matt Constable's iPhone 2.  Lease and services agreement was sent to them a couple of days before Christmas, I think. So they're getting that legally reviewed at the moment and hope to get some feedback on that in the not too distant future. Cambridge Museum, the roof needs replacing. So at the same time we do that, we will repair or fix up some of the seismic issues.  One of the major issues that drives the percentage of MBS is the parapet. So when the roof's off, we'll be fixing the parapet back to the structure, which will increase the percentage of MBS. And we'll also look at doing something with the chimney. So they were two of the major items that issues in relation to earthquake prone building.  So that works on going Cambridge Water Tower. We've been dealing with Heritage New Zealand. I think we've got a plan now. We believe we can remove the tower and the steel work at the top before it completely falls off. But we have to put a steel frame up there.  which replicates the size and how the tank used to be. So we're working through that. C1, C2 and C3 growth cells. The major infrastructure corridors have been acquired in C2.  through the 3Ms block, and also an agreement's in place for the infrastructure corridors through C3, which is a joint venture between St. Peter's School Trust and 3Ms. There's a whole heap of other acquisitions that are ongoing in that area. Cambridge Road, Hamilton Road, urbanisation, that's pretty well done from a property perspective. We've just got one,  or two pieces of land to tidy up on that. And then Eric from Roding can get those works underway. Hicks Road, that's the walkway to the northern enclosure that has been closed for about three years.  Um, Mr. Knighton managed to work all the time through Christmas and managed to get it open on New Year's Eve. So credit to Gary for sorting that out when he was, should have been on leave. Um, Mungatowtrie road cycleway. So as you're probably aware, we purchased state 59 Mungatowtrie road.  which is about 19 hectares adjoins Waipuki. So that was the final piece in the puzzle that we needed to have a contiguous route to Waipuki for Tiawa cycleway. So,  We've got the land, it's just a matter of now getting the funding in the LTP to tidy up that bit of extra track. So you'll be able to ride from Fukunui Stud to Waipuki within the Waipa Council boundary.  So as you probably saw the cycle way to the northern boundary was opened the other day. So get on your bike and go for a ride.",
+    "speaker": "johnmiles",
+    "tags": [
+      "report_back",
+      "provide_information",
+      "prioritize_issue",
+      "summarize_outcome",
+      "public_address"
+    ]
+  },
+  {
+    "start": 2339.41,
+    "end": 2341.932,
+    "text": "Any questions for Joel?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2341.952,
+    "end": 2360.447,
+    "text": "The only other one was Vale Court. We're still working with that lease agreement and Ministry of Housing and Urban Development.  and MST on trying to progress that to a conclusion that will make it more affordable for the pensioners that go into those units.",
+    "speaker": "johnmiles",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "equity_reference",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 2363.248,
+    "end": 2363.708,
+    "text": "Thank you.",
+    "speaker": "suemilner",
+    "tags": [
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 2364.369,
+    "end": 2365.429,
+    "text": "Mike, you had a question?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 2366.13,
+    "end": 2379.317,
+    "text": "Yeah, I've actually got a few, so I'll just do one and then come back to me if you can, please. Hey John, just on the new property on Mangatautri Road, you're talking about getting the funding to get the cycleway through. In the meantime, is that going to be open to the public or not?",
+    "speaker": "mikemontgomerie",
+    "tags": []
+  },
+  {
+    "start": 2380.296,
+    "end": 2405.994,
+    "text": " No, it's currently leased. Well, I've got a meeting next week to see what we can do with that property for a start. There's a house on there that we probably don't require. So yeah, but at the moment it's still leased, it's still leased for grazing to the person that's had it for the last umpteen number of years.",
+    "speaker": "johnmiles",
+    "tags": [
+      "provide_information",
+      "confirm_next_step",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 2406.534,
+    "end": 2407.855,
+    "text": "Can you tell us what the term on that lease is?",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 2411.033,
+    "end": 2437.644,
+    "text": " It's pretty much monthly, I think. But we need to sit down as a council and work out the long-term plan for that and come up with a strategy as what we do with it. The key was to buy it while it was on the market to get that cycle route through. Anybody else got a question for John?",
+    "speaker": "johnmiles",
+    "tags": [
+      "provide_information",
+      "prioritize_issue",
+      "policy_proposal",
+      "procedural_move",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 2439.47,
+    "end": 2446.752,
+    "text": " Just to note there that there wouldn't be any funding in this LTP, so I can wipe this mic. Right.",
+    "speaker": "garyknighton",
+    "tags": [
+      "provide_information",
+      "procedural_move",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 2448.272,
+    "end": 2458.615,
+    "text": "OK. Now it's just spread off so we can receive. Well, can I keep going Sue?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2458.635,
+    "end": 2459.655,
+    "text": "Got a couple more questions, please.",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2460.455,
+    "end": 2462.116,
+    "text": "Oh yes, yeah.",
+    "speaker": "jodaviescolley",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 2462.176,
+    "end": 2464.096,
+    "text": "Go to it, Mike.",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 2464.136,
+    "end": 2471.97,
+    "text": "John, just a couple of small ones and then a big one.  What does urbanization mean if the Cambridge-Hamilton Road?",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 2472.571,
+    "end": 2481.275,
+    "text": "That's a cycleway they're building along the road there. They've done the first section. You'll see that it's separated from the road corridor.",
+    "speaker": "johnmiles",
+    "tags": [
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 2482.016,
+    "end": 2482.996,
+    "text": "Yep.",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 2483.256,
+    "end": 2523.748,
+    "text": "Where the traffic lights are, the pedestrian crossing traffic lights, goes through Payne Park. This is a continuation from Payne Park through to the C3 development.  So there's a roundabout that will go in at the main collector road that, so the collector road that goes down the hill into St. Peter's Land and the collector road that goes north south into the 3M subdivision. So there's a roundabout that goes in there. So the urbanization is that cycle way that continues to that.  Roundabout.",
+    "speaker": "johnmiles",
+    "tags": [
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 2524.149,
+    "end": 2527.551,
+    "text": "Cool. Okay. I understand now. That's Council's move for cycleway.",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "agree",
+      "procedural_move",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 2529.212,
+    "end": 2548.765,
+    "text": "I'm intrigued by the use of the word urbanisation for a cycleway. Well, it's walking and it's to separate, you know, cars are on the road and others, mobility scooters and all those sorts of things are on a separate, decent path now.",
+    "speaker": "suemilner",
+    "tags": [
+      "state_opinion",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 2550.79,
+    "end": 2570.326,
+    "text": " Which you haven't got curbs and all those sorts of things that make it easier for people to, and actually the roads are actually raised through the road rather than, so the cycleways, cyclists basically have the right of way. Okay, just got one more small one and then a big one.",
+    "speaker": "johnmiles",
+    "tags": [
+      "provide_information",
+      "build_on_point",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2570.786,
+    "end": 2575.71,
+    "text": "I see the clock tower is up for a renewal. Is it just R&M or is there something happening there?",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 2576.978,
+    "end": 2619.059,
+    "text": " Now there's a number of issues with the clock tower. We have been looking at mechanising that because someone's, one of Brad's team's got to get up there and wind it up every three days. So we're looking at mechanising it. And there's also some issues with the structure drumming in the plaster. So there's, we need a report  Condition assessment report done on that, but we need to tie that in with heritage architects. So we're trying to find a heritage architect that can help us out with it.",
+    "speaker": "johnmiles",
+    "tags": [
+      "provide_information",
+      "prioritize_issue",
+      "defer_to_authority",
+      "report_back"
+    ]
+  },
+  {
+    "start": 2620.64,
+    "end": 2631.266,
+    "text": "Cool. And just finally, I don't know if you're the right guy to ask this, but can you give us any information on the Bunnings site on missing out on that?",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "ask_question",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 2632.047,
+    "end": 2686.046,
+    "text": "Yeah.  Well, there was two of us in the running for it, and they went with the other. My understanding is it's John Ingham, the car yard man from Hamilton, and he's also got the, I think he owns Mitsubishi and a Tiamutu. I don't know what was paid for it, but I think I've heard a rumor  that it was higher than ours, but not by much. I'm just waiting for that. That transaction hasn't happened yet, so it hasn't been registered. And we haven't got notification, so settlement's probably not that far away. But we tried our best, and unfortunately Bunnings went with the other party.",
+    "speaker": "johnmiles",
+    "tags": [
+      "report_back",
+      "provide_information",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 2687.525,
+    "end": 2706.024,
+    "text": " So are you satisfied with how the whole process went? Because from our point of view, it does seem like a bit of a miss. And fair enough, if it just got too expensive, I understand that. But from your point of view, was the process good? Was it clean? You know, did you go get every opportunity you could sort of thing?",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "ask_question",
+      "evaluate_option",
+      "express_concern",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 2707.506,
+    "end": 2760.314,
+    "text": "Yeah, well, we were in partnership with someone.  and that's made it stack up from council's point of view. We had valuation advice. We went in at a figure that we thought was a figure that would achieve that. We thought we had a better proposition being the council. You're paying 200 and something, $220,000 grand rent there. And we know it's a landlord that  you know, if it's a private person, they've got to step through a heap of hoops to, you know, personal guarantees and all those sorts of things. So council, in my view, is a better proposition from, you know, we're here for the long run. We're not gonna disappear. Yeah, so it's one of those things.",
+    "speaker": "johnmiles",
+    "tags": [
+      "provide_information",
+      "state_opinion",
+      "persuasion_attempt",
+      "clarify_point",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 2762.434,
+    "end": 2781.79,
+    "text": "John, just to that point,  Obviously, that particular site was available for sale for a long time before we heard about Council putting an offer forward. Could it have been moved on sooner? Is there a reason it wasn't moved on? We did move on it when it was first there.",
+    "speaker": "elisebadger",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "express_concern",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 2782.27,
+    "end": 2883.992,
+    "text": "We looked at it. We didn't get to a stage where we made an offer because the price at that time was considerably higher than what  the actual price they were talking about in recent times. So the price, the asking price dropped at that time? Considerably. Okay. And it's, that site is, it's complicated because it's, the bit out where the timber yard is, is leasehold. The shed's leasehold and the corner site is freehold.  So trim, trim, trim, lease, basically own half the Viaduct Harbour. They own the leasehold of it. Yeah, so I think Bunnings came, I don't know, but the price, the price was a lot more  in making it work for us in a year after it first went on the market. And I guess that's because Bunnings are sitting there, they are using it for storage at the moment for some timber, but at the time, they're paying 220 odd thousand dollars a year for no return.  You know, when you look at what the price was compared to what it would cost you to rebuild that building, it was probably a quarter of the price of what the building's worth.",
+    "speaker": "johnmiles",
+    "tags": [
+      "report_back",
+      "provide_information",
+      "evaluate_option",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 2886.074,
+    "end": 2901.029,
+    "text": "And have you, I mean, obviously it's a bit of a disappointing that it didn't work out for WIPA, but do you have some other areas in mind for  a future site that might work for a library in Cambridge?",
+    "speaker": "elisebadger",
+    "tags": [
+      "ask_question",
+      "evaluate_option",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 2902.65,
+    "end": 2923.662,
+    "text": "Yeah, I've always had something else in mind, but there's no provision for a library in this LTP. You do own a heap of land at Millicent behind the museum.",
+    "speaker": "johnmiles",
+    "tags": [
+      "state_opinion",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 2925.063,
+    "end": 2936.736,
+    "text": "Oh, yeah.  by the senior citizens? Well, the senior citizens is on our land, the bridge club's on our land, the ambulance house is on our land.",
+    "speaker": "elisebadger",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 2937.976,
+    "end": 3083.398,
+    "text": "We own Fonterra distribution depot. There's a piece of vacant land next to that. We own the Red Cross. We own the toilets and we own  Cambridge taxis building. So there is provision in this LTP for a feasibility study to look at that entire site and what can be done. And my view of the world is, we've got all these bits and pieces of buildings that aren't used all the time that perhaps you could build a community facility that had  you know, space that could be used. I know the Bridge Club like to have their tables permanently set up. So, you know, they're the sorts of things that you would need to take into consideration. But, you know, there may be a, you know, when I look around town, retail space that becomes available lasts about a day before it's picked, you know,  It's just a timeline to fit it out, really, to change the use. There's not much vacant around town, so is there an opportunity to do a development on that site? Get some car parking, get a development, get community facilities? I don't know. But then again, Cambridge is moving sort of that way. Should there be a library?  So they're all the things that need to be considered in the mix going forward. But as I say, there's no provision in this plan for anything. It was just that opportunity. And that opportunity, if we had got that, we'd have 850 square metres of office space here that we could have, you know, of library space here that we could have fitted out.  Now that could have been leased out or to a private operator that would have funded the ground rent up there. So there was a whole bunch of things at play. But as I said, unfortunately we missed out.",
+    "speaker": "johnmiles",
+    "tags": [
+      "provide_information",
+      "state_opinion",
+      "evaluate_option",
+      "community_reference",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 3084.398,
+    "end": 3093.32,
+    "text": "John, those bits of land that you just mentioned around the bridge club, et cetera, are they all contiguous and how big are they? What does it add up to? I don't know off the top of my head, but it's all the car park.",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 3093.78,
+    "end": 3105.528,
+    "text": "So it's pretty much everything behind the library,  and then there's a access way out by the bridge club. So it'll be a couple of hectares, I suppose.",
+    "speaker": "johnmiles",
+    "tags": [
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 3106.069,
+    "end": 3126.863,
+    "text": "Okay, good. Because I'm sure you're aware that a new library has been dear to the heart of this community board. We've been advocating for it the whole time I've been here. And this is the first time I've actually heard sort of an idea of where it might go, which makes me a little bit more comfortable that the Bunnings and this isn't quite such a bad place. Thank you. Yeah, well, you know, since I've been here,",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "state_opinion",
+      "provide_information",
+      "community_reference",
+      "reassure_stakeholders",
+      "agree"
+    ]
+  },
+  {
+    "start": 3128.625,
+    "end": 3165.219,
+    "text": " Matt Constable's iPhone 2 is about 1600 square meters, I think. Matt Constable's iPhone 2 is about 1600 square meters, I think. Matt Constable's iPhone 2 is about 1600 square meters, I think. Matt Constable's iPhone 2 is about 1600 square meters, I think. Matt Constable's iPhone 2 is about 1600 square meters, I think. Matt Constable's iPhone 2 is about 1600 square meters, I think. Matt Constable's iPhone 2 is about 1600 square meters, I think. Matt Constable's iPhone 2 is about 1600 square meters, I think. Matt Constable's iPhone 2 is about 1600 square meters, I think. Matt Constable's iPhone 2 is about 1600 square meters, I think. Matt Constable's iPhone 2 is about 1600 square meters, I think. Matt Constable's iPhone 2 is about 1600 square meters, I think. Matt Constable's iPhone 2 is about 1600 square meters, I think. Matt Constable's iPhone 2 is about 1600 square meters, I think. Matt Constable's iPhone 2 is about 1600 square meters, I think  what's at Te Amuru, so that's 1600, you probably need two and a half thousand square meters over here or something like that.",
+    "speaker": "johnmiles",
+    "tags": [
+      "provide_information",
+      "state_opinion",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 3165.9,
+    "end": 3187.467,
+    "text": "Yeah, or we could have one that's perhaps a bit smaller and a library over in Leamington. That way we are serving both sides of the river and it's easier for everybody then. I think we're getting big enough to have a suburban library as well as the main library.",
+    "speaker": "suemilner",
+    "tags": [
+      "policy_proposal",
+      "state_opinion",
+      "evaluate_option",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 3187.927,
+    "end": 3216.963,
+    "text": " Yeah, really, Brad and his team should be determining where the library goes. And then I'll just go and buy the piece of land. We'll talk to Brad. But it was just that that opportunity came up and, you know, the museum was trying to expand, the library's trying to expand. If it had all come together, in my view, it would have been a good opportunity for the council to look at a whole bunch of things.",
+    "speaker": "johnmiles",
+    "tags": [
+      "defer_to_authority",
+      "assign_action",
+      "state_opinion",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 3217.85,
+    "end": 3247.201,
+    "text": " It would have actually worked really well. It would have actually brought the centre of the town back to where it was a long time ago, you know, by the railway station and things like that. And it was such a good site and it's just a shame that we've missed. But however, we'll just get on and find another site for a library or two. Any other questions for John?  Mike? No, I'm good. Thanks, John.",
+    "speaker": "suemilner",
+    "tags": [
+      "state_opinion",
+      "express_concern",
+      "assign_action",
+      "ask_question",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 3247.241,
+    "end": 3247.581,
+    "text": "That was good.",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 3249.282,
+    "end": 3260.128,
+    "text": "Thank you, John. OK, and now we'll we'll move John's report when we after we've heard from Brad. Hi, Brad.",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 3261.384,
+    "end": 3532.783,
+    "text": " Kia ora t\u0101tou, te hei M\u0101ori ora ki a koutou katoa. I'll just take you through a couple of the highlights from our report this last quarter. It was certainly another busy one for our community services wh\u0101nau.  Again, we continue to see high vandalism across our parks, now public toilets. As I described to SPMP yesterday, the damage has become what I would describe more intentional now rather than opportunistic with seeing things like arson and people bringing tools to cut and remove assets, way more graffiti and just a general disregard for  actually stick his belief at how some members of the community think that it's OK to sort of trash the assets and then leave a trail of destruction behind to be cleaned up. And as I just said, we're not sure of the of the reason why we're seeing this increase.  But one can only presume there's some sort of link to the fatigue and uncertainty of the last couple of years with COVID and now see potential escalation in the European countries.  We do have projects for some of our hotspots to address some of the issues that we've seen. We've always known that some of our more secluded or rural spots have a bit more higher vandalism, but as I said, that's even moving right into the urban areas now.  Pukimaku and Gaslight Theatre are two sites that we do have plans to do some more work in and we're working to get cameras in there. Some speed bumps have already gone into Pukimaku. There's some plan to go into Gaslight Theatre to slow the hoons that rip through there down a bit.  And then yesterday at the Strategic Planning and Policy Committee, they supported staff to look more closely at the Public Places By-law, which specifically for anti-social driving will be something that gives police and us a bit more teeth to, you know, catch these people and discipline them.  Libraries, just following on from what John was saying there, with that theme, we've had another very busy quarter. Quarter 2 did see the closure of the libraries while we were in Alert Level 4 there for a brief period of time.  But while we were in level 4, we were able to begin our click and collect service again. And then when we did open up in November and December, we saw some really high numbers of book issues through that period, which offset the lack of issues in October. When we moved to the COVID-19 protection framework,  We transitioned from the orange light to the red light, and obviously all of our council facilities required vaccine passports into the facility. So this did create a little bit of angst with some members of the public and the community, and the teams have done a really fantastic job of dealing with some of those difficult conversations. They're sort of the ones that wear the brunt of some of people's frustrations sometimes, so the team's done really, really well.  And even moving forward from when level 4 was, our click and collect service, especially in Cambridge, is continuing to see a strong demand and increase. I guess as Omicron kicks off and we start to move towards our peak, people are more inclined to use that service than otherwise.  In terms of our parks, our teams are struggling to recruit still. It's been a bit of an ongoing issue, especially for the parks team. Our reserve planner role at the moment has been vacant since early December, and it's one of our key roles to do a lot of our planning and future thinking work.  We're actually in the second round of recruitment for that role now. And we still have vacant mower operators and gardening roles. And to offset the vacancies in that thing, we've actually had to bring in some contractors to just help us keep up with level of service. So those are just a few highlights from the report. I'm happy to take any questions from anyone.",
+    "speaker": "bradward",
+    "tags": [
+      "provide_information",
+      "express_concern",
+      "summarize_outcome",
+      "report_back",
+      "policy_proposal",
+      "reassure_stakeholders",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 3533.763,
+    "end": 3535.284,
+    "text": "Anybody got any questions for Mark?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3538.153,
+    "end": 3571.629,
+    "text": " Thank you, Madam Chair. Thanks. Thanks very much, Brad. Hey, I was really encouraged to see the record-breaking book. What is it called? Registrations? Issues. Thank you. Book issues. Have you guys got some figures yet of book issuing pre-removal of the fees?  the issuing fees to now that they are free, apart from obviously the, you know, new releases, etc. Have you got any data? Yeah, I'm sure we'll have that data.",
+    "speaker": "elisebadger",
+    "tags": [
+      "ask_question",
+      "assign_action",
+      "clarify_point",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 3571.649,
+    "end": 3581.415,
+    "text": "I don't have it to hand right now, but we can certainly get it to you, I'm sure. It'd be interesting to see it, because it was something that was really, you know, something we lobbied for and were happy to see happen.",
+    "speaker": "bradward",
+    "tags": [
+      "provide_information",
+      "confirm_next_step",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 3581.515,
+    "end": 3595.121,
+    "text": "And then I just thought that was really encouraging to see record-breaking issuing occurring.  and I think it's probably cool if we can maybe have some data to back up why that was a good move for Waiwh\u0101 District Council. Yeah, would be cool.",
+    "speaker": "elisebadger",
+    "tags": [
+      "ask_question",
+      "state_opinion",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 3596.061,
+    "end": 3607.045,
+    "text": "Yeah, and maybe if we can get another library over in Debington, the Bourbon Library, that would be really good. I think it's time for that.",
+    "speaker": "suemilner",
+    "tags": [
+      "policy_proposal",
+      "state_opinion",
+      "prioritize_issue",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 3607.584,
+    "end": 3656.773,
+    "text": " Yeah, look, we were really hoping for a different outcome, obviously, for the library service from that sale. Our intention is that we could really bundle a bit of a community hub around it, so you have communities, bookable spaces, you know, we have our front desk sort of down there, potentially down there as well, and previously we've indicated that, you know, that could be  or it'd be a nice opportunity to sort of have a, you know, a decent-sized playground in the centre of town as well. So that's where we sort of went with that. We are always looking for opportunities out in the district, but also limiting would probably fall into that group as well, of like mobilising some of our library activities and assets. So yeah, taking the library to the people a bit more is something that we're  we are looking into.",
+    "speaker": "bradward",
+    "tags": [
+      "provide_information",
+      "policy_proposal",
+      "community_reference",
+      "state_opinion",
+      "evaluate_option"
+    ]
+  },
+  {
+    "start": 3657.493,
+    "end": 3758.118,
+    "text": "That would be good. While you're here, Brad, playgrounds. Yes. There's a playground on Treelook Drive, which is a funny shape. It's only got two playground equipment. I think a slide and some swings. It's what we refer to as King's Garden, I think. Yeah. Well,  So it's a bit of a mess, to be honest. I mean, kids can't even kick a ball properly there because of the awkward shape. But it's the only playground over this side of town, other than the one at Daunton Road. I mean, we've got this great big area out here, lots of kids, and we've got a dearth of playgrounds.  And I don't think that's good enough. And I don't think we've got enough on the other side either. I mean, ideally, people should be within sort of say half a kilometre's walk of a playground. We've got a whole heap of young families coming into the town. And they're living in houses, particularly over here in Cambridge North, where they've got damned old ground around them. You know, we need places for kids to actually be able to kick a ball, for them to be able to walk there.  I mean, what's the story? Gary might know. There's a big paddock beside the Oaks Village. Is that council property? Could we do something there? I mean, there must be somewhere and we should certainly be upping what we've got at the Tudor Drive playground.",
+    "speaker": "suemilner",
+    "tags": [
+      "express_concern",
+      "ask_question",
+      "defer_to_authority",
+      "policy_proposal",
+      "prioritize_issue",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 3758.707,
+    "end": 3825.362,
+    "text": " Yeah, thanks, Madam Chair. There is plenty of plans to be done in the playground space coming forward, especially in those new developments. I think we have shared previously with the community boards, and if not, I can flesh out again our mapping that we've done around playgrounds.  the works we did maybe about a year ago, I suppose. Essentially, yeah, there's lots to happen there. Obviously, just right now, in fact, this week we've kicked off the renewal of the Lake Te Kootu playground. That one there was becoming quite hazardous in terms of some of the equipment that was starting to fail. And Paul, our playground asset officer, he's done a really good job to nurse that through to now. So the junior module was done last year, and now we're doing that senior module now.  And then we do have plans for a destination playground somewhere on that northern town belt. There's also a playground identified on the corner of Terry Cane Drive and, oh it might even be, I forget what the road is there now, but right on the corner.",
+    "speaker": "bradward",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "confirm_next_step",
+      "community_reference",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 3825.862,
+    "end": 3830.986,
+    "text": "Swain Road? Swain Road, yeah. So when are these things going to happen?",
+    "speaker": "garyknighton",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 3831.026,
+    "end": 3853.587,
+    "text": "Because at the moment, it's literally, you know,  people are actually having to drive to some of these playgrounds. And I just think that's daft. I think people should be able to walk there with their kids, or kids should be able to go there after school. And this isn't happening. And I think we're not looking after our younger members of the community.",
+    "speaker": "suemilner",
+    "tags": [
+      "express_concern",
+      "state_opinion",
+      "community_reference",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 3854.206,
+    "end": 3901.913,
+    "text": " Yeah, in terms of the destination playground on the Northern Town Belt, which we're leading, we're doing some work with stakeholders along there to determine exactly the right location for it. We want to obviously make sure it's going to be  part of a bit of a hub or network of activity, not just stuck out by itself. But the other ones that are sort of happening through there are the developer led or developer funded. So we're working through infrastructure work agreements with those developers and working with them on the designs as well. So  I've definitely seen some really cool plans for them. They're going to be cool spaces and link well. But yeah, there's just that fine detail to work through and then they'll start popping up.",
+    "speaker": "bradward",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "community_reference",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 3902.694,
+    "end": 3907.719,
+    "text": "So how far away do you think we're talking? One year, two years, five years?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 3907.759,
+    "end": 3965.074,
+    "text": "So the one that I was talking about on the corner of Terrycane Drive,  I'm not sure if that IWA has been signed yet, but yeah, I would like to think a year. I'm just speculating there. The one in C2, that's probably, I think it's identified in year two or maybe in early year three. Again, that's a destination size playground over that side that will cater to sort of that C2, a little bit of C3 and a little bit of C7 catchment.  And then, yeah, once we've completed the renewal that we're doing currently at Lake Te Kootu, we'll be removing the playground features from the corner of McLean Street, because they are also failing and it's quite an underutilized spot. So we're sort of trying to offset that with these newer playgrounds that are coming through.",
+    "speaker": "bradward",
+    "tags": [
+      "provide_information",
+      "evaluate_option",
+      "state_opinion",
+      "community_reference",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 3967.214,
+    "end": 3999.131,
+    "text": "So when is decided where playgrounds are going?  Is there some kind of plot where people look at it and say, you know, well, this is a good area, this is so far, this population of around here, we could put this in the middle of that area. Is that happening? Yeah. Yeah. And so in the meantime, the one in Tudor Drive, which is a disgrace and has been ever since it was built,  But we're going to do anything with that to make it look better.",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "community_reference",
+      "prioritize_issue",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 3999.151,
+    "end": 4008.334,
+    "text": "That's got no plans. That's not on our priority list. There's other assets, other playground assets all around the district that are in far worse shape than that one. Yeah, but... That are already failing.",
+    "speaker": "bradward",
+    "tags": [
+      "prioritize_issue",
+      "evaluate_option",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 4009.295,
+    "end": 4016.797,
+    "text": "Yeah, but we're not... Sorry, Madam Chair, we're already taking playground pits of equipment out of playgrounds just because they're unsafe.",
+    "speaker": "suemilner",
+    "tags": [
+      "provide_information",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 4016.857,
+    "end": 4024.56,
+    "text": "But that one there is from a safety point of view, OK? Yeah, I can understand that, but I'm more concerned that we should actually have something",
+    "speaker": "bradward",
+    "tags": [
+      "express_concern",
+      "state_opinion",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 4025.312,
+    "end": 4058.513,
+    "text": " You know, it just seems we're behind, you know, like this one down at Hurricane Drive. I mean, that subdivision has been developed over the last five years. There's a heap of houses in there and there's still nothing, you know, we're still waiting. And I don't think that's quite good enough. I think we need to be a little more proactive about playgrounds. They should be going in pretty soon, you know.  I'd love to see them in as soon as soon as you, Madam Chair, but we are working with developers through this through this process as well and buying land and things like that.",
+    "speaker": "suemilner",
+    "tags": [
+      "express_concern",
+      "prioritize_issue",
+      "state_opinion",
+      "persuasion_attempt",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 4058.533,
+    "end": 4062.816,
+    "text": "So they'll be in the ground as soon as we can get them.",
+    "speaker": "bradward",
+    "tags": [
+      "reassure_stakeholders",
+      "confirm_next_step",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 4063.196,
+    "end": 4067.238,
+    "text": "Well, we look forward to it. So do you think we've got one coming before the end of the year somewhere?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4068.661,
+    "end": 4097.522,
+    "text": " before the end of this financial calendar, I wouldn't know, sorry. It would depend. As I said, we aren't leading some of these, it's the developers that lead them, so we're working with them, but it's their time and their money, essentially. It's in their best interest. The more they can get that activated, the more I'm sure they'll be able to fetch for their sections and things, so I know that that is a priority for them.",
+    "speaker": "bradward",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "defer_to_authority",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 4098.924,
+    "end": 4102.886,
+    "text": " Yeah, right. OK, thank you. Anyone else got questions?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4104.246,
+    "end": 4130.266,
+    "text": "Yeah, Brad, just on Lake Te Kootu, I feel a bit sorry for you guys. You must be chasing your tails with the amount of trees that fall down there all the time. But good to see them gradually being tidied up.  Just on the bins, did you manage to work out what's happening with them and the emptying over the weekends? Because they still seem to be pretty chock-a-block on Saturday afternoon and then overflowing all day Sunday.",
+    "speaker": "alanamackay",
+    "tags": [
+      "ask_question",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 4130.886,
+    "end": 4147.01,
+    "text": "Yes, so just recently we had a change of contractor and for some reason that seemed to fall off the radar, that one, and also at Memorial Park and Te Amutu. So we are following up on that. If that's still the case, then I'll have another look into it for you. But we were trying to address that one.",
+    "speaker": "bradward",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "assign_action",
+      "confirm_next_step",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 4147.518,
+    "end": 4149.299,
+    "text": " All right, thank you.",
+    "speaker": "alanamackay",
+    "tags": [
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 4150.22,
+    "end": 4159.286,
+    "text": "Does anybody else have any questions for Brad? No? Well, thank you, Brad. Appreciate you giving up your time.",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 4159.886,
+    "end": 4163.208,
+    "text": "Cool, thank you very much. Thank you, Brad. Thank you. Pumaria.",
+    "speaker": "bradward",
+    "tags": [
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 4164.849,
+    "end": 4223.633,
+    "text": "Right, so I'd like to move that we receive the quarterly services report of John Lyles and manager property projects and the community services quarterly report.  to 31st December, 2021, of Brad Ward, Acting Manager, Community Services. Do we have a seconder? Thank you, Alana. All those in favour? Thank you. Now we come to the proposed submission for the WIPE District Transport Strategy.  This is really... Does anybody have anything they want to say about the submission?",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 4224.674,
+    "end": 4261.358,
+    "text": "Can I start, please Sue? Yes, you can start. I'd stuck my hand up to write this on our behalf, but then unfortunately at the informal get-together to discuss it, I was COVIDed into isolation. So apologies for that. And then subsequently, I was pretty tardy in getting it in and I was late.  So Alana, you had a suggestion that it actually missed the cutoff because I'd already missed the first cutoff. So you had a suggestion about you wanted something in there about buses, which I'd already given it to Kieran. So that's why it's not there. But I imagine we can insert something now if you'd like.",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "ask_question",
+      "provide_information",
+      "clarify_point",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4263.159,
+    "end": 4276.899,
+    "text": "Yeah, well, whatever's easier, either adding a little bit to this or do I just put through something?  of my own, are we allowed to submit individually on this since we're doing one as a community board as well, or?",
+    "speaker": "alanamackay",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "clarify_point",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 4277.919,
+    "end": 4298.127,
+    "text": "Certainly, look, if you want to add in the bit about the buses and if the community board's happy to, yes, but you can also submit your own submission as well, because you aren't making any decisions on this strategy. So you can submit both as a community board and as individuals. OK, yeah, well, my main points were",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "reassure_stakeholders",
+      "community_reference",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4299.321,
+    "end": 4349.26,
+    "text": " supporting the Cambridge to TA bus link and possibly moving it forward if we could in the plan and looking more at bus services within Cambridge, particularly for school students and also elderly people that just find it so hard to get around town. I know there is some assistance with the  mobility subsidy for taxis and those kind of things but I feel like there's a lot of people that fall between the cracks on that one and I certainly hear from a lot of people that have trouble getting to their medical appointments or getting to the supermarket and those kind of things. So I'd like to see a bit more activity in that area around public transport",
+    "speaker": "alanamackay",
+    "tags": [
+      "policy_proposal",
+      "prioritize_issue",
+      "express_concern",
+      "community_reference",
+      "equity_reference",
+      "persuasion_attempt"
+    ]
+  },
+  {
+    "start": 4361.165,
+    "end": 4367.507,
+    "text": " Anybody else have any thoughts they'd like to release? You're happy?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4370.487,
+    "end": 4382.41,
+    "text": "That was good. Tightly includes everything we discussed at our meeting. Yeah.",
+    "speaker": "elisebadger",
+    "tags": [
+      "agree",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 4382.59,
+    "end": 4406.858,
+    "text": "So can I suggest then that we just add another point in there along the lines of Alana's point?  something along these lines. Kieran, I hope you're listening. We wish to see enhancements to the bus service within Cambridge and a Cambridge bus service. Is there one at all, a bus service between Cambridge and TA, or is this a new thing we're promoting? It's a new thing.",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 4407.478,
+    "end": 4420.087,
+    "text": "And the bus services are supplied by the regional council. So it's. Yeah, but it would be a good idea, it would be. Yeah.",
+    "speaker": "suemilner",
+    "tags": [
+      "provide_information",
+      "agree",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 4421.082,
+    "end": 4430.37,
+    "text": " There was something in the strategy about a Kamehameha bus link, but I think it was five years plus away. So.",
+    "speaker": "alanamackay",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 4431.551,
+    "end": 4443.921,
+    "text": "We could put that line in after D, make it the new E, because it sort of fits with specific things we were asking for. You happy with that, Kieran?",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "policy_proposal",
+      "ask_question",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4446.564,
+    "end": 4475.868,
+    "text": "Sure am.  Sorry, I'm just kind of putting in an extra line to the recommendation. So about the enhancement of public transport within Cambridge and between Cambridge and Tel Mutu. So, yep, yep. And I will come back and fix that wording up in this actual submission before I put it in for you. That'd be good, yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "confirm_next_step",
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 4477.335,
+    "end": 4485.84,
+    "text": " Elise, you did a bit of work on the transport strategy document. Do you have anything you'd like to add?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 4487.341,
+    "end": 4499.349,
+    "text": "No, I'm happy with that. I, you know, I just helped facilitate the discussion. And then I think Mike's words are very, very clear and polite and comprehensive. OK.",
+    "speaker": "elisebadger",
+    "tags": [
+      "agree",
+      "provide_information",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 4499.709,
+    "end": 4500.11,
+    "text": "Righto.",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 4500.49,
+    "end": 4500.79,
+    "text": "I'm happy.",
+    "speaker": "elisebadger",
+    "tags": [
+      "agree",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4501.393,
+    "end": 4505.376,
+    "text": " Polite, at least, that's damned with vain praise. We'd be forceful.",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "state_opinion",
+      "persuasion_attempt"
+    ]
+  },
+  {
+    "start": 4506.918,
+    "end": 4515.505,
+    "text": "You said we would like, we would like. It's very polite. You can remove the we would like if you like, we recommend. But it's very polite, we would like.",
+    "speaker": "elisebadger",
+    "tags": [
+      "clarify_point",
+      "persuasion_attempt",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 4515.805,
+    "end": 4517.767,
+    "text": "Or just a blatant we want.",
+    "speaker": "suemilner",
+    "tags": [
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 4518.487,
+    "end": 4520.389,
+    "text": "Yeah, we're a polite bunch of people, that's fine.",
+    "speaker": "elisebadger",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 4523.191,
+    "end": 4535.486,
+    "text": "Okay, so with the little tweaks,  happy to approve the proposed submission or would we want to see it come back to us?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "state_opinion",
+      "confirm_next_step",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4539.042,
+    "end": 4567.19,
+    "text": " For this meeting, you can approve it, and it'll still come back to you before it goes in for submission. So what I've thrown in here, that the Cambridge Community Board approve the proposed submission, Appendix 1, with the inclusion for support on enhancement of public transport within Cambridge and between Cambridge and Te Omutu for the Waip\u0101 District Transport Strategy. Anybody got anything else to say there?",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "policy_proposal",
+      "confirm_next_step",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 4568.086,
+    "end": 4581.853,
+    "text": " And that sounds pretty good. So does somebody want to move that? Thank you, Mike. A seconder? Can I be a seconder?",
+    "speaker": "suemilner",
+    "tags": [
+      "agree",
+      "procedural_move",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 4581.953,
+    "end": 4584.414,
+    "text": "Oh, my hand is up here. Can I be a seconder? Thanks, Elise.",
+    "speaker": "elisebadger",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4584.614,
+    "end": 4613.105,
+    "text": "All those in favour? Right. Carried. OK, we now move to the Treasury report.  So, Nadia, do we have the Treasury report? Is Nadia here to start? No?",
+    "speaker": "suemilner",
+    "tags": [
+      "call_vote",
+      "procedural_move",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 4615.906,
+    "end": 4620.967,
+    "text": "Sorry, I was muted for a while. I'm happy to take any questions for the Treasury report.",
+    "speaker": "Unknown",
+    "tags": []
+  },
+  {
+    "start": 4626.067,
+    "end": 4634.31,
+    "text": " Sorry, let me start again, everybody. Is our second round of discretionary funding coming up then this month, Karen?",
+    "speaker": "elisebadger",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 4634.41,
+    "end": 4668.053,
+    "text": "Is that right? Yes, you'll be making some decisions on the, I think the 6th of April is the meeting that you'll be making that decision. So applications for the discretionary fund close on the 19th of March. So please  get out there and let people know that it's happening. We have received some, but still not that many. So if you can keep out there and let people know it's there and available. It's worth putting on Facebook, so just a reminder. And it closes on the 19th? 19th of March, yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "persuasion_attempt",
+      "procedural_move",
+      "public_address",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4668.894,
+    "end": 4669.314,
+    "text": "OK.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4669.855,
+    "end": 4670.836,
+    "text": "Worth reminding people.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4674.01,
+    "end": 4677.751,
+    "text": " And people who submitted last time are welcome to submit again for the second time.",
+    "speaker": "elisebadger",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 4678.611,
+    "end": 4695.036,
+    "text": "Yes, they can. If they received, they could be that they've got a different project this time around, so they could apply for a different project. Or it could be that last time they did not receive funding, then they could try again, who knows? Yeah.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 4698.557,
+    "end": 4704.151,
+    "text": "OK, so.  So we've got, yeah. Okay.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4709.676,
+    "end": 4752.59,
+    "text": "Madam Chair, I'd just like to point out that there has been, we found a bit of a discrepancy in the report on the sister cities fund. We've managed to gain you guys another about $1,550 in your report.  uncommitted funds. There was a couple of expenses that were counted twice, so we've now fixed that up. So last month it said that you only had $18,900 something money available there, but that's actually $20,529. So that's just, yeah, that was a mix up that just slipped through the cracks there, but we found it and fixed it. Right.",
+    "speaker": "Unknown",
+    "tags": [
+      "report_back",
+      "provide_information",
+      "clarify_point",
+      "summarize_outcome",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 4753.303,
+    "end": 4761.286,
+    "text": " And Karen, am I right? I'm just reading that report correctly, that at the next financial year, there won't be more finances delegated to the sister cities fund?",
+    "speaker": "elisebadger",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 4762.106,
+    "end": 4767.668,
+    "text": "Yep, Jo will be talking about that in the next item. Oh, is it the next item? Oh, sorry, I've gone ahead of myself.",
+    "speaker": "Unknown",
+    "tags": [
+      "defer_to_authority",
+      "confirm_next_step",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4771.329,
+    "end": 4773.83,
+    "text": "Happy to move to receive that, Madam Chair.",
+    "speaker": "elisebadger",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4775.111,
+    "end": 4781.293,
+    "text": "Do we have a seconder? Thank you, Alana. All those in favour?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "call_vote",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4794.771,
+    "end": 4883.97,
+    "text": " Right, good evening. We've got the report in your agenda on the sister city's budget for the 2022-2023 annual plan. So this is just an information only report just to let you know.  $28,144.77. So it's accumulated quite a reserve, obviously, because we haven't been able to have delegations and things over the last couple of years now due to COVID. So it's got quite a reserve, but it's got quite a reserve. It's got quite a reserve, but it's got quite a reserve.  a quite a sum in there in terms of its reserve balance. So, so kind of given that and how we're kind of looking at the financial pressures as we go into the 22, 23 annual plan in terms of the staff proposal and the operational budgets, it's not too,  fund the sister cities for the 2022-23 year, but instead to kind of rely on that reserve balance and use that, and that should still give you funding for the projects that you do annually, but also for those, some money in reserve for future delegations as well. Anyone got any questions on that?",
+    "speaker": "manager",
+    "tags": [
+      "provide_information",
+      "policy_proposal",
+      "ask_question",
+      "reassure_stakeholders",
+      "public_address"
+    ]
+  },
+  {
+    "start": 4887.452,
+    "end": 4893.938,
+    "text": " Just one, Jo, is that proposal not to fund it just for one year? Yeah, just for one year.",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 4894.378,
+    "end": 4906.79,
+    "text": "Just for one year. Yeah, just to use some of that reserve balance and then it'll carry on being funded in subsequent years. Will that, sorry to you Madam Chair, will that funding that was previously going to",
+    "speaker": "manager",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 4908.565,
+    "end": 4917.608,
+    "text": " go into our discretionary fund? No, we've been looking at our budgets and just pressures as we go into the next annual plan.",
+    "speaker": "elisebadger",
+    "tags": [
+      "ask_question",
+      "provide_information",
+      "express_concern",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 4918.368,
+    "end": 4930.911,
+    "text": "You know, obviously there's a number of costs and things that have been, you know, increasing just in our operating costs generally. So, yeah, we've just been looking at kind of what savings we can make in different aspects.",
+    "speaker": "manager",
+    "tags": [
+      "provide_information",
+      "evaluate_option"
+    ]
+  },
+  {
+    "start": 4935.633,
+    "end": 4954.114,
+    "text": "It makes sense to me for this year  as long as it, you know, comes back in the future. Just one year. And this year we won't have the conference host either, because that's been postponed to 2023. So, yep. Again! Yeah, yeah.",
+    "speaker": "alanamackay",
+    "tags": [
+      "agree",
+      "state_opinion",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 4954.314,
+    "end": 4968.057,
+    "text": "Though they are looking at something happening perhaps later in the year out there, Lana. Yeah, doing something online or something. Probably a virtual tour of the vineyards that we would have visited or something.",
+    "speaker": "suemilner",
+    "tags": [
+      "provide_information"
+    ]
+  },
+  {
+    "start": 4968.287,
+    "end": 4974.05,
+    "text": " Not quite the same, is it? Maybe they'll send us a box of wine.",
+    "speaker": "alanamackay",
+    "tags": [
+      "clarify_point",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 4980.113,
+    "end": 4985.215,
+    "text": "They could send us a box of wine and we could split it between Mekonga and Bohore.",
+    "speaker": "suemilner",
+    "tags": [
+      "assign_action",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 4988.737,
+    "end": 4994.96,
+    "text": "Cool. Well, I'm happy to move that report if we're ready to do that.",
+    "speaker": "alanamackay",
+    "tags": [
+      "procedural_move",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4997.495,
+    "end": 4998.295,
+    "text": " Happy to second.",
+    "speaker": "elisebadger",
+    "tags": [
+      "procedural_move",
+      "agree"
+    ]
+  },
+  {
+    "start": 5000.336,
+    "end": 5035.293,
+    "text": "All those in favour? Aye. Carried. Thank you. Thank you. Inward correspondence. Regarding the traffic speeds in Leamington.  Is there anything we can do to address the concerns of Mr. Walsh?",
+    "speaker": "suemilner",
+    "tags": [
+      "call_vote",
+      "summarize_outcome",
+      "procedural_move",
+      "ask_question",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 5042.275,
+    "end": 5056.518,
+    "text": "Madam Chair, I think Karen's referred that later on to Brian Hudson just for comments, so we might be able to bring that back to next month just to see if there's anything there that we can do. And what plans he might have in place anyway.",
+    "speaker": "garyknighton",
+    "tags": []
+  },
+  {
+    "start": 5058.636,
+    "end": 5090.8,
+    "text": " Yeah, probably just needs a speed bump. It's a bit of a wrap around the kids' terrace. Okay, so we move that we've received the correspondence. I'm happy to move. Does anyone second? Thank you, Jo. All those in favour? Aye. Aye. Righto. Now we come to the reports from meetings attended.  Alana, this is your baby, Autumn Festival.",
+    "speaker": "suemilner",
+    "tags": []
+  },
+  {
+    "start": 5091.661,
+    "end": 5128.1,
+    "text": "Yes, so the short story competition has closed and we're in the process of judging that at the moment. So winners will be announced towards the end of this month. The photo competition is still open. If anyone still wants to enter that, it finishes on the 11th, which I believe is this coming weekend. So if you know anyone that's keen, encourage them to get their entries in.  And then really we're almost at the point of picking our dates for 2023 and then starting the process of planning and funding applications again.",
+    "speaker": "alanamackay",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 5131.144,
+    "end": 5131.424,
+    "text": "Yeah.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 5132.506,
+    "end": 5160.433,
+    "text": "Yeah. Okay. Jim's not here. Owen's not here.  Pearsie Arts Council had to cancel their art exhibition, which was going to be part of the Autumn Festival. So we're just waiting till we get over all this COVID business, I think. Jim's not here on the Information Centre. Mike, Cambridge Safer Community Charitable Trust.",
+    "speaker": "suemilner",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 5161.337,
+    "end": 5195.87,
+    "text": " Yeah, they met last week, and it happened on the same time that I was in COVID lockdown, so I didn't go, but I've just read the minutes before this meeting. There are just maybe a couple of things to report back. One, the community patrols have been noting an increase in homelessness around Cambridge. And two, there seems to be a little bit of pressure for the Te Amuru and Cambridge  organizations to merge and Cambridge seems to be slightly resisting it. Just by the way, that's me.",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "report_back",
+      "provide_information",
+      "community_reference",
+      "express_concern",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 5199.792,
+    "end": 5201.433,
+    "text": "Thank you. Jo?",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5203.374,
+    "end": 5232.455,
+    "text": "Social services, not too much to report there, just that each individual group within the social services committee is kind of getting ready their COVID response.  details, key people in each group, what they need to do if they don't have a lot of staff and things like that. And then the new head of the community house starts soon. I'm sorry, I don't know who that is, but I'll let you know when I find out. Thank you.",
+    "speaker": "jodaviescolley",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "community_reference",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 5234.896,
+    "end": 5262.951,
+    "text": "Cambridge Tree Trust. Well, they've been busy. They're always busy, as we know, but they are very pleased to have their  new car park in the paddock alongside the building. I don't know what we'd do without them. They're extremely busy people. They certainly do a great job keeping our town looking great. So full marks to them. Cambridge Wastewater Treatment Plant Project Advisory Group.",
+    "speaker": "suemilner",
+    "tags": [
+      "provide_information",
+      "state_opinion",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 5263.332,
+    "end": 5273.337,
+    "text": "Mike?  Yeah, this has been changed to a six-monthly kind of reporting regime now. I reported back a month ago, so there'll be nothing happening there for months.",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 5274.257,
+    "end": 5341.402,
+    "text": "Okay, thank you. Cambridge Historical Society, well they have a new museum director, and she's already setting up plans of what she'd like to do at the museum. The new museum building project  has gone on to a halt, which is a shame. And they've certainly over the last year had a huge number of education outside the classroom students. And that's a really big help in terms of what they do. And the new lady, can't remember her name, sorry, who's running the museum, she's already planning  You know, she's put out a plan of what she wants to do over the next year and just in terms of exhibitions and other things. So looking very hopeful there. And if you haven't been to a museum recently, do go because it's really interesting. Okay, Elise, your pop-up gardens.",
+    "speaker": "suemilner",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5342.538,
+    "end": 5419.828,
+    "text": " We've just had some new permanent signs installed into three of them, which I haven't actually physically laid eyes on yet, but I hear look very good. So council very generously designed those for us. And then we've obviously had our little reserve kind of funds there to draw on to have those printed, which is great. And then we've actually identified Alana  identified someone in the community who'd be happy to have a berm garden outside her place. So we will, I'll be getting in touch with her next week to set up the fourth pop-up garden. And then we will liaise a date where we can do a mass planting.  autumn planting all the pop-ups and the new planting and digging the new garden. That might happen on a different date actually, but got together with the guardians of the existing three and everyone's very keen to stay part of the project and keep doing the money required. It's end of seasons, everything is looking pretty sad, but with the autumn rains we'll get planting and things should be looking good for the coming  autumn and winter harvest.",
+    "speaker": "elisebadger",
+    "tags": [
+      "report_back",
+      "provide_information",
+      "assign_action",
+      "confirm_next_step",
+      "community_reference",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 5420.888,
+    "end": 5431.334,
+    "text": "That's great. Thank you for doing that, Lisa. I think they're looking really good. The only thing that worries me is we need to sort of let people know, perhaps more often. That is the hardest thing.",
+    "speaker": "suemilner",
+    "tags": [
+      "state_opinion",
+      "express_concern",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 5431.394,
+    "end": 5535.806,
+    "text": "Yeah. And the social media, like the Facebook group,  you know, has 500 people follow the page, which is not a bad effort, but whether or not those are 500 people locally, we've discussed some ways with the guardians of how to improve their local levels of engagement, because that's really where it needs to happen. And so the daycare center, sorry, the early childhood center are going to look at doing sort of some chalkboards on the fence. They'll talk to their neighbors and whether or not they can erect a chalkboard and they can write up what can be harvested.  and then promote it through their network, like their sort of email out networks as well. And then where the main, sorry, the Berm Garden, that's been quite successful. The veggies are pre-harvested and she puts out a little sign. So I think the solution comes locally more so than broad kind of social media noise. I think it needs to come from that local community starting to  So if Marianne Gill, the reporter from the Cambridge News is watching this, you know, perhaps Marianne would like to do an article on our pop-up community gardens. Well, interestingly, we were in, it was featured in the, not this one just came out, but the February, February garden, New Zealand garden magazine, our pop-up gardens were featured in there along with some other Cambridge initiatives. So it's,  generally considered to be quite a positive thing to be doing in the community, and it will just keep finessing it and growing it, and it will develop its own presence in the community over time, kind of fed by the guardians, which is the goal.",
+    "speaker": "elisebadger",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "evaluate_option",
+      "cite_reference",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 5536.807,
+    "end": 5541.469,
+    "text": "And you never know, we might have people just starting to do it because they get sick of mowing their berm.",
+    "speaker": "suemilner",
+    "tags": [
+      "state_opinion",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 5542.589,
+    "end": 5547.051,
+    "text": "Yeah, it's probably less effective than mowing a berm, maybe. Yeah, I'll have to think about that.",
+    "speaker": "elisebadger",
+    "tags": [
+      "evaluate_option",
+      "state_opinion",
+      "defer_decision"
+    ]
+  },
+  {
+    "start": 5548.292,
+    "end": 5557.537,
+    "text": "Well, thank you for that.  And there's a major gender item, isn't there, Karen? Please, Karen.",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "assign_action",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 5559.158,
+    "end": 5564.682,
+    "text": "Yes, there is, as long as everybody's finished their reports. Yeah.",
+    "speaker": "Unknown",
+    "tags": [
+      "confirm_next_step",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5564.702,
+    "end": 5697.596,
+    "text": "We just got the sister city. Yeah.  Had some good news from Le Quinoa. We thought the package with the postcards had gone missing, but it turns out they've got it and they're working on postcards to send back to Cambridge so we can distribute those back to the students that wrote, which is really cool. Yeah. I've also been in touch with Elizabeth from the museum. She's been really helpful. She's keen to  once we can have a look at the contents of those cabinets and the foyer at the council offices and see what's there and maybe develop some content around the stories relating to those items that are in there and when they were gifted and those kinds of things. She also has discovered a great collection of articles that they've got in their files at the museum from the establishment of the sister cities  and stories through time following those. So I'm gonna make a time to go into the museum and have a look at those and hopefully be able to share those with the community and help educate people on our sister cities. Also with the 70th anniversary of New Zealand-Japanese diplomatic relationships this year, the embassy has asked us among other areas with  Japanese sister cities to do little videos. So Graham Weber and Ayako and I have been working on those. So we've got a minute long little video just talking about the background and how the Cambridge Pohoro sister city was set up. So we've done a version in English that'll have Japanese subtitles and a Japanese version that'll have English subtitles.  So not only sharing that through the embassy, but also through our own social media, again, helping, hopefully, our community to understand more about that relationship. So yeah, good stuff at the moment. Yeah, good.",
+    "speaker": "alanamackay",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "report_back",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 5700.137,
+    "end": 5705.979,
+    "text": "Okay, so we don't have Graeme no one, so. It's a late item, Karen.",
+    "speaker": "suemilner",
+    "tags": [
+      "provide_information",
+      "procedural_move",
+      "public_address"
+    ]
+  },
+  {
+    "start": 5709.17,
+    "end": 5732.1,
+    "text": " Yes, so the community board yesterday, the community board received an invite for works carried out on the Christmas tree. So there was nothing budgeted for these, for the, for it. So it has to go through the community board before payment can be made.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "procedural_move",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 5738.632,
+    "end": 5741.234,
+    "text": " How much is it for?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 5741.474,
+    "end": 5745.277,
+    "text": "It's for $2,138.61 plus GST.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information"
+    ]
+  },
+  {
+    "start": 5746.477,
+    "end": 5751.36,
+    "text": "Right. And did we have any money left in our decorations budget or whatever?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 5752.421,
+    "end": 5758.485,
+    "text": "There was no decorations budget, but it'd have to come out of discretionary fund. Yeah.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 5758.525,
+    "end": 5763.068,
+    "text": "Okay. So this doesn't include the cost of one string, does it?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 5765.215,
+    "end": 5769.617,
+    "text": " I don't see that in the invoice, sorry. I thought it did.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "report_back"
+    ]
+  },
+  {
+    "start": 5772.519,
+    "end": 5775.24,
+    "text": "Hang on, let me find it. I don't want to load.",
+    "speaker": "alanamackay",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5780.904,
+    "end": 5785.126,
+    "text": "Because they said they'd sponsor one new string and Jim was sponsoring the other.",
+    "speaker": "suemilner",
+    "tags": [
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 5786.615,
+    "end": 5793.22,
+    "text": " OK, so maybe, hang on, what have we got here? There was some sponsorship included in the invoice and taken off the invoice.",
+    "speaker": "alanamackay",
+    "tags": [
+      "clarify_point",
+      "ask_question",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 5793.54,
+    "end": 5794.061,
+    "text": "Yeah.",
+    "speaker": "Unknown",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 5795.001,
+    "end": 5805.229,
+    "text": "Yeah, so supply two additional strings of lights as discussed with Sue, so they've deducted one. So the other one are we reporting that to Jim?",
+    "speaker": "alanamackay",
+    "tags": [
+      "provide_information",
+      "ask_question",
+      "clarify_point",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 5805.949,
+    "end": 5807.53,
+    "text": "We need to talk to Jim. OK.",
+    "speaker": "suemilner",
+    "tags": [
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 5811.565,
+    "end": 5829.618,
+    "text": " divot really looks like labour, some of which has been discounted, some of which is probably a lot higher than we would have liked because of the delays with the cherry picker. Oh, yes, the delays with the cherry picker.",
+    "speaker": "alanamackay",
+    "tags": [
+      "provide_information",
+      "express_concern",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 5829.638,
+    "end": 5875.338,
+    "text": "There's one person in there that's got over nine hours of staff time. Yeah. Unfortunately. Yeah. Yeah. That was very unfortunate.  It just, you know, the wrong cherry picker came and I just do not know why it happened like that. Was it just pain in the butt? Yeah, okay. So, and the work that Better Electrical are also done, they check all the lights before they go up and things like that. So, and they also store them for us all year, which is,  a great help so we know that they're ready to go. So it's about double what it was last year.",
+    "speaker": "suemilner",
+    "tags": [
+      "provide_information",
+      "express_concern",
+      "clarify_point",
+      "report_back",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 5875.359,
+    "end": 5907.482,
+    "text": "Yeah. So last year, last year was 1028. I thought this seemed significantly higher than last year's one.  Going forward, I think we probably really do need to budget for expenses around that. But at this point, I mean, we've kind of, it's done. It's done.",
+    "speaker": "alanamackay",
+    "tags": [
+      "provide_information",
+      "state_opinion",
+      "policy_proposal",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 5909.124,
+    "end": 5915.268,
+    "text": "Yeah. So we just have to pass payment for that. We want them there this coming Christmas.",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "confirm_next_step",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 5916.309,
+    "end": 5925.311,
+    "text": "Yeah. Yeah. Obviously, they're a great help to us and we do need them.  and it does make a difference to the town having that tree.",
+    "speaker": "alanamackay",
+    "tags": [
+      "state_opinion",
+      "community_reference",
+      "agree"
+    ]
+  },
+  {
+    "start": 5926.732,
+    "end": 5934.255,
+    "text": "Yeah, that's lovely. And they didn't charge us full rate on some of that labour anyway. No, they don't. They were very, very generous with them. Yeah.",
+    "speaker": "elisebadger",
+    "tags": [
+      "provide_information",
+      "agree",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 5935.136,
+    "end": 5940.178,
+    "text": "So I think, you know, we'll just go with that. So we need to move that payment, do we?",
+    "speaker": "suemilner",
+    "tags": [
+      "agree",
+      "ask_question",
+      "confirm_next_step",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5941.749,
+    "end": 5989.199,
+    "text": " Yes, at the moment I have a recommendation that the Cambridge Community Board approve payment of $2,138.61 plus GST, Justina Morrow 2008 limited for the installation and removal of the Cambridge Christmas tree lights from the Community Board's discretionary fund. Okay, and we better check, did that, sorry, that bill, did that include that extra string, the one that Jim said he'd pay for?  Yeah, that total did include that. We could take off the 353.  Yeah, so we could knock it down to $1,784.70. Sorry, Karen, it looks like it's already been removed from the price.",
+    "speaker": "Unknown",
+    "tags": [
+      "policy_proposal",
+      "ask_question",
+      "provide_information",
+      "clarify_point",
+      "report_back"
+    ]
+  },
+  {
+    "start": 5989.679,
+    "end": 6000.683,
+    "text": "No. No, one. What's the net minus 353? The minus three, that's theirs. Oh, it's their one. Okay, all right.",
+    "speaker": "elisebadger",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 6000.703,
+    "end": 6005.145,
+    "text": "So we need to remind him that he said he would sponsor that extra string.",
+    "speaker": "suemilner",
+    "tags": [
+      "assign_action"
+    ]
+  },
+  {
+    "start": 6005.681,
+    "end": 6011.723,
+    "text": " Yeah, and I feel like he would rather pay Sina Moro Direct, so. Yeah, yeah, yeah.",
+    "speaker": "alanamackay",
+    "tags": [
+      "state_opinion",
+      "agree"
+    ]
+  },
+  {
+    "start": 6013.063,
+    "end": 6033.002,
+    "text": "So if you want to, we can move it down to, I'll just double check my figures if I want to. Oops, now I'm not doing a very good job here.  Yeah, $1784.70. That's what I'm coming up with. $174.70.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "procedural_move",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 6054.109,
+    "end": 6081.09,
+    "text": " I'll just remind Jim that he needs to pay his bit, because we've actually now added his general company as a sponsor to the sign, so he needs to... In terms of budgeting for this Christmas, do we need to put something in for that now, so we don't give it all away in our grant round?",
+    "speaker": "suemilner",
+    "tags": [
+      "provide_information",
+      "assign_action",
+      "ask_question",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 6083.022,
+    "end": 6099.51,
+    "text": " No, you've got another, you've got a change of financial year happening in July, so we could look at that after that and after the 1st of July. You can remind us, Karen, please. Put that down in my notes for things to do.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "defer_decision",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 6102.052,
+    "end": 6120.434,
+    "text": "That's good.  Okay, and the lights did look good, and we really are very grateful to the Grimms for what they do. You know, they store them and they look after them, and that's a real blessing, so great. Okay, so do we need to move that one, Karen?",
+    "speaker": "suemilner",
+    "tags": [
+      "agree",
+      "community_reference",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 6120.834,
+    "end": 6121.455,
+    "text": "Yes, please.",
+    "speaker": "Unknown",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 6122.175,
+    "end": 6133.723,
+    "text": "I'll move that. Have we got a seconder? Yep. Thank you. All those in favor? Aye. Aye. Okay, do we have anything else?",
+    "speaker": "suemilner",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 6135.254,
+    "end": 6137.876,
+    "text": " No, if you're happy to close the meeting now.",
+    "speaker": "Unknown",
+    "tags": [
+      "close_discussion",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6140.599,
+    "end": 6144.402,
+    "text": "Nobody wants to say anything post-meeting? No?",
+    "speaker": "suemilner",
+    "tags": [
+      "ask_question",
+      "close_discussion"
+    ]
+  }
+]

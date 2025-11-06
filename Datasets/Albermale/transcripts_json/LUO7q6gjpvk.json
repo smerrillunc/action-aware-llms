@@ -1,0 +1,2441 @@
+[
+  {
+    "start": 0.031,
+    "end": 9.366,
+    "text": " Is Vice Chair Carlson in? Yes. Okay. Ms. Carlson, do you have a motion?",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 9.633,
+    "end": 50.185,
+    "text": " Yes. Of course, I took a screenshot so that I'd have it smoothly available. Now I've got the wrong orientation. So anytime I change, I can't read it. I move that the Albemarle County Public School Board go into a closed meeting as authorized by the Virginia Freedom of Information Act, section 2.23711A of the Code of Virginia under subsection 3 for discussion and consideration of the acquisition of real property for public purpose.  are of the disposition of publicly held real property where discussion in an open meeting would adversely affect the bargaining position or negotiating strategy of the public body and subsection eight for consultation with legal counsel employed or retained by the school board regarding specific legal matters requiring the provision of legal advice by such counsel.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 52.067,
+    "end": 64.676,
+    "text": "Second. Second. Moved by Ms. Carlson, seconded by Mr. Alcaro and Ms. Lee that we go into closed session. Is there any discussion?  If not, Ms. Johnston, could you please call the roll?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "agreeing",
+      "request_action"
+    ]
+  },
+  {
+    "start": 65.878,
+    "end": 66.579,
+    "text": "Ms. Osborne?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 67.019,
+    "end": 67.24,
+    "text": "Yes.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 68.462,
+    "end": 77.016,
+    "text": "Ms. Colson? Yes. Ms. Lee? Yes. Mr. Alcaro? Yes. Mr. Page?",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call"
+    ]
+  },
+  {
+    "start": 77.396,
+    "end": 77.637,
+    "text": "Yes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 79.179,
+    "end": 79.961,
+    "text": "Motion carried.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "vote_call"
+    ]
+  },
+  {
+    "start": 80.622,
+    "end": 84.949,
+    "text": "OK, thank you. All right, so we'll go into closed session. See you on the other side.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "logistics_info",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 85.75,
+    "end": 85.81,
+    "text": "OK.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 110.09,
+    "end": 110.751,
+    "text": " Hey, everybody.",
+    "speaker": "davidoberg",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 114.397,
+    "end": 114.838,
+    "text": "Hey, Dave.",
+    "speaker": "elizabethalbarran",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 116.641,
+    "end": 212.485,
+    "text": "Hey, Dave. Sorry, we weren't at the closed session. I'm sorry, Grant. Sorry that you didn't make the 545 meeting. I'm sorry, guys. I've been inundated. OK.  It is 630, and I call this March 3rd budget work session for the Albemarle County School Board to order. Ms. Colson, do you have a motion for us from the closed session?",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "request_action",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 213.246,
+    "end": 218.212,
+    "text": "I do, although let me see if I can pull it up real quick. If not, I can probably do it from memory.",
+    "speaker": "katrinacallsen",
+    "tags": []
+  },
+  {
+    "start": 221.215,
+    "end": 224.639,
+    "text": "Sorry. Try to pull it up.",
+    "speaker": "elizabethalbarran",
+    "tags": [
+      "request_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 226.22,
+    "end": 241.999,
+    "text": "All right, I move.  that the board certified by recorded vote that to the best of each board member's knowledge, only public business matters lawfully exempted from the open meeting requirements of the Virginia Freedom of Information Act and identified in the motion authorizing the closed meeting were heard, discussed, or considered in the closed meeting.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "procedural_move",
+      "vote_call"
+    ]
+  },
+  {
+    "start": 243.521,
+    "end": 243.862,
+    "text": "Second.",
+    "speaker": "judyle",
+    "tags": [
+      "procedural_move",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 245.864,
+    "end": 260.396,
+    "text": "Moved by Ms. Cawson, seconded by Ms. Lee, that we only dealt with business that had been stipulated in the first motion. Any discussion of the motion?  If not, Ms. Johnston, could you please call the roll?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "vote_call"
+    ]
+  },
+  {
+    "start": 262.118,
+    "end": 274.23,
+    "text": "Mr. O'Carroll? Yes. Ms. Lee? Yes. Ms. Paulson? Yes. Ms. Osborne?",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 275.031,
+    "end": 275.291,
+    "text": "Yes.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 277.414,
+    "end": 282.479,
+    "text": "Mr. Oberg? Abstain. Mr. Page?",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 283.179,
+    "end": 283.42,
+    "text": "Yes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 284.281,
+    "end": 284.921,
+    "text": "Motion carried.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 285.362,
+    "end": 292.734,
+    "text": "Thank you.  Do we have a motion coming out of the closed session to put into our minutes?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 293.716,
+    "end": 310.822,
+    "text": "Yes, Chairman Page. I move that the school board direct the superintendent to initiate negotiations to acquire property A for an amount not to exceed that which has been authorized by the school board and subject to the school board's final approval.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 312.564,
+    "end": 333.252,
+    "text": "Second.  Moved by Ms. Osborne, seconded by Mr. Alcaro that we authorize Dr. Haas to proceed with negotiations for purchasing property A. Any discussion on the motion? If not, Ms. Johnston.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 335.676,
+    "end": 344.807,
+    "text": "Mr. Alcaro? Yes. Mr. Oberg? Yes. Lee?  Yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call"
+    ]
+  },
+  {
+    "start": 352.198,
+    "end": 352.979,
+    "text": "Did you say my name?",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 353.941,
+    "end": 355.183,
+    "text": "Yes.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 355.203,
+    "end": 357.566,
+    "text": "Yes. Yeah, it was baited.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 358.087,
+    "end": 364.476,
+    "text": "My husband asked if I wanted dinner right when you called my name and then I said no to that. Yes to this vote. Yes.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "vote_call",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 366.379,
+    "end": 368.422,
+    "text": "I would like dinner too. Right.",
+    "speaker": "davidoberg",
+    "tags": [
+      "request_action",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 369.524,
+    "end": 369.924,
+    "text": "Yes.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 371.627,
+    "end": 372.348,
+    "text": "Mr. Page.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 372.808,
+    "end": 373.309,
+    "text": "Yes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 374.167,
+    "end": 393.188,
+    "text": " motion carried okay so the motion I move that miss Paulson's husband provide us all with food what are we having second okay motion dies that at the chairman's authority that motion does we will now have a moment of silence",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 425.99,
+    "end": 482.751,
+    "text": " Okay, thank you. We always, for right now, have to read this into our minutes for each of our meetings. The minutes of this meeting should reflect that this meeting is being held electronically, pursuant to Virginia state law and Albemarle County ordinance.  because the COVID-19 pandemic makes it impractical and unsafe to assemble a quorum physically in a single location. The meeting is being communicated to the public electronically through Zoom and streams live on the Albemarle County Public Schools website. And public comment may be offered through the Zoom waiting room feature in accordance with the school board's protocol or by written submission.  And now to introduce our board members who are present tonight, Mr. John O. Alcarra. John O. Alcarra at large. Ms. Katrina Coulson.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 484.634,
+    "end": 486.016,
+    "text": "Katrina Coulson, Rio District.",
+    "speaker": "katrinacallsen",
+    "tags": []
+  },
+  {
+    "start": 487.298,
+    "end": 488.019,
+    "text": "Ms. Judy Lee.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 488.7,
+    "end": 490.023,
+    "text": "Judy Lee, Rivanna District.",
+    "speaker": "judyle",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 492.286,
+    "end": 493.308,
+    "text": "Mr. Dave Oberg.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 494.289,
+    "end": 498.015,
+    "text": "Dave Oberg, Whitehall Magisterial District.",
+    "speaker": "davidoberg",
+    "tags": [
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 499.345,
+    "end": 502.029,
+    "text": " All right, Ms. Ellen Osborne.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 502.629,
+    "end": 504.352,
+    "text": "Ellen Osborne, Scottsville District.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 505.193,
+    "end": 514.765,
+    "text": "All right, I'm Graham Page, Samuel Miller District. And our student rep, Elizabeth Albaron. Elizabeth, you with us tonight?",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 516.668,
+    "end": 517.529,
+    "text": "Good evening.",
+    "speaker": "elizabethalbarran",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 518.05,
+    "end": 541.957,
+    "text": "OK, good to see you, Elizabeth. Welcome.  All right, moving to our next agenda item, public hearing on the proposed budget. And Ms. Colson, I don't think we have any people who had signed up for public comment.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "logistics_info",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 541.977,
+    "end": 547.482,
+    "text": "The last I heard, that was correct, Chair Page. No people for public comment.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "give_update",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 547.502,
+    "end": 549.023,
+    "text": "Is that still true, Ms. Johnston?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 550.965,
+    "end": 551.186,
+    "text": "Yes.",
+    "speaker": "elizabethalbarran",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 551.786,
+    "end": 552.707,
+    "text": "OK. Thank you.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 554.003,
+    "end": 562.275,
+    "text": " All right, so you can see on our agenda that we are scheduled for a break, but by our consensus, is it okay to proceed with our next step?",
+    "speaker": "mayakumaza",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 563.997,
+    "end": 580.02,
+    "text": "All right, thank you. All right, so now we'll be ready for our budget development work session number three. Ms. Kumasawa is here again to sort of lead us along the way with this, as she's done so well with the first two sessions. So Ms. Kumasawa.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "acknowledge",
+      "defer_to_expert"
+    ]
+  },
+  {
+    "start": 580.701,
+    "end": 669.55,
+    "text": "Thank you, Mr. Page.  Good evening, school board members. My name is Maya Kumazawa, director of budget and planning, and it's good to see you all again at our third work session. As a recap, the purpose of our work sessions is to unpack the draft funding request, answer your questions, and get your feedback and guidance in preparation for next week's approval of the school board's funding requests. And then that will be formally presented to the board of supervisors during the March 14th  Board of Supervisors work session. Here's our agenda for this evening. It focuses on our remaining proposals and also requested updates from you all. We again have a great group of staff who will present and answer any questions you have in their areas. We've also scheduled in a break if you choose to do so. And then at the end, we've set aside some time for a school board discussion to discuss all three of the work sessions.  Also, as a recap, each of our new proposals is guided by a logic model in the budget document. You can follow along the page numbers in the top right corner of each slide. And we have four primary components in these logic models. Inputs, activities, outputs, and outcomes. Inputs and activities ensure we follow through and fully implement the proposals, and outputs and outcomes represent success measures.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "public_addressing",
+      "clarify"
+    ]
+  },
+  {
+    "start": 670.947,
+    "end": 679.236,
+    "text": " For the proposals presented this evening, staff will provide a summary of the outputs and outcomes, but you can read the full logic models in the budget document.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "clarify"
+    ]
+  },
+  {
+    "start": 681.939,
+    "end": 719.82,
+    "text": "And then again, similar to what we did last week, we have some information about staffing standards here. You'll hear about proposed changes to staffing standards, and for reference, you can refer to section G of your budget book.  The standards exist to foster equity across all of our schools and provide an objective lens by which to provide resources to our schools. Today, we'll look at health services, some areas in general education and counseling. So with that, we will jump into our first proposal presented by Mr. Miles Nelson.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "logistics_info",
+      "procedural_move",
+      "give_update",
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 742.312,
+    "end": 745.397,
+    "text": " So I think the health services, I think Kevin Kearse was going to cover.",
+    "speaker": "milesnelson",
+    "tags": [
+      "defer_to_expert",
+      "logistics_info",
+      "hedge"
+    ]
+  },
+  {
+    "start": 751.046,
+    "end": 761.743,
+    "text": "I am so sorry. I'm getting my topics confused. The first proposal. Thank you for the correction will be presented by Mr. Kevin Kearse. I'm sorry, Mr. Kearse.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "acknowledge",
+      "clarify",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 762.384,
+    "end": 1140.028,
+    "text": "It's all right. Am I coming through? Yes. Okay.  So I'm Kevin Kearse, the Executive Director of Special Ed and Student Services. And tonight I will be giving some more information with regard to the proposed budget for health services, which is really an implementation of staffing standards for our school nurses and our health services program.  So I do think it's worth noting, as you have in the past and have recognized the incredible efforts that our school nurses have provided to keep our schools, children, families, and staff safe, on the left here, I've outlined some of their traditional responsibilities.  And then on the right. I want to make it clear that because of the pandemic. These are not new responsibilities that took the place of the old there in addition to which really highlights the just tremendous.  responsibility and tasks that our school nurses have provided for our schools during this pandemic. But it's done a number of things. One is really highlighted, we're at a point where I think this is a very timely proposal for staffing standards for our school nurses and the need for some really directed leadership in this area. So what we're  proposing is to first recognize and thank you, the school board, for establishing our current state, which is a full-time school nurse at each school building. That was huge. And I think in our evolution, we're at a place now in this proposal where we're looking at staffing standards because the current state is also a small elementary school is staffed at the same level as a comprehensive high school with regard to a school nurse.  And this proposal is a phased-in project that begins with a full-time coordinator of nursing and health services. We have learned through the pandemic, which currently we have a COVID coordinator, Eileen Gomez, that is paid through or by federal funding associated with the pandemic.  But we recognize that our previous model where we had a full-time nurse at the school and who had additional responsibilities for leadership and some administrative duties really needed to be addressed. We believe that having a coordinator for nursing and health services will address many of the areas that we're looking to improve and provide equity across our schools and to our children at all levels.  And then specifically with regard to school nurses, we're looking to roll out these staffing standards, beginning with an additional school nurse at Albemarle High School for this upcoming fiscal year. And then as you can see, I broke out a long-term plan where fiscal year 24 would have additional three FTEs of school nurses to round out the staffing standards at the high school level.  fiscal year 25 to round out the middle and elementary schools according to the staffing standard, which I wanna point out is based on the National Association of School Nurses that propose 750 well students per school nurse. So we use that and I also used the enrollment projections that we have access to that are online.  And then, so fiscal year 26, there's no change. We'd have our staffing standards fully implemented. And then just a heads up, fiscal year 27, if enrollment continues as is, there may be an adjustment needed to our middle schools with an additional FTE. That's how the staffing standard would roll out. But I did want to review for you what would be the outputs and outcomes.  So on the next slide, our outputs would be, we would establish data points.  to collect with regard to Albemarle High School in particular, beginning in September of 22. We would then have collected those data points and analyze them using the other high schools as a control group just to see the impact that the additional services and supports have made on Albemarle High School. That would be collected and analyzed by December of 22.  And then the third output would be the compilation of best practices. We're going to start to look at procedures, practices, and recommendations as we scale up at the high schools, because this is new. Our school nurses worked solo in our schools. And to work as a team, we really want to delineate responsibilities and the most effective and efficient methodology in delivery of our health services.  The outcomes would be an alignment and accomplishment of expectations with regard to documentation and health screenings across  our schools, but in particular for this project at Albemarle High School. And then at Albemarle High School in particular, again, we'd be taking some job satisfaction data from our school nurses. Our belief is that, yeah, by providing additional supports based on the number of students in the building, we should see higher rates of job satisfaction. We want to retain our school nurses and have a very positive place for them to work.  That is a summary of the staffing standard initiative as part of the proposed budget. I don't know if you wanted to entertain any questions now, but I'm open to that.",
+    "speaker": "kevinkirst",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "logistics_info",
+      "follow_up_request",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1142.772,
+    "end": 1192.377,
+    "text": "May I ask a clarifying question, Mr. Kirst? When in 2025, when we were going to put the three  FTEs in, and I heard you say that this was going to be one nurse for every 750 students. Is that aimed at larger elementary schools and middle schools, or is it aimed at  a wider variety of schools so that one nurse might go to more than one school.  Did you back up as needed? I'm sorry, yeah.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 1192.397,
+    "end": 1240.431,
+    "text": "Yeah, so at this point, and I guess that's one of the procedures and processes we'd be looking at, but as a rollout to hit the staffing standard, I wasn't thinking that far ahead to think I would be piecemealing folks as much as at least recognizing those large schools that tipped past 750 that would need that additional staffing. I do believe that, yeah, there are some schools that aren't a full,  to 1,500, that we would have some utility for additional coverage, teaming, especially in geographical areas. But that is part of the Plan, Do, Study Act that I hope to do as we scale up. Yeah, our utilization of resources, absolutely. Thank you for that. Yes.",
+    "speaker": "kevinkirst",
+    "tags": [
+      "policy_proposal",
+      "procedural_move",
+      "prioritization",
+      "logistics_info",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1249.085,
+    "end": 1263.68,
+    "text": " Are there any additional questions for Ms. Kurtz? Okay, if not, thank you. Thank you. All right.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "public_addressing",
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1264.18,
+    "end": 1269.806,
+    "text": "Next, I will get it right this time. I'll introduce Ms. Debbie Collins to share the next proposal.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "reassure"
+    ]
+  },
+  {
+    "start": 1271.968,
+    "end": 1373.067,
+    "text": "Good evening. I'm Debbie Collins, Deputy Superintendent. I'm sharing this evening our budget proposal regarding field trips.  You may remember this proposal. It was approved in the budget for the 2021 school year, but was removed due to the uncertainties around COVID. In the past several years, the school board has focused on removing student fees. There's one fee that continues for many of our students, and it's the cost surrounding field trips. Next slide, please.  For the purposes of this proposal, we have included both field trips and experiences brought into the school. So we're calling them field experiences. To date, field experiences have been left to individual grade levels in schools. With this proposal, field experiences will be developed for each grade level, two per year, and designed to touch multiple content areas over the course of a student's K-12 experience.  In addition to providing all the associated costs for the experiences, this proposal seeks to provide lesson plans. These experiences will strengthen observational skills, increase knowledge and understanding by using hands-on experiences, make cross-curricular connections, and expand awareness of our communities and future career opportunities. We believe by adding these opportunities to our curriculum frameworks and our pacing guides, we will guarantee these types of learning for all our students and all of our schools.  Next slide. This slide shares some of the identified outcomes and outputs for this proposal. After each experience, we will check for key understandings from students and seek feedback from all involved to enhance and make the experiences better in the future. Any questions?",
+    "speaker": "debbiecollins",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "public_addressing",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 1379.535,
+    "end": 1397.353,
+    "text": "Dr. Collins, I'm very glad that we're  I think you know that that's one of my great concerns is that some of our kids feel left out. And even if they get paid for a different way, they're then sort of hung out that way. And so I think this is a very important thing and I appreciate it.",
+    "speaker": "davidoberg",
+    "tags": [
+      "express_concern",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1399.856,
+    "end": 1400.196,
+    "text": "Thank you.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1408.365,
+    "end": 1416.482,
+    "text": "I guess I have one quick question. Will it pay?  for lunches and everything associated with the trip?",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1417.083,
+    "end": 1424.234,
+    "text": "It would, it would pay all associated costs. So the students would not be charged any fee for those field trips.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "give_update",
+      "reassure",
+      "clarify",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 1424.254,
+    "end": 1437.013,
+    "text": "Great, I bring that up because my mom is a teacher and she said she sat through a very awkward field trip where it was free for all the students, but then when you got there, like some people participated in things and others couldn't and there was issues with lunches and so.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "express_concern",
+      "opinion"
+    ]
+  },
+  {
+    "start": 1437.033,
+    "end": 1441.48,
+    "text": "Thank you for bringing that up. I'll make sure that we focus on that.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "acknowledge",
+      "reassure",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 1448.868,
+    "end": 1458.183,
+    "text": " Other questions or observations for Ms. Collins? This is a really great proposal, though.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "opinion"
+    ]
+  },
+  {
+    "start": 1460.166,
+    "end": 1468.058,
+    "text": "We're excited about it. We started on it prior to this, so it's nice to be able to pick it back up. Teachers are very excited to participate.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "give_update",
+      "opinion"
+    ]
+  },
+  {
+    "start": 1477.943,
+    "end": 1499.125,
+    "text": " All right, I will move us on. So next we're going to turn our attention to the CIP or Capital Improvement Program and how it intersects with our operating budget. As a reminder, the Board of Supervisors oversees the CIP with ACPS being the largest stakeholder.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 1502.429,
+    "end": 1511.764,
+    "text": " This slide illustrates the highest priority projects as recommended by the Long-Range Planning Advisory Committee, the School Board, and the CIP Advisory Committee.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "prioritization",
+      "cite_external_source"
+    ]
+  },
+  {
+    "start": 1512.566,
+    "end": 1586.47,
+    "text": "These projects are directly related to expanding student capacity in our school buildings, as well as the improvement of our existing school buildings. It includes a project to address high school capacity to the construction of two elementary schools and renovations at all levels.  You may recall this slide as well from Dr. Haas's funding request presentation. Our teaching and learning spaces average more than 50 years in age and are so limited that we're forced to utilize more than 80 mobile classrooms or trailers at 12 or about half of our schools. We have not added a new school to our division in 20 years and more growth is planned in the county.  As an update, last week, the County Executive released the recommended FY23 budget, which includes the recommended five-year CIP. These are the projects that are proposed to be funded over the next five years. High school capacity, the construction of one elementary school, and the design of a second elementary school. In addition, a portion of renovations is proposed to be funded, about $9.4 million of the $106 million requested.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "cite_external_source"
+    ]
+  },
+  {
+    "start": 1589.656,
+    "end": 1597.726,
+    "text": " Here's some other school projects that are included in the five-year CIP.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 1599.428,
+    "end": 1711.397,
+    "text": "I've included this slide to show you that there are some shifts proposed in the scope of the CIP, beginning in FY23. Technology and furniture replacement will no longer be allowed in the CIP, and it has been requested that these programs be funded from our operational budget.  and we will be covering details about these programs over the next few slides. I also want to look backwards for a moment. This slide is here to show you the historical capital funding in the annual adopted capital budget since FY11. As you can see,  While the full request was not met in FY23, next year will be the highest level of proposed funding in a single year. Finally, I also wanted to show you the financial contributions that you as a school board are making to the CIP outside of the normal funding formula. During work session one, we talked about shared revenues a bit,  And typically, those shared revenues are split between the county and schools through the CIP, local government operations, and ACPS operations. And that's done during the annual budget development process. During FY21, FY22, and proposed in FY23, we have in our planning on making additional contributions on top of that defined formula.  So next we're gonna dive into those specific technology and capital projects for a bit. And I will turn it over to Mr. Jamie Foreman.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "logistics_info",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1714.24,
+    "end": 1894.0,
+    "text": "Good evening school board. My name is Jamie Foreman, Deputy Chief Technology Officer for the Department of Technology. Thank you for the opportunity to share information about our technology replacement program tonight.  The ACPS Department of Technology operates a replacement cycle for specified technology systems and devices. Our replacement cycle has effectively been in place for a number of years and has developed such that it best supports our department's mission statement to empower all members of our learning community by providing exceptional technology solutions and support that results from collaborative decision-making and effective timely support. Next slide, please. Our division strategic plan reinforces the need to have an effective and robust  replacement program. Strategic plan objective three, provide resources in an equitable manner that transforms learning experiences and opportunities for all students. Strategy 3.3.6, ACPS will ensure each K-12 learning space, teacher and student has established baseline digital resources for effective instruction and learning. Our digital learning environment is based on the optimal functioning of complex machines and programs that require up-to-date equipment and timely support. Digital security also requires up-to-date equipment  and the data network maintained in a secure manner as possible. Given the fact that ransomware attacks on school divisions are on the rise, the continued funding of our replacement cycle is now more critical than ever. Next slide, please. To maintain our replacement program moving forward, our department's operating budget will need to cover annual replacement costs for student devices, desk phones, and security cameras to align with local government's redefinition for the spending of operating versus capital funds.  For next fiscal year, this will require an increase of 1.8 million to our operating budget. While this requires a shift to our budgetary approach, we see this as an opportunity for the school division to better support the replacement program fiscally. To date, we've struggled to maintain our replacement program as the CIP funds we've been provided have remained constant over the past decade. The continued systematic replacement of student devices  test phones and security cameras in combination with our talented, hardworking staff and accompanying support structures will continue to allow us to make sure students, teachers, and staff have the devices and resources they need to meet the instructional and operational needs of the school division. Next slide, please. In grades pre-K through second, we have an iPad to student ratio of one to one. In grades three through 12, we have a laptop to student ratio of one to one. In addition to the replacement program, guaranteeing that we have a safe,  secure and reliable technology, it also provides us an approach to achieving digital equity in our school division. To us, digital equity means we partner with our school communities to provide each student access to safe, appropriate learning experiences and resources supported by technology and essential to their success. We believe each staff member's teacher and student should have access to the technology they need to be successful regardless of where they attend school or work. And thank you again for this opportunity, and I welcome any questions you have at this time.",
+    "speaker": "jamieforema",
+    "tags": [
+      "give_update",
+      "public_addressing",
+      "policy_proposal",
+      "logistics_info",
+      "request_action"
+    ]
+  },
+  {
+    "start": 1901.489,
+    "end": 1922.653,
+    "text": " I have a question, I think. What provisions are, because I think we still need them, for areas in the county that don't have really good accessibility to especially the internet? So are we making provisions in the budget for those areas?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "request_action"
+    ]
+  },
+  {
+    "start": 1923.511,
+    "end": 1975.484,
+    "text": " Absolutely. We have a couple of things that we do with our budget to assist with that we we partner with local government around providing and kind of coordinating Comcast internet to families that live in a Comcast eligible household, but actually work with families to get a reduced cost internet connection there.  That's one option. Another one we really work on is hotspots in areas where a family may have cellular kind of service working with that family if they don't have internet at home to gain access to hotspot that we provide and pay for that they can use to have connectivity at home. And then lastly, I would say we're still partnering very effectively with local government to support grants and programs and things they're going after to increase broadband in our county more widely. And I do hear about and see some success happening with that. It's going to take a little bit more time,  I'm hopeful that our broadband access for families will continue to grow and be more affordable as well.",
+    "speaker": "jamieforema",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "reassure",
+      "opinion",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1976.808,
+    "end": 1978.915,
+    "text": "Okay, thank you. You're welcome.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1981.308,
+    "end": 2004.75,
+    "text": " Mr. Foreman, a quick question. Good to see you. Good to see you. Do you have an idea as a rough number as to the percentage of our students who now have access to the Internet? It used to be that we were over 90 percent. Has that number grown or is it stayed steady? Do you have an idea on that?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "public_addressing",
+      "clarify"
+    ]
+  },
+  {
+    "start": 2005.928,
+    "end": 2017.288,
+    "text": " I don't have a good number off the top of my head that I would want to kind of get back to you on that. I don't know, Dr. Diggs, if you have that number. I don't have a number I feel confident just sharing right now, but would be happy to get that for you.",
+    "speaker": "jamieforema",
+    "tags": [
+      "defer_to_expert",
+      "request_action",
+      "follow_up_request",
+      "hedge",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2022.854,
+    "end": 2071.085,
+    "text": " Good evening. I'm Christine Diggs, the Chief Technology Officer. And I think while there have been some strides made, it hasn't really moved the percentage very much. If anything, maybe a percent or a percent and a half. And I wouldn't necessarily count the hotspots in that percentage because those hotspots are really a temporary solution just to try to provide minimal connectivity. It's really not broadband connectivity.  There's been some progress, but building out the broadband is a long, slow process. And so some strides are being made, but I would still say we're pretty close to that 90, maybe 91%. Thank you, Dr. Diggs. Sure.",
+    "speaker": "christinediggs",
+    "tags": [
+      "give_update",
+      "clarify",
+      "express_concern",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2071.105,
+    "end": 2083.667,
+    "text": "And Dr. Diggs, building out the accessibility.  is something that I know that the county as a whole is focusing on, right? And there are certain areas of the county where that's really a problem, right?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "defer_to_expert",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 2083.687,
+    "end": 2119.404,
+    "text": "Yes. And when Mr. Foreman says that we partner with the county, we're very encouraged that the county has established a broadband office. So there is a broadband office now solely focused on this effort. And we meet with them monthly.  and provide them quite often student data so that they know those areas that have the worst connectivity and then we layer on top of that and let them know where we have students and that becomes an even higher priority for them. So that's one example of how our partnership is working.",
+    "speaker": "christinediggs",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "prioritization",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 2122.429,
+    "end": 2139.661,
+    "text": "Thank you.  Other questions for either Mr. Foreman or Dr. Diggs? Okay, thank you.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "public_addressing",
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2144.287,
+    "end": 2150.095,
+    "text": "Okay, next I will introduce Ms. Rosalyn Schmidt to walk us through renovations and furniture.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 2151.914,
+    "end": 2198.779,
+    "text": " Thank you, Ms. Kumazawa. I'm Rosalyn Schmidt, Chief Operating Officer. And so in this section, I will be speaking about investments into our current physical spaces. As Ms. Kumazawa previously mentioned, an important focus on our capital priorities is school renovations. Over time, we've also referred to this work as modernization. Whichever word you use, the purpose is to improve and upgrade existing spaces to support the learning and work environment of our students and staff.  We thought the best way to show this would be through some images, so we produced a video that provides visuals of our most recent capital projects. As you watch, please pay attention to the role that furniture plays as well, in addition to the renovated spaces.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "give_update",
+      "public_addressing",
+      "logistics_info",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 2203.366,
+    "end": 2638.474,
+    "text": " Albemarle County Public Schools is proud of our facilities and this video will highlight some of our recent capital projects. We'll focus on illustrating the impact of new and renovated spaces and also show some traditional spaces to compare them to. We'll start at Albemarle High School. Here you'll see a locker removal project that gives you more space in the hallway and also gives an interesting space for students to gather.  We're looking here at a traditional classroom at Albemarle High School. You'll see traditional furniture, you'll see some more traditional spaces. And here we're looking at a renovated space at Albemarle High School. You'll see flexible furniture, some additional daylighting, and you'll see a lot of different ways a teacher can configure the room.  Here's a traditional space that was a science classroom. We have storage issues in the space. We can bring in some additional daylighting to give them some more light in the classroom and some spaces that aren't used as they originally were intended. Here we're looking at a renovated science room. At Albemarle High School you'll see a lot of different abilities for teachers to configure the room in different spaces and for students to have more choice in their seating.  You'll see lots of light and lots of space. You'll see easy access to utilities such as gas and outlets. We're at Jewett Middle School now to look at a few examples of renovated versus traditional spaces. We'll start in a traditional classroom. You'll see a traditional layout for desks, which is partially COVID inspired. And in the new space, this is the tech lab that combined different classrooms into one common space. Students are able to spread out in different configurations. We have flexible furniture that can be moved into different places.  Here we're at Jewett's modernized tech lab. You'll see lots of flexible configurations for the students to work with. You'll see a lot of light. There's a space where students can work in the shop area versus more of a clean space. And we have lots of technology in the space such as 3D printers and laser cutters that students can experiment and learn with.  Now we'll focus on some of our larger modernization projects and give you some additional details. At Red Hill, we designed to modernize and newly furnish 13 classrooms and the media center. Work in the classrooms included updated finishes, casework, and lighting as needed from room to room.  improved transparency and connection to adjacent spaces and the outdoors was very important in this project. The furniture was updated to create a flexible and comfortable learning environment, including ergonomic seating choice, work surfaces that vary in height and size, but are all mobile and provide adequate storage. At Woodbrook Elementary, we added about 40,000 square feet.  With that 40,000 square feet, we added 300 seats, bringing the school's capacity to 600 students. The addition included 16 classrooms, two dedicated special ed classrooms, four smaller resource classrooms, a maker space, professional development training space, a conference room, two faculty work rooms, and toilets, offices, storage, and various support spaces. Smaller additions expanded the cafeteria and a new gym were constructed.  This learning space modernization budget touched on many different school spaces. It added needed improvements to instructional spaces that included existing classrooms, libraries, and other elective and support areas that are consistent with the school board's goals and priorities. Modifications included furniture and renewal work, including updated finishes, casework, lighting, and connections to adjacent spaces.  Typical modifications included classroom furniture upgrades, classroom modernization, media center modernization, cafeteria modernization, specialty classroom modernization, and additional day lighting.  Western Albemarle High School's Environmental Studies Academy consisted of two phases. The first phase included the Environmental Studies Academy's standalone building, which includes the greenhouse, and phase two was an academy addition and science lab modernization. The addition is about 10,000 square feet and focused on expanded science facilities to accommodate the Environmental Science Academy programs.  This included three labs, offices, a shared prep room with storage, and project spaces for independent and collaborative teaming. Spaces also accommodated hydro and aquatic activities and hydroponics. Seven of the existing classrooms in the building were also modernized, which included replacing casework, updating finishes and lighting, improving daylighting, and adding additional power and replacing furniture.  The most recent work at Red Hill Elementary was phase two of the project. It included an addition, renovations, and site improvements. The project added about 6,500 square feet to the building with a new gymnasium and support spaces such as physical education offices and storage.  Renovations to the existing building included repurposing the previous gym into the new media center. The new media center is a creative learning space with new shelving, finishes, and collaboration spaces. Renovations to the cafeteria, toilets, hallways, and support spaces, and kitchen and serving line were also part of this project. Exterior renovations included painting and soffit repair. Site work included additional parking, site improvements, and outdoor learning areas.  Scottsville Elementary's addition and improvements added approximately 17,500 square feet to the building and added improvements to the existing building and site. The additions included four additional classrooms, two smaller resource rooms, two offices, bathrooms, and a full-size gym. Improvements to the existing building included repurposing the current gym into instructional space, as well as other modernizations and renovations throughout the building to improve space for both staff and students.  Site improvements included outdoor learning areas and septic system enhancements. At the completion of the project, all trailers and modular classrooms will also be removed. The project adhered to LEED principles and practices. As we've seen with the examples at Woodbrook, Western Albemarle, Red Hill, and Scottsville, significant renovations have occurred concurrently with building expansions and additions.  However, this naturally leads to somewhat unequal school facilities, and we recommend that dedicated renovation funding is needed at all levels. The last time a significant renovation and modernization budget was approved was in fiscal year 18. Since 2017, the Long-Range Planning Advisory Committee's highest priority recommendations have included school renovations at all levels.  In a community survey administered during the summer of 2021, respondents recommended that the following are important criteria to use in project prioritization. Upgrading athletic facilities and outdoor play spaces to foster good physical health, making sites accessible for local and community-based events, adding natural light in classrooms and making it easier to access outdoor spaces, renovating spaces to foster good mental health habits, well-being, and collaboration, and improving access for students with disabilities.  The requested renovation projects represent substantive investments in our school buildings, including the implementation of recommendations of the High School Master Plan Study. A phased multi-year approach will bring the school division's aging schools to modern standards to include improvements such as electrical infrastructure updates to accommodate technology, ensuring classrooms have natural light, improvements to adhere to the Americans with Disabilities Act, outdoor learning space updates, and reconfiguration of spaces to improve function and efficiency.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "prioritization",
+      "logistics_info",
+      "cite_external_source",
+      "request_action"
+    ]
+  },
+  {
+    "start": 2643.635,
+    "end": 2810.053,
+    "text": " So I want to thank Patrick Huddleston, Lindsay Snoddy, and Sheila Hoopman for putting together that video. Again, I hope that provides a good visual for you and for our community around the impact that new and improved space has on the learning environment. I think sometimes visuals are stronger than our words.  So while we are proud of the work we have completed, there is a lot of work to still be done. And so the renovation portions of the projects would be in the capital budget, but tonight we would like to also discuss a furniture replacement program, which will be funded by the operating budget.  So this draft funding request includes the establishment of a furniture replacement program. This program provides for the replacement of classroom furniture, including tables, desks, storage, seating, and specialty items. The new furniture replaces aged and out-of-date pieces, and when combined with professional development, produces furniture that supports the classroom environment and functionality.  So here are just some highlights about the program, looking backward and then looking forward. So next slide, please. So previously, wide-scale furniture replacement efforts were funded by the Learning Space Modernization Capital Project. But as Ms. Kumazawa mentioned, the criteria for capital projects has recently changed, and so this work no longer meets the definition for capital funding, which is why it's now built into our operating request.  But similar to Mr. Foreman's comment around the technology replacement program, I think this is a positive. It gives us more control and advocacy for this work. Pre-pandemic, furniture was replaced division-wide in all kindergarten and first grade classrooms. This systematic grade level approach provides parity amongst our facilities. And it has also been an opportunity to provide division-wide professional development to support the work.  It's a plan do study act cycle so we involve teachers in the planning and the decision making as they choose from different packages. We install the furniture and then we gather their feedback through use of surveys and observation and we use that information to inform the next grade level.  Unfortunately, this work was stalled when the pandemic began and funding was not available. So we are excited to restart this work. And if the funding is afforded in this operational budget, we will replace all second grade classroom furniture for the 23-24 school year. And then each subsequent year, the next grade level will be replaced. We feel that furniture is a functional necessity, and this is a systematic approach to ensure we have a planned and fair replacement cycle amongst all schools.  Are there any questions about the furniture replacement program?",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "policy_proposal",
+      "acknowledge",
+      "clarify",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 2813.541,
+    "end": 2818.173,
+    "text": "Yes, didn't we replace some furniture due to COVID and having to rearrange the classrooms?",
+    "speaker": "ellenosborne",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 2819.416,
+    "end": 2871.113,
+    "text": "Yeah, so we utilized stimulus money primarily for student desks.  Many went to the additional classrooms we added with the mobile units at the high schools and Henley, but others went into existing classrooms to promote social distancing. We intentionally selected a style of desk that supports the goals of all these modernization efforts. So they reconfigure into different groups. And so our plan is once we start bringing all the furniture back that's from storage, right,  and we will integrate those desks into some of these plans or upper grades. We have very intentionally purchased adjustable heights so they can be used in both elementary and secondary. It's because these classroom packages include desks, right, but they also include storage and seating, and so we feel like it would be all complementary of it.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "clarify",
+      "reassure"
+    ]
+  },
+  {
+    "start": 2873.416,
+    "end": 2902.147,
+    "text": "And do we think that this is something that the teachers and principals and people who use those rooms are  or asking for, because I have not heard anybody ask for new furniture. As a matter of fact, I've heard a lot of people complain that we spent years past, we spent money on furniture when they would have rather had X, Y, and Z. Yeah, so we know there's some history with this topic, you know, but you'll see that I'll just be transparent with it.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "give_update",
+      "clarify",
+      "opinion"
+    ]
+  },
+  {
+    "start": 2902.167,
+    "end": 2930.985,
+    "text": "There's no investment in beanbags, right? These are  Investments in, like I said, necessities of a classroom. Whether we've had requests, we were pulling back through some surveys. Students talk about it. When we did our budget input sessions in the fall, it was a topic from students around additional workspaces. So the projects we have had recently are well-received. So I think it is an E.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "cite_external_source",
+      "opinion",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2934.172,
+    "end": 2944.775,
+    "text": " So Rosalyn, you're envisioning this being a part of the operating budget then for the next 10 years, give or take, if we're doing it by grade level?",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 2947.36,
+    "end": 2951.269,
+    "text": "Yeah, so this is built in as a recurring replacement program, yes.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "clarify",
+      "give_update"
+    ]
+  },
+  {
+    "start": 2952.331,
+    "end": 2964.857,
+    "text": "And then do you think that that  would stay approximately the same? I mean, like with inflation and whatever, but would the high school levels, secondary levels be higher?",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 2967.339,
+    "end": 2988.46,
+    "text": "So yeah, I think we would take this approach with elementary. I think it would look different at secondary. And I think when we get there, we can discuss how that looks like. So yes, maybe that will take two years, right? Maybe you wouldn't be able to do it all in one year.  Again, we're doing that plan, do study act. So I think this next action would inform future years.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "policy_proposal",
+      "prioritization",
+      "procedural_move",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2991.565,
+    "end": 3028.082,
+    "text": "I'm sorry. Good. I just want to say I'm very much in favor of the new furniture. I've sat, you know, I've sat in the old furniture and I've sat in the new furniture and I can tell you that  For me, if I was in school today, it would make a huge difference. I mean, just being able to move your chair back and forth for someone with my particular habits, that makes a difference between my being able to pay attention and not being able to pay attention. So I appreciate everything you're doing.",
+    "speaker": "davidoberg",
+    "tags": [
+      "opinion",
+      "agreeing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3031.386,
+    "end": 3064.467,
+    "text": "In Mishman, based on K through 12, this is basically a 13-year cycle, and the useful life  of the furniture that we're putting in really fits that timeframe. Do you anticipate this being a consistent, maybe this was what Ms. Lee was asking as well, that once we get through K through 12, will we then start it over again? Or is it anticipated that we won't have to do that for a while?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "clarify"
+    ]
+  },
+  {
+    "start": 3065.341,
+    "end": 3098.17,
+    "text": " So we don't anticipate, we eventually have to replace the furniture replaced in kindergarten, right? So it does work to a replacement cycle, whether it would start immediately once we finished the senior class or, you know, that's to be determined. But the other opportunity, and I'll be optimistic, is you'll get into a renovation cycle, a more robust renovation program, and then ideally you would merge furniture replacement in with your larger renovation projects, so.  I think there's opportunity in the future to rethink this, but this, I think, is a good approach to start it.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "reassure",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3100.772,
+    "end": 3111.523,
+    "text": "I was going to chime in and say this would be a good spot for our student rep to maybe weigh in on her experience with the furniture in schools and if she sees a need or how she feels.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "request_action",
+      "defer_to_expert"
+    ]
+  },
+  {
+    "start": 3112.744,
+    "end": 3140.016,
+    "text": "Yeah, I really enjoyed when we got new furniture, especially like the finiture.  the room but I feel like they also added a lot of like having the chairs and the tables just everything especially in the library because we use it a lot the media center I feel like it was really helpful when we were learning and having more space for creativity.",
+    "speaker": "elizabethalbarran",
+    "tags": [
+      "opinion",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3143.02,
+    "end": 3150.213,
+    "text": "So do we have any do we have any second graders around here that could chime in since we're talking about  Yes, I do.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3150.233,
+    "end": 3153.901,
+    "text": "Do you like the furniture at school?",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 3158.392,
+    "end": 3158.592,
+    "text": "Yeah.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 3162.02,
+    "end": 3165.548,
+    "text": "They're doing multicultural night right here on the other Zoom thing.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 3169.882,
+    "end": 3180.736,
+    "text": " I also, I do want to say that I really appreciate also the grade level approach that you're using so that there is that parity across the division. I think that's a great way to go.",
+    "speaker": "judyle",
+    "tags": [
+      "acknowledge",
+      "agreeing",
+      "opinion"
+    ]
+  },
+  {
+    "start": 3193.173,
+    "end": 3197.138,
+    "text": "Other questions, comments on renovations and furniture?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "public_addressing",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 3201.32,
+    "end": 3217.276,
+    "text": " I guess I'm sorry to add one more thing, but I guess I was appreciated Ellen bringing up the comments she had heard. I guess I would just second that I'd heard some things like that as well about there being furniture that we invested in that's kind of sitting in rooms or pushed aside or is that we're actually frustrating to you, so.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "agreeing",
+      "express_concern",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3219.458,
+    "end": 3230.989,
+    "text": "I also agree with that. And with the high schoolers, we really are just in desk and chairs. So I feel like it should be more targeted to the elementary school.",
+    "speaker": "elizabethalbarran",
+    "tags": [
+      "agreeing",
+      "opinion",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 3237.179,
+    "end": 3245.813,
+    "text": " Elizabeth, you are saying the type of furniture is something that you think should be changed or what?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 3246.694,
+    "end": 3259.133,
+    "text": "No, like pretty much in high school, I feel like we're usually desk and chairs. So I feel like if we were to get updated furniture, it should be more targeted to the younger students.",
+    "speaker": "elizabethalbarran",
+    "tags": [
+      "opinion",
+      "prioritization",
+      "clarify"
+    ]
+  },
+  {
+    "start": 3260.015,
+    "end": 3260.115,
+    "text": "Okay.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3267.925,
+    "end": 3271.449,
+    "text": " One last question, do we know how old the stuff is that we're replacing?",
+    "speaker": "ellenosborne",
+    "tags": [
+      "ask_question",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 3274.872,
+    "end": 3297.055,
+    "text": "So typically when we do division-wide, not every classroom is at the same state. So if the furniture replacing is still in good shape, we'll repurpose it in other places of the building. And then what leaves is our oldest piece of furniture, which is often was purchased probably when the building was first built, to be honest.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "logistics_info",
+      "clarify"
+    ]
+  },
+  {
+    "start": 3299.228,
+    "end": 3309.077,
+    "text": " And you were saying the furniture that's in storage can be brought back out and basically incorporated with the new furniture, right?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 3309.997,
+    "end": 3330.984,
+    "text": "Yeah. And so due to COVID, we had to move a lot of this furniture out to allow for social distancing in our classrooms. So now we have to bring it back in. And that video is great, but you can cringe at some of the COVID arrangements, right? I think we're eager to get some of that back.  Yeah, so it's coming back out of storage.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "opinion"
+    ]
+  },
+  {
+    "start": 3332.706,
+    "end": 3356.877,
+    "text": "Ms. Schmidt, I've had a question, and I think I've mentioned this before, about when we are placing furniture and it's storing and reusing, as to that furniture. It doesn't just go to land. Where does that go?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "request_action"
+    ]
+  },
+  {
+    "start": 3357.397,
+    "end": 3401.983,
+    "text": " Yeah, so the board has a policy around the disposal of surplus property, and we are also governed by the procurement and purchasing manual. So purchasing is not just for the receive a good basis disposal of goods. So as I mentioned, the first thing we try to do is repurpose any pieces of furniture that are still of use in other parts of the building or other buildings.  If we deem that it's a piece of furniture that we have no use for, but it's still in good shape, we work with the purchasing office to put it up for public auction. And then if those options are exhausted, or it's beyond its useful life, or it's damaged, then it is disposed. But all other options are vetted first.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "clarify",
+      "logistics_info",
+      "reassure"
+    ]
+  },
+  {
+    "start": 3418.501,
+    "end": 3419.983,
+    "text": " Any other questions for Ms. Smith?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3429.795,
+    "end": 3431.117,
+    "text": "OK. Right now, I guess not.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "give_update",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3432.258,
+    "end": 3432.579,
+    "text": "OK.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3432.919,
+    "end": 3436.063,
+    "text": "Chair Page, we're scheduled for a break if you would like to do so.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "logistics_info",
+      "procedural_move",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3437.645,
+    "end": 3446.837,
+    "text": "OK, Trupa, I think we can move ahead without a break. Is that consensus? OK, Ms. Gomez, I will move on.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3448.387,
+    "end": 3561.351,
+    "text": " All right, so the next portion of our presentations are here to respond to specific requests and comments that we've had from you. And the first piece will focus on differentiated staffing as requested by you to understand that a little bit better and the value it provides to our school division.  With, I wanted to bring back our strategic plan learning for all because with differentiated staffing, we can facilitate thriving students to ensure academic and social emotional development for our students while eliminating opportunity access and achievement gaps. It also supports respecting and championing the diversity of life experiences of our students. And then finally getting the right resources and staffing to our schools is key for the success of our teachers and students.  Here's an overview of our staffing standard of how we allocate classrooms, teachers, and differentiated staffing to our schools. So the base teacher allocation, which you'll see on the top right, is based on the staffing, the classroom staffing ratios that we discussed during work session one. So for an elementary school, for example, at the K-3 levels,  These are staffed at a ratio of 19.55 students, and grades four through five are staffed at 21.75 students. These are the proposed ratios for FY23. In addition to the classroom teacher staffing, the 22.1, for example, the school will, in addition, get differentiated teacher staffing. And that's based on the enrollment of the number of economically disadvantaged students projected at their school.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "logistics_info",
+      "public_addressing",
+      "prioritization",
+      "clarify"
+    ]
+  },
+  {
+    "start": 3563.187,
+    "end": 3575.789,
+    "text": " For example, at a school that has 323 economically disadvantaged students, 8.5 FTEs will be allocated for differentiated teachers to supplement the base classroom teacher staff.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "clarify",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 3576.791,
+    "end": 3586.748,
+    "text": "As you can see with this blue slope, as the enrollment increases, more FTEs are allocated at a declining rate, and it tops out at about 12 FTEs.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "clarify"
+    ]
+  },
+  {
+    "start": 3588.398,
+    "end": 3596.066,
+    "text": " So to look at this a little bit closer, we've prepared a case study that Dr. Steve Saunders will be sharing with you this evening.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "defer_to_expert",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 3601.112,
+    "end": 4091.209,
+    "text": "Good evening. I am proud to be the principal at Greer Elementary School. And our purpose at Greer, which is shared here on this screen, is to change lives in our community and to provide equity and to eliminate achievement gaps. And those are certainly bold goals.  And one of the many ways that we work towards achieving those is to use differentiated staffing. I'm grateful to have an opportunity tonight to speak with you, share some information about how we use differentiated staffing at Career. We educate around 500 students from preschool to fifth grade. Our students come from all over the world and they create a unique and diverse community for us. And one of the many ways that we support these students is through the hard work of our amazing staff, some of whom are provided for  for us by differentiated staffing formula. This coming school year, we will be using around eight and a half FTEs of differentiated staffing to support our students. So the staffing standards that Ms. Kumazawa was describing are based on enrollment numbers  And they don't account for specific school demographics and so some of careers demographics that may not be accounted for on enrollment projections and enrollment formulas. include our poverty level, as well as our students who are transient coming into our school after the school starts and leaving before the end of the year in the past for context.  outside of the pandemic or has typically had a poverty level of around 75% as a school. This is important, not only because there's also a causal relationship between poverty and student achievement, but also because our division, as Ms. Kamizawa just pointed out, uses poverty levels as the indicator and the way that they staff for differentiated staffing.  In addition, because we welcome students throughout the year, our population changing in that way means that we are regularly adding and sometimes withdrawing students throughout the year. And our differentiated staffing model allows us to prepare for that and to be proactive. Next slide, please. On this slide, you can see the projected breakdown.  of our classrooms from kindergarten to fifth grade for next year. At the elementary level, it's important to remember that students largely spend most of their day within their homeroom class or with that cohort of students. As principals, we generally develop  both the building logistics as well as the overall staffing plan based on the number of homeroom sections that we will have. Therefore, we start first by creating staffing plans by looking at the overall number of classroom sections or homeroom sections that we'll need at each grade with the goal of creating the smallest class sizes possible. As you can see on the far left section, we're scheduled to have roughly 450 students next year in kindergarten to fifth grade.  Through our regular staffing, we're provided roughly 22 classroom teachers. The numbers in sections and the class size averages are noted in the blue column. By using differentiated staffing for positions in this case, we're able to decrease the average class size by increasing the number of homeroom sections. And you can see that in the orange column on the right.  In general, principals develop staffing plans, and we meet with our central office staff for their consultation review and approval. This allows each principal to develop plans for the unique needs of that principal's school, and also provides a consistent process across the division about how we utilize our staffing allocations, including differentiated staffing. Next slide, please. This slide provides a general breakdown of how we're  planning to use the eight and a half FTE of differentiated staffing for next year. First, as noted on the previous slide, we reduced class sizes by adding in four additional classroom teachers.  Next, we used additional staffing to increase physical education, art and PE, and music for teachers. This staffing is necessary because as you add additional classroom sections, you need additional sections of art, PE and music. In addition,  We know that students will benefit from PE classes that are smaller, art classes that are smaller, music classes that are smaller. And finally, our students benefit from about 60 minutes of those activities each day. And we know that that impact is large because, as I said, the smaller class sizes.  We then added in a second full-time counselor. Our counselors support the social emotional SEL needs of all of our students, even outside of a pandemic. And they're critically important, not only to the well-being of our students, but also the entire school. The staffing standards career receives only one school counselor.  The addition of another school counselor through differentiated staffing and the SEL coach position allows us to have three highly trained adults who are able to provide both proactive and in the moment support to our students. We then use another staffing position to hire teaching assistants. We use our TAs in a variety of ways, sometimes to support in the homeroom, sometimes to provide academic support, and then also to help with our transient student population.  So, for example, we know in a given year career may enroll hundred new students since the beginning of the year. This year we've we've positioned some of our ta's to help us with new new students when they arrived during the year, so we knew. That we were going to be receiving students who are refugees from Afghanistan and we knew that they may be coming into grades.  in which we already had a little bit larger class sizes. And so we could put a teaching assistant in that class to allow either the homeroom teacher some time on the students' first day to interact with the student while the TA would cover some of the class. The TA could also help take the student on a tour of the building. The TA could be associated with the student during the day to help provide immediate support. There are many ways we could do that. And the differentiated staffing that we use with teaching assistants allow us that flexibility.  And finally, we also use one staffing position to provide math intervention for our students. As a reminder, as I'm sure you know, our students participate in Title I reading program, receive reading support that way, but we don't receive any math support. And so we use differentiated staffing to provide math support for our students.  I recognize as a principal that it's difficult to show quantitatively that this differentiated staffing model may work, but I am confident as a principal that it works for our students. I see it every day. I see it in the stronger relationships that our students and our teachers have because of the smaller class sizes. I see it in the increased opportunities for students to experience art, PE, and music in smaller classes. I see the increased collaboration and professionalism that exists in our school because of the strengthened PLC model.  I see it in ways that our two school counselors and our SEL coach meet with our students every day. I see it in the academic gains that our students are making, particularly as we're coming out of our annual mid-year review process and our ability to provide additional math support to students. And I see it in the significant decrease in discipline referrals over time for our students, which tells me that they're more engaged in class and learning.  As I shared at the beginning, I know that we have admittedly bold goals for our school to change lives and to be a place that eliminates gaps and provides equity. But I also know that the best way to do that is not by focusing on large numbers, but by focusing on individual students one day at a time. And I know that differentiated staffing allows me and other principals in the county  take that vision and to make it a reality at our school every day for every student. So I appreciate the opportunity to share on our behalf of what differentiated staffing looks like at a school and to share this case study and I welcome any questions you may have at this time.",
+    "speaker": "stevesaunde",
+    "tags": [
+      "give_update",
+      "clarify",
+      "public_addressing",
+      "reassure",
+      "acknowledge",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 4099.188,
+    "end": 4150.701,
+    "text": " I appreciate getting that breakdown of how you're doing that. I do appreciate seeing that. I do have a problem with saying like, oh, this is not really, it's hard to quantify because two of the things you talked about were quantities. So I do, and this might not actually be for  one principle to answer, but more for the division central office staff about how we can show that this type of funding does make a difference. Because I haven't seen any of the goals that we've had move. We haven't been able to move toward our goals in the 20 some years that we've had this type of staffing.  I'm just, I'm curious how we can hold ourselves accountable to those goals.",
+    "speaker": "judyle",
+    "tags": [
+      "acknowledge",
+      "express_concern",
+      "request_action",
+      "follow_up_request",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 4161.172,
+    "end": 4167.037,
+    "text": "I'm not sure if that question is directed towards New York central staff. I'm happy. More like central staff. Okay. Thank you.",
+    "speaker": "stevesaunde",
+    "tags": [
+      "clarify",
+      "hedge",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4167.898,
+    "end": 4309.555,
+    "text": "Thank you, Steve. Thank you for the presentation, Steve. I really appreciate it. And thank you, Miss Lee.  What I think is that we can demonstrate using the staffing at the schools. We may not see from year to year perhaps great gains in achievement, whereas achievement is measured one time per year with one test, with an SOL test. However, all of our schools demonstrate growth for their students, particularly students that are  behind, even with the SOLs. Ever since Virginia introduced growth as a measure for SOL testing, many of our schools have maintained the very rigorous standards for accreditation by showing growth with their students. I know that when Dr. Saunders was principal at Baker Butler, the way he really began to develop  the success of the school was first through growth. And then that led to eventually the Blue Ribbon Award for the school around closing achievement gaps. Much of that accomplished with differentiated staffing at the school. I believe the same thing will happen at Greer. And I believe that as we focus more on growth, which is really a measure of a student moving from where they are at the beginning of the year to the middle of the year to the end of the year, that's where we're going to see the gains that we have.  Ultimately, a student coming into school who is behind, who's had interrupted education, or perhaps comes from another nation where they have not been to school at all, they have to make more rapid growth than a typical student. And so I think it's incumbent upon the division, as you said, to develop a way to see that growth and make it more transparent to our community.  I fully support what you said, what you suggested. The growth is there. Our students are more successful. They learn a great deal during the year. And we owe it to our teachers and our community to celebrate those successes. Right now, we are holding ourselves accountable to a static one-time-per-year measure. We really need to focus on growth.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "acknowledge",
+      "agreeing",
+      "policy_proposal",
+      "prioritization",
+      "clarify"
+    ]
+  },
+  {
+    "start": 4311.526,
+    "end": 4324.298,
+    "text": " Well, I mean, I'm all for that. Again, we're still talking metrics. So that was the part of the presentation that I can agree with, because you do need to look at metrics. It can't just be good feelings of people.",
+    "speaker": "judyle",
+    "tags": [
+      "agreeing",
+      "opinion",
+      "prioritization",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 4327.241,
+    "end": 4399.614,
+    "text": "And if I could jump on and say, I agree with Judy. And also, in the past, while I don't disagree with using differentiated staffing, I think there needs to be more  guidance about what it's used for. The presentation that we just heard sounded like a great use, but if we have determined that it's beneficial to students in this position to have an extra counselor, then that should just be what the standard is. And I'll tell you the specific incident that comes to mind. I'm pretty sure I don't want to throw a school under a bus, but I went to a school that had differentiated staffing. They were using it for a music teacher or an art teacher, which is fine, but I didn't know. We give a lot of flexibility.  And I don't want to say that I don't like people having autonomy over their schools, but at some point, if the point of this staff or this money is to help with the achievement gap and with student performance, I don't know. I just would want, I'd want almost, I hesitate to say, but almost more uniformity. If not uniformity, then at least cause it like a direct correlation between whatever decision you're making and why you're doing it and how it ties in and that to be more apparent and obvious.  Because now I know a lot about what career is doing, but I don't necessarily know about all the other schools.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "agreeing",
+      "policy_proposal",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 4400.535,
+    "end": 4431.502,
+    "text": "So annually, schools develop a strategic improvement plan for their school. Over time, we have become more and more centralized and consistent across the school division around what the goals are for the school based on their growth and achievement from the year before. That's highly structured.  All of those are available transparently on our school division's webpage, and they can be accessed from each individual school.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "clarify"
+    ]
+  },
+  {
+    "start": 4431.702,
+    "end": 4458.797,
+    "text": "And Matt, I think I brought this same question up the last time we went through the budget cycle, only I worded it slightly different, which was just, do you provide oversight and are counseling with the principals to help them when they're making these decisions? And I believe you had answered yes at that point. So at that, I will yield and just say, I agree with Judy in the fact that, you know, is maybe it's time to,  tie it to metrics or look at there's other models or something else we've been doing a long time. So if I may finish.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "ask_question",
+      "acknowledge",
+      "agreeing",
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 4460.921,
+    "end": 4574.408,
+    "text": "What happens next is after they've made their school improvement plans and as they work their way through the year we have mid year review. Right after mid year review is where we begin to do the staffing process for the coming year schools are assigned staffing as well as differentiated staffing they develop.  staffing plan that's in alignment with their school improvement goals for the coming year. They come to the central office with that plan. They meet with a team, including members of our equity staff, our deputy superintendent for instruction, personnel staff, and finance staff.  to ensure that the staffing plan that they've developed will align with their school improvement goals to meet the growth goals as well as the achievement goals that they have for the school. It is a shame that after the, as we made our way through the 18-19 school year and really firmed up these procedures and became more consistent than ever, that we came into a pandemic. And many principals have,  really been struck by the fact that they were making great progress during the 18-19 school year and 19-20 school year. We could see the growth. And so we have really been thrown off by the past two years of the pandemic. I am looking for next year to be a year of great growth for our students as they return. And I hope the board understands that  We do not just sprinkle staffing around the school system, leave it up to the principals to do what they want with it, and then hope for the best of success. It is far more organized, it is far more resource-oriented, and it's targeted toward meeting students' needs. Thank you.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "clarify",
+      "reassure",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 4576.751,
+    "end": 4578.273,
+    "text": "I have a question. And I think from, oh, go ahead.",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4578.694,
+    "end": 4579.555,
+    "text": "Oh, no, go ahead, Judy.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4580.142,
+    "end": 4633.582,
+    "text": " Well, I just, from my perspective, I'm at a trust but verify sort of standpoint here because of looking at our numbers, even prior to the pandemic. So my goal at some point would be some like outside looking into  how we're doing and how differentiated staffing is actually working at our division. I know Kate had asked for some information about differentiated staffing and we received it. We received some research from EAD and some information about other schools, but I'm really interested in how it's working at our schools and again, whether tying it to. Free and reduced lunch or.  how we've been using it has actually worked and what would be the most effective way?",
+    "speaker": "judyle",
+    "tags": [
+      "express_concern",
+      "request_action",
+      "ask_question",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 4638.187,
+    "end": 4670.967,
+    "text": "I would just add that Dr. Saunders did not say this, but he has the best growth scores in the division. So I think a lot of that can be tied to the differentiated staffing in the way that he uses it. So the growth scores that Greer has had over time is higher than the growth in any other school.  So we can start, and I think that that's part of what we need to be more transparent with is those gross scores so that we can tie those to schools that get the additional staffing.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "opinion",
+      "give_update",
+      "policy_proposal",
+      "request_action"
+    ]
+  },
+  {
+    "start": 4675.081,
+    "end": 4692.162,
+    "text": " So Ms. Collins, will that be something then that we'll be able to see in reports in some type of way so that we can see the tie between what Ms. Lee is talking about and the differentiated staffing?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "clarify"
+    ]
+  },
+  {
+    "start": 4693.137,
+    "end": 4714.943,
+    "text": " We're able to do that if the state provides the numbers in the way that it shows the growth. So the schools, the principals, because we do a lot of hand scoring of those pieces, can provide that. So actually, we'll talk to Dr. McGlaw often about how we might be able to show that in tables and charts better.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "logistics_info",
+      "clarify",
+      "reassure"
+    ]
+  },
+  {
+    "start": 4716.627,
+    "end": 4725.782,
+    "text": " Is there a resource out there right now that identifies how each school is using their differentiated staffing, what extra staff members they've hired, and why? Can you send that to me?",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "ask_question",
+      "request_action"
+    ]
+  },
+  {
+    "start": 4726.564,
+    "end": 4739.405,
+    "text": "Well, it is a template, and every school identifies their staffing, and then they say how it's differentiated. So we'll see how we can get you into that system.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "clarify",
+      "give_update",
+      "logistics_info",
+      "reassure"
+    ]
+  },
+  {
+    "start": 4741.489,
+    "end": 4763.805,
+    "text": "Yeah, and I don't need, I mean,  I don't need to have access to whatever central set like the slide that Mr Saunders had where he just like kind of quickly said where how many extra staff he gets and where he's using it. That would be helpful for each school that's using it, because I want to see where there's variance and why he's doing so yeah if I get that that'd be great.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "request_action",
+      "follow_up_request",
+      "clarify"
+    ]
+  },
+  {
+    "start": 4764.747,
+    "end": 4777.118,
+    "text": "I think there is some of that in Jamie Gellner's  report that she sent us in December. Yeah, I imagine it's out there somewhere. Yeah, so I think it's available to all of us.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "cite_external_source",
+      "logistics_info",
+      "hedge"
+    ]
+  },
+  {
+    "start": 4778.099,
+    "end": 4787.013,
+    "text": "It's actually just the results of a 2019 survey. So it's not, it's just like self-reported. It's not complete. So I would like that information as well.",
+    "speaker": "judyle",
+    "tags": [
+      "clarify",
+      "give_update",
+      "request_action",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 4789.637,
+    "end": 4805.722,
+    "text": "I have a question about the intervention teachers.  If they are assigned, like I think Mr. Saunders was mentioning that he has one that's assigned to math. So if they are assigned to a certain subject area, are they certified in that area ordinarily?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 4812.592,
+    "end": 4849.842,
+    "text": "I can speak in generalities. Sometimes they are, and sometimes they're not. Obviously, the preference would be to hire someone with a math specialist endorsement.  But that is that is not necessarily always what happens sometimes, for example, we that one position is actually a career and every school is different, but at our school that's actually 250% teachers. So. We are able to actually there's a benefit when you have two outstanding people, you can layer at the same time instead of one person throughout the day. So.",
+    "speaker": "stevesaunde",
+    "tags": [
+      "give_update",
+      "opinion",
+      "clarify",
+      "hedge"
+    ]
+  },
+  {
+    "start": 4851.897,
+    "end": 4877.287,
+    "text": " And if I could just add in there, one of the things that we look at when we are looking for intervention teachers, if they are teaching reading, we do seek to find people with the reading specialist endorsement as our primary place to look. And beyond that, obviously we'd like them to have at the elementary level and endorsement in elementary at pre-K six, because every teacher who has that endorsement has had specific training in literacy and mathematics.",
+    "speaker": "clarekeiser",
+    "tags": [
+      "give_update",
+      "clarify",
+      "logistics_info",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 4879.39,
+    "end": 4888.609,
+    "text": "Okay, thank you.  And going to our language immersion program, are some schools using this staffing for that program?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4892.075,
+    "end": 4892.615,
+    "text": "They are not.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "disagreeing"
+    ]
+  },
+  {
+    "start": 4893.256,
+    "end": 4907.959,
+    "text": "They're not? OK. So are we good? Because I have some questions related to that that I would like to know. So maybe this isn't the time nor place for it, but maybe during the budget session, I hope that I can ask those questions about language immersion.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "request_action",
+      "hedge"
+    ]
+  },
+  {
+    "start": 4910.234,
+    "end": 4931.702,
+    "text": " That happens to be our next topic. So I think you've just led us on. Okay. Are we ready to move on to that topic? Great. So I'll welcome back Lauren McLean to talk about our foreign language in the elementary schools program.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4935.428,
+    "end": 5154.308,
+    "text": " Thanks, Maya. Thank you all for giving me the opportunity to get to talk about our foreign language elementary school program. I do want to go ahead and just distinguish that we have two world language programs that exist at our elementary schools. We have a dual language immersion program that's at Mountain View and then we have our foreign language elementary school program.  that's expanding across our division. And that's what we're going to talk about. But I'm also happy to answer questions on our immersion program. And so our foreign language elementary school program is really just a chance for us to approach language learning with our youngest students and allow them to develop basic communicative skills in the target language while also just being exposed to and getting an enriching cultural experience at  that age. And so if you look at the chart here and also in your budget book on page G-19, you can see our current schools. We've included Broadus Wood because they started their research stage of implementation pre-pandemic, and then our foreign language elementary school programs, or FLES, were put on hold briefly, and so they'll be moving into implementation next year.  Crozet, Meriwether, Lewis, Mountain View, Murray, and Woodbrook are already in implementation, and you can see here which languages they use and which stage of implementation they are in. And then if you go ahead and go to the next slide.  So this is our plan for growth so that all of our elementary schools are able to implement FLES really starting by school year 2025-26 and fully grown out by 2027-2028.  The next four schools who are implementing will be going into their planning year next year, and their focus is on selecting which language they want to explore in consultation and collaboration with their entire school community, including the families, and in selecting the appropriate materials that they're going to use to best foster and encourage student learning.  And I know that this board likes to look at how we measure success of our FLES program. And so in general, our students to measure world language success, we use the STAMP test. And Mountain View, which is our longest running FLES program, has had students take that in the past. Unfortunately, for the past two years, we have not had widespread STAMP  implementation because the test must be taken in person. And so due to virtual learning, that was challenging, but we're excited to get our data back next year. However, our FLESS programs also focus specifically on interpersonal communication, and we leave interpretive and presentational communication into our middle school and high school. That's the same way in general we scaffold our world language. We focus on interpersonal first in level one,  and then built up to interpretive and presentational. And in FLETS, we also focus, really, when we think of world language learning standards, we look at ACTFL, the American Council on Teaching of Foreign Languages, and their five Cs. And so we focus also on the four Cs that don't relate to communication. And so we focus on also how we can integrate cultures, connections, comparisons, and communities.  And I am happy to answer any questions.",
+    "speaker": "laurenmacle",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "clarify",
+      "cite_external_source",
+      "follow_up_request",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 5159.976,
+    "end": 5177.824,
+    "text": "Okay, Ms. McLean, I got one. On the chart, you were showing what, four schools that would be introduced in 23-24? Yes, that's correct. Have those schools been determined, or is it by choice? I mean, do the schools get to decide when they want to enter?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 5182.512,
+    "end": 5192.267,
+    "text": " I'll let Miss Collins speak to that only because I'm new this year. And I believe those four schools were predetermined before I started, but they, they are excited. I can say that.",
+    "speaker": "laurenmacle",
+    "tags": [
+      "defer_to_expert",
+      "acknowledge",
+      "give_update",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5192.287,
+    "end": 5217.359,
+    "text": "Yes. Uh, those, those schools haven't been announced to their school communities yet. So it's, we didn't want to get ahead of that announcement, but they have been determined and we are working with all schools to get this rotation, uh, together so that it's, it's completed in a couple of years.  With COVID and we stopped adding additional staffing, we feel like we want to speed up the process.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "clarify",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 5220.145,
+    "end": 5226.981,
+    "text": "Okay. But they're all scheduled to be completed within the next two, three years, right? Correct.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 5230.724,
+    "end": 5266.066,
+    "text": " I would like to give feedback that I remember this being a sore subject for me because it felt like we're really creating haves and have nots, depending on which school you go to, you get to learn a language or not. And so I remember there being talk about speeding up the process, selecting more students, really putting it, if we're going to do this, making sure it's available to all of our students as fast as possible. So I appreciate you guys.  working to make that happen. We've already invested a lot of money in it, and I do think learning a language when you're younger is a good skill to have and a good option to have for our students. So I'm glad we're making it happen quickly.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "express_concern",
+      "prioritization",
+      "acknowledge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 5266.827,
+    "end": 5273.742,
+    "text": "I agree, Katrina. I remember that concern, too, that we were, hey, look, how quickly can we do that? So I'm glad to see it, too.",
+    "speaker": "davidoberg",
+    "tags": [
+      "agreeing",
+      "acknowledge",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 5277.468,
+    "end": 5304.285,
+    "text": " I have a question kind of a little bit piggybacking off chair pages question. Are there other ways outside of stamp? I don't, are there ways that are more whole school or achievement outside of the program oriented that we use to evaluate the success of a program?",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "clarify"
+    ]
+  },
+  {
+    "start": 5306.425,
+    "end": 5344.397,
+    "text": " I think long term we have some ideas specifically around looking at students who participate in plus and their long term earning the seal of by literacy as high school students, as well as their continued participation in world language courses and possibly the ability through taking class continuing their studies in middle school and then high school.  to either take advanced coursework that can earn them college credits or also to study multiple languages. And so I think that's a long-term goal, but given that aside from Mountain View, most of the schools are still in their initial years, we just don't have the ability to collect that long-term data, which really is what we look for in world language learning.",
+    "speaker": "laurenmacle",
+    "tags": [
+      "give_update",
+      "clarify",
+      "logistics_info",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 5345.963,
+    "end": 5378.27,
+    "text": " And I appreciate that. My question is really more outside of the language component, outside of the language, whether they stay in, whether they learn it well, whether they can speak with others. Outside of that, the rest of the school, you know, whether it's changes in growth, changes in achievement, I just, I want to,  my broken record or bot is how can we be accountable for the money that we spend in each of these programs.",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "request_action",
+      "clarify"
+    ]
+  },
+  {
+    "start": 5381.735,
+    "end": 5388.544,
+    "text": "And I don't think we've looked at that data specifically in tying it to flus participation in the past, but I think that's certainly something we can do.",
+    "speaker": "laurenmacle",
+    "tags": [
+      "acknowledge",
+      "give_update",
+      "reassure",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5390.287,
+    "end": 5423.389,
+    "text": "Thank you.  I'd be interested in the demographics of who's choosing to do the program one fear I have is that we're only catering to specific students or family so I spent a long time since we had the presentation on this program I don't even know if that was part of the discussion but you know like.  Now we have enough schools that are doing it, presumably we can get some aggregated data about which families are selecting, because it's optional, right? So which families are selecting to do this program and who are we serving? It's a big investment.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "follow_up_request",
+      "request_action",
+      "ask_question",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 5426.423,
+    "end": 5446.508,
+    "text": " We can collect that but i'll also add that in many of our schools we're seeing it more as a and everybody is included in less there. they'd like not to be just because there is so much interest, so I know that some of our schools pivoted kind of looking at which grade levels receive different levels of support to ensure that all of the students across a great level could receive that instruction.",
+    "speaker": "laurenmacle",
+    "tags": []
+  },
+  {
+    "start": 5464.038,
+    "end": 5465.64,
+    "text": " Any other questions for Ms. McClain?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 5466.983,
+    "end": 5492.442,
+    "text": "Yeah, I'm sorry to speak up then, but I'm like trying to piece that together in my head. So I guess, like I said, it's been a long time since this presentation. I know that we have the immersion program at Mountain View and maybe one other school. So this staffing is more like to have a language teacher at the school that's like going into classrooms and doing a language class with each. It is not the immersion program. Are we maintaining the immersion program at any schools?",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "clarify",
+      "ask_question",
+      "hedge",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5493.232,
+    "end": 5514.447,
+    "text": " So the immersion program is being maintained at Mountain View, but in terms of what the foreign language teacher is doing, it's less about them going in to teach the language and more about them actually teaching and teaching content in that language to support students in learning language and the grade level content simultaneously.",
+    "speaker": "laurenmacle",
+    "tags": [
+      "give_update",
+      "clarify",
+      "reassure",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 5518.274,
+    "end": 5529.731,
+    "text": " OK, but Ms. McLean, are all of our students at the schools that don't have immersion, are all of our students being exposed to that language, unless the parent is opting out?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 5532.095,
+    "end": 5544.814,
+    "text": "It currently depends some on the availability of the teacher. So it may be, especially for some of our schools who are still in that growth phase, it may be isolated to specific grade levels.",
+    "speaker": "laurenmacle",
+    "tags": [
+      "give_update",
+      "clarify",
+      "logistics_info",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5547.057,
+    "end": 5596.51,
+    "text": "OK.  Ms. McLean, this might be a simplistic question, but is there an objective for a level of ability to speak a language such as the students who go through immersion can be  definitely ready for Spanish too, as an example, when they go into middle school. Is there a goal, and I know this is very simplistic, but is there a goal for how prepared the students who go through FLESS will be, assuming that they've started in kindergarten and gone all the way through, not just one year, but is there an objective for that or a goal?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5599.392,
+    "end": 5625.349,
+    "text": " There's not currently, and that's largely because it also depends on their middle school offerings. And obviously, we also let students choose. So we have students who may even learn Spanish through FLESS and then decide to study French, for example, at the middle school level. And so it's just hard for us to do so in terms of looking at their next placement, except through using the STAMP test, which is usually what we use to determine language level placement in our schools.",
+    "speaker": "laurenmacle",
+    "tags": [
+      "give_update",
+      "clarify",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 5630.206,
+    "end": 5641.768,
+    "text": " How do we determine what languages are going to be at what schools? And do we take into account our Albemarle County environment and what languages are spoken in the surrounding environment?",
+    "speaker": "ellenosborne",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 5645.663,
+    "end": 5663.571,
+    "text": " So I'll probably ask for some support on this only because this will be my first time doing it. But I do understand from having talked to some of the school leaders who have been through this process that it's really in talking to the community about what language they think would be most of interest and beneficial for their children.",
+    "speaker": "laurenmacle",
+    "tags": [
+      "request_action",
+      "hedge",
+      "cite_external_source",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5679.92,
+    "end": 5681.923,
+    "text": " Other questions or comments for Ms. McLean?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 5684.988,
+    "end": 5743.39,
+    "text": "I guess I'm sitting here thinking through it in my head, and I will just throw on support for Judy's comment and say, I guess I would like to see some more qualitative data or quantitative data around this as well. Because my worry is I'm thinking through it. It's like another special kind of. And I remember there being rationales behind it,  If you are having a Spanish teacher in a school that's got a lot of Spanish speakers, it gives them a time in the week where they can be an expert in something and they can be feeling like they're. So there's things and I know that you guys considered them and I guess I just want to maybe maybe it's time at some point this year to have another presentation on on West because.  yeah, I just want to make sure it's tied to why we're doing it and what it's tied to. And I have some questions like, you know, if you get once a week language instruction, well, I think it's really important. And I'm sure there's benefits outside of academic benefits. Are you really going to be fluent in the language? But you know, what, what really is going on?",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "express_concern",
+      "ask_question",
+      "request_action",
+      "follow_up_request",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5744.618,
+    "end": 5762.053,
+    "text": " Excuse me, we can bring back the research on why this is important as young as students develop reading skills and and and the language development. In English and how it corresponds to language development in other languages so we'll be happy to bring this back at another agenda item.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "give_update",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5774.842,
+    "end": 5777.264,
+    "text": " Thank you, Ms.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5777.304,
+    "end": 5789.816,
+    "text": "McClain. So for our last update that we'll present to you, I will finally introduce Mr. Miles Nelson to talk us through SEL updates.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "defer_to_expert",
+      "procedural_move",
+      "give_update"
+    ]
+  },
+  {
+    "start": 5794.901,
+    "end": 5867.826,
+    "text": "Hi, I'm Miles Nelson. I'm the coordinator of mental health and wellness for Alamo County Public Schools. So I understand that there were some questions surrounding SEL counselors. Can you move to the next slide, please?  That came up during Dr. Haas's budget proposal. So I'm here tonight to highlight how the SEL counselors help enhance the school counseling program through a combined focus on mental health and social emotional learning. Next slide please.  This graphic shows the overlap of some of our school-based mental health professionals. First, I'd like to talk about our school counselors. They are state-licensed school counselors who focus on three core domains, academics, career, and social-emotional learning. Then we have, due to the school board support, we have added our SEL counselors who come from a variety of backgrounds. So they have licensed professional school counselors, social workers, et cetera.  So these positions were implemented to be in conjunction with our school counselors to help each school support our students social emotional learning based on feedback from teachers, parents, community members, and administrators from the pandemic. So I hope this helps clarify the distinction between our SEL counselors and our school counselors.",
+    "speaker": "milesnelson",
+    "tags": [
+      "public_addressing",
+      "request_action",
+      "procedural_move",
+      "give_update",
+      "clarify"
+    ]
+  },
+  {
+    "start": 5883.112,
+    "end": 5886.577,
+    "text": " Are there any further questions about how they interact with each other?",
+    "speaker": "mayakumaza",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "public_addressing",
+      "clarify"
+    ]
+  },
+  {
+    "start": 5888.739,
+    "end": 5905.221,
+    "text": "Yeah, I love a Venn diagram always, but I am just curious if you can put it into a little bit more like day-to-day framework for me. Just, you know, how would a day differ for one in each group?",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "request_action"
+    ]
+  },
+  {
+    "start": 5906.112,
+    "end": 5970.911,
+    "text": " Yeah, absolutely. So the school counselors have a broad range of backgrounds. So for example, at the high school level, they are focused on the three domains. So you have academics, career, and social emotional. So school counselors are well equipped to handle students' social emotional needs in schools, but they also have other duties. So at the high schools, they also help with course registration. They talk students through career counseling also. So helping them process and work through all the different steps of  courses that they're going through with high school in collaboration with families. And so there's a lot of different responsibilities that school counselors oversee. And so the social emotional counselor is an extra support built in to help meet the needs of all the social emotional needs that we've seen built up over the last two years. So the social emotional counselor doesn't have that three domains, they really focus in on the one domain.  And so they are in conjunction support of the school counselors. And so it's a big teaming effort at all three levels. Does that make it a little bit more clear? Yep, thanks.",
+    "speaker": "milesnelson",
+    "tags": [
+      "clarify",
+      "give_update",
+      "reassure"
+    ]
+  },
+  {
+    "start": 5971.712,
+    "end": 5972.193,
+    "text": "Absolutely.",
+    "speaker": "judyle",
+    "tags": [
+      "agreeing"
+    ]
+  },
+  {
+    "start": 5982.93,
+    "end": 5998.412,
+    "text": "Other questions for Mr. Nelson?  Glad you finally got into the program, Mr. Nelson. Okay, thank you.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 6001.397,
+    "end": 6111.781,
+    "text": "All right, so I want to, this next section is really geared towards you all to discuss not just what you heard today, but through the first, second work sessions, in addition to the actual draft funding request presentation. I have a slide here to guide that discussion.  you to separate in your brain what the immediate points are that you would like staff to take away in order for you to be prepared to adopt a funding request a week from today. And then secondly, what are those long-term items that should be considered as we continue through the budget process or we look forward to next year's budget process? So we'll start with question number one, some guiding  items under there are what other information would you like in preparation for the approval of the funding request? What immediate action items do you have for staff? And also what is one takeaway for the request to the Board of Supervisors on March 14th? So what is one thing that you would like to stress in that presentation that would be presented by the chair and the vice chair? So we'll start with question number one and those bullet items if you want to take a minute to think about it. And we'll just have a casual  discussion so you can chime in when you would like. So we're focused on question number one first. And I'm happy to pull back slides from previous work sessions  or from today if that'll help you think through your thoughts.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "request_action",
+      "prioritization",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 6114.707,
+    "end": 6127.414,
+    "text": "Could you pull up the slide that you had near the beginning on the projects under capital improvement that's being, you know, that's included?",
+    "speaker": "grahampaige",
+    "tags": [
+      "request_action",
+      "clarify"
+    ]
+  },
+  {
+    "start": 6137.637,
+    "end": 6158.535,
+    "text": " So I split those projects onto two slides. So this first slide focuses on our capacity and renovation projects, the highest priority items. Is this the one you were looking for, or the next one, which is all the other ones that are just quoted?",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "ask_question",
+      "clarify",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 6158.555,
+    "end": 6164.62,
+    "text": "It might have been the previous one before, maybe before this. One minute. Is it one before this one?",
+    "speaker": "grahampaige",
+    "tags": [
+      "clarify",
+      "ask_question",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6165.841,
+    "end": 6166.682,
+    "text": "No.",
+    "speaker": "elizabethalbarran",
+    "tags": [
+      "disagreeing"
+    ]
+  },
+  {
+    "start": 6166.848,
+    "end": 6205.799,
+    "text": " Okay, wait a minute, is that it? Yeah, I think that's the one, right. Okay, so two and three, number two would be construction or  Because I thought, well, are we looking at two proposed constructions with two and three?",
+    "speaker": "grahampaige",
+    "tags": [
+      "clarify",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 6206.5,
+    "end": 6211.171,
+    "text": "Yes, two new elementary schools. Those are the construction costs.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "clarify"
+    ]
+  },
+  {
+    "start": 6211.191,
+    "end": 6212.093,
+    "text": "OK, right. All right.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 6230.45,
+    "end": 6262.772,
+    "text": " And so what's part of the county executive's proposed budget is funding beginning in FY 24. So that year would fund the design costs and then the following year would have the budget for the construction costs. For elementary school number two, there's the design for a second elementary school budgeted in year five of the CIP.  So technically, the construction isn't part of the five-year CIP, but the intention is that it would be funded in year six.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "clarify",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 6262.792,
+    "end": 6299.754,
+    "text": "OK. But there'd only be one actual construction within five years? Yes. OK. Any answers to the first question that Ms. Komisawa presented?  Are you going to bring the questions back?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "follow_up_request",
+      "request_action"
+    ]
+  },
+  {
+    "start": 6300.236,
+    "end": 6301.22,
+    "text": "Yes, I can do that.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "agreeing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6301.843,
+    "end": 6304.956,
+    "text": "OK, let me get to the right point in the slides.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "logistics_info",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6321.811,
+    "end": 6343.347,
+    "text": " So for me, I would say to answer the third bullet point, the sort of obvious takeaway, I think, is we're really investing in our people and it's been a long time coming and it's really important for us to do.",
+    "speaker": "judyle",
+    "tags": [
+      "opinion",
+      "prioritization",
+      "give_update"
+    ]
+  },
+  {
+    "start": 6347.427,
+    "end": 6361.289,
+    "text": " Judy, I'm not even kidding when that was exactly what I was thinking, investing in our people. As you were saying, I'm like, no. That's what I would say the takeaway is. That's the majority of our budget, investing in our people. Or investing in people.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "agreeing",
+      "opinion",
+      "prioritization",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6370.944,
+    "end": 6423.734,
+    "text": "OK, another takeaway, I think, for question number three would be,  the need for the supervisors to recognize the relationship between the growth in the county and our needs for new schools, because there appears to be a pretty big gap sometimes between those two. So I think that would be another takeaway.  Any other ideas or answers to any one of the three questions on the immediate.",
+    "speaker": "grahampaige",
+    "tags": [
+      "policy_proposal",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 6439.579,
+    "end": 6471.529,
+    "text": "Right. Should we move to the long term. I think we address some issues or potential work sessions and future  further items for discussion in the long term. Is there anything else that we might not have discussed yet that you want to put in the queue to make sure that that gets addressed? Looking towards the adopted budget in the spring or even going into the summer and fall in preparation for the next budget cycle.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "request_action",
+      "prioritization",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 6480.217,
+    "end": 6482.6,
+    "text": " Any answers?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 6482.62,
+    "end": 6504.37,
+    "text": "Again, I'll just say I'm always looking for us to be able to show success or failure or that middle range of the big investments that we make. And largely as it pertains to student achievement.",
+    "speaker": "judyle",
+    "tags": [
+      "express_concern",
+      "prioritization",
+      "opinion"
+    ]
+  },
+  {
+    "start": 6508.316,
+    "end": 6510.038,
+    "text": "To show that our money is being well spent.",
+    "speaker": "grahampaige",
+    "tags": [
+      "reassure"
+    ]
+  },
+  {
+    "start": 6511.621,
+    "end": 6526.82,
+    "text": " Yeah.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6526.98,
+    "end": 6547.057,
+    "text": "No answers to long-term either? We could  If anyone comes up with ideas after the meeting, we could just email you, right?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "request_action",
+      "clarify"
+    ]
+  },
+  {
+    "start": 6548.583,
+    "end": 6549.306,
+    "text": "Yes, of course.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 6559.293,
+    "end": 6585.182,
+    "text": " Well, the long-term items are for like development of our future budget, right? Not this budget cycle, but the next one. And I think we've done a pretty good job because we established that kind of standard of checking in throughout the year versus just getting it brand new at the beginning. So hopefully we'll have chances to check in. We should have chances to check in as the year goes on about what we want to see for next year cycle. Because I don't have anything off the top of my head, but maybe in a month or two, I will.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "clarify",
+      "give_update",
+      "reassure",
+      "hedge",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 6585.668,
+    "end": 6616.579,
+    "text": " Well, hopefully this is the reflection of the conversations where what we've done with the budget process is that it's not just limited to these work sessions. All these topics we've been talking about throughout the year. And that's why this is the draft funding request and not, it was formerly called the superintendent's funding request. This is a school board ACPS funding draft funding request. And hopefully that's,  you see that reflection of the work you've put in over the last full year.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "clarify",
+      "reassure",
+      "give_update",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6619.543,
+    "end": 6639.716,
+    "text": "Yeah, I guess. We really do appreciate all that you have done, you know, to sort of draw the sessions together and come up with good recommendations and plans. Your work is really appreciated by the board.  Ms. Carlson, did I cut you off?",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "reassure",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 6639.736,
+    "end": 6643.281,
+    "text": "My kids are doing this multicultural night.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "give_update"
+    ]
+  },
+  {
+    "start": 6643.882,
+    "end": 6696.49,
+    "text": "I was just going to say, since this is a time for reflection, that I do appreciate this budget cycle. I think the last year's one also went well. There is a switch, and it didn't feel as surprising seeing what was going to be in there and what we were pursuing. And I think that means something. I think we're focusing in on key issues. Our key strategies, like the initiatives,  There weren't a whole, there weren't like a bunch of new ones. I remember when I first got on school board, there were like a ton of like different things to kind of take in. I like how we're fine tuning or honing in on what's important to us. And we're staying involved in the process. And I appreciate that both you and Matt and everyone who's been involved in the budget cycle, I do think there's been a change that I felt that feels positive. And maybe us not having any questions or comments might be a reflection of that in some ways, because we've gotten to give a lot of input along the way.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "opinion",
+      "reassure",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 6702.663,
+    "end": 6712.856,
+    "text": " That's probably true, Miss Carlson, that these sessions have been so well presented until most of our questions might have been answered or addressed before.",
+    "speaker": "grahampaige",
+    "tags": [
+      "agreeing",
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6720.365,
+    "end": 6774.132,
+    "text": "All right, so I will just talk about next steps. You've seen this multiple times now, but just in case you've forgotten, we'll come back next week and  have an action item to approve the funding request. And then the following week, the chair and vice chair will present the funding request to the board of supervisors. Throughout the month of April, we'll be incorporating state revenue updates and other updates we have with expenditures and keeping you updated. And then in May, we will adopt a final budget for FY23.  And as mentioned earlier, for the school board or for the public, if you have any questions or concerns at any time, you can email budget at k12albemarle.org. And that concludes tonight's work session.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 6775.794,
+    "end": 6821.809,
+    "text": "Thank you very much, Ms. Gomez-Almayer, and to your whole team, Mr. Kurtz, Ms. Collins, Ms. Schmidt, Mr. Saunders,  Foreman, Ms. McClain, and Mr. Nelson. So thanks to the whole team for your presentation tonight. I hope I didn't leave anybody out in that group, in that section. But thanks all for the presentation. Next item, other business by either the board members or by Dr. Haas.  So do we have any other business tonight?",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 6824.692,
+    "end": 6846.559,
+    "text": "I just want to say what everyone else has said. I just really want to thank Ms. Kumazawa for really the outstanding technical work and really strong leadership that she's brought to this process since she came on board. It's really been a night and day experience in terms of how she has shifted it. So thank you very much, Maya.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "acknowledge",
+      "agreeing",
+      "opinion"
+    ]
+  },
+  {
+    "start": 6853.289,
+    "end": 6869.808,
+    "text": " Any other business from board members? Okay, if not, our work session is adjourned and thank you all for your participation and attendance. So good night to all.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 6870.85,
+    "end": 6872.732,
+    "text": "Have a good night all. Good night, everybody.",
+    "speaker": "judyle",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 6875.435,
+    "end": 6876.396,
+    "text": "Good night. All right, Dr. Haas.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6876.917,
+    "end": 6878.098,
+    "text": "All right, good night, Mr. Page.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "acknowledge"
+    ]
+  }
+]

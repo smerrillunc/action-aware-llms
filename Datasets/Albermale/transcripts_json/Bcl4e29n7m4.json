@@ -1,0 +1,2058 @@
+[
+  {
+    "start": 0.098,
+    "end": 15.559,
+    "text": " All right. Okay, good afternoon and I call this opening session of our September 9th meeting to order. Ms. Carlson, do you have a motion?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "ask_question",
+      "request_action"
+    ]
+  },
+  {
+    "start": 16.518,
+    "end": 41.935,
+    "text": " Yes, I do. I move that the Albemarle County Public School Board go into a closed meeting as authorized by the Virginia Freedom of Information Act, section 2.2-3711A of the Code of Virginia under subsection 3 for discussion and consideration of the acquisition of real property for a public purpose and subsection 8 for consultation with legal counsel employed or retained by a school board regarding specific legal matters requiring the provision of legal advice by such counsel.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 42.86,
+    "end": 59.261,
+    "text": " Second. Moved by Ms. Carlson, seconded by Mr. Alcaro, that we go into closed session due to or according to several sections of the Virginia Code. Is there any discussion? Ms. Johnston, could you please call the roll?",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 60.823,
+    "end": 76.958,
+    "text": "Lee? Yes. Dr. Acuff? Yes. Mr. Alcaro? Yes. Ms. Osborne? Yes.  Miss Carlson? Yes. Mr. Page? Yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call"
+    ]
+  },
+  {
+    "start": 78.803,
+    "end": 138.178,
+    "text": "Motion carries. We will go into closed session. See you there.  Good afternoon to everyone. It is now 630, and I call this September 3rd meeting of the Albemarle County School Board to order. Ms. Colson, do you have a motion to certify our closed session business?",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 138.739,
+    "end": 153.259,
+    "text": "Yes. I move that the board certify by recorded vote that to the best of each board member's knowledge, only public business matters lawfully exempted from the open meeting requirements of the Virginia Freedom of Information Act and identified in the motion authorizing the closed meeting were heard, discussed, or considered in the closed meeting.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "procedural_move",
+      "vote_call"
+    ]
+  },
+  {
+    "start": 155.163,
+    "end": 155.523,
+    "text": " Second.",
+    "speaker": "judyle",
+    "tags": [
+      "procedural_move",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 156.364,
+    "end": 168.015,
+    "text": "It's been moved by Ms. Colson, seconded by Mrs. Lee, that we certify that everything in the closed meeting was according to the motion to go into closed meeting. Ms. Johnston, could you please call the roll?",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "vote_call",
+      "request_action"
+    ]
+  },
+  {
+    "start": 169.897,
+    "end": 170.477,
+    "text": "Dr. Acuff?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "request_action"
+    ]
+  },
+  {
+    "start": 175.262,
+    "end": 175.522,
+    "text": "Yes.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 176.983,
+    "end": 188.467,
+    "text": "Mr. Alcaro? Yes. Ms. Osborne? Yes. Ms. Colson? Yes.  Ms. Lee? Yes. Mr. Page?",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call"
+    ]
+  },
+  {
+    "start": 188.928,
+    "end": 189.869,
+    "text": "Yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 189.889,
+    "end": 190.589,
+    "text": "Motion carried.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 191.59,
+    "end": 267.141,
+    "text": "Thank you. As we go into the moment of silence, I'd like for us to be aware or to remember the upcoming anniversary, 20th anniversary of 9-11. And we should remember all of the victims who died at either the World Trade Center, the Pentagon, or in that isolated field in Pennsylvania.  We'll have a moment of silence.  Thank you. And now, introducing the members of our board, Dr. Kate Acuff.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 267.161,
+    "end": 269.224,
+    "text": "Kate Acuff, Jack Jewett District.",
+    "speaker": "kateacuff",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 270.346,
+    "end": 275.974,
+    "text": "John Orell Caro. John Orell Caro, at large. Katrina Colson.",
+    "speaker": "Unknown",
+    "tags": [
+      "logistics_info",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 277.476,
+    "end": 278.978,
+    "text": "Katrina Colson, Rio District.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "public_addressing",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 279.739,
+    "end": 280.28,
+    "text": "Judy Lee.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 281.061,
+    "end": 282.283,
+    "text": "Judy Lee, Rivanna District.",
+    "speaker": "judyle",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 284.085,
+    "end": 286.93,
+    "text": "Dave Oberg is not with us tonight. Ellen Osborne.",
+    "speaker": "Unknown",
+    "tags": [
+      "logistics_info",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 287.49,
+    "end": 289.373,
+    "text": "Ellen Osborne, Scottsville District.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 289.842,
+    "end": 295.811,
+    "text": " I'm Graham Page, Samuel Miller District. And we have our student rep, AJ Johnson.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 297.213,
+    "end": 298.074,
+    "text": "Hello, good afternoon.",
+    "speaker": "kateacuff",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 301.399,
+    "end": 304.764,
+    "text": "Could I have a motion to approve our agenda?",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "request_action"
+    ]
+  },
+  {
+    "start": 306.666,
+    "end": 308.309,
+    "text": "I move that we approve the agenda.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 309.45,
+    "end": 309.791,
+    "text": "Second.",
+    "speaker": "judyle",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 310.772,
+    "end": 321.932,
+    "text": "It's been moved and seconded, moved by Mr. Alcaro, seconded by Ms. Lee, that we approve the agenda. Any discussion on the motion?  If not, Ms. Johnston?",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 325.655,
+    "end": 341.129,
+    "text": "Mr. Alcaro? Yes. Ms. Osborne? Yes. Ms. Colson? Yes. Ms. Lee? Yes. Dr. Acuff? Yes. Mr. Page? Yes. Motion carried.",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 341.649,
+    "end": 345.673,
+    "text": "Thank you. We need a motion to approve our consent agenda.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 347.214,
+    "end": 350.157,
+    "text": "I move that we approve the consent agenda.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move",
+      "vote_call"
+    ]
+  },
+  {
+    "start": 353.225,
+    "end": 353.585,
+    "text": " Second.",
+    "speaker": "judyle",
+    "tags": [
+      "procedural_move",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 355.308,
+    "end": 366.482,
+    "text": "Moved by Mr. Alcaro, seconded by Ms. Lee, that we approve the consent agenda. Discussion on the motion? Ms. Johnston, roll call, please.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "vote_call",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 369.085,
+    "end": 379.979,
+    "text": "Ms. Osborne? Yes. Ms. Colson? Yes. Ms. Lee? Yes. Dr. Acuff? Yes. Mr. Alcaro?",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 381.02,
+    "end": 381.2,
+    "text": "Yes.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 382.001,
+    "end": 382.742,
+    "text": "Mr. Page?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 383.279,
+    "end": 383.619,
+    "text": " Yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 384.42,
+    "end": 385.141,
+    "text": "Mission carried.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 385.822,
+    "end": 396.592,
+    "text": "Thank you. We are now at our spotlight on education, and this will be presented to us tonight by Ms. Lee.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "logistics_info",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 396.612,
+    "end": 412.408,
+    "text": "Thank you, Chair Page. As you mentioned, in two days, our nation will commemorate the 20th anniversary of the 9-11 attacks. Those terrible and life-changing events still are impacting our world today. I'm sorry, can everyone hear this, whatever's going on in the background here?",
+    "speaker": "judyle",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "ask_question",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 414.532,
+    "end": 415.333,
+    "text": " I think we're good.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "reassure"
+    ]
+  },
+  {
+    "start": 415.975,
+    "end": 522.205,
+    "text": "Okay, sorry. For it was after those attacks that our nation went to Afghanistan, it became a country governed by the Taliban divided by dispute and conflict by violence and inhumanity, especially against young girls and women.  After being driven from power, the Taliban has returned. And once again, they're on the front page of our news reports. Our special guest this evening knows from personal experience what this may foretell about the future. She already has been transformed in a very meaningful way. Once detached from the value or benefits of public education as a very young student, she has transformed today. Maybe it was the little kids she saw on the streets of Kabul selling whatever they could.  When she asked them why, they told her so they could afford to buy a pencil for school. Her view of education is much different now. So much so that when she and her family were desperate to find safe passage out of Afghanistan last month, after her first priority, which was the safety and protection of her family, her second priority was to email her principal, Dara Bonham at Albemarle High School, to ask about her class schedule and teachers for this year. Sarah Fortan is a courageous young woman.  one who already is wise beyond her years. She lived a lifetime in a matter of weeks last month, not knowing whether she would live or die as she faced drawn guns at the Kabul airport. And she is with us this evening to open our eyes to some of those experiences and to the insight of a student from whom we need to hear.  Sarah, we are grateful that you and your family are safely back home. And we have great hope that your family members who are yet to join will safely do so very soon. We are eager to hear your thoughts on how much education has come to mean in your life.",
+    "speaker": "judyle",
+    "tags": [
+      "public_addressing",
+      "express_concern",
+      "acknowledge",
+      "reassure"
+    ]
+  },
+  {
+    "start": 525.81,
+    "end": 555.887,
+    "text": "First of all, thank you very much for having me. And I hope you're all doing well and staying safe. I'm Sarah Frotan. I'm 14 years old.  And I'm currently a freshman in Albemarle High School. I've been attending the schools in the Albemarle district for about three years now. So, yeah.",
+    "speaker": "sarafrotan",
+    "tags": [
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 555.907,
+    "end": 562.053,
+    "text": "Sarah, could you tell us a little bit about how much education has come to mean in your life?",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "request_action"
+    ]
+  },
+  {
+    "start": 564.375,
+    "end": 693.125,
+    "text": "Yeah.  Well, a couple of years before, like before we went to Afghanistan, of course, I had to take education seriously, especially because my mother and my father would always encourage me to do good on my tests, my just education. But I wasn't like really I really didn't care that much the way I do now.  When I went to Afghanistan and when I saw the kids there, I would see them like two or three on the streets and one of them sleeping, one of them just crying, one of them was holding bags in their hands. And I would be like, why are you guys here? Why don't you guys go home? It's dangerous out here. You'd be like, we're working here so we can afford a pencil because we don't have a pencil for tomorrow.  I would just feel so bad because knowing that I have pencils at my house, I have so many opportunities. And I just feel so lucky, especially at that moment when they would tell their stories to me. I would just feel really lucky, and I would understand how much opportunities God has gave me.  it would really hurt to see those little kids and you wouldn't be able to do a lot for them. But yeah, I'm trying to focus a lot in my education these days. And hopefully one day I can grow up and I can help those students who are in need in Afghanistan, or it's not just Afghanistan, it's not just students in Afghanistan, it's many countries that are in need and the students there need help and  Yeah, so hopefully one day I can help that situation for at least some students.",
+    "speaker": "sarafrotan",
+    "tags": [
+      "express_concern",
+      "opinion",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 693.145,
+    "end": 704.981,
+    "text": "Thank you so much, Sarah. How long were you in Afghanistan doing this last visit? When did you go and when did you return?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 706.323,
+    "end": 708.025,
+    "text": "So I went on",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "give_update"
+    ]
+  },
+  {
+    "start": 709.388,
+    "end": 723.289,
+    "text": " I think it was today. We went today, September 9, 2020. And we came back last month on the 23rd.",
+    "speaker": "sarafrotan",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "clarify"
+    ]
+  },
+  {
+    "start": 723.329,
+    "end": 730.139,
+    "text": "OK. Yeah.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 730.159,
+    "end": 732.763,
+    "text": "Great. Are there any questions for Sarah?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 737.857,
+    "end": 767.796,
+    "text": " Sarah, do you still have family who are either trying to come to the United States or who have come just recently? I have two uncles of mine that came, but my grandfathers, my grandmothers, and I have two uncles still there and my aunts, they're all still there.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 768.434,
+    "end": 864.132,
+    "text": " And we're just really nervous. And every single day we wake up hoping to hear some great news. But every day we just wake up and we just keep seeing the news that each day keeps getting worse and worse and worse. So we're trying to find a way for them to come, but we're not sure if that's going to be possible or not. But we're just really scared, especially since my dad is a linguist.  A couple of weeks ago, the Taliban entered my grandfather's house and they hit my grandfather. They were looking for my dad and my uncle. My uncle worked with the Americans as well. They hit my grandfather because my grandfather were telling them they are in America, they're not here, but they thought we were still in Afghanistan. So they thought my grandfather was lying and they hit him.  very very much and he was all bruised and it was with a very long belt but yeah and in the news you guys may see that they're helping kids they're helping families but who knows if they're just acting they're just playing nice until um the soldiers get out of Afghanistan or maybe they have changed but I don't think they have changed um so  Yeah. Our family are still in Afghanistan, um, which is really sad for us and really scary for us.",
+    "speaker": "sarafrotan",
+    "tags": [
+      "express_concern",
+      "hedge"
+    ]
+  },
+  {
+    "start": 865.714,
+    "end": 867.336,
+    "text": "I hope you get good news soon.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "reassure",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 868.057,
+    "end": 882.495,
+    "text": "Yeah. Thank you. It's going to hurt a lot to find out that your family, God forbid has been killed because of you or because of what you have done in your life. So yeah.",
+    "speaker": "sarafrotan",
+    "tags": [
+      "express_concern",
+      "opinion",
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 887.69,
+    "end": 889.554,
+    "text": " Any other questions for Sarah?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 890.356,
+    "end": 894.085,
+    "text": "Just thank you so much for sharing your perspective and your stories here.",
+    "speaker": "judyle",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 894.727,
+    "end": 902.064,
+    "text": "Yeah, you're welcome. Yeah, Sarah, you are really a brave, brave young lady. And so we wish you and your family all the best.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "reassure",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 902.806,
+    "end": 903.387,
+    "text": "Thank you.",
+    "speaker": "sarafrotan",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 908.665,
+    "end": 939.29,
+    "text": " If I could just one more, Sarah, I know you're just just making the getaway, but I anticipate that over the next year we will see some additional students to Albemarle County Public Schools that have come from Afghanistan. What I mean, you don't you could think about it, but what kinds of things do we as a division should we be thinking about?  integrating them into our school division?",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "request_action",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 942.074,
+    "end": 1018.948,
+    "text": "Well, I know that they are absolutely going to work very hard. And I'm pretty sure you guys won't have a lot of problems with them, because they've had a rough life in the past. And every single time they're going to remember their past, they're going to try to work even more harder.  Um, my cousins that are still there, I remember them going to school and for lunch, they would, so there's four of them and they would buy a cucumber and they would split it and four halves. And each one of them would take that with a little piece of bread. And just seeing that really made me very, very sad. So the students that come to Albemarle.  they're going to remember their past. And I don't think you guys are going to have too much problems with them because being an Afghan myself, we try to always work very hard. We try to learn from others in a positive way. So, yeah.",
+    "speaker": "sarafrotan",
+    "tags": [
+      "reassure",
+      "opinion",
+      "hedge",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 1018.988,
+    "end": 1028.751,
+    "text": "Thank you. I wasn't anticipating that that wouldn't be the case. I was just wondering what we could do to make it easier.  But thank you.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "hedge",
+      "ask_question",
+      "request_action"
+    ]
+  },
+  {
+    "start": 1029.511,
+    "end": 1103.878,
+    "text": "Yeah. I mean, the schools that I have been to, my brother, my sister, and my other little brother, they're all in Albemarle schools. One is in Jewett, and the two little ones are in Whitbrook. And me, myself, I have been getting so much support from my principal, my teachers, my friends.  I'm walking around the halls and someone just comes as, Oh, weren't weren't you in the news, I was like, I would be like yeah I was. And they would be like, Thank you for sharing your past or your experience.  Welcome back. So everyone has been really, really encouraging. Everyone has been very supportive. My principal, um, they have been helping a lot of giving us rides to home or to school. Um, so I, I know you guys are going to do well and helping them because. That's just, you guys are very nice and kind people. So I know you guys are going to do awesome and yeah.",
+    "speaker": "sarafrotan",
+    "tags": [
+      "give_update",
+      "reassure",
+      "public_addressing",
+      "opinion"
+    ]
+  },
+  {
+    "start": 1106.052,
+    "end": 1107.92,
+    "text": " Thank you for that. You're welcome.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1109.286,
+    "end": 1171.901,
+    "text": "Thank you so very, very much, Sierra. Yeah, you're welcome.  I overlooked reading this proclamation that has to be in our minutes since we are electronic. The minutes of this meeting should reflect that this meeting is being held electronically, pursuant to Virginia state law and Albemarle County ordinance, because the COVID-19 pandemic makes it impracticable and unsafe to assemble a quorum physically in a single location.  The meeting is being communicated to the public electronically through Zoom and streamed live on the Albemarle County Public Schools website. And public comment may be offered through the Zoom waiting room feature in accordance with the school board's protocol or by written submission. Moving on with our agenda, our next item, announcements. Any board members with announcements?  if not school board and superintendent business.",
+    "speaker": "Unknown",
+    "tags": [
+      "logistics_info",
+      "procedural_move",
+      "public_addressing",
+      "request_action"
+    ]
+  },
+  {
+    "start": 1173.804,
+    "end": 1218.831,
+    "text": "So I just wanna take a second real quick and just thank Sarah for coming out tonight to share her story. Every week I send out a note to all the employees and I included her news story in the note. And I just, if Sarah, if you're still watching on the stream, I had, I think nine emails from teachers around the county thanking you  for being so brave and to tell your story, because by telling that story, it builds empathy for others. And it really is quite a life lesson for all of our students and all of our staff in the county. So thank you so much, and thank you for coming out tonight. We do have one piece of Supt's business from Dr. Kaiser.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 1221.747,
+    "end": 1354.754,
+    "text": " Good evening board members, I just wanted to give you a quick hiring update since I did a little bit of that last month. Next month at the October business meeting the team from human resources will be here to go into a much more depth in depth hiring report but to date we have hired 191 teachers.  90 of those teachers are at the elementary level, 101 are at the secondary level. As I shared the last time, this has been a pretty challenging year when it comes to hiring for all of our positions, both teaching staff and support staff. We still have three full-time positions still to go.  We are still looking to hire a full-time middle school exploratory teacher, a Spanish teacher, and a special education teacher. All of those searches are in process and we are hoping that those will be filled in the very near future. We also have several part-time positions across the school division of foreign language in the elementary school teacher.  to very part-time ESOL positions, a part-time talent development, and a part-time intervention. Again, all of these searches are in process. And like all of our positions, if we do not have a teacher in that role at this time, we have hired substitutes to cover, and we are working as quickly as possible to get those positions filled with the right people. As far as our support services go, in our school-based support services, we have still a range of classified positions.  several teaching assistants, a nurse, an OA, a couple of long term subs, and other positions. And then in our building support, building services, we're still looking to hire five people, one in the Department of Technology,  four in EDEP, three in fiscal services, 11 for child nutrition, and we're still looking for 18 in transportation. Obviously, the lack of these positions being filled forces our directors and our principals to think creatively to make sure that the work is getting done and accomplished in various and creative means, but hopefully we'll be at normal capacity and full capacity very shortly.  So again, I just wanted to provide you a brief highlight, and the HR team will be here next month. Thank you.",
+    "speaker": "clarekeiser",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "reassure"
+    ]
+  },
+  {
+    "start": 1358.138,
+    "end": 1363.465,
+    "text": "Thank you, Dr. Kaza. Any questions from any of the board members on Dr. Kaza's report?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1366.649,
+    "end": 1391.928,
+    "text": "A quick question about the transportation, because I know we just sent out a message to families. I believe it was to families, maybe it was to me as a school board member.  Is 18 more vacancies than we had before? Is it increasing? Is it the same? And what's the timeline on getting those positions filled? Just because the thing said,  if you could drive for the rest of the year. I guess I'm just kind of curious what the outlook is. Sure.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "request_action",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 1392.129,
+    "end": 1434.662,
+    "text": "And I'll do my best to answer this. One of the things that I will say that the timeline is as soon as we can possibly film them. So we are out doing recruiting. We've got some drivers that are going through training and we'll be finishing that up. And so they will come into the scope of the 18 that we are still down.  We have done some collapsing of routes to account for the need for drivers and some pieces like that. But again, we will get these filled as quickly as we possibly can. I wish I had a more definitive answer in that for you. But unfortunately, it really is related to who we have in the job pool. And that's why we're out there trying to get people to come in and want to work in those positions.",
+    "speaker": "clarekeiser",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "reassure",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1434.777,
+    "end": 1445.293,
+    "text": " Yeah, Claire, and I'm sorry, let me make it, so I thought, and tell me if I'm wrong, I thought we only needed like seven or nine before, so I guess I'm just worried, are we losing bus drivers? Are we gaining them?",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "clarify"
+    ]
+  },
+  {
+    "start": 1446.194,
+    "end": 1458.473,
+    "text": "I would say it's a both. I think that we have lost some and we are gaining some, so it really is an in-out along the way. Rosalind has jumped in here, so I'm hoping that she can be more eloquent in this than I am being right now.",
+    "speaker": "clarekeiser",
+    "tags": [
+      "clarify",
+      "give_update",
+      "defer_to_expert",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1458.824,
+    "end": 1494.244,
+    "text": " Claire, correct me if I'm wrong, the 18 is not just drivers, they're also looking for some van drivers and some transportation aids. I would say our shortage does feel greater this year, and we are anticipating it not improving anytime soon. We do have a couple of trainees in the pipeline, but similar to other applicant pools, it's pretty shallow. So that message that I went out to families is the first to raise that we need support here.  because we are concerned about her outlook. Thank you both.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "clarify",
+      "give_update",
+      "express_concern",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 1494.264,
+    "end": 1708.267,
+    "text": "I know I was going to talk about this later in the meeting, but I'll just say that we have, I met with the lead drivers earlier in the week, Rosalyn and I met with them and their leadership, talked with them a little bit, answered their questions, tried to address concerns that they've had over time.  One of the things we are establishing and we let them know about it is that we are establishing a $2,500 what we're calling a retention stipend that will be paid out monthly for the duration of this school year.  for all FLSA non-exempt employees in the transportation department. So that would include bus drivers, aides, vehicle maintenance facility, because while we've all borne the brunt of the complexity and  the additional work that's gone on during this pandemic, our transportation department has really taken the lion's share with much of the work that they've had to do. So what we're doing is putting that in place, but it's also assigning those. So for people who want to come on board, and I'm putting together a video next week where we're going to be transparent with our community, let them know the challenges we're having,  let them know what they can do to help us get through it and really rally around our bus drivers and our transportation department. Normally during normal times, bus driver safety or bus safety week is October 18th. And we usually celebrate bus drivers at that time. I think we need to do it now and really show our bus drivers how much we appreciate them and do as much as we can to make their lives easier.  Another critical area that's kind of, it's not tied to this but it bears mentioning is also our school nurses. They are also another employee group that's really taken on the brunt of the pandemic.  And so we've instituted a $2,500 retention stipend for them as well. And we let them know about that today. And also a signing bonus, because we have a couple of vacancies in that area. These are critical areas. As you know, because of the geographic size of Atmoll County, we're the sixth largest county by land area in Virginia, 726 square miles. We cannot function without those buses.  But I'll say one more thing to put it in perspective. You know, just when you're out driving tomorrow morning or in the afternoon, remember, sometimes the buses kind of fall into the background because you get used to seeing them. But when you really pay attention, when you're really looking for them, you see the buses all around the county. You see them all day and you see those drivers out there really working hard.  And I think I speak for everyone when I say that we value our bus drivers. I'm a bus driver. And it's a great job. It's a great for anybody that's a part-time student. If you're thinking about something to do to make a little extra money and have great health care benefits, or if you're part-time in another job, come on and join us. And we really value our bus drivers. They're one of our symbols of Albemarle County schools.  So now I will say at the end of the meeting, Mr. Page.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "public_addressing",
+      "acknowledge",
+      "logistics_info",
+      "request_action",
+      "reassure"
+    ]
+  },
+  {
+    "start": 1708.288,
+    "end": 1717.048,
+    "text": "OK, thank you, Dr. Huss. Next on the agenda, public comment. Vice Chair Carlson.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1719.172,
+    "end": 1823.436,
+    "text": " Okay, so we have three people signed up for public comment today. I'll start off by reading the public comment guidelines. So the school board invites and actively seeks the public's input in the matters relevant to school board governance and provides for time during its business meetings to hear from Albemarle County residents and community members.  As authorized by ordinance of the County of Albemarle, the school board will hold its meetings electronically during the pandemic. The school board is still committed to encouraging public comment despite its need to meet on a virtual basis. And for this reason, there will be two ways for the public to provide comment. First, as always, written comments can be sent to the school board clerk. Prior to the start of the meeting, they can also be emailed directly to the school board. Second, so long as the school board holds its meetings electronically, members of the public wishing to provide public comment during the meeting may sign up online by 2 p.m. the day of the meeting.  This is former rules, so I had written here, we have lots of speakers tonight, but that is not the case tonight. We only have three, so each speaker will have three minutes to speak. I will give them an indication when they've reached a two minute mark. It's just me holding up my finger, so you might miss it. Speakers during the meeting, are those submitting written comments should state their name and address or magisterial district.  speakers should limit comments to those matters that are relevant to school board governments or the operations of the school division. And although the school board will not respond to comments made during the public comment period, school board members may address comments at the end of the meeting agenda under other business. So with that, I will announce all three speakers in order. We have Rochelle King, Nikki Athey, and John, no last name given, but from the Whitehall District. So,  Miss King, if you are on.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "public_addressing",
+      "logistics_info",
+      "procedural_move",
+      "clarify"
+    ]
+  },
+  {
+    "start": 1826.684,
+    "end": 1829.431,
+    "text": "Hello.",
+    "speaker": "rachellekeng",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1829.451,
+    "end": 1830.333,
+    "text": "Can you hear me?",
+    "speaker": "sarafrotan",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 1831.616,
+    "end": 1831.817,
+    "text": "Yes.",
+    "speaker": "rachellekeng",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 1836.749,
+    "end": 1838.554,
+    "text": "You can go ahead and start, Miss King.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "request_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1838.674,
+    "end": 1838.734,
+    "text": "OK.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1839.254,
+    "end": 1955.475,
+    "text": " Dr. Haas, Mr. Page, members of the school board, school leadership, teachers, and parents. Our names are Michael and Rochelle Kang. Thank you for the opportunity to talk with you today regarding our concerns about the mask mandates on disabled children and the impact of their education.  We are both physicians as well as parents of a student at Stone Robinson Elementary. I work at Martha Jefferson Hospital and Mike works at UVA. We have been in the center of the COVID crisis as professionals and as parents. We understand the stress on the medical community, parents, and educators. Our daughter Malia is a third grader at Stone Robinson Elementary and is in the special education class.  She has Angelman syndrome, so she is nonverbal and has seizures, physical disabilities, and sensory issues. We have tried multiple programs with occupational therapists and behavioral therapists at both home and school to help her wear a mask. But as recognized by her neurologist and her developmental pediatrician, she is not able to wear a mask despite our efforts. Her physicians have written a letter of mask exemption from public spaces. Special education staff recognize her inability to keep the mask on.  On the day before school started, we received a phone call that our daughter would not be able to attend school because she was not able to keep a mask on. We were offered virtual school as the only option, which we know caused regression for our daughter last year. As physicians, we support mask mandates, but we were taken aback by the response of the special education department and their handling of the news. Parents who reached out to the special education leadership were sent an email with minimal explanation.  Parents are left confused it felt discriminatory and insensitive to the needs of our children. Thankfully we have an incredible group of teachers and staff at Stone Robinson have stepped into the gap. They have designed individual programs for special education students allow them to have outdoor learning opportunities. We appreciate all of the efforts to integrate educate our child but this model is also not sustainable as it is weather weather dependent.",
+    "speaker": "rachellekeng",
+    "tags": [
+      "public_addressing",
+      "express_concern",
+      "give_update",
+      "opinion"
+    ]
+  },
+  {
+    "start": 1955.978,
+    "end": 2049.504,
+    "text": " We are speaking out today because we like to collaborate with Dr. Haas, the school board, and the community physician advisors to be a part of the team that designs a safe learning environment for all, while not punishing disabled students who cannot wear a mask. We like to be a part of the medical advisory team to represent the children with special needs so that their voices and their families are heard.  Is there a middle ground for our students that still allows us to follow CDC VDH guidelines and to ensure the safety of all staff and children? COVID is evolving and dynamic and we need long-term solution. As the weather cools, our children will no longer be able to attend outdoor school. The gap of access to education will only increase. We would like to discuss options for ventilated large indoor spaces to bring our children into school areas designed for those who cannot wear masks.  We would also like to follow the mitigation measures to make sense for the prevalence of COVID infections specific to our community. Some of these extreme measures may be hurting our children more than helping them. We recognize that our children are a minority of the student body. We also recognize the safety of all those involved is paramount, but let us work together as a team to think of creative solutions that do not discriminate nor punish our children.  Please remember the children who are severely affected by your mask policies. Please reassure us that you are working on ways to bring our children back into the schools. We appreciate your attention today and appreciate everything that you've done through this pandemic. Thank you very much for your time this evening.",
+    "speaker": "rachellekeng",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "request_action",
+      "follow_up_request",
+      "policy_proposal",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2050.786,
+    "end": 2061.455,
+    "text": "Thank you so much for those comments. They're appreciated. The next speaker will be Nikki Athey.  Can you hear me?",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 2061.936,
+    "end": 2259.927,
+    "text": "I can hear you. I can't see. OK, yeah, my my video is not working. Thanks for having me. I'm Nikki Athey. I'm from Samuel Miller. I sent you guys all an email. I'm not nearly as prepared as normal, because to be honest, I don't think you guys really listen.  The folks who just spoke, they spoke from the heart. And I believe every single thing they had to say. And to be 100% honest, I do not believe that they will be listened to. I'm sorry, folks. That's what my observation has been all summer long. I disagree with the vast majority of initiatives that have been taken by the administration and the board. I have taken extraordinary efforts to read every policy, every piece of material,  And why I don't even have a child. We're, we're perspective adoptive children, I have nephews and Henley and my sister in law sent me things that I could not believe. And so I started reading and the more I read the Saturday.  And so, yeah, I have a disagreement with what you guys are doing. And that's fair. That's fair. And I'm well aware that you guys are the elected officials. But to be elected, of course, there's a level of respect of that position. But you're a representative. And to be a representative, it's your job to represent the community and weigh the merits of arguments. And that has not happened. The level of effort that's gone in to ignore  the community is egregious. I can't even believe it. I'm sorry for my frustration. I've come in here and parents have come in here and citizens have come in here and they have laid out the most beautiful, eloquent messages. I've seen the things they've sent in. And then I've seen what ACPS has put out as the survey results. I've seen what they've put out as, oh, this is what the community loved this stuff.  And guess what? They haven't. And so what do we have to do? We actually have to spend money to get FOIAs out there and see what was really out there. And guess what? What it wasn't. What it wasn't was everybody loves this stuff. So what I'm asking you guys, number one, as the board, is to launch a full, impartial, and objective investigation into the community engagement practices of the administration.  I believe, and I'm confident that I can prove 100% that the administration is, I'm not going to attribute motive, but I'm saying the data has been manipulated in surveys as affirmative. They've been crafted a certain way. Communications data with the public has been skewed such the results support desired outcome.  They leave behind critique. They leave behind alternative positions. Again, I'm not trying to be frustrated. You guys are good people. I know your intentions are good. All of you, I know that. But I don't know if it's an echo. I don't know what the problem is, but I am one to be part of the solution. I'll tell you that for sure. A lot of people want to be part of the solution. I asked the board to take a broader role in evaluating policy. Individually, each of you. I read every single policy.  After a few months of observing, I see, and I couldn't see, I tried to see the live stream. I don't know if you've already passed the consent agenda, but yeah, is it time?",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "express_concern",
+      "request_action",
+      "disagreeing",
+      "public_addressing",
+      "follow_up_request",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2260.407,
+    "end": 2261.388,
+    "text": "Yeah, I'm sorry.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2261.728,
+    "end": 2262.469,
+    "text": "There's three people?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 2263.67,
+    "end": 2331.48,
+    "text": "Okay. Yep, three minutes. And just to answer your question real quick, we have passed the consent agenda already. So the next speaker is going to be,  John Alton, I believe. Mr. Alton, I saw your name a second ago. Oh, yeah. Are you there? Mr. Alton, if you can hear us, you're time for public comments now and there's nobody else, so we can't loop you back.  I can hear my kids getting ready for bed. They clearly are tired. Okay. So I don't, I don't, I see him on, but I don't hear anything. He's not muted. So I'm assuming you can hear us or he's connected to audio. So I say we, with that, we conclude public comment. I'm sorry, Mr. Alton, but you can always send your comments via email or you can call school board members, or you can sign up for our next meeting.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 2335.987,
+    "end": 2364.677,
+    "text": "Thank you, Mrs. Carlson.  Our next item on the agenda, the COVID update by Dr. McLaughlin and Ms. Gomez.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 2365.18,
+    "end": 2382.023,
+    "text": " I hope it's well as an update staff nation program. With me tonight is I mean, good as a nurse. Some insights, any questions you may have. Let's get started. I'm seeing some freezing on my end. Okay.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "public_addressing",
+      "follow_up_request",
+      "logistics_info",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2383.625,
+    "end": 2391.876,
+    "text": "You're breaking up for me. I was just about to do a chat. Is that anybody else? Right. I couldn't understand anything.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "logistics_info",
+      "ask_question",
+      "clarify",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2392.557,
+    "end": 2393.078,
+    "text": "Right.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 2421.256,
+    "end": 2444.293,
+    "text": " He was still frozen, Dr. McLaughlin.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "logistics_info",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2447.918,
+    "end": 2453.283,
+    "text": " It sounds like he was going to hand it off. Was he going to hand it off to Eileen? Is she on?",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 2453.303,
+    "end": 2459.97,
+    "text": "So I would ask if Rosalyn Schmidt and Eileen can kind of talk through this. OK.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "request_action",
+      "defer_to_expert",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2460.23,
+    "end": 2465.676,
+    "text": "Is it coming through a little bit better for all now?",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 2467.778,
+    "end": 2468.839,
+    "text": "It's not that much better.",
+    "speaker": "Unknown",
+    "tags": [
+      "opinion",
+      "disagreeing"
+    ]
+  },
+  {
+    "start": 2469.039,
+    "end": 2471.301,
+    "text": "No.",
+    "speaker": "kateacuff",
+    "tags": [
+      "disagreeing"
+    ]
+  },
+  {
+    "start": 2473.463,
+    "end": 2492.558,
+    "text": "So I will take it. If you just give me a moment to get to the slides.  Thank you, Rosalyn.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "acknowledge",
+      "request_action",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 2501.35,
+    "end": 2503.273,
+    "text": "Rosalyn, Dr. McLaughlin is sharing the slides.",
+    "speaker": "joeletteri",
+    "tags": [
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2503.673,
+    "end": 2567.969,
+    "text": "Yeah, it hasn't come up on my screen yet.  Oh, okay. So we're here tonight to present the COVID-19 status update, as well as an update on our staff vaccination program. So Eileen Gomez, our school nurse and COVID coordinator can also provide some insights to any questions that you may have. As a reminder, we have realigned the format of our update with the most recent guidance provided by the Virginia Department of Health.  As all public schools in Virginia are now required to open five days a week for in-person instruction, the newly updated guidance instead provides five steps for school divisions to consider as operational decisions are made during the 21-22 school year. It's not advancing. So, Claire, I think you have the slides. It's okay.  through now? No, it's still broken up.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "give_update",
+      "cite_external_source",
+      "defer_to_expert",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2568.671,
+    "end": 2574.865,
+    "text": "Okay. I can listen to you.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2574.885,
+    "end": 2576.83,
+    "text": "Okay. I can share the slides if you would like.",
+    "speaker": "clarekeiser",
+    "tags": [
+      "logistics_info",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 2612.298,
+    "end": 2800.508,
+    "text": " All right, thank you, Dr. Kaiser. If you could go to slide three. Thank you. All right, so the first of these steps is to evaluate the level of community disease transmission at the local level.  The level of community transmission is determined using two measures. The first is the total number of new cases per 100,000 people in the past seven days. The most recent data we have is from this Monday. And at that time, our seven-day total was 218, putting us in the highest transmission category.  The second measure is the percent of tests that are positive during the past seven days. And our latest percent positivity is 6.4%, which puts us in the moderate transmission category. So when the two indicators are at different levels, the VDH recommends using the indicator with the higher value as your community transmission level. So that would put us in the high category at this point. The second step is to understand the community level of vaccination coverage.  So our vaccination rates among eligible school-age students continue to be a bright spot. In Albemarle County, 84.3% of 12 to 15-year-olds are vaccinated, that's an increase from our last update, and 86.9% of 16 to 17-year-olds have received at least one dose of the vaccine. That is also an increase. So our fully vaccinated numbers for 12 to 15-year-olds are 75.2%, and 16 to 17-year-olds is 79.1%.  The third step in our operational decision making process is to consider the impact the virus is having on our schools. So VDH prepares this table. So if I could speak to the first one, which is transmission within the school. So as expected, we do have cases in our school as students are back in the buildings. But today we have  no evidence of transmission within our schools. In full transparency, we are monitoring one circumstance where we have a cluster of cases at a school. So that's under investigation, but nothing has been determined this time. So as expected, we are also starting to see increases in the number of students who are out of school because of quarantine requirements. And with the fact that we are in the middle level of this impact of this point.  And then the last point to monitor staff absences, we have implemented a new reporting protocol with our principals where they report their staff absences each Tuesdays. And this has helped us establish a baseline of absences that we will continue to monitor each week. So we use these statistics to determine a layered approach of our mitigation strategies in our schools and use those to determine which ones would be in place.  And as a reminder, these are the medication strategies currently in place at our schools. And at this point, we'd recommend no significant changes. And with that, I will hand it over to Dr. Kaiser, who will give an update on our vaccines.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "give_update",
+      "clarify",
+      "logistics_info",
+      "express_concern",
+      "reassure",
+      "defer_to_expert"
+    ]
+  },
+  {
+    "start": 2802.158,
+    "end": 2996.848,
+    "text": " Thank you, Mr. As, as you all are aware, with the resolution that you all put into place at a prior meeting, beginning on the 15th of September, all of our employees will be required to vaccinate or shoot show proof of weekly negative coven test, and we are currently continuing to collect  vaccine status information from our employees. We are getting very close. We still have about 160 employees to go. When I talk about these employees, this includes all of our regular employees, not our substitutes or other temporary employees. As you can see, overall, of our entire staff of those reporting, about 94% of our  staff has reported already, we have about an 84.8% fully vaccinated rate. And when it comes to our teachers the vaccination rate is higher with with the vaccination rate at about 90.9%.  You see the numbers there, those that are partially vaccinated, not vaccinated, and then we did give our employees an opportunity, if they preferred not to share that information with us. And again, we have about 160 outstanding surveys.  70 of those surveys of which are teachers. When it comes to that actual testing piece of it, anybody who is considered not fully vaccinated will be required to test. Those that you see here listed as partially vaccinated and not vaccinated and prefer not to answer will need to do the weekly tests. We are partnering with a company called Genetworks. They are based out of Richmond and that is where their lab is.  The type of tests that they are going to be doing is a PCR swab test. We have had a number of employees who have asked if the saliva test is a feasible or possibility, and we are working with two networks to see if that is possible as we know that that may make it a little bit more.  intriguing for some of our employees to do. We are looking at doing the testing at multiple testing sites across the school division. We are looking at four locations right now, two in the northern feeder pattern, one in the western, and one in the southern feeder pattern. These locations will be available on various days of the week and also through varying schedules that will allow our employees to go to a location and at a time that is most convenient to them.  One of the things that we have also done is we are opening while the employees who are considered not fully vaccinated or not vaccinated are going to be required to test each week. We have had a number of employees ask if they are vaccinated and have the need to test, would they be able to use our sites? And the answer to that is yes, they will be able to do that.  We will be communicating information out about the vaccine locations and schedules over the course of the next few days to those that are required to test. We are also continuing to work to make sure that we have all of our surveys in. And once we get that, I will share that information with you all so that you'll have our most up-to-date numbers. And that gets us to the end of the COVID update. Are there any questions?",
+    "speaker": "clarekeiser",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "public_addressing",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 2999.917,
+    "end": 3009.942,
+    "text": " Dr. Kaiser, I had a question about, just to clarify something that you said that I maybe misunderstood. Did you say that we are not including subs and temps as part of this program?",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "defer_to_expert",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3010.282,
+    "end": 3060.383,
+    "text": "So we will be including subs and temps as part of this program. The first numbers that we collected, though, are those who  our regular employees, we will be getting that information very, very soon. We have already, we have already pulled that information in separate surveys for our athletics coaches so we have that information, and some of the substance have already completed the vaccine status survey if they had an email with us.  but we need to work on the ones that do not have an Albemarle County email so we can make sure that we get that information. So we'll get that to you as well as soon as you, as soon as we have it. We also know that our student teachers, many of them are, we consider them temporary employees as well. We also know that they have been required in many cases to vaccinate for their university. So, but they will also be included in that if they are not vaccinated.",
+    "speaker": "clarekeiser",
+    "tags": [
+      "give_update",
+      "clarify",
+      "logistics_info",
+      "reassure"
+    ]
+  },
+  {
+    "start": 3061.291,
+    "end": 3079.806,
+    "text": " Great, thank you. And could we get a breakdown of people who are working with students in grades six and down who are not able to vaccinate? I can get that for you, yes. Thank you very much. Sure.",
+    "speaker": "judyle",
+    "tags": [
+      "follow_up_request",
+      "request_action",
+      "ask_question",
+      "give_update",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3079.826,
+    "end": 3098.942,
+    "text": "Are there other questions for Dr. Kaza, Ms. Schmidt, or Ms. Gomez?  If not, thank you three for standing in for Dr. McLaughlin. The show did go on, right? So thank you very much, all three of you.",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "acknowledge",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3099.125,
+    "end": 3121.167,
+    "text": " Actually, I just, I'm sorry, I just have one more comment. I've gotten a couple of comments from people from other school divisions about the, our dashboard and how really, how much good information it has and how much transparency it has. And it's a lot more than in other divisions, both across the state and across the nation. So I just wanted to give my thanks for all of that work.",
+    "speaker": "judyle",
+    "tags": [
+      "acknowledge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 3123.982,
+    "end": 3142.296,
+    "text": " Thank you very much, Ms. Lee. And I'll make sure I pass it on to the staff that worked on it. And also, I do want to give credit where credit is due that Dr. McLaughlin did update all those slides. So while he didn't present them, he did take time during this past week to work on that. And we thank him for that.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "acknowledge",
+      "give_update",
+      "reassure"
+    ]
+  },
+  {
+    "start": 3143.277,
+    "end": 3154.36,
+    "text": "Great. Yeah, thank you so much.  Our next item, Ms. Schmidt, our enrollment update.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 3165.916,
+    "end": 3326.29,
+    "text": " All right, good evening. We're asking the Chief Operating Officer with the script I wrote. Thanks to Dr. McLaughlin. Thank goodness he had notes on his slides that I could read. So tonight I'll provide an update on the status of our enrollment this school year. I will be presenting data from the 10th day of school, which was Friday, September 3rd. We, as you know, formally report our enrollment to the state on September 30th and March 30th each year. So tonight's numbers are considered preliminary.  There are two attachments to this board item that provide a detailed breakdown by school and grade, but I will touch upon the division level highlights here.  So this chart compares our enrollment last year, which is the dark green columns, to our enrollment this year, which is the dark blue, to what we had projected for this year, which is in light blue. So the three columns on the left are our total, and you can see our enrollment has increased from last year slightly, but we did not reach our projections. Our enrollment is 158 students more than last year, but over 600, or about 4% less than what we had projected.  These figures do not have budgetary impact this year due to the hold harmless clause in the state budget, but we will be monitoring the future state of that clause as we enter the budget development process for next year. We did staff at the projected levels, and so the benefit of this is that we are seeing lower class sizes.  Here is our enrollment by grade level. The dark blue is our 10th day enrollment number, and the light blue is our projection from kindergarten on the left side all the way to 12th grade. So you can see we were most accurate at our upper grades, 10th, 11th, and 12th. And similar to last year, we were not as accurate as at our lower grades, particularly kindergarten and first grade. I will note we did make different assumptions in our projection model for lower grades.  and we were assuming that more students would return at those lower grades, but ultimately those assumptions did not pan out. So lastly, I know the board has expressed some specific interest in a virtual school, so we'll use this opportunity as an update there. The school currently has 420 students that are divided across the grades as illustrated here. You can see which base school they attend on the attachment if you're interested in that information.  That's the last slide I had. And again, the two attachments have more detailed information by school. But does the board have any questions?",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "ask_question",
+      "clarify",
+      "acknowledge",
+      "reassure",
+      "hedge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3335.4,
+    "end": 3345.911,
+    "text": "Any questions for Ms. Schmidt? OK, assuming not, thank you very much, Ms. Schmidt, for that report.",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "public_addressing",
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3347.593,
+    "end": 3347.933,
+    "text": "Thank you.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3349.972,
+    "end": 3940.888,
+    "text": " We will take a 10-minute break. We'll resume our meeting at 8.24. I'm sorry, 7.34. 7.34, we'll resume. Thank you.  We will now resume our agenda. Our next item, the building services summer update, Mr. Latire. Mr. Latire.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3944.853,
+    "end": 3995.14,
+    "text": "Hello, my name is Joe Latire. I'm the director of building services for Albemarle County Schools. Tonight, I will be presenting the building services summer project update for 2021.  To start, I'd like to show a video featuring the Deputy Director of Building Services, Lindsey Snoddy.  Joe.......That Siser Guy.....",
+    "speaker": "joeletteri",
+    "tags": [
+      "give_update",
+      "public_addressing",
+      "logistics_info",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4030.777,
+    "end": 4138.29,
+    "text": " The Building Services Department maintains over 2.3 million square feet and over 600 acres of ground. So we're very busy throughout the year, but the summer gives us a special time to focus on the buildings when we don't have a lot of activity inside them. This summer was especially important for setting up our COVID mitigation strategies for the school year, which included adding additional desks to give the appropriate spacing, and also adding some learning pods at five different locations to give more spacing for students.  Our regular work includes cleaning the facilities, waxing the floors, a lot of custodial work, moving furniture to different locations, setting up furniture, HVAC projects, electrical panel upgrades, and also roofing upgrades and repairs. We're going to take this time to show you some video footage of the capital improvement projects at Crozet Elementary, at Red Hill Elementary School, and Scottsdale Elementary. And we'll also take a peek at one of the new learning pods.  Thank you so much, and we hope you enjoy. One of our larger projects is at Crow Day Elementary School. This project consists of renovations and an addition that will be 28,000 square feet. The addition will consist of 16 classrooms, one special education classroom, three resource classrooms, and various support spaces. The work will go on for this addition project throughout the school year.  and we'll be ready for the 22-23 opening. Also part of this project is an expanded cafeteria. This is the footprint of the addition here, and that will be completed throughout the course of this year. And when we have construction going on during the school year, safety is our top priority. You'll see several items in place that will keep this work site safe during the school year when we have children on site.",
+    "speaker": "joeletteri",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "reassure",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4146.674,
+    "end": 4167.552,
+    "text": " geothermal HVAC system. You can see in this video that this is our geothermal well field, which is a very exciting feature and will support the school for years to come. Part of the site addition is also new playground equipment.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "opinion"
+    ]
+  },
+  {
+    "start": 4180.677,
+    "end": 4249.798,
+    "text": " We had a lot of work going on over the past year and summer. The Scottsdale addition added 17,500 square feet to the building. The addition includes four classrooms, two resource classrooms, two offices, a bathroom, and a full-sized gym. We also had improvements to the existing building and site.  This is ready and the kids are using it now and we're so excited to have these new spaces available. One of the best features of this project that Scott's built is the seamless transition between the new and old spaces. We've done this through new finishes to the existing classrooms and beautiful signage throughout the building. We've also brought the new and existing portions of the school together through co-lab spaces between each four classroom plots.  We were excited to also support the county's climate action plan with this project by removing our underground storage tank that had heating oil in it. We now heat the pool with electric boilers. More work was being done down the road at Red Hill Elementary.",
+    "speaker": "joeletteri",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4251.921,
+    "end": 4254.143,
+    "text": "At Red Hill, we added 6,300 square feet.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "give_update",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 4255.024,
+    "end": 4339.373,
+    "text": "This consisted of a new gymnasium and support spaces, such as staff offices and storage space.  The students are using the space now and it is a great addition to the school. What you'll see is that our old gym has been transformed into a new media center, a beautiful space for learning and fun.  Renovation to existing spaces also include new finishes, such as the main hallway, to really tie the school together. While we have a lot of large CIP projects, we also have more traditional projects, such as roofing replacements and electrical upgrades. This summer, we replaced a section of roofing at Henley, which also included removing, temporarily, the solar PV panels, and those will be reinstalled at the completion of the project.  Some additional projects that we took on this summer was new learning pods at Western Albemarle, Monticello High School, Albemarle High School, Henley, and Mountain View. These A-class learning pods will give more capacity for each school, especially to help with the spacing during COVID.",
+    "speaker": "joeletteri",
+    "tags": [
+      "give_update",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 4350.018,
+    "end": 4740.909,
+    "text": " Well done, Lindsay. And I'd also like to give a special shout out to Patrick Huddleston for the video production. We now have a few other slides we'd like to share with you of other projects we completed this summer.  As you saw from the video, the building services department has been hard at work, not just the typical cleaning repairs and maintenance, but also with significant renovation projects and important safety updates under the new guidance of COVID. I'd like to take a moment to thank the custodial grounds and maintenance crews for their hard work that they put into making the return to school possible.  Expected to be completed in October, all schools are receiving a new buzz-in system at the front entrances and badge reader systems at the exterior doors. This system allows front office staff to control the front doors electronically, keeping our schools safer. Installation is currently ongoing across the division.  Paving and sidewalk repairs. Also, division-wide high priority paving and sidewalk repairs were completed over the summer, ensuring that the quality, safety, and visual appearance of our campuses are intact. Updates to electrical systems took place this summer, with Murray High School and Jewett Middle School scheduled for generator upgrades  and Hollymead upgraded electrical panels. The Hollymead and Murray projects are complete, though some of the work at Jewett is delayed due to material shortages. This project is expected to be complete in the winter when the equipment arrives. Greer Media Center received renovations this summer with new furniture as well as construction work.  Many HVAC upgrades took place this summer. At Broaduswood Elementary School, we replaced the existing heat pumps. This project was a significant upgrade, replacing unit ventilators in 10 classrooms and closet air handlers in nine classrooms and rooftop units that served a large portion of the remaining buildings.  Broadus Wood also received a dedicated outdoor air system to all classrooms and office areas. In addition, Brownsville Elementary School had the boilers replaced as pictured here. Murray Elementary had an upgrade to its water heater and a kitchen hood upgrade took place at Burley Middle School. Restrooms renovations took place  at both Greer Elementary and Agnehert. Cooler and freezer upgrade are currently in progress at Walton with the freezer in place. The cooler was delayed due to material shortages and will be connected when it arrives in October.  At Albemarle High School, exterior upgrades were implemented with metal panels installed outside the school. Improvements were made at Burley Middle School and Albemarle High School elevators, updating the electrical systems and ensuring ADA compliance. At Monticello, the baseball field received new lights over the summer.  Staff at the Burley Annex were relocated over the summer with EDEP staff moving to the Seminole Trail Complex near Child Nutrition and Center One and the ESOL team to the Northside Library. The space in the annex is now repurposed for use by post high students.  Our environmental team has made progress on several projects related to our Climate Action Plan this summer. At Crozet Elementary, geothermal wells were installed as featured in the video. Procurement is underway for more solar panels at both Red Hill and Scottsville. In addition, the oil heating system at Scottsville was replaced with a more efficient electric boilers.  Other campus projects the boys and girls club is construction is the new building is currently underway groundbreaking was just a few weeks ago, and they are grading the site now. In addition, the mountain view elementary campus is getting a new crosswalk as part of the dots neighborhood improvement funding initiative this project is almost complete.  Finally, a connecting pathway between Greer and Elm Hall High School will begin construction soon, also as part of the NIFI grant. And those are updates for the summer. On the screen are many of the staff members in the Building Services and Elm Hall County's Facilities and Environmental Services Department who assisted in projects throughout the summer.  Thank you for your support for our department and our work. And with that, I'd be happy to answer any questions.",
+    "speaker": "joeletteri",
+    "tags": [
+      "give_update",
+      "acknowledge",
+      "public_addressing",
+      "follow_up_request",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 4751.745,
+    "end": 4775.009,
+    "text": "Hi, Joe. As usual, you all were very busy this summer. I think just to make it clear for anyone listening, the new gymnasiums were  replacing the old gymnasiums and expanding them to almost double what they were. Isn't that correct? The new gymnasiums at Red Hill and Scottsville.",
+    "speaker": "kateacuff",
+    "tags": [
+      "clarify",
+      "ask_question",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4775.029,
+    "end": 4779.876,
+    "text": "That's correct. That's correct. Both of those were very small gyms.",
+    "speaker": "joeletteri",
+    "tags": [
+      "agreeing",
+      "clarify",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 4780.016,
+    "end": 4812.058,
+    "text": "Right. Much too small for the population. I don't know.  Well, some of my colleagues know I'm fixated on how many trailers we have. When you completed the addition at Scottsdale, or when it's completed, the trailers there will be removed. Is that a building services task? And if they are going to be moved, what happens to them? We have a lot of investment in trailers right now.",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "clarify"
+    ]
+  },
+  {
+    "start": 4812.697,
+    "end": 4834.547,
+    "text": " Yeah. So at Scottsville, we've already removed three trailers that we've owned for years and years, and they were essentially demolished. They had no value. Right. Okay. Currently on site, we do have a four classroom trailer that is leased and the lease is up next summer. So we'll be sending that back is our point.",
+    "speaker": "joeletteri",
+    "tags": [
+      "give_update",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 4836.47,
+    "end": 4836.69,
+    "text": "Yes.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 4837.751,
+    "end": 4838.232,
+    "text": "Thank you.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4841.806,
+    "end": 4887.253,
+    "text": " Joe, as I say to you every year, I was in a lot of schools in late July and throughout August, and your team had just done a lot of work  in the buildings and yet the floors were gorgeous. Everything was cleaned. It was ready for school to start. And I just applaud you, Lindsay, your entire team from projects to feed on the concrete or on the floors in the buildings. Great job once again.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "opinion"
+    ]
+  },
+  {
+    "start": 4887.824,
+    "end": 4890.888,
+    "text": " So thank you. We got a great team. We do have a great team.",
+    "speaker": "joeletteri",
+    "tags": [
+      "acknowledge",
+      "reassure"
+    ]
+  },
+  {
+    "start": 4894.973,
+    "end": 4956.754,
+    "text": "I agree completely with Ms. DelCaro. And I was at both Red Hill and Scottsville on their open house nights. And both schools are really, really beautiful. So outstanding work at both of those sites. Thank you. Are there any other questions for Mr. Leterre?  Okay, if not, thank you so much for that very good report and thank you for your services. Thank you. Our next agenda item, the long range planning report, Ms. Kumasawa.  Are you with us, Ms. Kumazawa?",
+    "speaker": "Unknown",
+    "tags": [
+      "agreeing",
+      "acknowledge",
+      "procedural_move",
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4960.078,
+    "end": 4960.319,
+    "text": "Yes.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4961.601,
+    "end": 4963.303,
+    "text": "Okay. Lost you there for a minute.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4973.056,
+    "end": 5076.606,
+    "text": "Right. Good evening, school board members. I'm Maya Kumazawa, Director of Budget and Planning, and I'm pleased to introduce the 2021 Long-Range Planning Advisory Committee recommendations.  Here's the agenda. I'm going to provide a brief overview and then hand things over to some dedicated committee members who are here with us tonight. And after their presentation, I'll present staff recommendations for our CIP funded maintenance and replacement programs for your consideration. And after that, we will end with questions and discussion as needed. The FY23 to FY27 five-year CIP process  begins with the LRPAC recommendations. After you receive this for information this evening, you will develop your CIP priorities to present to the Board of Supervisors for consideration into the Joint Schools and Local Government Capital Program. Later this year, the CIP Advisory Committee, which comprises both school board members and Board of Supervisors members, will meet several times to aid in the development of the county executive's recommended budget  and the FY23 capital budget is planned to be adopted next May. Switching gears back to the Long-Range Planning Advisory Committee. Per policy, the committee should inform and advise the superintendent and school board in the development of comprehensive long-term plans for facilities needs. Thank you to our talented and dedicated members and staff who have volunteered many evenings and hours to serve this purpose.  And speaking of those dedicated volunteers, I'd like to now turn the presentation over to two of them who will introduce themselves.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "public_addressing",
+      "procedural_move",
+      "logistics_info",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5078.03,
+    "end": 5117.277,
+    "text": "Thank you, Maya. Good evening and thank you for your time. My name is Jason Handy, and I'm a superintendent appointee on the Long Range Planning Committee.  I have two daughters in school. One is a seventh grader at Burley, and the other is an 11th grader at Monticello. Professionally, I've been with S&P Global, formerly known as S&L Financial, for 15 years. During my tenure, I've had a variety of roles, the most relevant of which being that for five years, I was responsible for all capital budgeting, all of our facilities management, and all of our IT infrastructure. I'll hand it over to Megan to introduce herself.",
+    "speaker": "jason",
+    "tags": [
+      "public_addressing",
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5120.227,
+    "end": 5486.912,
+    "text": " Hello, I'm Megan Carper. I've been on the Long Range Planning Committee for the past three years, and I'm also a superintendent appointee. I grew up in Charlottesville and attended Albemarle County Public Schools from elementary through high school. I have a professional background in landscape architecture, specifically campus planning and design. And I have a daughter who attends Stony Point Elementary, and my youngest will be there next year.  And I am pleased to be presenting the first portion of this report. The Long-Range Planning Advisory Committee has prepared a needs-based CIP recommendation for the superintendent's and school board's consideration. We began this process in October 2020 when you endorsed our proposed work plan. Key topics were identified, and our report addresses the following. Enrollment and capacity, renovations, environmental sustainability, the future of learning spaces,  and multi-school campuses. Throughout the last 12 months, we formed and participated in subcommittees to research these topics in depth and led discussions with the larger group. While there may not be a specific project recommendation within each topic, the in-depth reviews helped inform our high-level strategic decisions, such as the development of project criteria.  Additionally, following the format presented in 2019, there is a focus on data analysis. New this year, we have incorporated a student yield analysis for new developments into our data review. Before we jump in, I want to first provide context around the new strategic plan, which aligns with the committee's values of ensuring the equitable distribution of resources around the division.  The recommended projects were analyzed and prioritized using new criteria aligned with the learning for all strategic plan. Anticipating that funding will not meet the full needs identified by the advisory committee, we use these criteria to determine an initial ranking of projects. Safe and secure facilities, adequate capacity, efficient use of resources, modern and reliable technology infrastructure, outdoor learning, equitable distribution of resources,  sustainable facilities, adaptable and flexible spaces. Here is the 2021 list of committee recommended projects totaling over 196 million for the superintendents and school boards consideration. The request addresses key themes of equity, safety, investment in existing facilities, as well as new investments needed to support the long-term capacity needs of our growing county.  The price tag may seem large, however, it is built upon the accumulating capital needs of the school division over the past several years. The COVID-19 pandemic has not slowed the construction of new development in Albemarle County, and ACPS must continue planning efforts to accommodate the student population growth. As Albemarle County is expected to grow by 44% over 30 years, adequate capacity will continue to be a need for the school division.  This is supported by the 10-year enrollment projections and reinforced by both the recently completed development and student yield analysis and the 30-year population forecast. One of our talented committee members has created a data visualization tool to help us see the capacity conflicts over time.  In the Tableau application, users can click through and see year-to-year changes as well as summary views. We've included some screenshots in this presentation as a preview. On these maps, the red-pink colors represent over 100% capacity, orange represents over 95%, and the cooler colors represent 95% capacity levels. The screenshot shows the elementary capacity conflicts during our last normal fall enrollment year.  You can see that Mountain View, Brownsville, Baker Butler, and Crozet have the highest conflicts filled at over 100% capacity. As we move through the years, the Crozet expansion will relieve capacity conflicts at Crozet and Brownsville. The enrollment at both Baker Butler and Mountain  By the time we reach 10 years out, there are other schools that are close to 100% capacity, including Murray, Stony Point, and Stone Robinson. At the middle school levels, we are currently in the blue with regards to capacity conflicts.  In five years, though, we anticipate three of our five comprehensive middle schools to be at 95% capacity, with our smallest school at only 70% of capacity. Interestingly, in 10 years, trends continue to shift. With the complication of split feeder patterns and under-enrollment at some schools, further study to determine feasible alternatives is needed.  At the high school levels, capacity issues are both a historical, current, and future concern. While the program at Center One has added 150 additional seats at the high school level, and we continue to offer options for alternative learning, a long-term solution is needed. At the high school levels, for over 15 years, the school division has been in a practice of expanding existing facilities, and when necessary, deploying mobile classroom units in the interim.  As these schools reach a point where expansion is no longer practical, the committee recommends a strategy for land acquisition and construction of new facilities. Recommended projects include the construction of Center 2, as well as inclusion of funding for at least one new elementary school and land acquisition for a future elementary school. I'll now hand the presentation over to Jason to cover the remaining topics.",
+    "speaker": "megancarper",
+    "tags": [
+      "give_update",
+      "public_addressing",
+      "policy_proposal",
+      "prioritization",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5488.114,
+    "end": 5804.644,
+    "text": "Thank you, Megan.  Balancing capacity needs versus making improvements to our existing buildings was a key consideration for the committee. And you'll see that our recommendations represent a mix of both. So again, we recommend several school renovations at all levels with a focus on delivering incremental updates across the entire division. This is a visual that may look familiar to you. We've shown it in the past.  General renovation projects continue to be unfunded, and our school facilities continue to age. As you can see from the histogram, most of our school buildings are over 40 years old, and we haven't constructed a new school building since Baker Butler almost 20 years ago.  Therefore, we're recommending renovations at all school levels, and we've broken out the request into a few categories. At the elementary and middle school levels, while we've already done a great job maintaining the various components and systems of our buildings, our facilities require more comprehensive renovations with some examples listed on the slide. The committee plans on making this a focus for the upcoming year. We plan on visiting school sites,  reviewing needs with staff, and establishing a subcommittee to provide more specific recommendations. Our primary consideration will be to improve equity, meaning that we seek to provide the environment and resources each student needs to achieve their potential, regardless of race, income level, or special needs.  The high school project would fund comprehensive updates on instructional and support spaces at Albemarle and Western Albemarle high schools, based on the recommendations of a master plan study that is scheduled to be completed next year. It is anticipated that those renovations will be conducted in a phased manner. We also wanted to spend some time on other projects that weren't specifically related to capacity or renovations, but nonetheless, we consider to be important.  For the elevator additions, it was on our list last year, but didn't make the cut. Some of our school buildings have only one elevator, which is not aligned with modern standards. And we recommend adding an elevator for these schools, which will improve the quality of life and equity for our disabled students and staff.  Just as a brief personal story, this project is dear to my heart because my oldest daughter, Elena Handy, attends Monticello High School as an 11th grader, and she has cerebral palsy. Typically, she navigates school with crutches and can use the stairwells in each of the wings to go between classes. However, recently she suffered a minor injury and has been forced to use her wheelchair for the past week.  And the only elevator is in the center of the building, and it has greatly increased her travel time. She's therefore been choosing between leaving class early or arriving to class late. And I recognize that one student story shouldn't be the sole factor in making funding decisions. However, this is a good example of how bringing our infrastructure up to modern standards will have a tangible impact on equity.  The data center is another project that's been requested in previous years, and this project would fund the construction of a secure primary data center for the entire county school system. It will support the servers and network equipment essential to all areas of the school division, including both operations and instruction.  And just to provide a little visual here of the current data center and a view of what we aspire to, the current data center houses the majority of our server equipment, but lacks many of the safety measures that we really need to protect our data. For example, it does not have fire suppression equipment or hardened construction. And in fact, it has been subject to flooding in recent years.  Finally, one new project in the request is for improved air quality. COVID-19 has highlighted the importance of our school HVAC systems and the need to deliver outside air at levels greater than our current design. This project will take a holistic approach to improving building HVAC systems beyond our baseline design criteria.  And since the committee finalized its recommendations, we have learned of a potential federal funding source that could offset the cost of the project by up to $2.7 million. If the project qualifies for this funding, ACPS would be required to provide a one-to-one match. Staff are working on reviewing the requirements of this opportunity.  Before we end our portion of the presentation, we did want to highlight one of our recommendations that isn't directly linked to a project, nor requires specific investments, tangible like we've described. We would like the school board to adopt a policy on school sizes at each level, including a capacity range to help guide the committee in considering the efficacy of the expanding and or constructing school buildings and making future recommendations.  We've worked with staff already to pull Education Advisory Board research and other data to aid in the development of this policy, but please provide staff with additional data requests. And I'll hand it back off to Maya.",
+    "speaker": "jason",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "request_action",
+      "logistics_info",
+      "cite_external_source",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 5808.147,
+    "end": 5821.639,
+    "text": "Thank you so much, Megan and Jason, and thank you to the entire committee for these comprehensive recommendations. Before we end and open it up for questions, I'd like to review the staff requests for ongoing maintenance and replacement CIP programs.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5823.222,
+    "end": 5829.109,
+    "text": " Here's our five-year recommendation for the projects that meet the county's definition of maintenance or replacement.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 5829.79,
+    "end": 6012.327,
+    "text": "Such projects are intended to repair, maintain, or replace existing capital facilities or equipment. Historically, maintenance and replacement projects are prioritized first and often fully funded. However, increasing needs in the division and rising costs have recently caused a deviation from past practices of funding our full needs.  These updated programs for the next five years are presented for your consideration in the CIP. I'll begin with the technology program. As a note, due to offsetting revenues, the state technology grant remains a separate category, but we present here three major categories for ease of communication and planning. They are classroom technology, which includes student and teacher devices, operational support, which includes devices for the administration,  and network operations, which includes communication, internet, and Wi-Fi equipment. An attachment in the ESV agenda item provides the details of the program, including which areas have increased. Approved budgets have remained stagnant over the last decade, and we are fortunate to not have experienced any decreases in funding for this program during the pandemic.  As you can see in this table, though, when you compare the request to the request from 2019 labeled previous request, we're seeing a slight overall increase. However, when compared to previously approved budgets, this program is experiencing increases of almost $9 million over the next five years. Here's a list of recent changes that have contributed to this.  You may already be aware of rising inflationary costs in addition to the difficulty of procuring certain technologies. Year one's cost has increased primarily due to timing changes based on infrastructure lifecycle reviews within network operations. In addition, we've added a new request for a network access control in year two. We have a vast array of connected technologies on our network, including employee and student devices, moving back and forth between home, school, and work.  A modern network access controller provides the ability to continuously identify all connected devices, assess status, automate workflows, and implement access controls. Finally, while the school board approved funding for display technologies previously, this request includes phase two, which addresses high school classroom needs. Similarly, specialty labs and support services computers were also funded recently. However, this represents  This request represents a sustained replacement program for these devices in the out years. The request for the school bus replacement program remains unchanged at $1.5 million per year. This program supports the replacement of our bus fleet and equipment. The facilities maintenance replacement program is our largest ongoing program.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "clarify",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 6013.049,
+    "end": 6018.796,
+    "text": " The presentation from our building services staff this evening tonight has exemplified some of the work in the program.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "give_update"
+    ]
+  },
+  {
+    "start": 6019.617,
+    "end": 6075.962,
+    "text": "In the current year, the budget was reduced due to financial impacts of the COVID-19 pandemic. This request represents restoring the ongoing needs at levels before the pandemic. There is an ESB agenda item included for this program as well, if you're interested in seeing the details of the five-year program.  Here are some highlights of the changes that are part of this modest increase. It includes a higher investment in our HVAC systems. It includes changes in cost estimates and timing of specific projects, in addition for accounting for changing market conditions. Finally, we present the Furniture Replacement Program. This program was previously funded under a different project, which replaced furniture at the kindergarten and first grade levels.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "clarify",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 6076.617,
+    "end": 6085.83,
+    "text": " This project is on pause and staff requests funding for this program to continue furniture replacement throughout the different grade levels in our county.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "give_update",
+      "request_action",
+      "policy_proposal",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 6090.396,
+    "end": 6130.198,
+    "text": "And that concludes this portion of the presentation. So I present to you here some next steps. As Megan and Jason recommended, we urge the school board to have a discussion and adopt a policy on appropriate school sizes to aid in our future planning efforts.  that is currently planned for your next school board meeting. Following that, staff will come and facilitate a discussion for the school board to develop and approve a CIP funding request to bring to the Board of Supervisors in October. Thank you for your attention this evening, and I will now open up the floor for questions and comments.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "request_action",
+      "logistics_info",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6139.46,
+    "end": 6156.289,
+    "text": " Thank you, Maya. The board members have questions for either Ms. Copper, Mr. Handy, or Ms. Kumazawa. And thank you, Ms. Copper and Mr. Handy for your presentations to us tonight. Thank you very much.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 6161.939,
+    "end": 6207.782,
+    "text": "I had a question. I know that sustainability was listed  I think at one point you said sustainability was one of the criteria you used. And then earlier on, there was also a mention of, I don't know if it was sustainability or just environmental impact or something like that. So can you, would you be able to elaborate where that factored into reasoning in any particular thing? Cause I guess I didn't really necessarily, so like with buses, I guess would be like one that came to mind. Did we look into electrical buses or, I mean, I don't know. Just, can you do a little explaining?  I don't know who I'm looking at here, because there are a lot of presenters. Someone's going to have to jump in and say something.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "request_action",
+      "defer_to_expert"
+    ]
+  },
+  {
+    "start": 6209.224,
+    "end": 6263.755,
+    "text": "We had a subcommittee that studied environmental sustainability, and they worked with various staff from different departments, but primarily building services.  And they reviewed all of our environmental sustainability practices and our adherence to the climate action plan that the county has. And the committee determined that there was not necessarily a specific project that needed to be funded to put forward, but rather we wanted environmental sustainability to be a piece of any project that has moved forward. So in any renovation or new construction, wherever feasible, we would consider  the best practices or the best applications of making sure that our facilities and equipment adhere to the highest levels of environmental sustainability. So we use it as a criteria in recommending the projects that you've seen.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "clarify",
+      "policy_proposal",
+      "prioritization",
+      "cite_external_source"
+    ]
+  },
+  {
+    "start": 6266.478,
+    "end": 6290.546,
+    "text": "How are we doing? I know you probably don't have a lot of insight, but I saw some article recently about how, I don't know if it was a county or a state, I think it was a county is going to fall short of reaching their goals.  I don't know, I can have this conversation offline with you. I guess I'm just curious, what does it mean to say we're working towards it? I guess I would be curious about some tangible steps. I know we had mentioned there being some tangible steps.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "follow_up_request",
+      "request_action",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6290.566,
+    "end": 6327.062,
+    "text": "Yeah, so I can't speak to the larger Climate Action Goal, but I would encourage you in the report Appendix H gives an  a good comprehensive overview of all the environmental practices that is underway. And I just want to commend Maya and her team. And I guess I'm assuming it was building services for compiling it. It's the most comprehensive summary I have seen of the division. And I think you'll be pretty impressed with things underway. And it gets into energy use trends, certifications, initiatives underway. So that's appendix H. Thank you.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "cite_external_source",
+      "acknowledge",
+      "clarify",
+      "give_update"
+    ]
+  },
+  {
+    "start": 6333.016,
+    "end": 6436.328,
+    "text": " But Rosalyn, Appendix H does not talk about one of our biggest, you know, sustainability issues, and that's transportation, right? I mean, I know we have, we're looking at, did we get the, we got the grant for- We got the grant for the electrical buses, and I think once we get it, see how it goes, I anticipate future requests for more of them. So, right, so sustainability would be looking at the types of vehicles,  but also our traffic patterns, which we can't entirely control because they're determined by where the students live. But there are two requests on this long range. First of all, thank thank the committee. They did it and staff. It's it's a very comprehensive report for the past two years. It's true. We've had the data center and the elevators and those are sort of sticking out at me, especially with Jason's  real-life description of the impact on our students. But first, with the data center, where is our data center, aside from it looking pretty awful, where is it physically located now? And I saw that in one of the recommendations, it was perhaps a central location like at Elmaw High School, which, you know, sort of,  You figure one place out and then you've got to move everybody else out. But where is it now? How many square feet are we talking about? And how do we get to that $4 million? So that $4 million, sorry, that's the elevators, but the price tag for the data center. I don't know who wants to talk to that.",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "give_update",
+      "acknowledge",
+      "clarify",
+      "request_action",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 6437.55,
+    "end": 6444.377,
+    "text": "Is Joe still on? Maya, is Joe still on?",
+    "speaker": "jason",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 6444.728,
+    "end": 6447.33,
+    "text": " I don't see Joe. I'm sorry.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6447.771,
+    "end": 6492.64,
+    "text": "So currently, the data center is housed in the building services building. OK, yeah. And not exactly a new building there, but not exactly a new building there. And there are some issues where it's housed that makes it not ideal. There's for a number of reasons.  And if it was to be relocated because of all the wire and infrastructure currently going to the data center, it would be beneficial to keep it in a relatively similar proximity again because all the fiber and whatnot.",
+    "speaker": "joeletteri",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 6494.24,
+    "end": 6502.03,
+    "text": " And so what, 10,000 square feet, 5,000 square feet? Oh, no, it's not anticipated to be anything like that.",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "reassure",
+      "clarify"
+    ]
+  },
+  {
+    "start": 6502.05,
+    "end": 6505.334,
+    "text": "It's going to be a small building, maybe 2,000 square feet.",
+    "speaker": "joeletteri",
+    "tags": [
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 6505.955,
+    "end": 6506.255,
+    "text": "OK.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6506.856,
+    "end": 6508.018,
+    "text": "A very small structure.",
+    "speaker": "joeletteri",
+    "tags": [
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 6509.44,
+    "end": 6517.73,
+    "text": "So you're contemplating it. This contemplates a small standalone structure. On the Albemarle campus is what I would envision.",
+    "speaker": "kateacuff",
+    "tags": [
+      "clarify",
+      "opinion",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 6518.011,
+    "end": 6518.271,
+    "text": "Yes.",
+    "speaker": "joeletteri",
+    "tags": [
+      "agreeing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6519.192,
+    "end": 6543.368,
+    "text": "OK.  And I guess, Jason, with the elevators, or maybe this is a Joe, I mean, I guess we'd have to have planners to even, this is really a dumb question, to figure out where they could go in the buildings. I mean, what do we have to dislodge to put the elevators in? I would just say that typically it would be an exterior addition to the building.",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "defer_to_expert",
+      "hedge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 6544.93,
+    "end": 6550.437,
+    "text": "Yeah, you would not try to force it in an existing building. You put it on the outside somewhere.",
+    "speaker": "joeletteri",
+    "tags": [
+      "clarify",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 6550.805,
+    "end": 6555.132,
+    "text": " That's why you're building services and I'm not. Thank you.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 6557.916,
+    "end": 6575.243,
+    "text": "It was mentioned that there had been flooding at the current data center. What caused that and was there very much damage at that time? You know, was there like a leak in the roof or what?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "express_concern",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 6577.265,
+    "end": 6604.538,
+    "text": " No, there wasn't a leak in the roof. There is a drain system nearby that clogged up at one time. And it actually flooded water into the building services building. As you know, it used to be an old bus garage. And in one of those bays is where we currently have the data center. So the water essentially came into the bay door and flooded underneath the raised floor of the computer room.",
+    "speaker": "joeletteri",
+    "tags": [
+      "clarify",
+      "give_update",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 6609.125,
+    "end": 6693.556,
+    "text": " I missed a period of about five minutes in there when I got disconnected so I may be repeating questions and comments, but thank you for that on the data center because I had that that down to, and I haven't  reviewed the report as extensively as I'm going to the next few days, but I sure did appreciate the not modernizations the maintenance projections for about $10 million a year and the specificity of that that's extremely valuable.  On the elevators, in addition to the needs of students, it's also good for emergency access and being able to get people out from different floors, which, as I recall, and Joe, you can correct me on this if I'm wrong, I seem to recall last year,  that some of our elevators in the schools were too small and there wasn't going to be access for emergency equipment in many cases. Joe, I'm sorry, I saw you come back on. Is that the case? That is absolutely correct.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "hedge",
+      "express_concern",
+      "ask_question",
+      "defer_to_expert"
+    ]
+  },
+  {
+    "start": 6693.576,
+    "end": 6707.875,
+    "text": "There are some schools that the elevator is so small you can't really fit a gurney in it, like an ambulance gurney.  And they would have to carry the person on the gurney down the stairs.",
+    "speaker": "joeletteri",
+    "tags": [
+      "logistics_info",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 6711.52,
+    "end": 6779.39,
+    "text": "One of the things that was in the report, the subdivision yield analysis, that just leapt out to me is the student potential, this is under findings, the student potential, the identified active and planning  housing developments known at the time of this report reaches 2,875. That's kind of the growth that we're gonna be having just from those types of developments. And I know that's not all at one time, but over a course of years, which really leads to the kind of planning that our staff is so good at.  And that's a great place to be starting. And I love the school size limit concept. I think that's something we need to be doing. Thank you for all of your work, Megan and Jason, and a shout out to Gail LeBette as well, who's my appointee. Thank you all.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "cite_external_source",
+      "give_update",
+      "opinion",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6782.975,
+    "end": 6783.295,
+    "text": "Thank you.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6785.722,
+    "end": 6787.944,
+    "text": " Are there other questions from other board members?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 6789.025,
+    "end": 6840.141,
+    "text": "I need to review it more, but I did have a quick question about the data center. I was just curious. I know that it sounds like our data center is not working right now in its current form. Have we looked into maybe modern alternatives, like having your data center hosted outside of our facilities? Is there a reason why we have to have it in the building? I guess I'm just curious.  like hosted through Amazon or AWS or, I mean, all those various services that I know are more modern and they take care of the security and they, you know, there's some benefits that you can use from using those services, like getting as much capacity as you need when you need it and not when you don't. So I guess I'm just curious if we looked into those options in addition to just replacing our existing data center.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "request_action",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 6842.123,
+    "end": 6972.813,
+    "text": "I'll take that. Good evening. I'm Dr. Diggs, the Chief Technology Officer  Ms. Colson, we do have several of our cloud-based enterprise applications that are running off of Amazon Web Services. The thing about putting all of our servers there, it becomes very complex. First of all, it relies on you having a reliable connection to the internet. And if your main connection to the internet goes down, you lose access to every single server you've got.  If it's an Amazon Web Services. Another factor is our student information system. That data is hosted locally. And that's a, that's a security call on our part to not have it on servers outside and somebody else's control for the privacy of our student information.  Even Microsoft's web services, Amazon web services, they have all been compromised and hacked and data compromised. So that is a strategic decision that we chose to make to keep that, what we call it, on-prem. Additionally, there are some systems and servers, and Mr. Letary can actually speak to this, because some of them run our,  building services systems that are running on older servers and it really wouldn't necessarily be compatible to put into Amazon Web Services. So there's a lot of complexity that goes into that decision. And actually having a hybrid approach to that is pretty much the way we're going right now. But the way our infrastructure group sees it, there is a strong need to have several of our servers still  on-prem. Now, it could be anywhere on-prem. That just means within our local control, within our network, not into the wider worldwide web network, if that makes sense. Thank you for that update.",
+    "speaker": "christinediggs",
+    "tags": [
+      "give_update",
+      "clarify",
+      "express_concern",
+      "logistics_info",
+      "defer_to_expert",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6974.235,
+    "end": 6974.476,
+    "text": "Sure.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 6979.824,
+    "end": 6982.808,
+    "text": "Are there other questions related to long-range planning?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 6983.868,
+    "end": 7070.743,
+    "text": " Just just to comment, a lot of the growth is up north and as the report pointed out, we have proffered sites at Brookhill and it didn't name the other one, but it's up on North Point beyond. Profit Road, I guess, but the. The.  The size of Mountain View and the sort of the impetus, I would guess, for some of the discussion about school sizes has to do with Mountain View and maybe scouting for another site for a school property in that Western feeder pattern. I don't know, did you all get to, I mean, an aerial view of pinpointing where that could be? I'm concerned about, well,  Well, I don't even have a question, really. It's just that that is certainly something that we need to look at. But that is fundamentally going to be based on what we think about the size. And with Mountain View in particular, it's not just what is the ideal size for an elementary school. It's this piece of property can't hold any more kids, basically.  So we're going to have to do something. So I guess that was a ramble. But if anybody wants to respond to it, feel free.",
+    "speaker": "kateacuff",
+    "tags": [
+      "express_concern",
+      "follow_up_request",
+      "opinion",
+      "hedge"
+    ]
+  },
+  {
+    "start": 7071.162,
+    "end": 7144.032,
+    "text": " I mean, we talked about this a fair bit, right? And we were sensitive to the fact that we already had recommendations for Mountain View, right? And then we're asking for even more, but then we have to think about the fact that we're really, we feel a little bit behind the ball in that part of the county. Because the current plan really gets us from a capacity perspective up until say the 2023, 2024 school year.  But you just drive down Avon Street and you can see the high density residential units going up. And, you know, getting beyond 2024, you got 780 kids, potentially, in that school and and you bring up a really good point about, you know, can we scale, you know, we're not Fairfax County with  You know, the massive school system that they, you know, we have to think hard about whether our strategy, you know, is aligned in the educational experience we want to give our kids can really be delivered in an elementary school of that size or larger because you lose some things at scale. But yeah, we spent a lot of time on that as a committee talking about it.",
+    "speaker": "jason",
+    "tags": [
+      "express_concern",
+      "opinion",
+      "acknowledge",
+      "give_update",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 7144.163,
+    "end": 7174.153,
+    "text": " Right, I mean, that's the rationale in large part why we're cutting, you know, adding so much to Crozet Elementary because we say Brownsville is too big, but Mountain View is as big and soon will be bigger. And we don't have an obvious place. I mean, I'm not that familiar with that part of the county, I have to confess. But if we are going to be in land acquisition, we might want to think about doing it sooner rather than later.",
+    "speaker": "kateacuff",
+    "tags": [
+      "policy_proposal",
+      "request_action",
+      "hedge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 7176.817,
+    "end": 7182.56,
+    "text": " Or maybe using the land that we originally got for Center 2 if we decide to do something different there.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "policy_proposal",
+      "opinion"
+    ]
+  },
+  {
+    "start": 7183.644,
+    "end": 7184.447,
+    "text": "Yeah that's true too.",
+    "speaker": "Unknown",
+    "tags": [
+      "agreeing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7186.823,
+    "end": 7210.3,
+    "text": " You know, one of the things that was interesting to me in terms of class sizes or secondary and elementary sizes in terms of projections is that when we last really did a deeper dive into this, it seemed that Western and all",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "opinion"
+    ]
+  },
+  {
+    "start": 7212.743,
+    "end": 7248.148,
+    "text": " In the last couple of years, we've been looking to peak out in the 2324.  And, you know, it just kind of reinforces, you know, the need to have that capacity. One quick question. This is just a personal one. And as I'm going to be going through this, who should I reach out to with questions? Maya, would it be you to reach out to with them? Or who do we reach out to with questions?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "clarify"
+    ]
+  },
+  {
+    "start": 7248.969,
+    "end": 7250.872,
+    "text": "I can facilitate the questions.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 7250.892,
+    "end": 7251.913,
+    "text": "Okay, great. Thank you.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7256.635,
+    "end": 7267.427,
+    "text": " There are other questions from the board. Because I'm correct in that the hard copy of the Long Range Planning Committee is now available at the county office building, right?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 7268.248,
+    "end": 7268.769,
+    "text": "Yes, correct.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 7272.313,
+    "end": 7281.343,
+    "text": "I just want to say thank you. Thank you for all the hard work y'all have done. I know Gail, I know David Storm, I know that y'all are busy people and I appreciate it.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7284.513,
+    "end": 7311.382,
+    "text": " Yeah, thank you, Maya. Thank you, Mr. Handy, and thank you, Ms. Copper, for helping us so much with long-range planning. So deep appreciation from the board to all of you. Are there any other questions, though? Anybody else with any other questions for long-range planning? If not, thank you so much. Good night. Thank you, everybody.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "follow_up_request",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 7312.464,
+    "end": 7312.824,
+    "text": "Goodbye.",
+    "speaker": "jason",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 7313.344,
+    "end": 7320.791,
+    "text": "Thank you.  Thank you. All right, other business board members or by the superintendent.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 7322.735,
+    "end": 7346.616,
+    "text": "I would want to bring up the public comment about the children who are unable to wear a mask truly unable to wear a mask I guess I'm just curious, there's going to be.  follow up or, you know, I know that the parents at the end were saying that they've had a great experience working with teachers trying to be flexible. So I just wanted to know if we had this on our radar as an issue come winter or, you know, have you done thinking about it?",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "express_concern",
+      "ask_question",
+      "follow_up_request",
+      "request_action"
+    ]
+  },
+  {
+    "start": 7348.03,
+    "end": 7376.181,
+    "text": " We do, and we did put out information, as the parents said, to the community about where we are with that. And we are being flexible with families. And I think the result was what they talked about at the school level. In addition to that, I did request their contact information from Jennifer Johnston so that I can reach out to them to have them work with our school health advisory board around these issues to get that perspective.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "give_update",
+      "reassure",
+      "request_action",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7380.295,
+    "end": 7412.21,
+    "text": " Thank you. Other questions or other business from other school board members? One last call. Okay, hearing none, this September 9th meeting of the board is adjourned. Thank you to all of our board members and to all of our presenters.  Good night. Good night.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "public_addressing",
+      "acknowledge"
+    ]
+  }
+]

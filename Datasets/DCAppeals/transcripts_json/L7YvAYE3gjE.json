@@ -1,0 +1,1656 @@
+[
+  {
+    "start": 2.582,
+    "end": 20.862,
+    "text": " All persons have in business before the honorable associate judges now presiding over the District Columbia Court of Appeals. Go in there and give your attention. God save the United States and this honorable court. Honorable courts, now in the session, please come to order.",
+    "speaker": "courtroomclerk",
+    "tags": [
+      "court_opening",
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 23.584,
+    "end": 50.067,
+    "text": "Thank you.  Welcome to this virtual session of the District of Columbia Court of Appeals. We have two matters on our calendar this morning. The first is number 19FM0709, Michael Klisch versus Aaron Klisch. Council, we can proceed if you're ready. And I would ask whoever is not the speaker to please mute yourself. It seems to help with the sound quality.",
+    "speaker": "judgethompson",
+    "tags": [
+      "court_opening",
+      "case_call",
+      "court_procedural_remark",
+      "judge_procedural_directive"
+    ]
+  },
+  {
+    "start": 52.947,
+    "end": 64.452,
+    "text": " Thank you, Your Honor. Your Honor, if I please the court, my name is Daryl Feldman, and I represent the appellant, Michael Klisch, in this case. I would like to reserve three minutes for a rebuttal time. Thank you.",
+    "speaker": "darrylfeldman",
+    "tags": [
+      "reserve_time",
+      "court_procedural_remark",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 65.012,
+    "end": 116.012,
+    "text": "Mr. Feldman, could I just before you begin, because I'd rather not interrupt you with this, there are a huge number of records in this case.  of various kinds. And given the virtual nature of our proceedings, we don't have those appendices physically available to us as we sit here today. So that please alert us during argument. And this goes, of course, to Ms. Golding as well. Please alert us during argument if there are particular portions of the record to which you want to draw our attention.  as we reflect on the case and deliberate on it, so that we'll make sure and alert ourselves to those. Okay? Thank you. Yes, Your Honor.",
+    "speaker": "judgegreene",
+    "tags": [
+      "judge_procedural_directive",
+      "record_reference",
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 118.033,
+    "end": 238.772,
+    "text": "This case is about how the trial court misapplied the law and abused its discretion in determining child support for two minor children. Not just a case of one appealable point, but many, as there were many flaws in the trial court's opinion, and one of which we believe requires reversal.  misapplied the law by ignoring the actual family history, awarded child support for certain expenses when those expenses did not primarily benefit the children, did not follow the plain language of the child support statute, shifted the burden to Mr. Klisch to rebut evidence of expenses for the children with documents when it did not require Mrs. Klisch to prove those expenses with documents.  disregarded the law by not doing a realistic assessment of Mrs. Clish's ability to pay child support. And it did not determine or rightly determined that Mrs. Clish's income for child support purposes was $342,000 per year.  The award was rooted in giving Mrs. Klisch child support so she was better able to meet her own expenses. Mrs. Klisch asked the trial court to consider her personal expenses of $201,000 per year as a basis for awarding child support. And the court did that. And the reason we know that the court did that is because the court acknowledged it in one of its rulings. The court said,  The Child Support Award, which includes an order that defendant pay retroactive child support, will put plaintiff on a more even footing with respect to the maintenance of the children going forward, which in turn will free her up to better bear her own costs. This is at page 33 of our brief, your honors. This is a case where Mrs. Klisch, who earns $342,000 a year that we assert, is paying less than 10% of the children's expenses.  and claims that she needs child support to buy Christmas gifts for her own children.",
+    "speaker": "darrylfeldman",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "legal_citation",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 240.193,
+    "end": 278.434,
+    "text": "Mr. Feldman, excuse me, let me ask you, is this a case where we should basically retry the case, do the job that Judge Leibowitz did, or do we owe some deference to her discretion in this case? This is a case where she took 95 pages to articulate with some care, not only that she was exercising her discretion,  but the reasons she was exercising it. And you would basically, it seems to me, have us second guess virtually all of those determinations and basically retry this case. Is that what we're doing here?",
+    "speaker": "judgegreene",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 279.719,
+    "end": 326.357,
+    "text": " No, Your Honor. The standard for review for a misapplication of the law is de novo. So we do ask for those instances that Your Honors review de novo the misapplication of the law that permeates throughout Judge Leibovitz's ruling. And in those situations, we don't ask that it be remanded for a complete retrial. We ask that the law be applied correctly to the facts in this case. So for example, relating to the mortgage expense,  We believe strongly that the misapplied the law regarding the mortgage expense and that payments related to the mortgage and the amount of payments related to the mortgage is a misapplication of law that can be cured and corrected by your honors. There is no need to remand and have a complete retrial and an almost.",
+    "speaker": "darrylfeldman",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 326.417,
+    "end": 335.962,
+    "text": "Can you just put a point on that? What was the misapplication of law with regard to the mortgage that you're talking about? Was it that she shouldn't have provided any amount for the principal payments?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 337.565,
+    "end": 374.788,
+    "text": " Correct your honor for there's a few things for the for the principal payments and for anything related to the mortgage payment, other than interest, we provide a calculation in our in our brief your honor. And your basis for saying that that was a misapplication of law is a Pennsylvania case.  Well, it's a Pennsylvania case, plus case law in the District of Columbia, the Meredith case, the Frisco case, which states that child support has to be primarily for the benefit of the children. When you have child support that basically increases the equity in your home, that drives primarily to the benefit of the title holder of the home, which is Mrs. Clish.",
+    "speaker": "darrylfeldman",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "legal_citation",
+      "fact_statement",
+      "record_reference",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 375.688,
+    "end": 411.716,
+    "text": "Maybe so. Maybe that goes to her.  The children get to live in the home in the meantime. And with, you know, I don't know if there's evidence that she could have gotten a cheaper house for as a rental, you know, knowing the DC market, I'm not so sure that would be true. So it might be that it was just a necessary expense to have a, you know, the similar house to what the children grew up in, in a similar neighborhood. So I just don't, I'm still just trying to get, cite the legal standard that you think she got wrong, the judge got wrong.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_comment",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 412.735,
+    "end": 423.038,
+    "text": " The legal standard is that child support must primarily benefit the children. And when you have portions of a payment... See, that doesn't sound like the NOVA review, though, because, I mean, she's certainly articulating that standard.",
+    "speaker": "darrylfeldman",
+    "tags": [
+      "legal_citation",
+      "substantive_argument",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 423.499,
+    "end": 427.28,
+    "text": "And so whether or not that's true sure sounds like we're in abusive discretion land.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 428.06,
+    "end": 521.92,
+    "text": "Well, I believe that's the standard, Your Honor, and that that standard, and that's the law, and that standard is misapplied and disregarded. For example, when it comes to this mortgage  the mortgage as it relates to everything other than the interest payment, because it's just like any other improvement to the house that benefits the title holder. When you pay a mortgage, there's a certain amount of the mortgage and it changes over time, but there's a certain amount of the mortgage that goes directly to reduction in principle. That directly benefits the title holder, that directly in theory increases the value of the equity in the home. And it's just like a capital improvement.  But it's more than a capital improvement. Because a capital improvement, if you improve your house and put on an addition, there's really no guarantee that the value of your house is going to increase dollar for dollar. You just don't know. It may, it may not, but usually not. But when you pay down dollar for dollar the principle of your mortgage, it is dollar for dollar increasing the equity in your home. And that is primarily benefiting the titleholder, Mrs. Clutch in this case.  may incidentally benefit the children because they live there, but it primarily benefits Mrs. Klisch, because long after the children have left, she's going to have that house. And all of the principal payments that were made based upon child support that were received inures solely to the benefit of Mrs. Klisch. None of that inures to the benefit of the children.  We believe that is a misapplication of the law, that she disregarded the law in that regard, related to the mortgage, related to the work-related childcare, related to transportation, that principle of the law.",
+    "speaker": "darrylfeldman",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 521.961,
+    "end": 540.231,
+    "text": "So if there are things that benefit the children while they are living there, but will incidentally benefit her once they leave,  Those are not appropriate for us to consider in terms of awarding child support, even though they benefit the children while they're there.",
+    "speaker": "judgegreene",
+    "tags": [
+      "judge_comment",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 541.211,
+    "end": 556.691,
+    "text": "We believe they have to primarily benefit the children. So as it regards to the house, if Mrs. Clish decides to put in a pool in her backyard.  going to love the pool. Every summer they get to jump in that pool, invite their friends over and have tons of fun in the pool, especially on really hot days.",
+    "speaker": "darrylfeldman",
+    "tags": [
+      "policy_argument",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 557.252,
+    "end": 569.302,
+    "text": "And suppose they're on the swim team in high school or college and the pool is absolutely essential to them keeping up their skills as swimmers. Would that change the calculus?",
+    "speaker": "judgegreene",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 570.003,
+    "end": 707.081,
+    "text": " I don't believe so, Your Honor, because at the end of the day, the pool is a capital improvement to the property of that house that inures to the benefit of the title holder of that house. So after that one or two years of them practicing in the pool, and then they graduate from college, that pool is going to remain there. And when Mrs. Clish markets her home to sell it, she's going to go, look, I put in this pool. The value of my home is much more now. She shouldn't get child support to be able to put a pool in the ground so the children can swim there two summers.  This principle also applies to things like the car, Your Honor, the transportation. This is a case where Mr. Klisch was ordered to pay child support to maintain the car.  The car is a unique situation in this case because immediately before the only a few days before the trial was the car even transferred into Mrs. Clish's name. Her mom paid all the expenses of the car. But the trial court decided that, and it's right in the judgment of absolute the divorce, the trial court speculated, we say, because  Mrs. Clish may need the car in case the children are in emergency, or it's very difficult to navigate the streets of D.C., so it's in the best interest of the children to have a car. Well, the car, again, is an asset of Mrs. Clish. Maintenance to the car only applies to maintain that asset. And throughout this, throughout the judgment of absolute divorce, and in this particular circumstance, there seems to be a different standard applied. It seems like the court applied a best interest standard.  the parent to have a car. But that is not the standard by which child support is awarded.  The standard by which child support should be awarded was actually correctly stated in the judgment of absolute divorce. On page 45 of the judgment of absolute divorce, the court said, the court will only award child support for expenses that reflect the actual family experience and the reasonable needs of the children. And that is primarily for the benefit of the children and is not speculative. So even the court stated that it has to be primarily for the benefit of the children.  The court further than went on the same page that said child support payments are for the benefit of the children, not the mother. Other issues that we raised in our... I just want to try this one more time.",
+    "speaker": "darrylfeldman",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "legal_citation",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 707.561,
+    "end": 728.703,
+    "text": "Other than Kalana, the 2004 Pennsylvania case that you cite,  Do you have any authority for the proposition that the principal payment in a mortgage, and similarly principal payments like the value that accrues in a car that's otherwise necessary to get children around needs to be discounted in a divorce proceeding. I only see claw.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 732.142,
+    "end": 735.845,
+    "text": " With that specific language, I think you're correct, Your Honor. No, not with language.",
+    "speaker": "darrylfeldman",
+    "tags": [
+      "acknowledge",
+      "agreement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 735.925,
+    "end": 749.618,
+    "text": "Just any court that's ever said, we are not going to award anything but the mortgage interest. We won't award principal payments, amounts that go to the principal, in cars, in homes, in anything. Do you have another case that?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 750.479,
+    "end": 763.753,
+    "text": " Well, for example, in the Prisco case, it speaks to capital improvements of the house. And this is not only just like a capital improvement, but it's even more so primarily benefit. It's not like a capital improvement, though, counsel, is my point.",
+    "speaker": "darrylfeldman",
+    "tags": [
+      "legal_citation",
+      "substantive_argument",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 763.793,
+    "end": 803.412,
+    "text": "My point is, you know, you don't get to live in the house without making the principal payment.  You know it's it's like providing housing for kids it's like paying rent. And now I understand there's an incidental benefit of principal accruing to somebody just like there isn't a car where you have to make the payments you know assuming you have a loan on the car you have to make the payments in order to drive it. I'm just wondering if you know.  Your authority seems pretty slim on that. It seems to be a pretty normal circumstance that mortgage is accounted for in child support payments. And I don't see courts discounting the principle. And I think for some good reason. And I would just like you to point me to what might persuade me that I'm wrong.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_comment",
+      "judge_question",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 805.377,
+    "end": 915.849,
+    "text": " If you look at the PRISCO case, it talks about things like capital improvements. And when you compare, for instance, a capital improvement or even a payment towards the principal of the mortgage versus rent, for example, that provides housing, the benefit derived by the person receiving the child support is entirely different.  So when someone receives child support for a mortgage, the benefit is even more than a capital improvement, like I tried to explain earlier, but maybe not so clearly, in that it increases the value of that asset. By paying the interest on the mortgage, it maintains that asset and allows the person to live in that house because you're paying the interest part. If Mrs. Clish, I agree with you, if Mrs. Clish had rented,  a home instead of choosing to buy a home, the analysis would be different because a benefit to her is entirely different in that circumstance. While there's no case that specifically other than the one in Pennsylvania, we cited DC that says, we're gonna make an exact distinction between mortgage and interest. The fact of the matter is, is by analogy, if we can agree that capital improvements can't get child support for capital improvements because it doesn't primarily benefit the children,  And the benefit derived is to the title holder, the principle of law is exactly the same when someone receives child support for the mortgage portion of the principle that only goes to increase the value of that asset.  And to point out the other part of what we think there was an abuse of discretion was that the court has Mr. Clish paying 100% of the entire mortgage expense for the half the time the children are with Mrs. Clish. And that just seems, it's an abuse of discretion, is unreasonable.",
+    "speaker": "darrylfeldman",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement",
+      "concession",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 916.99,
+    "end": 925.352,
+    "text": "Is there any evidence, was there any evidence in the record about what it would have cost to rent a comparable home in the Cleveland Park neighborhood?",
+    "speaker": "judgethompson",
+    "tags": [
+      "judge_question",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 926.68,
+    "end": 934.464,
+    "text": " No, Your Honor. Mrs. Clish did not put on any evidence. I know I tried to reserve three minutes, but I got carried away in answering your questions.",
+    "speaker": "darrylfeldman",
+    "tags": [
+      "acknowledge",
+      "fact_statement",
+      "reserve_time",
+      "time_management"
+    ]
+  },
+  {
+    "start": 934.964,
+    "end": 946.329,
+    "text": "Well, we'll give you a few moments. Seconds left, but I can answer any other questions now. We'll give you a few moments on rebuttal. Did you have more to say on that point?",
+    "speaker": "judgethompson",
+    "tags": [
+      "time_management",
+      "judge_question",
+      "judge_procedural_directive",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 948.27,
+    "end": 949.83,
+    "text": "Or the answer is just no.",
+    "speaker": "courtroomclerk",
+    "tags": [
+      "concession",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 949.951,
+    "end": 951.811,
+    "text": "There was no evidence about rental.",
+    "speaker": "judgethompson",
+    "tags": [
+      "judge_comment",
+      "fact_statement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 952.712,
+    "end": 988.539,
+    "text": "There was no evidence about rental because Mrs.  I believe the record reflects that Mrs. Klisch did not consider rentals and only considered buying a place and unilaterally chose to buy a house. The record will reflect that not only did she buy a house, but she bought a house and didn't even tell Mr. Klisch for months after the purchase, regardless of her motivation or reasons why. But it wasn't even something that Mr. Klisch even suggested to her that you should rent versus buy. She went and bought, and that was a unilateral decision that she decided  to make. Not any, there was a situation where she was forced to buy instead of rent.",
+    "speaker": "darrylfeldman",
+    "tags": [
+      "fact_statement",
+      "substantive_argument",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 989.12,
+    "end": 993.504,
+    "text": "But you didn't put in any evidence that it would have been cheaper to rent, right?",
+    "speaker": "judgegreene",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 994.559,
+    "end": 1057.792,
+    "text": " We did not put in any evidence, but as the record stands, I don't think that's a relevant, with all due respect, a relevant consideration, because what the court did was it ordered Mr. Clish to pay a portion of the mortgage. And that is what it is. And whether she rented is not, you know, not relevant as to whether as a matter of law, Mr. Clish should be required to pay the portion of the mortgage. We did put in evidence,  that she did have the ability and that she did have the opportunity to purchase homes less expensive. And the record also has evidence that we put in where she even said in text messages to other people that I can support myself based upon my income. I don't need Mr. Klisch's support. I can do this, you know, I can pay all this by myself. I don't need him at all. And then she, and so whether she could have rented, the fact is that she didn't, she chose to buy and clearly,  including a portion of the mortgage and the child support payments, and we believe a misapplication of the law.",
+    "speaker": "darrylfeldman",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "record_reference",
+      "fact_statement",
+      "concession"
+    ]
+  },
+  {
+    "start": 1059.153,
+    "end": 1063.095,
+    "text": "We'll give you a few moments on rebuttal. Thank you very much. Let's hear from your opponent.",
+    "speaker": "judgethompson",
+    "tags": [
+      "reserve_time",
+      "judge_procedural_directive",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1065.136,
+    "end": 1152.29,
+    "text": "Good morning, your honors. May it please the court. My name is Erin Golding, and I represent the appellee, Aaron Sears, formerly Aaron Klisch, in this matter.  The applicable standard of review for the Court of Appeals to apply in reviewing the trial court's child support decision is abuse of discretion. The trial court has broad discretion in making child support decisions. Absent a showing of abuse of discretion, such decisions, both under the statutory guideline and independent of the guideline, as in this case, will not be disturbed on appeal.  As this court stated in the case of Johnson versus United States in 1979, they're prepared to countenance imperfections in the trial court's exercise of discretion to enjoy more fully the advantages of making the determination discretionary. Furthermore, the court of appeals is to defer to the trial court's findings of fact, unless they are plainly wrong or without evidence to support them.  There's also the issue in this case of whether the trial court's decision to apportion the fees for the parent coordinator with Mr. Clish paying 75% of those fees and Ms. Sears paying 25% of those fees was appropriate. And the appropriate applicable standard of discretion for the Court of Appeals to apply to that issue is also abuse of discretion for the Jordan v. Jordan case.",
+    "speaker": "eringolding",
+    "tags": [
+      "opening_argument",
+      "legal_citation",
+      "substantive_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 1153.494,
+    "end": 1242.425,
+    "text": " Ms. Golding, I'd be interested in hearing your response to the point that Mr. Feldman makes most clearly in his reply brief, although I think he makes it in the opening brief as well, which is that the result of the court's child support order is that your client is enabled to pay very little child support and much less than  she would be expected to pay given her earnings expectations, and that this contravenes the general principle about the responsibility to provide for one's children and pay support. The award definitely reflects the trial court's recognition that  Mr pushes earnings were were multiple amounts of multiple times.  Ms. Sears' earnings for sure. Nevertheless, her income level is such that one would expect that she would pay more than she ends up paying under the court's award. I'm not sure what the precise amount is, but Mr. Feldman lays out some figures in his brief. What's your reaction to that?",
+    "speaker": "judgethompson",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 1243.926,
+    "end": 1299.968,
+    "text": "Your Honor, one of the basic principles  of child support in the District of Columbia is that the child is entitled to support commensurate with the income and lifestyle of the parents. And when the family is intact, that lifestyle is very much dictated by the parent who has the higher earning salary, in this case, Mr. Klisch. The very principle of child support, the way that it is structured in the District of Columbia for children  of parents of all income levels is using the income shares model. The income shares model does look at both parents' incomes. And in particular, it's actually federal regulations that require states in their child support guidelines to ensure that the guidelines are reflective of the parent who has the duty to pay child support, which is in this case- Well, let me ask you about that for a moment because",
+    "speaker": "eringolding",
+    "tags": [
+      "substantive_argument",
+      "policy_argument",
+      "fact_statement",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 1300.455,
+    "end": 1337.808,
+    "text": " The federal government's role with respect to child support enforcement has to do with that federal program that helps that provides monies for states to pursue parents for child support. I'm not sure that it is relevant to disputes such as this one.  where there are not efforts to escape paying child support at all, such that the government has to go after a parent. Do you think the federal guidelines are relevant to this? So I think the federal government, the guidelines are relevant to the principle.",
+    "speaker": "judgethompson",
+    "tags": [
+      "judge_comment",
+      "judge_question",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 1338.406,
+    "end": 1408.904,
+    "text": " that each state is required to establish child support, which is reflective of the income of the higher earning parent, the parent who has the duty to pay child support. Moreover, the case law, throughout the case law, child support case law in the District of Columbia, stands for the principle that when child support is established, the child should not live at a standard of living substantially below that of the parent with the obligation to pay support.  And that standard of living of the child can not only include bare necessities, but also the comforts and luxuries of life. The child's reasonable expenses or necessities may vary with the financial status of the family, the customs, the family's social circle, and the needs of those particular children. And thus, the law provides that in  The child support guideline for cases such as this one sets a minimum amount which the court must order in child support, but that the judicial officer may exercise discretion to order more child support after determining the reasonable needs of the child based on the family's actual experience.",
+    "speaker": "eringolding",
+    "tags": [
+      "legal_citation",
+      "substantive_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 1409.505,
+    "end": 1499.106,
+    "text": " Mr Feldman's point though seems to be that the children could continue to enjoy the lifestyle that they enjoyed before dissolution of the marriage. If your client paid somewhat more towards child support and somewhat less  toward her own expenses. Mr. Feldman's brief, you know, suggests that she spends a great deal on clothing and personal maintenance and other things. And again, we don't have to debate the accuracy of the figures there.  But the suggestion is that there didn't need to be this 90-10 split in order for the children to maintain the lifestyle that they had had if only your client had been expected to pay something closer to what she  would pay if she were a single parent earning what she earns, for example. No one would get away with paying merely, what is the figure, $800 a month. I don't know what it is. I won't debate you on that. But I see the point. And that's what I'm trying to get you to refer to. Why should she escape paying something  like something closer to what she would have paid if she had that single salary and was trying to support the children in a manner that they had grown accustomed to? Because it seems possible on this record. What's the answer to that?",
+    "speaker": "judgethompson",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 1499.867,
+    "end": 1543.952,
+    "text": "Well, Your Honor, respectfully, there was evidence in the record regarding this year's personal expenses. However,  The court's Child Support Award was not based at all on Ms. Sears' expenses and did not take into consideration whether Ms. Sears would be in a deficit based off of her budget and her own personal expenses. The Child Support Award was based squarely on  the children's expenses and the evidence regarding the children's expenses and, and the family's past experience of what what expenses the family paid for when they were still intact. So, yes, that was in the record.",
+    "speaker": "eringolding",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "record_reference",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 1544.812,
+    "end": 1556.501,
+    "text": " On that point, do you want to touch on the 40-hour-a-week au pair that is living in and doing a lot of, seemingly a lot of work for Ms. Fletch, even when she doesn't have the children?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 1557.902,
+    "end": 1625.344,
+    "text": "Yes, Your Honor. This family, since the first child was born, had a full-time nanny who provided care for the children. The children were accustomed to having  a nanny who was there day in and day out to provide care for them in their own home. The nanny, and there's extensive evidence in the record regarding this, but the nanny was intricately involved in the family. She picked the children up from school, arranged playdates for them, brought them to their activities, really helped to provide care for the children.  When both parents in this family were lawyers, had demanding jobs and each of them, they required care that was beyond the scope of just a nine to five type job. Ms. Klisch continued that same type of care and same experience that the children had known their entire lives.",
+    "speaker": "eringolding",
+    "tags": [
+      "acknowledge",
+      "fact_statement",
+      "substantive_argument",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 1625.504,
+    "end": 1628.325,
+    "text": "But also had a full-time nanny when the children weren't with her, right?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 1630.598,
+    "end": 1643.148,
+    "text": " There wasn't an option, however, Your Honor, or certainly there was no evidence put into the record that a part-time nanny was available or that it would have cost anything less.",
+    "speaker": "eringolding",
+    "tags": [
+      "rebuttal_argument",
+      "fact_statement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 1643.897,
+    "end": 1667.216,
+    "text": " Actually, actually, could you answer a question for me that I have about that? I take it, you know, it seems like a perfectly logical way to do this would be to have one full time nanny, Miss Luna, who cared for the kids both when she was with both when they were with mom and with dad. I take it, Miss Luna and Miss Klitsch, that was not possible. There was a strained relationship. Miss Luna tended to side with Mr. Klitsch. Is that right?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1668.697,
+    "end": 1724.388,
+    "text": "Well, your honor, I think this is a family where there was  conflict certainly between the two parties. And so, and that was, there was certainly a lot of evidence put into the record regarding the conflict between the parent, the parties, hence the reason that a parent coordinator was needed. So in some respects, you know, having each parent have control and decision-making regarding their own childcare,  was appropriate in the best interest of the parties. And in this case, Mr. Klish did continue to use Miss Luna and employed her full time even after the date of the party's separation. She continued to be a full time employee. He continued to pay her at the rate of a full time employee, even after the parties were living in separate homes and following a 50 50 custody schedule. So but he elected to do that.",
+    "speaker": "eringolding",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "concession",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 1724.508,
+    "end": 1759.442,
+    "text": "Right.  That's the reason he decided to do that. But when then Mrs. Klisch was pressed on it in trial, she had a difficult time where, first of all, she said 20 to 25 hours of childcare took place. But when she got pinned down, it was really more like six or seven or eight hours.  of childcare that took place per week. And so she's getting 40 hours a week paid for about six to seven hours of childcare, right?",
+    "speaker": "judgegreene",
+    "tags": [
+      "judge_comment",
+      "fact_statement",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 1760.002,
+    "end": 1816.82,
+    "text": "Well, Your Honor, respectfully, in certain weeks, just because of the custody schedule, each parent has the children a little bit more time in one week versus the other. So I believe that is focusing on the week when the children are more in Mr. Klisch's care. Overall,  The number of hours required for childcare are higher than that. And the focus is really on in a family of this means this level of means looking at what did the children know.  prior to the separation? What were those expenses? And is moving forward, what are the children's reasonable needs based off of that prior experience? And was the trial judge's determination that this childcare was appropriate and reasonable for these children, was that an abuse of discretion? And based off of the trial record, I do not think it was.",
+    "speaker": "eringolding",
+    "tags": []
+  },
+  {
+    "start": 1819.783,
+    "end": 1843.775,
+    "text": " When you say this amount of childcare, nobody's arguing with the amount of childcare that the kids needed. What seems clear from the record is that the amount of childcare they received was about six to 10 hours at the most in any given week. Isn't that right or not? That's what the record seems to reflect to me.",
+    "speaker": "judgegreene",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 1845.53,
+    "end": 1918.525,
+    "text": " No, Your Honor, certainly in some weeks, the amount of child care would be higher, depending on what the custody schedule is in those weeks. And the role of the, just as with the nanny who was Ms. Luna prior to the party's separation, Ms. Luna would have been involved in helping to pick up the children from school, help them to bring them to their activities, have care that's  with them on a daily basis and be able to accommodate, you know, changes in the parents' work schedules, if a parent needed to work late into the evening or needed to work on weekends, things like that, which happen in jobs that, you know, are demanding and require, you know, parties to work when they need to work, as in this case.  Moreover, just so the Court is aware, this issue may be moot as the parties, my understanding, as they reach an agreement related to the child care expense to move that expense outside of the basic child support payment and to  pay for child care expenses proportionally with their respective incomes when those expenses are incurred.",
+    "speaker": "eringolding",
+    "tags": []
+  },
+  {
+    "start": 1919.006,
+    "end": 1932.696,
+    "text": "Mr. Feldman is making a face as if this is not so well agreed upon. So maybe we'll hear from you later, Mr. Feldman. But if the parties want to submit something, you know, you're welcome to. But it's tough to take it as a representation and argument.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_comment",
+      "judge_procedural_directive"
+    ]
+  },
+  {
+    "start": 1935.652,
+    "end": 2014.602,
+    "text": " If I may just address the point Mr. Feldman was making regarding the Prisco case as support for the principle that the principal portion of mortgage payments could not be included in child support. If I may, the Prisco case I believe is distinguishable and does not extend to the point that Mr. Feldman is trying to argue that it does.  The Prisco case was a case where the case was before the court on a motion to modify child support. Child support had very recently been set by a trial court in Fairfax County. So there was a very short period of time between that prior child support order and the motion to modify child support that was pending. And the court determined that  The record did not support that there had been a material change in circumstances. One of the basis for that was mentioning that some of the expenses that the mother asked to be taken into consideration were expenses related to renovations of the home, but that the court did not believe that those extended for it to provide basis to state that child support should have been modified on that record.",
+    "speaker": "eringolding",
+    "tags": [
+      "legal_citation",
+      "rebuttal_argument",
+      "substantive_argument",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2016.675,
+    "end": 2040.045,
+    "text": " I have just one or two quick hits for you, and I know you're out of time, and I won't keep you up here too long. Isn't it right that the trial court double counted some vacation meals? She should have discounted the 15 days of vacation meals when factoring in. It's a real marginal expense, but it seems that there is some double counting in that. Do you agree or not?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question",
+      "time_management",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 2041.175,
+    "end": 2075.122,
+    "text": " I respectfully do not agree, Your Honor, because the underlying data that the expert, Ms. Rowney, looked at in preparing the financial statement and preparing the averages for both the restaurant expenses as well as dining out expenses, the prior history reflected the same, if not more, vacation expenses. And so when looking at average expenses that are paid on dining out, both on  normal basis in D.C. as well as on vacations, that would have been accounted for in the data.",
+    "speaker": "eringolding",
+    "tags": [
+      "disagreement",
+      "rebuttal_argument",
+      "substantive_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 2076.603,
+    "end": 2081.686,
+    "text": "I don't recall. I'm not sure if I agree that that's true, but it's certainly one way that it could be justified. So I'll take another look.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_comment",
+      "disagreement",
+      "concession",
+      "hedge",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2084.876,
+    "end": 2152.523,
+    "text": " You responded by explaining to us why you think the Prisco case doesn't really provide support for Mr. Feldman's argument. But what is your response to the theory underlying his argument, leaving aside whether he has case support for it? His theory seems to be  that child support should not essentially give principle to the mother in this case.  The child support should be applied toward interest costs, he acknowledges, but principal payments essentially put equity in her pocket, so to speak. Why should child support be used for that when it would be possible to find a home for the children, or at least it seems it would be possible to find a home for the children on the rental market in the neighborhood where their school is?  Why should child support go toward building equity in a house for the mother?",
+    "speaker": "judgethompson",
+    "tags": [
+      "judge_question",
+      "policy_argument",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 2153.843,
+    "end": 2357.795,
+    "text": "Your Honor, respectfully, that certainly could have been an argument and evidence that could have been put on at trial for the court to take into consideration in exercising its discretion. I would be concerned about a legal principle that stands for that because, in effect, it puts a disincentive on a parent from choosing to own a home  and provide the stability to the children that may come with having a home in one neighborhood for a longer period of time, rather than a rental property where the parent may, you know, may rental prices can increase, they might get pushed out of a neighborhood, there could be all sorts of other  ripple effects that would arguably be negative and not for the best interests of these children that would come from a legal sort of a black line along those cases. And it would really impact, I fear, parents across the board in the decisions that they felt that they could make based off of what they can afford if they know that the principal portion of a mortgage payment is somehow going to be cut out  you know, D.C. housing expenses are expensive and it is what it is. And I think the court exercised appropriate discretion in this case by, you know, allocating sort of the bare minimum that Ms. Clish needed to, or Ms. Sears needed to pay in order to remain in the Cleveland Park neighborhood for these children so that they could remain in the neighborhood they had known their whole life. The court did not include costs for home maintenance,  did not include sort of any extras in the housing expense category. The only expense that was included was that mortgage payment, which Ms. Sears had no way of, no other alternative to minimize that other than potentially moving much further away in order to have a house of significantly lower cost. She would have needed to move probably multiple neighborhoods away  or live in a much smaller rental property. And these children had grown up their entire lives in a home down the block that cost $3.9 million in 2008. That is what they were used to. And Ms. Sears bought a property worth only 1.225 million. That's what she purchased it for. It's not even a comparable  home to what the children had known their entire lives and what they still know when they're with Mr. Klisch on his custodial time. Part of the purpose of child support is to help to mitigate against severe differences between the children's lifestyles when they're with each parent so that the children aren't having completely different experiences with mom versus with dad and that the children aren't  concerned that mom is needing to look at her checkbook every month and be worried about how she's going to pay the bills when dad clearly in this case does not have that concern. Thank you.",
+    "speaker": "eringolding",
+    "tags": [
+      "substantive_argument",
+      "policy_argument",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2359.836,
+    "end": 2363.419,
+    "text": "Mr. Feldman will give you two minutes if you need it.",
+    "speaker": "judgethompson",
+    "tags": [
+      "judge_procedural_directive",
+      "reserve_time",
+      "time_management"
+    ]
+  },
+  {
+    "start": 2364.873,
+    "end": 2425.322,
+    "text": " Thank you, Your Honor, Your Honors. First, I'd just like to say, I think some of the things, with all due respect to Ms. Golding, that she was arguing were outside the record, conjecture and speculation. A few things. The $201,000 of Ms. Klisch's personal expenses, that is something that she put into the record. This was nothing that we had to prove. She said to the court, I have $201,000 of personal expenses,  Please, you need to take this into consideration and what she did what she had her actual cash flow projections, saying that she was at a deficit because her for personal expenses were so high. And as I said in my opening it's clear that the court took that into consideration because it said, one of the reasons it awarded her she award of child support because freed up other income.  for her to pay her personal expenses. And the law prohibits this sort of, this sort of- I'm sorry, but the thing you're quoting us says, so she could pay her own costs, which you very well might finish that sentence with her own costs of caring for the children.",
+    "speaker": "darrylfeldman",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "fact_statement",
+      "record_reference",
+      "disagreement"
+    ]
+  },
+  {
+    "start": 2425.722,
+    "end": 2436.928,
+    "text": "I mean, it doesn't say to like upkeep her personal lifestyle. It seems like a pretty uncharitable reading of a single sentence in the trial court centered page order that you're like trying to hook a lot of your argument onto.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_comment",
+      "disagreement"
+    ]
+  },
+  {
+    "start": 2439.301,
+    "end": 2480.609,
+    "text": " I think it's within the, whatever that $201,000 comprises of, it's part of that $201,000. And it's clear that Ms. Klisch wanted the court to take that $201,000 into account by saying, basically, a realistic assessment is because my personal expenses are so high,  I need X amount of child support. I'm not going to be able to break even. And again, with all due respect to Ms. Goulding, I don't believe she fully answered your honor's questions as to why it's justifiable that she only pay about $800 per month when she could earn $342,000 because that is what her employer told her that she can earn making full-time employment.",
+    "speaker": "darrylfeldman",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "fact_statement",
+      "disagreement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2481.049,
+    "end": 2494.564,
+    "text": "Mr. Isn't the answer that it's her proportionate share when you take into account the respective salary, the respective income of the two parties.  Your client pays 10 times as much because he makes 10 times as much. What more justification do you need?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "disagreement"
+    ]
+  },
+  {
+    "start": 2495.385,
+    "end": 2544.638,
+    "text": "Because the court has to do an independent assessment of each party's ability to pay child support. And the law doesn't provide that in the above guidelines cases, all you do is just add them up and do it by percentages.  That's not what the law is. Each party, each litigant has a duty to support their children. And the court has to independently assess a party's ability to do that. And when they assessed her ability and she paid $342,000 and said, but 201,000 of that went to my personal expenses. So I can only afford and I should only pay $800 per month toward my children's expenses.  I believe that provides an absurd result. Could you imagine if Mr. Klisch immediately before the trial said, I'm not going to be a law firm partner anymore, but I'm going to take another job making $100,000 or $200,000 a year, but I'm going to have a lot of personal expenses, so I just can't afford to pay towards the children's expenses.",
+    "speaker": "darrylfeldman",
+    "tags": [
+      "substantive_argument",
+      "policy_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 2544.958,
+    "end": 2601.97,
+    "text": "Yeah, but I mean, Ms. Klisch, her counsel is saying that really didn't ultimately, her personal expenses didn't end up factoring into the trial court's analysis, which was a direct proportionality to the incomes of the parties.  put it to you, you know, if Jeff Bezos, when Jeff Bezos and his wife got divorced, she obviously had a ton of money in which you could have provided for unbelievable care for her children. Does that mean that he shouldn't pay his proportionate share when you look at their salaries comparatively?  Well, I just don't understand the principle you think the trial court violated by by imposing some proportionality by taking into account their respective abilities to pay and saying well yeah she has some ability she could pay a lot, but he can pay 10 times more because he makes 10 times more so that's I want to split it as a 9010.  because that's not the ru has to assess her ability children's expenses.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 2601.99,
+    "end": 2717.299,
+    "text": "She 10% of the ability as he h that? That's an assessmen  because if someone's making $20 million and another person's making $8 million, I think what would happen in court is that the person making $8 million shouldn't be receiving child support because that person has the independent ability to support the children based upon the income that they have. And I'm not saying in this case, that's not our position that she shouldn't receive child support. But what we're saying is, is that only when you make $342,000 and the court says you only have to use 800 a month  that $342,000 to support your children. And the rest is not only Mr. Klisch's problem, remember, he's paying 100% of the children's expenses when they're in his care. He's paying 90% under this order, 90% of the children's expenses were in her care. And in fact, the court ordered him to pay 100% of the mortgage.  When it's in her care I mean the court said and it's most ruling promotion to alter our men the court recognizes plaintiff may see a return of investment. Over time, the court sees the court says didn't assess any maintenance costs to Mr. Because it would be unfair, but for him paying all the mortgage and that's simply.  The court respectfully disregarded the law. The fact that the Prisco case is a modification case is not relevant. It's the principles of law set forth in the Prisco case. And so it's not a matter of  What is in, what is the motivation? I don't think it should be the policy of determining the motivation of a, and whether they determine to rent or buy, because if they buy, they know that they might not get child support for the principal portion of their mortgage payment. That should not be a consideration. What should be a consideration is the best interest of the child, right?",
+    "speaker": "darrylfeldman",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "policy_argument",
+      "fact_statement",
+      "rebuttal_argument",
+      "disagreement",
+      "concession"
+    ]
+  },
+  {
+    "start": 2717.92,
+    "end": 2797.515,
+    "text": "Of the children.  And we try to put children who have gone through a terribly difficult situation with tremendous tenseness in this family that is not chargeable to them. We try to restore them as best we can to the situation they would have been in had this divorce not occurred. And it seems to me that Judge Deal is absolutely right. If you're going to try to do that for these kids,  and have them experience all the benefits they had when both parents were together and both incomes were fully used towards them, that you should divide it up in a way that maximally benefits the children. Your client made it clear at some point in the trial that this wasn't a matter of whether he could afford this or not. We're not talking about a balance that's hurting him from what his testimony is.  And finally, I would note, you keep using this $345,000 figure. That was not the figure that Judge Leibowitz concluded that Ms. Sears made. Her conclusion was about 265.  So we should be as accurate as we can be. Two things real quick.",
+    "speaker": "judgegreene",
+    "tags": [
+      "policy_argument",
+      "agreement",
+      "fact_statement",
+      "record_reference",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 2798.635,
+    "end": 2830.714,
+    "text": "Our position is that it should be $342,000. I can talk about that in our brief, because the week before trial, she voluntarily decided to go to 85%. And then after her case rested, she voluntarily decided to quit her job, making a lot less. And so there was no impediment to full-time employment.  And the result of what happened was is that she reduced her income voluntarily without any impediment to full-time employment for child support purposes. And our position is that should not be allowed.",
+    "speaker": "darrylfeldman",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "opening_argument"
+    ]
+  },
+  {
+    "start": 2832.175,
+    "end": 2842.542,
+    "text": "And have the parties agreed on the child support issue, as Ms. Golding said earlier? Well, I think what she talked about was outside the record.",
+    "speaker": "judgegreene",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 2843.162,
+    "end": 2853.892,
+    "text": "And since, and I can discuss what has occurred outside the record if you would like, but it  I'm just in a position of I don't know whether I should discuss things outside the record.",
+    "speaker": "darrylfeldman",
+    "tags": [
+      "court_procedural_remark",
+      "record_reference",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2854.312,
+    "end": 2859.595,
+    "text": "I'm happy. I just want to know if we're going to be asked to resolve an issue that the parties have already either.",
+    "speaker": "judgegreene",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 2860.316,
+    "end": 2942.07,
+    "text": "I would say either way, because we believe that there should be whatever your honors do, that it should be retroactive. And he was required to pay a large amount for this pair of retroactive.  And so, even if they have struck a different deal, which I can talk about if you want, there is a large retroactive award, a good portion of it related to the work-related childcare. If we remember, the actual family experience was 20 hours a week. Ms. Klisch had 40 hours a week for half the week. And Ms. Cohn, her au pair, won. A lot of what she did was not even childcare.  Things for Mrs. Clotion 2 wasn't work-related child care. And if you specifically look at the statute, what the court had to determine was, it had to determine work-related care determined by the actual family experience, this is subsection K, unless the judicial officer determines that the actual family experience is not in the best interest of the child.  If there's no actual family experience or the actual family experience is not in the best interest of the child, the judicial office shall determine a reasonable care expense based upon the cost from a licensed source. In this case, Ms. Clish, increase the actual, increase the standard, increase the actual family experience. At a minimum, only for work-related child care assess what the actual family experience was, not greater than the actual family experience.",
+    "speaker": "darrylfeldman",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2942.74,
+    "end": 2963.121,
+    "text": " I think it would be helpful, Mr. Feldman, if the parties tell the court whatever you wish to tell us that's not in the record, and then you are free to tell us why we should or should not take it into account in our decision. Why don't we do that? We will hold in abeyance the answer to the question, can we consider it.",
+    "speaker": "judgethompson",
+    "tags": [
+      "judge_procedural_directive",
+      "judge_comment",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 2964.602,
+    "end": 2980.533,
+    "text": " Uh, okay. So Ms. Cone, the au pair is no longer employed by Mrs. Clish. She no longer employs an au pair. And well, let me stop you and say that I was suggesting that you could submit a letter to the court.",
+    "speaker": "darrylfeldman",
+    "tags": [
+      "fact_statement",
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 2980.573,
+    "end": 2986.978,
+    "text": "Why don't you do that? And if you have some argument about why we should or shouldn't consider it, you can, you can set that out as well.",
+    "speaker": "judgethompson",
+    "tags": [
+      "judge_procedural_directive"
+    ]
+  },
+  {
+    "start": 2988.74,
+    "end": 2991.362,
+    "text": " I misinterpreted what you said. No, that's quite a riot.",
+    "speaker": "darrylfeldman",
+    "tags": [
+      "concession",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2991.382,
+    "end": 2996.806,
+    "text": "And if, if my colleagues would like you to continue, you certainly, they can so indicate, and you certainly may.",
+    "speaker": "judgethompson",
+    "tags": [
+      "judge_procedural_directive",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2997.447,
+    "end": 2997.587,
+    "text": "Sure.",
+    "speaker": "judgethompson",
+    "tags": [
+      "acknowledge",
+      "agreement"
+    ]
+  },
+  {
+    "start": 2997.867,
+    "end": 3038.512,
+    "text": "And the only thing I would add in rebuttal is that if you look at a lot of the expenses that were used by the trial court and building up the child support number, there were really, they had no evidentiary basis and they were cherry picked based upon one, two, or three expenses.  So for example, if you look at the financial statement, which was exhibit 31, food or clothing is based upon one transaction. A lot of the recreation is based upon just a few transactions that happened after the date of separation. So what we have here is a situation where the court is basing a monthly amount to go into perpetuity based upon one clothing transaction.",
+    "speaker": "darrylfeldman",
+    "tags": [
+      "rebuttal_argument",
+      "substantive_argument",
+      "fact_statement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 3039.733,
+    "end": 3047.264,
+    "text": "What stopped you from submitting contrary evidence?  So you put on your client to testify. Oh, that's all bogus. You don't spend that much.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 3047.811,
+    "end": 3159.832,
+    "text": " Well, what happened was is we did, and what the court did was it improperly shifted the burden onto my client. So what happened was Mrs. Clish provided mostly testimony, hardly any documentary proof of these expenses. Mr. Clish then rebutted those expenses. But if you read the judgment of absolute divorce in the ruling, it improperly shifted the burden to Mr. Clish when they said, rebut those expenses with documentary evidence.  It didn't require any hardly any documentary evidence of misclash but it required the ship improperly shifted the burden to Mr. Cliff to disprove those expenses. It didn't say that she didn't just believe Mr. He didn't properly rebut it.  provide documentation to rebut the testimony of Ms. Glish. It was improper shifting of the burden in this case because it is Mrs. Glish's burden, the recipient party's burden, to prove the expenses of the children based upon the actual family experience, and the court did not do that. That alone, you know,  Well, the court said it was improper shifting, which is just one of many reasons why the court can reverse in this instance, when it talks about the evidentiary basis of what it accepted as evidence and based upon in perpetuity. After the date of separation, Mrs. Clish takes the children to indoor skydiving and then says, well, indoor skydiving, which we've never done before,  I've done this, and I anticipate doing it three or four times a year. So now, you see that kind of pattern and that methodology. One expense done three or four times a year, the expense was never incurred in the past, or maybe only one time in the past. That's the basis for the Child Support Award. And simply by telling an expert, this is what I've done, and then the expert regurgitates that, that's not expert testimony. It's not an expert testimony to say what she said.  It's simply not.",
+    "speaker": "darrylfeldman",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "court_procedural_remark",
+      "fact_statement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 3159.892,
+    "end": 3224.566,
+    "text": "I think we have your argument, Mr. Feldman. We understand the points. Thank you to both parties for your arguments, and the case will be submitted. And I will now call the next cases, which are numbers 18 CF 1242 and 18 CF 1268, David Sutton versus United States and Duquan Gregory versus United States.  All right, I think we're ready to proceed. Good morning to you, counsel. And let me ask Ms. Allen and Ms. Beskier how you plan to split the time this morning. Oh, I guess we don't have Mr. Coleman, do we? Sorry.",
+    "speaker": "judgethompson",
+    "tags": [
+      "judge_comment",
+      "case_transition",
+      "case_call",
+      "time_management",
+      "judge_procedural_directive",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3226.987,
+    "end": 3230.829,
+    "text": "He's joining, Judge Thompson. He's coming in slowly. He should be here shortly. All right.",
+    "speaker": "courtroomclerk",
+    "tags": [
+      "court_procedural_remark",
+      "fact_statement",
+      "time_management"
+    ]
+  },
+  {
+    "start": 3256.858,
+    "end": 3259.98,
+    "text": " There's Mr. Coleman. Can you hear us?",
+    "speaker": "judgethompson",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 3261.0,
+    "end": 3266.983,
+    "text": "Yes, Your Honor. All right, good morning. Sorry, I was about to start without you before I noticed you weren't with us.",
+    "speaker": "nicholaspcoleman",
+    "tags": [
+      "acknowledge",
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 3267.123,
+    "end": 3274.327,
+    "text": "My apology. Now let me ask Ms. Allen and Ms. Baskier how they plan to split their time this morning.",
+    "speaker": "judgethompson",
+    "tags": [
+      "judge_question",
+      "judge_procedural_directive",
+      "time_management"
+    ]
+  },
+  {
+    "start": 3275.983,
+    "end": 3287.047,
+    "text": " We have agreed to divide it where I will use, I will go first and use 10 minutes for Mr. Gregory and then Ms. Allen will follow and use five minutes for Mr. Sutton.",
+    "speaker": "cecilybaskir",
+    "tags": [
+      "reserve_time",
+      "time_management",
+      "agreement"
+    ]
+  },
+  {
+    "start": 3288.948,
+    "end": 3302.433,
+    "text": "Well, thank you. And as you may have seen from the previous argument, we have been a little liberal in allowing council to exceed the time. So that might happen here as well. So why don't you proceed Ms. Baskir?",
+    "speaker": "judgethompson",
+    "tags": [
+      "judge_comment",
+      "court_procedural_remark",
+      "time_management",
+      "judge_procedural_directive",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3303.38,
+    "end": 3379.359,
+    "text": " Thank you, Your Honor. Good morning. May it please the court. My name is Cecily Basquier on behalf of Appellant Daquan Gregory. As we just noted, Mr. Sutton's counsel and I have agreed to divide the time. And I would like to reserve two minutes of my 10 minutes of time for rebuttal. This case is full of things that we don't know. And the government makes guesses and assumptions, but those are not enough to sustain Mr. Gregory's convictions. For example, no one identified Mr. Gregory  as being a part of any of the crimes that took place in DC. He wasn't identified as the person who actually committed them. He wasn't identified as the getaway driver for any of the DC crimes. He wasn't identified as a lookout or in any way as encouraging Mr. Sutton in the crimes in DC.  And there's no evidence that Mr. Gregory actually talked with Mr. Sutton at all that day, except for one completed phone call before the Maryland incidents. And we don't have any evidence about what the content of that one 43-second phone call was. Plus, we don't have any evidence that Mr. Gregory was wearing any noticeable earrings at the time that he was stopped and arrested after the car crash that afternoon.",
+    "speaker": "cecilybaskir",
+    "tags": [
+      "opening_argument",
+      "substantive_argument",
+      "reserve_time",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 3380.285,
+    "end": 3390.088,
+    "text": " I take it you want to when you talk about there being no evidence in the D.C. cases that you want to bracket the Miss Navarro incident where he was caught on the scene, right?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 3391.649,
+    "end": 3399.231,
+    "text": "Yes, your honor. I'm speaking referring to the the car theft and the robberies in in speaking about that.",
+    "speaker": "cecilybaskir",
+    "tags": [
+      "acknowledge",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 3400.111,
+    "end": 3420.208,
+    "text": "Right. And as to the car theft, just a comment or a question about what you just said.  Can you help me with the phone records a little bit? My understanding, when I look at the phone records, is that there was a completed call between Mr. Sutton and Mr. Gregory. I believe it was at 3.57 PM. Is that right?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_comment",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 3421.268,
+    "end": 3427.03,
+    "text": "Yes, Your Honor. That is the one completed phone call that the records show that the two of them had that whole day.",
+    "speaker": "cecilybaskir",
+    "tags": [
+      "acknowledge",
+      "fact_statement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 3427.47,
+    "end": 3434.673,
+    "text": "Which happens to be right at the time that Lazaro Casas' car was being, when he was carjacked, correct?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 3435.854,
+    "end": 3444.959,
+    "text": " Yes, the call happens about one minute before Mr. Casas calls 911 and he said he called 911 about two minutes after his car was taken.",
+    "speaker": "cecilybaskir",
+    "tags": [
+      "acknowledge",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 3446.8,
+    "end": 3475.153,
+    "text": "Well, let's assume he wasn't a perfect, he wasn't perfect at estimating one versus two minutes in a traumatic event.  So so that it might have been perfectly contemporaneous with the carjacking. And then and they were also both right in the area. Correct. And it's not at all where Mr. Gregory or Mr. Sutton lives in that area. So it just happens to be across town making a phone call to the guy while committing a carjacking seems like quite a bit.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_comment",
+      "substantive_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3477.282,
+    "end": 3580.791,
+    "text": " Well, Your Honor, I think if we look at the individual pieces of that, it's not as much as the government has suggested that it is. First of all, yes, Mr. Gregory was officially residing somewhere not in that area. But there are many perfectly innocent explanations why he may have been in that area, such as maybe had a friend called Sam or Joe or something who happened  to live in that area may have been hanging out with him. And the nature of this car theft is so impromptu, last-minute, improvised, that it doesn't look like the kind of thing that could have been planned in advance. Moreover, when you look at that 43-second phone call, I've actually been practicing to see how much I could say or how much I could have a conversation with someone in 43 seconds. If, in fact, Mr. Gregory were in the neighborhood because he had somehow conspired  to do this car theft or do robberies in advance with Mr. Sutton, there's absolutely no need to have a 43-second long phone call. If it's just about, hey, I grabbed a car, where are you? Let me pick you up. That takes much less time, whereas 43 seconds is ample time for a  like hey you know Sutton who's been headed to go to Sam's house also where Gregory's playing poker or smoking weed or whatever may be going on he's like hey man like you know want to go for a spin no I'm in the middle of my poker game um how about we meet an hour later yeah let's meet at Pete's place up near Fort Totten there's quite a lot that can be said in 43 seconds but if in fact Mr. Gregory had been planning this with Sutton there's no need for a long phone call at that  Particularly it might be, hey, I'm over here on the corner.",
+    "speaker": "cecilybaskir",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "fact_statement",
+      "concession"
+    ]
+  },
+  {
+    "start": 3580.811,
+    "end": 3616.562,
+    "text": "I don't see any cars come in right now. Is he inside? Is he outside when he goes in? Let me know. And I'll tell you if anybody's coming. I mean, look, I agree. We don't know exactly. But being in the neighborhood when it happens with a guy that he's caught an hour and a half later within the car, I understand that Mr. Sutton wasn't caught in the car, but I don't think there's a dispute. He was in it at that time.  It's it's not good. It seems like a fair inference, perhaps beyond a reasonable doubt. That they're working together on that.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "agreement",
+      "concession",
+      "fact_statement",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 3617.562,
+    "end": 3693.689,
+    "text": "Well, I think your honor, another important part of this, which the government has consistently ignored, is the evidence from Mr. Perkins, who was the gentleman robbed in his apartment lobby at approximately four twenty seven.  that afternoon, and he sees Sudden go and get into the driver's seat and drive away and doesn't see anyone else in the car. And that really points to a big flaw in the government's theory that Gregory is there all along and is the getaway driver because  you know, oh, so he's there, and then he's not there, and then he's there, and then he's not there. It's also perfectly consistent with an idea that Gregory is continuing to do whatever he was doing, not joining Sutton at 3.55 or 3.57 or 4.15 in the afternoon. Maybe Sutton's picked up another buddy, and that they then meet up sometime later, and yes, they're together. It looks like they're together in Maryland. They're certainly  appear to be together at about 530 in the evening, but just because they're together 530 in the evening doesn't mean they're together at 355 or that Gregory had any part in the planning of this because.  If that's the case, where is Gregory during the Perkins thing? Can you just refresh my memory on the testimony?",
+    "speaker": "cecilybaskir",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "fact_statement",
+      "disagreement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 3693.749,
+    "end": 3706.133,
+    "text": "Was the testimony I didn't see anybody else in the car or was it, you know, it would be more powerful for you if it was I got a good look and I can say there was nobody else in that car or was it just I didn't see?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 3707.173,
+    "end": 3723.005,
+    "text": "He said he didn't see anyone in the car.  So it is neither a, like, I really couldn't tell, and it's also not- I think it was something like, I couldn't see whether there was anyone else in the vehicle, or I couldn't see anyone else in the vehicle.",
+    "speaker": "cecilybaskir",
+    "tags": [
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3723.885,
+    "end": 3726.547,
+    "text": "Not, there definitely was no one else in the vehicle.",
+    "speaker": "judgethompson",
+    "tags": [
+      "fact_statement",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 3727.948,
+    "end": 3736.272,
+    "text": "The follow-up question, Your Honor, he then says, he says, I did not see anyone else in the car. So it's,",
+    "speaker": "cecilybaskir",
+    "tags": [
+      "court_procedural_remark",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 3738.14,
+    "end": 3770.302,
+    "text": " While we're on some of this particular testimony, let me ask you this. You say in your brief that the jury discredited Mr. Miranda's testimony. I wonder why you think that is so. How do we know the jury discredited Mr. Miranda's testimony? Well, Your Honor, the jury acquitted. I understand they acquitted the defendants of that robbery, but that doesn't necessarily mean that they discredited his testimony because he didn't say  Mr. Sutton and Mr. Gregory robbed me.",
+    "speaker": "judgethompson",
+    "tags": [
+      "judge_question",
+      "case_transition",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 3771.943,
+    "end": 3822.993,
+    "text": "I think the fact that the jury didn't convict either of them of anything at all having to do with Miranda suggests that the jury didn't think there was evidence beyond a reasonable doubt that they were involved in anything that may have happened to Miranda. And so since the evidence of the Miranda incident basically comes from Miranda himself, I think it is more than a reasonable inference that the jury discredited Miranda because if the jury  had believed Miranda, they would have convicted the defendants of, just as they convicted the defendants of the following crimes. Well, one of the things Mr. Miranda said was that the vehicle he saw was a Nissan Murano and not, he didn't say a Nissan Rogue, which was the version of the Nissan that had the crash.",
+    "speaker": "cecilybaskir",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3823.653,
+    "end": 3849.563,
+    "text": "So,  Arguably, the jury couldn't determine beyond a reasonable doubt that the defendants participated in that robbery because the testimony about what kind of car it was gave them some doubt. And my point is just that I don't know that we can say that the jury discredited him. And I wondered what else you might have to say on that point.",
+    "speaker": "judgethompson",
+    "tags": [
+      "judge_comment",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 3850.383,
+    "end": 3975.66,
+    "text": " Well, I think Your Honor, whether the jury didn't believe what Mr. Miranda said or thought that what he said was too uncertain to link Mr. Gregory and Mr. Sutton to what happened to him.  The argument that Mr Gregory's making here doesn't depend on ignoring all of Miranda's evidence, because even, even if you were to take what Miranda said that the person who robbed him got into the passenger seat and drove away so he assumed that there was another driver.  Once again, we don't have anything linking that person to Mr. Gregory, and Miranda had the opportunity to identify Mr. Gregory in a show up shortly afterwards, and you didn't identify him. So we just don't have enough. Maybe yes, maybe it was Mr. Gregory driving the getaway car, but maybe it was some other friend of Mr. Sutton's, or maybe it was a Nissan Murano that coincidentally was in the same area as a Nissan Rogue.  But the key is that we don't know, and we're relying on speculation. We're kind of guessing. We're saying, well, maybe probably this. So then probably this and probably this. And well, this one is probably wrong then. And together, it just doesn't come into enough to get us to actual reasonable inferences that Gregory was a part of this, and certainly not that Gregory was a part of this from the very start.  Because once again, we have Sutton trying to reach Gregory. We have no idea what that's about. And if they really had planned this whole thing out, I mean, you look at the nature of the crimes, they're very impromptu, very opportunistic. This idea that, you know, oh, let's go out together and commit robberies today. And, oh, I happen to see a car, so, you know, grabbing this car. And, oh, I happen to find this guy. I mean, you,  That is not a well-orchestrated machine. And had they planned it all, why wouldn't Gregory have answered any of Sutton's phone calls earlier in the day? If they had this whole scheme going, one would expect that they would have actually had more communication.",
+    "speaker": "cecilybaskir",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "disagreement",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3976.121,
+    "end": 4017.54,
+    "text": "One of the arguments you make is that even if the court does not reverse Mr. Gregory's convictions,  We ought to hold that the UV and theft convictions merge, and you decide some cases and then you give us a but see site to the bird case.  And the bird case seems to suggest that the legislature had something else in mind with respect to UUV and theft. I think this was in your brief, correct? I hope I'm not mixing up the briefs.  I might be your honor. I'm sorry.",
+    "speaker": "judgethompson",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "legal_citation",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4018.121,
+    "end": 4040.49,
+    "text": "Mr Sutton raised the issue of the merger of the all right, opening brief and then the government conceded it, I believe in a footnote, I read it. And then I did have a footnote in the reply brief.  in acknowledging that the government had conceded that. Mr. Gregory did not raise that issue initially, particularly because- That's the footnote I have in mind.",
+    "speaker": "cecilybaskir",
+    "tags": [
+      "fact_statement",
+      "record_reference",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4040.55,
+    "end": 4073.242,
+    "text": "My question was going to be, it seems that in Byrd, there was a citation to a piece of legislation in which the council said something about no consecutive sentencing for  UUV and theft, implying or perhaps stating directly that convictions of both could stand. So given your use of the Butts C site, I wanted to ask you what we should do with that case. How ought that to impact our reasoning?",
+    "speaker": "judgethompson",
+    "tags": [
+      "judge_question",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 4074.647,
+    "end": 4131.651,
+    "text": " So, Your Honor, thank you for the question. I will say that my reading of the Byrd case, which focuses on the receiving stolen property relationship to UUV, I believe, instead of  I have a difficult time figuring out how BIRD would not apply to this issue as well, which is the reason for the Butsee site, because I believe that BIRD is controlling. However, I don't know that the court has specifically since BIRD addressed  the theft plus UUV in light of that. And given that the government conceded the merger in its brief, Mr. Gregory believes that it would be unjust for the convictions to merge for his co-defendant and not for him as well, if the court were to decide that they should in fact merge. Thank you.",
+    "speaker": "cecilybaskir",
+    "tags": [
+      "legal_citation",
+      "substantive_argument",
+      "concession",
+      "fact_statement",
+      "hedge",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4132.932,
+    "end": 4142.639,
+    "text": "Thank you. Your time is up, but we will give you a couple of minutes on rebuttal and let us hear from Ms. Allen.  Thank you. Thank you, Your Honor.",
+    "speaker": "judgethompson",
+    "tags": [
+      "time_management",
+      "reserve_time",
+      "judge_procedural_directive",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4142.679,
+    "end": 4233.862,
+    "text": "Nancy Allen on behalf of David Sutton. And I'll take a minute or so for rebuttal. Your Honor, Mr. Sutton's argument is that the government failed to prove beyond a reasonable doubt that he was in either actual or constructive possession of a firearm at a time of the aggravated assault in this case. And that is at the time of the collision with Ms. Navarro's  vehicle. The government failed to prove beyond reasonable doubt the wall-armed enhancement to aggravated assault while armed and thus the accompanying possession of a firearm during a crime of violence. The government argues in their brief that the aggravated assault occurred prior to the collision, such that the relevant inquiry is the location of the firearm in the car before the collision. And this is from the government's brief, page 45.  the aggravated not after the crash, but just before it. Also on page 45, the relevant inquiry was whether the gun was readily available to Sutton up to the moment of the crash, not afterwards. To find Mr. Sutton guilty of aggravated assault while armed with a firearm, the jury would have to engage in conjecture and assumption that Sutton was in actual or constructive possession of a firearm at the time of the aggravated assault.  The time of the aggravated assault is the time of the car collision, not prior to it. Aggravated assault requires a council.",
+    "speaker": "nancyallen",
+    "tags": [
+      "rebuttal_argument",
+      "substantive_argument",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 4234.642,
+    "end": 4254.05,
+    "text": "Let me ask you a hypothetical. Let's say I've got a spear like a javelin. I see somebody, you know, 30 feet away from me and I chuck it at them and strike them. Have I committed an aggravated assault while armed, despite the fact that by the time it connects, I'm no longer in possession of that spear?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 4255.855,
+    "end": 4269.139,
+    "text": " Your Honor, you have committed an aggravated assault while armed if the victim suffered significant bodily injury as a result of being hit with a javelin in- Even though I'm not armed at the time it connects, right?",
+    "speaker": "nancyallen",
+    "tags": []
+  },
+  {
+    "start": 4270.84,
+    "end": 4308.203,
+    "text": "Well, you don't- It's no longer, it's 30 feet away from me and I've dispossessed myself mere seconds before contact, right? Correct. And so what's wrong with saying, sure, the moment of impact is what's relevant here.  But whether or not it was dislodged, whether or not it got moved around in the fray of an accident seems to me to be totally irrelevant, right? Well, one of the issues, one of the problems sort of for the government in this case is that the crime is charged as aggravated assault while armed with a firearm, not while armed with an automobile.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 4308.623,
+    "end": 4355.721,
+    "text": "It's the automobile that caused the injuries to Ms. Navarro. The firearms  position in the car at the time of the commission of the crime becomes relevant because of the way the government charged the case. Aggravated assault while armed with a firearm. So the court is looking at  the time of the collision. Where is the firearm at the time of the collision? Given that the firearm didn't cause the injury. So it's not like the javelin example the court just gave. It's not like the javelin was thrown and caused the injury. It was the car that caused the injury. The government- I just need a little bit of clarity on this argument.",
+    "speaker": "nancyallen",
+    "tags": [
+      "fact_statement",
+      "substantive_argument",
+      "judge_comment",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 4356.001,
+    "end": 4400.439,
+    "text": "So you could be saying one of two things, and maybe you're saying both. One is, there's no evidence Mr. Sutton had the gun. Seems like Mr. Gregory had it.  The other one is, well, maybe he had it, but surely it was dislodged in the wreckage. The first one seems to me a totally viable point. I'm not sure what I think of it. The second one seems to me a little without any support in reason or precedent that in the course of an assault, if the firearm gets dislodged, somebody is no longer armed with it. I mean, that to me is,  I have a hard time wrapping my head around it. You're making both those arguments, right?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_comment",
+      "judge_question",
+      "agreement",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 4401.799,
+    "end": 4545.06,
+    "text": "Pretty much, Your Honor. The point is that during the commission of the offense, which is the relevant time period here, the government has not provided any basis for a rational jury to find beyond a reasonable doubt  that Mr. Sutton had possession of the firearm or could have reached the firearm. In fact, the government brief suggests the possibility the gun could easily have been kept in a compartment accessible to the driver, such as a center console or the glove compartment.  It just as easily, the gun could have been down Mr. Gregory's pants, which is where it was ultimately recovered. What was Farafino's testimony about which one of the two had the gun when they left? His testimony was that the individual with tattoos was the one that came up ultimately and finally got the gun back without the magazine and without the bullets. Which one is that? That is Mr. Gregory.  So the testimony and evidence at trial was that the gun belonged to Mr. Gregory, not to Mr. Sutton. The search warrant of Mr. Sutton's residence did not find the gun. The evidence linking the gun to Mr. Gregory was found during the search warrant of his home. And Mr. Gregory was the one who's crawling out of the woods injured and with the gun on his person.  So this is a significant crash, this crime, this aggravated assault. Indeed, in the government closing, the government says those cars were smushed, destroyed, both the Nissan and the car Ms. Navarro was in. How do you cause that much damage unless you were going exceptionally fast? You don't. That's not a fender bender. So our argument is airbags are deployed. There's blood everywhere.  It's an enormous crash, and there's just no evidence at the time of the offense where that gun is. It's particularly confusing to a jury where the gun is not what caused the injuries.",
+    "speaker": "nancyallen",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "fact_statement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 4548.804,
+    "end": 4601.675,
+    "text": " Part of your point seems to be we don't know where the gun was at the time of the crash could have been in Mr. Gregory's.  waistband. We just don't know. But the rest of your argument seems to be that regardless of where it was, the force of the collision would have sent it flying and therefore it wasn't readily available. Am I correct in just following your argument here? Correct. And you'd be making that argument even if we knew for a fact that the gun had been in  in Mr. Sutton's waistband at the time of the collision? Would you make that argument then? I think had the gun been in Mr. Sutton's, in my client's waistband at the time of the collision, it would be more difficult to argue that he did not have possession of it at the time of the collision.",
+    "speaker": "judgethompson",
+    "tags": [
+      "judge_comment",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 4601.695,
+    "end": 4623.655,
+    "text": "Why aren't we applying aiding and abetting or conspiracy theories of liability to the wall armed part of this offense?  Mr. Gregory was not charged with this particular offense. So there was aiding and abetting and conspiracy did not come up as to aggravated assault while armed and possession of a firearm during a crime of violence as to this particular offense.",
+    "speaker": "nancyallen",
+    "tags": [
+      "judge_question",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 4624.575,
+    "end": 4665.299,
+    "text": "I'm not sure I followed your due process argument in this regard. One of your arguments is that it offends due process for the aggravated assault  conviction to have been based on the wild armed aggravated, well, it is, yeah, for the wild armed portion of the aggravated assault conviction or the enhancement to be based on the gun when the car itself was the actual weapon that caused injuries. Why is that a due process point?",
+    "speaker": "judgethompson",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 4665.837,
+    "end": 4705.1,
+    "text": " Well, Your Honor, our argument on that, and I would submit primarily on the brief, but our argument is had the jury been instructed as to aggravated assault while armed with an automobile, then that instruction would have comported with the evidence as to appellant Sutton. The instruction given was misleading and confusing, given that the jury heard neither evidence nor argument  that Mr. Sutton possessed or had ready access to a firearm at the time of that particular crime, the aggravated assault while armed. And that's our due process argument.",
+    "speaker": "nancyallen",
+    "tags": [
+      "substantive_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 4706.461,
+    "end": 4714.186,
+    "text": "I see. Do you have a theory as to why the jury acquitted on the Miranda robbery?",
+    "speaker": "judgethompson",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 4715.047,
+    "end": 4764.039,
+    "text": "Yes, Your Honor. I think it was a mistake by the interpreter. The interpreter, there was a Spanish interpreter  And for Spanish speakers, sometimes Spanish speakers will use the phrase dark skinned instead of African-American. And the interpreter misspoke, actually advised the court that she misspoke. But I think that resulted in the jury's acquitting on the counts involving Mr. Miranda. It came across as  a description of a dark skinned individual rather than an African-American individual. And I think there was some conversation with the interpreter after Mr. Miranda's testimony as to that point.",
+    "speaker": "nancyallen",
+    "tags": [
+      "acknowledge",
+      "concession",
+      "fact_statement",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 4765.579,
+    "end": 4777.125,
+    "text": "Thank you. Well, you said you wanted to reserve a moment or two for rebuttal, and we'll give it to you. Anything else right now that you need to tell us? No, Your Honor. Thank you. Thank you. Mr. Coleman.",
+    "speaker": "judgethompson",
+    "tags": [
+      "reserve_time",
+      "judge_procedural_directive",
+      "time_management",
+      "case_transition"
+    ]
+  },
+  {
+    "start": 4778.022,
+    "end": 5090.458,
+    "text": " Good morning. May it please the Court, Nick Coleman for the United States. I'd like to begin by addressing Mr. Gregory's arguments before proceeding to address Mr. Sutton's arguments about the well-armed component.  I think it's important to note with respect to Mr. Gregory's argument that I'll begin with what he concedes. He concedes, I think he must, that there was sufficient evidence for the jury to conclude that he is the one who assists Mr. Sutton in getting the gun back from Mr. Farafino in Maryland.  He concedes, as he must, that he is then in the car with Mr. Sutton during the subsequent high-speed chase from the police, the crash with Ms. Navarro's vehicle, and then his flight and capture with the gun that lacks the magazine and the ammunition. So his argument appears to be that  There was not sufficient evidence for the jury, however, to conclude anything other than that he may have simply innocently gotten into the car after the last attempted armed robbery, or rather armed robbery in the district just before the incident with Mr. Ferrafino. I think there was more than sufficient evidence, however, for the government, rather for the jury to conclude otherwise.  beginning with the fact that with the theft of Mr. Casas' car, we have the 43 second call right around the same time. We have cell site evidence showing that both men, Mr. Gregory and Mr. Sutton, their cell phones are connecting with the tower that is essentially right at that location.  Neither one of them lives anywhere near there. The cell site evidence that was submitted to the jury showed that there were multiple towers, that would have been far closer to their addresses.  And thus, again, although one could posit an innocent explanation for each individual piece of evidence there, taken together, particularly given that the jury has the right to draw a reasonable inferences, it certainly had a sufficient basis to infer that these two men were working together both before and after the theft of Mr. Casas' car. In addition,  The evidence was pretty overwhelming that Mr. Gregory provided the lone gun that was used in the various armed robberies. He certainly is the one, he can't deny that he was caught with the magazine-less gun, and he certainly can't deny that that was the one that was used by Mr. Sutton in the failed attempt to rob Mr. Farafino.  He cannot also deny that an ammunition and a magazine matching that gun were found at his residence, that during a jail call with his girlfriend, he acknowledged that that was, when she said that was your clip, he is angry that the police discovered it. In addition, if you look at the descriptions of the gun that was given by the various victims, Mr. Perkins was the most,  incriminating this, he specifically describes the gun that is pointed in his face as a 40 caliber Glock, which is the gun that is found on Mr. Gregory. He, Mr. Perkins testifies that he used to be in the Marine Corps and he's very familiar with guns. So he's able to give a very specific, precise description of the gun that is later, in fact, recovered from Mr. Gregory.  The other two victims, actually the other three victims all described the gun consistently or pretty consistently with that gun. Certainly Mr. Rosales, I think says that he thought it was perhaps a 45, but he acknowledges that he doesn't know guns all that well. But all of the evidence is that there was only one gun. Now I know that Mr. Gregory argues  Uh, that, uh, although only one gun was ever seen or used during the Farafino incident, well, perhaps they left one behind. We submit that there was never any evidence of a second gun. And so what this, the jury was certainly entitled to conclude that there was only one gun and it was provided by Mr. Gregory, which, uh, it was a very powerful piece of evidence that these two men were working together from the very beginning that they planned this together. Uh, and that Mr. Gregory.  uh, provided the gun, Mr. Sutton, uh, was the one who acquired the ride, namely the stolen vehicle that they needed to use to, uh, conduct this series of crimes. Um, if there aren't any further questions about the sufficiency of the evidence, uh, for Mr. Gregory's conviction, I'd like to proceed to, uh, Mr. Sutton's arguments.",
+    "speaker": "nicholaspcoleman",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "fact_statement",
+      "concession",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 5091.058,
+    "end": 5133.719,
+    "text": "If we just focus on Lazaro Casa's car theft for a second, um,  I mean, as between one of two scenarios, tell me why a juror could conclude beyond a reasonable doubt that he was in on it, as opposed to Mr. Gregory getting a phone call from his friend saying, hey, I just got this car, even if he said I robbed a guy and so he's on the hook for everything that follows. I just carjacked this guy, I've got this car, I'm gonna come around the corner and pick you up.  What's so implausible about that that it wouldn't create a reasonable doubt in some jurors' mind? All right, so I guess two points.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 5134.26,
+    "end": 5291.012,
+    "text": "And that's the phone call, is what I'm positive.  Right. So there actually, I guess I respectfully disagree with Ms. Basker about the interpretation of the phone records between the two men before Mr. Acosta's car is robbed. In fact, if you take a look at the phone records, it appears that there is a completed call, a duration of about seven seconds, but it says that it's completed. If you look at the phone records from about  less than two hours before the robbery takes place. Now the remaining calls from Mr. Sutton to Mr. Gregory go to voicemail. We do know that, but the very first call does appear to be completed. We do know that Mr. Sutton Lee apparently goes to voicemail several times.  Uh, the phone records also do show that Mr. Gregory accesses his voicemail. Uh, so I think in fact, the jury had evidence here to conclude, uh, that the two men were in communication with each other even, you know, well before, uh, Mr. Costa's car stolen. I think also one, a very important point to make, uh, here is that under Pinkerton liability,  The two men didn't necessarily have to specifically agree to steal Mr. Casas' car, provided that the crime committed by Mr. Sutton was in furtherance of their conspiracy, and it was a conspiracy to commit armed robberies, and it was reasonably foreseeable.  Then he would be liable, even if the jury couldn't conclude that the men specifically discussed stealing Mr causes car or something exactly like it. So, under Pinkerton liability he can still be, and we would certainly submit here.  The jury did convict the two men of the conspiracy to commit armed robberies. Stealing a vehicle to carry those out is certainly in furtherance of that conspiracy, because after all, a stolen car can't be traced back to the robbers in the same way that using your own car or a car belonging to a friend or family member could be.  I think here, again, though, I think the jury, the coincidence that these two men are in that location at the exact time of the robbery, and then either during or immediately after Mr. Kausas' car is stolen, they are communicating for 43 seconds, which we would submit is perfectly consistent with the idea. I'm sorry, go ahead. Just about the evidence.",
+    "speaker": "nicholaspcoleman",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "legal_citation",
+      "rebuttal_argument",
+      "disagreement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5292.893,
+    "end": 5310.772,
+    "text": " I don't know. You tell me. Was there evidence from, you know, maybe the historical phone records that, you know, Mr. Gregory was not in the habit of going to this neighborhood where Lazaro Casas, his car was stolen? You know, we have his phone records from the prior month and never before has he had off this tower. Was there anything like that?",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 5312.218,
+    "end": 5411.727,
+    "text": " So, I don't think that the phone records extended that far. I don't think they went much more than the day of the robbery. So, there certainly was no specific, obviously there was no specific evidence that these men went there.  or that they had friends or family in that area. Their home addresses and the address of Mr., I think it's Mr. Sutton's mother, because that's where he's arrested, are certainly given and their locations are shown. Those addresses are nowhere near this location, certainly to the point where you wouldn't expect, if they were making any phone calls in that area, they would not have connected to that tower. Their addresses certainly aren't any, they aren't.  sufficiently close that you would think they'd just be walking around and their cell phones would accidentally connect with that. Again, you know, the individual piece of evidence that their cell phones are connecting to that tower at that time, is it, is it capable by itself of some hypothesis that, that  Mr. Gregory had no idea what was going on. Theoretically, one could hypothesize such a thing. But again, the jury, particularly in light of all the other evidence, was certainly entitled not to accept such a hypothesis and to instead accept the far more reasonable, we would submit, explanation, which is that these two men had coordinated this.  their activities throughout the rest of the afternoon certainly show pretty tightly coordinated activity.",
+    "speaker": "nicholaspcoleman",
+    "tags": [
+      "fact_statement",
+      "substantive_argument",
+      "concession",
+      "rebuttal_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5413.687,
+    "end": 5429.874,
+    "text": "Why do you say that? I mean, this looks to me to be such a, you know, series of random crimes with no, it doesn't look particularly well thought out or designed. So just curious what you mean by that, that this was well coordinated.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "disagreement"
+    ]
+  },
+  {
+    "start": 5430.514,
+    "end": 5515.959,
+    "text": "So again, I would go back to the fact that we have the gun.  which is provided by Mr. Gregory. So Mr. Gregory, you know, Mr. Sutton doesn't bring his own gun. There's certainly no evidence to suggest he brings his own gun to this series of armed robberies. He immediately after taking Mr. Casas' car, so as we can tell, is then immediately, literally at that moment, it's Mr. Gregory who calls him on his phone.  First, there is, he's the one who initiates that call and the Mr Sutton has to call him back, which, again, we submit in light of all the other evidence suggests these two men are now they are coordinating at this time they expect that this is how the ride is getting picked up.  During the remainder of the day, we also know that because Mr. Casas' car, they don't have the key fob, so it has to be left running. It means that one of them had to be minding that car, otherwise they would risk its loss or that the police would come upon it. So it stands to reason that Mr. Sutton would not have wanted to leave his getaway car without someone to mind it.  I saw a suggestion in the briefs, though, that both men got out of the vehicle in Maryland during the incident involving that uncharged offense.",
+    "speaker": "nicholaspcoleman",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 5515.999,
+    "end": 5516.96,
+    "text": "What do you say to that?",
+    "speaker": "judgethompson",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 5517.555,
+    "end": 5669.402,
+    "text": " So I think what I would say there is certainly the loss of the gun and Mr. Gregory's gun, which we do know is his, unlike Mr. Casa's car, which isn't their car, and we can assume that they probably expected to abandon it at some point anyway. The gun, however, and losing that gun was obviously important enough to Mr. Gregory that he really wanted to get it back. We do know that Mr. Sutton called him during that incident.  And rather than just leave that gun with Mr Ferrapino after he disarmed Mr Sutton. It's obviously important enough to Mr Gregor that he wants to go out and try to get it back which he succeeds in doing.  Uh, but, you know, there, I think what that's what that again shows, I think, is that, you know, there is a fair amount of coordination between these two men, because when something goes wrong, uh, they don't just scurry away. They work together, uh, and they go together to go try to get the gun back, which they do succeed in doing.  Um, one point I did want to make, uh, in response to something before I forget, uh, that, uh, appellant Gregory argued with respect to whether there was someone in the car, uh, Mr. Perkins testimony, and this is on page 39, I believe of the August 1st, uh, uh,  a transcript. And if you look at what he says is at the very top of the page, he says, I seen him. This is presumably Sutton. This is the robber getting in the vehicle. I didn't see nobody else in the vehicle. I couldn't see in the vehicle.  So what he's saying is he's not saying I got a good look inside the car and there was no one else there he says I couldn't see in the vehicle. So, it's true he doesn't specifically see the second person there. But he's not saying that. Indeed, there was no one there.  And again, I think a jury with the evidence that it had certainly had an ample basis to conclude that in fact, Mr. Gregory was present inside that car as he was throughout the rest of that afternoon.  If there aren't any further questions about Mr. Gregory's arguments, I'd like to proceed to Mr. Sutton's arguments with respect to the well-armed enhancement. Well, I did want to ask you about the point in Mr. Gregory's reply brief, I guess, about the government's concession on",
+    "speaker": "nicholaspcoleman",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "fact_statement",
+      "record_reference",
+      "case_transition",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5670.688,
+    "end": 5683.997,
+    "text": " the merger of theft and UUV and then the Buttsy citation to the Byrd case. Do you have anything more to say on that subject? Are you stuck with your concession, if Byrd dictates otherwise?",
+    "speaker": "judgethompson",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 5687.644,
+    "end": 5859.133,
+    "text": " I would say, yes, we did concede it. I actually, I do, having reread the Ambank decision in Byrd and its discussion of Arnold on which Galbraith relied, I do think that it probably is the case that Galbraith has been substantially undermined. We did make the concession. And again, I apologize, we did not.  sort of, we did not connect the dots there probably as well as we could have and could have made an argument, yes, that Byrd does undermine Galbraith. You know, this court hasn't addressed the question of whether UUV and theft of the same car should merge since Galbraith. So, you know, again,  It won't affect the sentences in this case because of course, following the statutory command, the judge ran both of those sentences concurrently. I do agree with Ms. Basker that it is hard to see how Galbraith could remain good law, but obviously we did say what we said in our brief. Turning to Mr. Sutton's arguments with respect to the well-armed component, I think,  If the argument here is simply, was there a sufficient factual basis to conclude that the gun was at least readily available to Mr. Sutton during the commission of defense, we respectfully submit that the jury had a more than sufficient basis to do so. Even if we were to assume, for example, that the gun was still with Mr. Gregory,  We submit it still readily available to Mr. Sutton. Mr. Gregory, the DNA evidence and all, and the evidence from the police officers who saw the car is that Mr. Gregory, assuming, again, with the DNA evidence shows it's him, he's in the front seat with Mr. Sutton, the driver.  During the day, as I was arguing with respect to, and as the government argued at trial, every time Mr. Sutton needed the gun, Mr. Gregory is handing it to him. So I think it certainly ready availability doesn't require that your cohort not have the gun. It just, you know, again, it doesn't have to be within arm's reach. Yes, it is. If you're in the driver's seat, you can reach it and your,  cohort can hand it to you. So I think even if it's in Mr. Gregory's waistband or if he's got it in his hands or whatever, it's still readily available to Mr. Sutton. I'm not sure. I'm sorry. I'm just rereading the instruction.",
+    "speaker": "nicholaspcoleman",
+    "tags": [
+      "concession",
+      "substantive_argument",
+      "rebuttal_argument",
+      "legal_citation",
+      "fact_statement",
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5861.248,
+    "end": 5889.755,
+    "text": " Was, in closing, or at any other point, was sort of the theory of, well, sure, maybe Gregory had it, but it was still readily available to Mr. Sutton. Was that, you know, was there an instruction on joint possession? Was there an argument from the government, it doesn't really matter who held the gun at the time, it's readily available to both? Or is it just kind of lurking there in the record? I mean,  I don't, I don't specifically recall.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_question",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 5889.775,
+    "end": 5916.22,
+    "text": "I certainly don't specifically recall a specific instruction about that I don't think either party requested it. I don't think that readily available, as it's commonly understood, would.  precludes such a conclusion by the jury. Again, I- Yeah, I mean, it's just, when I look at the instruction, it says he had to have the ability to exercise control over it.",
+    "speaker": "nicholaspcoleman",
+    "tags": [
+      "hedge",
+      "fact_statement",
+      "substantive_argument",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 5916.24,
+    "end": 5932.929,
+    "text": "And you might think, a juror might read that and think, well, only one person is gonna have that ability. If they have a disagreement, Mr. Gray, whoever's got it, is gonna keep the gun. But fair enough. I mean, fair enough if it wasn't really explored, there was a lot of charges in this case, and I'm just curious about",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_comment",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 5934.52,
+    "end": 6117.167,
+    "text": " I don't think it was parsed out to that degree, Your Honor. I think, you know, and I submit this court, I'm not aware of any decision in which this court has held  that a gun cannot be readily available to two people or that it can't be readily available to the driver even if the passenger happens to have it with him. I'm certainly not aware of such a decision and I don't think that one is necessary. I think in that case, it can certainly be readily available to both people.  I think the argument that perhaps the gun, I certainly don't think that there is any reason that the jury should have been compelled to conclude that the gun went flying such that, even if one were to determine that it's the exact second of the crash that constitutes the assault as opposed to the activity that led to the crash plus the crash.  I'm not sure that this court has split hairs to that degree in trying to analyze when an offense takes place. But in any event, I think the idea that the gun necessarily went flying such that it couldn't have been available to Mr. Sutton, it's speculative. And I certainly don't think that that's what the jury was required to conclude here.  Uh, it was instead, it was readily available to him, uh, when he committed the, uh, aggravated assault and thus, uh, you know, under the statute, uh, it applies. Um, I'm not, the appellate has at times sort of suggested, although I'm not sure if he has specifically argued here that, um, the fact that the, uh, aggravated assault  was sort of accomplished with the car precludes a finding that he was armed with a firearm at the time. The  The while-armed enhancement does not require that a weapon be used during the course of an offense. It simply requires that the perpetrator either have been armed with or have readily available to him the gun. And this court's decisions, cases like Jamison and Washington, have pretty specifically held that a weapon does not have to be used during the commission of an offense for the while-armed enhancement to apply.  Uh, we submit that in the absence of, uh, you know, any ruling to the contrary, that there's no due process problem here, uh, or, or any other legal impediment to applying the while armed enhancement. Uh, there was a sufficient basis for the jury, uh, to make that finding. Uh, and so we would respectfully submit that, uh, that aspect of Mr. Sutton's conviction should be affirmed.  If there are no further questions, we would respectfully submit that the judgment of the Superior Court should be affirmed. Thank you.",
+    "speaker": "nicholaspcoleman",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "rebuttal_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6118.548,
+    "end": 6122.57,
+    "text": "Thank you, Mr. Coleman. Ms. Baskir, did you want to have a couple of minutes?",
+    "speaker": "judgethompson",
+    "tags": [
+      "judge_comment",
+      "judge_question",
+      "time_management"
+    ]
+  },
+  {
+    "start": 6123.851,
+    "end": 6399.34,
+    "text": "Yes, thank you, Your Honor. I'd like to very briefly address possible four points that came up in the government's argument regarding the location at the time of the theft, the phone records, the gun or guns, and the Maryland incident.  First, in terms of the location where they were both near Mr. Kassa's home at the time of the theft, the pre-pandemic, many of us spent time for very innocent reasons in neighborhoods outside of where we actually lived. And many of us have friends who live in other neighborhoods. And the government, as Judge Deal pointed out, did not put on any  evidence phone records or otherwise that that this was a neighborhood that there was no innocent reason why they might be there that they didn't normally hang out there. And I submit that it is quite plausible that they did in fact have reasons to be there, perhaps mutual friend who lived in the neighborhood or something to that effect.  On the phone records, I don't believe that the phone records indicate that Mr. Gregory accessed his voicemail as the government indicated. I've been looking back at them. And while it does show when a phone call goes into voicemail, it is not clear to me from those phone records that it shows  Mr. Gregory checking his voicemail or whether there are any voicemail messages there. And I'd like to direct the court's attention to Mr. Gregory's opening brief, page 15, footnote one, that talks in a little more detail than I have time for right now about an anomaly with this phone call where the government says there was one completed phone call about 12-14  in the afternoon of seven seconds. The entry right after that makes no sense in any way whatsoever of looking at the records. And I submit to the court that it's actually an error and is intended to indicate that the 12-14 phone call, in fact, did go to voicemail. Because otherwise, there's absolutely no explanation for a phone call listed the following day in the same location at exactly that time, but one hour later.  So I do explain that a little bit more and point out specifically the entries in that footnote in the opening brief regarding the gun.  Even if the government is correct that the jury could conclude reasonably that there was only one gun and that the gun that Sutton used came from Gregory, there's still no evidence that this was given by Gregory to Sutton for the purpose of furthering any plan to commit robberies. And it's quite possible maybe the reason they were hanging out in the Petworth area was that there  that Sutton was planning to try to buy crack from someone. Maybe he was planning to buy crack from Perkins, who had a history of that and needed a gun for protection. And there's no evidence that Gregory envisioned any robbery-related or theft-related use of that gun, even if he did provide it. But as argued in our brief, we submitted still speculation that there was one gun and that Gregory provided it.  And then just in terms of the Maryland incident, the government really relies very heavily on the fact that Gregory was involved there. But 90 minutes passed between that incident and the beginning of all of this in DC, which is more than enough time for Gregory to have joined and been a part of that Maryland incident without having been a part of  the prior episodes and just because there may be evidence that they work together in Maryland, that crime itself is not charged here, and it is not enough to show that they were working together, the entire time.  And as Judge Deal pointed out, even if the court were to conclude that Gregory was a part of the robberies in D.C., there's also not enough evidence that this was planned in advance and that he had any role whatsoever beforehand, before the taking of the car that led to the taking of the car. So I see that I am out of time. I would like to request this court reverse Mr. Gregory's convictions for  theft, robbery, assault, conspiracy to commit robbery and unauthorized use of a vehicle, or in the alternative, to merge the convictions as argued in Mr. Gregory's brief. Thank you very much. Thank you, Ms.",
+    "speaker": "cecilybaskir",
+    "tags": []
+  },
+  {
+    "start": 6399.38,
+    "end": 6400.501,
+    "text": "Vasker. Ms. Allen.",
+    "speaker": "judgethompson",
+    "tags": [
+      "court_procedural_remark",
+      "case_transition"
+    ]
+  },
+  {
+    "start": 6403.563,
+    "end": 6404.443,
+    "text": "You're on mute.",
+    "speaker": "courtroomclerk",
+    "tags": [
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 6407.584,
+    "end": 6411.907,
+    "text": "You're muted. We can't hear you. OK, very good. Now can you hear me? Yes.",
+    "speaker": "judgethompson",
+    "tags": [
+      "judge_procedural_directive",
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 6412.367,
+    "end": 6511.38,
+    "text": "OK, good.  The thing I was most worried about was the Zoom technology, not the argument. Three points. The government suggests that this court hasn't split hairs when determining when an offense takes place. In fact, the government cites to the case of Frye in their own brief where the court held that an appellant is guilty only of attempted aggravated assault while armed.  where he drove his vehicle at a victim but would have been found guilty had he actually succeeded in hitting the victim's car with his own and causing injuries. He would have been found guilty of actual aggravated assault while armed. So the government has made that distinction. Second, we understand that the while armed enhancement  does not require that the weapon be used in an offense, but be readily available. Our argument is that there is a huge difference between standing side by side with a companion and saying, hey, hand me that gun and crashing at a high speed into another car. There were injuries here to all parties. There was blood on the inside of the car.  the white Nissan, the passenger side was crumpled to the point where the doors could not open, the airbags were all deployed. So it's an entirely different situation than standing side by side and allegedly committing robberies. So, you know, Judge Deal's example of the javelin suggests that the way to look at this is whether or not the defendant had",
+    "speaker": "nancyallen",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 6511.839,
+    "end": 6549.514,
+    "text": " a weapon readily available when he set in motion the action that ended up causing the severe injuries. What do you think of that? Because that would take into account the javelin situation and explain it, why we have no trouble thinking that that could be aggravated assault with the requisite injuries. But would take into account this one too, if the gun was indeed  readily available at the time the car went speeding through and not stopping at the stop sign or traffic light, whichever it was, that would suffice.",
+    "speaker": "judgethompson",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 6550.374,
+    "end": 6571.94,
+    "text": "Well, first of all, Your Honor, there is actually no evidence or testimony regarding the location of the gun prior to the car crash. So we have no idea where the gun was. I mean, there's a lot of evidence and testimony that Sutton got the gun whenever he wanted the gun.  Well, I'm talking about while they're in the car.",
+    "speaker": "nancyallen",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 6572.3,
+    "end": 6582.486,
+    "text": "I know you're talking about that. I just mean it's hard to separate out the fact that for the prior hour and a half, it seemed like Sutton got that gun at will.",
+    "speaker": "judgedeahl",
+    "tags": [
+      "judge_comment",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 6582.866,
+    "end": 6688.782,
+    "text": "I think it's much easier to separate it out when the court looks at the difference between robberies where no one is being pursued by the police and  driving in a car at 60 miles an hour in a 25 mile hour residential zone with police behind you. So, I mean, while you might be standing on the sidewalk saying, hey, hand me the gun, in a car with both hands on the wheel, presumably trying to stay on the road and the police chasing you at 60 miles an hour, it's an entirely different situation.  And there's no evidence in the record, there's no testimony regarding Mr. Sutton's ability to kick his hand off the wheel, get a gun, where the gun was in the car, if the gun was hidden in the car because of the police chasing the individuals now at this time. It's just the government has not shown that element of the offense beyond a reasonable doubt.  So that's that's on the one hand, on the javelin. Example, it's just an unusual case here where the government charged while armed with a weapon that was not used in the offense, it's not. We submit that it's not an ordinary situation and it it seems. To be.  it seems to be marginal or a questionable instance of using that particular charge in this case. And we would submit that the court should resolve it in the defendant's favor pursuant to the rule of lenity.",
+    "speaker": "nancyallen",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement",
+      "record_reference",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6691.263,
+    "end": 6697.924,
+    "text": "All right, thank you, Ms. Allen. Thank you to Ms. Basker. All the cases submitted and the court will stand adjourned. Thank you.",
+    "speaker": "judgethompson",
+    "tags": [
+      "court_closing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6698.644,
+    "end": 6701.085,
+    "text": "This honorable court is now adjourned.",
+    "speaker": "courtroomclerk",
+    "tags": [
+      "court_closing"
+    ]
+  }
+]

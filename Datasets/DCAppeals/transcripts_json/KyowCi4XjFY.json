@@ -1,0 +1,1638 @@
+[
+  {
+    "start": 2.327,
+    "end": 20.799,
+    "text": " All persons have in business for the Honorable Associate Judges now presiding over the District Columbia Court of Appeals. Draw near and give your attention. God save this Honorable Court. And this Honorable Court is now in session. Please be seated and come to order.",
+    "speaker": "courtroomclerk",
+    "tags": [
+      "court_opening",
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 22.812,
+    "end": 115.962,
+    "text": " Good morning. Welcome to all. We are in the District of Columbia Court of Appeals virtual courtroom this morning. If we have technical difficulties, which sometimes do arise, please bear with us. We will try to fix them as quickly as possible. If I don't say that, the problems will arise. If I say it, I'm hoping I will stave off any issues.  So today we have two cases on our calendar. We have to reconstitute the panel after the first case so for the folks watching on YouTube. Again, bear with us there's going to be a slight pause in the proceedings. Before we call the second case.  But the first case on our calendar today is a consolidated case with four case numbers, 15 CF-1081 and 1083 is the direct appeal, 20 CO-232 and 233 is the appeal from the 23-110. It's DeMonta M. Chappelle versus the United States.  I understand that we're going to go forward with the direct appeal first. So Miss Persico, you are up. Please let us know how much time you would like for rebuttal. And we do. I'm just confirming we've got the government on the line, although we don't have a visual. Yes, Your Honor, I'm here.  Great. Thank you very much, Counsel. All right, Ms. Persico, when you're ready.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "court_opening",
+      "court_procedural_remark",
+      "case_call",
+      "case_transition",
+      "judge_procedural_directive",
+      "time_management",
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 116.322,
+    "end": 210.313,
+    "text": "Sure. Good morning, Your Honors. Deborah Persico for DeMonta Chappelle in the direct appeal. And I'd like to reserve two minutes for rebuttal. I'd like to focus on the warrant issues in the supplemental brief and then go to the prejudice prong. As far as the warrants are concerned, there's three reasons  that the warrants have violated the Fourth Amendment warrant clause. First is the lack of probable cause. And as to probable cause, it's our position that the warrants in this case are even more egregious than they were in the Burns case, because unlike in Burns,  where the affidavit stated that witnesses had described specific text messages and phone calls to and from the defendant and the decedent. Here, with the possible exception of the location of Mr. Chappelle at the time of the murder, not one witness whose interview was described in the affidavit  said anything even remotely suggesting that they knew of texts or calls or photos or videos or any other digital content that was related to the murder. I'm sorry, counsel, to interrupt. What do you mean by the location?",
+    "speaker": "deborahpersico",
+    "tags": []
+  },
+  {
+    "start": 211.193,
+    "end": 228.013,
+    "text": " What what was in the affidavit that reference the location that would. I mean, the, the only thing and I said it would be a possible exception for probable cause would be the fact that the witnesses told the defendant that they saw Mr Chappelle.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 228.537,
+    "end": 235.142,
+    "text": " at a certain place on April, I'm sorry, on October 27, 2012, shooting the decedent.",
+    "speaker": "deborahpersico",
+    "tags": [
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 235.603,
+    "end": 245.791,
+    "text": "Right, but there's nothing about, we saw him with his phone at the location. No, and in fact, there's sort of a ridiculous claim in",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_comment",
+      "disagreement"
+    ]
+  },
+  {
+    "start": 246.719,
+    "end": 278.133,
+    "text": " the in the AT&T affidavit that they would need, you know, phone calls before, during and after the murder. Now, no one said that they saw the shooter use his phone, text from his phone either shortly before the murder or shortly after the murder. And after the murder is where they have video surveillance of someone walking down the alley right after the murder.  And you don't see that person using his cell phone.",
+    "speaker": "deborahpersico",
+    "tags": [
+      "fact_statement",
+      "substantive_argument",
+      "rebuttal_argument",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 281.895,
+    "end": 334.924,
+    "text": "But I'm not sure you only say possible. So imagine that. So here's the hypothetical. Imagine that the police end up having probable cause to believe that a particular person committed a murder at a particular location.  And they decide we want to go get the cell phone of that person. And for a moment, let's say they have a really particular warrant and they say we want to search the cell phone to seize the cell phone. We want to search the cell phone and extract from it information that will tell us where the suspect was at the time of murder.  Are you saying my question? Again, my question about that is imagine that's the circumstance, but imagine the affidavit doesn't say anything about whether the suspect had his or her cell phone. I mean, imagine there's the affidavit says there is a cell phone. The person has a cell phone, but it doesn't have direct information one way or another about whether the person had the cell phone at the time of the murder.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 335.944,
+    "end": 337.565,
+    "text": "Well, are you saying there's no problem?",
+    "speaker": "courtroomclerk",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 337.585,
+    "end": 339.606,
+    "text": "There would not be probable cause such a well.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 341.698,
+    "end": 364.42,
+    "text": " According to Burns, there would not be probable cause because that same situation occurred in Burns. In Burns, they had information that at certain points during the day of the murder or during the evening of the murder that there were texts, there were phone calls, but no one said anything about the location and the court mentioned that.",
+    "speaker": "deborahpersico",
+    "tags": [
+      "legal_citation",
+      "substantive_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 365.676,
+    "end": 411.071,
+    "text": " What language in Burns are you focused on when you say that Burns holds or establishes that in the hypothetical I just gave you, there would not be probable cause because I mean the argument on the other side I'm not sure.  But the argument on the other side would be people, the reason they have mobile phones is because they carry them around with them. And so there's enough of a likelihood that someone would have her or his mobile phone with them at a given time that if you are trying to find out, if you know they have a cell phone and you're trying to prove where they were at a moment, you can go ahead and have probable cause to seize the phone and search at least for locational information.  But you think you think burns holds otherwise.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 411.612,
+    "end": 447.127,
+    "text": "No, I'm sorry and I apologize what I meant to say is that, although there was nothing you know particularized in the Warren about the location that burns said that possibly.  you know, possibly it could have been used like a GPS tracking device from the phone. But that was only because Burns, there was information in Burns that the decedent and the holder of the phone, Mr. Burns, who was not a suspect at the time, had been texting around the time of the murder.",
+    "speaker": "deborahpersico",
+    "tags": [
+      "acknowledge",
+      "hedge",
+      "concession",
+      "legal_citation",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 447.587,
+    "end": 492.867,
+    "text": "Yeah. And that's right. And the suspect was in Mr. Burns' home. Right. And so  I mean, I thought Byrne said, quote, it's not enough for police to show there's probable cause to arrest the owner or user of the cell phone.  Well, that's correct, yes. The whole point of Riley is to say people carry the sum of their private lives in their phones. That does not give the police probable cause to grab their phones and investigate every detail of their lives, their locational history, their texts, what have you.  The police have to come up with more. I mean, totally agree with you.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_comment",
+      "legal_citation",
+      "substantive_argument",
+      "agreement"
+    ]
+  },
+  {
+    "start": 492.888,
+    "end": 514.546,
+    "text": "I don't disagree with that at all. I thought you were making a concession. No, no, you're talking about  And I've mentioned this in the briefs. There is no way that the simple fact that Mr. Chappelle was arrested, that they had probable cause to arrest him, that he had a phone on him at the time they arrest, not even on him, it was in the car.",
+    "speaker": "deborahpersico",
+    "tags": []
+  },
+  {
+    "start": 514.806,
+    "end": 521.049,
+    "text": "He's arrested three to six months after this crime, right? Yes, exactly.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_question",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 521.289,
+    "end": 557.314,
+    "text": "And that's when they find the phone. Right.  And that's why I'm saying that there is no probable cause. And if you carved anything out of it and the rest of the argument will tell you that even this doesn't work, is that they may have wanted to check his location, a GPS tracking, which is what Burns said was was a possible reason to look in the phone. But the problem is then you get to the next two categories.  which are the overbroad factor of the warrants. And then on top of that, there's a lack of particularity.",
+    "speaker": "deborahpersico",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 557.674,
+    "end": 570.041,
+    "text": "Where does Burns say that the, I thought Burns said that there was probable cause to look at the texts. Where does it say that the GPS is? There was probable cause to look at the GPS information.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_question",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 572.282,
+    "end": 575.224,
+    "text": "If you give me a moment, your honor, I will look for it in here.",
+    "speaker": "deborahpersico",
+    "tags": [
+      "time_management",
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 578.951,
+    "end": 583.493,
+    "text": " Right, we can we can find it. Here's what it's here's what it says.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "acknowledge",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 583.553,
+    "end": 727.356,
+    "text": "It's on page 774. And it says the facts alleged in the affidavits also supplied probable cause to support a search of the GPS tracking features. Okay, now, there was no evidence in burns that  they were texting each other in the same place in the home. The texts were done before, supposedly, the decedent even arrived at Burns' apartment. And the calls were made long before the decedent supposedly was to arrive at Burns' apartment. But the Burns court said that there may have been probable cause  to search the GPS tracking features, but when you go to the overbroad section and the lack of particularity, it still doesn't fit. Because in Burns, there was no time limit for it. They were asking for everything for, you know, for a period of time that did not fit the night of the murder. And in our case, you have a similar situation, but worse, because in our case,  They asked for, as to the AT&T warrant, they limited the time period for every, first they asked for everything, everything that's in the phone they want, they limited for a time period of six days. Now there's nothing, nothing in the affidavit that supports them finding that it was likely for them to find anything that they listed on that warrant  during a six day time period, except perhaps the GPS tracking, which Burns said there may have been probable cause for. Then you get to the AT&T, that was on, yes. And then here, the AT&T warrant, like I said, there's a limit of six days. Well, there's no information in that affidavit that supports, you know, finding  phone records calls text videos whatever for over a six day time period so it's overbroad in that respect, then you.",
+    "speaker": "deborahpersico",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 728.169,
+    "end": 746.835,
+    "text": " Go ahead. Can we talk about, well, I'll let you finish your point, but I'd like to talk about substantial prejudice in the plain error context and whether that's satisfied in this instance. And then I'd like to go on to the good faith exception.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_procedural_directive",
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 747.715,
+    "end": 804.584,
+    "text": "OK. So if I could just go back a moment and finish with the particularity argument. And we also don't forget we have the cell phone contents warrant.  in this case, and in the trial court, as the court knows from our briefs, the trial court was not presented with a copy of the affidavit associated with the cell phone warrant, but the cell phone warrant itself asks for everything from time immemorial with no affidavit attached  And even if you look at the affidavit, which our position is you cannot consider it on appeal, but it's virtually the same affidavit as the AT&T affidavit. Well, it's bare bones. Bare bones, exactly. It's bare bones. Right. I'm sorry, there's an echo when you and I are talking.",
+    "speaker": "deborahpersico",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "court_procedural_remark",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 804.664,
+    "end": 805.304,
+    "text": "Can you hear that?",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 805.845,
+    "end": 842.666,
+    "text": "Oh, no, I don't hear an echo here. It's clear for me.  But okay, but if you don't hear me tell me and I'll repeat it. Okay. Okay. Okay, so it is bearer bones than the AT&T warrant and certainly bearer bones than the burns warrant and affidavit. So in that respect, neither warrant  meets any of the standards for the Fourth Amendment, either probable cause or over-broadness or lack of particularity.",
+    "speaker": "deborahpersico",
+    "tags": [
+      "court_procedural_remark",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 843.486,
+    "end": 846.128,
+    "text": "How does this affect your client's substantial rights?",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 846.629,
+    "end": 897.212,
+    "text": "OK, so for substantial rights, our position is, first of all, that the errors in admitting those warrants  And I'm gonna say, in addition to the, and even individually or in combination with the admission of special agent Horan's testimony on the drive test, which we argued back in November of 2019, had a substantial influence on the verdict, which depended entirely on whether the government's witnesses were believed by the jury.  that appellant was the shooter. That was the entire case. The entire case depended on whether the jury believed those witnesses.",
+    "speaker": "deborahpersico",
+    "tags": [
+      "opening_argument",
+      "substantive_argument",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 897.993,
+    "end": 926.425,
+    "text": "Can you just go back to Agent Moran's testimony? What I was confused about, and I didn't go back before argument to look at his testimony, is what the relationship is between his testimony and the information gleaned from the AT&T warrant.  Is he testifying on the basis of that information? Yes. Yes. He's testifying based on the cell site location information.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_question",
+      "record_reference",
+      "judge_comment",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 926.865,
+    "end": 1081.881,
+    "text": "Which they would not have gotten without the warrant. Exactly. Without the warrant. Exactly.  And so back to the evidence. So then the test is how strong was the government's evidence? And I'm going to have to quote you, Judge Easterly, because I listened to that November 2019 oral argument over the weekend. And you yourself said during that argument that the government witnesses were, quote, compromised in pretty significant ways. And we had argued that they were substantially impeached.  You add to that the fact that there was no physical evidence linking Mr. Chappelle to the murder. They didn't have a gun linking him. They didn't have DNA. They didn't have fingerprints. They had nothing physically linking him to the murder. And then on top of that, you add the prosecutor's opening, closing, and rebuttal arguments, which are cited in more detail in the briefs. And so all of that,  evidence. You throw in the evidence from the wines, which were photos of Mr. Chappelle that the government suggested showed that he was wearing the same clothing that was worn by the shooter on the night of the murder. They introduced from the phone call logs showing that appellant had communicated  with Robert Brandon and with Larry Wallace, who were government witnesses against Mr. Chappelle. And you have, and you have the CSLI, the cell site information, and which extended into  a special agent Horan's drive test test. I mean, yeah, drive test testimony. So when you lump all of that together, you have a case by the government that is not strong witnesses who were impeached from here to Sunday. And I think I said this in the last argument, you have no physical evidence and you have the prosecutor hammering the photos, the, the, um,  cell site information and the contact logs and Special Agent Horan's testimony, you have the prosecutor hammering that in opening, closing and rebuttal. And so for those reasons, we feel that Mr. Chappelle's substantial rights were violated.",
+    "speaker": "deborahpersico",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 1082.986,
+    "end": 1128.938,
+    "text": " Okay, if that is the case and we move on to the question of suppression, right? Can you talk about the good faith exception? And here, you know, the timing seems to matter, right? These warrants were issued, I think in April and June of 2013. Yeah.  If I have my dates correct, the Supreme Court grants cert in Riley in January of 2014. And the decision in that case is issued in June of 2014. So can you talk about how to apply the good faith exception in light of that chronology?",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_question",
+      "legal_citation",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 1129.959,
+    "end": 1143.98,
+    "text": "Well, as the court said in Burns, the detective should have realized  that these particular warrants did not comply with the Fourth Amendment.",
+    "speaker": "deborahpersico",
+    "tags": [
+      "legal_citation",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 1144.46,
+    "end": 1156.829,
+    "text": "Right. But in Burns, sorry to interrupt, but in Burns, the warrants were issued a year after Riley. So the timing is different in Burns.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_interruption",
+      "legal_citation",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 1157.25,
+    "end": 1193.667,
+    "text": "Except that all that Riley said, basically, I mean, the basic holding of Riling was that Riley was that a warrant was needed  to access cell phone contents. And the government had the warrant here. Our position is that the warrant violated the Fourth Amendment warrant clause. It's not that they didn't have a warrant. I know back in the trial court, the trial attorneys at first mistakenly thought there was no warrant. There was a warrant here. So that part of Riley doesn't really change the situation in this case.",
+    "speaker": "deborahpersico",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "concession",
+      "rebuttal_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 1195.482,
+    "end": 1236.254,
+    "text": " Why is that? I mean, one way of looking at it would be at the time these warrants were obtained, it wasn't even clear that you needed to have a warrant. And if the police, even if they didn't do a great job of being particular about it, or the warrants were problematic in some way, if it wasn't even clear that they needed to get one, one could say, well, then why should you suppress evidence on the basis of the fact that they did what it wasn't clear they had to do, but they didn't do it that well in light of  you know, what we now know from Riley and from Burns. So I'm not sure it's obvious that the fact that Riley hadn't been decided is irrelevant to the good faith inquiry that we have in front of us in this case.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "legal_citation",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 1237.455,
+    "end": 1280.357,
+    "text": "Well, first off, in Burns, the court says that that was the first case in which this court analyzed the contents of cell phone warrants.  And in that case, it found that the good faith exception did not apply. So the same should happen here. It doesn't have anything really to do with Riley because the detective got the warrant. We're at a position now where the Burns appellant was  And we're in the same place that Burns was in with respect. I have a hard time with that.",
+    "speaker": "deborahpersico",
+    "tags": [
+      "legal_citation",
+      "substantive_argument",
+      "rebuttal_argument",
+      "disagreement"
+    ]
+  },
+  {
+    "start": 1280.477,
+    "end": 1315.797,
+    "text": "Given that we said, we made a note of saying in Burns that the warrants issued in that case were, quote, obviously deficient warrants issued more than a year after the Supreme Court's decision in Riley.  and then said any reasonably well-trained officer would have known they were invalid, notwithstanding their approval by a judge. And it seems, our analysis seems very much tied to the fact that Riley was already the law of the land for a year before the warrants, the template warrants in Burns were issued.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_comment",
+      "legal_citation",
+      "substantive_argument",
+      "fact_statement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 1316.908,
+    "end": 1399.066,
+    "text": " But I don't see how the holding in Riley changes the situation because the holding in Riley was that you now need a warrant to access cell phone contents. So that's why I keep saying that Riley doesn't really affect this decision. This decision is already in the place that Burns was in.  that the Burns appellant was in because they had a warrant. So you put Riley aside because Riley said you need a warrant. Okay, fine. Even though that happened afterwards, it didn't change the fact that this detective should have known that these warrants did not satisfy probable cause, particularity, and the overbroad requirement.  I mean those requirements still held and that's what burns found that's why burns said.  that the good faith exception didn't apply. I mean, one difference between this case and Burns, which the decision at Burns emphasized, is assuming that the phone searched in Burns belonged to someone who was not a suspect at the time.",
+    "speaker": "deborahpersico",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 1399.786,
+    "end": 1436.142,
+    "text": "And the court emphasized that in the good faith part of its discussion, saying  Ted Brader, Ph.D. : You know, at the time that the detective knew at the time he submitted the warrants that Mr burns was not a suspect that made the existence of any nexus. Ted Brader, Ph.D. : Even more unlikely, and so these and then it's the next sentence really that says these were obviously deficient warrants, so the the the court in burns viewed the warrants there as problematic.  In part, not solely, but in part for a reason, these are not even suspect warrants that doesn't seem to carry over to our case. Do you have a reaction to that concern?",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question",
+      "legal_citation",
+      "record_reference",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 1436.542,
+    "end": 1468.137,
+    "text": "Yeah, I also think that that is irrelevant because, as we know, even Byrne says this, you do not get probable cause to seize cell phone contents merely based on  probable cause to arrest a suspect. I don't think it's open to think that that feature of Burns is irrelevant, because the court in Burns held it was relevant to the good faith determination that it made.",
+    "speaker": "deborahpersico",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "disagreement",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 1468.657,
+    "end": 1481.022,
+    "text": "It expressly said, here's another reason why we're finding no good faith. So I mean, as a matter of law, that's got to be relevant to us. Now, whether it's dispositive or not, but it seems like it's got to be relevant.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_comment",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 1481.409,
+    "end": 1549.345,
+    "text": " Well, I think it might be relevant if you had another case where the person was not even a suspect yet and the officer tried to get a warrant. I think that's where that portion of Burns would be helpful. But here we have the warrant. And so when you get to the next portion of the good faith exception in Burns, it says that the warrant deficiencies were so extreme and apparent  that a reasonably well-trained officer with reasonable knowledge of what the law permits would have known the warrants were invalid, notwithstanding their approval by a judge. So all of that is exactly the same. That language fits perfectly within Mr. Chappelle's case.  And even though Mr. Chappelle was not a suspect, that should not matter because the probable cause to arrest him didn't make any difference to whether they could execute a search warrant. And in this case, an invalid search warrant, or two of them.",
+    "speaker": "deborahpersico",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1550.225,
+    "end": 1609.617,
+    "text": "Council, you have- I'm sorry? Council, you have spent considerable time  on the theory that this entire argument was before the trial judge. I put it to you that the only thing before the trial judge was the return deficiency by the marshals after they had executed the warrant. Now, it seems to me that all this argument you've made now calls into question a waiver.  The government argues rather strongly that it is a waiver. And I don't see how your assumption that waiver is out of the picture aids you at all on the merits of what you've been arguing. In another case, that might be very appropriate, but I question whether it's appropriate here.",
+    "speaker": "judgenebeker",
+    "tags": [
+      "judge_comment",
+      "judge_question",
+      "judge_interruption"
+    ]
+  },
+  {
+    "start": 1611.042,
+    "end": 1622.227,
+    "text": " Um, but your honor, a waiver has to be done voluntarily. It's not something that's just, uh, assumed from the record that you waived something.",
+    "speaker": "deborahpersico",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 1625.188,
+    "end": 1647.995,
+    "text": "Council pulls the issue the way he wanted it raised. And that is to me, that is waiver. You're not talking about personal waiver by.  a particular individual who decides to waive his Miranda rights while he's confronted with the police. That's a different kind of waiver. We're talking about a procedural waiver.",
+    "speaker": "judgenebeker",
+    "tags": [
+      "judge_comment",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 1649.335,
+    "end": 1666.83,
+    "text": "No, but what I'm saying is that they raised a particular issue. The lawyer did not say we are not raising that other issue. We're only raising this issue. That would be a waiver. But here,  They raise an issue a certain way.",
+    "speaker": "deborahpersico",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "disagreement"
+    ]
+  },
+  {
+    "start": 5310.107,
+    "end": 5314.004,
+    "text": " This honorable court is now back in session. Please come to order.",
+    "speaker": "courtroomclerk",
+    "tags": [
+      "court_opening",
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 5316.247,
+    "end": 5349.033,
+    "text": " My apologies to the parties. We had some technical difficulties, which I thought we wouldn't have because I mentioned the possibility of having them when we started, but that didn't protect us. So here we are. We have one other case on our calendar today, United States versus Delonta Hawkins, 18 CO 1330. Council, when you're ready, please proceed.  Can you hear me, counsel?",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "court_procedural_remark",
+      "case_call",
+      "case_transition",
+      "judge_procedural_directive",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 5351.154,
+    "end": 5408.769,
+    "text": "Sorry, I thought I was unmuted. I think I'm okay now, right? Yes. May it please the court again. Sharon Sprague representing the appellant, the United States in this case. I'd like to save three minutes for rebuttal if I may. The trial court's conclusion that Appellee should register as a sex offender for only 10 years as if he were a first offender is so clearly and indisputably wrong  that correction by this court is warranted no matter what procedural mechanism the court employs to review the case. And I will certainly address the jurisdictional issues. But because the trial court so misinterpreted the statute, I'd like to start with that. As we know, DC's Sex Offender Registration Act was passed, quote, to protect the public, especially minors, from the threat of recidivism posed by sex offenders who've been released into the community. In other words, the intent of SORA is very clearly to prevent recidivism,  not to reward or ignore it. It is clear and indisputable.",
+    "speaker": "sharonsprague",
+    "tags": [
+      "opening_argument",
+      "reserve_time",
+      "substantive_argument",
+      "policy_argument"
+    ]
+  },
+  {
+    "start": 5409.269,
+    "end": 5433.197,
+    "text": "I'm sorry, Ted, that I think the intent is clear, but I think it would just be most helpful for the government and then counsel for Mr. Hawkins just to walk us through the statute, because there is a thicket of verb tenses. And so it just would be helpful. Where do you start your analysis?",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_question",
+      "judge_procedural_directive",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 5433.577,
+    "end": 5469.473,
+    "text": " That's very true, Your Honor. In reading the courts, I mean, the transcripts, it seemed everyone was flummoxed by that thicket. But here, we have an inquiry. I think the court, well, if I could just finish the thought that we can't forget, I will get exactly to the statutory construction.  We cannot forget the purpose of the statute and I don't think anyone here will. But we as a whole, yes.",
+    "speaker": "sharonsprague",
+    "tags": [
+      "acknowledge",
+      "substantive_argument",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 5470.254,
+    "end": 5496.106,
+    "text": "Miss Craig, let me ask you about that purpose recidivism. There are recidivists and then there are recidivists. And you're familiar with what we call the three strikes laws. What makes it so apparent?  that this lifetime registration provision was meant to apply to a second offender as opposed to a third offender.",
+    "speaker": "judgefisher",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 5496.906,
+    "end": 5515.458,
+    "text": "The words two or more. It couldn't be plainer in my, in my view, your honor. I think the statute, actually it could be the Jacob Wetterling act provides a template for local legislation like this and the Wetterling act.",
+    "speaker": "sharonsprague",
+    "tags": [
+      "substantive_argument",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 5516.472,
+    "end": 5523.374,
+    "text": " talks about one or more. Why did our council depart from that language?",
+    "speaker": "judgefisher",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 5526.255,
+    "end": 5554.479,
+    "text": "Well, our council concluded that upon a first offense, an offender needed to register. And that would be for 10 years. Upon a second, if there were two or more offenses, then the lifetime registration component kicks in.  Um, the precise, and I do think it'll help to zero in on the word of the statutes if you're referring to 22 4003.",
+    "speaker": "sharonsprague",
+    "tags": [
+      "fact_statement",
+      "legal_citation",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5554.939,
+    "end": 5562.383,
+    "text": "It's not upon the offense. It's upon a finding that the defendant committed a registration offense which is a defined term, right, correct.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_comment",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 5563.41,
+    "end": 5580.413,
+    "text": " And committed a registration offense is defined as was convicted or found not guilty by reason of insanity. And that's where people start getting unclear, because conviction sometimes means the adjudication of guilt, whether by a verdict or a guilty plea.",
+    "speaker": "sharonsprague",
+    "tags": [
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5580.774,
+    "end": 5657.427,
+    "text": "And other times is used to mean the judgment of conviction created at the time of imposition of sentence. And so that's why people do find some uncertainty. For that reason and then the other reason  really identified, which is you have to wend your way through three or four different provisions to figure out how to fit the pieces together. Can I just ask you one basic question? So if we're focusing on the duty of the superior courts, this is 22-4003, the language that you were paraphrasing, says, and talking now about first  let's say a simpler case than ours, someone who's been adjudicated guilty of a registration offense for the first time. So now the question is, what do we do about SOAR registration? And the statute says, upon a finding that a defendant committed a registration offense, then the judge has to enter an order.  Do you think that finding that a defendant committed a registration offense occurs at the time of the adjudication of guilt, the jury's verdict or the plea? Or do you think that finding that the defendant committed a registration offense can only occur at the time of the decide whether exactly at the same moment of or a little bit later, but at the time of sentencing?",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 5659.349,
+    "end": 5686.513,
+    "text": "I think this I think the the statute itself, when read as a whole,  and the legislative history that supports that statute would indicate the former, that it becomes effective at the time of the determination that the crime was committed. And in this case, that's by guilty plea.  And there seems to be some dispute about whether that's what's actually happening in superior court.",
+    "speaker": "sharonsprague",
+    "tags": [
+      "legal_citation",
+      "substantive_argument",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5687.013,
+    "end": 5708.097,
+    "text": "Do you know whether, in fact, the United States' position has been in the superior court, judge, you need to be imposing these sex offender reparation orders at the time of adjudication of guilt, whether that's by verdict or plea, and have superior court judges been doing that? Or what's actually happening in the real world on that topic? Because that seems to be disputed.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 5708.758,
+    "end": 5744.312,
+    "text": " Exactly. I think I think, well, the reason I make that argument is based is because of the language of the statute and the legislative history. But as a practical matter, no, I don't think the registration is, as I understand it, not routinely. We don't request it and it's not routinely imposed at the moment of a plea of guilty. It is done at the time of sentencing. And why would that be as a practical matter? Because a defendant could withdraw their move to withdraw their plea.  or otherwise, you know, not actually be required to register. Well, I'm puzzled.",
+    "speaker": "sharonsprague",
+    "tags": []
+  },
+  {
+    "start": 5744.552,
+    "end": 5776.851,
+    "text": "I mean, I can see practical reasons why one might want to delay or maybe have written a statute differently. But if your position about how to interpret the statute is right, it doesn't seem like there's lawful authority for Superior Court judges to delay. It says upon a finding the defendant committed a registration offense, the court shall enter an order.  So it's not like it says the court may and if you want to, you can wait until sentencing or you can wait till whenever. So I'm a little unsure about what authority trial judges would have to delay such a finding on your view.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "legal_citation",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 5779.351,
+    "end": 5834.445,
+    "text": "Well, and in fact, there was a footnote in my brief, if I remember right, that talked about an example where that would be  it would be advisable to go ahead and order registration at the time of entry of a guilty plea, say if there were a cooperator and everyone agreed to postpone sentencing until the cooperation was complete, but also everyone believed that the community should be protected by means of registration. So that's theoretically a situation in which there's an incentive  to ask that it be applied that way. But I think- You're saying theoretically this door is open, but I guess, you know, my question is along the same lines as Judge McLeese's, which is, is the current practice some evidence of how the statute is reasonably understood, right?",
+    "speaker": "sharonsprague",
+    "tags": [
+      "record_reference",
+      "fact_statement",
+      "substantive_argument",
+      "policy_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5834.945,
+    "end": 5875.799,
+    "text": "So 22-4003A says upon a finding that a defendant committed a registration offense,  you go to the definition of committed a registration offense and it says was convicted and if people think was convicted means not just an adjudication of guilt but also imposition of a sentence then trial judges are doing it right right now by not certifying people as sex offenders either for a 10-year period or a lifetime period because until sentencing because the person  hasn't been it is not a person who was convicted until that time.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "legal_citation",
+      "substantive_argument",
+      "judge_comment",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 5876.219,
+    "end": 5932.026,
+    "text": "Well, I think the problem is that it is the word convicted is amenable of a few different meetings. And the Supreme Court told us that it deal. And I and so that does create that question. And when you as a practical matter, it does make sense to do it in conjunction with sentencing, as this court's prior cases holding that it was a civil regulatory  matter and not a part of the sentencing have said. I think in the end, the statutory interpretation issues and parsing the words is important, obviously. But in the end, it doesn't matter how we define conviction or disposition in this case. We all know that they are used differently in different contexts. But it doesn't matter here, because here, as in most cases, this offender was, in fact, sentenced  by the time the registration order was issued. Well, actually it wasn't.",
+    "speaker": "sharonsprague",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement",
+      "concession",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5932.226,
+    "end": 5961.355,
+    "text": "If I recall correctly, one sort of odd little twist here is that the trial court resolves the SORA matter before she imposes the sentence.  Am I wrong about that? I mean, it's moments before. Well, I'm talking about you read the transcript and actually decides that he should only register for 10 years and then she decides what his his criminal sentence should be.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "hedge",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 5961.415,
+    "end": 5971.441,
+    "text": " But that was a that was explaining her reasoning after after several rounds of briefing and hearings about what she was where she was coming. Why does that matter?",
+    "speaker": "sharonsprague",
+    "tags": [
+      "fact_statement",
+      "rebuttal_argument",
+      "disagreement"
+    ]
+  },
+  {
+    "start": 5971.521,
+    "end": 6028.249,
+    "text": "I mean, if I and I understand the government thinks was convicted.  for a deal means something else within the context of the statute. And I'd still be curious to go through the statute and understand that a little bit better. What guideposts do you think the statute provides us? But if was convicted means one of its commonly understood meanings, which is adjudicated as guilty and sentence has been imposed.  In this case, her SORA registration determination was premature. At that point, he had not been convicted of the instant crime. Well, it is interesting in this case because the trial judge concluded throughout that conviction did mean upon a guilty plea.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 6029.11,
+    "end": 6059.269,
+    "text": "This trial judge focused very much on disposition.  I would say came to misunderstand the provisions because the court became convinced that disposition can only mean a prior final judgment after sentencing, despite the fact that disposition itself as a word is defined in the statute in a matter  that makes it clear in my view, in our view, that this case counts.",
+    "speaker": "sharonsprague",
+    "tags": [
+      "rebuttal_argument",
+      "substantive_argument",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 6059.81,
+    "end": 6072.697,
+    "text": "Well, part of the problem actually is that disposition isn't really defined in this, or it's not defined in the definitional section. Well, it's described, dispositions described as described in 4000, which does bring us back to the term",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_comment",
+      "fact_statement",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 6073.268,
+    "end": 6086.671,
+    "text": " committed a registration offense. And I apologize for bouncing back and forth between the details of this case and the steps for interpretation questions, but back just for a second on the details of this case and what happened and what if it mattered.",
+    "speaker": "sharonsprague",
+    "tags": [
+      "fact_statement",
+      "hedge",
+      "case_transition"
+    ]
+  },
+  {
+    "start": 6086.851,
+    "end": 6160.803,
+    "text": "And I'm not sure it necessarily does matter exactly when the trial court did some SOAR related things and exactly when the trial court imposed sentence. And one of the interesting features of that, if it does matter, is generally oral imposition of sentence is what's treated as  kind of the actual moment of imposition of sentence. And then there are written orders. There are two written orders. There's a judgment and commitment order, and there's a SORA order. The judgment and commitment order has a time on it. It's 1657 or some particular time on it. The SORA order doesn't have a time on it. So who knows exactly which of those orders, if you really, it mattered minute by minute, happened first, and there was oral imposition of the sentence first. Then I got even more confused when I realized that part of the judgment of commitment  is a condition of probation, which is sex offender registration. So the sentence itself wraps in some Sora related findings and obligations. It seems so. So do you think it's clear if you think it matters which happened first? A finding that the person had committed a registration offense or completion otherwise of the criminal sentence. Do you think we can tell here which happened exactly first if that matters?",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_comment",
+      "court_procedural_remark",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 6163.192,
+    "end": 6195.042,
+    "text": " Well, you premise this with, if I think it matters, and I don't. And part of that reason is because of the way I think the language of the statute in the legislative history supports the notion of it being triggered upon a guilty plea, a finding of guilt. And the reason is that because if you don't consider it that way, the trial court's reasoning here completely undermines the statute and defeats its aims.  If conviction requires judgment, yes.",
+    "speaker": "sharonsprague",
+    "tags": [
+      "substantive_argument",
+      "rebuttal_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6195.762,
+    "end": 6230.879,
+    "text": "Let me ask you about that. There are some municipal regulations that speak to these questions. I don't remember them being cited or discussed in any of the briefs. But as I understand one of the regulations, it says that the court shall combine the determination of registration with the sentencing proceedings.  And so that seems to undercut your argument that the key moment is the guilty plea.",
+    "speaker": "judgefisher",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "legal_citation",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 6234.942,
+    "end": 6324.538,
+    "text": "Well, I think the Supreme Court in its cases in which it looked at the Alaska Sora Act and even, well, that's probably the most relevant one. And then this court's decisions in WM and subsequent cases  highlight that the mere fact that it's included as part of sentencing, that that's more of a ministerial function that's for the convenience and the best manner of informing the defendant, the offender, of his obligations. Now, getting back, I mean, related to this is that question of the fact that it's a condition of release. That does not  that does not mean it has become part of the sentence. I mean, there are plenty of civil orders or civil matters that are incorporated as conditions of release in sentencing orders. For example, a CPO or a stay away order. There might be an official one from the family court. The fact that the criminal judge says, as a condition, continue to stay away or even  which sometimes happens prospectively, a judge will say, as a condition of your probation, you are to abide by whatever orders the family court issues, even in the future, with respect to your relationships and so on.",
+    "speaker": "sharonsprague",
+    "tags": [
+      "legal_citation",
+      "substantive_argument",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6325.178,
+    "end": 6362.744,
+    "text": "If you'll excuse me, I think you're mixing up two things in a way that matters, at least to me. Is this part of the sentencing? No, it's in a separate proceeding.  When will that separate proceeding occur? And that seems to me to at least be susceptible interpretation that it is not a part of the sentence, but it shall not occur until the sentencing proceeding occurs.",
+    "speaker": "judgefisher",
+    "tags": [
+      "judge_comment",
+      "judge_question",
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 6369.55,
+    "end": 6481.346,
+    "text": " Well, I think that the, I'm not sure, again, as the way that the words of the statute read, that it does have to await sentencing. But I do think that given that it can occur in conjunction with sentencing and that that doesn't change its character and its independent nature and its civil nature and all that, they're related.  I understand that the question of the timing, you know, in the trial court, that was, I guess if you want to look at it as kind of our fallback argument, that we really did believe that this became effective at the time of the obligation existed, even if it wasn't imposed. The obligation to register existed at the time of a finding of guilt.  And the reason is, and that makes sense in the context of this statute, because the statute is clearly intending to have a first offender appear on the sex offender registration list. And if it were not, if the understanding was that the conviction had to be final and it could not be done immediately at the same time to require registration,  then there would be an automatic first free pass for every sex offender. And then second, or, and as a trial judge thought here, erroneously in our view, it would take the third assault on a young vulnerable victim in order to qualify for a lifetime registration, which just doesn't square. Can you walk me through that argument?",
+    "speaker": "sharonsprague",
+    "tags": []
+  },
+  {
+    "start": 6481.506,
+    "end": 6574.558,
+    "text": "Okay, so  If we're looking, you're saying for a first-time offender, you're looking at the language of 22-4002A? No. Right, the registration, right, you're saying for a first-time offender, which I think Judge McLeese asked you about.  The registration period shall start when a disposition described in 22-4001-3A occurs. Okay, so if the disposition as described is committed a registration offense, which means 3A sub I was convicted, so- Or found NGI.  or found in the NGI, right? But if we're just focusing on someone who's been convicted of a qualifying sex offense, if they've been adjudicated guilty and a sentence has been imposed, then why can't they be put on the registry for 10 years at that juncture? I'm just not, you're making some sort of, you know, that would be absurd argument. And it seems like you get what you want under that reading.  Well, the suggestion that you can't have committed or you can't have a conviction until the end of sentencing would suggest that, therefore, then this conviction doesn't count.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_question",
+      "legal_citation",
+      "judge_comment",
+      "disagreement"
+    ]
+  },
+  {
+    "start": 6575.018,
+    "end": 6595.875,
+    "text": "I mean, if that conceptually is true, that the conviction cannot count until after there's been a sentence, then  I do think that registration we do think registration in a sentence or after the sentence has been served.",
+    "speaker": "sharonsprague",
+    "tags": [
+      "hedge",
+      "concession",
+      "policy_argument"
+    ]
+  },
+  {
+    "start": 6596.375,
+    "end": 6628.875,
+    "text": "Well, I mean I guess, are you giving up too much, it just seems like.  No, what I'm suggesting is- A sentence could be imposed, and then this person could be in the category of someone who was convicted, right? I mean, after I have been sentenced of a crime, a jury has found me guilty, a judge has imposed a sentence, I am now a person who was convicted of that crime, right? Or do you think something else has to happen?",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 6629.675,
+    "end": 6650.902,
+    "text": "Well, I think that  It's not irrelevant that the definition of committed a registration offense includes things other than was convicted, that it includes NGI and it includes having been declared a sexual psychopath. Neither of those things involve a sentencing. We're imputing into... Right, I mean, sexual psychopaths, right?",
+    "speaker": "sharonsprague",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6652.79,
+    "end": 6720.464,
+    "text": " That's sort of tricky to look at that right now, right? Because we don't have that system in place. But I take it your argument as far as NGI is that really what's going on there is the person has been found legally guilty. And yet we are not holding them responsible as a legal matter because of mental health issues.  And so therefore, we should look at was convicted as also a reference to legal guilt. Is that what the government is saying? Because they're together, right? It's 3A sub I. It's either was convicted or found not guilty by reason of insanity, which is not a true not guilty.  If you were really not guilty, you would be acquitted, right? But if you're guilty, but there are these extenuating circumstances, you might be not guilty by reason of insanity. So there's parity between the was convicted and the not guilty by reason of insanity? Yes, in the sense that there are parallel ways to get there.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 6724.663,
+    "end": 6730.95,
+    "text": " And then you add to that the legislative history. Can I ask you, I just wanna make sure I'm a little confused structurally.",
+    "speaker": "sharonsprague",
+    "tags": [
+      "judge_question",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6730.99,
+    "end": 6861.846,
+    "text": "So let's see if you can help me with this. At times today, it seems like you think we have only two choices.  One is agree with what I thought was your broader position, which is the obligation to register as a sex offender and the judge's obligation to impose a sex offender registration order occur. Both of them are triggered at the time of the adjudication of guilt. That's one theory. It seems like at times today you have been suggesting that if we don't agree with that theory,  then the absurdities that you're pointing out about first-time offenders, and you have to get three in order to qualify for a lifetime offender, follow inevitably. So we have that binary choice. I had thought from your brief that you had a fallback argument that was in between those, that was even if the obligation to register as a sex offender, and even if the obligation to register as a sex offender  don't occur until a conviction has been imposed in the strong sense of adjudication of guilt and imposition of sentence. That nonetheless, that can happen. The judge can finish all that. Not only can, but must finish all that and then make the sex offender determination. So that in the first time offense, the judge would say, at the time of the adjudication of guilt, the judge would say, well, not the sex offender registration time yet.  But then at the time of sentencing, the judge would impose sentence on the criminal case, and then would say, OK, now it's time to think about sex offender registration. I have someone who has been convicted of a sex offender registration, because I've already imposed sentence. Now I'm going to impose a registration order, and the person now is required to register. And the same then would work in a case like this, where after imposing sentence in this case on the criminal component of sentencing,  the judge would look to the defendant then, not earlier, and say, okay, now what is the right kind of length, you know, duration of registration requirement now that this person has been convicted of, in the full sense of having sentence imposed on, you know, two qualifying offenses, the person is a lifetime offender. Do you think we have only two questions, options? Those three.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 6862.226,
+    "end": 6971.253,
+    "text": "Well, I guess I, I guess I, your honor stated my argument exactly.  Right, there is that in between. I think the legislative history and the parsing of the language of the statute itself can support the notion that conviction occurs at the time of finding a guilt, and that that solves the problem that Apelli has raised. Alternatively, if the problem Apelli has flagged,  can be solved in the manner that the court just described and that I described in my brief. And that is that the criminal adjudication is made, the sentencing is made, and then the registration order is imposed. And I think that's, in fact, what we were talking about earlier, what actually happens most of the time. The problem is, or the issue is, and this addresses Judge Easterly's point, I think, about did I give something up to  too soon on the, don't I get, don't we get what we want for a first time offender? And that is, if you apply that logic in the first time offender situation, it has to apply in the second offender situation. There can't be, if someone can be forced to register because of an offense before the trial court right now,  And the minute they're sentenced, they then are forced to register or ordered to register the exact same procedure, the exact same reasoning happens on their second offense. And it was improper for this trial judge to look at that and say, I can't count the second one because it isn't finished. It's the exact same analysis. That's the point I was trying to make.",
+    "speaker": "sharonsprague",
+    "tags": []
+  },
+  {
+    "start": 6972.065,
+    "end": 7049.305,
+    "text": " I think what hung the trial judge up was the difference in the language though, right? And I would love to hear it, right? But just to make sure that we're on the same page, right? Because, you know, under 22-4002-B1,  You know, it's sort of parallel. Well, it's not parallel. It suggests the same analysis of the first time offender if the person has committed a qualifying lifetime registration offense, right? You've committed a registration offense that is a lifetime registration offense, right? But three and four have this different language of has been subject on two or more occasions to.  when it just seems like the legislature could have said committed a registration offense on two or more occasions, right? Like there was just a straight way to go to get to where the government wants us to go. And for whatever reason, you know, the council decided that it wanted to use different language and we're stuck wondering why. Well, I think I have an explanation.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_comment",
+      "legal_citation",
+      "substantive_argument",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 7050.161,
+    "end": 7145.676,
+    "text": " And the court, the trial court was hung up on the fact that the word disposition was used in the latter categories, the ones that apply here, and wasn't, whereas committed was used in the first instance. And I think the difference is that in 4001-3A, that by definition refers to only one offense, a lifetime registration eligible offense. So you committed that offense.  As we try to explain, but I think could have possibly done a better job in front of the trial judge, in our view, disposition is used in the statute as kind of a shorthand in order to encompass all of the ways in which possible types of dispositions that could count. The trial court felt that had one concept of the definition of disposition that it  required a sentence and a judgment on that sentence. But the court shouldn't have been thinking along those lines because disposition is subject to many different meanings. But in this case, there are many ways in which there can be a disposition. There could be a commission of one registration offense 10 years ago and another second one right now. There could be a commission of two registration offenses against two different victims in the past,  There can be commission of two offenses against those victims now. Can I cut you off and say, I mean, I actually, I think I see, my hang up is not with disposition, right?",
+    "speaker": "sharonsprague",
+    "tags": [
+      "substantive_argument",
+      "fact_statement",
+      "hedge",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7145.816,
+    "end": 7224.659,
+    "text": "And so a disposition described in 22-4001-3A, right?  And 4001-3A doesn't define disposition but 4001-3A says committed a registration offense. So the catchphrase disposition described in 22-4001-3A seems to me a synonym for  committed a registration offense, right? Because they both in then reference that all of the sub parts of 4001 3A, right? So there, what I'm hung up on is the verbs,  4,002 B1 talks about committed a registration offense and 4,002 B3 and four talk about has been subject on two or more occasions too. And it's the has been subject that is tripping me up a little bit. And again, I'm just wondering why didn't the council just say committed a registration offense or on two or more occasions and use  the defined terminology of the statute, right?",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_question",
+      "legal_citation",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 7225.079,
+    "end": 7396.219,
+    "text": "I mean, I don't have an insight or an answer into that precise question why they use those precise words. However, I do think Your Honor kind of answered the question in the lead up to it by saying that they're effectively equivalent because B3 and B4 incorporate the definition of 3A, committed a registration offense.  They both, one, three, and four, all effectively use the term committed a registration offense. They are the same. And I think it was just a way to say, I mean, my best explanation is that it was a way to say there are many ways, there are many possible dispositions, there are many possible ways in which someone could have more than one prior offense. But it doesn't change the fact that  that I agree with the court, that it refers back to committed. And in that sense, the definitions are the same. So if committed causes a problem because of someone's view of when a conviction occurs, then it's the same whether it's a single offense or multiple offenses. Because B3 and B4 incorporate, by reference, 4001.3a, and that  which says committed a registration offense, there is no effective difference. We might have wished for greater clarity and chosen different words had we written it, but I think when you combine, understand that it hearkens back to the same definition and you understand the legislative history and the purpose of the act,  And third, understand that if it's interpreted the way this trial court interpreted it, the purpose, aim, and aim of the statute would be undermined. And it would also lead to anomalous results that we talked about in our brief about how out-of-jurisdiction folks might be treated differently than D.C. folks. And I think it's also, as a final thought, worth remembering, you know, that SORA was part of a nationwide push  to prevent sex offender recidivism. So the notion that DC law would somehow be devised to ensure that DC offenders got one free pass, or that two didn't mean two, two means three, just doesn't make any sense in the context of the statute as a whole. Ms. Sprague, let me take you back to, I think, paraphrase words I think you used in your first sentence about a half hour ago.  I've gone way over, sorry. Clear and indisputable.",
+    "speaker": "sharonsprague",
+    "tags": [
+      "concession",
+      "hedge",
+      "substantive_argument",
+      "legal_citation",
+      "policy_argument",
+      "agreement",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 7396.819,
+    "end": 7397.2,
+    "text": "Really?",
+    "speaker": "judgefisher",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 7403.963,
+    "end": 7488.675,
+    "text": "I think it's clear and indisputable that the intent of the law was to prevent recidivism and to warn the community to protect the community against recidivists. This defendant, this appellee,  was clearly a recidivist. I don't think anyone on this Zoom call or in that courtroom thought he wasn't a recidivist. And yet the court found a way to not treat him as a recidivist. So in that respect, I think, and not only that, the court itself, the trial court's own words betrayed her misunderstanding of it. Rather than understanding, I understand this isn't troubling the court now,  But rather than understanding that SORA certification was a civil and non-punitive matter, the judge said, well, actually, I don't see those as separate. But more importantly, the judge specifically included that the, quote, intent of SORA was to, quote, trigger a lifetime registration on the third and not the second conviction, which I would submit is it's clear and indisputable that that was not the intent of the language used by the council and not the intent of the council in passing the Registration Act.  So for that reason, I would urge this court to order the trial court to reconsider its certification order of the sex offender status in order that he be certified for life. Thank you.",
+    "speaker": "sharonsprague",
+    "tags": [
+      "substantive_argument",
+      "policy_argument",
+      "fact_statement",
+      "rebuttal_argument",
+      "record_reference"
+    ]
+  },
+  {
+    "start": 7489.396,
+    "end": 7503.924,
+    "text": "Thank you, Ms. Frank. I will take full responsibility for letting you talk for over a half an hour. I wanted to hear what you had to say. Thank you. So now we will turn to Mr. Hawkins's counsel.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "acknowledge",
+      "concession",
+      "case_transition",
+      "judge_procedural_directive"
+    ]
+  },
+  {
+    "start": 7505.727,
+    "end": 7576.752,
+    "text": " Thank you. Um, can your honors hear me? Yes. Lee gave us on behalf of Appalee, Delonta Hawkins. Um, I'd like to address turning to what your honors were concerned at the very beginning, I guess, throughout what does, um, conviction mean in this statute? And I think that when you look at the statute as a whole, the way that it works, it clear clearly means the final determination of a case, including the sentencing.  And how do we know that? I think the best way to think about, one way to think about it is to consider a defendant who has released pretrial, because under the government's theory, such a defendant would be obligated at that point to comply entirely with the SORA. If you look at, however, at 2240.15,  It says compliance with the requirements of this chapter shall be mandatory, condition of probation, parole, supervised release, and conditional release of sex offenders. Nothing about pretrial releasees. But I want to make sure I follow that point.",
+    "speaker": "leegoebes",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement",
+      "court_procedural_remark",
+      "hedge"
+    ]
+  },
+  {
+    "start": 7577.473,
+    "end": 7593.215,
+    "text": "So someone, a first offender at least, someone who's charged with a registration offense but hasn't yet been adjudicated,  Why would that provision require registration on the government's view? That person wouldn't be a sex offender yet.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 7593.755,
+    "end": 7606.519,
+    "text": "Under the government's view, the person who has been either found guilty by a verdict or by a plea, under the government's view, would be required to follow the strictures of SORA.",
+    "speaker": "leegoebes",
+    "tags": [
+      "substantive_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 7607.639,
+    "end": 7626.424,
+    "text": "For sure, the government has made very explicit its view is that the registration  And that order the requirement to issue an order is triggered at the time of the adjudication of guilt. So, yes, if that's your point, that's true. That's the United States position. That's its broadest position. Right. I think something more than that about people who are on pretrial release.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_comment",
+      "agreement"
+    ]
+  },
+  {
+    "start": 7627.202,
+    "end": 7643.893,
+    "text": " People who aren't pre-trial release who have been adjudicated, who have been either found guilty by a verdict or by a plaintiff. I don't understand the word pre-trial if they have been adjudicated. I should say pre-sentencing. Okay, I'm sorry. Pre-sentencing. Yeah, that's where I got confused.",
+    "speaker": "leegoebes",
+    "tags": [
+      "fact_statement",
+      "hedge",
+      "concession",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7644.494,
+    "end": 7649.397,
+    "text": "Thank you. Let me ask you to clarify your point about condition of probation.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 7650.838,
+    "end": 7672.952,
+    "text": "Why can't you have both sort of a belt and suspenders approach?  The registration order is a legal order, and there are sanctions for failing to comply with that. But we will also make compliance a condition of probation. Is there anything contradictory about those two things?",
+    "speaker": "judgefisher",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 7675.153,
+    "end": 7715.682,
+    "text": "I'm not sure I follow your honor's question.  I mean, my point is that throughout, it's clear that the SORA...  requirements don't kick in until there's a final adjudication, including the sentence. And one of the ways we know that is, one of the ways we know it's 4015. I mean, another way we know that is- Why do you think the government, so I think we've clarified that you're saying that the logical implication of the government's broadest view is that SORA registration requirements and SORA order issuance requirements are triggered at the time of an adjudication bill.",
+    "speaker": "leegoebes",
+    "tags": []
+  },
+  {
+    "start": 7716.857,
+    "end": 7738.435,
+    "text": " You seem to say, oh, so you're pointing out that consequence and you're saying, well, we know that must be wrong, but I haven't quite heard yet why you think it must be wrong. Why does that have to be wrong? Why couldn't that be the right answer? The United States says that's what legislative history tends to support. And so why do we think that's why do you think that's just obviously got to be an incorrect broadest view?",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 7738.855,
+    "end": 7782.692,
+    "text": "Well, I can't tell you that in Superior Court, that is absolutely not the practice. But more importantly,  I think that's because of the statute. I mean, looking also at 4003 certification duties, the court, once it finds, once it certifies someone as a sex offender, they have to provide CSOSA with all the paperwork, not pretrial services. Again, if the government's theory is right, that at the time of a guilty, in this case, a guilty plea, SORA kicks in,  would also provide, that it would have to provide pre-trial services, right, with all of those.",
+    "speaker": "leegoebes",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "fact_statement",
+      "rebuttal_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 7783.792,
+    "end": 7869.357,
+    "text": "Council, what about 22-4003-D that says the applicability of the requirements of this chapter to a person otherwise subject to this chapter doesn't depend on the courts making a certification under subsection A of the section?  I mean, I get that there, you know, obviously there are due process requirements, right? Somebody has to be on notice at some point, somehow, that they're supposed to register. But D seems to indicate that it doesn't necessarily have to be from the court.  Right, and 22 4007 really seems to put the primary responsibility regarding Sora registration and monitoring on to Sosa. So, I'm sort of wondering.  Again, this kind of gets back to why, you know, why does this have to, why, why couldn't a guilty plea and adjudication of guilt be the triggering event.  that creates the obligation. Maybe the obligation is unenforceable unless and until somebody has been notified of it for due process purposes, but I'm just trying to kind of sort through the, you know, there are a lot of odd provisions in the statute.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 7873.478,
+    "end": 7873.719,
+    "text": "Right.",
+    "speaker": "leegoebes",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7876.002,
+    "end": 7881.165,
+    "text": " But I guess my immediate question is, what do you make of subsection D of 22-4003?",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_question",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 7883.126,
+    "end": 7916.468,
+    "text": "Right. This is when a court is, I mean, because in this case, the court would be required to enter an order certifying that person when they're found in a proceeding before the court to have committed a registration offense, which is  what we have here. So I think it just takes us back to the screenplay. My question is, is the first sentence inapplicable when a court is required to enter an order of certification?",
+    "speaker": "leegoebes",
+    "tags": []
+  },
+  {
+    "start": 7917.769,
+    "end": 7940.732,
+    "text": "Because you could read D to say, hey, regardless of what the court does,  you know, a person is still, these requirements still apply. But there are certain instances where a court is obligated to act. Or do you think that's a misreading of this provision?",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 7941.473,
+    "end": 8032.541,
+    "text": "I think that is a misreading in the context, yes, in the context of this case. Again, where everything is in a circumstance like presented here.  all of those obligations don't kick in until, I mean, it just gets us back to the primary question of what a conviction is under this statute, which I think clearly means a complete resolvement of the case, including sentencing. Another clue, I think, to that is looking at the registration period 4002A.  Again, it says that the 10 year period starts at the point the offenders placed on probation, parole, supervised release, et cetera. So under the government's theory, when someone entered a plea of guilty to a sex offense, they would be required to comply with SORA, but the actual period of 10 years wouldn't kick in until they're actually put on probation. I think that's rather nonsensical. And again, shows that when the,  court used the word conviction, it meant what conviction often means in the law, the final disposition of the case, including the sentence. Council, assume that we were to agree with you that conviction means imposition of sentence on judgment under this provision, though it doesn't always mean that, but let's say we agreed with you that was the better reading of these provisions taken as a whole.",
+    "speaker": "leegoebes",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "rebuttal_argument",
+      "policy_argument",
+      "concession",
+      "hedge"
+    ]
+  },
+  {
+    "start": 8034.243,
+    "end": 8114.867,
+    "text": " The United States argues in the alternative that you still can't prevail because the way to understand these provisions, even if that part is right, is that the judge in, let's say, a first offender case, would there be an adjudication of guilt? The judge would then impose criminal sentence and then the judge would say, okay, now what do I do about sex offender registration? And then would make a determination in a first offender case  Well, I now have someone who has committed a registration offense. And I want to say I want to and I didn't really see a response to this in your brief, so I make sure I understand your position. How do you on your view? Is that correct about a first offender registration so that the judge can and must in the first offender case?  Uh, after the adjudication of guilt and after imposing sentence, you know, pure criminal sentence, what is the degree of purely criminal punishment? Uh, then can and must say, okay, but now I have someone who has committed a first offense and therefore now I must require registration. Is that how?  should be and must be interpreted? Or do you think actually the government is right that your view means that, you know, first offenders get a sort of a one time freebie and can't be required to register as to their first offense?",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 8115.387,
+    "end": 8152.865,
+    "text": "So I think there's two things going on there. I think the. This boogeyman of even a first offender wouldn't have to register. Is not worn out by the tenses used again.  in the registration period, it says committed a registration offense, as opposed to has been subject to, on two or more occasions, that language. So the city council must have meant something by has been, and I think that it means something that has happened in the past, as opposed to what's happening now. I mean, I think you're- You said there were two things.",
+    "speaker": "leegoebes",
+    "tags": [
+      "substantive_argument",
+      "hedge",
+      "rebuttal_argument",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 8154.617,
+    "end": 8176.415,
+    "text": " And I hope that one of those two things is what your position is about the correct interpretation of a first offender case. Is it your position that in a first offender case, the trial court is required to first impose sentence and the criminal sentence otherwise, and then turn to sex offender registration and must, if it's a sex offender offense, impose sex offender registration? So I just want to make sure I know what your position is on that.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 8176.835,
+    "end": 8213.529,
+    "text": "We believe that if a defendant is being sentenced for a lifetime offense,  I just want to make sure we're talking about a first time. First offender. Yeah, we do agree that that person would have to register, but we do not agree that it's some sort of separate proceeding where your honor posits. First we do the sentencing and then somehow we do the SOAR registration afterwards. It's clearly all part of the same  proceeding. How do those two things fit together with your emphasis on the past tense?",
+    "speaker": "leegoebes",
+    "tags": [
+      "substantive_argument",
+      "acknowledge",
+      "concession",
+      "disagreement"
+    ]
+  },
+  {
+    "start": 8214.47,
+    "end": 8273.394,
+    "text": "And so in a first offender lifetime registration offense, if someone has been adjudicated guilty and is about to have a sentencing proceeding relating to a lifetime offense, and the judge says, OK, I have two things to do today. You're saying they're inseparable, I think.  The two things I have to do today are impose the criminal sentence. But as part of that, I need to determine sex offender registration. And you're saying, don't pull those two things apart. They're intrinsically intertwined. But if you can't really, if I'm understanding your point, then I don't quite see how your answer to the first offender registration is what it is, because the judge hasn't finished imposing criminal conviction in the full sense at the time the judge, because that sentencing is still going on in your view. It's not over.  It's part of the same inseparable, indivisible event. If it's all right, then I don't see how the judge can, in your view, impose sex offender registration on a first-time life offender. So what am I missing?",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 8276.475,
+    "end": 8299.089,
+    "text": "I think because the language of the statute, 4002A, is in present tense. Which part of the language are you looking at?  Sorry, your honor.",
+    "speaker": "leegoebes",
+    "tags": [
+      "legal_citation",
+      "substantive_argument",
+      "hedge",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 8299.109,
+    "end": 8305.478,
+    "text": "Well, no, I mean, I mean, 4000 to a two, if we're looking, sorry, if we're looking at a or B.",
+    "speaker": "courtroomclerk",
+    "tags": [
+      "court_procedural_remark",
+      "hedge",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 8306.8,
+    "end": 8380.936,
+    "text": " I mean, I'm focused on B, you know, they both, A and B both talk about the registration period shall start when a disposition prescribed in 4001.3a occurs, right? That's present. But then, you know, for B it says, and this is gonna be a lifetime registration offense for someone who under sub one committed a registration offense.  Committed, I mean, not to get too steeped in grammar and verb tenses, but committed a simple past, right? So that happened. And if you look at committed a registration offense, you get to 4001.3a, which defines committed a registration offense as to include was convicted, right? Also in the past.  4002B3 says, has been subjected on two or more occasions. Has been subjected is, I think that's present perfect.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_comment",
+      "legal_citation",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 8381.937,
+    "end": 8382.737,
+    "text": "Right?",
+    "speaker": "leegoebes",
+    "tags": [
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 8383.058,
+    "end": 8419.18,
+    "text": "Which is talking about, you know, something in the indefinite past and possibly continuing into the present.  And referring to this disposition that's described in 4001-3A, which is that includes the was convicted, I guess I don't understand why it doesn't get you to the same place, even though they used a whole lot of extra words that I'm not quite sure that I understand why they used. It doesn't seem to point us in a different direction, clearly.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_comment",
+      "judge_question",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 8422.529,
+    "end": 8444.169,
+    "text": " Well, I mean, I think with B1 committed a registration offense, it's a lifetime registration offense. The council is referring to the case then at bar as opposed to the past tense overlay in three and four has been subject to that language has to mean. It seems to me backwards.",
+    "speaker": "leegoebes",
+    "tags": [
+      "substantive_argument",
+      "disagreement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 8444.429,
+    "end": 8500.052,
+    "text": "I mean, B starts with present tense.  You know it's it has occurs, you know the registration period shall start when the disposition described occurs so all of those have a present tense intro.  And then B1, which I think you're acknowledging, allows for SORA registration occurring contemporaneous with the criminal imposition of full judgment on a sentence. The first word of B1 is completely past. I mean, it's just past tense. Couldn't be more past tense. Three and four are not even, I think, has been subjected. There has been subject. I'm not quite sure what that is. But it's some kind of, you know,  present perfect something or other, or present imperfect something or other. So if you're like really hung up on tenses, it seems like B1 has a more past tense feel to it than B3 and B4.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_comment",
+      "substantive_argument",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 8503.133,
+    "end": 8529.37,
+    "text": "I mean, I think I just disagree grammatically, or the way we understand language, I think has been subject on two or more occasions, clearly refers to something in the past.  So does commit, I mean, so does committed. But I think committed referred in context refers to the offense at bar, the offense at hand.",
+    "speaker": "leegoebes",
+    "tags": [
+      "disagreement",
+      "substantive_argument",
+      "hedge",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 8531.27,
+    "end": 8564.622,
+    "text": "Council, let me ask you about someone who has found guilty in a state, state Minnesota and comes to DC and is told he's required to register.  You have to agree, I hope, that what's going on in DC is a proceeding separate from the criminal sentencing.",
+    "speaker": "judgefisher",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 8567.483,
+    "end": 8567.743,
+    "text": "Yes.",
+    "speaker": "leegoebes",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 8569.263,
+    "end": 8597.927,
+    "text": "So why is it impossible, which I understand to be your view, that in this particular case,  there were two separate proceedings occurring at the same time and place. A criminal sentencing and then a determination of whether the fellow who had just been sentenced would have to register for life or only for 10 years.",
+    "speaker": "judgefisher",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 8601.389,
+    "end": 8662.622,
+    "text": "Again, we don't see them. I think this out-of-state anomaly  really isn't an anomaly. And I think you could treat the person from Minnesota the same as a person from DC, because it talks about starts when a disposition occurs, right? And that disposition could be the disposition in Minnesota. And then you put yourself in the position of that disposition. And at the point that they were being adjudicated in Minnesota, had they been subject to two or more  on two or more occasions before that to 10-year misdemeanor registration offenses in our case. So you would just put a judge in DC deciding whether he or she needed to certify someone for life would measure that from the point of the out-of-state hearing.",
+    "speaker": "leegoebes",
+    "tags": [
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 8664.232,
+    "end": 8682.305,
+    "text": " So you would not look at it in real time, what's going on in D.C.? You would say we have to roll the clock back and the D.C. judge addresses what was the situation at the time of sentencing in Minnesota?",
+    "speaker": "judgefisher",
+    "tags": [
+      "judge_question"
+    ]
+  },
+  {
+    "start": 8683.546,
+    "end": 8789.741,
+    "text": "Correct. Can I ask you, you seem to be making two slightly different points. I want to make sure I understand each of them. One of them is about  differences in terminology between, for example, B1, committed a registration offense, and B3 and B4, has been subject on two or more occasions to a disposition or has been subject to two or more dispositions. So I get the idea that possibly you can interpret that language differently, and you could interpret one to permit consideration. Although there's past tense in one, you could consider the adjudication and sentence that has just been imposed.  for B1, but not for B3 and B4, because the language is different. So that's at least possible. So I get that line of thought. There is a separate point you seem to be making, which is, leaving that aside, it's just not right to think of the criminal sentencing and the SORA registration as distinct. You can't dissect them. You can't make one of them first and then treat the other one second.  And I have, I guess, two questions about that second point. One of them is, or one of them is an observation, which I've sort of hinted at already, which is, if that second point is right, then I don't quite understand why you concede B-1, because if you can't pull them apart, then you can't get to any past tense in B-1 either. So I'm still puzzled by that. But my other question is, what is it in the statute?  or really in anything else, in law, anywhere, what is your kind of doctrinal support for the idea that it's just wrong to look at the criminal sentencing otherwise as something that can be separate enough from and completed before SOAR registration? What is it that tells you those are inextricably entangled?",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 8790.321,
+    "end": 8861.343,
+    "text": "I mean, statutorily, again, if you look at 2240.15b, it says compliance with the requirements of this chapter.  shall be mandatory condition of probation, parole, supervised release, and conditional release. So a judge has to include in its probation or supervised release order compliance with SORA. And as happened in this case, if you look at her special conditions of probation, she required him to register as a Class B sex offender.  So both under the statute and then practically, you can't tease that out. The judge wouldn't know, couldn't order someone to be a class B or a class A sex offender without simultaneously resolving which class  of offender, the defendant before him. I wonder if it's necessary to do those simultaneously as opposed to sequentially.",
+    "speaker": "leegoebes",
+    "tags": [
+      "legal_citation",
+      "substantive_argument",
+      "fact_statement",
+      "record_reference",
+      "hedge"
+    ]
+  },
+  {
+    "start": 8862.184,
+    "end": 8910.718,
+    "text": "That is why couldn't a judge say, okay, you're going to jail for this long and I'm going to suspend part of it and you're on probation.  Part of the conditions of probation will be that you comply with any sex offender requirements that I impose upon you. Stay tuned because we're now about to turn to the question of sex offender registration. Court determines that and then it says we got one thing to tidy up now. Now that I've told you, you have to register as a class A offender for the rest of your life.  That requirement is a condition of the probation I imposed earlier today. What's wrong with that?",
+    "speaker": "judgefisher",
+    "tags": [
+      "judge_question",
+      "substantive_argument",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 8911.538,
+    "end": 8937.328,
+    "text": "I mean, it seems highly artificial and technical. And again, if you're saying to the defendant- How about practical? I mean, it doesn't seem, again, you're under saying,  What I just said relates back to what I did a few minutes earlier with respect to putting you on probation. I mean, it's not.",
+    "speaker": "leegoebes",
+    "tags": [
+      "rebuttal_argument",
+      "substantive_argument",
+      "disagreement"
+    ]
+  },
+  {
+    "start": 8938.522,
+    "end": 9004.313,
+    "text": " I get your point, but I keep running up against the following problem. The logical consequence of it seems to be that no sex offender registration should be imposed versus conviction. Because if I understand your point, the point you're making now, the judge is supposed to do things in the following order. OK, I am about to impose sentence. And let's say the judge intends to impose a period of probation or a period of supervised release.  So I'm going to have a sex offender registration issue to determine before I can impose the actual criminal sentence, which will require a term of super, you know, compliance with sex offender registration for purposes of supervisory circumstances of probation.  So I have to do sex offender registration first. Well, there's no conviction yet because I haven't imposed sentence. So the defendant hasn't committed a registration offense. So I can't impose sex offender registration. It seems like the point you're making, which I get technically, seems to keep having this consequence that is broader than what you are acknowledging. And that's where I'm struggling to reconcile the two.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_comment",
+      "judge_question"
+    ]
+  },
+  {
+    "start": 9006.373,
+    "end": 9014.915,
+    "text": " I mean, again, I'm just have to go back to the language of the statute and the juxtaposition of has been subject to.",
+    "speaker": "leegoebes",
+    "tags": [
+      "substantive_argument",
+      "hedge",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 9017.656,
+    "end": 9114.996,
+    "text": "Tell me your analysis of the following. I'm a sentence. I'm a sentencing judge. The defendant has pled guilty to, let's say, a 10 year sex offender registration offense. And I'm about to impose sentence. And so I say, OK, it's time for me to impose sentence.  I am first orally announcing the sentence I'm going to impose, which is how it would happen ordinarily first. And I need to say, well, I'm going to get to a point in imposing this sentence where I need to say, you need to comply with 10 years. I'm making a condition of probation that you comply with my sex offender order. Well, your point, I think, is the judge can't do that yet. The judge would need to say, oh, no, no, hold on. So oops, I can't finish sentence.  I can't create a conviction in the strong sense of the term yet. I have to do sex offender registration first because I have to know what that is before I can put it in an essential component of creating the first conviction. I don't have a conviction yet. There isn't one yet. So whoops, I have to do sex offender registration first. And since there's no conviction, I can't do it. Tell me how you think a judge can get out of that  box what we're supposed to say no no that's not the problem here's how it's supposed to work under the statute i can go ahead and impose sentence otherwise create a conviction that has a sentence and then do sex offender registration for a first offense because that's where i that's where you lose me about how your analysis allows a judge to work through the problems you've identified i mean i hate to keep going back to it but it's just the different",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "court_procedural_remark",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 9115.537,
+    "end": 9117.438,
+    "text": " language that's used.",
+    "speaker": "leegoebes",
+    "tags": []
+  },
+  {
+    "start": 9117.498,
+    "end": 9156.802,
+    "text": "It doesn't help me much to focus on three or four and has been subject. I get the idea those could mean different things. But but if I'm just asking you on your analysis about how inseparable these are and what the logical order between them must be, how is a judge supposed to proceed in imposing sentence and sex offender registration in a first offense? And you tell me, you know, the judge will first do what? And here's why that fits under the language of B1.  Just walk me through the order in which you think the judge can and should do it and how it fits under the statutory terms for the judge to impose sex offender registration for a first conviction.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question",
+      "judge_procedural_directive"
+    ]
+  },
+  {
+    "start": 9163.908,
+    "end": 9203.191,
+    "text": "Because I think, again, under 4002A and then 4003A,  Upon a finding that the defendant committed a registration offense, they shall enter an order certifying. I mean, it's all wrapped up into one thing. So it's, again, I think, I guess I'm struggling to follow exactly your question. Can I ask a different question?",
+    "speaker": "leegoebes",
+    "tags": [
+      "legal_citation",
+      "substantive_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 9205.91,
+    "end": 9286.348,
+    "text": " One of the things that strikes me, if your argument is correct, is that the statute is silent as far as how you're supposed to deal with the person who's been subject to a first time registration offense that gets 10 years and a second time registration offense that gets 10 years under your  theory, right? You'd think that if that's how it works, that you get sort of two opportunities before the third time when you get lifetime registration, that you would have some provision that explains, oh, well, if you commit a second registration offense while you're on a 10-year registration term,  we will stagger and just, it'll start at the time of sentencing and just extend a little bit beyond or the two tenure periods run consecutive to each other, but there's nothing in there, right? The statute just says there's a tenure registration term and then there's a lifetime registration term. And that seems like a conspicuous omission if your argument is correct.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_comment",
+      "judge_question",
+      "rebuttal_argument"
+    ]
+  },
+  {
+    "start": 9288.304,
+    "end": 9333.836,
+    "text": " Yeah, I don't know, Your Honor, whether someone with two 10-year offenses would serve or be subject to those 10 years concurrently or consecutively. I don't see anything in the statute to answer that. And it hasn't become ripe in my client's case, so I haven't thought it through.  I don't see anywhere in the statute that answers the question of whether it could be consecutive or concurrent. And the court obviously doesn't need to resolve that for its decision in this case. That's a question for another day, if and when it arises, whether it's concurrent or consecutive.",
+    "speaker": "leegoebes",
+    "tags": [
+      "hedge",
+      "concession",
+      "fact_statement",
+      "court_procedural_remark"
+    ]
+  },
+  {
+    "start": 9337.638,
+    "end": 9349.03,
+    "text": "OK. Judgment, please. Did you have another question?  Sorry, go ahead, counsel. If you wanna wrap up, we've kept you up there for a while.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_question",
+      "judge_procedural_directive",
+      "time_management",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 9349.51,
+    "end": 9393.044,
+    "text": "Right, I mean, I think that, I think Judge Fischer alluded to this too. I mean, we think that you're on mandamus review and this has to be clear and indisputable. And I think from the conversations that are going on today, we think our reading is right.  But at the very least, the correct reading here is not clear and indisputable. So on a mandamus review, which we think is the only conceivably basis for this court's jurisdiction, you would have to deny mandamus given that clear and indisputable standard. All right.",
+    "speaker": "leegoebes",
+    "tags": [
+      "substantive_argument",
+      "concession",
+      "hedge",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 9393.544,
+    "end": 9398.388,
+    "text": "Thank you, counsel. We'll hear again from the government for just a few minutes.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_comment",
+      "judge_procedural_directive",
+      "time_management",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 9399.642,
+    "end": 9434.604,
+    "text": " Thank you, Your Honor. Just a couple of quick points. One, to start kind of where you left off. The reason I would submit that the statute doesn't address two 10-year offenses, 10-year registration requirements, is because that's not what's intended. And that's not how the statute was written. The second offense is a lifetime registration requirement. And the fact that there's no such thing as two 10 years run consecutive  there is no second tenure registration offense. There's a second tenure.",
+    "speaker": "sharonsprague",
+    "tags": [
+      "acknowledge",
+      "substantive_argument",
+      "rebuttal_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 9435.664,
+    "end": 9459.115,
+    "text": "Is that right? What about someone who is convicted at a single trial of two sex offender registration offenses that involves the same victim? Wouldn't you then be imposing multiple sex offender registration requirements, one in each count? And I know that you wouldn't get life  But I know there's scenarios where you could, in a way, the way I read the statute.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 9459.195,
+    "end": 9494.772,
+    "text": "No, you would not. That person would only be entitled. We'd only be entitled to one 10 year registration, because if you look at sub three and sub four, one of them refers to two separate victims in the same. Well, I know they wouldn't be subject to life if it's two separate victims. I'm sorry, showing you my outline. A lot of good that does.  If there's two separate offenses against two separate victims, then they qualify under. I get all that. I get all that.",
+    "speaker": "sharonsprague",
+    "tags": [
+      "substantive_argument",
+      "legal_citation",
+      "disagreement",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 9495.173,
+    "end": 9535.698,
+    "text": "So the scenario I'm asking about is there are a single indictment charges multiple offenses against a single victim and goes to trial. And then the judge is imposing sentence on, let's say, two counts, each of which is a 10 year sex offender registration count.  So now the judge has a single sentencing, single victim, but has to impose, you know, is it that it doesn't go count by count, and it's independent, and it's driven by case. And although it might be a condition of probation or release in each of the counts, the sex offender registration, it doesn't really go offense by offense. Is that your point? Yes, I think that's right.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 9535.718,
+    "end": 9557.567,
+    "text": "And I have a footnote in my brief talking about one of those sections applies to the situation you're talking about, and the other one  One of those sections applies to two different victims. It could be in the same case or different case. And the other section applies to two different occasions. So I got that.  And I don't think there's a third thing that allows us.",
+    "speaker": "sharonsprague",
+    "tags": [
+      "legal_citation",
+      "fact_statement",
+      "acknowledge",
+      "substantive_argument",
+      "hedge"
+    ]
+  },
+  {
+    "start": 9557.847,
+    "end": 9594.85,
+    "text": "There's definitely a third thing. It's just that I'm pretty sure, which is the example I gave you. So the two ways you can get to life offenses out of 10 year, what otherwise would be 10 year offenses, like life registration, recidivist life registration, is if you have two different dates of conviction, whatever you think conviction means. That's one way. Another is even if it's on the same date of conviction, if there are two different victims involved.  But the sort of possibility is that you're getting multiple convictions on the same day relating to a single victim. And I think that's not contemplated.",
+    "speaker": "judgemcleese",
+    "tags": [
+      "judge_comment",
+      "substantive_argument",
+      "fact_statement"
+    ]
+  },
+  {
+    "start": 9594.97,
+    "end": 9720.754,
+    "text": "My reading of the statute is that that's not contemplated as having separate registration requirements. So that's my reading. But it was, to me, very... So anyway, my point is that the reason you don't see anything addressing those multiple tenure  registration orders is because they can't occur. When it's the second one, it becomes life. I thought that Judge Easterly's focus, focusing us on 224003D is very helpful because it reminds us that you can be, there are two ways that you can be ordered to register. One is generally applies when you don't have a case right before the court.  You have convictions in another jurisdiction, or you have a federal case, and you've now been released from prison. You're now subject to registration. CSOSA decides that. There's a provision in the statute to allow the offender to challenge that CSOSA's decision about 10 years versus lifetime if he or she thinks that's appropriate. And I think when you're talking about in 22-4003,  There is either that way that CSOSA does it for a case that's not before the court, or there's what's referred to in subsection D. The court is required to enter an order certifying that a person is a sex offender only when, one, the defendant is found in a proceeding before the court to have committed a registration offense. To me, to us, that clearly indicates that the case at bar  is the case that triggers the registration. And that to me is quite clear from subsection D1 of 22-4003. Finally. Can I ask a question that takes us a little bit off topic, but is sort of related to the jurisdictional question?",
+    "speaker": "sharonsprague",
+    "tags": [
+      "legal_citation",
+      "substantive_argument",
+      "fact_statement",
+      "hedge"
+    ]
+  },
+  {
+    "start": 9723.28,
+    "end": 9767.214,
+    "text": " Assuming that this falls under 11721 and is a civil appeal in nature, I found myself kind of wondering why the government is before us, the United States government, as opposed to CISOSA, perhaps. I mean, and not to be flipped, but kind of what's it to the government? This isn't part of the criminal case, right, as the government  use it. And, and nothing in the statute talks about the government filing anything. And so I just was curious what the government's view of this is.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_question",
+      "judge_comment",
+      "legal_citation"
+    ]
+  },
+  {
+    "start": 9769.756,
+    "end": 9820.461,
+    "text": "An excellent question. I think I know, seriously, I think it's very, I mean, in the other, the other SORA cases that have been been before this court have been in Ray WM.  They've been more styled as civil case. So I understand that question. I think it's that it's, as both this court and the Supreme Court have said, there's an efficiency to handling this altogether. And we, as the government, have an interest in ensuring that the proper things are done at the end of a conviction.  And that, and that the community is protected in that way. So I don't, you know, that I don't.",
+    "speaker": "sharonsprague",
+    "tags": [
+      "acknowledge",
+      "fact_statement",
+      "legal_citation",
+      "policy_argument",
+      "substantive_argument"
+    ]
+  },
+  {
+    "start": 9820.921,
+    "end": 9831.783,
+    "text": "I mean, to be blunt, are you overstepping your bounds? Right. You know, is this, is it your place to be here? If we were not here, there would be no remedy.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "judge_question",
+      "judge_comment"
+    ]
+  },
+  {
+    "start": 9832.303,
+    "end": 9953.604,
+    "text": "I think that's one concern. There's no.  Who else would be able to correct this? CSOS is not involved at this point because this is an outgrowth of a conviction of a case that we prosecuted. So I think that's the reason why we're here. That's my best understanding. I mean, CSOS is not involved at this point when you have a case that's the case at bar that triggers the registration.  But that's why 4003D directs the court in this case, obligates the court, it's mandatory, it is not discretionary to enter these orders at this point. I guess finally, my last point is I just, to the extent the terms are seen as ambiguous, I think it's important to remember that, and I think there's not been a real  challenge or concern about this being a civil regulatory matter separate from sentencing, any ambiguity should be liberally construed for the benefit of the class that the law was intended to protect. And here, of course, that's the public. It's particularly vulnerable minor victims of these offenders.  And there is just, it is not applying that lens. It's important that the recidivists here be treated the way that the council intended and that the protection of the community by means of lifetime registration not be made to await a third assault on a vulnerable victim. And for that reason, we would urge the court  order the trial court to reconsider its certification of appellee sex offender status and order registration for life.",
+    "speaker": "sharonsprague",
+    "tags": []
+  },
+  {
+    "start": 9955.427,
+    "end": 9962.995,
+    "text": "Thank you, Miss Frank. Thanks to all counsel and the case will be submitted, and the court stands adjourned.",
+    "speaker": "judgeeasterly",
+    "tags": [
+      "acknowledge",
+      "court_closing",
+      "court_procedural_remark"
+    ]
+  }
+]

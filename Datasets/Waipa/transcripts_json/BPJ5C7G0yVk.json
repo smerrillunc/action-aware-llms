@@ -1,0 +1,1430 @@
+[
+  {
+    "start": 0.031,
+    "end": 56.399,
+    "text": " I see we're now streaming live on YouTube. Again, welcome everybody, committee members, staff, and guests. Just a couple of reminders. Firstly, we're streaming live on YouTube, and people in the chambers, I wonder if you could make sure you press your buttons before you talk so that we can hear at this end. And Zoomers, can you please keep yourself muted until you talk as well? Otherwise, things get a bit chaotic.  So with that said, let's kick on. The first order of business, as is always, apologies, I'm not aware of there being any, so I'm quite comfortable for us to move on from there, in lieu of there being anybody missing. Is Roger with us? So perhaps we should just note his apologies for lateness in that instance. Can I have somebody who's happy to move in for me, Mike?  seconded Marcus all those in favour say aye.",
+    "speaker": "susanoregan",
+    "tags": [
+      "public_address",
+      "procedural_move",
+      "call_vote",
+      "ask_question",
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 57.339,
+    "end": 58.1,
+    "text": "Aye.",
+    "speaker": "Unknown",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 58.28,
+    "end": 80.475,
+    "text": "Carried. There is an apology from Hazel. Sorry what was that? There is an apology from Hazel. Okay so we'll add Roger for lateness and Hazel for her absence so Mike's moved Marcus is seconded all those in favour say aye against carried.",
+    "speaker": "susanoregan",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "summarize_outcome",
+      "report_back"
+    ]
+  },
+  {
+    "start": 81.502,
+    "end": 134.092,
+    "text": " Right, moving on then to members' interests. I'm not aware of there being any, so we can just move on from that item onto late items. Again, I'm not aware of there being any late items to add to our agenda today. So moving on again to confirmation of the order of meeting. Again, pretty confident that there's to be no change. Andrew's happy to move. Do I have anybody happy to second?  Marcus, all those in favour say aye. Aye. Against. Carried. Right, moving on to the fifth item then, our confirmation of minutes from our previous meeting. Now, I understand Clare had a question to raise in respect of them. So, Clare, can I leave it to you to flesh out what your concerns were? Oh, yeah.",
+    "speaker": "susanoregan",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "summarize_outcome",
+      "ask_question",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 134.132,
+    "end": 191.175,
+    "text": "Thanks, Susan. Can you hear me? Yeah. OK. I think it's on page 12.  It was the Waipa District Council Community Recovery Fund. Yeah, there was a minor typographical error which has been fixed, but then there's no discussion on the point that I queried about the use of the $49,000 for district promotion, because I asked for an assurance that staff would be seeking to use that fund for  events and promotions across the whole district, not simply around like Lake Karapiro and like the Avanti Drome, which is where the facilities are for large events. And I just, and I did get that assurance from staff at the time. So I was asking whether or not that could be included just in the discussion part.",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "provide_information",
+      "clarify_point",
+      "express_concern",
+      "community_reference",
+      "report_back"
+    ]
+  },
+  {
+    "start": 191.915,
+    "end": 192.455,
+    "text": "Yeah, that's fine.",
+    "speaker": "Unknown",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 192.495,
+    "end": 193.216,
+    "text": "We can include that.",
+    "speaker": "waipadistrictcouncil",
+    "tags": [
+      "agree",
+      "confirm_next_step",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 194.016,
+    "end": 194.716,
+    "text": "Thanks very much.",
+    "speaker": "Unknown",
+    "tags": []
+  },
+  {
+    "start": 207.752,
+    "end": 208.692,
+    "text": " Susan you're on mute.",
+    "speaker": "waipadistrictcouncil",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 210.693,
+    "end": 246.411,
+    "text": "Sorry I thought I must have pressed it twice. Okay so we will start as we usually do then in terms of those minutes. Page 8 and 9, 10, 11, 12, 13,  and 14 is the final page. Beyond the comments raised by Claire and the assurances given in terms of those changes, do I have somebody who's happy to move that they are true and correct?",
+    "speaker": "susanoregan",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 247.071,
+    "end": 249.312,
+    "text": "I'm happy to move, Madam Chair, and I'll second that.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "agree"
+    ]
+  },
+  {
+    "start": 249.713,
+    "end": 279.507,
+    "text": "Thank you, Graham. Thank you, Lou. All those in favour, say aye. Aye. Against? Carried. Great. So moving on then to our first substantive item today, which is the Waipa Community Facilities Trust  six-monthly update and you shall see beaming before you the shiny and smiley faces of Merv Jyde and Matt Horne. No doubt and no strangers to you but Debbie did you want to introduce these two formally for us?",
+    "speaker": "susanoregan",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "assign_action",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 281.788,
+    "end": 289.931,
+    "text": "Yeah just wanting to welcome Merv and Matt to our meeting. Thanks very much for coming to present your six-monthly update and I'll hand over to you now.",
+    "speaker": "waipadistrictcouncil",
+    "tags": [
+      "public_address",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 300.952,
+    "end": 302.613,
+    "text": " Morning mover Matt, take it away.",
+    "speaker": "susanoregan",
+    "tags": [
+      "procedural_move",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 303.193,
+    "end": 976.011,
+    "text": "Hello. Hello, sorry we lost you for a second there. Technology, welcome, thank you. So we're to present our annual report for the 2019-2020 Waip\u0101 Community Facilities Trust annual report. This report will be covering over the topics of the non-financial report and the financial report.  if we can go to the first slide, if everyone's on the first slide. This is the total visitors across, obviously, only the event centre this year. We're substantially down to 195,000 visits  One more page, please. Thank you. 195 down. Obviously, that's due to COVID. And you can see on the right hand side the variation of about 37, almost 37 and a half thousand people down or a loss of 16 per cent. I'd like to highlight end of February, we were tracking at 9 per cent above the previous year. So COVID's hit us as an organisation pretty hard.  So, 166,000 pre-Covid till February 20. So, we're up about 13,000 on the previous year. So, just to get another, you know, a sense of what we're up to. So, we're up about 13,000 on the previous year. So, we're up about 13,000 on the previous year. So, we're up about 13,000 on the previous year.  projected at a visited number of two hundred and fifty three thousand around there, which would have been really good in a record for us. Next slide, one's just to the polls. Down again, we've got a record of about two hundred and fifty three thousand. We've got a record of about two hundred and fifty three thousand.  Down to almost 19,000 visits or 16.8 percent, almost 17 percent. We had a number of bookings in March that cancelled due to school swimming sports. We had a number of them cancelled with the high numbers and obviously the terms going in and school holidays were affected. Next page. If we look at pre-COVID, we're right on track there.  heading into our busy months in March and in school holidays. So, we're still up a little bit on the previous year, which was our busiest year ever. But that is what it is due to COVID. Next slide. The stadium numbers. We're down about 10,000 visits on last year.  We were just kicking into our winter season, which is normally, historically, the busiest terms of the year, the six months busier in the winter codes. And once we went into lockdown, Level 3 closure and then Level 2 was pretty much only high level sport was allowed. Obviously, the magic deal. So, the visitors were down. Pre-COVID on the next slide, which is February, we're up about 2,300  Visits were 10% and then these were the 10 significant bookings that we lost, not including our general mini ball and basketball netball, but some significant tournaments that we lost due to COVID, which is a bit disappointing. Next page, next slide. This is how our gym was tracking, or Club Waip\u0101. We were pretty much on par. We were tracking really well.  quite a bit ahead of the game. So, we're almost on par with last year. Membership dropped significantly. We lost about 107 members due to COVID. So, to get them back, it's been a bit of effort coming in with the team. And the next slide, and that's how we were tracking. So, we're up almost 7,000 visits on the next slide, or 20%. So,  Because we were so far ahead, it didn't affect the overall of the gym too much. We were almost on par. But the group fitness was up and gym membership was up. The team were working really hard on that. So, you know, it's just things that happen. Next slide.  We were given $20,000 in grant funding from Water Safety New Zealand to deliver to schools for the water safety and boat safety. So, we were given $20,000 in grant funding from Water Safety New Zealand to deliver to schools for the water safety and boat safety. We were given $20,000 in grant funding from Water Safety New Zealand to deliver to schools for the water safety and boat safety.  and learn to swim program, which was going really well. Then obviously, once again, COVID hit and had a bit of problem. So, we're still above the previous year at that stage for the total year, and that was before COVID hit. So, we're well on track to break numbers. Next slide. And as you can see, that's how we were tracking pre-COVID.  So, we're quite proud of that, especially the swimming lessons for the schools was going really well. The next one is the big slide, sorry. This is the big impact. We had 268 bookings cancelled in three months, which was about 11,700 lost revenue and projected of about 58,000 visits lost. And in this current year,  when I wrote this presentation, we had 168 bookings cancelled due to the second wave and we're getting cancellations as we speak, especially with Auckland have been in lockdown three. And so some of those competitors can't leave. So they've been cancelling and keeping the hygiene and the standards. We've got gym carnivals that we can't host because they just can't maintain the hygiene levels that are required and wiping down after use and  mats are pretty hard if they're not plastic and things like that so it's probably going to affect us for a while going forward and hopefully we get back to some normality if we get lifted to level one. Health and safety next slide. So generally overall we were a doubt on all last year which is a good thing except for our contaminations  While they've come down significantly over our history of being there, this year we seem to have a number of vomits more than our code browns. So, we don't know the reason for that, but we were on ballpark from last year. Previous years, we obviously dropped significantly with our new food policy and tried to stay on top of it.  But overall, most of them have dropped. Had a few trespass from last year. Seven lot of incidents with little kids or kids not behaving. Poor water quality. Next slide, sorry. Tracking quite well, you can see we're right above the 85. Average is 94. So we're tracking well above and there's a gap  obviously April, May and June. The good thing about COVID for us was we got a chance to do our maintenance period and do a really good clean. We did a lot of tiling and all our expansion joints in our pools, which had been, hadn't been done for a while. So that closure kind of helped us out getting on top of that, which was really good. Feedback.  generally on par. We had more compliments last year. I don't think COVID's helped us any.  with that and then as restrictions are still in place I think generally people's patience you know they want things to go back to normality and trying to keep restrictions on is tough to meet their needs in some aspects but generally pretty good and down on the stuff that really matters but disappointing to lose those compliments I guess not as good.  Next page, please. Capital renewals. So, ASB Stadium, the grandstand that everyone sits in, we've got new motors or drivers to do that. There was a significant cost around the 50k mark when we got all some new pumps for some of the pools.  and we upgraded the trust, invested in the new reception. If anyone's been there lately, you'll see a nice, more welcoming reception and more inviting. And we got new lane ropes and we also did a full renovation of our sauna. So, ripped it all out, new wood, a new heating unit and the heating unit's actually got a water feed to it now. So, one of our  issues we had before was because it's a really dry place and there was no moisture the wood would actually get really brittle and so become a fire hazard over the 20 years that it's been opened and so the new water feed leaves a little bit of moisture in the air that keeps the wood damp so hopefully with us being able to on a cycle roster we'll be able to maintain and keep that going so that seems to have good feedback even though it's closed under level two.  This is and I have to stipulate that these have not been fully audited, but virtually how we're tracking is of zero. So, the funding that we received for between the two years, obviously, the last quarter with covid, we didn't receive as much funding, which is obviously quite understandable.  We had capital renewal funding and then our funding, another trade, and then you can see the government wage subsidy that we received, which was a real help. So, overall income is down and expenditure was down as well. So, our difference was about one hundred and fifty one thousand that we made a deficit before tax or surplus, sorry, surplus before tax.  Okay.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "public_address",
+      "report_back",
+      "summarize_outcome",
+      "express_concern",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 976.311,
+    "end": 1131.728,
+    "text": "Good morning, everybody. Thank you for indulging us in these rather difficult circumstances. So, the next slide is the one I've produced or we've produced each year, and it seeks to, I guess, put things in some sort of  I guess, useful information in terms of cost to the ratepayer and what the facility might be providing itself. So, line number one there, the district council subsidy, which you saw on the previous page, was $940,000. That's the surplus we made for the year. So, the overall  by, if you like, the people of Waip\u0101, 793 and a half thousand, or 42 percent of our total revenue. So, the commercial activity of the trust, along with the government subsidy, produced 1.528 million, or 58 percent of the total.  per user visit cost was subsidised by the district council or the rate payers as $4.07, a little bit more than last year. And the commercial activity of the trust subsidised at $7.83. So the total cost per visitor average across the facility, just in Te Amutu, of course, Cambridge being closed, was $11.90.  $22,541 rateable units in WIPA. So the annual cost to the ratepayer on average, top right-hand number, $35.21. And the commercial activity of the trust produced $67.82. So overall cost per ratepayer, a total of $103.03.  $35 of which subsidised by the ratepayer. And then just across the bottom there, trying to sort of suggest what equity growth the trust may have produced. And the bottom right hand number, $41.50 of, shall we say, equity across the ratepayers  in the area for 2019-20 up from $35 a year before. So just a little snapshot of things that I think are interesting. Whether you do or not, I don't know. So happy to take some questions.",
+    "speaker": "mervandmatt",
+    "tags": [
+      "provide_information",
+      "summarize_outcome",
+      "public_address",
+      "community_reference",
+      "equity_reference"
+    ]
+  },
+  {
+    "start": 1137.192,
+    "end": 1161.282,
+    "text": "Thank you, Matt and Merv. That's obviously understandable in the circumstances. I'm pretty  disappointing obviously numbers on account of COVID but you know the small positive is that you were tracking so well pre-COVID and everything was looking so good so that's a small positive to take from a pretty difficult report. Do I have any questions? Claire I believe you've got one and then Mike.",
+    "speaker": "susanoregan",
+    "tags": [
+      "express_concern",
+      "reassure_stakeholders",
+      "procedural_move",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 1162.728,
+    "end": 1200.22,
+    "text": " Yeah, thanks a lot, Susan. And congratulations, Matt and Merv. It has been a difficult year for you, I guess. And it's disappointing that all that progress that you had been made is now is on the downward side, but we can just hope that things improve going forward. I had two questions. The first one was, I noted that there are actually a big reduction in slips and falls.  And I wondered if you might be able to sort of shed some light on that. I know that you did some maintenance, you know, on those pool surrounds in Timutu a few years ago. Is that it or is it people just being more careful?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "express_concern",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 1201.681,
+    "end": 1263.642,
+    "text": "Yeah, through Madam Chair, when we got the new flooring done, it was such good flooring that a lot of the body fats would stick on top. And our previous way of cleaning it  and the old elbow and scrubbing brush and the hose didn't cut it. So we purchased  some machines at significant cost that would be scrubbed and do it. So, we have regular cleaning on the flooring with the machines and that's really made a big difference on the flooring. So, over the past year or so, we've been tracking the slip strips and falls due to that. Not from people running, we do running as well, but just normal walking where it was slippery, how other machines are going. So,  we'll be definitely getting those type of machines for the new Cambridge pool as well, sort of thing. So it's the machines that really help. They can lift the dirt. They've got big scrubbing brushes and walk behind and scoops the water up and the dirt up as you go. No, that's really great to hear.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "reassure_stakeholders",
+      "evaluate_option",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 1263.682,
+    "end": 1274.747,
+    "text": "Thanks. And the second question I had was about the wage subsidy. So that's what impact is that going to have on you once that comes to an end?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 1277.532,
+    "end": 1338.528,
+    "text": " It all depends if we stay in Level 2. Level 1 it doesn't really have much of an impact for us because we're business as usual with just heightened hygiene sort of protocols. Level 2 is a bit of a pain because we're restricted to 100 people throughout the facility and the challenge for us is how do we manage that as well because wiping down door handles, toilets, poles at people, high touch points is difficult for us so we've had to restrict to  level two, we don't have that. And we've just been lucky enough to get the third round of wage subsidy for the two weeks. So we've just been given that this week. Yes, we also got a small business, small business loan. We've got a small business loan. We've got a small business loan. We've got a small business loan. We've got a small business loan.  that we've got really is standby as well to help us out.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "express_concern",
+      "report_back",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 1339.169,
+    "end": 1348.433,
+    "text": "So our thought there would be that we'd pay that back inside the 12 months. So it remains interest free. It's a bit of a buffer.",
+    "speaker": "mervandmatt",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 1351.594,
+    "end": 1362.139,
+    "text": "Thanks very much. That's really good information there. And let's hope we can stay away from that, those higher levels so that you can operate really well. Thank you.",
+    "speaker": "Unknown",
+    "tags": [
+      "reassure_stakeholders",
+      "agree"
+    ]
+  },
+  {
+    "start": 1364.02,
+    "end": 1367.42,
+    "text": "Thank you, Clare.  Mike, did you have a question or comment?",
+    "speaker": "susanoregan",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1368.32,
+    "end": 1394.775,
+    "text": "Yeah. Hi, Matt Murve. Yeah, look, again, just to reiterate, we're really well done on the difficult times and what you've achieved there and continue to achieve. And it was sort of good to see that through all that, there was still a surplus through all your revenue, around 150,000. So well done there.  Just a question around, there was a slide there around 268 cancellations and a revenue drop of $11,500. Just wanted to confirm that that was correct.",
+    "speaker": "mikepettit",
+    "tags": [
+      "state_opinion",
+      "ask_question",
+      "clarify_point",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 1404.654,
+    "end": 1434.747,
+    "text": " Yeah, so those bookings averages around about $40 something, I believe it was, per booking. Some of them were big bookings, which you'd get thousands of dollars worth. Some of them were just lane hires. So it all depends. So they totaled up the number of bookings and roughly the total amount. So it seemed like a little amount, but some of them were big, large events, and a lot of them, a lot of our general bookings are small. I'll have the meeting room or I'll do a couple of lanes sort of thing.  So that's how it works out.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1435.347,
+    "end": 1436.928,
+    "text": "Yep. Cheers, Matt.",
+    "speaker": "mikepettit",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 1439.49,
+    "end": 1448.236,
+    "text": "Do we have any other questions or comments for these gentlemen in the chambers? Sorry, was that you Bruce?",
+    "speaker": "susanoregan",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1448.556,
+    "end": 1448.836,
+    "text": "Yep.",
+    "speaker": "rogergordon",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 1450.657,
+    "end": 1473.18,
+    "text": "Thank you, Madam Chair. Can you hear me? Yep.  Matt Murve, nice to see you. Matt, question for you. Capital renewals, a circulating pump replacement, you're talking 50,000. Was that a pump that's failed after a major upgrade before the trust come into existence, or is it just something that popped out unexpectedly from original replacement?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1474.737,
+    "end": 1494.75,
+    "text": " through Madam Chair, no, sorry, that was 50,000 for the motors for the grandstand. We get replacement costs for pumps of 12,000 every year in our capital renewals. So, we replace, we service all the pumps and the ones that need replacing at the end of life. So, we replace two pumps that are roughly just over 6,000 each this year. So, it's around",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1496.744,
+    "end": 1507.414,
+    "text": " Thanks, Matt. No, sorry about that wrong operating. Is the chlorine that we put in the water harder on those circulating pumps than would normally be the case?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 1509.195,
+    "end": 1536.756,
+    "text": "We run a 1% solution, so it's quite a mild solution like bleach that you'd buy at the  supermarket it's just because the pumps run 24 hours a day so when we're not using it they're still working and circulating the chemical and heating and all of those so you know five or six years down the track they come to the end of their use and the bearings go and stuff like that so sales start cracking.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1537.957,
+    "end": 1541.558,
+    "text": "Thanks very much. Great thank you for that.",
+    "speaker": "Unknown",
+    "tags": []
+  },
+  {
+    "start": 1542.598,
+    "end": 1561.242,
+    "text": "I'm not aware if there being any other questions from the  Congratulations for the lack of damage, I suppose, in terms of the users of the facilities.",
+    "speaker": "susanoregan",
+    "tags": [
+      "provide_information",
+      "reassure_stakeholders",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 1561.322,
+    "end": 1573.152,
+    "text": "But the Level 2 restrictions, that 100 people restriction, is that over the whole facility or are you able to have 100 in the pool and 100 in the gym and 100 in the event centre?",
+    "speaker": "susanoregan",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1578.923,
+    "end": 1707.116,
+    "text": " So, when we originally heard it, we were told that if we could separate areas and have separate changing rooms and separate entry and exit points, we could have 100 each side. Then we went to our industry meetings and I asked the question, was this true if we could isolate those areas? And they said, no, if it's one centre, it's 100 across the centre.  Yesterday I spoke to somebody from Auckland who came down in our industry and they said they've been separating 100 either side. So we've got to take into account our partners like the cafe. We want them to operate as well. So, you know, and they've got an allocation of about 20. We put 40 in the pool with any one stage.  and that's including the swimmers and parents, but we try to restrict a lot of the parents. So, currently, the swimming lessons are you come and drop your kid in Simon or scan in your code, you wait in your car, the kid gets done, and then we escort the kids to their parents.  trying to reduce those numbers. Once they start bringing siblings and things, we restrict it. We've got no group fitness classes running at the moment. We are re-looking at that, though, to see if we can reduce the class size and spread them out. And then we've got the gym at any one stage and the stadium. So, 100 people comes up pretty quick.  It doesn't take long, especially at peak times. So it's trying to balance that out and be fair to everyone. If we got confirmation we could put 100 either side, that helps us out a lot. But we still got to try and keep the social distancing. And if we have too many people, it's so difficult to manage and then wipe down. You think of all the sports equipment, netball goals, basketballs,  seating, flooring between use, very difficult and time consuming for staff to maintain. So, restricting it is what we've done to be able to maintain some normality in service.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "express_concern",
+      "ask_question",
+      "clarify_point",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 1707.777,
+    "end": 1709.818,
+    "text": "We don't want to be ground zero for my part.",
+    "speaker": "mervandmatt",
+    "tags": [
+      "express_concern",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 1712.12,
+    "end": 1715.422,
+    "text": "We don't want you to be either. OK, thanks for that.",
+    "speaker": "susanoregan",
+    "tags": [
+      "reassure_stakeholders",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 1716.263,
+    "end": 1741.215,
+    "text": "Madam Chair, Bruce Bing. Go ahead, Bruce.  Gentlemen, when I was last there, the hydro slide was leaking like anything, and I'm pleased you've done something about that. My question is, do you review the charges on that? I took my grandchildren, I thought it was the best whatever dollars I ever spent for the fun they got out of it. And I was like, this is ridiculously cheap. So that was my question, to recoup a few dollars, when can you look at that or have you looked at it?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "provide_information",
+      "express_concern",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 1743.377,
+    "end": 1793.607,
+    "text": "We review our fees and charges every year.  We've just bought a brand new inflatable for the kids that we haven't been able to put up for anybody due to our restrictions. What we try to do is give them bang for buck. So we know some families do struggle at times, so we try and give it for an hour  on the hydra slide and then another hour on the inflatable. We try to make it family friendly. We obviously want to make money and do well out of it, but we also want to get a balance that people want to come and have fun. So we spent some significant money in the maintenance period on the hydra slide, doing all the upgrades that have been begging for a while. So yeah, that's working really well at the moment and can't wait till the new inflatable goes up and see how the kids like it.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "reassure_stakeholders",
+      "equity_reference",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 1796.365,
+    "end": 1801.546,
+    "text": " duly noted, though, we'll think about that. Yeah, definitely.",
+    "speaker": "mervandmatt",
+    "tags": [
+      "defer_decision",
+      "agree"
+    ]
+  },
+  {
+    "start": 1801.566,
+    "end": 1804.767,
+    "text": "Thank you, gentlemen. Bruce, you weren't tempted to give it a shot yourself?",
+    "speaker": "susanoregan",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 1806.687,
+    "end": 1810.088,
+    "text": "No, I think I wasn't allowed. I was disqualified for some reason.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1811.188,
+    "end": 1816.209,
+    "text": "You can be free if you want to next time.",
+    "speaker": "mervandmatt",
+    "tags": [
+      "provide_information",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 1818.469,
+    "end": 1849.209,
+    "text": "Excellent. Now, I take it there are no other questions from the floor.  um so look gentlemen thank you so much just reiterate the thanks um given by um other members today look it's been a really tough um period of time for everybody and let's just hope your fingers crossed that we move out of level two because clearly uh it's uh really extremely limiting for your business um that you're in so let's just all keep every fingers all of our fingers crossed and hope we can get back to something that's vaguely normal again for your  have something you wanted to say.",
+    "speaker": "susanoregan",
+    "tags": [
+      "public_address",
+      "reassure_stakeholders",
+      "express_concern",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 1849.51,
+    "end": 1914.718,
+    "text": "If I could, Madam Chair, I probably don't do this often enough, but thank you to our CEO, Matt, who, since about the 25th of March, has earned his money, I would suggest. It's been pretty difficult. Not only grumpy public who can't understand why they can't come in, because they're clean and tidy and all those things,  know, we don't want to be ground zero. We're quite serious about that. So, thank you to Matt in this forum, if I could, please. And also, I don't do this nearly often enough. Thank you to the council staff. So, I guess you guys as elected councillors rely on your team to do things. And we have a bit of sparring from time to time, but  We're very grateful, actually, to the support we do get, and particularly to Ken Morris, who talked with me over the lockdown, and we came to a pretty easy consensus, I think, on where the funding would lie through April, May, June. So, we're very grateful. So, just in this forum, Madam Chair, if I could say a thank you to Council staff.",
+    "speaker": "mervandmatt",
+    "tags": [
+      "public_address",
+      "express_concern",
+      "reassure_stakeholders",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 1916.619,
+    "end": 1949.578,
+    "text": "Thanks, Merv. That's much appreciated. If you could pass it on, Sally, that would be fantastic.  Thank you. So, getting back to our actual agenda, I see on page 15, we have a recommendation there to receive both Sally's report and the report of the Waip\u0101 Community Facilities Trust. Can I have somebody who's happy to move those for me? Andrew's moving, Marcus is seconding. All those in favour, say aye. Aye. Against. Carried. Thank you so much, gentlemen, and we will pass on your thanks. Thank you very much.",
+    "speaker": "susanoregan",
+    "tags": [
+      "assign_action",
+      "procedural_move",
+      "call_vote",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 1950.078,
+    "end": 1950.338,
+    "text": "Bye.",
+    "speaker": "mervandmatt",
+    "tags": [
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 1951.827,
+    "end": 1969.99,
+    "text": " Great. So now moving on to our next agenda item, which is the Waikato Arts Navigator Report to the Waip\u0101 District Council. I believe Debbie, you'd like to introduce our guests this evening. Well, this afternoon rather than morning. Gosh, I'm half asleep. Welcome gentlemen, take away Debbie.",
+    "speaker": "susanoregan",
+    "tags": [
+      "procedural_move",
+      "assign_action",
+      "public_address",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 1971.237,
+    "end": 1991.343,
+    "text": " Yeah, so I'd just like to introduce Dez Ratima and Jeremy Mail from Creative Wakato. You might recall that you met Jeremy before at your council induction. So great to have you here, guys. So they're just here to talk to us today about the Wakato Arts Navigator, which we partially funded for stage one. So yeah, take it away, team.",
+    "speaker": "waipadistrictcouncil",
+    "tags": [
+      "procedural_move",
+      "provide_information",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 1993.308,
+    "end": 2528.607,
+    "text": " I'm good everyone. I'll just do this awkward screen sharing thing so we can see the image and hope that it all does what it's supposed to do. Hopefully we can see that.  So hello, everyone. Dr. Jeremy Maile here on behalf of Creative Waikato, the arts development organisation for the Waikato region, and I'm joined by my colleague, Des. Creative Waikato, for those who are unfamiliar, operates independently across the Waikato region to provide strategic direction and support for sustainable arts, culture and heritage development.  We work with funders, councils, artists and arts organisations to work collaboratively to ensure that the Waikato prospers with diverse and transformative creative activity. We're the navigators who lead the elevation of our region and collaborate to provide opportunities for cultural well-being.  Let me start by saying that I believe the arts are a vital aspect of the lives of individuals in their communities. Arts and culture can illuminate our inner lives and enrich our emotional world. The arts help us to define and express ourselves as well as to engage with each other in our communities. They are powerful levers for promoting positive social change.  The arts function as the conscience of our society. They show us that we make the world rather than simply inherit it. I've been fortunate myself to be actively involved in music, theater, and various other art forms for the majority of my life. Early on as a participatory activity through various music lessons, school and community drama groups, and watching a range of performances. And now more recently as a creator and enabler of various arts experiences, as well as in this role as an advocate for the arts as an essential service.  The arts are a coping mechanism for humanity and they are central to my daily life. One of the primary reasons we make both public and private investments in the arts is for the inherent value of culture. The arts can be life enhancing and entertaining whilst also helping us to define our own identities. They have social and educational benefits as well as various economic ones.  Art and creativity are fundamental to building a healthier society, and this view is widely supported. Here in Aotearoa, New Zealand, research from Creative New Zealand shows that a majority of people believe that the arts help improve society. They say that the arts are good for you, and the evidence states that arts contributes positively to our economy as well as our society. And it is through continued support and investment that many of our young people and emerging artists are able to get their start in this vital field.  Creativity can encourage civic engagement, build resiliency, and contribute to quality of life. More and more studies are highlighting the positive outcomes that art and creativity can have on community and well-being, and it is exciting for me as someone who's involved in the community.  to see various artists and arts groups creating opportunities for people to engage with arts on all levels and that there continues to be support for them from people who recognize that the value of art is well beyond the price tag and that engagement with art and art making processes is vital. Arts engagement offers various social benefits including being part of the treatment for mental health as well as encouraging self-confidence and self-esteem.  As part of the COVID response, we've seen an upsurge in creativity and engagement in the arts. Arts has served as a coping mechanism, a tool to come to terms with our situation, to find solace, to find connection, to find peace. Art is a powerful and transformative element that should be at the core of any recovery work, as well as a fundamental part of society.  Arts engagement has shown to increase teenagers' capacity to communicate and to learn, to relate to each other and to tolerate others, as well as making them more likely to vote. Increasingly, such benefits are presented not as happy byproducts of artistic activity, but as part of its very essence.  So what is the impact of access and investment in the arts in a community? There are countless benefits. The arts increase people's capacity for life, they enrich people's experiences, and they provide powerful applications outside of the artistic experience. Art testifies to the power of the human imagination.  the unique capacity we have to dream. Art tempts us to move beyond our perceived boundaries and limitations to explore a curious and creative new world of possibilities. And I'm convinced that if we have more people engaging with art, the world will continue to be a better place.  But in order for art in the community to thrive, it needs support. The investment you can make as a council can enable a broad range of things. And this investment means having spaces to present work, having people to help make work, having access to materials and technology, to craft work, and having a range of audiences in your own district.  to engage with this work. All of these things are vital to help keep a functioning and beneficial artistic culture alive. Through the arts, we're reminded of what more there is left to do in the world. So why are we here?  We're collectively dealing with a unique and traumatic period of unexpected change. We're in a time of recovery, and we need to take this moment to explore what opportunities are emerging and how we can activate them. What we're talking about is a continuation of the Waikato Arts Navigator. This is a framework developed by Creative Waikato that is available to all councils in the Waikato region. Its goal is to build a collective vision for arts and creative outcomes for all our communities.  The ultimate objective of the Waikato Arts Navigator is to have all councils in the region making decisions for arts at development with the following outcomes in mind. Creative prosperity, creative experiences, creative well-being, and creative excellence.  We know that the Navigator aligns itself with the long-term plan, and we find that arts-based methodologies can support the vision that you have as a council. We see that the arts and culture are part of the bigger societal ecosystem, one that brings cultural practices into spaces and places and develops outputs which lead to positive outcomes and clear benefits for community. You can see a map of that in your report.  We also know that an arts-informed lens is applicable to all elements of the work that you do. There is a way to explore how an arts-based understanding can be applied to the community and the way that we can collectively enable the establishment of a clear and engaging sense of identity, both within each district and ultimately for the broader Waikato.  In the earlier phases of the Waikato Arts Navigator, we completed some research in the community, examining strengths, capturing a picture of what exists and where the strengths are within your district. This work was originally developed in 2019. It provides a picture of where things sat pre-COVID and showed that there is an arts-aligned community within your district.  This is a community that can be supported and enabled to reach out more, to develop their own capability and to increase their engagement with the broader community. And these are some of the areas where the strengths lie.  In a recovery environment, there are going to be some issues, some challenges to address. Economic downturn, physical and mental health, and increasing inequality. But with this, there are also opportunities to see the call, to explore your own backyard, to buy local and to support local. And through arts activity, we can provide an extended process for that kind of engagement.  Arts can serve the community in a range of ways, and artists can be the first responders, and Creative Waikato is here to help. We have a pathway for you to work with us here around providing some strategic vision and project planning that can enable more of this work to happen within your community and by people in your district. The pathway, which is presented in more detail in the report, has us working together to explore opportunities and solutions, activating a process, and then collectively enjoying the outcomes.  The scope for this work is extremely flexible and scalable. It depends on the vision that you have, the scope of the outcomes you wish to enable, and the scale of the budget that can be applied to it. As part of this, we want to just take a little bit of time to outline some of the examples of this type of work that has happened elsewhere. And these are all examples that could definitely be made to happen within your part of the world. Des will talk a little bit about this.",
+    "speaker": "jeremymayall",
+    "tags": [
+      "provide_information",
+      "state_opinion",
+      "persuasion_attempt",
+      "policy_proposal",
+      "community_reference",
+      "public_address",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 2528.925,
+    "end": 2621.417,
+    "text": " Kia ora koutou everyone. So the following few slides are just, as Jeremy has said, they are international and local examples of what can be done in a post-recovery environment. Now this particular example is the Yopishi Festival, which means let's do it in Japanese. So it was driven by a Japanese art collector who took a whole lot of artists back to her hometown in Ofunato, which is in the northeast of Japan.  So obviously it was devastated by the 2011 tsunami so she just wanted to look at art solutions as a way of bringing her community together. So this particular example is of a makeshift playground for children but they also had  Things like Dream Shopping Street where people could write handwritten notes and their dreams and wishes for the future. They could light lanterns, receive massages, listen to local stories and it was just a way of galvanising people together in quite a traumatic time.  This particular example is from Seattle. It's actually called Shun Pike. It invites a series of artists to show their works in empty storefronts. So it's a way of art really reaching out to passersby and bringing the community together as well. It encourages an arts ecology and also local entrepreneurship.",
+    "speaker": "jeremymayall",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "build_on_point",
+      "public_address"
+    ]
+  },
+  {
+    "start": 2623.327,
+    "end": 2833.383,
+    "text": " This was a post-COVID initiative to encourage more activity in city centres.  There's also opportunity for performance festivals. This could be multiple bands. It could be single performers. It could be buskers. You will have seen some of this taking place in your district through the Best Fest initiative, which we ran a few weeks ago, which was throughout the Waikato region, which had performers performing in the streets just to inspire and encourage community well-being. This is from a festival in Wellington.  We have the opportunity to create works that take over public spaces and these could be pop-up installations that can be really community focused and participatory and there are a range of examples of this that happened in Christchurch post-earthquake as well.  This is from a group in Santa Fe, which is a group called Meow Wolf, and they do immersive art installations. They take over empty buildings and commission artists to create work that becomes an artwork that you can move about inside. It's a huge business for them in terms of economic development and tourism. And there is plenty of talented artists within the region who can do this type of work.  This is an image from the Boone Street Art Festival. The Boone Street Art Festival in Hamilton was initially kind of started in response to the CBD being empty because shops had moved out to the base at the north end of Hamilton.  and so it was a way of reinvigorating what was going on in the city and that festival's been running for five years has done a number of walls and has increased the kind of vibrancy within Hamilton and this is the type of work that can certainly happen anywhere and this is an image from an installation like the Meow Wolf work that occurred in an empty  building in the CBD in Hamilton as well. This was a kind of pathway through that had six different zones with six different artists creating work.  So the arts inspire, challenge, and expand our minds. They engage our creativity and allow us to experience the world through someone else's reality. From education to wellbeing, to quality of life, the arts are crucial to our success, health, and happiness. Each generation has its own unique set of challenges, but it is through the arts that we learn compassion, curiosity, understanding, and critical thinking skills that enable us to address problems and to find solutions.  Successful recovery is about defining clearly, focusing locally, spending social capital, and creating compelling narratives. It is first and foremost about people and places, not processes and policies. The arts can serve as an antidote to times of chaos. It can be a route to clarity, and it can be a force of resistance and repair, providing new registers, new languages in which to think.  the arts can be a catalyst to affect such change and through the Waikato Arts Navigator and the strategic support of Creative Waikato this can happen in your district as well. So we very much look forward to working with you to explore the possibilities of what arts can do in this time of recovery. Thank you.",
+    "speaker": "jeremymayall",
+    "tags": [
+      "provide_information",
+      "state_opinion",
+      "persuasion_attempt",
+      "community_reference",
+      "cite_reference"
+    ]
+  },
+  {
+    "start": 2837.025,
+    "end": 2977.143,
+    "text": "Thank you Jeremy and Des, that was really exciting I have to say.  one of those things that COVID has presented as an opportunity for a lot of creative arts to actually take a really strong lead and certainly the navigator work that you've done has indicated that there is that big door open. I've got some comments to make myself but let's just see if we have anybody else who'd like to ask you any questions or make some observations. Have I got anybody in the chambers who may have a comment? Nobody there. In Zoom land have we anybody  here, no? Okay, well, I'll launch ahead, you know, look, I'm really excited, particularly about some of the suggestions in terms of project examples you've raised around street art and murals, something that the Te Umat\u016b Community Board has been discussing for some time, and it's actually on our strategic priorities for 2020 to 2022 already. So look, lots of synergies, if you like, in terms of your thinking around place shaping and sense of  identity and self and the things that we are hoping as a community board to be able to facilitate the creation of and from a personal sense I've actually posted several posts on Facebook grapevine pages asking people what they feel is about looking at certain items and in particular the Jeremy's painting on wall mural on the side of the former or the museum there and people's response is nothing but positive and there is  there is nobody that finds, that I could elicit anyway, any negativity. So long as it's something that's invigorating and uplifting and has purpose and identifying, I think people would wholeheartedly support. So that really, really excites me. So many thanks for that. And I've got a couple of other comments around the work you've done in terms of the Waip\u0101 district profile. There were a couple of things, a dance company you missed,  Imperious Dance Company, have you dealt with, are you familiar with them? They're in Te Omutu, very successful. And Studio 2, which is Lee Samuel's pop-up workshop classes. So, just thought I'd flag those by you in case you weren't aware of their presence.",
+    "speaker": "susanoregan",
+    "tags": [
+      "procedural_move",
+      "state_opinion",
+      "community_reference",
+      "provide_information",
+      "build_on_point",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 2977.843,
+    "end": 3006.998,
+    "text": "That's great. Studio 2, we're well aware of. In fact, Lee is currently in another room here doing a workshop on self-employed artists for our team.  That's obviously just a slight error. These reports are very much a living document and we see them continuing to grow and change with the community. And so it is a snapshot of who was present at the consultations at the time.",
+    "speaker": "jeremymayall",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "reassure_stakeholders",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 3007.659,
+    "end": 3012.222,
+    "text": "Oh, great. Fantastic. Thanks for that. Now, Roger, I see you have your hand raised and then Marcus.",
+    "speaker": "susanoregan",
+    "tags": [
+      "procedural_move",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 3013.023,
+    "end": 3037.208,
+    "text": "Yeah, I do. Thank you very much. Look, I love some of those projects that you've featured there.  We've got a lovely big building in Cambridge. I don't know how long it's going to remain empty, but the old Bunnings, what a lovely venue that would be for one of those in-building projects. So let's just see if we can take all of that. Great.",
+    "speaker": "rogergordon",
+    "tags": [
+      "state_opinion",
+      "provide_information",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 3038.469,
+    "end": 3038.949,
+    "text": "Definitely.",
+    "speaker": "jeremymayall",
+    "tags": [
+      "agree",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 3041.109,
+    "end": 3041.729,
+    "text": "Marcus.",
+    "speaker": "susanoregan",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3042.389,
+    "end": 3056.343,
+    "text": "Yeah, I think it's a great plan. I'm looking forward to, yeah, for stage two.  I'm just wondering, did you also work with the Rosebank Arts House as well? I saw their name mentioned in the report, but did you work closely with the group of artists there?",
+    "speaker": "marcusgower",
+    "tags": [
+      "state_opinion",
+      "agree",
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 3056.603,
+    "end": 3149.295,
+    "text": "So far, the work has been around consultation of understanding who is there and what's going on and where the strengths are. The next step is we're going to develop a  a regional art strategy that aligns with the framework that we hope will be adopted by all councils so that we're all working towards the same goal. And then it's about working with you and those groups to uplift their strength, so enable them to do more work in their community, to find more funding, to connect with their community. So it's a little bit about us  working with you and them to uplift where those strengths are. Because Creative Waikato is not a funder, we are a strategic organisation that does capability building. We work with groups to kind of help to facilitate those connections. And so there are some opportunities like the Ng\u0101 Toi Arohi Fund, which is a Creative New Zealand fund that just opened yesterday, I think.  which is for arts in the region. So it's Creative New Zealand funding for arts projects that happen anywhere other than Auckland, Wellington and Christchurch. And it's for projects of up to $150,000, providing that they have partnership funding from other organisations or councils.  So artists in the community can identify key priorities and work in partnership with groups within the district to apply for that funding.",
+    "speaker": "jeremymayall",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "community_reference",
+      "cite_reference"
+    ]
+  },
+  {
+    "start": 3155.419,
+    "end": 3192.087,
+    "text": "Great, thank you for that. Do we have any other questions there from anybody? No.  Fantastic. OK, look, thank you so much, Jeremy and Des, as I said, you know, I found that really exciting and a great prospect for our district and quite timely. So on page 53, we have a recommendation to receive your report, which is container Debbie's report. Can I have somebody move that for us? Roger. And do I have a seconder? Marcus. Fantastic. All those in favour say aye.",
+    "speaker": "susanoregan",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "call_vote"
+    ]
+  },
+  {
+    "start": 3193.107,
+    "end": 3193.247,
+    "text": "Aye.",
+    "speaker": "Unknown",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 3194.128,
+    "end": 3199.275,
+    "text": "Against.  Carried. Wonderful. Hey look, thank you so much Jeremy and Des, take care.",
+    "speaker": "susanoregan",
+    "tags": [
+      "disagree",
+      "summarize_outcome",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 3199.795,
+    "end": 3201.276,
+    "text": "Absolute pleasure, thank you for having us.",
+    "speaker": "jeremymayall",
+    "tags": [
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 3202.277,
+    "end": 3212.985,
+    "text": "You're welcome. Now I believe we're going to break now for morning tea and we're to return at 10.20 sharp. If that's good with everybody, go off and boil your kettle.",
+    "speaker": "susanoregan",
+    "tags": [
+      "procedural_move",
+      "confirm_next_step",
+      "public_address"
+    ]
+  },
+  {
+    "start": 3225.879,
+    "end": 3231.886,
+    "text": " I'll call the kiddo. Yeah. Yeah, yeah. Yeah. Yeah.",
+    "speaker": "susanoregan",
+    "tags": [
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 3279.029,
+    "end": 3279.909,
+    "text": " Microphones. All right, get the microphones on.",
+    "speaker": "susanoregan",
+    "tags": [
+      "procedural_move",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 3350.618,
+    "end": 3353.14,
+    "text": " It's a good way. Yeah, yeah.",
+    "speaker": "Unknown",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 3380.213,
+    "end": 3384.678,
+    "text": " Um, Dave? Um, I guess that's all.",
+    "speaker": "susanoregan",
+    "tags": [
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 3384.698,
+    "end": 3392.967,
+    "text": "Anything from Justine? Oh, neither. Oh, yeah, yeah, yeah, that's fine, yeah.",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "agree"
+    ]
+  },
+  {
+    "start": 4691.49,
+    "end": 4742.938,
+    "text": " Right, welcome back everybody. I believe it's 10.20. We should resume after the morning tea break. Looks like everybody in chambers is ready. We've got an idea that perhaps Debbie should chair, if you like, the actual chamber and alert me to who needs to speak there. So I'll canvas this Zoom end and Debbie's going to  let me know what the story is at her end. That's probably a good way forward. So with that said, let's move on to the next agenda item, which is the Ng\u0101 Hinep\u014duri Village Concept Plan Approval for Public Engagement. And I see we have Justine Kennedy and Dave Muell here from Boffa Miskell and Tonkin Taylor. So if you'd like to take it away, Justine, and introduce your item, that would be much appreciated.",
+    "speaker": "susanoregan",
+    "tags": [
+      "public_address",
+      "procedural_move",
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4744.467,
+    "end": 4755.031,
+    "text": " That's awesome. Thank you very much, Councillor O'Regan. Look, first of all, I'll just get Dave to quickly introduce himself and then I will kick on with the agenda item.",
+    "speaker": "justinekennedy",
+    "tags": [
+      "assign_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4756.792,
+    "end": 4788.485,
+    "text": "Yeah, thanks, Justine. M\u014drena, kia ora t\u0101tou. Dave Moore, Managing Principal, Boffa Miss School in Hamilton. I'm a planner. We've been engaged by council to assist in the preparation of a concept plan for the Ng\u0101 Hanap\u014duri village.  working in partnership with Tonkin and Taylor from a civil engineering and transportation perspective. So, yeah, I look forward to any questions on the document and just here to assist Justine. Thank you.",
+    "speaker": "davemoule",
+    "tags": [
+      "provide_information",
+      "public_address",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 4791.876,
+    "end": 4893.973,
+    "text": " That's awesome. Thank you, Dave. So look, I just want to start off by acknowledging the challenges that we've faced in this project. We did workshop it with you, I believe it might have been earlier this year. Seems like a long time ago. We've had a lot going on since then, you know, especially in terms of timeframes, not least because of COVID-19 and the impact that that's had sort of across the country.  So what we put before you today for approval to take to the community is the result of, actually, years of work, not just from Council staff, but also from Dave and his team at Boffa Miskell and also Tonkin and Taylor.  who we brought in to do the technical assessments that sit behind this draft village concept plan. And we've also engaged with Waka Kotahi, a New Zealand transport agency, representatives from the Ministry of Education. We've also met several times with the Ng\u0101 Hanap\u014duri community group. And there are some other key landowners there as well that we're also, you know, we have been engaging with on a regular basis before any of this sort of wider public engagement.  And sort of, I guess, the last point I'd like to make around engagement prior to this wider public engagement is certainly around iwi.  We have been to Ng\u0101iwi T\u014dp\u016b a few times, and they've also nominated a representative who I'll be meeting with this week, Haup\u0101ipuki, about this project as well, because we really want their input as partners in this project. Otherwise, I would like to take this report as read and sort of open up to any questions or queries that anyone might have.",
+    "speaker": "justinekennedy",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "reassure_stakeholders",
+      "summarize_outcome",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4897.662,
+    "end": 4903.484,
+    "text": " Thanks, Justine, and welcome, Dave. Do we have anybody from the floor, Debbie?",
+    "speaker": "susanoregan",
+    "tags": [
+      "ask_question",
+      "public_address",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4904.545,
+    "end": 4908.646,
+    "text": "Yeah, we've got Jim. Yes, Susan, thanks.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "public_address"
+    ]
+  },
+  {
+    "start": 4910.247,
+    "end": 4992.532,
+    "text": "Justine and Dave, look, thanks for this. And you're right, it's been going on for years. Prior to my first term, over six years ago now, the excitement was there at Ng\u0101 Hana P\u016bri to get going with this project.  and it was really from my recollection was based around option two which was a staggered intersection and that was  kicked into touch, I suppose, because of the cost. They're not affordable. But I see that that's not the option that's being favoured now. We're actually favouring a more expensive option. So I hope that when we get to the end of this consultation round, we've actually got a project that we're going to move ahead with, because it's certainly pretty embarrassing going to public meetings at Ng\u0101 Hinep\u016bri at the present time.  But the real question I have is what feedback have we had from the school? Because my understanding, and it's only anecdotal, is that it's full now. They're short of space. And this development is just going to increase the pressure on the school. And yet there's no provision for or capability to actually extend the size of the school grounds.",
+    "speaker": "susanoregan",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "provide_information",
+      "evaluate_option",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 4995.493,
+    "end": 5069.59,
+    "text": " Yes, so that's a really good question. Thank you for asking that. The school has been a sort of a particular driver, I guess, for this project, that very passionate community. They really love their school. It's a real focal point for that community, and they really want to see that school expanded. So that's why we've got the Ministry of Education involved, acknowledging that Council doesn't have jurisdiction over that property.  or any decisions that happen in that school. So we've been working with the ministry on that. Now, the messaging from the ministry has been that they expect the school to manage down the number of out-of-zone students that they have. And the ministry's preference would be, if there was going to be any expansion, is that it wouldn't actually move south and therefore require moving of that road reserve.  So it's a bit challenging. It's another one of the challenges we've faced in this project in terms of council's jurisdiction that we actually have is quite limited in this area. And we are limited in terms of what we can do in response to things such as the school expanding.",
+    "speaker": "justinekennedy",
+    "tags": [
+      "provide_information",
+      "defer_to_authority",
+      "clarify_point",
+      "community_reference",
+      "report_back"
+    ]
+  },
+  {
+    "start": 5074.895,
+    "end": 5076.896,
+    "text": "Thank you, Justine. Did you have anything further to add, Jim?",
+    "speaker": "susanoregan",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 5078.147,
+    "end": 5146.367,
+    "text": " Just a bit on that. And I'm always nervous about the predictions that the ministry are using in terms of the numbers. But if we go with the option, and I know it's got to go through consultation stage, but if we go with option four, there's just no room for that school to move. And because the ministry haven't picked up on the fact that it is likely to need expansion of that school,  The only other option that we've got is the option five, which is an offset roundabout, which would create a bit of space, unless we go with the staggered intersection that we had originally. So I'm just a little bit nervous about us just accepting the ministry's view and trying to control school numbers there by keeping the out of zone kids out of the school. And I don't know if Mike's got a comment how easy that is to do.  but it's a popular school and there's a huge amount of development going on around there. And we're going to look real chumps at the end of the day if we give an option that actually hems that school in.",
+    "speaker": "susanoregan",
+    "tags": [
+      "express_concern",
+      "evaluate_option",
+      "ask_question",
+      "community_reference",
+      "persuasion_attempt"
+    ]
+  },
+  {
+    "start": 5150.428,
+    "end": 5156.65,
+    "text": "Yeah, pretty good point, Jim. Liz, I think you have a comment to make.",
+    "speaker": "susanoregan",
+    "tags": [
+      "agree",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 5157.502,
+    "end": 5238.357,
+    "text": " Oh, good, yes, I didn't know you could see me, Susan, actually. Hey, look, I guess this subject is something that has just been raised with me over the last few weeks. I guess I am quite worried about it. So my understanding, and I'm really interested to hear from staff what the recent conversations are around this. So my history, if I recall correctly, that there was a willing landowner opposite the school who was happy  to work with council and provide land and things. Now that land has been sold. We have a new landowner now who has an entirely different plan. None of these plans is what I understand, none of these plans is what he is thinking about at all. He doesn't want a road there at all anymore.  So I guess my question is, where are those conversations at? Because I'd hate to be putting out a plan for public consultation that isn't even relative anymore, isn't even up to date. And that's what I'm kind of hearing and that we're actually behind the eight ball here. So sorry to put that, throw that on you, but I just heard that on Saturday. So my understanding is that the community now is collecting itself together and very keen on a road, but  closer to Porongia, three or four hundred meters away. Is that where we're at?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "clarify_point",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 5240.563,
+    "end": 5316.21,
+    "text": " Look, Liz, I think you probably have, you potentially have more information than I do. Look, I have been engaging with the landowners who now own that property on the southern side of Reid Road. We've had ongoing conversations with them for some time now. And look, I've been as transparent with them as I can. We've, you know, let them know about the multi-criteria analysis, the outcome of that, you know, being aware that we didn't want to give them too much information until it had come through elected members.  And we do actually have a meeting scheduled with them for tomorrow afternoon. They have signalled that they have some different options to put on the table. And, look, last week we had some meetings internally and it was agreed that we would remain open to other options, you know, like, as you say, acknowledging that things have potentially moved on. It has been some years since this project was started.  and it is actually for that community. It is a difficult juggling act, though, isn't it, when you're working between sort of private interests? What's best for the community? You've got national agencies such as the Ministry of Education and New Zealand Transport Agency around the table as well. So certainly a juggling act, and we do want to get that balance right.",
+    "speaker": "justinekennedy",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "reassure_stakeholders",
+      "confirm_next_step",
+      "express_concern",
+      "evaluate_option"
+    ]
+  },
+  {
+    "start": 5317.852,
+    "end": 5360.66,
+    "text": "Yeah, I'd certainly support Justine's comments there.  I guess one of the inherent challenges in developing a structure plan or a concept plan for any community is that often the landowner ambitions will be on different time paths. We're not always fully aware of that detail. And in this particular case, we had engaged with the landowners early in the process and their sort of design  thinking had an advance to the point that it has now. So I guess that's the nature of the engagement session tomorrow with those landowners to understand what they're now proposing. And we'll certainly be open to, I guess, amending things as appropriate.",
+    "speaker": "davemoule",
+    "tags": [
+      "agree",
+      "build_on_point",
+      "provide_information",
+      "confirm_next_step",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 5363.961,
+    "end": 5367.642,
+    "text": "Thank you for that, Dave. Kirsty, did you have a comment to make?",
+    "speaker": "susanoregan",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5369.084,
+    "end": 5478.776,
+    "text": " Through you, Madam Chair, so just to be clear that the multi-criteria analysis that is included within the report to this committee and also is referenced in the draft plan was developed with input from, sorry, that decision was made to progress with that from input from activity managers and also Mike Fox as chair of the community organisation.  representing that community. We wanted to ensure that there was a robust process that was undertaken and that we had technical and council staff but also we had links in to the central government agencies and into that community group.  It's not our intention to go out with something that is predetermined. The purpose of engagement is to ensure that we go to the community and interested parties and listen to them, to hear their views. As Justine mentioned, we have a meeting with a landowner tomorrow and their representatives. We've had several meetings with them, but we haven't had  information shared with us, detailed information shared, so tomorrow provides the opportunity for them to put forward their current thinking.  and for them to further participate in that community engagement. We've also made it clear that we want central government agencies to be part of that. We've looked at opportunities for engaging with the community in a less formal way and really we want to encourage people to participate and make their views known.  so that when we come back to Council, we can provide a full report on the different views and a recommended way forward. Yeah.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "community_reference",
+      "reassure_stakeholders",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 5482.038,
+    "end": 5484.58,
+    "text": "Thank you, Kirsty. Liz, does that address your concerns at all enough?",
+    "speaker": "susanoregan",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 5485.343,
+    "end": 5535.637,
+    "text": " Yeah I guess my biggest concern is that if we if we go out with what is to me you know sort of preconceived plans that look like they've already been you know circulated and that's what the community wanted but in fact if it's not you know we're simply going to make that community angrier. Just going back to the comments around the school as well which I agree with the sentiments already out there  I think when you have, and I believe Nahanapori is a decile nine school, it's highly desirable. You know, a lot of the sections that are there have been selling quite quickly already. There's a golf course there. Who wouldn't want to live in Nahanapori? So why would we restrict, you know, the growth of that school? So I guess, you know, I'd want to be sort of encouraging it. And I guess if we're looking at these plans now, now's the time for us to consider that before we go too much further.",
+    "speaker": "Unknown",
+    "tags": [
+      "express_concern",
+      "state_opinion",
+      "agree",
+      "community_reference",
+      "prioritize_issue",
+      "persuasion_attempt"
+    ]
+  },
+  {
+    "start": 5537.834,
+    "end": 5584.483,
+    "text": " Just through you, Madam Chair, this process is quite different to that which we've adopted more recently for the refresh of village concept plans, town concept plans.  And this one, obviously, it's a development. We had a draft in place that was developed in 2014 and then put on hold. So, you know, more recently, we've adopted a bottom-up approach with a blank canvas. This one, unfortunately, looks somewhat different given the history and that lengthy time delay in getting to this point. But absolutely, we want to go out and hear from the community. And if there are changes that are required to be made or things that are  that we ought to know that we don't currently have available to us, then we need to be open-minded about that.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "evaluate_option",
+      "community_reference",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 5589.145,
+    "end": 5591.326,
+    "text": "Thanks, Kirsty. Mike, you have a comment to make, a question.",
+    "speaker": "susanoregan",
+    "tags": [
+      "procedural_move",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 5591.787,
+    "end": 5687.632,
+    "text": "Yeah, look, it's just a comment, just a clarification around the comments there by Jim and Liz around the school and the sort of in-zone, out-of-zone.  Schools are zoned and that school will be zoned. And so you can take as many out of zone children as you wish as a school. And through that, you generate two things. You generate additional staffing.  So it doesn't matter if the children are in zone or out of zone. You attract additional revenue with every child. So again, it doesn't matter if the child is in zone or out of zone. However, what you do not attract is extra building space that is only attracted through children that are in zone. So I guess what the ministry will be saying is  is as the subdivisions fill up, you will manage your out-of-zone children out and there will come a point where you probably are owed buildings potentially. But realistically, the data that would be important to know how far away that is, is how many out-of-zone enrolments that school has compared with in-zone enrolments. And that will give you  in terms of current numbers, how much space there would be. And then the ministry would also, along with the board of trustees, determine how big that site capacity actually is for children. So getting those sort of figures together, you could sort of start ballparking with the ministry predictions of what a house generates in terms of primary school children.  So there's a little bit to it, but it's not rocket science. There's just a little bit to it. It's just a few questions and a few formulas that one would need to go through to look at real capacity of in-zone students.",
+    "speaker": "mikepettit",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 5691.753,
+    "end": 5706.717,
+    "text": "Yeah, thank you for that clarification, Mike. Good to have the understanding about that in-zone funding in terms of buildings. I wasn't aware of the distinction between the in-zone and out-of-zone, so thank you. Are there any other questions? Claire, I believe you have one.",
+    "speaker": "susanoregan",
+    "tags": [
+      "agree",
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5707.958,
+    "end": 5892.703,
+    "text": " Yes, thanks. Yeah, and I just like to echo Jim's and Liz's comments, you know, about how this community has really suffered with the various attempts to meet their aspirations and really wanting to get it right this time and avoiding sort of great disappointment for them. I just wanted to understand a bit more about the assumption that the school could expand into Reid Park.  because that seems to be the crux of the Ministry of Education's stance that the school doesn't need to expand south because there's heaps of space in Reid Park, which is to the west. And I don't know if the community's been...  I don't know if the community's been asked about whether or not they'd like to sacrifice the space that's in Reid Park, because I would imagine that the answer would be a flat no. And so, Justine, I hope that your project team is aware that that seems to be what the Ministry of Education's wanting, but I think that has to be made clear during the consultation to find out whether or not that would be acceptable to the community. I mean, that Reid Park was donated by a family that lost  a member of their family you know in in the i think it was world war ii i don't know but yeah it was world war ii yeah and i i just don't think that they would think that  Any part of that park would just be up for, you know, carving up and giving to the Ministry of Education, well selling I suppose, but even so, you know, you need to be sensitive to some of these things for the community. And I'm worried about the affordability of any option, given that the preferred option is $11 million.  And given that we're going to have about, well, between 400 and 600 lots that will be developed up to 2035, I mean, it's about $24,000 a hectare. I suppose that's sort of in the middle.  I understand that a lot of the sections have been sold already, so the ability to recover DCs might actually be really, really reduced already. I'm just concerned that we're taking a long time to do this, and we're missing opportunities, and it might become even more unaffordable. However, I do know that, I noted that the contingency behind the,  the figures for the cost of various options is 50% and I would have to just like to test that because I'm aware of some of the other projects that we get you know visibility on the contingency isn't 50% it's 30% or it's 20% why why is it 50% in this case because  um if it was possible to work with a lower contingency that actually might improve the affordability so so those are the three big big points I'd like to make thanks.",
+    "speaker": "Unknown",
+    "tags": []
+  },
+  {
+    "start": 5896.405,
+    "end": 5919.741,
+    "text": "Thank you Clare and can I just um echo perhaps a sentiment around the um the the Stuart Read Memorial Park he's actually my so his sister was my grandmother so um  I would think there'd be quite a resistance from the community to any expansion into that park for any other purpose than keeping it as a memorial park. So, Kirsty, I believe you have something to add there.",
+    "speaker": "susanoregan",
+    "tags": [
+      "build_on_point",
+      "express_concern",
+      "community_reference",
+      "ask_question",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 5920.521,
+    "end": 5989.938,
+    "text": "So through you, Madam Chair, certainly Justine and I have attended several meetings with the community group, and that was the messaging that was conveyed to us through the meetings that we attended. I think Marty Reid is a member of that group.  and certainly was very strong in terms of utilisation of that space. We talked about possible options, including whether it was something that council could perhaps acquire. We also looked at land holding on the northern side of the school where the hall is and the ownership status of that. Unfortunately, council owns a very small portion of the car park.  Just in terms of that contingency that you refer to, Clare, so I'm aware that there has been a project business case developed for this through the 2021-31 LTP. And as part of the rigorous review work that has been recently undertaken, there has been quite a look at contingency sums. So that is something that is on our radar and we will be further engaging with elected members on that.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "evaluate_option",
+      "report_back",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 5994.335,
+    "end": 6002.737,
+    "text": " Thank you, Kirsty. Have we got any other questions there? Or, Justine, rather, did you want to respond perhaps to some of those comments or are you comfortable?",
+    "speaker": "susanoregan",
+    "tags": [
+      "ask_question",
+      "defer_to_authority",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 6004.657,
+    "end": 6044.303,
+    "text": "Yeah, look, thank you very much, Councillor O'Regan. Look, I'm really pleased that elected members are raising all of these different issues because it is important that we do take these into account, you know, moving forward. Look, it just really does highlight, you know, how much of a complex  when you're working with, you know, a really passionate community, when you're working with, you know, national agencies and things like that, and when council has limited jurisdiction. But at the end of the day, it is about doing what's best for that community. And that's certainly something we will we will be striving, continue to striving to do, I guess.",
+    "speaker": "justinekennedy",
+    "tags": [
+      "reassure_stakeholders",
+      "community_reference",
+      "prioritize_issue",
+      "agree",
+      "state_opinion",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 6046.724,
+    "end": 6050.145,
+    "text": "Thanks, Justine. I believe we have a question from Bruce and then you, Andrew.",
+    "speaker": "susanoregan",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6051.126,
+    "end": 6207.558,
+    "text": "Thank you, Madam Chair.  Yes, I certainly agree that what I know about from the Ministry of Education, they're not the easiest to deal with, and they possibly don't want to talk at times, but I've only heard that they'd rather prefer to go up than expand. I think they had opportunities to develop this structure plan if they pushed it, but they've, up till now, shown no interest. I agree that the park would be a no-go zone, due to the historical reasons.  It does concern me that we spent a lot of time in the regitry years ago, putting N1, N2, N3 at an area of what's 102 hectares, I think, if I'm correct.  keep Ng\u0101ina pre-development on one side of the road, not because it was foreseen across the other side, the sort of hap\u014d side of the State Highway. So, we've kept it like that. There's going to be massive growth before 2050. That whole area could be filled up with houses. That's most probably the vision. So, we've got to get this right. The roundabout is most probably a good idea.  I don't think there's been any deaths now, but it's going to happen now. We've got two straight roads going straight through. So yeah, and one of my big regrets is that now the landowner has changed. We had quite a, it wasn't a complicated system to acquire a fair bit of that land at minimal cost to council. And I know the new landowner, from what I know of their business aspirations, I don't think that same deal would be on the table. So we're going to have to,  pay for it to achieve something that was achievable, you know, 10 years ago for minimal costs. But we've got to move on. I think whatever you may come up with, the entry landowners in the future, you have most probably a good idea if that road could be moved, but that's a major. I wish you good luck. And we have lost, from a historical point of view,  Mr Fox left the Prawnia Ward Committee because of the frustrations with how this progress was happening, especially in this little patch. Okay, I'm pleased that he's still running the community group because he's a good man to lead that. So I just hope this works out and there's been a lot of money spent on it. That's much to my detriment when I did bring it up that we started reinventing the wheel that a lot of this work had been done.  Yeah, I hope it does proceed, and I look forward to it if I live long enough. Thank you.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "express_concern",
+      "state_opinion",
+      "agree",
+      "community_reference",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 6207.598,
+    "end": 6209.439,
+    "text": "Thanks, Bruce. Andrew, did you have a comment to make?",
+    "speaker": "susanoregan",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6210.659,
+    "end": 6242.284,
+    "text": "Yeah, thanks, Madam Chair. It's just, I think, let's try and do some numbers on a projected increase in school children. It seems to me, yeah, hearing the comments from Jim and Liz and Bruce about  about the school that if we can get an idea of the expected increase of in-zone children, that's a pretty important point. So, yeah, that's all.",
+    "speaker": "Unknown",
+    "tags": [
+      "assign_action",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 6245.968,
+    "end": 6248.311,
+    "text": "Thanks, Andrew. Justine, did you want to just respond to that?",
+    "speaker": "susanoregan",
+    "tags": [
+      "ask_question",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 6249.133,
+    "end": 6310.31,
+    "text": " Yeah, look, thank you very much. That's certainly a conversation that we can have with the Ministry, with our representatives we've been working with there. Alison Harold has been our main point of contact. And look, as Kirsty referred to, they have  They have said that they are happy to come and attend this public drop-in session that we have planned to actually come and talk to the community without, I guess, any sort of translation happening in terms of it going through council staff. I think it's important to have these agency representatives there.  not just to communicate where they're coming from, but also to listen to this community and hear the concerns that we as Council and as elected members are hearing from this community. I think that that's a really important relationship for us to be able to foster between those agencies and the public. So, look, I'm looking forward to that opportunity, and it will be interesting to see where that leads us. Fantastic.",
+    "speaker": "justinekennedy",
+    "tags": [
+      "provide_information",
+      "build_on_point",
+      "community_reference",
+      "defer_to_authority",
+      "reassure_stakeholders",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 6310.35,
+    "end": 6315.124,
+    "text": "Thank you very much, Justine.  Did we have any other questions from the floor there or comments, Debbie?",
+    "speaker": "susanoregan",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 6317.345,
+    "end": 6319.066,
+    "text": "No, I think we're all good here now. Thanks, Susan.",
+    "speaker": "waipadistrictcouncil",
+    "tags": [
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 6319.086,
+    "end": 6382.409,
+    "text": "Okay, good. I think anybody else in Zoom land, we're all comfortable too. Okay, so that takes us then to the recommendation. I mean, we've obviously discussed it at some length, some of the concerns that the community has raised. So I'm pleased to hear from Justine and Dave and Kirsty that you're going to this open-minded as is often the case with these community engagement processes.  So we have a recommendation there on page 92 and 93, A and B, to receive not only Justine's report, but also to approve the final draft of the plan appearing in Appendix 1 for engagement. Do I have anybody who's happy to move that for us? Bruce waving your arm around there, and do I have a seconder? Lou, were you just scratching your ear? Yes, you're happy to second?  All those in favour say aye. Aye. Against. Carried. Fantastic, great work people. Thank you.",
+    "speaker": "susanoregan",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "summarize_outcome",
+      "community_reference",
+      "public_address",
+      "reassure_stakeholders",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 6383.43,
+    "end": 6384.43,
+    "text": "Thank you very much.",
+    "speaker": "davemoule",
+    "tags": []
+  },
+  {
+    "start": 6386.871,
+    "end": 6387.111,
+    "text": "Right.",
+    "speaker": "waipadistrictcouncil",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 6389.012,
+    "end": 6418.365,
+    "text": "That moves us on then to our ninth item, the dog control on Mount Kakapuku matter. And I have in my list here that it should be Carl Tutte.  do we have Carl around or I have Sally Sheedy's name appearing very large on my screen so I'm not quite sure what's happening here we've got Carl here oh excellent fantastic Sally's gone that's great Carl welcome and take away thank you",
+    "speaker": "susanoregan",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "public_address"
+    ]
+  },
+  {
+    "start": 6419.372,
+    "end": 6573.855,
+    "text": " Thank you, Madam Chair. Good morning, everybody. So this is an information-only report at this stage, just to make you aware of this item that is on the Iwi Consultative Committee's agenda for tomorrow, with the expectation that it is going to come back to this committee in due course for your consideration. So I'll take my report as read. The two main issues that have been raised are, firstly, concerns as to whether the controls that are currently applied to Mount Kakapuku are appropriate.  but probably more importantly, whether the process that led to those controls back in 2015, and if not before, were appropriate. So, staff have taken a considerable amount of time to look at the options in this space. We obviously have some sympathy for these issues that are being raised. It's not as straightforward as we would  have liked in terms of working towards a resolution. Because these controls are applied by the dog control policy, the only real option we can see at this stage is a review of that policy where those controls sit. And at this point in time, that's not scheduled until 2025.  So before we look at going down the track to review the policy, we just want to ensure that there's a consensus that this change is justified, but more importantly, that we've identified any other areas of concern that may have been missed previously as well. So that's the main reason why we're referring it to the  the Iwi Consultative Committee to not only look at kekapuku specifically and whether that is a trigger for a policy review, but also if there are other areas of concern where controls either aren't appropriate or aren't in place at all, so that we can weigh up the considerations there. Because we do, on the other hand, have  other things to consider in terms of Council's obligations under the Dog Control Act. And being mindful that if we go down the path of a full review, it will open the door to any other opinions that the public may wish to present through that process. So, as I said, the matter's on the agenda tomorrow with a recommendation that that committee report back with its views around Kickapooka in particular, around the timeframe for the review of the policy  and with details on any other areas that may need to be incorporated into that process. So that's the quick summary. I'm happy to take any questions.",
+    "speaker": "Unknown",
+    "tags": []
+  },
+  {
+    "start": 6575.515,
+    "end": 6581.157,
+    "text": "Yeah, thanks, Carl. It's a pretty comprehensive report there. Mike, you have your finger raised.",
+    "speaker": "susanoregan",
+    "tags": [
+      "state_opinion",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6584.018,
+    "end": 6623.987,
+    "text": "Thank you, through the chair. Carl, just a question that was brought up in the report there, and there was some contention over the use of the word stakeholder versus partner, like treaty partner.  So in terms of consultation, officially and maybe unofficially, and there might be two answers, what's the difference in terms of what you say, everyone's opinion in a full review would be taken into account. The leaders that have come from the Marae Committee, where do they sit? Are they officially stakeholders or are they partners? And what's the weighting that a partner would have over to stakeholder input to a revision?",
+    "speaker": "mikepettit",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "express_concern",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 6626.477,
+    "end": 6662.162,
+    "text": " I think in terms of the stakeholder status, it's more in relation to the management of the land and the reserve and the significance of the reserve, as opposed to the dog control matters.  the considerations that should have been applied to the significance and use of the land in the first case, as opposed to the controls that have been imposed over the top. So, I see them sort of two separate, but obviously interrelated issues there, that the way the land is managed is subject to that stakeholder agreement. Greg Morgan Yep. All right.",
+    "speaker": "Unknown",
+    "tags": [
+      "clarify_point",
+      "provide_information",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 6662.202,
+    "end": 6666.945,
+    "text": "Thanks, Ian. That's clarified. Loretta Kreet Good point, Mike.",
+    "speaker": "mikepettit",
+    "tags": [
+      "agree",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 6667.445,
+    "end": 6669.967,
+    "text": "Have we got any other comments or questions for Carl?",
+    "speaker": "susanoregan",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6674.782,
+    "end": 6815.326,
+    "text": " Look, I think this is really, of course, we're talking about kakapuku at the moment, but this is a really, I think, a matter of principle, and we'll probably get a bit more feedback tomorrow. I'm a little bit concerned that before we make any decisions, we really need to know  what the real issues are and what the implications are for the other reserves that we have across the district. And I can think of a number of other reserves that would equally be as culturally similar, I suppose. If you just look at Lake Nauroto, for argument's sake, again, dogs are allowed there on leaves, I believe. Yes.  And there are par sites and obviously culturally sensitive sites around that lake as well. But there will be other areas. So I think from a council perspective, we really need to know what the cultural ramifications are of dogs in these areas, because it's gonna create quite a stir if we prohibit dogs in these areas.  off a lot of the reserves that have maybe got some cultural, I suppose, history that we're potentially not aware of at the present time. So I think really that feedback from tomorrow's meeting is going to be pretty crucial. But from the correspondence and the discussions that I've had with the Kaupapa M\u0101ori committee,  But basically, they want it happening tomorrow, not in five years' time when that policy comes up for public review. So I think urgency is probably going to be one of the issues that comes out of tomorrow's feedback. So that's going to be an issue that we're going to have to deal with.  That's a lot bigger, I think, than just this one issue that we had identified at the present time. And I don't know, Porto, if you've got any comments on the issue of our dogs and cultural sites.",
+    "speaker": "susanoregan",
+    "tags": [
+      "express_concern",
+      "prioritize_issue",
+      "community_reference",
+      "defer_decision",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 6816.927,
+    "end": 6844.22,
+    "text": "Thank you, Jim. Yes, look, I agree. I hate seeing dogs at Lake Te Kootu, for instance, but I'm not a dog owner. And I know there's not that many places where you can walk your dog in Cambridge.  I have a different view about Te K\u014dkua and partnership and treaties, whether they are a stakeholder or a partner, but I think that will be threshed out tomorrow in your e-weekends. And I agree, I think it's just going to open a few more rooms.",
+    "speaker": "susanoregan",
+    "tags": [
+      "agree",
+      "state_opinion",
+      "defer_decision",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 6846.921,
+    "end": 6920.053,
+    "text": "If I could, in terms of a bit of other background, Mike, the historic reserve at the, if you like,  on the peak of Kakapuku, that's always been a crown reserve and where dogs are prohibited. The area of land that we're talking about at the present time is a piece of fee simple land that was farmland that was actually purchased by the Waipa County Council to actually add into the reserve. So if you like that area that we're talking about has been farmed for many,  generations, I suppose, and now has been retired and formed part of the reserve. So the discussion really is definitely partnerships in terms of the Crown Reserve at the top, but is it a partnership or somebody that should be just consulted or group that should be consulted on that Pee Simple land? And the advice, as I understand it, that we've always had, that council should be  consulting with Iwi, but we're not considered to be partners in the same way that the Crown is. So there is a complication there that we need to sort out.",
+    "speaker": "susanoregan",
+    "tags": [
+      "provide_information",
+      "ask_question",
+      "clarify_point",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 6921.614,
+    "end": 6922.896,
+    "text": "Thanks for that clarification, Jim.",
+    "speaker": "mikepettit",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 6924.858,
+    "end": 6926.96,
+    "text": "Thank you, Jim. Liz, I believe you had a question.",
+    "speaker": "susanoregan",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6928.814,
+    "end": 6978.96,
+    "text": " Yeah I guess watching this from a distance for a wee while, this is a really complicated matter and one where I feel that it's going to be a really difficult, the conversations are going to be difficult and I don't think we're going to see a consensus and we're going to have to make some hard decisions. So my only  I guess concern right now is that, and I'm really pleased to see this report because it's been festering away for quite a while. We follow the process, we do as much consultation and we take the time, just take the time, because I'm really worried that these, you know, those who want to see dogs removed entirely will feel that this process, you know, hasn't been given just cause. So I guess I'm just really want to be very careful and very cautious around the whole process.",
+    "speaker": "Unknown",
+    "tags": [
+      "express_concern",
+      "state_opinion",
+      "defer_decision",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 6982.248,
+    "end": 6990.194,
+    "text": " wise observations to make, Liz. Carl, did you have any issues you liked or a response you'd like to make to any of those comments made?",
+    "speaker": "susanoregan",
+    "tags": [
+      "ask_question",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 6991.055,
+    "end": 7006.046,
+    "text": "Thank you, Madam Chair. I mean, we've outlined what we think is the best process to try and progress this towards a resolution. And like many of the decisions you make, there will be parties that won't necessarily be happy with that decision. But the process is the important aspect from my team.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "reassure_stakeholders",
+      "prioritize_issue",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 7007.347,
+    "end": 7009.208,
+    "text": "Thanks for that. Now, Marcus, did you have a question?",
+    "speaker": "susanoregan",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 7009.639,
+    "end": 7033.766,
+    "text": " Yeah, these spaces are really important for our communities and they're enjoyed by everybody in the community. I'm not a dog owner, but I do know that there's not a lot of spaces that you can go, like around Lake Naroto or Kekapuku, that you can take your dog. That's interesting. So I think we need to have really good discussions about the use of these spaces and try and keep them open for people to use.",
+    "speaker": "marcusgower",
+    "tags": [
+      "state_opinion",
+      "community_reference",
+      "prioritize_issue",
+      "provide_information",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 7037.307,
+    "end": 7102.475,
+    "text": "Thanks, Marcus.  Have we got any further comments from the floor? I don't believe so. And anybody else? No, the Zoom is okay. So we have a recommendation there in our agenda on page 388, which is page two of Carl's report, just to receive his report there. Do I have somebody? Okay. Mike, you're happy to move? Andrew's happy to second. All those in favour, say aye. Aye. Against? Carried.  Fantastic. Thanks very much, Carl. And we look forward to hearing the outcome of the consultation committee tomorrow. Right. Now that moves us on to our 10th item, which comes under a resolution to exclude the public. So can I have somebody who is happy to move that for me? Marcus, do I have a seconder?  Roger. All those in favour say aye.",
+    "speaker": "susanoregan",
+    "tags": [
+      "ask_question",
+      "provide_information",
+      "procedural_move",
+      "call_vote",
+      "summarize_outcome",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 7103.697,
+    "end": 7103.817,
+    "text": "Aye.",
+    "speaker": "rogergordon",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 7104.498,
+    "end": 7106.101,
+    "text": "Against. Carried.",
+    "speaker": "susanoregan",
+    "tags": [
+      "summarize_outcome"
+    ]
+  }
+]

@@ -1,0 +1,3258 @@
+[
+  {
+    "start": 5.043,
+    "end": 59.425,
+    "text": " Good afternoon or good evening. Welcome to this March 10th meeting of the Albemarle County School Board. We will now have a moment of silence.  Thank you, and now to introduce the members of our board, Dr. Kate Acuff.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 59.445,
+    "end": 62.669,
+    "text": "Kate Acuff, Jack Hewitt District.",
+    "speaker": "kateacuff",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 62.689,
+    "end": 69.078,
+    "text": "Mr. John O.L. Carroll. John O.L. Carroll, at large. Katrina Colson.",
+    "speaker": "grahampaige",
+    "tags": [
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 71.281,
+    "end": 72.883,
+    "text": "Katrina Colson, Rio District.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 75.626,
+    "end": 76.367,
+    "text": "Ms. Judy Lee.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 77.148,
+    "end": 78.35,
+    "text": "Judy Lee, Rivanna District.",
+    "speaker": "judyle",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 79.692,
+    "end": 80.713,
+    "text": "Ms. Ellen Osborne.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 81.655,
+    "end": 83.398,
+    "text": " Ellen Osborne, Scottsville District.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 84.72,
+    "end": 89.346,
+    "text": "I'm Graham Page, Samuel Miller District. Our student rep, Elizabeth Alvaren.",
+    "speaker": "grahampaige",
+    "tags": [
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 91.469,
+    "end": 91.91,
+    "text": "Hello.",
+    "speaker": "elizabethalbarran",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 93.492,
+    "end": 104.108,
+    "text": "Good seeing you, Elizabeth. I will now entertain a motion to approve our agenda for this evening.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 106.291,
+    "end": 107.773,
+    "text": "I move that we approve the agenda.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 109.857,
+    "end": 110.177,
+    "text": "Second.",
+    "speaker": "judyle",
+    "tags": [
+      "procedural_move",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 111.322,
+    "end": 120.712,
+    "text": " Moved by Mr. Alcaro, seconded by Ms. Lee, that we approve tonight's agenda. Any discussion on the motion? If not, Ms. Johnston.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 122.353,
+    "end": 122.814,
+    "text": "Alice Bourne?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 124.856,
+    "end": 125.096,
+    "text": "Yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 126.678,
+    "end": 127.419,
+    "text": "Ms. Colson?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 129.761,
+    "end": 130.001,
+    "text": "Yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 131.423,
+    "end": 138.75,
+    "text": "Ms. Lee? Yes. Dr. Acuff? Yes. Mr. Alcaro?",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call"
+    ]
+  },
+  {
+    "start": 139.671,
+    "end": 140.232,
+    "text": "Yes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "agreeing"
+    ]
+  },
+  {
+    "start": 140.802,
+    "end": 141.543,
+    "text": " Mr. Page?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 142.203,
+    "end": 142.464,
+    "text": "Yes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "agreeing"
+    ]
+  },
+  {
+    "start": 143.164,
+    "end": 143.905,
+    "text": "Motion carried.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 144.706,
+    "end": 151.773,
+    "text": "Thank you. We have a motion to approve our consent agenda for tonight.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 153.295,
+    "end": 155.337,
+    "text": "I move that we approve the consent agenda.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 158.24,
+    "end": 159.841,
+    "text": "Second.",
+    "speaker": "judyle",
+    "tags": [
+      "procedural_move",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 159.861,
+    "end": 170.472,
+    "text": "Moved by Mr. Alcaro, seconded by Ms. Lee, that we approve the consent agenda. Any discussion on the motion? If not, Ms. Johnston.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 171.312,
+    "end": 187.278,
+    "text": " Mr. Alcaro? Yes. Ms. Lee? Yes. Dr. Acuff? Yes. Ms. Carlson? Yes. Ms. Osborne? Yes. Mr. Page? Yes. Motion carried.",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 188.099,
+    "end": 233.287,
+    "text": "Thank you.  After reading into our minutes, the minutes of this meeting should reflect that this meeting is being held electronically, pursuant to Virginia state law and Albemarle County ordinance, because the COVID-19 pandemic makes it impractical and unsafe to assemble a quorum physically in a single location.  The meeting is being communicated to the public electronically through Zoom and streamed live on the Albemarle County Public Schools website. And public comment may be offered through the Zoom waiting room feature in accordance with the school board's protocol or by written submission. We are now at the point where we will have a spotlight on education introduced by Mr. Alcaro.  Thank you, Mr. Page.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 234.008,
+    "end": 355.624,
+    "text": "Our spotlight on education is a two-part spotlight tonight. So I'm gonna do two different introductions. It's my honor to first introduce two of our students and one of our learning coaches for their extraordinary personal achievements this year. Our students are champions.  having earned this distinction last month at our division's annual Spelling Bee. This year, there were two separate competitions, one for our elementary school students and one for our middle schoolers. Lila Theed, a Mountain View fifth grader, finished first among the Spelling Bee winners from all of our elementary schools. And Henry Matthews from Henley placed first among all of our middle school winners.  Both Lila and Henry will be competing in the Regional Spelling Bee, the next leg to the National Spelling Bee, which takes place this Saturday morning, beginning at 930 at Albemarle High School. We will also be represented by the second and third place finishers at each level. They include Claire Meng from Hollymead, Madeline Rasmussen from Red Hill,  Catriona Shuev from Burling and Seven Gray from Lakeside. Also with us this evening are Katrina Sims and Kim Gibson, two of our lead coaches who serve as coordinators for this year's Bee. Please join me in thanking them and in congratulating Lila and Henry and all who participated in this year's program.  I'd like to ask Katrina to formally introduce us to our two champions this evening. Ms. Sims.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "public_addressing",
+      "give_update",
+      "logistics_info",
+      "request_action",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 357.41,
+    "end": 451.609,
+    "text": " Thank you Mr. O'Connell and thank you board for allowing me this opportunity to introduce our spelling bee winners. First again I'd like to just introduce myself and my partner Kim Gibson. We are lead coaches for the division and our section is ELA. I'm elementary and Kimberly Gibson is  It's our privilege as lead coaches to organize the spelling bee. And due to COVID this year, we were in a unique situation with COVID mitigations where we had two spelling bees. And again, students in grades three through eight were allowed to participate in the spelling bee. And we sent our 21 best spellers in the county to the division B.  While it's true that in this digital age we can check our spelling in the blink of an eye with spellcheck, understanding the spelling and root structures of words helps us comprehend more than just the patterns of letters that combine into a single word. We better understand the ideas behind the words themselves and are better able to communicate with each other. And so again, I would like to congratulate all of the B winners that we have and  Again, my partner, Kim Gibson, for supporting me through this process. And now with Lila and Henry, again, congratulations. And now that you've progressed in the regional finals in the Scripps Spelling Bee, what advice do you have for all spellers in ACPS and future Spelling Bee participants?",
+    "speaker": "catrinasims",
+    "tags": [
+      "public_addressing",
+      "give_update",
+      "ask_question",
+      "acknowledge",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 457.715,
+    "end": 492.988,
+    "text": " The best advice that I can give to anyone who wants to participate in a spelling bee in Albemarle County in the future would definitely be to read. Reading is where I learned the most about spelling. Ironically, not spelling. Reading, you process hundreds of words every 10 minutes that you read, and every one of those words  you learn how to spell just a little bit better, which I think is really a great way to learn how to spell, of course. So I'm really happy that reading has provided such a great method of entertainment and learning for students around the world.",
+    "speaker": "henrymathew",
+    "tags": [
+      "opinion",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 495.912,
+    "end": 544.014,
+    "text": "Thank you, Henry. Lila. Lila.  We're wondering, maybe you could you tell us about your experience just being this first year within the spelling bee. What excited you the most about participating in the bee? And no pressure, I think.  No pressure at all. We're just excited that you were able to participate with us. And again, we want to say congratulations. And if you'd like to tell us anything about the Bee, we'd happily hear it now, but it's not again.",
+    "speaker": "catrinasims",
+    "tags": [
+      "ask_question",
+      "public_addressing",
+      "request_action",
+      "reassure",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 544.695,
+    "end": 555.53,
+    "text": "Reading lots of books is absolutely key. And yeah, read a lot of books and talk to your friends and yeah, stage fright is a real thing.",
+    "speaker": "lylathiede",
+    "tags": [
+      "opinion",
+      "reassure"
+    ]
+  },
+  {
+    "start": 555.55,
+    "end": 567.097,
+    "text": "It's a real thing. Thank you so much. Lila, we are very proud of you.  So again, to Henry and Lila, we wish you the best this Saturday. And thank you all.",
+    "speaker": "catrinasims",
+    "tags": [
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 570.245,
+    "end": 575.539,
+    "text": "Thank you, Ms. Simmons. The second category is Equity in Education Month.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 577.004,
+    "end": 598.945,
+    "text": " The Virginia School Board Association tells us on their website that when inequity in education persists, there is a cost to all involved, including missed opportunities for economic development, greater dependence on government supports, and fewer Virginians ready to serve and lead.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "cite_external_source",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 600.19,
+    "end": 673.313,
+    "text": " If every student is to fulfill their highest potential, and if the future of our communities is to be both personally rewarding and prosperous, the contributions of our public schools is vital. It is this truth that led the State Board Association to designate March as Equity in Education Month.  Tonight we have with us Mary Morales, who is a Spanish teacher in Mountain View's immersion program, serves on the front line of our efforts to institutionalize classroom equity. Mary's story is an unusual one among teachers who have entered our culturally responsive teaching program. She has been a teacher for more than 30 years and more than 20 of those years have been here in our division.  Her experience illustrates how this program is changing outcomes for students and for teachers by closing opportunity and achievement gaps. Ms. Morales, I'm hoping that you will bring to life for us tonight some of your insight as to how words about equity translate into better lives for students. Welcome.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "public_addressing",
+      "defer_to_expert",
+      "request_action",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 674.052,
+    "end": 964.22,
+    "text": " Thank you so much. Hi, everyone. My name is Mary Morales, and I'm a fourth grade Spanish immersion teacher at Mountain View Elementary School. And in the immersion program, you have a partner teacher with whom you share students. And in my case, that person is Abigail Copley, a second year teacher. And she told me she was going to pursue her credential in culturally responsive teacher.  at culturally responsive teaching, and I decided to join her. And here I am. Culturally responsive teaching is a rich, intentional approach woven into every aspect of what goes on in my classroom. It focuses on what students bring, what they can do, and it's about having high expectations for the success of each learner, no matter what. It connects students' cultures, languages, and life experiences with what they're learning in school.  Working towards my CRT credential this year has improved student learning in my classroom. It has strengthened relationships with my students and their families. And it has pushed me to learn new ways to do things. It has made me intentional about everything I do.  Working to in my class this year I have witnessed tremendous growth in terms of Spanish reading levels, 19 of my students have made two grade levels of growth in terms of reading, 10 have made three years of growth and four have made four years of growth. And I'm so proud of them. And we still have three more months to go.  These are some of the elements of culturally responsive teaching that led to student success in my classroom this year. First, connecting with students. I met individually with each student and we talked about ourselves until we found five things we shared, we had in common. And engaging in this activity taught me so much about each one of them, and it brought us closer together, it connected us.  The second thing is partnering with students. I created goal setting sheets, and on those, they're focused on Spanish literacy data. And on those, each student, I kind of put where they were and put a star where we want to be by the end of the year for spelling, reading levels, and this assessment that we give.  And I also put a continuum of becoming an independent learner. We've talked a lot about that, about shifting from dependent learning to independent learning. So an independent learner comes into the classroom, gets right to work, right? And so showing those behaviors really can shift how a student does in school and in the future.  Another thing I did was partner with parents, they're so important in what we do at parent conferences I asked parents for their support at home and we became a team. They know the expectation was that their child read for 20 minutes in Spanish every night on their weekly story and.  They contributed to their children's success by helping them read, working with them, making sure they did it. And when I was listening to Henry and Lila talk about how important it is to read, it really is. The time you spend looking at words, and especially since I'm teaching in another language, it's really super important for them to focus on those words and really have their eyes on  what they're reading. Another important thing I did this year that I am gonna do every year until I retire is student-led conferences. That was like the most amazing thing. The kids recorded themselves and shared these recordings with their parents. And I wanted parents to hear their children's beautiful Spanish voices and tell them how they're doing. And each student summarized, like they told them what their favorite book was, they summarized it.  Their favorite story they read a little bit of it they shared a project with their parents, and they shared their literacy goal. And the last thing that I've changed in his assessment. I've shifted from traditional quizzes and tests.  to more collaborative projects and assessment choice boards. And the discussions that kids have while working on these shows their content mastery and tells me so much more than any quiz or test could. All of these practices have led to tremendous growth in my students in Spanish literacy. And the best part of it is that I'm not alone on this journey. I have my students, their families,  my colleagues, my administrators, instructional coaches, equity specialists. Honestly, I have reached out to all of these people and all of the other teachers working really hard alongside me on this culturally responsive teaching journey. Thank you.",
+    "speaker": "marymorales",
+    "tags": [
+      "give_update",
+      "public_addressing",
+      "acknowledge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 968.467,
+    "end": 996.844,
+    "text": "Thank you, Ms. Morales. Are there any questions from the board?  It was so interesting, your approach to culturally responsive teaching. It's a wonderful program. And for any level of experience, it's proven to be so useful and such a handy tool. Thank you for sharing this with us.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "acknowledge",
+      "opinion",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 997.645,
+    "end": 998.746,
+    "text": "Thank you for inviting me.",
+    "speaker": "marymorales",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1002.409,
+    "end": 1006.813,
+    "text": "If I may, Ms. Morales, what kind of feedback have you got from the parents?",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 1008.11,
+    "end": 1030.913,
+    "text": " Very positive. I mean, I think some of them were really surprised at how beautifully their children were able to express all of the things that are going on in school in Spanish in their conferences. And they have been so supportive with reading with their children every night, even if they themselves don't speak Spanish. So it's been wonderful. They're really great.",
+    "speaker": "marymorales",
+    "tags": [
+      "give_update",
+      "opinion"
+    ]
+  },
+  {
+    "start": 1032.334,
+    "end": 1033.715,
+    "text": "Sounds like you're doing a great job.",
+    "speaker": "kateacuff",
+    "tags": [
+      "reassure",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1034.316,
+    "end": 1035.417,
+    "text": "Thank you so much.",
+    "speaker": "marymorales",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1038.552,
+    "end": 1042.458,
+    "text": " Mr. Page, I think I'll turn this back to you. Thank you again, Ms. Morales.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move",
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1043.239,
+    "end": 1052.134,
+    "text": "Yes, Ms. Morales. Thank you so much for sharing your views on culturally responsive teaching. We really appreciate everything that you do. So thanks so much.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1052.855,
+    "end": 1053.336,
+    "text": "Thank you.",
+    "speaker": "marymorales",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1054.598,
+    "end": 1077.361,
+    "text": "And also, congratulations to Lala and Henry. And we also thank Ms. Sims and Ms. Goodson for being with us here tonight, too. So thank you all.  We are now ready for announcements and I think Dr. Haas has an announcement to start us out with.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1077.821,
+    "end": 1483.178,
+    "text": "Yes, I have a few and I do want to take a personal privilege to really thank Mary. I'm so glad Mary has been in the school system all these years. In fact, when I first came to the school system,  Mary was a new teacher mentor. So that meant when I was the principal at Albemarle, she would come to visit the brand new teachers that were there. But every time she came out, I would take up some of her time with her mentoring me. And I don't really think I could have survived my first year as principal at Albemarle without Mary and a wonderful teacher and a great coach. And I'm going to be at Mountain View on Monday. So I'm going to come by and visit you, Mary.  or if that's okay. Okay. Um, I do want to thank Katrina and Kimberly, they really do a great job at that spelling bee. And if you do have time on Saturday to just get over to Albemarle to check it out. The kids are really great. It's really a wonderful event that celebrates literacy and excellence. I am  Wanted to mention that we do have several principals here this evening. We've got Megan Wood from Lakeside, Beth Costa from Henley, Jen Sublett from Western Albemarle, and let's see, Dara Bonham's on my list. He may not be here yet, but just wanted to call them out. They want to show their screens. Hey, Megan. Hey, Jen.  Thank you so much for all the outstanding work you do. I think Beth is multitasking with one of her children's baseball games. So there you are. It's good to see you, Beth. Thank you for coming tonight. Really appreciate it. And thank you for all the outstanding work you do to support our students and families and your colleagues. Thank you. I want to say that  Tuesday and Wednesday night this week we had our final community forums and they were great we really that's part of our strategic plan work and. We had a great turnout on our family night.  that we did on zoom we had representatives from around the county schools, we had at one point we did have 25 different families that were able to come in and visit. With our equity specialists our Community engagement department and members of the cabinet as we engage them around these three central questions where they went into breakout rooms. Can you share an example of how.  We are or are not respecting your life experiences. The second question, can you share an example of how we are or are not supporting your child's physical and mental health? And the third question is, can you share an example of when you have felt empowered or engaged in your school community? And so they had those three questions for families, and then it was a different variation  on Wednesday night when we met with employees. And on Wednesday night, we had 52 employees representing our schools and departments. And so you can imagine it was a robust conversation around ways that our families and then also our employees feel empowered or disempowered by their experiences with us. Earlier in the month, we had meetings with middle school students  And earlier in the year, we had the high school student meeting. So these were pilots this year, and we're going to keep building on that so we can keep doing these sessions.  There is a space on our web page where we put all where we put our notes from these meetings as a as a piece of data around our strategic plan, so that anybody in the public can transparently see ways that we are, I think, doing well with engaging, but also ways that we can keep improving and keep striving for continuous improvement. And I want to thank also our human resources department  for last night, that was pretty heavy on HR to help us facilitate that meeting. You did a great job. I had a terrific visit to Brownsville Elementary School on Monday, and I really appreciate the staff having me come by. I was able to get out to Paula Gately and Quentin Bruce's fourth grade classroom. The students were working on visual representations of fractions.  And when I stopped by, I like to talk directly with students to see what they're doing, and if they know what they're doing, that's very important around engagement. I asked a student what he was doing. He said, I'm making a picture with boxes, and I'm dividing up the box and coloring it to show how many parts of the box the fraction means.  And he showed me a card he made representing three quarters. Sure enough, on the card was a box divided evenly into four parts. Three of the parts were shaded green. And I really appreciate the hands-on work with the students so they could see those fractions. The next visit I made was to Jenny McCartney and Catherine Almey's kindergarten class.  I sat at the table with Ms. McCartney, and she had four students who were practicing reading the story, A Bad Fox. And as Ms. McCartney and I watched and listened in anticipation, a student sounded out a word independently. And Ms. McCartney said, this is the most exciting part of my job, when a student starts to read independently and sounds out words on their own. And it really made me appreciate just what a moment in time that is  for our teachers when students begin to take over. I'll mention one more thing. Before I left the kindergarten class, I was playing on the floor with a kindergartner who was arranging plastic animals near a barn. She was putting a variety of animals in a group outside the barn, you know, a cow, a pig, chicken. And I see kindergartners do this all the time. They always put all the figures in one place.  I asked her what the animals were doing, and she said, they are having a meeting. And immediately I thought, that's a future superintendent. And with that, Dr. McLaughlin has an announcement that he would like to share. And I think that's it. Thanks, Pat.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "give_update",
+      "acknowledge",
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1483.462,
+    "end": 1559.402,
+    "text": " Yep, absolutely. Thanks, Dr. Haas good evening board members, Pat McLaughlin chief of strategic planning and I have got some news today that we wanted to share you that's actually very timely, as I know the board is in the process right now of selecting new student representatives for the board.  I was out at Western Albemarle for a meeting and happened to run into Elijah wit, who you all know was a previous former member of the school board as a student representative, and he said well you've got to let the board know that I just found out this week that I am going to become a Jefferson scholar at the University of Virginia, and he said it really  I see Miss sublet they are very happy to say that and but what he really was focused on was the opportunity that this board gave him because he said throughout the process of Jefferson scholars a rigorous process to to go through for sure that he continually came back to his experience as a student rep on the board.  and thinks that really made a significant impact on the committee. So he wanted to, number one, let you know of his celebration, but also express his great thanks to the board for that opportunity and a great promotion for the student rep program. So I thought we'd bring some good news to you tonight on that front.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1567.735,
+    "end": 1615.478,
+    "text": " Thank you, Dr. McLaughlin, for bringing us the news about Elijah. And that is really great news to hear that he is a Jefferson scholar at UVA. Thank you, Dr. Haas, for your announcements. And that future principal, I mean, future superintendent one is something for us to be aware of, right? And also thanks to our principals who are with us tonight, Ms. Wood, Ms. Costa, and Ms. Sublett.  And also to our presenters doing the moment, the public comment section, or rather not public comment, but spotlight on education. So our two winners and also Ms. Sims and Ms. Goodson. So thank you all for your parts in our meeting tonight. Moving to our next item, public comment, Ms. Carlson.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1617.061,
+    "end": 1620.106,
+    "text": " Yes, I'm going to start off by.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1621.909,
+    "end": 1631.606,
+    "text": "We didn't do the school board business. Didn't you skip that? OK, right. I'm sorry. Yeah, school board announcements.",
+    "speaker": "kateacuff",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "request_action"
+    ]
+  },
+  {
+    "start": 1632.407,
+    "end": 1633.288,
+    "text": "We did announcements.",
+    "speaker": "grahampaige",
+    "tags": [
+      "give_update"
+    ]
+  },
+  {
+    "start": 1633.308,
+    "end": 1671.303,
+    "text": "We didn't do business. OK, take for granted you have an announcement.  No, I have a small amount of business that that Ms. Johnston, our clerk, has informed me we need to do officially. Katrina Coulson and I have decided that she would instead of me, that she would prefer to be on the board. But we need to do this by board action. We can't just informally do it like we thought we could. So we just need to have  board approval of this change.",
+    "speaker": "kateacuff",
+    "tags": [
+      "give_update",
+      "procedural_move",
+      "request_action",
+      "logistics_info",
+      "clarify"
+    ]
+  },
+  {
+    "start": 1675.348,
+    "end": 1678.132,
+    "text": "Do you want a motion? To that effect, Dr. Acuff?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "request_action"
+    ]
+  },
+  {
+    "start": 1679.113,
+    "end": 1681.917,
+    "text": "Pardon? Would you make a motion to that effect?",
+    "speaker": "grahampaige",
+    "tags": [
+      "request_action",
+      "procedural_move",
+      "clarify"
+    ]
+  },
+  {
+    "start": 1682.758,
+    "end": 1695.516,
+    "text": "I move that Katrina Coulson be appointed to fill the remainder of my term on the KTEC board. Second.",
+    "speaker": "kateacuff",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1696.947,
+    "end": 1712.59,
+    "text": " All right, moved by Dr. Acuff, seconded by Ms. DelCaro and Ms. Lee, that Ms. Colson fulfill the remaining portion of Dr. Acuff's term on the KTEC board. Any discussion of the motion?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1714.513,
+    "end": 1720.341,
+    "text": "I would just say thank you, Kate, for reaching out to me and taking the initiative to figure it out. I appreciate it.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1722.505,
+    "end": 1724.187,
+    "text": "You're very welcome.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1724.926,
+    "end": 1727.189,
+    "text": " All right, Ms. Johnson, could you call the roll, please, on the vote?",
+    "speaker": "grahampaige",
+    "tags": [
+      "request_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1727.91,
+    "end": 1728.671,
+    "text": "Mr. Alcaro?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1731.514,
+    "end": 1731.935,
+    "text": "You're muted.",
+    "speaker": "kateacuff",
+    "tags": [
+      "public_addressing",
+      "request_action"
+    ]
+  },
+  {
+    "start": 1733.917,
+    "end": 1734.177,
+    "text": "Yes.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "agreeing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1735.739,
+    "end": 1743.509,
+    "text": "Ms. Lee? Yes. Dr. Acuff? Yes. Ms. Colson? Yes. Ms. Osborne?",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1744.01,
+    "end": 1744.27,
+    "text": "Yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 1745.011,
+    "end": 1745.712,
+    "text": "Mr. Page?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1746.293,
+    "end": 1746.593,
+    "text": "Yes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 1747.434,
+    "end": 1748.155,
+    "text": "Motion carried.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1748.415,
+    "end": 1748.836,
+    "text": "Thank you.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1749.597,
+    "end": 1760.576,
+    "text": "OK, thank you. So Ms. Colson?  We are glad that you'll be representing us now on the KTEC board. Thank you. And now moving to public comment.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1762.158,
+    "end": 1865.138,
+    "text": "I am going to go ahead and read the public comment guidelines. And then we have three speakers signed up for today. So the school board invites and actively seeks the public's input in the matters relevant to school board governance and provides for time during its business meetings to hear from Alma County residents and community members.  As authorized by ordinance of the County of Albemarle, the school board will hold its meetings electronically during the pandemic. The school board is nevertheless committed to encouraging public comment despite its need to meet on a virtual basis. For this reason, there will be two ways for the public to provide comment. First, as always, written comments may be submitted to the school board clerk or to the school board as a whole via email prior to the start of the meeting and will be given to all school board members for review.  Second, as long as the school board holds its meetings electronically, members of the public wishing to speak during the meeting may sign up online by 2 p.m. the day of the meeting. Before public comment starts, I'm going to announce the order. There's only three, so I'll announce all of them. Each speaker will have three minutes to speak. I will try to notify you when you reach a two-minute mark. I hold up a finger. It's easy to miss, and so please try to time yourself if you can. Speakers during the meeting or those submitting written comments should state their name and address our magisterial district.  Further, speakers should limit comments to those matters that are relevant to school board governance or the operations of the school division. Although the school board will not respond to comments made during the public comment period, school board members may address comments at the end of the meeting agenda under other business. And with that, I will go ahead and announce our speakers. We have Sarah Harris, who I see in here, James McClung, I believe is in here, and Beth Sarosiak. So, Ms. Harris, if you are  Ready? You can go. Hi, can you hear me?",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 1866.063,
+    "end": 2054.872,
+    "text": "Yep. My name is Sarah Harris and I live out in the Whitehall District.  We're at a really pivotal moment in public education right now, and it's one that would be fascinating if we were watching it and not living it because it has potential to be really problematic. Parents are demanding so much oversight and control over what happens in their children's public school classrooms that they're losing sight of the fact that some of their demands are actually at odds with each other, and they might have some unintended consequences. Ever since ACPS began a shift from a GT identification to a talent development model of academic extension,  Parents have expressed concerns that their high achieving students are not being challenged in school, that they have fewer options for higher level learning, and that our schools are losing academic rigor. This isn't the case, but it's also not my point. At the same time, parents are advocating to restrict conversations and curriculum in our schools that actually promote critical thinking. And it's the foundation for higher level learning. We need to be careful in how we navigate this time in our history.  The College Board announced a new statement of principles last week that any high schools that ban required topics and advanced placement classes could lose their AP designation. This is the least of my concerns when it comes to censorship, but it might be one that certain parents want to pay particular attention to. Don't fight to water down the curriculum in history or English.  Give your kids the skills they need to take the high-level courses you're advocating for by teaching them how to think critically from the very beginning. Our governor has rescinded several programs and initiatives that promote what he calls inherently divisive concepts. Although no legislation has actually been passed censoring anything, I'm concerned that these measures specifically target teachers to prevent them from feeling confident to teach with depth, integrity, and professionalism. We cannot let fear and the current social climate limit a teacher's ability to teach.  We cannot let kids grow up in a world in which they think that aspects of their own identities are divisive. Instead, we need to empower them to think critically and compassionately about these topics, and we can do that with the right instruction.  I hope parents remember that there are actual adult humans, professionals with college and postgraduate degrees, training and credentials, and years of experience in our children's classrooms. Give our teachers the credit they've earned. They did not enter this profession to indoctrinate our kids. And as a former teacher myself, I can assure you that they don't have time in their day to do so even if they wanted to. They're there to teach and we need to let them do their jobs. And if we don't, we're going to lose them. Another unintended consequence of parental overreach.  Educators in this district have been working diligently to produce and implement a curriculum that aligns the anti racism policy that students drafted.  and the board approved years ago. From what I've seen of this work on the website, including the middle school advisory framework and the reframing the narrative initiative, it's gonna be great. Our students will be prepared to succeed not only in school, but in a future that's more compassionate, hopefully, than our present. Please know that this community supports this work to provide a curriculum framework that teaches true history from kindergarten through graduation, one that affirms and values diverse perspectives, and one that represents every child in this district.  Please ensure that this important work continues and please continue to support our teachers. Thank you.",
+    "speaker": "sarahharriss",
+    "tags": [
+      "public_addressing",
+      "express_concern",
+      "request_action",
+      "opinion",
+      "cite_external_source",
+      "reassure"
+    ]
+  },
+  {
+    "start": 2058.4,
+    "end": 2066.698,
+    "text": "Thank you so much for those comments, Ms. Harris. Our next speaker will be James McClung, who I also see on. Mr. McClung, when you're ready.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2068.467,
+    "end": 2233.938,
+    "text": " Good evening, my name is James mcclellan i'm a teacher at Monticello high school and a student at our okay wait i'm a parent of a student at our high school. I may look 17 or 18 but I assure you i'm not i'm here to talk about cell phone use in our in my high school and maybe others as well. The student conduct policy regarding cell phones it's pretty clear cell phone should not be turned on or visible during class and less directed by the instructor.  However, the realities of phone use in our classroom are very different. We all know that cell phones are addictive in nature. Students have access to a handheld personal entertainment device anytime they choose. Few, if any, teachers can compete with phones as they try to engage and build connections with students. What teachers see in the classroom are the negative impacts on social, emotional, and academic growth associated with phone use at school.  Phone use clearly affects student learning, as well as teacher morale, leaving many of us feeling frustrated and feeling like we're not able to do our job of teaching and supporting students. And please don't simply take my word for it. You can ask any high school teacher. So why am I here? We desperately need help. We need help clearly communicating to all involved in our schools what the expectations are.  This would include creating a climate that allows and ensures these expectations are met. And maybe most important, help with communicating our strong commitment that everything we do tries to seek to be in the best interest of each and every student. We also need help  need clarification about how to enforce the existing cell phone rules. What are the procedures to follow when there's resistance to not following cell phone policies? When, if ever, should we collect a phone from a student and request parents to be the ones to pick it up from the school? How do we address the very necessary exceptions for students who must have access to their phones for medical conditions such as monitoring blood sugar or  or other conditions. So I am asking, and maybe I'm actually pleading with you, to help in any way that you can. Cell phone use in our high schools is out of control, and it seems to only be getting worse. And our students, who we so deeply care about, are the ones who are missing opportunities every day at school to learn, grow, and prepare for the rest of their lives. I sincerely thank all of you for your time tonight, and especially for all you do for our schools.  Thank you.",
+    "speaker": "jamesmcclung",
+    "tags": [
+      "public_addressing",
+      "express_concern",
+      "request_action",
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 2233.958,
+    "end": 2243.774,
+    "text": "Thank you for those comments, Mr. McFarland. The last speaker will be Bethany Sarosia, who I see on. Bethany, when you're ready, you can go.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing",
+      "logistics_info",
+      "request_action"
+    ]
+  },
+  {
+    "start": 2243.794,
+    "end": 2268.338,
+    "text": "Sure, thank you. My name is Bethany Sarosia, Whitehall District. And my husband and I are parents to a current kindergartner at Brownsville Elementary School. I'm here today to express my disappointment and frustration with our current situation and the lack  of appropriate GMT resources and support for our son and our community. Over the course of the past eight months, we have watched our bright and cheerful five-year-olds love of school and learning fade.",
+    "speaker": "bethanysarosiek",
+    "tags": [
+      "public_addressing",
+      "express_concern",
+      "give_update",
+      "opinion"
+    ]
+  },
+  {
+    "start": 2270.377,
+    "end": 2286.022,
+    "text": " Following three years of preschool, he was so excited to enter kindergarten and unfortunately has been left woefully underwhelmed as we have been as parents. My husband and I recognize and appreciate the value in a strong, effective public school education.",
+    "speaker": "bethanysarosiek",
+    "tags": [
+      "express_concern",
+      "opinion"
+    ]
+  },
+  {
+    "start": 2286.203,
+    "end": 2442.825,
+    "text": "We want our children to benefit directly from its delivery, which is why I'm here today. And this past year, unfortunately, has changed our minds significantly.  We followed the appropriate escalation pathway we've met with his classroom teacher who is notably brand new to teaching this year, along with advice principal on numerous occasions we've advocated for additional resources and ideas to continue to challenge our child to re invoke his love of learning creativity and exploration.  After reading the recent article in the Crosier Gazette, I've learned that the rationale behind the dissolution of the GMT program was moving towards a more equitable identification of gifted and talented students with the shift in name and in mindset I'll point out about what this is personally meant for my child and other children like him.  who are in need of something more. When talking about equity and fair distribution, perhaps we should also speak to what we are leaving behind as we move to this new model. Case in point, our kindergarten students who enter school with the same amount of knowledge they're expected to master by the end of their kindergarten year. Instead of finding ways to build upon this previous learning through differentiated assignments, instead, he spends most of his time during the day reviewing what he already knows, completing things like coloring assignments or connect the dot worksheets  or most recently now takes those same worksheets and creates paper airplanes I wish I was kidding but i'm not. So, perhaps through an unfortunate series of events we just drew the short straw this year. we're returning after to normalcy after a year of remote learning. We have a brand new teacher who is still learning how to provide general instruction to 18 students nevermind learning the skill of differentiated instruction between ability levels.  Brownsville Brownsville talent development and resource teacher was also on a maternity leave for the first half of the year. And if the idea of the new program is to teach the classroom teacher how to differentiate and support students have a wide range of ability levels and that has not yet happened it's already mid March.  I'm thankful that we recently took our son for an intelligence test, the results of which showed us exactly what we already knew. And we were able to leverage those results for another collective meeting with our classroom teacher, the principal and the talent development resource teacher. From this, we now have an action plan for differentiated learning that will begin next week. But why, why did it take us having to spend several hundred dollars on an assessment to provide data to a problem that we already knew existed? How many other students like our son are being affected in the same way?  So in an effort to provide equity across the district and dissolving the GNT program as we once knew it, are we really elevating our collective student body in the right way? Ms. Garcia, I'm sorry, your time is at the end.",
+    "speaker": "bethanysarosiek",
+    "tags": [
+      "express_concern",
+      "ask_question",
+      "public_addressing",
+      "cite_external_source",
+      "opinion"
+    ]
+  },
+  {
+    "start": 2443.385,
+    "end": 2462.151,
+    "text": "If you have a concluding sentence or you can email the remainder of your comments as well and we'll be able to read them or you can sign up again. I believe we have a meeting. Thank you. Next week. Thank you. Yep. Thank you.  So that concludes public comment for today, and I hand it back to you, Chair Page.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "procedural_move",
+      "logistics_info",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2463.473,
+    "end": 2519.039,
+    "text": "Thank you, Vice Chair Carlson. Our next agenda item, the Mountain View addition design development, and Ms. Hoopman is going to lead this part of our meeting. Ms. Hoopman.  Ms. Hoopin, are you there? She's here, but she's muted and no video.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "request_action",
+      "logistics_info",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2520.504,
+    "end": 2524.234,
+    "text": "Right. I am here with video and sound.",
+    "speaker": "sheilahoopmann",
+    "tags": [
+      "acknowledge",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 2524.735,
+    "end": 2525.698,
+    "text": "OK, thank you.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2531.213,
+    "end": 2559.06,
+    "text": " Hello, my name is Sheila Hoopman, Capital Project Manager at Building Services. I'm here with Jack Clark of RRMM Architects to present the design development plans for information and action tonight for the Mountain View Elementary Edition. The committee is requesting approval of design development and to proceed with the construction drawing phase. I'll now pass the presentation to Jack Clark, who will take you through the Mountain View design.",
+    "speaker": "sheilahoopmann",
+    "tags": [
+      "public_addressing",
+      "give_update",
+      "request_action",
+      "procedural_move",
+      "defer_to_expert"
+    ]
+  },
+  {
+    "start": 2561.335,
+    "end": 2583.406,
+    "text": " Good evening. Thank you for having me here tonight. We appreciate it very much. We're excited to talk about Mountain View Elementary School. I'd like to share my screen right now. Can you see the PowerPoint?",
+    "speaker": "jackclark",
+    "tags": [
+      "public_addressing",
+      "request_action",
+      "ask_question",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 2586.41,
+    "end": 2587.191,
+    "text": "No, not yet.",
+    "speaker": "grahampaige",
+    "tags": [
+      "give_update",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2594.647,
+    "end": 2595.348,
+    "text": " How about now?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 2597.33,
+    "end": 2599.332,
+    "text": "No, nothing.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2619.655,
+    "end": 2620.596,
+    "text": "There we go.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2620.616,
+    "end": 2621.177,
+    "text": "Yeah, there you go.",
+    "speaker": "ryanmckay",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 2622.76,
+    "end": 3625.612,
+    "text": " Great, thank you very much. So as Sheila mentioned, we're looking for design development review and approval tonight. A little summary from back in December, we presented a schematic design for Mountain View. The decision was made at that point to approve a sixth classroom and cafeteria additions at Mountain View to address overcrowding over the next several years, five or more.  A couple of items to note is the enrollment at Mountain View is expected to increase to almost 800 students by 2025-26. The current building and the eight classroom learning cottage will only accommodate the classroom needs at Mountain View. So the classroom and cafeteria additions along with the learning cottage will accommodate the classroom needs and the spaces for all required educational programs.  We had faculty and community feedback before the schematic design, presentation, and also back in February. February 3rd, faculty meeting, February 7th, community meeting. And some of the comments that were incorporated into the design from those meetings, including the parent drop-off, a covered walkway provided for students from the new parent drop-off location in the building, easing of traffic on Avon Street extended, very important item that we brought up multiple times, improved drainage,  and playground and play space redesign that also will address safety and access concerns. And then question was raised about future solar. And yes, the answer is that roofs on the additions are designed to accommodate future solar panels. Proposed additions to Mountain View are shown in green. The yellow triangle is the front door to Mountain View and the small green rectangle next to the yellow triangle is the cafeteria addition.  at the upper right of the screen is a two-story classroom addition. Let's see what those look like. So here's a plan of Mountain View. This has been rotated so that the front door, once again, the yellow triangle is at the bottom of the sheet. The oval to the right of that is the cafeteria addition. And the oval at the upper left corner of the screen is a two-story classroom addition at Mountain View. First, let's look at the cafeteria addition.  This addition will expand the dining at the existing cafeteria, we're going to have an operable wall with glass panels.  between the two spaces, the existing cafeteria and the new. One of the items that came out of our discussions with the faculty and the community was the need for a larger gathering space for after hours activities, faculty meetings, things like that. So this cafeteria expansion will not only provide space for students to dine, but also be a multipurpose space with other uses such as faculty meetings. It also could serve as a place for students to come in in the morning  as they line up to get breakfast at the school. And as well as after hours, community meetings, be very accessible to the front of the building and the parking area. The area in yellow is a corridor. So we've extended the corridor out. That is a covered canopy going to connect to the corridor. There's also in gray shown here are two individual toilets. So we're expanding the toilet capacity at Mountain View with these two toilets along with this addition.  Some images of the proposed cafeteria expansion. This is looking into the building, into the cafeteria addition from the front of the school inside. A high ceiling, lots of windows and lights. And another image looking back out towards the front from the inside of the cafeteria expansion. Once again, a higher ceiling. We've got acoustical panels around there, lots of light.  Outside. This is what the condition would look like we mentioned before the bus drop off area and how important it was to bring students in the building under covered canopy so that covered canopy shown here, the area in brick with a higher metal panels on it is the cafeteria expansion, couple other views of this area.  One of the things that was talked about was to provide space outside for students to eat outside or to actually use it for educational opportunities like class projects. So you see some picnic tables out in front of the cafeteria expansion. Another view of that from here. And we're also looking at developing another area over towards the front of the building, which would be on the left of the screen. We're still working with our landscape architects on that and working with the design committee.  and then a final view looking at this cafeteria expansion from the front of Mountain View. Now the second addition, this is the two-story classroom addition at the back of Mountain View. This is a first floor plan.  The corridor is shown in yellow, and the corridor on the first floor will connect two existing areas of the building, the D wing, which would be the red arrow at the bottom of the screen, and then the two-story area at the back would be the red arrow on the right side. So those two corridors would be extended and connect through, so we have opportunities for more circulation around, covered circulation inside the building at Mountain View.  There will be three classrooms on this first floor. There are the areas in blue. Each of those classrooms will have its own toilet. That was an important item mentioned by the faculty meetings because it gives a lot more flexibility for these rooms to be used. And one of the rooms, classroom one, will have a larger toilet so it can accommodate a changing table. We're also looking at classrooms two and three to have a operable wall between them for even more flexibility.  The area in the reddish brown is a flex room that will probably be used for a faculty room on the first floor. This room is set up so it can be possibly divided in the half in the future. The dotted line going through the room going right to left shows that because it has two doors to it. We've also have a area of outdoor learning courtyard that's also in blue here. And we'll look at that in a second in a little more detail.  Also on this floor, we've got a storage room, an office and a lactation room. Big request from the faculty was a privacy room or for a lactation room. So that's incorporated in this design of the first floor for the two-story classroom addition. Second floor is very similar, although there's only one connection to the existing building because there's only one two-story area at Mountain View. And that's the red arrow over on the right.  Once again, we have three classrooms. These will be stacked over top of the classrooms down below for a total of six additional classrooms. There will be an office shown in the orange-yellow. And then there will also be another flex room. And this flex room can also be subdivided in half. There's a faculty toilet on both floors, so additional faculty spaces, toilet spaces. And then there'll be custodial space here.  At the bottom of the page is a stair. This is a two-story stair. We're adding another stair to Mountain View here. It's a access stair needed for fire codes. Some images of the classrooms. We spent a fair amount of time with the design committee looking at how to design the classrooms for maximum adaptability and use. We've got sliding marker boards over top of storage. We've got student cubbies.  We've got a sink in each one of the classrooms, casework, computer charging area, and then mobile monitors. We work with technology on developing the specifications for that. There's the last few showing the large windows at the back of each one of the three classrooms on the two floors.  This is an image of the fact like a flex room with a faculty probably be using this on the first floor once again we've got storage their sink refrigerator and flexible space. The outdoor.  learning courtyard that rectangular space. It's about the size of two classrooms. This is an initial design idea. We are still working with the design committee on how to develop this. Some of the important features here, lots of paved area. So there's not much in the way of maintenance of plants, no grass, but just it would be some ground cover and some trees. We're going to provide shade, probably a shade structure so that the area is very flexible for use.  during the warmer parts of the school year. And this area is being continued to be developed. A couple of exterior images of the classroom addition. It is a two-story. It will tie into the two-story portion of Mountain View. On the backside here, that's the upper left image. Once again, three classrooms on two floors or six classrooms at that addition. There are some interior renovations planned at Mountain View.  The red dots indicate original classrooms at Mountain View that will be getting new HVAC, a VAV unit at each one of those rooms. And we're gonna remove the abandoned HVAC from the original part of the building and rework those areas to add some more space to each one of the classrooms. The area of the black dot is the existing clinic, and that area will be renovated, made more useful.  The area in blue, the blue dot represents a mechanical room. We're going to have a replacement domestic water pump at Mountain View. How about outside the building? What we're looking at here are site improvements, including playgrounds, play fields, parent drop-off loops, additional parking. So the upper left corner of the screen, we're just going to show additional parking in that location.  We're going to have a bus loop and parent drop off improvements will show in a second that will shift to the south side of the Mountain View building. And then working our way around the existing play areas, we're going to set up in different grade levels. The red pre K K blue grades one and two yellow grades three through five and then we're going to do some improvements mainly drainage improvements at the existing play field.  On the left side of the screen are some images of similar types of installations that we're proposing here at Mountain View. Images one and two, there's a slope off the backside of the Mountain View building. And we're trying to utilize that slope and incorporate into it these proposed playground improvements. So we have things like slides or inclined climbing walls. Image three on the left shows some additional, or shows playground equipment.  The intention for this project is to replace all the existing playground equipment at Mountain View with new playground equipment. And items four and five, so some exterior areas with covered spaces for outdoor projects or covered spaces for outdoor dining. Once again, shade structures, items like that to allow for the outdoor area to be utilized as much as possible.  Site improvements, the upper left corner of the screen shows 26 additional parking spaces added to Mountain View off the existing lot at the front of the building. That is the northwest corner of the building. And then we're looking at bus loop improvements and parent drop-off improvements. The intention here is to try and get traffic off of Avon Street Extended and take it to the south portion of the building, bottom of the sheet here, for both parent drop-off and bus loop.  Triangles here indicate the direction for how this would work. The parents would be the red triangles, they would come on the site and go all the way down to the back of the building to a cul-de-sac that's added, turn around and come back and be able to drop off at the end of the gymnasium with a covered canopy that connects around to the front. And then the blue shows a  the same basic pattern for the buses that have now, but giving them the opportunity to exit in front of the building and up off to Avon Street at the top of the page at the Northwest corner. Once again, trying to get more separation between buses and parents, and also to move traffic off of Avon Street extended. Here's the schedule for the project.  Schematic design started back last year in September. We have schematic design approval from the school board in December of 2021. We are here tonight, March 10th, looking for school board review and approval for the design development portion of our project. Then we would move into construction documents from March to July. Did the project at the end of the summer and then construction to start in September and go through to October of next year. One thing we are monitoring  is material availability issues. Several items that we have heard and experienced that there are possible delays with or availability concerns with are including structural steel, roofing materials, and HVAC equipment. This is the project cost estimate for Mountain View. A couple items to note here.  Approved design budget $638,000. The approved construction budget $5.6 million. Now, we have mentioned back in the December schematic design approval meeting that these projected costs for this project are higher than the construction budget.  Right now, we are showing here a additional funding in the county executive recommended CIP of 2.2 million. There is also a CIP maintenance contribution for the playground of $175,000. All that totals up to $8.622 million of funding. Now, our estimate  When we say base bids, there's base bid estimate here. That would be basically the additions of the cafeteria and the addition at the classroom wing, along with the parking lot, 26 parking lot spaces and the playgrounds, $8.65 million. So what that comes out to is that we still think that we are $665,000  needed additional funding. So this 8.65 is the base bids, two bids there. We're separating the two bids out, the cafeteria addition and the two-story classroom addition. The blue area indicates bid alternates, one, two, and three. What these would be is these would be prices, separate prices we would ask general contractors to provide on bid day for each of those items.  Those items are bid separately, and they can be accepted or not, depending on funding and the desires of the school board. They do have to be accepted in order. In other words, if we wanted to do base bid two, we would also have to accept base bid one. So the order of those is important. Base bid alternate number one would be the original building HVAC classroom rentals,  that would be $575,000 plus another 275,000. That would be contributed by the maintenance CIP for HVAC. So that's actually $850,000. Interior building renos, $150,000. And then the bus loop parent drop-off improvements of $750,000. So you add those numbers up, it's 1.475 million.  as additional funding needed for the alternates. Now, I think Maya is available if we had any questions about potential funding sources.",
+    "speaker": "jackclark",
+    "tags": [
+      "give_update",
+      "request_action",
+      "logistics_info",
+      "defer_to_expert",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3629.237,
+    "end": 3673.458,
+    "text": "Thank you, Jack. I'm Maya Kumagawa, Director of Budget and Planning, and I just wanted to quickly jump in and mention the process of how we might address the funding needed above what's currently allocated.  Both the additional funding needed for basements and the additional funding needed for alternates will be included as part of the FY23 budget development process. In April, we plan on coming back to you with updates that include final state revenue projections and projected available one-time funds, which we will plan to build into next year's budget. At that time, we can discuss an adjustment in the one-time transfer to the CIP  as we prioritize our various capital needs known at that time.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "procedural_move",
+      "prioritization",
+      "clarify"
+    ]
+  },
+  {
+    "start": 3677.483,
+    "end": 3726.017,
+    "text": "Thank you, Maya. To finalize my part of the presentation, next steps, we are at staff is asking for design development approval to proceed with construction documents for the proposed additions or renovations at Mountain View Elementary School.  So that is tonight's presentation. Thank you so much for listening. Are there any questions that I could answer or staff could answer? Mr. Clark, with the HVAC replacement in the older part of the building, my big question is about environmental sustainability or keeping our footprint small.",
+    "speaker": "jackclark",
+    "tags": [
+      "give_update",
+      "request_action",
+      "public_addressing",
+      "ask_question",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 3726.79,
+    "end": 3741.321,
+    "text": " What standards for environmental sustainability do we have in the new construction and how will replacement of the HVACs in the older part of the building impact that?",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 3742.523,
+    "end": 3780.688,
+    "text": "Good question.  We are using a program that is already implemented. They're called Energy Star. And so anything we do relates to that and what's already happened out at Mountain View. And so I think the we are replacing systems in the existing building that are have already been replaced once. So we will. The newer system, I think, is a little bit more efficient, but you do actually have an efficiency over when the building was originally built.  But we are incorporating the energy source system into the design for the replacement HVAC.",
+    "speaker": "jackclark",
+    "tags": [
+      "give_update",
+      "clarify",
+      "cite_external_source",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 3782.591,
+    "end": 3805.753,
+    "text": "Just one more sort of divergent question. I couldn't tell in the schematic for the cafeteria whether those windows could open. We've been very focused on fresh air and such in the past three years, two years.  And I couldn't tell I saw that there was a door to the outside, but that's a great question.",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 3806.093,
+    "end": 3820.855,
+    "text": "We haven't gotten that far into the discussion, but we can definitely talk to the design committee about that and make sure that's a recommendation. We have always been talking about opening this building up to the outside and right so that would help that.",
+    "speaker": "jackclark",
+    "tags": [
+      "give_update",
+      "request_action",
+      "policy_proposal",
+      "reassure"
+    ]
+  },
+  {
+    "start": 3824.227,
+    "end": 3829.717,
+    "text": " And it looked like those in the schematic for the classrooms did open. I would hope that that was the case.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3830.258,
+    "end": 3830.679,
+    "text": "Yes, ma'am.",
+    "speaker": "jackclark",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 3831.761,
+    "end": 3832.102,
+    "text": "Thank you.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3833.083,
+    "end": 3833.444,
+    "text": "Thank you.",
+    "speaker": "jackclark",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3833.464,
+    "end": 3844.665,
+    "text": "There are other questions for Mr. Clark or Ms. Hoopman related to Mountain Views development addition.",
+    "speaker": "grahampaige",
+    "tags": [
+      "follow_up_request",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3846.097,
+    "end": 3866.516,
+    "text": " Mr. Clark, by looking at the photos or the renderings of the schematics of the classrooms, what's the assumption for the number of students in those? It looked like they would be about 20. Is that kind of the assumption? Yes, sir, that is.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 3868.718,
+    "end": 3874.183,
+    "text": "OK. Well, I think that at times there might be a few more students, but that's the general assumption. Yes, sir.",
+    "speaker": "jackclark",
+    "tags": [
+      "acknowledge",
+      "opinion",
+      "hedge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 3875.545,
+    "end": 3875.985,
+    "text": "Thank you.",
+    "speaker": "henrymathew",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3881.045,
+    "end": 3920.088,
+    "text": " I had a question and it was someone else speaking. I was just gonna I was kind of wondering about the process I guess i'm getting a little nervous because we're so much over what was the estimated cost, I guess, I would like a little bit more information about why.  why that is, is this something we should expect when we have future? I mean, because we started at 5 million something and now it's up to eight just to get the base with another 1.4 to get the, you know, is it, I'm sure things change as we went and COVID things, but I guess I'd like to hear why we were so off in our original estimate.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "follow_up_request",
+      "clarify",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3920.228,
+    "end": 3994.618,
+    "text": "Good point. Good question. Two areas here. One is we are proposing more square footage than the original budget had. We found as we did,  investigations, discussions, meetings out at Mountain View, there were more needs than just general classrooms. The educational programs that they have out there for their students, they do need more spaces, more flexible spaces and smaller spaces. So we're trying to provide those. So there is more square footage. It's a bigger addition for the classroom area. It's also a bigger addition for the cafeteria. It isn't just a cafeteria expansion. It's also a new entrance. And it also includes some,  individual restrooms. The second part of this is that there are significant changes in the construction bid market these days. Prices have gone very much higher than they were several years ago when this project was first planned. A lot of it is to do with material availability issues, supply chain type issues. Also, even the labor market or construction labor is tighter than it was.  So those are the two issues. It's scope, size of the additions, and then the cost of construction.",
+    "speaker": "jackclark",
+    "tags": [
+      "give_update",
+      "clarify",
+      "logistics_info",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3997.381,
+    "end": 3997.742,
+    "text": "Thank you.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3999.764,
+    "end": 4000.545,
+    "text": "You're welcome. Thank you.",
+    "speaker": "jackclark",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4003.909,
+    "end": 4004.87,
+    "text": "Are there other questions?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4006.912,
+    "end": 4049.57,
+    "text": "I don't know if the question is for you, Mr. Clark, or Ms. Hoopman, or Maya Kamizawa.  Remind me of how many additional students we can accommodate with these six classrooms. And I'm asking because although our long-range planning advisory committee recommended three new elementary, well, two new elementary schools and planning for a third one, which would be in this feeder pattern, we have, that's not what we got. And so this is going to have to last longer than five  to 10 years probably. So what is the additional student capacity we're talking about?",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "clarify",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 4050.931,
+    "end": 4071.972,
+    "text": "Well, the basic answer is six classrooms times, we'll say 20 students per classroom is about 120 students, additional capacity. And we do have some other support spaces. And sometimes those are assigned a number. Sometimes it's eight students per support space. So it's 120 plus, as I'd say, is the answer to that.",
+    "speaker": "jackclark",
+    "tags": [
+      "give_update",
+      "clarify",
+      "logistics_info",
+      "hedge"
+    ]
+  },
+  {
+    "start": 4072.188,
+    "end": 4085.848,
+    "text": " Right, I was just trying to recall. I think we're already at about 660 at Mountain View. Is that about right? OK. Thank you. You're a big school.",
+    "speaker": "kateacuff",
+    "tags": [
+      "give_update",
+      "ask_question",
+      "hedge",
+      "acknowledge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 4089.453,
+    "end": 4090.474,
+    "text": "Are there other questions?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4094.68,
+    "end": 4113.921,
+    "text": "When this construction is completed, and this is in part to Dr. Ako's comments,  Will the learning cottages still be in use there while the other potential elementary school is in the process of construction?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 4117.847,
+    "end": 4122.113,
+    "text": "I believe the answer to that is yes.",
+    "speaker": "jackclark",
+    "tags": [
+      "agreeing",
+      "hedge"
+    ]
+  },
+  {
+    "start": 4122.173,
+    "end": 4131.827,
+    "text": "You're right, Jack. That's a yes. We'll need that space for the programs until the new school is built.",
+    "speaker": "sheilahoopmann",
+    "tags": [
+      "acknowledge",
+      "agreeing",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 4134.878,
+    "end": 4168.537,
+    "text": " I think that has to be the case for assuming growth, because I think the original part of this project centered around being able to keep the fifth graders at Mountain View and keep them in the building, but with a growth factor in there before the other school is built. I understand why you're saying yes to the need to keep the,  The learning cottage is not crazy about it, but I understand what you're saying.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "opinion",
+      "agreeing",
+      "acknowledge",
+      "conceding"
+    ]
+  },
+  {
+    "start": 4174.464,
+    "end": 4182.012,
+    "text": "Thank you. Are there other questions for Mr. Clark or Ms. Hoopman?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4183.193,
+    "end": 4188.259,
+    "text": "I just saw on the schematic solar tubes, and I didn't know what that was.",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 4189.28,
+    "end": 4197.768,
+    "text": "Those are like skylights, but they are like enhanced skylights.  We want to put those down in that existing classroom down from above.",
+    "speaker": "jackclark",
+    "tags": [
+      "clarify",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 4200.671,
+    "end": 4204.435,
+    "text": "Okay. Thank you.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4204.455,
+    "end": 4209.501,
+    "text": "All right. So about, so all of the rooms then would have some form of natural sunlight coming in.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4210.302,
+    "end": 4222.035,
+    "text": "We're trying to put as many windows in as possible. Yes, sir. All the, all the new classrooms and the flex room would, and several of the offices would as well. And of course the cafeteria expansion. Okay.",
+    "speaker": "jackclark",
+    "tags": [
+      "give_update",
+      "clarify",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 4222.055,
+    "end": 4248.549,
+    "text": "Thank you.  All right, if we have no more, if we don't have any other questions, we do need a motion to approve the design development at this point so that the process can move forward or the project can move forward. So do we have a motion to that effect?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "vote_call",
+      "request_action"
+    ]
+  },
+  {
+    "start": 4248.569,
+    "end": 4253.293,
+    "text": "I move that we approve the design development so that we may move forward with this project.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "procedural_move",
+      "request_action"
+    ]
+  },
+  {
+    "start": 4254.64,
+    "end": 4255.181,
+    "text": " Second.",
+    "speaker": "kateacuff",
+    "tags": [
+      "procedural_move",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 4256.982,
+    "end": 4274.239,
+    "text": "All right, moved by Ms. Osborne, second by Dr. Acuff that we approve the design development so that the project can move forward. Is there any discussion on the motion? If not, Ms. Johnson.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4276.561,
+    "end": 4287.082,
+    "text": "Ms. Lee? Yes. Dr. Acuff? Yes. Mr. Alcaro?  Yes. Ms. Osborne.",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4287.803,
+    "end": 4288.043,
+    "text": "Yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 4288.664,
+    "end": 4292.588,
+    "text": "Ms. Colson. Yes. Mr. Page.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4293.389,
+    "end": 4293.669,
+    "text": "Yes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4294.731,
+    "end": 4295.331,
+    "text": "Motion carried.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4296.132,
+    "end": 4305.262,
+    "text": "OK, thank you, Ms. Johnson. And thank you, Mr. Clark and Ms. Hoopman, for your presentations to us tonight. Thank you very much.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4305.302,
+    "end": 4307.124,
+    "text": "We appreciate it. Thank you.",
+    "speaker": "jackclark",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4310.308,
+    "end": 4315.702,
+    "text": "Our next item on the agenda is a COVID-19 update.  Dr. McLaughlin.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "request_action"
+    ]
+  },
+  {
+    "start": 4317.324,
+    "end": 4637.908,
+    "text": "Hi, good evening again, school board members. Pat McLaughlin, Chief of Strategic Planning. And I'm here tonight with Rajon Schmidt, our Chief Operating Officer, and Ryan McKay from the Blue Ridge Health Department to give you a bit of an expanded COVID-19 update. So let's get started.  The first piece that we wanted to share was that since the last time we have spoken, the metrics for community spread have changed pretty significantly. I imagine you heard about that a couple weeks ago on February 25 when the CDC updated everything. And so I want to just take a few minutes to walk you all through the new metrics that we're using around community spread.  So the CDC has three thresholds that we're looking at now. The first is the number of new COVID-19 cases per 100,000 people over the past seven days. We call that the case incidence rate. That should be familiar to everyone. That's one of the metrics we've been using for quite a while. But they've split it into two thresholds now, fewer than 200 cases and more than 200 cases.  Where it where it gets significantly different is that the other two metrics that they have us look at are based on the impact covert is having on our hospital capacity. The first of those is the number of new covert 19 admissions per 100,000 people over the course of the past seven days.  And the second is the percent of staffed inpatient beds occupied by patients with covert 19. You can see that these have different metrics low, medium and high based on how many based on your case incidence rate, and how many cases you've seen over the past seven days.  One drawback that we've seen for this, this new metric is that it's only updated once a week, and it's updated on Fridays. So the board as we're updating the board on Thursdays we're probably getting the oldest information that is out there. So we can still get the individual daily metrics and I wanted to share those with you, because currently as of, as of last Friday, our level in Albemarle County was still high.  When I went in today to our levels, our case incidents rate had dropped to 134 putting us in the fewer than 200 category.  Our new hospital admissions had dropped to 9.4, putting us in the low category. And our percent of staffed inpatient beds had dropped to 5.1%, also putting us in the low category. So while I can't truly see into the future, I'm anticipating that with tomorrow's update, we will be in the low category. I would say definitely the medium, but more than likely, we will be in the low category. So we can watch that on Friday when it comes through.  So in addition to that, we also continue to look at our community vaccination statistics. And as always in the pandemic, we have had really high levels of vaccination, both for the state of Virginia and my guess is nationally as well, with over a nearing 70% of our 5 to 11 year olds who have had at least one dose and into the 90s of our 12 to 17 year olds with one dose of the vaccination.  And then one of the final pieces we look at is the level of school impact. We have seen trans the number of cases in our schools dropped significantly since they peaked back in January.  who are home on isolation or quarantine yesterday was at one of the lowest I've seen I think 110 students, or less than 1% of our student body was being quarantined those numbers were up in the 600s. At some points during the height of the latest outbreak.  So we are seeing at the level of school impact we have labeled our transmission within the schools low because of those those number of cases total cases last week were 48 students and 10 staff cases, our attendance rate, we think is kind of returned to baseline.  The attendance on three nine was 94% students in attendance and an additional point 8% home for quarantine and isolation. And here's where I wavered a little bit on the staff capacity because our, our staff capacity. We only had 10 teachers out when we checked on Tuesday for code for reasons related to coven.  That's a number that's one of the lowest we've seen in a while. But we did have, teachers are out for other reasons, right? So we had a total of 84 staff absences that day. We know that whenever we have staff who are absent from our buildings, that puts a strain on us because we have struggled this year with finding substitute teachers. As you all know, in the budget, we've got a number of pieces designed to address that, both this year and next year. So hopefully we'll see some relief  in that area soon. So those are the metrics that we wanted to share with you tonight. And I'm happy to say that we've got Ryan McKay with us again from the Blue Ridge Health District, who's going to give us a brief update on what they're seeing from the health district perspective in the community. Ryan, are you there?",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "public_addressing",
+      "defer_to_expert",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 4639.711,
+    "end": 4718.672,
+    "text": " Yes, thank you, Dr. McLaughlin, and thank you to the board for having me yet again. So Dr. McLaughlin presented a lot of the great data points that we would expect to see. Everything is trending downward, aside for one week in February where we had an increase in case incidents in Albemarle County. We've been on a very steep decline since mid-January, and we don't foresee anything changing in that sense, both in terms of Albemarle County, but overall with the health district.  Ancillary to that, our testing in the county and in the health district remains highly accessible. There's plenty of free testing, regardless of the reason why people are getting testing in the Charlottesville area, and we'll continue to operate a similar schedule. But we have been, at least through March, we may make some modifications in April as demand continues to decrease.  but we don't foresee any significant changes. It would certainly be able to ramp up a little bit more if testing were required. Hospitalizations continue to go down. That's a little bit of a lagging number just based on how long it takes for individuals to go from being sick with COVID to being hospitalized and then being discharged. But all of that looks to be headed in the right direction as well.",
+    "speaker": "ryanmckay",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "reassure",
+      "hedge",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4722.179,
+    "end": 4739.378,
+    "text": " So thanks Ryan and Ryan is going to stick around through the remainder of the presentation, because we're going to turn things over to Miss Schmidt right now to give us an update on where we kind of our plans for moving forward through the rest of this year and into next year, Miss Schmidt.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "procedural_move",
+      "give_update",
+      "request_action",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4739.594,
+    "end": 5178.718,
+    "text": " Thank you, Dr. McLaughlin. I'm Rosalyn Schmidt, Chief Operating Officer. As we turn the corner towards the end of this school year, and as we started to develop what our spring COVID mitigation strategies will be, we first established what our goals will be with our spring plan. And these goals are outlined here. First, we want to continue to maintain a safe environment for our students and staff.  Second, we want to align with the most current public health guidance. We are currently not in alignment with certain recommendations, so you'll see a common theme of this plan is to better align. Since the beginning of the pandemic, we have followed the recommendations of the CDC, VDH, and Blue Ridge Health District, and we want to continue to do so.  Third, we want to be transparent and communicate any changes. We know anytime we discuss changes, we know that we will be met with different thresholds of acceptance. So we want to make sure that we are committed to transparency and clarity of these changes. And lastly, we want to begin to transition to an endemic state with more sustainable infection control practices than what we currently have.  So we've organized this plan into four categories. First, I will go over changes that will occur this month and related to student masking and our quarantine and isolation timelines. Next, we'll go over changes that will occur next month related to contact tracing. Third, we have a category of practices that will not change for the remainder of the school year. And lastly, we have items that operationally we cannot change and that are instead governed by the school board policy or resolution and cannot change until you as a board take action.  So, starting this month, there are two key changes. One has already occurred, and that was effective March 1st masks are optional for students per the new state code. But second, effective March 14th, we will reduce some quarantine and isolation timelines to be more in line with CDC and VH guidance.  Quarantine refers to an exposure. Someone who is identified as a close contact and is not up to date on their vaccines at this point must quarantine. Currently our practice is 10 days, but we will now reduce that to five days, which is the CDC and VDH guidance. And it's five days from the last date of exposure, but they must remain asymptomatic and they must have a negative test. So we've developed some tests to return procedures and those apply to both students and staff.  Isolation, that refers to when a person has tested positive for COVID-19 and has to stay home. For staff, we will reduce that timeline now to five days, assuming certain conditions are met. They must be fever free, their symptoms have improved, and a negative test on day five or later. They also must consistently wear a mask and distance when around others on day six through 10.  Our isolation timeline for students, however, will remain at 10 days. We acknowledge that the CDC and VDH guidance does give a five-day option, but part of that guidance is that the individual masks for days six through 10. Unfortunately, the removal of our mask requirement creates risk in a scenario where we can't require masking, and furthermore, it's difficult to manage logistics of schools such as eating and other times when a mask has to be removed.  So those are changes that are happening this month. So fast forward to next month in April. In April, we will suspend contact tracing for individual cases and utilize only when there are outbreaks and sustained transmission. So contact tracing refers to the process in which our school nurses and infection control team members identify who has been exposed when someone has COVID-19 and has been in school while contagious.  We will suspend those efforts, but isolation practices will remain and quarantine practices for household members will still be expected. This change aligns with the current guidance of the VDH, which is that schools are no longer expected to contact trace every individual case and matches the health district's current practice for community cases. Again, going back to that second goal of being in alignment with the current guidance.  It is current guidance, but we are not doing it sooner because we want to ensure we know the impact of the mask policy. So to date, we have had very limited conversions of those quarantined individuals turning into positive cases. So we are confident in removing that risk mitigation, but again, we want to ensure that the removal of masks does not impact our transmission rates.  And then the other change that will occur in April is that we will modify requirements for a negative test or a doctor's note. Our current practice is to exclude any student who is displaying any symptom of COVID-19 and require either a negative PCR test or a doctor's note before returning.  We know one of our best mitigation strategies is to ensure sick kids stay home, but as we enter the spring allergy season and our case rates go down and PCR testing availability in our community may be less accessible, this approach may no longer be practical. So more work to come on this, exactly what this will be, but there will be modifications. We wanted to foreshadow that change.  So then the third category is that these are the practices that we plan on keeping for the remainder of the year. These include maximizing social distancing, including during lunch. We will continue to maintain a signed and consistent seating charge, encouraging eating outdoors, frequent hand-washing, all of our improved ventilation strategies. We wanna keep our commitment to the transparency. So we will maintain our COVID case dashboard. So the families and staff know how many cases are in our schools.  We will continue to maintain testing sites for employees and masks will continue to be available for students and staff. So the last category I want to touch upon are those items that require board action. And that includes our staff and visitor mask requirement, as well as our staff vaccination or weekly test requirement.  Some timing considerations are identified here, including the community levels and current CDC guidance on masking, the easing of the DOLI requirements, which are workplace requirements requiring masks that have gone away, and then just timing consideration of the overall context of all the other changes going on and when changes to these two policies may be considered. In addition to these topics,  had a school health advisory board last night and they talked about this plan and these items as well. They did not come to consensus as they acknowledge that there are many paths forward, but there was general consensus that any change in mitigation strategies should be tied to the level of community transmission. So we will share the full minutes of their discussion once finalized, but that occurred last night.  So in summary, here is our spring plan, our goals that I went over, the four goals, and then the list of changes that will occur this month, next month, that won't change, and then ones that require board action. So with that, I'll open it up for questions and any discussion.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "policy_proposal",
+      "prioritization",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 5189.296,
+    "end": 5216.518,
+    "text": " Any questions for Ms. Schmidt or Mr. McKay or Dr. McLaughlin? Ms. Schmidt, you said that the Health Advisory Committee didn't come up with any recommendations at all for staff masking or any of those other controversial items, right?",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 5217.646,
+    "end": 5223.133,
+    "text": " They did not, we didn't take a vote or anything, but we can share the comments of their discussion.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "give_update",
+      "clarify"
+    ]
+  },
+  {
+    "start": 5224.154,
+    "end": 5224.554,
+    "text": "Yeah. Okay.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5226.176,
+    "end": 5241.294,
+    "text": "All right. I for one would love to hear some of those comments because that sure would weigh on, I think, many of our decisions.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "follow_up_request",
+      "opinion",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5242.095,
+    "end": 5247.602,
+    "text": "Right. Yeah, Ms. Smith, could you share some of the comments?",
+    "speaker": "grahampaige",
+    "tags": [
+      "request_action",
+      "follow_up_request",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 5248.493,
+    "end": 5317.684,
+    "text": " Yeah, so I so there are draft minutes. And so, Miss Gomez has circulated to that board, once approved we would be happy to share them, I can go over some of them but I would like their formal approval before formally sharing but you have that next meeting, but again, the consensus was it really made sense to tie some of those decisions to community level so when community levels are low.  it would be appropriate to remove a requirement around testing, for example. But they also talked about some of the values of keeping masks, right? So it's modeling for students. It's normalizing mask wearing. And so it's hard to capture a single focus.  They also discussed around, you know, we don't necessarily need as the same policy for staff and visitors, right? So they talked about the scenario. Right now, our visitor policy applies to weekend use activities, right? They feel it's not necessary for those building, you know, users that don't have anything to do with students still having a mask requirement. So they were in favor of setting a standard and then a timeframe for when masks can be optional.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "policy_proposal",
+      "clarify",
+      "request_action"
+    ]
+  },
+  {
+    "start": 5322.203,
+    "end": 5326.988,
+    "text": " but no particular time frame on their part in terms of a recommendation.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "clarify",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 5331.332,
+    "end": 5379.693,
+    "text": "OK. I mean, we are in a situation where we do have a lot of vulnerable students, including certainly at our elementary schools. We have pre-K classes where students are not even eligible for getting a vaccination.  and they may be at particularly high risk. I guess a question I have for Mr. McKay is what are the current CDC guidelines for school staff and teacher mask wearing? Or is it, as Ms. Schmidt said, tied to community?  COB, Dan Burke, He, Him, His. : levels. CoB, Dan Burke, He, Him, His.",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "request_action",
+      "clarify"
+    ]
+  },
+  {
+    "start": 5379.673,
+    "end": 5397.263,
+    "text": ": yeah the recommendations are going to be tied to the levels that they've posted. CoB, Dan Burke, He, Him, His. : So anything in the high category would recommend masking indoors anything below there's not going to be necessarily a recommendation for that. COB, Dan Burke, He, Him, His.",
+    "speaker": "ryanmckay",
+    "tags": [
+      "clarify",
+      "give_update"
+    ]
+  },
+  {
+    "start": 5397.243,
+    "end": 5415.481,
+    "text": ": And miss Smith. COB, Dan Burke, He, Him, His. : We can use, for example, this weekend spelling be.  will have both students and a lot of visitors. So that's, I don't know if that's an exception to your comment, but it's not as clean a line as one might think.",
+    "speaker": "kateacuff",
+    "tags": [
+      "clarify",
+      "express_concern",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 5423.11,
+    "end": 5427.355,
+    "text": "Are there any other questions for our panel?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 5432.06,
+    "end": 5450.611,
+    "text": " Just a question, Ms. Schmidt. It appears that we won't have a recommendation from the School Health Advisory Board. So is that OK? I mean, we will have the minutes of their discussion, but we won't have a recommendation.",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 5451.492,
+    "end": 5467.797,
+    "text": "That's correct. Now, if you provide direction, we could seek one.  I mean, our hope is if you want to continue this conversation, what additional information would you like to help this discussion? And so that's something that we could seek if that's the board desires.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "acknowledge",
+      "request_action",
+      "follow_up_request",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 5474.388,
+    "end": 5497.836,
+    "text": "OK, thank you, Ms. Smith. All right.  Maybe we can just sort of pull the board members to see where you stand as of this moment with requiring a mask for our staff. So starting first with Dr. Acuff, how do you stand on that item?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 5502.424,
+    "end": 5530.309,
+    "text": "It's more complicated.  I would tend to favor mask wearing of our teachers in classrooms where we have vulnerable students. Although I'm not certain I would support continued requirement for testing weekly for the teachers and staff. I mean, that's sort of messy, but that's about where I am right now.",
+    "speaker": "kateacuff",
+    "tags": [
+      "policy_proposal",
+      "opinion",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5531.977,
+    "end": 5548.737,
+    "text": " But you are saying mask, you would prefer I would, I would, I can be persuaded otherwise, but my inclination is to support continued masks wearing.",
+    "speaker": "grahampaige",
+    "tags": [
+      "opinion",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5550.826,
+    "end": 5592.595,
+    "text": " at this point for at a minimum the classroom, well, people in schools. I mean, it'd be cleaner to do it with all staff until we get some official numbers from the health department. We have heard from quite a few of our  parents about vulnerable students in the schools. And even though we only have about 300 pre-K kids, that's quite a few kids that have absolutely no, no avenue to getting vaccinated at this point.",
+    "speaker": "kateacuff",
+    "tags": [
+      "policy_proposal",
+      "express_concern",
+      "prioritization",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 5595.778,
+    "end": 5598.101,
+    "text": "Okay, thank you, Dr. Acuff. All right, Mr. Alcarro.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 5602.727,
+    "end": 5724.647,
+    "text": "Mine's a little messy too.  PB, David Ensign --\"I intend to reach out to my member of the  School Health Advisory Board to get her thoughts on it. She's always been extremely valuable to me in any decisions that I make. I have to say that I'd be willing to potentially favor, and this is a fine line in terms of the phraseology, I could favor suspending the masking requirement  based on the numbers that we're seeing locally and in light of what Mr. McKay is saying about our local situation. But I don't support rescinding the requirement.  just yet. Maybe it's trying it. I don't know if another variant or strain is going to raise its ugly head between now and the end of the school year. In which case, I would favor reinstating masking for teachers and staff. But I'm hopeful that in either case, we will be able to  not have the requirement for anybody, you know, when we start school again in August. So bottom line, I would say that I'm in favor of suspending the masking requirement in light of local community results, but I think we should kind of  not completely wipe it out, just suspend it for the time being and with an eye to reinstating it if conditions require it.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "opinion",
+      "policy_proposal",
+      "hedge",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 5728.773,
+    "end": 5731.577,
+    "text": "Thank you. All right, Ms. Cawson.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5735.894,
+    "end": 5801.638,
+    "text": " I think both Ms. Acuff, Dr. Acuff, and Mr. Alcaro's comments were well said. I would say I am on the more lenient side. I am okay with reducing our requirements on teachers. They're adults, they have the chance to be vaccinated. The best argument I heard was Kate's, where in classrooms where students don't have that option, that's probably where I would see more of an argument towards requiring teachers to be masked.  I will just say my mom, who is a teacher in Alexandria, which is a bigger, you know, which is more urban setting, they've relaxed their masking requirements. And although at first she was really nervous about it, she has talked about how it has really changed the environment in a way that it feels  She doesn't feel less safe, and she appreciates that they were given the option. So that's where I stand. I'm OK. As long as we're abiding by the guidelines that are coming from the Thomas Jefferson Health District or the Health District, then I'm OK with that.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "opinion",
+      "agreeing",
+      "acknowledge",
+      "defer_to_expert",
+      "reassure"
+    ]
+  },
+  {
+    "start": 5802.639,
+    "end": 5807.768,
+    "text": "OK, thank you, Ms. Costa. Ms. Lee.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5808.469,
+    "end": 5884.785,
+    "text": "I think that, yeah, everyone has had  very sound arguments on this. I feel like it's just one other uncharted territory that we've been in for the past two years. I would tend to lean toward the arguments that Dr. Acuff made about just keeping our immunocompromised  and ineligible students and their families safe. So I feel like we've been in this position before where we all had hope and I am just very concerned about Child of Omicron.  son of other Greek letter coming at us. And I just, I want to make sure that that doesn't catch us flat footed. So my tendency would be to keep the masking for now and see if we really can get rid of it at some point. But as also, as Dr. Acuff said, I would be okay with relaxing the testing policy.",
+    "speaker": "judyle",
+    "tags": [
+      "opinion",
+      "express_concern",
+      "agreeing",
+      "policy_proposal",
+      "prioritization",
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5887.364,
+    "end": 5889.947,
+    "text": " Thank you, Ms. Lee. Ms. Osborne.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 5891.689,
+    "end": 5925.74,
+    "text": "I'm definitely fine with relaxing the testing policy. And I think I would like to see more than one low transmission week before we did anything, assuming that tomorrow tells us we're a low transmission week. I also think that maybe we don't have enough information yet because it's only been, what, two weeks since the students  have been unmasked and I feel like I would want the information from the School Health Advisory Board. But I'm not dead set on one way or another right now.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "opinion",
+      "policy_proposal",
+      "defer_to_expert",
+      "request_action",
+      "express_concern",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5927.763,
+    "end": 5974.581,
+    "text": "Okay, thank you. All right, I too would be in favor of right now remaining without teachers and staff continuing to wear masks because of all of the unknown factors that everyone else has cited here.  And also, I think most of our students are still wearing masks, even though it's not really required. So until maybe we have, I would like to receive a recommendation maybe from the Health Advisory Committee, and then we can probably use that to help us make a decision on this.  But let's also ask Ms. Alboran, our student rep, since you are on the front lines each day, your thoughts on that.",
+    "speaker": "grahampaige",
+    "tags": [
+      "opinion",
+      "express_concern",
+      "defer_to_expert",
+      "request_action",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 5974.601,
+    "end": 6001.212,
+    "text": "I personally think that teachers should keep their masks on. I think it's setting an example to many students, especially the younger ones, who look up, many of the teachers. And also just keeping families safe, the ones, the elderly.  making sure that families are protected with this COVID problem.",
+    "speaker": "elizabethalbarran",
+    "tags": [
+      "opinion",
+      "policy_proposal",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 6001.232,
+    "end": 6027.785,
+    "text": "Okay, thanks, Ms. Albert. All right, so the consensus appears to be to keep masks on for our staff, but can we have a consensus or an agreement to ask our Student Health Advisory Board  for a recommendation on this and then discuss this again at our March 24th meeting?",
+    "speaker": "grahampaige",
+    "tags": [
+      "request_action",
+      "ask_question",
+      "follow_up_request",
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 6031.929,
+    "end": 6035.212,
+    "text": "I would support that. Same.",
+    "speaker": "kateacuff",
+    "tags": [
+      "agreeing"
+    ]
+  },
+  {
+    "start": 6036.013,
+    "end": 6037.354,
+    "text": "Sounds good.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 6037.374,
+    "end": 6049.806,
+    "text": "Okay. All right then. All right, so Ms. Schmitz, could you take that back to the school advisory committee and let them know that we'd like a recommendation?",
+    "speaker": "grahampaige",
+    "tags": [
+      "request_action",
+      "follow_up_request",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6053.245,
+    "end": 6054.146,
+    "text": " Okay, thank you.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6056.569,
+    "end": 6058.591,
+    "text": "And thank you- Chair Page. Yes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 6059.052,
+    "end": 6076.172,
+    "text": "We want recommendation with respect to A, the continuing mandate on vaccinations and testing, and B, whether masking should be optional for teachers and staff. That's what we're asking?",
+    "speaker": "kateacuff",
+    "tags": [
+      "clarify",
+      "ask_question",
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 6076.913,
+    "end": 6082.42,
+    "text": "Yes, right. Okay, thank you. All right, and you did get those two points, right, Ms.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 6082.44,
+    "end": 6090.786,
+    "text": "Schmidt?  Yes. OK, thank you. Yes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 6094.012,
+    "end": 6100.182,
+    "text": "I should know this, and I know that Dr. McLaughlin will. When is our spring break?",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "acknowledge",
+      "defer_to_expert"
+    ]
+  },
+  {
+    "start": 6100.203,
+    "end": 6107.535,
+    "text": "We start it's the first week of April, so I believe that is that Monday is April 4th that week.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "logistics_info",
+      "clarify",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6108.41,
+    "end": 6123.57,
+    "text": " So we would have an opportunity at our next school board meeting to consider changing the rules effective when spring break is over. That would be one option of many.",
+    "speaker": "kateacuff",
+    "tags": [
+      "policy_proposal",
+      "logistics_info",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6125.172,
+    "end": 6131.119,
+    "text": "Yeah, because our next meeting, I think, is scheduled for April. I mean, for March 24. Right. Oh, yeah. Right.",
+    "speaker": "grahampaige",
+    "tags": [
+      "logistics_info",
+      "clarify",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6132.381,
+    "end": 6132.762,
+    "text": "Thank you.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6134.183,
+    "end": 6161.631,
+    "text": "Any other discussion on that item before we move on?  Okay, if not, thank you, Dr. McLaughlin and the entire team that presented to us that information. Our next item, approval of funding request for the 22-23 year. Ms. Kumazawa.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 6162.993,
+    "end": 6195.927,
+    "text": "Thank you. Good evening, school board members. I'm Maya Kumazawa, Director of Budget and Planning.  Thank you all for your engagement during the budget work sessions this year. This evening, I will facilitate the approval of your FY23 funding request. Before I do that, though, I wanted to take a moment to provide you with a state budget update as it relates to the development of next year's budget. Late last week, the Senate and House versions of the biennial budgets were released, and on this slide is a summary of the two directions that the final conference budget could take.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "public_addressing",
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6196.767,
+    "end": 6208.104,
+    "text": " A full summary is included in electronic school board on this agenda item as an attachment and all the details can be found on the Virginia Department of Education website.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "logistics_info",
+      "cite_external_source"
+    ]
+  },
+  {
+    "start": 6209.466,
+    "end": 6221.323,
+    "text": "In the first column are the state revenue assumptions used in the draft funding request based on the governor's introduced budget in December. This slide just pulls out some of the more significant changes in the new budget versions.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "clarify",
+      "cite_external_source"
+    ]
+  },
+  {
+    "start": 6222.113,
+    "end": 6230.907,
+    "text": " Total operating funds from the governor's budget are about $65.9 million, in addition to $3.6 million in CIP funding.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 6231.789,
+    "end": 6246.433,
+    "text": "The purple section in the middle of the table shows the relative change from the governor's budget to the House version of the budget. Basic aid, sales tax, and sales tax hold harmless are shown together due to the formulas for these items being intertwined.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "clarify",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 6247.004,
+    "end": 6253.914,
+    "text": " While there is an overall increase in this area in the House budget, it is offset by a significant decrease in at-risk funding.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "clarify"
+    ]
+  },
+  {
+    "start": 6255.076,
+    "end": 6275.627,
+    "text": "In addition, the salary increase has dropped 4% in both FY23 and FY24. As a reminder, we can still implement a salary increase as proposed by ACPS that is different from this. The state's portion, however, of the cost of our salary increase will be reduced accordingly in FY23 and in future years.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "clarify",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 6276.417,
+    "end": 6281.964,
+    "text": " In addition, $3.6 million in school construction funding is eliminated in the House version.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update"
+    ]
+  },
+  {
+    "start": 6283.305,
+    "end": 6403.504,
+    "text": "On the other hand, the portion in the blue shows the relative change from the governor's budget to the Senate version of the budget. Here, you will see a significant increase within basic aid, sales tax, and sales tax hold harmless. The assumptions for the salary increase and school construction funds remain unchanged.  We're strongly in favor of the Senate budget and urge this version forward to provide more benefits to ACPS. We will move on next to our funding request. The current version of the request remains the same as the draft funding request presented by Dr. Haas on February 17th. It is a balance and needs-based request of $242 million in revenues and expenditures.  a $30.8 million increase, or 14.6% over the FY22 adopted budget. The revenues that support this budget include a local transfer of $167.5 million, as included in the county executive's recommended budget. Here's a breakdown of the funding requests. $178 million, or 74% of this budget, is dedicated to instruction,  and represents a $23 million increase from the prior year of the $30.8 million total expenditure increase. Other categories for expenditures include administration attendance and health, technology, building services, transportation, and transfers. In addition to our school fund operating funds, the funding request includes $20.8 million in special revenue funds.  These funds are also balanced based on each individual funds projected revenues and expenditures for next year. At this point, we recommend that the school board adopt the funding request. Is there a motion to do so?",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "request_action",
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 6410.092,
+    "end": 6425.359,
+    "text": "I move that we adopt the superintendent's funding request.  for 2022-23. Do I need to say the numbers?",
+    "speaker": "kateacuff",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 6431.426,
+    "end": 6445.802,
+    "text": "You can. The funding request of $242,041,753 and $20,842,976 for special revenue funds.",
+    "speaker": "grahampaige",
+    "tags": [
+      "give_update",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 6447.905,
+    "end": 6448.225,
+    "text": "Second.",
+    "speaker": "kateacuff",
+    "tags": [
+      "procedural_move",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 6450.044,
+    "end": 6469.309,
+    "text": " Moved by Dr. Acuff, seconded by Ms. Lee, that we adopt the superintendent's budget request with the figures that's shown to us now on the screen. Any discussion on the motion? Any discussion?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 6470.731,
+    "end": 6475.157,
+    "text": "I don't think we were calling it the superintendent's budget request, were we?",
+    "speaker": "ellenosborne",
+    "tags": [
+      "clarify",
+      "ask_question",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6476.926,
+    "end": 6486.522,
+    "text": " And now on the agenda, it's just called the school board, well, the funding request. Not really listed with a title.",
+    "speaker": "grahampaige",
+    "tags": [
+      "clarify",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 6486.982,
+    "end": 6491.069,
+    "text": "Not that it matters, but I thought the purpose was for all of us to have ownership of it.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "clarify",
+      "opinion"
+    ]
+  },
+  {
+    "start": 6491.81,
+    "end": 6492.712,
+    "text": "Oh, okay. All right.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6493.353,
+    "end": 6496.137,
+    "text": "You're right, Ms. Osborne. That was my mistake.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "conceding"
+    ]
+  },
+  {
+    "start": 6496.678,
+    "end": 6521.144,
+    "text": "Okay. So the motion is  basically to approve our budget request of 242 million for school funds and 20.8 million for special revenue. Any other discussion? If not, Ms. Johnston, could you please call the roll?",
+    "speaker": "grahampaige",
+    "tags": [
+      "policy_proposal",
+      "procedural_move",
+      "follow_up_request",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 6529.093,
+    "end": 6529.714,
+    "text": "Ms. Carlson?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 6530.791,
+    "end": 6531.111,
+    "text": " Yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6535.758,
+    "end": 6545.653,
+    "text": "Ms. Lee. Yes. Dr. Acuff. Yes. Ms. Osborne.",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call"
+    ]
+  },
+  {
+    "start": 6546.234,
+    "end": 6546.494,
+    "text": "Yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6547.376,
+    "end": 6549.138,
+    "text": "Mr. Alcarro. Yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6550.18,
+    "end": 6550.62,
+    "text": "Mr. Page.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 6551.382,
+    "end": 6551.642,
+    "text": "Yes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 6552.283,
+    "end": 6552.824,
+    "text": "Motion carried.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6553.385,
+    "end": 6568.835,
+    "text": "Thank you. All right, so our budget is unanimously adopted.  with the amount shown on the screen. Next item. I just have one more slide to wrap up.",
+    "speaker": "grahampaige",
+    "tags": [
+      "give_update",
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6569.096,
+    "end": 6611.811,
+    "text": "Oh, OK. I'm sorry. No, that's all right. So the next step in this process is to bring the school board's approved funding request to the Board of Supervisors next week. Chair Page and Vice Chair Colson are planning on facilitating this presentation as representatives of the school board.  In April, as I mentioned earlier, I will provide budget updates to include final state revenue projections, technical adjustments, and updated available one-time funds to help you prepare for your final budget adoption in May. And this doesn't mean that the budget development process is over. We are still open to questions and feedback from you all and from the public. So please feel free to reach out at any time. Thank you.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "reassure",
+      "request_action",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6617.528,
+    "end": 6631.449,
+    "text": " Thank you, Ms. Gomez-Howell. Our next item, second quarter financial report, Mr. Zimmerman.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 6631.469,
+    "end": 6907.815,
+    "text": "Good evening, school board. I'm Jackson Zimmerman, your school finance officer. I want to present for your consideration the second quarter financial report, a very positive financial report that I will bring up and share  on the screen. Shown here is our second quarter financial report ending December 31st. We do have significantly updated numbers in this financial report from the first quarter.  Keep in mind in the first quarter, we have very relatively little operation of the division in that point in time. In the second quarter, we have a significant amount of operation of the division, and we also have an updated revenue stream associated with the state's projections. So wanted to sort of provide you with some background information. As before, we are anticipating getting about 56 more students than we had originally budgeted.  Typically, this results in a very slight increase in state revenues. But the one thing that I wanted to point out in this particular report is that state revenues have been very, very positive for both the current year and for future projections, as you have seen in your budget development process. So in the current year, the governor has released updated numbers for state revenues.  And we believe that associated that with those associated updated revenues that we will see approximately $1.5 million more in additional state funding than originally budgeted. This is primarily due to updated sales tax numbers and some other updated numbers that are provided in there. These are based upon the governor's proposals that were introduced in December.  We do not yet have any changes that the House or Senate may have had to current year revenues in the mix. So we do know that there will be some updated numbers in those in this time period, but we do not have them to date. So this is the best estimate that we have for revenues to date.  So in terms of revenue stream, we should see a little bit less local revenues, primarily due to building rental and other kinds of activities that are taking place that are pandemic impacted. But overall, we're gonna see about $1.1 million in revenues that are greater than what we had originally anticipated. On our expenditure side,  where we will see significant changes in our expenditures. We have estimated savings associated with our payroll. Just keep in mind, we have had a pretty significant changes in payroll over this time period. We have shifted from monthly compensation for our employees. And then in January, we instituted bi-weekly pay for our employees along with a series of other changes that were associated with this.  We've taken all of our most recent payroll data and projected out into the future. We do believe that we will save about $630,000 in payroll-related monies by the end of the fiscal year. This number may be subject to change as we update this, but this is our best estimate at the current time based upon our biweekly payroll structure at the moment.  On the operational side, we do anticipate seeing some significant savings associated with operations. And the two primary areas that are associated with this are, we do expect to see some savings associated from our general operations, but the biggest one is about $2.8 million in the most recent updated local revenues, about $2.8 million were devoted toward the 4% pay increase that was effective in March.  It turns out that because of our updated compensation model, that $2.8 million that was dedicated toward payroll is actually not necessary. And so we're projecting that as being savings and operations. And that was transferred into a contingency account. That's why it's shown as an operational savings. So overall,",
+    "speaker": "jacksonzimmermann",
+    "tags": [
+      "give_update",
+      "public_addressing",
+      "cite_external_source",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 6909.533,
+    "end": 6922.23,
+    "text": " we will be seeing about nearly a $5 million savings in the current year, $5 million balance of revenues over expenditures in the current year.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 6924.954,
+    "end": 7156.236,
+    "text": "This will have a very significant, I will skip over to the very end of our report regarding fund balances. We do have information in here in terms of more dedicated split out of our revenues  a more operational split out on where our expenses took place, but where the rubber meets the road as we're budgeting and planning for next fiscal year is fund balance information. So if you remember correctly, we finished at the end of fiscal year 21 with a very positive fund balance, $15 million. There were significant plans for that fund balance,  So we have the initial $15 million fund balance. Our adopted budget called for the use of $5.2 million. And then we had some significant carry forwards of items that were unfilled from the prior year. Carry forward of purchase orders, the Mountain View project, and ESOL WIDA funding associated with prior year purchases that did not get filled in time to meet prior year expenditures.  We also had a significant transfer of money to the CIP. So when all of these transactions take place right here, we got down below the limit of the 2%. In the current year, we did have $4.1 million associated with a revenue update that took place in December.  the $10 million revenue update that we had in December. And then here's an additional, the $5 million, nearly $5 million that we were anticipating having available at the end of the fiscal year. So we're projecting at the end of this fiscal year, we should have around $13.6 million in available fund balance at the end of the fiscal year, assuming that we just stopped operations.  When we look forward to 22-23, of that $13 million fund balance, the budget that you just adopted includes almost $4.1 million in the use of fund balance. Staff at this point believes that we do have, we will be bringing forward proposals for  Suggested uses of one-time funds in light of the multitude of identified needs that have been brought forward to the board over the last few months. We will be bringing forward suggested uses of approximately $5.4 million of one-time fund balance money as part of the April 14th school board meeting.  And assuming that those items are brought forward, we would have an available fund balance of approximately $4.1 million, which is below the 2% threshold set by Board of Supervisors policy. Very quick overview, a very, very positive financial position that we are in.  We are fortunate to be able to discuss having these one-time monies available for future one-time purchases. I would be happy to entertain any questions that the board would have regarding the financials for the second quarter.",
+    "speaker": "jacksonzimmermann",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "policy_proposal",
+      "follow_up_request",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 7160.579,
+    "end": 7203.738,
+    "text": "Mr. Zimmerman, I see that in March, well, we transferred some of our fund balance last  year to capital. Do we anticipate any of this $13 million would be transferred to the CIP? We just sat through a presentation on our Mountain View school, so I'm thinking about where that's coming from.  I believe that that $5.4 million proposed one-time uses for future discussion that would be brought forward on April 14th may include discussions of transfers of those monies to CIP. Thank you.",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "follow_up_request",
+      "hedge"
+    ]
+  },
+  {
+    "start": 7210.087,
+    "end": 7212.831,
+    "text": "Are there other questions for Mr. Zimmerman?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 7219.375,
+    "end": 7226.383,
+    "text": " If there are no questions, I'd be happy to entertain a motion to approve, receive this financial report.",
+    "speaker": "jacksonzimmermann",
+    "tags": [
+      "procedural_move",
+      "request_action"
+    ]
+  },
+  {
+    "start": 7228.325,
+    "end": 7230.888,
+    "text": "Okay, we do need a motion then to receive the report.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "request_action"
+    ]
+  },
+  {
+    "start": 7232.249,
+    "end": 7240.538,
+    "text": "I move that we receive the second quarter financial report as presented this evening.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 7244.142,
+    "end": 7244.623,
+    "text": "Second.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 7245.734,
+    "end": 7262.999,
+    "text": " OK, moved by Mr. Alcaro, seconded by Ms. Lee, that we receive the second quarter financial report. Is there any discussion on the motion? If not, Ms. Johnston.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 7265.222,
+    "end": 7274.796,
+    "text": "Dr. Acuff. Yes. Ms. Colson. Yes. Mr. Alcaro. Yes. Ms. Osborne.",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call"
+    ]
+  },
+  {
+    "start": 7275.383,
+    "end": 7275.843,
+    "text": " Yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 7276.944,
+    "end": 7280.808,
+    "text": "Ms. Lee? Yes. Mr. Page? Yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call"
+    ]
+  },
+  {
+    "start": 7281.608,
+    "end": 7305.289,
+    "text": "Motion carried. OK, the motion carried. Thank you. Thank you, Mr. Zimmerman, for that very positive report. We now have a break that's scheduled. Should we, by consensus, do we want to take our break? Or should we move forward with the last three items on the agenda? I would say 10 minutes would be great.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "logistics_info",
+      "ask_question",
+      "request_action",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 7305.691,
+    "end": 7306.676,
+    "text": " I'd like a break as well.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "request_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 7307.359,
+    "end": 7428.679,
+    "text": "OK. 10-minute break. We'll reconvene at 842. Thank you.  It is now 8.42 and I call our session back to order. Our next item on the agenda is the plan to return to in-person meetings. This portion of the meeting will be conducted by Ms. Schmidt.",
+    "speaker": "grahampaige",
+    "tags": [
+      "logistics_info",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 7431.342,
+    "end": 7477.667,
+    "text": " Hi, good evening again. So as we all know, the school board has been meeting electronically during the COVID-19 pandemic. But in anticipation of the county office buildings lane auditorium opening once again, we would like to present a plan to return to in person board meetings next month. The board of supervisors recently discussed their plan for in person meetings. And so I want to first start with some excerpts from that from that meeting for context.  The Board of Supervisors are utilizing a tiered approach for public meetings. In Tier 1, which begins April 4th, members will meet in person and attendees will be in a hybrid fashion. This includes the Board of Supervisor meetings, Planning Commission, and School Board. They will all transition in this first tier.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "policy_proposal",
+      "cite_external_source",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 7479.655,
+    "end": 7492.348,
+    "text": " These hybrid meetings will be in lane auditorium at the county office building hybrid means that while board members will be in person, the public and other attendees will have the choice to attend in person or participate electronically.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "logistics_info",
+      "clarify"
+    ]
+  },
+  {
+    "start": 7496.412,
+    "end": 7563.854,
+    "text": " There is a look at what the capacity of the auditorium will be there will be mandatory social distancing on one side of the room for those that elect to sit there and then normal seating available on the opposite side board members will be distance on the diet.  So here are just a couple additional details about the school board meeting specifically. The first in-person meeting will be April 14th. That's the next board meeting after that April 4th date. The mask requirement will be dependent on the requirements at Cobb at the time of the meeting. They are currently required now, but we understand that they are monitoring community levels and may change that requirement before then.  The meeting will be streamed live on our website, which is the same as our current practice. And the public will have three options to participate in public comment, in person, electronically via Zoom, or by written submission. And Dr. Diggs, our chief technology officer, will speak more about that aspect of the meeting.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "logistics_info",
+      "give_update",
+      "defer_to_expert",
+      "clarify"
+    ]
+  },
+  {
+    "start": 7568.121,
+    "end": 7630.47,
+    "text": "Good evening, school board members. I'm Christine Diggs, chief technology officer.  We are pleased that we can provide the option for public comment to be via Zoom or in-person. For public commenters that choose Zoom, there will be no need for you as board members to open Zoom to see or hear the speaker. Everyone in the auditorium will be able to hear the speaker. The Zoom participant will be displayed on each board member's laptop screen, and the Zoom participant can view the board members via the meeting stream.  they will see the ACPS logo that's shown here on their Zoom screen. The Zoom speaker may also need an auditory signal that time is running out as the timer that's at the podium is not loud enough to be heard over Zoom. And in-person public comment will resume with no changes. And with that, we welcome your questions about the return to in-person school board meetings.",
+    "speaker": "christinediggs",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "clarify",
+      "follow_up_request",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 7637.808,
+    "end": 7649.04,
+    "text": " After digs, I think I heard a while back that the Board of Supervisors was going to be testing this process. Have they been doing that? And is it working well?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 7652.103,
+    "end": 7678.29,
+    "text": "Their technical staff has been testing it, as has our technical staff. They have a different setup than we do. And they also have, as I believe, either three or four people staffing their  filming of the meetings and providing the hybrid solution. We have one. Okay, thank you.",
+    "speaker": "christinediggs",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "hedge"
+    ]
+  },
+  {
+    "start": 7678.31,
+    "end": 7689.364,
+    "text": "Dr. Diggs, will the streaming meeting look like it did before the pandemic, basically, like a big pullout of the dais?",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 7689.85,
+    "end": 7699.168,
+    "text": " It will, yes, it will be, well, they switch the cameras, but yes, it will be, the camera setup that's in the auditorium will be feeding that stream.",
+    "speaker": "christinediggs",
+    "tags": [
+      "clarify",
+      "logistics_info",
+      "reassure"
+    ]
+  },
+  {
+    "start": 7700.911,
+    "end": 7701.231,
+    "text": "Thank you.",
+    "speaker": "judyle",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7707.303,
+    "end": 7735.517,
+    "text": "Are there other questions for Ms. Schmidt or Dr. Diggs?  Sort of piggybacking on Miss Lee's question, the scene that was shown to us early on the slide would be roughly what it would look like with the live stream, right? Because that was like back quite a ways from the main podium. The camera was looking toward the podium. Right, Miss Diggs?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "public_addressing",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 7739.817,
+    "end": 7747.346,
+    "text": " I, there are multiple cameras in there. And as I recall, they switch the cameras. So I don't know that it's always a fixed shot.",
+    "speaker": "christinediggs",
+    "tags": [
+      "clarify",
+      "hedge",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 7747.906,
+    "end": 7752.071,
+    "text": "Okay. Okay. Right. Right. Thanks.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7752.091,
+    "end": 7762.163,
+    "text": "Um, I will explore that further, but it's not, if I saw Ms. Schmidt nodding that it's not a fixed shot. Okay.",
+    "speaker": "christinediggs",
+    "tags": []
+  },
+  {
+    "start": 7766.21,
+    "end": 7783.392,
+    "text": " Are there other questions on our first in-person meeting scheduled for April the 14th? Any other questions on that? Okay, thank you very much for the presentation.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7790.155,
+    "end": 7804.361,
+    "text": " Here's just a personal note, if I might, Mr. Page. Given that Mr. Oberg is not with us tonight, let's not tell him that we're meeting in person for April 14th. We'll see if he catches on.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "request_action",
+      "opinion"
+    ]
+  },
+  {
+    "start": 7806.545,
+    "end": 7842.439,
+    "text": "Thank you, Mr. Alcara.  Our next agenda item is one that has been of concern to the board for several years. And that is how we as board members can have more of a presence in our individual magisterial districts. Or in Mr. Alcaro's case, the entire county. Dr. Bernard Harrison and Mrs. Karen Waters Wicks from the Department of Community Education, or Community Engagement rather, are here to present us a plan that might help us to sort of solve that problem.  So Dr. Harrison and Ms. Waters-Wicks.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "express_concern",
+      "defer_to_expert",
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 7844.221,
+    "end": 7853.011,
+    "text": "Thank you, Mr. Page and good evening school board members. Jennifer, can you share the slide presentation?",
+    "speaker": "bernardhairston",
+    "tags": [
+      "request_action",
+      "public_addressing",
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 7857.376,
+    "end": 7862.702,
+    "text": "I will have to find it and pull it up for you. Typically you share from your screen. So hang on just a minute.",
+    "speaker": "Unknown",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 7863.543,
+    "end": 7942.0,
+    "text": "Okay. Ms. Karen Waters-Wicks,  Mr. Page and I would like to share an initiative to allow each of you to model an expectation within the strategic plan of affirming and empowering expanded forces from a culturally responsive focus. I'm taking my time to give Jennifer a little bit of time. The proposed plan  will enable you to select topics most relevant to communities within your magisterial districts and or your passion points of interest as equity minded leaders. Ms. Karen Waters Wicks will share the initiative  Mr page will follow with what his personalized initiative might look like hint hint personalized initiative might look like. And we will follow with questions and or comments before seeking your guidance for moving forward Karen.",
+    "speaker": "bernardhairston",
+    "tags": [
+      "policy_proposal",
+      "procedural_move",
+      "logistics_info",
+      "public_addressing",
+      "request_action"
+    ]
+  },
+  {
+    "start": 7943.752,
+    "end": 8125.278,
+    "text": " Thank you, Dr. Hairston. Good evening, everybody. Thank you so much for having me. I'm Karen Waters Wicks, and I'm your community education coordinator, speaking on behalf of the Department of Community Engagement, and I'm excited to share our proposal to partner with you to achieve goal two of the ACPS strategic plan.  Goal two of the strategic plan is all about empowering all of our citizens to actively engage with as part of our school community and to find multiple ways to bring people together. Can you go to the next slide please, Jennifer?  Objective 2.3 requires that we provide an environment that values lived experiences and is culturally responsive, which enables a wide range of community voices to be heard. And it calls on us to find a variety of means to meet these folks where they are. Jennifer, can you go to the next slide?  This proposal seeks to create a partnership with the Office of Community Engagement, which will enhance the board's ability to connect with a diverse group of stakeholders in each magisterial district. Our intention is that school board members at the end will have a nice pool of people who may want to serve in another capacity, perhaps as a volunteer or as an appointee to another board or commission,  We hope that each school board member will do one meeting within the next calendar year and then at least two annually going forward. The way we propose to go about this is to survey our school board members to get an idea of your.  passions as Dr. Hairston mentioned, as well as your meeting style and preference and your logistical requirements. We will then identify community partnership organizations and individuals who might serve as meeting hosts, sponsors, or participants.  Then our staff from the Office of Community Engagement will collaborate with you with scheduling and facilitation of your meetings if it's needed. And finally, school board members will have the opportunity to invite our meeting participants to serve as a more diverse pool of individuals who are available to serve as a sounding board or potential volunteers so that you'll have a group to choose from if you need other folks to call on for future focus groups,  appointments or event recruitment for each magisterial district. If this plan is endorsed by the board, we'll send the survey out to you immediately. And based on your responses, we'll get started helping to organize meetings for you in each of your districts. Does anyone have any questions?  Before we go there, Karen, Mr. Page, would you be so kind as to share with your colleagues what a personalized plan might look like for the Samuel Miller District?",
+    "speaker": "karenwaters",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "logistics_info",
+      "ask_question",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 8125.678,
+    "end": 8127.019,
+    "text": "And then we'll go into questions.",
+    "speaker": "bernardhairston",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 8128.16,
+    "end": 8134.266,
+    "text": "All right. Do we have the questionnaire on the slide presentation, or was it a blank questionnaire?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 8135.126,
+    "end": 8142.011,
+    "text": "Jennifer, can you click the link where you see the word surveyed?  should come open.",
+    "speaker": "karenwaters",
+    "tags": [
+      "request_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 8142.913,
+    "end": 8316.069,
+    "text": "Yeah, okay. All right, so let's see now. With the question, what is your meeting style preference? I would probably prefer at the beginning having groups probably of about 20 people or less.  I'd be willing to sort of have the option of either having a zoom meeting or in person, I would be sort of leaning toward in person meetings, but if not, then we'd go with zoom moving down a little bit more Jennifer.  A little bit more right in the groups that would be of interest for me would be minorities in Samuel Miller district and also low income families. Those would be the two main groups that i'd be probably trying to work with most in the beginning in my district.  And then moving down to the next section, topics of main interest. For me, it would be underrepresented populations at school board meetings. And then as a other, promote and diversify board appointed committees in Samuel Miller District. Quite often, even though we have good appointees, good people that have been applying for positions,  I would still like to have maybe a pool that would be able to sort of have more diversity or candidates that would be more diversified to put on some of the committees. And this would be one way, I think, to do that. Now, moving down a little bit more, I think where it gets to the context that you would make.  Probably the main contacts I'd be looking at right now would be the PTOs, especially for the two smaller schools in Samuel Miller District, which would be Red Hill and Scottsville, although Scottsville is in the Scottsville District.  but still students from my district go there. I'd also be probably looking at the Yancey Community Center group and also probably contacting social service department in order to find out more data that could be used to sort of invite certain groups from the minority group and from the low-income group to that meeting. So those would be the main things and then I'd probably be looking or trying to start this probably in the middle of April right after spring break.  So that would be typical answers to the survey for me as an individual. So are there any questions or any of things else or either returning it back to Dr. Harrison, Harrison for other comments?",
+    "speaker": "grahampaige",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "opinion",
+      "prioritization",
+      "policy_proposal",
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 8316.089,
+    "end": 8319.696,
+    "text": "We would love your comments and or questions board members.",
+    "speaker": "bernardhairston",
+    "tags": [
+      "public_addressing",
+      "request_action"
+    ]
+  },
+  {
+    "start": 8324.114,
+    "end": 8327.019,
+    "text": " I'll just chime in and say, oh, sorry, I didn't see you.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "interrupt_overlap"
+    ]
+  },
+  {
+    "start": 8328.921,
+    "end": 8353.159,
+    "text": "Just for me personally, and I'll make this clear at the bottom where there are other comments, I have times I'm pretty flexible in terms of meeting. So I want to make sure that if there are people who want to meet with me as a part of this, that I just don't have a sense of when people would want to meet.",
+    "speaker": "judyle",
+    "tags": [
+      "logistics_info",
+      "clarify",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 8354.843,
+    "end": 8385.05,
+    "text": " That's, I think that's just something that we're probably, I am certainly a little bit more flexible on than maybe necessarily shown in that. Yeah, because on my survey, I put in that the best times for me would be in the evening, but still just like you two, I would be open to other times if other groups could meet at those times. So that's a good point.  Ms. Carlson, you had a question.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "reassure",
+      "hedge",
+      "agreeing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 8385.07,
+    "end": 8444.971,
+    "text": "I was going to chime in and say that, one, I really appreciate this. This has been something that we've been trying to spearhead for a while and I just wanted to remind you. I appreciate that you're reaching out to different places in different ways to do the community engagement because I think when we first started this discussion probably three or four years ago, we were doing town halls at that point and consistently doing them and counting that as our community engagement.  there would be one to three people who came to everyone and usually the same one to three people. And I think we wrote it into our school board evaluation that we would do better metrics. And I feel like this will meet it. And I will say personally, I do really well when there's accountability for myself. So being able to like log and track and having the help of you guys pointing out events and arranging things that we can go to, I'm just very appreciative of.  And I think it's aligned with a lot of the work we've been trying to do. So thank you.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "agreeing",
+      "reassure"
+    ]
+  },
+  {
+    "start": 8444.991,
+    "end": 8491.298,
+    "text": "Our thought was based on the information you provide, we can then go another step and say, okay, for example, Mr. Page is interested in low wealth populations. Who do I know in that area that might be willing to spearhead a meeting and serve as a community host?  and then have them invite people. We're hoping that that way we're working with our student populations, having them work with their parents to host a meeting and invite others may help to expand out from the areas that you all identify. So we just want to sort of amplify what it is that you would like to see happen in your particular district.",
+    "speaker": "karenwaters",
+    "tags": [
+      "clarify",
+      "logistics_info",
+      "request_action",
+      "reassure"
+    ]
+  },
+  {
+    "start": 8492.088,
+    "end": 8511.674,
+    "text": " I think that's fantastic. And also going to people where they are already congregated and are gathered. So making space just to speak at something that we might know there's already going to be good attendance and interest. I'm excited. Thank you. I think it might also be of use.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "agreeing",
+      "opinion",
+      "logistics_info",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 8514.077,
+    "end": 8599.18,
+    "text": "I was just trying to think how these could be not podcasted, but preserved or  I mean, if I had a town hall, for example, on reimagining, well, about the high school centers, for example, and what that impact might be, it might be nice to document that somehow and put it on the website because not everybody would be able to show up or if it was about world languages or whatever it was about. But no, I'm with Katrina, I guess in my early,  couple early before coven made many attempts to do community meetings and you would have a community meeting on budget and one person would show up wanting to talk about the open burning rules which. So, so the challenge will be to select topics that are salient for both.  those with kids in the schools and those who don't have kids in the schools. I know, we know from our, we keep hearkening back to the referendum vote. We know that there's broad community support for our schools, but we've never found, I've never found a hook to get people beyond a handful of parents showing up. So that's a challenge.",
+    "speaker": "kateacuff",
+    "tags": [
+      "logistics_info",
+      "express_concern",
+      "prioritization",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 8602.079,
+    "end": 8765.145,
+    "text": " I want to get my arms around it a little bit more, and I think this would involve having some conversations with you, Bernard, and you, Karen, and I would very much look forward to that. Because a number of years ago, and Dr. Hairston, Dr. Acuff, and Ms. Colson would remember that, and Dr. Haas,  that we tried to do something in different magisterial districts. And as Dr. Acuff said, we got a minimal number of people. I think we got our biggest crowd at Southwoods, and that was about 10 people. And we were trying to reach out to community members, to parents who would not normally come and talk to the school board.  who would not come and talk to the end of the schools, you know, to speak with teachers or administrators, you know, whether it was culturally, you know, something that they weren't used to or whatever. And I like the approach of this, you know, in terms of, because I really do want to understand who is going to be coordinating it and,  and bringing people in because, as has been said before, getting people to come in. They've got to be topics that we want to talk about, sure, but that people want to hear about is even more important. And then I would love to get some clarification, and this is just self-centered, because what we were trying to do before was to have  The local school board member be there and the at large so that people were seeing you know both of their.  representatives. And so I'd love to know what the thought is. Will I be doing, in your thought process, will I be doing six different meetings? And so then there would be six other meetings being done by the local board representative.  And I mean, these are not things that have to be answered right now, but I would love to be able to sit down with or speak by phone or Zoom with either of you to kind of talk this through, because I love the concept. I mean, I love what this is intended to do. And I've just got a whole bunch of questions.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "follow_up_request",
+      "clarify",
+      "acknowledge",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 8765.463,
+    "end": 8843.023,
+    "text": " Oh, Michelle Carol. First, thank you for those comments but first and foremost, we see this as a school board members taking the lead and giving us some direction in terms of how you're going to earn and empower your community.  It's like your community is going to be a classroom and we're going to be there to support you. We want you to be able to let us know strategies in terms of how you might want to survey them and we'll do the work relative to specific topics.  in terms of groups that you may want to engage. You have a number of people who are making public comments every day about given topics. You have folks who you are engaged with in different organizations that we can seek. But we want you to just have that passion topic.  And we want to be able to support you working with our communications office to push out any sort of topics that you have. And we will be supportive of you, but we need you to lead this work because we want you to model how to do it and do it well and respecting the strategic plan that you have adopted. So we're going to be here as a support, but we need your leadership, OK? So we have great minds, and we just want to just push those minds, but we'll be the backbone for you.",
+    "speaker": "bernardhairston",
+    "tags": [
+      "request_action",
+      "reassure",
+      "acknowledge",
+      "clarify"
+    ]
+  },
+  {
+    "start": 8843.797,
+    "end": 8891.353,
+    "text": " I'll just make one comment to that and then I would still love to learn more because it's hard to really say in all six magisterial districts, I want to do meetings and without understanding what are the resources that I can be calling on and that all of us can be calling on. Who will be doing it? How would it be done?  And I'm sure it's all thought through. I'm sure there are things in place. I just would love to be able to know what options we have to work with. So, you know, I think we're saying the same thing in concept. I'm just looking for a little bit deeper dive in terms of understanding, and then I can make some decisions.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "follow_up_request",
+      "request_action",
+      "ask_question",
+      "clarify",
+      "express_concern",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 8891.772,
+    "end": 8907.492,
+    "text": " Absolutely. Your situation is quite unique. You can decide to deal with one and pair with Graham, or you can decide to do six and work with everyone else. So once again, it's your call, you know, as the at-large person, or you can do one and invite representatives from each of the districts.",
+    "speaker": "bernardhairston",
+    "tags": [
+      "clarify",
+      "reassure",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 8908.253,
+    "end": 8909.494,
+    "text": "I understand. Yep.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 8909.514,
+    "end": 8912.618,
+    "text": "All right. We'll work with you. We'll personalize for you.",
+    "speaker": "bernardhairston",
+    "tags": [
+      "agreeing",
+      "reassure"
+    ]
+  },
+  {
+    "start": 8912.638,
+    "end": 8913.038,
+    "text": "Thank you.",
+    "speaker": "jackclark",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 8917.484,
+    "end": 8921.509,
+    "text": "Are there other questions or comments on the presentation?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 8924.206,
+    "end": 8928.875,
+    "text": " I think this is great. I really appreciate you guys pulling this together.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 8933.644,
+    "end": 8937.692,
+    "text": "So Mr. Page, I'll turn it back over to you. It sounds like we have consensus to move forward.",
+    "speaker": "bernardhairston",
+    "tags": [
+      "procedural_move",
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 8938.111,
+    "end": 8973.366,
+    "text": " Right, we do. So thank you for the out, and before I miss waters wicks leaves. This is just something I heard through the rumor mill so it may not necessarily be true, but I understand that she is only that one of her main incentives for doing this for us is that she expects some new cars over.  at Albemarle High School. So we might have to look at some of those one-time funds for her new cars. I'm not sure really what it is. But that's what the rumor mill was saying. I think it's one per high school, Mr. Page.",
+    "speaker": "grahampaige",
+    "tags": [
+      "cite_external_source",
+      "hedge",
+      "give_update"
+    ]
+  },
+  {
+    "start": 8973.587,
+    "end": 8974.828,
+    "text": "One per high school.",
+    "speaker": "bernardhairston",
+    "tags": [
+      "clarify",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 8974.848,
+    "end": 8983.356,
+    "text": "Oh, OK. I thought that was only at Albemarle. But OK, one per high school. So Monticello Western and Albemarle. Yes, sir. Thank you, Ms. Watters-Wicks. We'll see what we can do.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "clarify",
+      "reassure"
+    ]
+  },
+  {
+    "start": 8984.898,
+    "end": 8987.74,
+    "text": "OK. I think the students would like really fast ones.",
+    "speaker": "karenwaters",
+    "tags": [
+      "opinion"
+    ]
+  },
+  {
+    "start": 8987.76,
+    "end": 8997.565,
+    "text": "OK. All right. Thank you.  Okay, our next item is the 2022 work session topics. And this will be led by Mishma.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 9005.054,
+    "end": 9198.968,
+    "text": " Good evening again. This is my last item tonight. And this is about work session topics for the remainder of the calendar year. So we formed a work session committee, it was comprised of staff and representative board members, including Miss Lee and Mr. O'Carroll. We have drafted topics for the remainder of the calendar year.  Before we get into the topics, I want to first start with the purpose of work sessions. The school board implemented the use of work sessions to gain greater understanding of critical issues facing the division and to provide staff with direction and support in the division's strategic plan. So in other words, work sessions are an opportunity for deeper work. And typically, the first meeting of each month is a business meeting, and then the second meeting is a work session.  The committee has drafted a common framework for each work session outlined here. All work sessions will have a direct connection to the strategic plan. They will be data-driven, connect to current policies, and then all will conclude with a common discussion and ensure clear purpose and direction with questions such as, what further information does the board need? What are the next steps for the board on that topic? And always tying back into our funding and budget cycle as well.  So there are six remaining scheduled work sessions in the calendar year. And so for each, you will see a date, a topic, and then the connection to the learning for all goal and strategy or objective. And so the first three, which will take us to the end of the school year are listed here. Our next work session is on March 24th, and that will be on what we're calling the first part of two that are focused on achievement data. And the topic will be a mid-year data review.  In April, we propose a work session on the CIP. This will be a more global approach on the process and program as a whole and not about specific projects and will be an opportunity to better understand how the county assesses affordability, forecasting, financing options, as well as how we produce enrollment projections and other data.  In May, we will plan a session about school climate and mental health. This will include information on student climate data, our counseling and SEL programs, instructors, such as responsive classroom, design development, and freshman seminar. As we come back from summer, right, in August, we will start with a session about intervention services, and that will include RTI, SPED, ESOL, and our title programs.  In September will be the second part of the achievement data discussion and that will focus on the year end data. It will also be an opportunity for the board to develop their goals for the 22-23 school year. And lastly, we will conclude with the work session about school board, community and stakeholder engagement. We're still working on the details of these, but we've talked about a deeper dive on the role of advisory committees, perhaps reflection on the work of the work you just discussed or other topics.  So with that, I will ask if there's anything Mr. O'Carroll or Ms. Lee would like to add or expand on and then open it up for discussion and feedback.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "request_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 9205.394,
+    "end": 9232.785,
+    "text": " I would say that I now understand what Dr. Harrison was saying to us during the meeting about what the plan was that we just heard during the previous session and how that would relate to that last meeting in October. So that becomes very clear to me now.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 9236.275,
+    "end": 9269.906,
+    "text": " I also what I want to note is that you know we asked board members for topics and I think we got a lot of very important and interesting topics, but one thing that we discussed during our working on these work sessions was what maybe could take 30 minutes and what maybe could take two hours. So I think a lot of those topics that were on that list will end up being. Business meeting topics and then.  Because two hours just seemed like a lot for some of them.",
+    "speaker": "judyle",
+    "tags": [
+      "give_update",
+      "prioritization",
+      "logistics_info",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 9276.492,
+    "end": 9302.546,
+    "text": "So I think it's fair to say there's still a work in progress. But I think these are great starting points. And so I would ask all board members to come in with more ideas on them. And I know there's going to be some flexibility.  But thank you to Judy and thank you to Rosalyn and the rest of the folks who were so helpful on the committee. I think it's a good start.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "request_action",
+      "follow_up_request",
+      "acknowledge",
+      "hedge",
+      "reassure"
+    ]
+  },
+  {
+    "start": 9304.809,
+    "end": 9353.408,
+    "text": "I very much like this structure. And I very much like knowing what we're going to be doing in the work sessions for the rest of the year. Often they have seemed ad hoc and not board generated. And I think this is a very good path.  tightly linking them to data and to our strategic plan, I think is essential. So this is a step out from our work sessions, but we also need to discuss retreat, which I hope is a work session rather than a series of tasks that we do, but we can talk about that at another point perhaps, but it's coming up quickly.",
+    "speaker": "kateacuff",
+    "tags": [
+      "opinion",
+      "agreeing",
+      "prioritization",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 9359.935,
+    "end": 9385.622,
+    "text": " Are there other comments or questions related to our work sessions? If not, we thank that committee for your work, and we look forward to our first work session March 24th. Thank you all again.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "acknowledge",
+      "logistics_info",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 9388.96,
+    "end": 9442.542,
+    "text": " Do we have other business either by board members or by the superintendent? Chair Page, I just have a comment. I know that you and Ms. Colson will be making the funding, the board's funding request presentation to the BOS soon. And I would ask that at least one of those slides includes the capital, something about capital, which Dr. Haas included in his funding request to us.  Although I'm pleased that we have funding now for one center and one school in the next five years. When we wanted to, and we have 10% probably 10% of the less than 10% of the funding for renovation. I think this is a drum we need to continue to beat and just raise include",
+    "speaker": "kateacuff",
+    "tags": [
+      "request_action",
+      "express_concern",
+      "prioritization",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 9443.45,
+    "end": 9450.456,
+    "text": " some of the elegant slide points that Dr. Haas had in his presentation, just to keep it on the front burner.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "request_action",
+      "prioritization",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 9451.786,
+    "end": 9491.03,
+    "text": " And to that point, Dr. Acuff, that you're making about, let's just round it to 10% over the next five years, so $10 million. That makes it a 50-year project to get through all $100 million. And that's not something that the schools or the school division or future boards can afford to deal with.  as the law of entropy just makes things disintegrate more and more. It can't be a 50 year project. This needs to get done within the next 10 years.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "disagreeing",
+      "express_concern",
+      "prioritization",
+      "opinion"
+    ]
+  },
+  {
+    "start": 9495.416,
+    "end": 9498.6,
+    "text": "All right, Ms. Carlson.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 9498.8,
+    "end": 9517.485,
+    "text": " I was going to respond to Dr. Acuff and Mr. Alcaro and say that we did have a run through today and there are at least two, if not three slides, I think, dedicated to the CIP and kind of making sure that we're reiterating that we need funding there. And I think those slides are well done, so.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "give_update",
+      "reassure",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 9517.505,
+    "end": 9518.467,
+    "text": "Yeah, they are.",
+    "speaker": "grahampaige",
+    "tags": [
+      "agreeing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 9518.987,
+    "end": 9549.799,
+    "text": "Thank you.  On a different piece of business, one of the public speakers, Mr. McClung has emailed me a few times and I had a phone conversation with him and then he came today for public comment. And so I did want to ask more information from maybe J. Thomas about what exactly our cell phone policy is. Is it throughout the three high schools? Is it different by administration, by school, by classroom? I would just like some more clarity around that.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "defer_to_expert",
+      "clarify"
+    ]
+  },
+  {
+    "start": 9552.125,
+    "end": 9682.501,
+    "text": " I was actually going to share that we are starting on Monday next week, high school cell phone task force. Jamie Gellner will be leading it from the central office. We are including teachers from the high schools. Pretty much everything that Mr. McClellan said is true. We have always had a policy in place that said that telecommunication devices are not  to be out visible or used in the classroom for anything except instructional purposes. At some point along the way, they became very popular. And I personally do not think that our teachers have been supported in enforcing that policy. We had success with the middle school program that we instituted.  A couple of years ago, and so the middle school principals that spearheaded that project are part of the task force as well, so.  That work is underway. I did ask Pat to invite James to attend to be part of the task force. And so I, you know, I was actually gonna mention that during other soups business tonight to let you all know that we're gonna be working on it. It is a serious problem. It is probably one of the most distracting and anxiety provoking things for teenagers to have is their cell phone. And it's not really fair to our teachers to ask them  to provide high quality teaching and learning while everybody kind of walks away from the students using their phones all the time. We need to figure out a balanced approach that respects the fact that high school students are young adults, but at the same time, we need to deal with it. So it will be changing next year. I don't know exactly what our stance will be, but there will be more strict enforcement, more support for teachers and students,  and more focus on students learning in the classroom rather than being distracted by their phones.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "policy_proposal",
+      "express_concern",
+      "opinion",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 9685.206,
+    "end": 9694.924,
+    "text": "If I might, Ms. Alboron, could you share with us your thoughts on this subject? Is this a major issue in your school?",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "hedge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 9696.895,
+    "end": 9737.247,
+    "text": " Um, well, I personally feel like in my classes, we're pretty good with the like cell phones not being out while the teacher's teaching. But I feel like, um, I don't know when we have free time, I feel like that's when most of the time we bring it out. But I feel like personally in my classes, we don't really bring out the phone so much.  unless our teacher allows it, like when we're doing reminders or putting it in our planners, because usually people do it electronically. We're allowed to get our phones out and do that. It's that way.",
+    "speaker": "elizabethalbarran",
+    "tags": [
+      "opinion",
+      "hedge"
+    ]
+  },
+  {
+    "start": 9737.267,
+    "end": 9737.647,
+    "text": "Thank you.",
+    "speaker": "ryanmckay",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 9742.654,
+    "end": 9759.935,
+    "text": "Any other discussion on cell phones? Any other business by board members?  or Dr. Haas, you mentioned that you might have some of the business.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "public_addressing",
+      "request_action",
+      "defer_to_expert",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 9761.078,
+    "end": 9764.344,
+    "text": "Oh, no, that was it right there. OK, thank you.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 9767.389,
+    "end": 9770.355,
+    "text": "All right, again, last call for other business by board members.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "request_action"
+    ]
+  },
+  {
+    "start": 9774.824,
+    "end": 9815.766,
+    "text": " Okay, before, nope, before y'all go, I will, I just have to call out the fact that my, our dog passed away and my kids were very sad. And so I went to the Richmond Science Museum and they have rat basketball. And that day I went and bought two rats. Two rats quickly became 21, which is why now in the back of my meetings, I have my rat enclosure. And I finally found homes for all of them except the two we're gonna keep.  So starting tomorrow, it will be more normal, but no one has called it out. And y'all have been very gracious in the fact that in the background of the meetings, if you ever look at what's going on behind me, yes, those are rats crawling around.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "give_update",
+      "public_addressing",
+      "reassure"
+    ]
+  },
+  {
+    "start": 9816.067,
+    "end": 9822.935,
+    "text": " I was ready to call it out because I just noticed that they were crawling around. So are they playing basketball?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 9823.636,
+    "end": 9837.313,
+    "text": "I haven't taught them yet. That was the goal. But I was looking more for one on one, not actually two fully staffed teams with benches. So once we get down to a trainable amount, that's when I'll work on the training.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "give_update",
+      "clarify",
+      "logistics_info",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 9838.234,
+    "end": 9842.479,
+    "text": "You may need to catch that one that walked across the window a few minutes ago.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "request_action",
+      "hedge"
+    ]
+  },
+  {
+    "start": 9844.079,
+    "end": 9861.335,
+    "text": " That might be a work session then for us once you train them to play. All right. No other business meeting for March 10th is adjourned. So thanks to all staff members and all people who presented to us this afternoon.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "acknowledge",
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 9861.375,
+    "end": 9863.639,
+    "text": "And good evening.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 9864.08,
+    "end": 9864.501,
+    "text": "Good night, everyone.",
+    "speaker": "kateacuff",
+    "tags": [
+      "public_addressing"
+    ]
+  }
+]

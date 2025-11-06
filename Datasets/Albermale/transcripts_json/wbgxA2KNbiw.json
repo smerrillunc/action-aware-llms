@@ -1,0 +1,2737 @@
+[
+  {
+    "start": 0.098,
+    "end": 9.229,
+    "text": " It's time to call this session of Albemarle County School Board to order. Ms. Carlson, do you have a motion? I do.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 9.75,
+    "end": 44.958,
+    "text": "I move that the Albemarle County Public School Board go into a closed meeting as authorized by the Virginia Freedom of Information Act, section 2.23711A of the Code of Virginia under subsection 1 for the discussion and consideration are interviews of prospective candidates for employment  and the assignment appointment promotion performance to motion salaries disciplining or resignation of specific public officers appointees are employees of any public body and also subsection eight for consultation with legal counsel employed or retained by the school board regarding specific legal matters requiring the provision of legal advice by such counsel.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 46.36,
+    "end": 46.761,
+    "text": "Second.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "procedural_move",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 47.821,
+    "end": 63.504,
+    "text": " Moved by Ms. Colson, seconded by Ms. Lee, that due to or in light of all of the Virginia codes that she cited, that we go into a closed session. Discussion on the motion? If not, Ms. Johnston, could you please call the roll?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "vote_call"
+    ]
+  },
+  {
+    "start": 65.908,
+    "end": 66.629,
+    "text": "Ms. Osborne?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 67.11,
+    "end": 67.37,
+    "text": "Yes.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 68.732,
+    "end": 82.404,
+    "text": "Ms. Colson? Yes. Ms. Lee? Yes. Dr. Acuff? Yes.  Mr. O'Carroll? Yes. Mr. Page? Yes. Motion carried.",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 82.745,
+    "end": 86.53,
+    "text": "All right, thank you. All right, so we'll move into the closed session.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 87.051,
+    "end": 87.532,
+    "text": "Yeah, we're there.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 100.752,
+    "end": 112.848,
+    "text": "Graham, if we keep getting more and more presentations, I'm going to need a third monitor.  I try to keep, it's just, I got two big monitors, we've got everything open and it won't fit now.",
+    "speaker": "davidoberg",
+    "tags": [
+      "express_concern",
+      "request_action"
+    ]
+  },
+  {
+    "start": 113.368,
+    "end": 142.811,
+    "text": "I know, I know, me too, me too. Good evening. It is 6.30 and I call this March 24th meeting of the Albemarle County School Board.  To order, Vice Chair Carlson, do you have a motion? I do.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 143.352,
+    "end": 158.254,
+    "text": "I move that the board certify by recorded vote that to the best of each board member's knowledge, only public business matters lawfully exempted from the open meeting requirements of the Virginia Freedom of Information Act and identified in the motion authorizing the closed meeting were heard, discussed, are considered in the closed meeting.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "procedural_move",
+      "vote_call"
+    ]
+  },
+  {
+    "start": 159.075,
+    "end": 177.682,
+    "text": "Second.  Moved by Ms. Colson, seconded by Mr. Alcaro, that we certify by vote that nothing was discussed in the closed meeting that wasn't included in that motion. Any discussion on the motion? If not, Ms. Johnston, could you please call the roll?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "vote_call"
+    ]
+  },
+  {
+    "start": 178.824,
+    "end": 179.745,
+    "text": "Mr. Alcaro?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 180.807,
+    "end": 181.087,
+    "text": "Yes.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "agreeing"
+    ]
+  },
+  {
+    "start": 182.128,
+    "end": 195.395,
+    "text": "Ms. Lee? Yes. Dr. Acuff? Yes. Ms. Colson? Yes. Ms. Osborne?  Yes. Mr. Oberg? Yes. Mr. Page?",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 195.857,
+    "end": 196.078,
+    "text": "Yes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 196.822,
+    "end": 197.545,
+    "text": "Motion carried.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 198.128,
+    "end": 350.271,
+    "text": "Thank you, Ms. Johnston.  As we begin our moment of silence for tonight, I'm dedicating this moment of silence to Calvin Soil, a member of our building services department who served several schools as a custodian since he began working with Albemarle County Public Schools in 1997. Calvin passed away Monday evening.  In the words of our Building Services Director, Lindsay Snoddy, many of us came to know Calvin over the more than two decades he served students and staff at Agner Heard Elementary School, Burleigh Middle School, and Monticello High School. And while we may have met him at different times and places or came to know him in different ways, we all shared the same appreciation for him as a professional and as a friend.  Many of us who knew Calvin will remember his huge personality and love of dance and music. Some of Calvin's friends were lucky enough to see one of his karaoke or impersonation performances. I hope that Calvin's memory will encourage us to be as spirited as he was. We will now have a moment of silence.  Thank you. Tonight, I think this will be the last time that we'll have to read this into our meetings if things go according to plan. The minutes of this meeting should reflect that this meeting is being held electronically, pursuant to Virginia state law and Albemarle County ordinance, because the COVID-19 pandemic makes it impracticable and unsafe to assemble a quorum physically in a single location.  The meeting is being communicated to the public electronically through Zoom and streamed to live on the Albemarle County Public Schools website. And public comment may be offered through the Zoom waiting room feature in accordance with the school board's protocol or by written submission. Our board members, Dr. Kate Acuff.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "acknowledge",
+      "logistics_info",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 355.018,
+    "end": 357.121,
+    "text": "Sorry, Kate Acuff, Jack Jewett District.",
+    "speaker": "kateacuff",
+    "tags": [
+      "public_addressing",
+      "clarify"
+    ]
+  },
+  {
+    "start": 358.103,
+    "end": 364.758,
+    "text": "Mr. John O. Alcaro.  John O. Altero, at large. Vice Chair Katrina Coulson.",
+    "speaker": "grahampaige",
+    "tags": [
+      "logistics_info",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 365.8,
+    "end": 369.244,
+    "text": "Katrina Coulson, Rio District. Ms. Judy Lee.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 370.065,
+    "end": 371.387,
+    "text": "Judy Lee, Rivanna District.",
+    "speaker": "judyle",
+    "tags": [
+      "public_addressing",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 372.228,
+    "end": 373.309,
+    "text": "Mr. Dave Oberg.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 375.152,
+    "end": 376.954,
+    "text": "Dave Oberg, Whitehall-Mapstero District.",
+    "speaker": "davidoberg",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 377.715,
+    "end": 378.776,
+    "text": "Ms. Ellen Osborne.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 379.577,
+    "end": 381.219,
+    "text": "Ellen Osborne, Scottsville District.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 381.94,
+    "end": 386.887,
+    "text": "I'm Graham Page, Samuel Miller District. Now student rep, Elizabeth Albarone.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 388.689,
+    "end": 389.61,
+    "text": "Hello.",
+    "speaker": "elizabethalbarran",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 390.974,
+    "end": 519.987,
+    "text": " Tonight is Elizabeth's last official night, so we have a special resolution and letter that will be mailed to you, Elizabeth. But it will say, dear Elizabeth, all of us on the school board want to offer our congratulations to you this evening, not just because you are completing three months of service to our entire school community, but even more important, because of the purpose you had in mind when you applied to join us.  you wrote on your application, this position would allow me to bring a more positive outcome on my community by representing student voice. As a member of our Hispanic community, you wrote that you wanted to ensure that minority voices would be heard. Now here's what I had noticed about your application, and there's a common thread. You belong to Monticello High School's Spanish Honor Society.  It's math honor society, it's art honor society. And of course your transcript reveals no less than nine, nine AP classes. Let us add one more. You are a member of the school board student representative honor society.  Our strategic plan pledges us to practice four values, equity, excellence, family and community, and wellness. Your service had brought these values to life, most recently when you shined our spotlight on student mental health. Please accept our grateful appreciation for your leadership, not just on this board, but through your participation each day at Monticello through such meaningful programs as Abbott and peer tutoring.  When we created the position of student representative, our hope was that it would provide students with insight into the public governance of a vital community resource. It also was our hope that it would enhance the desire of our young leaders to make the world a better place. On this test, let me add one more grade to your transcript, A+. So thank you so much for your contributions, Elizabeth. And do you have any words to tell us",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "acknowledge",
+      "request_action"
+    ]
+  },
+  {
+    "start": 520.709,
+    "end": 538.354,
+    "text": " Yeah, I just wanted to say thank you for the opportunity and for allowing me to speak on behalf of the student body, which I really appreciate. And it was a great learning experience, and I thank you for that.",
+    "speaker": "elizabethalbarran",
+    "tags": [
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 539.756,
+    "end": 557.172,
+    "text": "Thank you so much, Elizabeth. And your class load is just really, really spectacular.  you know, to know that you have, what, nine AP classes and all of the other things that you're doing. So thanks so much for your contribution to the board. We really have appreciated having you on.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "opinion"
+    ]
+  },
+  {
+    "start": 561.677,
+    "end": 589.934,
+    "text": "We now have our- Mr. Chair, to that, to that- Yes, of course. Any other- To that point. All right, Mr. Chair. Can I ask a point of personal privilege that because we, since we've started this, we have not gotten to meet in person.  Right. Since we're going to get to meet in person, finally, could we please put an invitation to all of the past student representatives to come to the board meeting and let us meet them in person? And be recognized.",
+    "speaker": "davidoberg",
+    "tags": [
+      "request_action",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 590.695,
+    "end": 613.688,
+    "text": "OK. Very good idea, Mr. O'Byrne. So Ms. Johnson, could you sort of begin working on that?  Yes. Okay. All right. Thank you. So Elizabeth, hopefully we'll see you in April at the county office building or whenever we end up doing this, but hopefully in April.",
+    "speaker": "grahampaige",
+    "tags": [
+      "request_action",
+      "acknowledge",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 617.454,
+    "end": 620.198,
+    "text": "Yes, of course.",
+    "speaker": "elizabethalbarran",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 620.218,
+    "end": 624.605,
+    "text": "All right. I now need a motion to approve our agenda for tonight.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 625.807,
+    "end": 627.43,
+    "text": "I move that we approve the agenda.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 631.392,
+    "end": 640.322,
+    "text": " Moved by Mr. Alcaro, seconded by Ms. Lee, that we approve tonight's agenda. If there is no discussion, Ms. Johnston, could you call the roll?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "vote_call",
+      "request_action"
+    ]
+  },
+  {
+    "start": 641.383,
+    "end": 642.204,
+    "text": "Mr. Alcaro?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 643.285,
+    "end": 643.565,
+    "text": "Yes.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 644.646,
+    "end": 654.257,
+    "text": "Mr. Oberg? Yes. Ms. Lee? Yes. Dr. Acuff? Yes. Ms. Colson?",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 655.097,
+    "end": 655.378,
+    "text": "Yes.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 655.978,
+    "end": 658.861,
+    "text": "Ms. Osborne? Yes. Mr. Page?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 659.422,
+    "end": 659.662,
+    "text": "Yes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 660.243,
+    "end": 661.264,
+    "text": "Motion carried.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 661.666,
+    "end": 666.27,
+    "text": " Thank you. We now need a motion to approve our consent agenda tonight.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "request_action"
+    ]
+  },
+  {
+    "start": 667.371,
+    "end": 669.553,
+    "text": "I move that we approve the consent agenda.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move",
+      "vote_call"
+    ]
+  },
+  {
+    "start": 673.016,
+    "end": 675.378,
+    "text": "Is there a second? Second.",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 675.398,
+    "end": 685.608,
+    "text": "Moved by Ms. DelCaro, seconded by Dr. Acuff, that we approve tonight's consent agenda. If there is no discussion, Ms. Johnston, could you please call the roll?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 687.329,
+    "end": 695.63,
+    "text": "Ms. Lee? Yes. Dr. Acuff?  Yes. Mr. O'Carroll. Yes. Mr. Oberg.",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 696.511,
+    "end": 696.832,
+    "text": "Yes.",
+    "speaker": "scottcode",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 697.393,
+    "end": 702.401,
+    "text": "Ms. Osborne. Yes. Ms. Carlson. Yes. Mr. Page.",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call"
+    ]
+  },
+  {
+    "start": 703.002,
+    "end": 703.723,
+    "text": "Yes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "agreeing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 703.743,
+    "end": 704.464,
+    "text": "Motion carried.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 705.125,
+    "end": 714.1,
+    "text": "Thank you. We will now have announcements and Dr. Haas will start us out with our announcement. Dr. Haas.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 714.637,
+    "end": 949.635,
+    "text": " Thank you, Mr. Page. I want to also congratulate Elizabeth. Elizabeth, it has been great working for you for the past several months as a board member. And I want to remind you that I continue to work for you as your superintendent. And if there's anything that you need in the future, please let me know. It's been an absolute pleasure having you on the board. And I'm really going to miss seeing your face at the meetings. And I do look forward to seeing you in person  when we have our in-person meeting. I want to welcome, I think we've got two principals here tonight, Dara Bonham, principal of Albemarle High School, and also Craig Domer, principal at Holly Mead Elementary School. If you wanna show us your screens, it's really great to see you and wanna thank you all for the outstanding work that you're doing every day to keep our school system moving forward and keep your schools moving forward. Thank you guys.  And I hope it's unique that you're here tonight because it'll be a mid-year review work session. So while the principals usually do not stay for the entire meeting, if you all could hang in there and maybe participate in the work session, I hope you would enjoy that. I do wanna say I had just a terrific visit to Jack Jewett Middle School this morning.  Ashby Johnson and the rest of her staff there at Jack Jewett, I really want to thank you. My first visit was to Emily Yusuf and Zach Root's sixth grade science class. Ms. Yusuf began the class with circle time, which is right out of the advisory book, just right out of the book, to help students transition and set the stage for learning. We passed a stuffed Star Wars droid around the circle while sharing whether we preferred peanut butter or jelly.  And then, Ms. Youssef introduced and shared a video explaining how our brains grow and get stronger as we struggle to learn. She was teaching students all about the growth mindset, which is an evidence-based practice to increase student learning. Circle time ended with a group celebration. From there, students went on to learn about weather forecasting,  And I want to quote Ms. Youssef when she said, today we will practice and tomorrow I will assess your learning as you predict the weather in a U.S. city of your choice. Formative assessment. Next I went, Ms. Johnson dropped me off in Holly Falconer's math eight class. So it was eighth grade math.  And the energy level was high as students were playing bingo using answers from an activity where the given values of two sides of a triangle, students had to use the Pythagorean theorem to calculate the value of the third. Ms. Falconer had set the game in motion and then students took over. Her role was to facilitate students practice and to check in with each other to observe their work.  I had two wonderful students sitting next to me, fortunately, Mary and Noah, and they helped me to download the Desmos scientific calculator onto my phone. They taught me how to use it, taught me how to use the Pythagorean theorem, and checked my understanding for me. Obviously, these two young ladies are future teachers.  The prize was Takis. I don't know if any of you have ever tried Takis. They're a little too strong for my taste, but they are a favorite of middle school students, and everyone was winning as they filled in their cards. So again, I just want to thank the Jack Tewitt staff for having me to visit. I really left today feeling inspired. Thank you. Thank you, Mr. Page.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "give_update",
+      "reassure",
+      "acknowledge",
+      "request_action",
+      "public_addressing",
+      "opinion"
+    ]
+  },
+  {
+    "start": 951.698,
+    "end": 957.411,
+    "text": "Thank you, Dr. Haas.  Are there any other announcements from your staff?",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 958.172,
+    "end": 960.176,
+    "text": "No, sir. Thank you.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 960.196,
+    "end": 973.519,
+    "text": "Are there any school board members with announcements tonight? Okay, if not, we are ready for public comment. Ms. Carlson.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 974.663,
+    "end": 976.426,
+    "text": " Okay. I am going to start.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 976.887,
+    "end": 987.404,
+    "text": "Yeah. Also, before we get there, I'd also like to welcome Mr. Bonham and Mr. Doma to our meeting tonight. So thank you both for being here. All right, Ms. Carlson. Sorry.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 988.225,
+    "end": 1103.465,
+    "text": "No worries. I'm going to start off by reading the public comment guidelines. The school board invites and actively seeks the public's input in the matters relevant to school board governance and provides for time during its business meetings to hear from Albemarle County residents and community members.  As authorized by ordinance of the County of Albemarle, the school board is holding its meetings electronically during the pandemic. The school board is nonetheless committed to encouraging public comment despite its need to meet on a virtual basis. For this reason, there will be two ways for the public to provide comment. First, as always, written comments may be submitted to the school board clerk and will be given to all school board members for review. You can mail them or email them. You can also email the school board directly.  And second, so long as the school board holds its meetings electronically, members of the public wishing to provide public comment during the meeting may sign up online by 2 p.m. the day of the meeting. So we have eight speakers tonight, and I will announce three speakers at a time so you know when your turn is coming up. Speakers will each be given three minutes to speak. I will try to notify you when you reach the two-minute mark, but it's usually just me holding up my finger, and I often forget. So please, if you could try to time yourself, I'd be very appreciative.  So speakers meet during the meeting are those submitting comments should state their name and address our magisterial district. Speakers should limit comments those matters that are relevant to school board governments are the operations of the school division. Lastly, although the school board does not respond to comments made during the public comment period school board members may address comments at the end of the meeting agenda under other business. So that concludes the guidelines, we have eight speakers tonight.  The first one will be Vernon Lechte. I'm sorry, Vernon, I know. I'm like a visual person, so when I see it, it's like I have to say what I see, even if I know it's not there. Followed by Sally Hudson and then Liz Koenig. So when you're ready. Good evening, Albemarle County School Board members.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "public_addressing",
+      "logistics_info",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1103.505,
+    "end": 1227.814,
+    "text": "My name is Vernon Lechte, and I'm the president of the Albemarle Education Association.  I'm speaking to you tonight to let you know that the Albemarle Education Association has received authorization from over 69% of ACPS licensed professionals, over 70% of transportation drivers and assistants, and over 80% of school nurses, as well as authorization from many other professionals in Albemarle County Public Schools to serve as the representative for collective bargaining with the school board concerning wages, hours, and other terms and conditions of employment.  Today, I formally submitted to Miss Jennifer Johnston, the clerk of the board, a collective bargaining resolution for Albemarle County Public Schools and a certification and notarized affidavit for the collective bargaining resolution. I respectfully request this honorable board vote to adopt the resolution authorizing collective bargaining within 120 days pursuant to Virginia Code Section 40.1-57.2 Section C.  This process for public sector workers to gain bargaining rights is moving forward across Virginia, including in the city of Charlottesville public school system, too much of a delay in adoption of a resolution could hurt retainment and recruitment of workers at Albemarle County Public Schools. We know so many substitutes in the county have also been signing that are currently serving as teachers.  and they have indicated their support to have contract negotiation rights. So it's not just for current workers, it's for future workers as well. We want to begin the process of collaboration and negotiation by discussing and coming to an agreement on the details to resolution. We are ready to discuss the resolution with you and reach an agreement that benefits all of us. Collective bargaining gives ACPS employees the opportunity to have a seat at the table and work with the school board to make employee professions better, which in turn makes the learning conditions of students better.  Once again, I urge the school board to move quickly to adopt this resolution for collective bargaining, so we can begin moving forward on working together to make sure we have better jobs for our current workers and better jobs for future workers of Albemarle County Public Schools. Thank you.",
+    "speaker": "vernonliechti",
+    "tags": [
+      "public_addressing",
+      "give_update",
+      "policy_proposal",
+      "request_action",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 1230.038,
+    "end": 1234.727,
+    "text": "Thank you so much for those comments, Mr. Lechte. The next speaker is Ms. Hudson.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1236.445,
+    "end": 1292.187,
+    "text": " Thank you very much, and good evening, my name is Sally Hudson and I am not a county resident I'm a city resident, but I serve the county in the House of Delegates, and I am here tonight to simply offer my wholehearted support for ACPS employees in the collective bargaining process. This is exactly what the General Assembly envisioned when two years ago, we removed a decades long ban.  On collective bargaining for public sector workers at the local level, and we all know that our school district will be stronger. When all of our staff and educators have a meaningful voice on the job collective bargaining is not just about compensation but scheduling professional development.  safety and all of the things that make our schools tick. I know that we're all here tonight because we care about our students and our staff and everyone who drives our schools. And so I look forward to supporting all of you in this process as it proceeds however I can. So thank you all for your work.",
+    "speaker": "sallyhudson",
+    "tags": [
+      "public_addressing",
+      "opinion",
+      "acknowledge",
+      "cite_external_source"
+    ]
+  },
+  {
+    "start": 1298.663,
+    "end": 1317.369,
+    "text": " I am sitting here listening like those are great comments, completely forgetting that I'm driving the ship. Thank you so much for those comments, Miss Hudson. The next speaker will be Liz Koenig, and then the three speakers after that will be Allison Lyons, Margot Diaz, and Ryan Looney.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "procedural_move",
+      "acknowledge",
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1318.991,
+    "end": 1477.177,
+    "text": "Good evening. My name is Liz Koenig, and I'm a teacher at Woodbrook Elementary School and a member of the Albemarle Education Association.  I'm here to ask you to approve the resolution introduced by the AEA tonight and honor the rights of our county's educators by authorizing the AEA to bargain on our behalf. This is my first year at Woodbrook, my first year in Albemarle, my 10th year in public education. I've learned one of the biggest challenges facing schools is teacher recruitment and retention. Just yesterday, I read an article in Ed Week about the alarming drop in applications to teacher preparation programs.  This year's attrition rates will be high. Turn the tide by welcoming us to the bargaining table and help us make teaching a sustainable career again. And our resolution goes beyond just teachers, the right to bargain collectively should extend to all school staff, every adult that works in a school becomes an educator, whether it's in their title or not.  I'm proud to be a part of the AEA because it serves us all from our hardworking food service members to our principals, so I'll leave you with one of my favorite memories from this school year. It was the day our school said goodbye to our lead custodian who retired in January, after an amazing 26 years of service at Woodbrook.  It was a cold day and the whole school was huddled out on the blacktop waiting to surprise him with the celebration. My preschoolers were bundled up behind our goodbye banner and, of course, there was a delay in the start of the assembly because there always is.  Our music teacher was keeping us going by leading us through our school song, composed years ago by a former Woodbrook teacher. When our lead custodian finally came out, the roar of the crowd sounded like a celebrity had arrived, and one had. Students and teachers spoke one after another about the positive effect he'd had on their lives. When I tell you I teared up, please know it was because in a few short months at Woodbrook, I too had come to rely on my colleague.  patiently refilled our paper towels or gently helped one of my students get back on track through a quick talk in the hallway. Our lead custodian and champion educator had touched the lives of so many. The chilliness of that January morning melted away as we cheered and sang and celebrated his career. That is the power of a school community. And that power starts from the word with.  I work with my colleagues to make our school the gem that it is. Every day I work with the students and families that this board serves. And we've worked together with educators across the county to bring you this resolution. I invite you to work with us, adopt this resolution. Albemarle's educators deserve your support. Thank you.",
+    "speaker": "lizkoenis",
+    "tags": [
+      "public_addressing",
+      "request_action",
+      "policy_proposal",
+      "express_concern",
+      "cite_external_source",
+      "opinion"
+    ]
+  },
+  {
+    "start": 1479.921,
+    "end": 1533.347,
+    "text": "Thank you so much for those comments and that wonderful story.  The next speaker is Allison Lyons, who I don't see on. She's not joined the meeting. OK, so I'll put a note and loop back at the end. After that is Margot Diaz, who I also do not see on yet. So I'll put a note for her. She was just on, but I don't see her anymore either.  Yes, if you're listening, feel free to log back on. There's still a little time you can loop in at the end. So then the last three will be Ryan Looney, Scott Code, and Mary Macy. Miss Looney, when you're ready.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "procedural_move",
+      "logistics_info",
+      "public_addressing",
+      "acknowledge",
+      "request_action"
+    ]
+  },
+  {
+    "start": 1535.453,
+    "end": 1600.288,
+    "text": " Hi there. My name is Ryan Looney. I'm in the Whitehall District. Thank you for allowing me to speak tonight. I'm a former ACPS student and a current parent. I'm speaking in favor of allowing collective bargaining for teachers and staff by the AEA. Virginia has some of the lowest teacher salaries in the country, and Elmoral has some of the lowest in Virginia. 44 states already permit teachers unions to enter into collective bargaining. We should not be lagging behind the rest of the state and country. Elmoral should be leading the way.  Collective bargaining allows teachers and all staff to have a voice when negotiating pay benefits and working conditions. Studies have shown that teachers' unions have a positive association with increased student test scores and that they reduce teacher and staff attrition. Teachers' unions help attract and retain the best teachers and staff, which is especially important when teachers are leaving or considering leaving the profession in droves. Strong schools make strong communities for everyone.  I am in favor of allowing collective bargaining for our teachers and staff. Thank you.",
+    "speaker": "ryanmckay",
+    "tags": [
+      "public_addressing",
+      "opinion",
+      "policy_proposal",
+      "request_action",
+      "cite_external_source"
+    ]
+  },
+  {
+    "start": 1600.308,
+    "end": 1607.154,
+    "text": "Thank you for those comments, Ms. Looney. Let me pause my timer. The next speaker will be Scott Code.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 1611.177,
+    "end": 1637.859,
+    "text": "Good evening, everyone. My name is Scott Code. I live in Crozet on Leon Lane and I have a son that's going to school at Brownsville Elementary. I support the collective bargaining resolution submitted by the Albemarle Education  We depend on our teachers and they deserve our support. We must ensure the teachers have the opportunity to negotiate their compensation, benefits, and working conditions. Thank you for your time today.",
+    "speaker": "scottcode",
+    "tags": [
+      "public_addressing",
+      "opinion",
+      "request_action"
+    ]
+  },
+  {
+    "start": 1639.985,
+    "end": 1641.55,
+    "text": "Thank you for those comments, Mr. Code.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1642.272,
+    "end": 1678.918,
+    "text": " The next speaker will be Mary Nacy before we look back to the two missed people. Hey, thank you. I'm Mary Nacy. I am from the Whitehall District. I'd like to encourage the board to adopt the Admiral Education Association's collective bargaining resolution. It's no secret that the ACPS staff morale is really low. An easy way to reverse this trend or begin to reverse it and to also retain and recruit strong teachers  would be to pass this widely supported resolution, allowing teachers and staff to better advocate for themselves. Thank you.",
+    "speaker": "marynacey",
+    "tags": [
+      "public_addressing",
+      "policy_proposal",
+      "express_concern",
+      "request_action",
+      "opinion"
+    ]
+  },
+  {
+    "start": 1681.621,
+    "end": 1689.85,
+    "text": "Thank you for those comments, Ms. Macy. I see Margo Diaz has logged back on. Ms. Diaz, if you're ready, you can give your public comment now.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "logistics_info",
+      "procedural_move",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1696.398,
+    "end": 1747.906,
+    "text": "Hi, thank you.  Thanks for the opportunity. My name is Margo Diaz. Oh, I should have hit start video. Sorry, y'all. Where's my face? My name is Margo Diaz and I live in the Whitehall District. I have a second grader and what I've started calling a rising sixth grader at Crozet Elementary. More and more each day, our education system is appearing to be on the brink of exhaustion. The local next step, sorry, the logical next step is  to ensuring quality education for all of our children is advocating for their empowerment of teachers and all the school staff, all the people who make our schools great in so many ways. I support the collective bargaining and the school board should too. Thank you.",
+    "speaker": "margotdiaz",
+    "tags": [
+      "public_addressing",
+      "express_concern",
+      "policy_proposal",
+      "request_action",
+      "opinion"
+    ]
+  },
+  {
+    "start": 1750.95,
+    "end": 1782.082,
+    "text": "Thank you for those comments, Ms. Diaz. I do not see Ms. Lyons on. I do want to say,  It's, I think, a hallmark of good teachers and people used to lesson planning and timelines and efficiency that all of you, all of the speakers tonight, who I believe most of whom were teachers, are on point with your messaging and your timing. So thank you for that. That's about as efficient as I've seen public comment happen. So that concludes public comment. I don't, nobody else, and I don't see Ms. Lyons.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "procedural_move",
+      "give_update"
+    ]
+  },
+  {
+    "start": 1785.466,
+    "end": 1795.158,
+    "text": "Okay, thank you, Ms. Carlson.  We will now have our COVID update with Dr. McLaughlin and Ms. Schmidt.",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "logistics_info",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1796.08,
+    "end": 2043.208,
+    "text": "Yes, good evening board members. I'm Pat McLaughlin, chief of strategic planning for the school division. And I'm here tonight along with Rosalind Schmidt to give our COVID-19 status update for March 24th.  So we always start our COVID updates by looking at our community levels in Albemarle County. And I am pleased to say that on March 17th of Friday of last week, we dropped down to a low level for the new CDC metrics. That means that we had fewer than 200 cases for our case incidence rate. We also had one of the other factors they look at is the COVID-19 admissions per 100,000 people in the population.  Those were less than 10 for that week, and the percent of staffed inpatient beds occupied by COVID-19 patients was also less than 10. All of those factors put together give us a low level of community transmission. This is week one that we've been in a low level of community transmission, and I want you to remember that because it's going to be important for one of our final slides that we have.  The other piece that we look at is community vaccination statistics. We've seen these several times. We have very high levels of vaccination, particularly among our school age students in Albemarle County. And then we also gauge our school impact, first looking at transmission within the schools. And this week, we've got that listed as a low level, although we did have one outbreak at an elementary school.  Going to a medium level would take two outbreaks, but I wanna make sure the board was aware we did have an elementary school outbreak this past week. But our overall cases still remain low. On the COVID dashboard for last week, we had 23 student cases and two staff cases. Our attendance rate has really rebounded since it hit some low points earlier this year. Our attendance rate on Tuesday of this week was 94.2% in attendance. And we had an additional three-tenths of a percent  of our population at home for quarantine or isolation. That equates to about 40 students that day. And finally, our staff absences. On Tuesday of this week, we had 65 staff absences, but only nine of those were COVID related. We always fluctuate a little bit between a normal and a strained posture for staff capacity because we know that substitute teachers are still rather hard to come by.  And so I wanted to also remind you of a conversation we had last week about our planning for this spring and eventually moving to an endemic posture for COVID-19. We had four goals associated with that. One, to maintain a safe environment for our students and staff. Two, to align with current public health guidance to the greatest extent practical. Three, to ensure that changes are transparent, well-communicated, and easy to understand.  and four, to transition to an endemic state with sustainable infection control practices. And there's really four key points on this plan. The first happened this month, and these are already in place, that masks became optional for our students, and we've also reduced our quarantine and isolation time, both for students and for our staff. Next month, we plan to suspend contact tracing for individual cases, and we're also gonna make some modifications to our return to school criteria  after a student is symptomatic. We are not going to make changes to our identified mitigation strategies. We feel those will continue to be of benefit to us. And then there are two areas where the board would need to take action before any changes could be made. And if you recall from last week,  Those two actions are any action on our staff and visitor mask requirements and any changes to our staff vaccination or weekly test requirements. At last week's meeting, you charged us with getting some recommendations from the School Health Advisory Board on both of those policies and so that you could make an informed decision around those. And I'd like to turn things over to Ms. Schmidt, who's been working with the Health Advisory Board.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "public_addressing",
+      "logistics_info",
+      "request_action",
+      "defer_to_expert",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 2044.353,
+    "end": 2280.398,
+    "text": " Thank you, Dr. McLaughlin. I'm Roslyn Schmidt, Chief Operating Officer. As Dr. McLaughlin mentioned, we sought a recommendation for the board's direction from the School Health Advisory Board. I'm grateful for that board for reconvening on short notice. So they met earlier this week.  and made the following recommendations. So first regarding masks, it was their recommendation that the mask requirement for staff and visitors should relate to community levels and trends over time. This aligns with the current CDC guidance, which ties mask recommendation to community levels. So more specifically, what that means is their recommendation is to eliminate emergency policy EBA, which is the mask and acceptable face covering policy.  when community levels reach low for at least two consecutive weeks. So as Dr. McLaughlin mentioned in his data, we hit that low level last Friday. We anticipate it this week as well, but to be determined. They also discussed the importance of being able to respond if there's another surge or other future circumstances. So again, the more specific recommendation is to replace, if you're going to eliminate the emergency policy, replace it with an amendment to an existing policy  that more operationalizes mask requirements and other public health guidance in the future. And so that would allow us to be a little more agile and flexible with CDC guidance. So regarding staff vaccination, their recommendation is to eliminate the weekly testing program or vaccination requirement for staff at the next practical date.  but they are in strong encouragement of vaccination. So they urge the school division to continue to develop ways to encourage and incentivize vaccination. Happy to answer any questions on those recommendations. But before I do that, we just have one more slide and then we'll open it up.  So with those recommendations in mind, if the board accepts those recommendations, we wanted to outline some practical steps the board could take. So, as I mentioned, the SHAB recommendation mentions two weeks at the low level, which will likely meet tomorrow. But you'll see these steps more aligned with spring break. You'll see an April 4th deadline. We feel it's a more natural time to make a change if a change is desired and allows more time for communication.  And I'm confident the School Health Advisory would agree. So first, you'll see the first step to take would be to end the emergency policy. By doing so, that means masks will continue to be required until spring break and will become optional for staff and visitors beginning April 4th. So that's the first step.  The second step would be that you could direct staff to amend our recommendation is policy GBE, which is a staff health policy. There's some opportunities there to add some language around giving the superintendent and staff authority to implement health initiatives specific to the CDC, VDH and Blue Ridge Health District. Those details are not specifically mentioned in the policy now. Again, that allows ACPS to remain agile in response to updated or future guidance.  and if community levels change. If that's the step the board wants to take, we would present a draft at the April 14th business meeting. And then the last step relates to the vaccination weekly test requirement. You could end that requirement effective April 4th. That means that the last required weekly test for those employees would be next week.  And then again, we align that with spring break. But if a sooner date is desired, we would feel like March 28, Monday, is the soonest. We wouldn't recommend any immediate changes. So with that, we'll open up for any questions or discussion.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "logistics_info",
+      "request_action",
+      "clarify"
+    ]
+  },
+  {
+    "start": 2285.607,
+    "end": 2305.033,
+    "text": "Mr. Page, in front of discussion, may I make the first  motion and then we can open it for discussion. I move that we eliminate emergency policy EBA effective April 4th.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move",
+      "policy_proposal",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2306.374,
+    "end": 2309.216,
+    "text": "Second.",
+    "speaker": "davidoberg",
+    "tags": [
+      "procedural_move",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 2309.236,
+    "end": 2326.759,
+    "text": "Okay, it's been moved by Mr. Alcaro, seconded by Mr. Oberg that we eliminate policy EBA effective April 4th. Is there any discussion on that motion? This is one of the recommendations.  that we received. So is there any discussion on that motion?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 2327.78,
+    "end": 2360.05,
+    "text": "Just a comment. I mean, Ms. Schmidt says that the indications are that we will have a second week of low incidence in the community. And we won't know that until tomorrow officially. So can it be contingent on a second week of  low levels in the community. I mean, I think that's what we expect to be the case for sure. But it's not official until tomorrow when the Blue Ridge Health Department reports it.",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "clarify",
+      "cite_external_source",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2363.637,
+    "end": 2378.283,
+    "text": "I would change my motion to eliminate the emergency policy EBA effective  April 4th, based on the level of the numbers effective tomorrow.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "policy_proposal",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2381.888,
+    "end": 2385.773,
+    "text": "Mr. Olberg, since you second, are you agreeable to that amendment?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2386.914,
+    "end": 2479.782,
+    "text": "My only concern is that the CDC guidance on the infection rate is skewed against  counties and cities that have large hospitals. Because if you look at if, I mean, there are a number of counties surrounding Amherst County that do not have the facilities necessary to treat somebody with COVID. And so their hospital levels remain low. And yet they come here and ours go high. If you look at, there was a period of time where we were  at an elevated level, not because of the infections in our county, but because of the admissions in our county. So it made it look like our infection rate was higher than the surrounding counties, which was not true. But because of the way the CDC did it, they're assuming every county has a hospital, right? But it's impossible for a county that doesn't have a hospital, and there are a number of them in Virginia.  to be impacted by that number. So it's only by the number of actual infections. And so I just don't, I hate to tie it to that simply because they could have an outbreak in Louisa and we have to keep wearing masks in school and they don't. I just, so I,",
+    "speaker": "davidoberg",
+    "tags": [
+      "express_concern",
+      "clarify",
+      "opinion",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2483.373,
+    "end": 2534.203,
+    "text": " Mr. Oberg, if I could provide one quick point of clarification. It relates to what you were saying. My understanding of the hospitalization rate is that the CDC looks at our health area as a whole. It comprises a number of counties, regardless of whether or not they have a hospital within that county. And they take the total number of cases that happen within that health district, hospitalizations that happen within that health district,  and farm it out based on proportion of size of the county. So they do try to account for that a little bit. I don't know if it's a perfect system for that, but you can see counties without a hospital in them have an elevated level of hospitalizations as an intuitive as that seems.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "clarify",
+      "cite_external_source",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2538.993,
+    "end": 2573.936,
+    "text": " Okay, with that. I will accept that as a truth, but with the caveat that I don't think it's working. Because there were several counties around us who had a higher infection rates than we did. And yet they were low and we were medium. And I know that those counties don't have hospitals.  I mean, I'm not going to hold it up because if Jono wants his motion to be that way, I will continue my second of his motion.",
+    "speaker": "davidoberg",
+    "tags": [
+      "acknowledge",
+      "conceding",
+      "express_concern",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 2576.181,
+    "end": 2599.591,
+    "text": "Thank you. Any other discussion on that motion? Which now stands that we would  Revise or eliminate policy EBA effective April the 4th, depending on the transmission rate on March 25th. Any other discussion?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "policy_proposal",
+      "clarify",
+      "follow_up_request",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2600.792,
+    "end": 2644.009,
+    "text": "I just, I do think it makes sense to operationalize it. I think that that, you know, our meeting cadence and our resolution cadence and whatever is  probably too slow for what's happening. I still have my concerns for our kids who are not able to be vaccinated and for people with immunocompromised people in their families or people at higher risk for other reasons. So I agree that it should be operationalized and I'll vote that way, but I maintain my concerns.",
+    "speaker": "judyle",
+    "tags": [
+      "agreeing",
+      "express_concern",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2644.681,
+    "end": 2647.104,
+    "text": " Okay, thank you.",
+    "speaker": "scottcode",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2647.124,
+    "end": 2655.355,
+    "text": "Any other comments or concerns? If not, Ms. Johnson, could you please call the roll on the vote?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "procedural_move",
+      "vote_call",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2658.62,
+    "end": 2663.907,
+    "text": "Paulsen? Yes. Mr. Oberg?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2666.069,
+    "end": 2666.31,
+    "text": "Yes.",
+    "speaker": "scottcode",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 2667.311,
+    "end": 2674.08,
+    "text": "Ms. Lee? Yes. Dr. Acom? Yes. Ms. Osborne?",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2674.499,
+    "end": 2674.839,
+    "text": " Yes.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2675.92,
+    "end": 2678.923,
+    "text": "Mr. O'Carroll? Yes. Mr. Page?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2679.584,
+    "end": 2679.864,
+    "text": "Yes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 2680.505,
+    "end": 2681.266,
+    "text": "Motion carried.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "vote_call"
+    ]
+  },
+  {
+    "start": 2682.007,
+    "end": 2711.813,
+    "text": "Thank you. All right. We still have to address the mask requirement for our staff and visitors and the vaccination requirement that was also part of what we'd asked the Health Advisory Committee to give us advice on.  So we saw the recommendations from that group on the mask requirement and on the vaccination requirement. Could we have a vote on those two requirements?",
+    "speaker": "grahampaige",
+    "tags": [
+      "vote_call",
+      "procedural_move",
+      "request_action"
+    ]
+  },
+  {
+    "start": 2711.833,
+    "end": 2716.24,
+    "text": "I'm sorry, what did we just vote on? I think I am confused. That was on policy EBA.",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 2716.28,
+    "end": 2721.888,
+    "text": "That was on policy EBA. Wasn't that the mask requirement, EBA?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 2721.908,
+    "end": 2722.709,
+    "text": "No, no.",
+    "speaker": "judyle",
+    "tags": [
+      "disagreeing"
+    ]
+  },
+  {
+    "start": 2722.729,
+    "end": 2725.093,
+    "text": "It's three separate things that we'd be looking at.",
+    "speaker": "grahampaige",
+    "tags": [
+      "clarify"
+    ]
+  },
+  {
+    "start": 2725.36,
+    "end": 2733.355,
+    "text": " Could we have the slide up again? I was also a bit confused.",
+    "speaker": "kateacuff",
+    "tags": [
+      "request_action",
+      "clarify"
+    ]
+  },
+  {
+    "start": 2733.375,
+    "end": 2738.545,
+    "text": "Okay. Okay. So next steps. Yeah, that was it.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2740.629,
+    "end": 2752.622,
+    "text": "Yeah. So again, as a, as a quick point of clarification, um, the, the vote to rescind policy EBA.  was a vote to eliminate the mask policy for staff. That was my understanding.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "clarify",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2752.642,
+    "end": 2760.149,
+    "text": "Oh, OK. I didn't realize that because there's three separate steps. So I was thinking that it was three separate motions that we would need.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "conceding",
+      "clarify"
+    ]
+  },
+  {
+    "start": 2760.77,
+    "end": 2779.161,
+    "text": "And then the second step that was recommended by the School Health Advisory Board was for the board to direct staff to amend our staff health policy, which would then give the flexibility that Ms. Lee was talking about to make operational decisions around things like masking.  Okay.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "policy_proposal",
+      "request_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2779.181,
+    "end": 2791.817,
+    "text": "All right. So that was my point of confusion because I saw three separate steps there and I was thinking that the motion was only for the first one. So we do have all three of them taken care of then, right? No, no, we don't, Graham.",
+    "speaker": "grahampaige",
+    "tags": [
+      "clarify",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 2792.017,
+    "end": 2818.625,
+    "text": "All we did was remove the mask requirements for staff and for visitors. So to the extent that we want to have an operational, and I, I think, uh,  Judy is correct. I think we need one. I think that would be a very good thing. We have to have a separate motion, and we also have to have a separate motion regarding the testing or combine them.",
+    "speaker": "davidoberg",
+    "tags": [
+      "give_update",
+      "agreeing",
+      "procedural_move",
+      "opinion",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2818.645,
+    "end": 2820.848,
+    "text": "All right. So you're saying a separate motion for what now?",
+    "speaker": "grahampaige",
+    "tags": [
+      "clarify",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 2823.592,
+    "end": 2881.532,
+    "text": "We only eliminated the mask requirements. We didn't eliminate or we didn't create an operational  ability from, my understanding, and tell me if I'm wrong, Dr. McLaughlin, is that staff wants to be able to reinitiate the practices on a case-by-case basis based upon outbreaks so that we don't, because from a practical standpoint, we will not have the speed to respond to another outbreak. So if there's a sudden huge increase in cases, we don't want to be caught flat-footed.  And so we want to have an operational system such that superintendent and his staff in coordination with the health district can reinstitute some of these things based upon their need on an immediate basis, as opposed to waiting for us to adopt a policy. Am I correct, Dr. McLaughlin?",
+    "speaker": "davidoberg",
+    "tags": [
+      "ask_question",
+      "defer_to_expert",
+      "clarify",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 2881.552,
+    "end": 2913.48,
+    "text": "That is correct. So number one, we've checked that one off the list. The board made a motion, approved a motion  to end policy EBA, which ends the requirement for masks and for staff and visitors effective April 4th. There are two other things we'd like the board to consider tonight. The first is to provide direction to staff to amend policy GBE so that we have the flexibility to operationalize masking decisions based on the current situation in the community.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "request_action"
+    ]
+  },
+  {
+    "start": 2913.5,
+    "end": 2918.565,
+    "text": "And we don't have to have a motion for that. That's right. You can just give us direction on that.",
+    "speaker": "davidoberg",
+    "tags": [
+      "clarify",
+      "procedural_move",
+      "request_action",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2918.585,
+    "end": 2919.426,
+    "text": "Dr. McLaughlin.",
+    "speaker": "kateacuff",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2920.064,
+    "end": 2928.334,
+    "text": " Yes. Pending the chair's objection, the staff is directed to do that. Second on that.",
+    "speaker": "davidoberg",
+    "tags": [
+      "procedural_move",
+      "request_action"
+    ]
+  },
+  {
+    "start": 2928.354,
+    "end": 2928.554,
+    "text": "Yes.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 2929.615,
+    "end": 2940.027,
+    "text": "We don't need to vote on it. That was indeed an odd motion, but by consensus, is Mr. Berg's statement agreeable on item two?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2941.168,
+    "end": 2943.331,
+    "text": "Yes. Yes. Yes.",
+    "speaker": "kateacuff",
+    "tags": [
+      "agreeing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2943.351,
+    "end": 2946.915,
+    "text": "Okay. So by consensus, then we are agreeing with item two.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 2947.148,
+    "end": 2974.32,
+    "text": " So we will bring a draft of that policy to the board on April 14th at your next meeting. And then the third item that was suggested by the, recommended by the school health advisory board and by staff is to end the requirement of vaccinations. And we are recommending that we, or weekly testing. And we are recommending that that take place effective April the 4th. I believe that would need a board motion. Mr. Chair, I move that the board",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 2974.84,
+    "end": 2978.545,
+    "text": " eliminate the requirement of vaccination and weekly testing effective April 4th.",
+    "speaker": "davidoberg",
+    "tags": [
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 2980.628,
+    "end": 2982.15,
+    "text": "Second.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "procedural_move",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 2982.17,
+    "end": 2993.305,
+    "text": "Okay, moved by Mr. Oberg, seconded by Mr. Alcaro, that we eliminate weekly vaccination requirements effective April the 4th. Any discussion on that motion?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2994.179,
+    "end": 3008.633,
+    "text": " I was curious, Ms. Schmidt, about do you have any sense of how many staffers we had in that weekly testing? It's my understanding we had about 200 employees who were testing weekly.",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 3013.277,
+    "end": 3021.085,
+    "text": "But our vaccination rate of our staff overall was 90% plus. The vast majority of our staff are fully vaccinated.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "give_update",
+      "reassure"
+    ]
+  },
+  {
+    "start": 3021.105,
+    "end": 3021.165,
+    "text": "OK.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3024.115,
+    "end": 3033.388,
+    "text": " Any other discussions or questions on the motion? If not, Ms. Johnston, could you please take a vote?",
+    "speaker": "grahampaige",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "vote_call",
+      "request_action"
+    ]
+  },
+  {
+    "start": 3034.85,
+    "end": 3043.242,
+    "text": "Dr. Acuff? Yes. Ms. Carlson? Yes. Mr. Alcaro?",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call"
+    ]
+  },
+  {
+    "start": 3043.903,
+    "end": 3044.183,
+    "text": "Yes.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 3045.184,
+    "end": 3055.384,
+    "text": "Ms. Osborne? Yes. Mr. Oberg? Yes.  Ms. Lee? Yes. Mr. Page? Yes. Motion carried.",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3055.985,
+    "end": 3080.987,
+    "text": "Thank you. So thank you Dr. McLaughlin and Ms. Schmidt for presenting.  Okay, just one more thing related to the testing and the monitoring I like Miss Lee I am concerned that we have what 300 or so pre K kids who are not old enough to be vaccinated.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 3081.119,
+    "end": 3114.647,
+    "text": " And we've had several letters from parents of vulnerable children. I wonder if we can get a recommendation. I know it's sort of the horses out of the barn now, but from our school health advisory committee, or if we can at least monitor those groups in particular, in terms of possible outbreaks or infections.  I mean, the last thing I would want to do is to have one of our adults in the school transmit to particularly vulnerable kids.",
+    "speaker": "kateacuff",
+    "tags": [
+      "request_action",
+      "express_concern",
+      "prioritization",
+      "defer_to_expert"
+    ]
+  },
+  {
+    "start": 3116.409,
+    "end": 3122.875,
+    "text": "OK. So are you asking us, Beth, the advisory committee on guidelines related to that?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 3124.857,
+    "end": 3160.215,
+    "text": "Well, I guess I'd like some feedback from either Dr. McLaughlin or Ms. Schmidt about the feasibility of that. I know they don't meet again for another month. And by then, school's almost over.  Yeah, I- If I could just interject, and I could be reading the decision wrong, but my understanding of the court's decision that came down yesterday was that school systems need to comply with the request for accommodation.",
+    "speaker": "kateacuff",
+    "tags": []
+  },
+  {
+    "start": 3161.005,
+    "end": 3189.747,
+    "text": " based upon immunodeficiencies. And so I think on a case-by-case basis, that's gonna have to be dealt with because we may have certain classes and certain teachers who need to continue to wear masks, but it wouldn't be division-wide, it would be based upon the circumstances of the individual students. And so this would not eliminate that opportunity for a parent to request that accommodation. Am I wrong, Ross?",
+    "speaker": "davidoberg",
+    "tags": [
+      "clarify",
+      "policy_proposal",
+      "express_concern",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 3193.152,
+    "end": 3209.517,
+    "text": " Oh, you're absolutely right, Mr. Oberg. That's what Judge Moon said, and that we would take it on a case by case basis. And it would be considered to be a potential accommodation, as we would in any other IEP or 504.",
+    "speaker": "rossholden",
+    "tags": [
+      "acknowledge",
+      "agreeing",
+      "clarify",
+      "reassure",
+      "cite_external_source"
+    ]
+  },
+  {
+    "start": 3213.603,
+    "end": 3217.569,
+    "text": "But that wouldn't apply broadly to our preschool population.",
+    "speaker": "kateacuff",
+    "tags": [
+      "clarify",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 3219.292,
+    "end": 3219.833,
+    "text": "It would not.",
+    "speaker": "davidoberg",
+    "tags": [
+      "disagreeing"
+    ]
+  },
+  {
+    "start": 3221.135,
+    "end": 3221.455,
+    "text": "Yeah, OK.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 3222.329,
+    "end": 3234.808,
+    "text": " But I'll comment as we enter the end of the school year, a lot of our preschool kids are now five, I mean, have turned five. So it's not like it was at the start of the year when a lot of them were ineligible. Thank you.",
+    "speaker": "rosalynschmitt",
+    "tags": [
+      "give_update",
+      "clarify"
+    ]
+  },
+  {
+    "start": 3239.957,
+    "end": 3244.904,
+    "text": "Okay, Dr. Acuff, does that answer satisfy what your concern was?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 3246.707,
+    "end": 3256.678,
+    "text": "I think so. I mean, I think  If we have an outbreak in cases, we can ask more information about where it's occurred in the school. Thank you.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "follow_up_request",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3258.141,
+    "end": 3285.818,
+    "text": "All right, thank you. All right, and we do thank Dr. McLaughlin and Ms. Schmidt, and also our Health Advisory Committee for coming up with advice that led us into those motions and consensus items. So thank you all for the COVID update.  We'll now have Dr. McLaughlin to come to us again with the mid-year data review.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3286.859,
+    "end": 4016.942,
+    "text": "Yes, good evening again, board members. I'm happy to continue the session tonight by leading tonight's work session around our mid-year data review and our equity audits. Our work session tonight has several purposes, including a presentation on how we use data in the division at the division level  to help us to achieve our mission, which will be followed by some time for board members to take on the role of ACPS principals as you review a few sets of mid-year data, climate data and assessment data and conduct an equity audit on them. This will help us to prepare the board for a work session that's coming up this September, when we'll have time to examine the final results of our state testing and set targets for improvement. So let's get started.  I'd like to begin by thanking, by sending my thanks to all of the team members who will be assisting with tonight's work session. Those include India Hahn, Chris Gilman, Jamie Gelner, Katrina Sims, Natalie Farrell, Lars Holmstrom, Shea Carter-Shifflett, Leilani Keyes, and Miles Nelson. Thank you all for being here tonight. So our work session tonight is really grounded in the mission of Albemarle County Public Schools. And I'd like to focus your attention on the first sentence of this mission.  that working together as a team, we will end the predictive value of race, class, gender, and special capacities for our children's success through high quality teaching and learning for all. Our mission is our highest priority as a school district, and one of the most important indicators of our progress toward that mission is the school accreditation process.  As you'll see tonight, when our schools meet the standards for state academic accreditation, that indicates to us that the achievement gaps either are closing or have closed, and that will fulfill our mission. Tonight's work session has myriad connections to learning for all, and I hope that tonight you'll hear about some of our key strategies for success, including, but hopefully not limited to, creating a guaranteed and viable curriculum,  Ensuring culturally responsive teaching practices are implemented in all of our classes. Implementing comprehensive school improvement support teams. Implementing Virginia Department of Education and school board adopted curricula and resources with fidelity. Developing school equity dashboards to monitor progress toward closing equity and achievement gaps. And adopting, implementing, and measuring the effectiveness of a social emotional learning curriculum.  including responsive classroom and developmental designs in grades K through 12. All of those are directly from our strategic plan, and we hope you hear about those tonight. So to frame our work a little bit, I'd like to provide just a very brief overview of school accreditation. One of the best sources that we have for information on how our schools and our school system is performing  is the Virginia School Quality Profile. That's a site that's put together by the Department of Education, and it contains multiple indicators of school and student success. You can go to this site and you can look at Albemarle County as a whole for most indicators, and you can look at every one of our individual schools and any public school in the state of Virginia to see how they are doing. Tonight, I'd like to really get focused in on two pieces  of the school quality profile. That's assessments and accreditation. And to explain briefly the distinction that we make between those two. So assessments are, is a tab where if you go there, you will see just the straight results of how many students passed an end of year SOL test compared to how many students did not pass an SOL test. It is all students have to score 400 or above.  to meet that criteria and any student under 400 does not count as a pass for an assessment. Accreditation, on the other hand, provides equal credit for students who pass state English and math tests, as well as for non-passing students who show significant improvement throughout the course of the year.  That's where we talked to the board a lot about student growth. That's where student growth gets reflected in our results. And in my mind, to meet our mission, we want to eliminate the achievement gaps in our accreditation results. We want to see that there's no gaps between students who are either meeting the standard for passing their assessments or growing sufficiently according to the state that they are eventually going to get there.  A school's accreditation is determined using several indicators, and they include academic achievement in math, English, and science for the school as a whole, achievement gap achievement in mathematics and English, and when we talk about the achievement gap indicators, that breaks down all of our eight different membership groups and looks at them individually to make sure they are achieving at high levels as well, and chronic absenteeism.  Each of these is given a yearly performance level of level one, level two, or level three, and that determines our accreditation ratings. In addition to those first three bullets, our high schools have an additional three criteria that they are judged on for purposes of accreditation. Those are the graduation and completion index, the dropout rate, and the college career and civic readiness index. So as we talked about, there are three  different levels of accreditation. What we always strive for is accredited. We don't get accredited as a division, but our individual schools get accreditation ratings. Schools earn a rating of accredited when all of the school quality indicators you saw on the previous slide are at a level one or a level two. Level one means you're meeting the standards set by the state. Level two means you're very close to that standard that is set.  Schools can also be accredited with conditions. Any school that has one or more indicators at a level three indicating that some improvement is needed is giving a rating of accredited with conditions. And the final accreditation rating is accreditation denied. And schools that fail to adopt or fully implement required corrective actions to address level three school quality indicators can be accredited as accreditation denied.  The pandemic has had a pretty significant impact on accreditation over the past two years. Accreditation is really a lagging indicator. So the accreditation for this school year, 2021-2022, is based always on the previous school year's results. So it lags back to last year's results. For the past two years, accreditation has been waived for all public schools in the state of Virginia.  In the 2019-2020 school year, you remember that we were home for the pandemic, and SOL testing just did not take place in the fall. Last school year, we had SOL testing take place, but it was so sporadic throughout the state that the state superintendent waived accreditation for schools for this current academic year. This year, however, next year, however, accreditation is going to resume. And our 2022-2023 accreditation status will be based on the  final SOL results that we have this year. And so how do we ensure at our schools that we're making the progress we need to get accredited? Well, I think one of the key tools that we use is our school improvement template. And these templates help us to monitor our progress toward all the accreditation goals in a school improvement plan. Every school develops a plan each year and they update that plan quarterly.  And recently, we revised our school improvement template to align with the Virginia Department of Education model for improvement. The plan template helps schools develop SMART goals, essential actions, and specific action steps to meet those goals. All school improvement plans are published publicly on our school and division web pages so the public can see our work. And I'll bring up just quickly an example of our school improvement template. It's divided into two key strands. The first is teaching for learning.  And for Teaching for Learning, we develop a SMART goal around where we want our students to be academically. The plan also has us identify key strategies that we think are going to be the most important drivers of moving that work. And then schools work for each of those key strategies to develop action steps. They identify an action step. They identify who's responsible for the implementation, the time frame for the implementation.  what they would collect as evidence that they are moving forward with that action step and assign a person who is responsible for monitoring that. These are updated every quarter. And so you can go into any of our school improvement plans and see all of those steps that schools are taking. And the school improvement planning process really has changed pretty significantly this year to ensure strong alignment with Learning for All, our strategic plan. In its previous state,  Each school had different academic and climate goals. They had different action steps that were developed individually at their school. And they had, for the most part, common assessments that were developed at each school. It was really a school-based plan versus a system-based plan. And this year, as we've adopted Learning for All, one of the key strategies to this is our comprehensive school improvement teams.  Within those, we have collectively developed academic and climate goals for all of our schools. They all have the same goal. We also collectively developed essential strategies for each school. Each school then works in a group of three to develop their action steps, and we also this year developed division-level common assessments for all of our schools. So our academic goal at every school this year is that as measured by the end-of-year SOL tests, every enrollment group in the state, every enrollment group in the school,  will meet state accreditation targets or reduce the previous failure rate by 10% in all tested subjects. That's how you make accreditation. You do one of those two things and all of your categories are gonna be green or yellow, level one or level two. Our three most important essential actions that we have for that plan are professional learning communities, a guaranteed and viable curriculum for all of our students and a strong common assessment plan. All of those strategies come straight from our thriving students goal  in learning for all. Schools also develop a climate goal. And this is where our panorama survey comes in. So our climate goal for all schools this year is as measured by the panorama student supports and environment survey, school results will be at or above national averages and no gaps will exist for our enrollment groups. And there's three key drivers of that or three essential actions for that. And that's the continued implementation of our anti-racism policy,  culturally responsive teaching, and a focus on responsive classroom, developmental design, and high school seminar. That's where we see our SEL curriculum integrated into our schools. All three of those come straight from our affirming and empowering communities goal. And final, the final shift that we made with our school improvement process this year is to form principal professional learning communities around the school improvement plans.  Principals work in groups of three throughout the year, meeting every month with each other to check in on the progress of their plans. And then they meet quarterly with comprehensive school improvement teams to review each quarter and set action steps for the next. These teams bring together folks from instruction, from our office of equity, from special education, from strategic planning, to all work collectively on how we can support schools to these goals.  And one of the key elements that really has emerged from the school improvement planning process that's going to turn into the focus of our work tonight is what we call an equity audit. And I'd like to introduce at this time Leilani Keyes from our Office of Equity to talk us through an equity audit and what exactly that means. Leilani?",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "public_addressing",
+      "give_update",
+      "clarify",
+      "logistics_info",
+      "acknowledge",
+      "defer_to_expert",
+      "procedural_move",
+      "request_action"
+    ]
+  },
+  {
+    "start": 4017.361,
+    "end": 4079.059,
+    "text": " Thank you so much Dr McLaughlin and good evening school board I'm Leilani keys. I'm representing the equity specialist team this evening. The equity audit process which started and still is a key component of our culturally responsive teaching credentialing program guides our educators to analyze their data to look for equity gaps.  and use their data to make instructional decisions. When using the equity audit, teachers and administrators become more aware of how to address specific data to improve student outcomes. For more information, I'd like you to look at the speaker's notes when you have a chance and take a look at background of the equity audit for more information.  In the following video that we're about to show, we'll watch teachers and administrators discuss how the equity audit approach impacted their teaching and leading. While you watch the video, consider some conclusions that our educators draw by closely examining their data through the equity audit process.",
+    "speaker": "leilanikeys",
+    "tags": [
+      "public_addressing",
+      "give_update",
+      "request_action",
+      "cite_external_source",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4092.59,
+    "end": 4156.731,
+    "text": " What I learned about myself and my teaching while I was doing my equity audit is that a lot of the ways that I let students practice through games or through worksheets or other things were more conducive for students who were cooperative learners.  and not so helpful for students who might have been more competitive or more individualistic. So something that I started to realize is that I needed to expand the ways, expand the games, make new games that could be more competitive. And then I started to see more students engaging in those games. And every student, cooperative and competitive, had a chance to be able to practice skills that we were teaching in our intervention groups in a way that really helped them to shine.  But I learned that if I don't take an intentional approach in noticing trends and patterns throughout the day, that I am also playing a role in perpetuating academic and achievement gaps.",
+    "speaker": "leilanikeys",
+    "tags": [
+      "give_update",
+      "opinion",
+      "express_concern",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 4156.812,
+    "end": 4178.672,
+    "text": "The day moves fast. And by doing equity audits and taking the time to look at patterns throughout the day, and the students I was working with  the students I was seeing, the families I was communicating with. Patterns and trends continue if you don't take an intentional approach to shift your practice.",
+    "speaker": "leilanikeys",
+    "tags": [
+      "opinion",
+      "express_concern",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 4178.838,
+    "end": 4209.249,
+    "text": " For me, in my certification year at Western, I really try to focus on particularly the gap in my socioeconomically disadvantaged students and zero in on the ways in which they relate to the English curriculum and the ways in which they relate to me and how I communicate my instructions.  I had to dig into more of my collectivist learners and to think about how I was motivating students the way that I would want to be pushed.",
+    "speaker": "leilanikeys",
+    "tags": [
+      "opinion",
+      "prioritization",
+      "give_update"
+    ]
+  },
+  {
+    "start": 4209.269,
+    "end": 4285.548,
+    "text": "In reviewing the data, and I reviewed lots of different data, so I looked at five years worth of achievement data, enrollment data, purchasing data.  there were lots of areas to focus on and I tried to figure out where can I begin. And so one of the things I looked at was what was going to impact students the most, kind of the quickest. And so I wanted to make sure that there weren't any barriers that were creating  barriers to access for students in terms of enrolling and experiences and opportunities. We looked at enrollment in courses and noticed some disparities in terms of which students were enrolled in some of our advanced courses, such as our AP courses and some of our dual enrollment courses, and looked at what were the barriers that were impacting some of our student groups. Things such as prerequisites that weren't required by the AP catalog,  or prerequisites that weren't required from PBCC for dual enrollment. And we looked at making sure that we remove those barriers, but that we also work to communicate and partner with teachers and students and families so that they understood what they needed to do to be successful in those courses.",
+    "speaker": "leilanikeys",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "prioritization",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 4285.948,
+    "end": 4290.775,
+    "text": "My overall... Great, thank you so much, Dr. McLaughlin.",
+    "speaker": "leilanikeys",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4291.316,
+    "end": 4529.2,
+    "text": "I hope that gives you an idea...  I hope that gives you an idea of how our educators have used equity audits in different fields. So this year we've expanded our use of equity audits as part of our ACPS mid-year data review process. Individual educators, professional learning communities in our division, and school administrator teams now use equity audits as essential tools to help them learn to provide instruction that meets the needs of all of our learners.  Culturally responsive teaching credential candidates have piloted the equity audit process as they intentionally create a plan to eliminate equities through the use of our three characteristics of culturally responsive teaching. Though we use an equity audit processing worksheet to simplify the process, which you'll see in a little bit,  Equity audits are flexible tools that should be applied throughout the course of the year whenever we seek to understand how predictable outcomes are correlated with social and cultural factors. Please consider the teacher equity audit exemplar linked on this slide when you are able to.  There are three parts of the equity audit process. The first part is to perform the equity audit. That is to disaggregate the data and become aware of potential gaps amongst our students. Part two is to determine focus students. This is an asset-based process. That is to say, we're not looking for problems that are beyond our control.  as educators. Rather, we are identifying problems of practice within our control. In other words, what can we do better as educators to meet the needs of our students?  Part three, that's where we look for intentional ways to apply the ACPS characteristics of culturally responsive teaching, because this is an action based process. So in that step, we develop goals in conjunction with students and families, and we look for ways to improve student outcomes, based on our culturally responsive teaching framework.  For more information on how to conduct an equity audit, how our educators are doing that as classroom teachers or school based administrators, you can again take a look at the speaker's notes to see some examples of professional learning.  So, let's take a look now at an equity audit in action. And this example comes from Burley Middle School administrators, as they examined and use an equity audit to examine their 21 to 22 panorama survey results.  Upon analysis, Principal Cassandra Blount and Assistant Principal Dr. Rusty Carlock recognized that though the majority of African American students cared about performing well in school, according to the survey, they also reported that they did not see the relevance of school in their everyday lives.  Because Dr. Carlock had completed a thorough school equity audit, the previous school year as a component of his culturally responsive teaching credentialing process, he recognized that literacy scores were an area of improvement for African American students at early middle school.  Administrators together just determined that they would help their teachers understand the importance of developing lessons that are more relevant to the experiences of their African American students, especially around literacy, and in order to make a positive impact on student reading.  As a next step, our Burley Middle School administrators will learn from their teachers how they were able to use the instructional strategies that were presented and monitor student growth as a result of those strategies. So that's just one example of how we're using it. And great job to Ms. Blunt and Dr. Carlock.",
+    "speaker": "leilanikeys",
+    "tags": [
+      "give_update",
+      "clarify",
+      "request_action",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4531.542,
+    "end": 4906.795,
+    "text": " Larry, thank you so much for for taking us through the the equity audits and I will say it's really been wonderful to see how this tool has evolved from.  from a tool that was used by really a relatively small number of teachers going for a culturally responsive teaching certification several years ago, now to the point that we've got 100% of our principals conducting equity audits on their school division data. So while it's great to hear about all those examples of equity audits in action, we thought it would be even more interesting to allow you all as board members to have that experience yourselves.  So tonight, you'll each have an opportunity to do the work of our teachers and principals by completing a partial equity audit on one of three data sets, either our mid-year common division data, our K-2 reading dashboard, or our panorama survey results. And to frame that up before we break out, it's important to note that all of the assessments that you see tonight are formative assessments. Formative assessments are assessments that monitor student learning and provide ongoing feedback that can be used by teachers.  They help to target specific areas that need additional work and they're low stakes. They generally aren't tied to grades. Formative assessments really help us pinpoint areas of need and help us inform instruction moving forward.  so that when we get to the next column there, summative assessments, students are doing well. And with a summative assessment, that's used at the end of a learning cycle to evaluate instruction, and oftentimes those are high stakes. Best example of a high stakes summative assessment is our high school SOL test that are tied to verified credits that are there. But even those summative assessments can be used formatively. We analyze the data at the end of every year in our schools, and we see where we were  where students were really achieving at high levels, where students needed some additional support, and that helps inform the next year of instruction. So one set of formative assessments that you'll see tonight are our division common mid-year assessments. This year, really, we had common assessments for almost every student. You're going to see the data set you have has about 6,000 plus students in it who took their common assessment. So we had them this year in reading for grades three through eight and grade 11.  in math for grades three through eight, and algebra and geometry students, in science for grades five, eight, earth science, biology, and chemistry, and in social studies for grades five, eight, world history one, world history two, and world geography. Those grade levels and those subjects tend to mirror the SOL assessments that our students take at the end of the year. Our data tonight is gonna focus in on our reading and our math assessments for our students.  When you look at these assessments and when you look at these results, you're going to see a couple of pieces of language that we wanted to make sure we were clear on. You'll see two categories that say met target or near target. Those are the students in the school who, based on their mid-year assessment and based on what we know from past mid-year assessments, are pretty likely to pass an end-of-course SOL. They're going to be fine just with some continued Tier 1 instruction between now and the end of the year.  Students who are below targets may need some additional support. We also know that when we give our common assessments, we often give them on the whole year's worth of curriculum, even though we've only gotten about halfway through the year. So those below target numbers naturally drop as we get toward the end of the year and our remaining curriculum is covered. And it's also important to know that all of the data that you see here is just pass rate data. It does not factor in growth as we talked about earlier in the presentation with our assessments.  So if you're in the group that's looking at our mid-year assessment data, you're gonna see a couple of charts that look like this. The first is our, this is our reading data. And the first chart you'll have is a performance chart. This first row here is the number of students in each one of our categories. We have all of our students as a whole. AS stands for Asian. Then we have black students, Hispanic students, white students, multi-race students, students with disabilities, gap group one,  and English language learners gap group one needs a little bit of an explanation, because one of the categories that we use for accreditation purposes is students coming from low socioeconomic status at home. That information is not publicly available and not even privately available to us at the school system that's embargoed information.  We do have a category that we used to use for accreditation called gap group one, which consists of all students with disabilities, all English language learners and all students who are eligible for free and reduced lunch, so we still go back to that gap group one category, because it gives us a decent idea of where our students who are economically disadvantaged might be performing.  In this chart, you'll see that language I talked about, met target for all of our students. We had 6,400 plus students take a mid-year reading assessment. This is the percentage of them who met the target. This is the percentage of them who are near the target. And this is the percentage of them who are below the target. So those numbers should all generally add up to about 100%.  We also look at it in another way, where we look at the results out of 100%, you know, the grade that you're used to getting on an assessment. And so our average result out of 100% for all of our students was 63.2%. When you go across the columns, you can look for equity discrepancies, who did better, which groups did not as well as the rest, as the average of all of our students.  You also have math data in there, that math data covers grades three through eight, algebra and geometry, has close to 6,600 students in there, and it's set up the same way when you read through those columns. Our second group tonight is going to examine our reading dashboard for grades K through two, and I'm happy to introduce Katrina Sims to provide an overview of that dashboard.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "clarify",
+      "acknowledge",
+      "defer_to_expert",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 4908.142,
+    "end": 4998.24,
+    "text": " Thank you, Dr. McLaughlin. Good evening, board members. I'm Katrina Sims, lead coach for K-5, ELA, and Title I. You will remember that we shared this image with you from the August work session. The images are the organizational structures that we're using to ensure that we have and are still addressing all aspects of implementing a strong phonics-based reading program.  narrowing the reading gap and reaching our goal that our students are reading on grade level by the end of second grade. Much of the data that you'll see tonight comes from this reading research.  So using the link to the reading dashboard, we wanted you to notice and note a few things. For kindergarten, you will only see reading data in quarters three and four, which is when we have the majority of our kindergartners beginning to read. You will also notice a key that describes a pre-emergent reader, just for ease of common language.  Pre-emergent readers are pre-learning basic concepts about print and book. For example, we read left to right, top to bottom, and print continues from the end of one line to the beginning of the next. They're also learning to identify the parts of a book. Readers at this level are developing their letter knowledge  recognizing uppercase and lowercase letters and their common sounds. Those students who have met the benchmark are going to be in the green portion of the column. Dr. McLaughlin, do you mind going to the slide actually in the dashboard?",
+    "speaker": "catrinasims",
+    "tags": [
+      "give_update",
+      "clarify",
+      "public_addressing",
+      "request_action",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5022.453,
+    "end": 5029.122,
+    "text": " Katrina, I know the slide you're talking about, and for some reason I'm not seeing it in there anymore, but I think we could probably explain it by looking at the dashboard.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "acknowledge",
+      "hedge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5029.382,
+    "end": 5097.313,
+    "text": "Perfect, thank you. So the students who have met the benchmark are in the green portion of the column. Those who are close to the benchmark are in the yellow, and those who are below benchmark are in the red. And as you hover over with your cursor over the colors, you'll also see the ethnic breakdowns of the percentages that are given.  just as Dr. McLaughlin had spoken of before with the mid-year assessments. The benchmarks that were created are done at the division level. When calling a student on, close or below, teachers refer to our elementary assessment guidelines. Using PALS, teachers are able to know which reading stage a student falls within. As you can see on the screen, this is an example of the benchmark expectations that are given to teachers, and this is for the complete year.  And if you go to the next slide, Dr. McLaughlin, finally, you can see on this slide, the progression. So you see from quarter one to quarter two with the expectations increasing in each quarter. So a student would, we would hope would start as an early beginner in first grade and then move to a late beginner. Thank you.",
+    "speaker": "catrinasims",
+    "tags": [
+      "give_update",
+      "clarify",
+      "logistics_info",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5100.567,
+    "end": 5318.595,
+    "text": " Thanks, Katrina. And then our final group tonight, we'll be looking at our panorama climate data. The climate survey was given to all students in grades three through 12 earlier this year. We are in the process of giving it a second time right now for our spring results, and we'll have those results in a few weeks. The climate survey is divided into five components, rigorous expectation, school climate, school safety, a sense of belonging, and valuing of school.  And the data that you'll be reviewing tonight examines those results for several different membership groups and let you see to what degree those membership groups are answering more positively or more negatively than the average.  So let's get to work. We are going to break you into three groups to conduct an equity audit. In our main room is going to be Mr. Oberg, Mr. Page, and Dr. Acuff. And you all are going to be looking at our mid-year assessment data. So you all just stay in the main room. I welcome Chris Gilman, Lars Holmstrom, and Natalie Farrell, who are going to be your facilitators for this group.  In the first breakout room, that is going to be Ms. Lee and Ms. Colson, and you are going to be looking at our reading dashboard data. That will be facilitated by India Han, Katrina Sims, and Shea Carter-Shiflin. And in breakout room two, Ms. Osborne and Mr. Alcaro and Ms. Albaron will be looking at our panorama student climate data.  That will be facilitated by Jamie Gellner miles Nelson and Leilani keys within this presentation there are links to your equity audits, but you also I think have hard copies of those, you can use either one that you want for the purposes of tonight's work.  Lastly, you open your equity audit worksheet or use your hard copy and navigate to your data with the help of your facilitator. The data for the mid-year common assessments and the panorama data are printed on your equity audit as well. The data for the K-2 reading dashboard, you need to go into that Power BI slide to be able to see and manipulate.  For the first 15 minutes in your room, we're going to ask that you just do some head down work. Let me look at the data myself. Let me fill out these elements of the equity audit until you see the stop sign. And I'm a very visual person, so I put a big red stop sign on your equity audit where you should stop. And then for the second 15 minutes that you're in your breakout rooms, you'll share out your results with your group. What did you see that was similar to each other? What did you see that was different from each other? What did you think about the process?  And one of the things that are we've got a group that we that has designed all of our work sessions for this year. And we've come up with a common set of questions that we want to have the board answer at the end of each work session. I just wanted to preview those with you tonight.  So at the end of the session, we're going to ask you, as a result of this work session, number one, what further information would you need or want from staff around this topic? What are the next steps for the board around this topic? And with the board priorities in mind, how should this new information guide the board's decision making in the next budget cycle? I know we just finished the first one. And what does the board want to remember? So with that said,  I will ask Ms. Johnston to open up the breakout rooms and you all can get started. It is 756. We've got 30 minutes in our breakout rooms. So I'll see you back at 826.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "logistics_info",
+      "procedural_move",
+      "request_action",
+      "give_update",
+      "ask_question",
+      "public_addressing",
+      "clarify"
+    ]
+  },
+  {
+    "start": 5341.711,
+    "end": 5357.574,
+    "text": " We'll just wait a tiny second for Lars to connect to make sure we have everybody in the room.",
+    "speaker": "kateacuff",
+    "tags": [
+      "procedural_move",
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 5357.614,
+    "end": 5420.47,
+    "text": "There we go. So thank you already for joining us in the mid-year review data of the actual academic data.  We've invited Natalie Farrell to join us. She was the lead coach who I think was primarily responsible for helping shepherd a lot of these projects getting into our data system so that we could administer the assessments to students. And then we welcome Lars.  who has a lot of background in looking at student achievement data and how it relates to the three characteristics of the CRT framework and how you can use the data that you see in front of you to drive the decisions and changes that you make in your classroom. So I believe Pat has given you all the access to the data. We've got 15 minutes of head down work. If at any point during that time you want to pop your head up to check in with Natalie or Lars or myself about that data, feel free.  If not, we'll go ahead and honor that 15 minutes, and then we'll come back for some combined discussion.",
+    "speaker": "chrisgilman",
+    "tags": [
+      "public_addressing",
+      "logistics_info",
+      "defer_to_expert",
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5445.323,
+    "end": 5452.095,
+    "text": " You guys recognize that silent, sustained reading is cruel and unusual punishment to me.",
+    "speaker": "davidoberg",
+    "tags": [
+      "opinion",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 5454.699,
+    "end": 5469.424,
+    "text": "It is a challenge. If you've already read through it and you would like to discuss it, we are happy to sit and discuss with you. We were told we couldn't read it ahead of time or I would have. Oh, I didn't realize that was a precondition. I apologize in advance.",
+    "speaker": "chrisgilman",
+    "tags": []
+  },
+  {
+    "start": 5470.906,
+    "end": 5475.432,
+    "text": " But all of the data that we are using is on the table that's been prepared for us, right?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 5476.373,
+    "end": 5494.077,
+    "text": "Yes. And the hope is that you would focus more on the equity row of data as opposed to the other. The top level data was sort of a preview of where we are with a big picture of things, but it's an incomplete picture. That bottom level helps really refine the focus of thinking about an equity audit.",
+    "speaker": "chrisgilman",
+    "tags": [
+      "prioritization",
+      "request_action",
+      "clarify"
+    ]
+  },
+  {
+    "start": 5494.778,
+    "end": 5494.838,
+    "text": "OK.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5769.391,
+    "end": 5773.478,
+    "text": " Just about a five-minute warning until we come back to conversation.",
+    "speaker": "kateacuff",
+    "tags": [
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 6001.726,
+    "end": 6028.122,
+    "text": " Okay, I'll ask you to wrap up your last few thoughts. When we come back, we'll start with the conversation with either Natalie, if you have questions about the assessments themselves, or with Lars, if you have questions about how the equity audit process works with these kinds of data. And as we work through this, we'll be looking specifically for any sort of commonalities or differences within the observations that you made about the data going through the equity audit process.",
+    "speaker": "chrisgilman",
+    "tags": [
+      "procedural_move",
+      "logistics_info",
+      "request_action",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 6043.812,
+    "end": 6094.243,
+    "text": " So you're asking us to participate here, right? I found it difficult looking at the 6,000, 6,500 student data dump of how we're doing because part of our focus over the past few years is addressing what we already know is the achievement gap, particularly with  some of our most vulnerable groups. So I'm being challenged in understanding what actionable information this provides above and beyond what we already know. That's a very important question.",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "clarify",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 6094.263,
+    "end": 6120.31,
+    "text": "And that's a challenge when we look at data because there's always a desire to zoom in  but within that zooming in process can sometimes be challenging because you can get too caught up in the details. Lars, would you be able to speak a little bit to how you help people talk about the process of zooming in and out when they do an equity audit in terms of looking at specific groups, but also retaining a focus on the larger mission of all students?",
+    "speaker": "chrisgilman",
+    "tags": [
+      "ask_question",
+      "defer_to_expert",
+      "request_action"
+    ]
+  },
+  {
+    "start": 6121.876,
+    "end": 6243.392,
+    "text": " Yeah, so, and Dr. Acuff, I totally agree that looking at equity audited data at a high altitude level like this is not a new practice at all. It's something that we've been doing for a long time. What the equity specialist team has been doing is working with teachers and PLCs and smaller groups to look at smaller sets of data and perform equity audit. So what's less common, I think, in our history is for teachers to  look through their own data and look for these sort of patterns and then begin to triangulate them. And so that's when it begins to take meaning when you have people looking at micro data and small data and seeing how their individual locus of control situates within the larger data. And that's important. So I think  In working with principals on the on the equity audit process I think the questions that are in the in the process here.  we're working to build common language and common process from administrators all the way down to PLCs and to teachers, and it's when there's conversation across there. And I think in the past, administrators will look at big data sets like this and then tell it to teachers and say, hey, what are we gonna do about it? And then teachers go back and they wonder about it, and then they engage in their classroom practice. But what we're asking teachers to do now, and again, like PLCs and smaller,  groups as they go through this process and to learn how to disaggregate data in this way, and then to ask these key questions and begin to triangulate those patterns. So when we're looking at big assessment data here, do those patterns show up in engagement data? Do they show up when we look at discipline data? Do they show up when we look at, you know, smaller assessments?  And then we put everybody in conversation with them. But I agree, this is not a new process at this altitude, I think. And it's hard to answer these big questions when we look at these big data sets.",
+    "speaker": "larsh",
+    "tags": [
+      "agreeing",
+      "clarify",
+      "give_update",
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 6246.537,
+    "end": 6262.06,
+    "text": "I don't know if this is a question for you, Chris, since you do a lot of the data stuff. But I've always been struck with our English language learners and their numbers and why or whether we ever do cross tabs with Black and Hispanics.",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "defer_to_expert",
+      "request_action",
+      "express_concern",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6262.883,
+    "end": 6288.84,
+    "text": " I mean, I don't, I'm making probably unfounded assumptions about who our English language learners are, but it seems, I mean, maybe the grab bag category captures income and race and English language learners sufficiently, but I'm struck by how high the numbers are for English language learners.",
+    "speaker": "kateacuff",
+    "tags": [
+      "hedge",
+      "express_concern",
+      "clarify",
+      "opinion"
+    ]
+  },
+  {
+    "start": 6289.951,
+    "end": 6365.283,
+    "text": " That's a really interesting question. When I first started this job, you could almost equate the English language learners with the Hispanic, and they were just about lining up. In the past 15 years, it's grown significantly in other non-Hispanic languages. That's one of the things we started to discuss as an organization is how do we  disaggregate ethnicity or other characteristics beyond just those very basic characteristics, right? Because when you think about Asian, that covers everything from the Middle East all the way over to the Pacific. And that's roughly 4 billion people who are not necessarily homogenous in any way, shape or form.  but we give them the same one label. And so how do we start to think about minor distinctions? And that's one of the things that our new ESOL coordinator, Laura McClain, has been really encouraging me to think about in terms of data is digging a little more deeply, like going beyond just English language learner to what language do they come from and what language are they learning?  what language proficiency do they have when they begin? Those are all really interesting questions when you do an equity audit because they really shape the type of approaches you would take to making changes in your classroom.",
+    "speaker": "chrisgilman",
+    "tags": [
+      "clarify",
+      "give_update",
+      "express_concern",
+      "opinion",
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 6366.124,
+    "end": 6372.009,
+    "text": "What kind of academic background did they have, you know, beyond English language issues? Yeah.",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 6372.029,
+    "end": 6412.99,
+    "text": "Yeah. I was just meeting with the principal today who was getting some of our newest African refugees and they're a wonderful group of students who've never been in school before. And so it was a very unique  conversation to meet these students and share in their experience of first-time school, that's wonderful, but that's a very different experience than somebody who's fully proficient in Spanish and is currently learning English and has been learning English since they were a kindergartner. So yes, that is a data point we're trying to figure out a better way to handle because it is increasingly important, but very difficult to disentangle.",
+    "speaker": "chrisgilman",
+    "tags": [
+      "give_update",
+      "clarify",
+      "express_concern",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 6414.286,
+    "end": 6467.876,
+    "text": " I understand why it's done this way from this perspective. But part of the frustration, and it kind of mirrors, I think, what Kate was getting to, is that looking at it from a 40,000 foot elevation doesn't really help us. This would be a much more helpful tool looking at it by school, by PLC, by teacher.  to say, is there a difference in what this teacher is doing, what this teacher is doing? This teacher is hitting it out of the park. Why is he or she doing it? What is she doing that is making the difference? When we look at it from this level, OK, we know it's an issue. But it doesn't really give us the tools to address the issues from my perspective.  And that's a very good point.",
+    "speaker": "davidoberg",
+    "tags": [
+      "express_concern",
+      "prioritization",
+      "request_action",
+      "opinion",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6468.537,
+    "end": 6482.896,
+    "text": "And I'll let Natalie speak to this in more detail. But this is our first year of doing truly division-wide common assessments with the goal of being able to do exactly what you discussed. And I'll let Natalie give a little bit of insight as to how that's kind of playing out across the division.",
+    "speaker": "chrisgilman",
+    "tags": [
+      "defer_to_expert",
+      "give_update",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6487.483,
+    "end": 6538.615,
+    "text": "We've been working towards these common assessments since I've been in the role, so four years now. But this year is the first time we've  sort of worked up to it through our division PLCs by kind of aligning, especially in math, aligning our resources and sequencing so that we're in the same place at the similar times. And so that it was a little more comparable across the division. I think I agree with you about the big data and that it's more actionable at the school level. But I would also say that the trend you're seeing in the big data trickles down.  into the schools too, right? So whatever those minuses are in the table right now, they look similar across a lot of our schools. I get that, but seeing the problem doesn't create solutions.",
+    "speaker": "nataliefarrellacpslead",
+    "tags": [
+      "give_update",
+      "clarify",
+      "agreeing",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 6539.697,
+    "end": 6553.182,
+    "text": "It's only in seeing where the problem doesn't exist  and you can compare it to where the problem exists, that you can find the solution and improve where it exists. Otherwise you're just saying, well, that's a problem.",
+    "speaker": "davidoberg",
+    "tags": [
+      "opinion",
+      "clarify"
+    ]
+  },
+  {
+    "start": 6553.842,
+    "end": 6572.121,
+    "text": "Do we have the system down now so that each individual teacher can see this data, their own classroom? That was one of the improvements this year is that all the assessments were delivered through our data assessment system so that every teacher sees the exact same",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "give_update"
+    ]
+  },
+  {
+    "start": 6572.59,
+    "end": 6600.893,
+    "text": " row that you're seeing as the division. Every principal sees their school's row. Every teacher sees their teacher's row. Each PLC sees their PLC's row. So we've been able to move that down. And while it is very frustrating to see that top level data, oftentimes within our schools and within our PLCs, it's very difficult for us to show that data because there simply aren't enough students who fit into each of the categories to show that. And that was part of the reason we tried to roll that out.",
+    "speaker": "chrisgilman",
+    "tags": [
+      "clarify",
+      "logistics_info",
+      "express_concern",
+      "reassure"
+    ]
+  },
+  {
+    "start": 6601.227,
+    "end": 6635.02,
+    "text": " I totally get that. I totally get, I understand why it's done this way. I'm just saying that from the, it's frustrating to be at only at this level and not, you know, because then it's sort of like, well, then we're not really, because I don't think anybody on the board is unaware of the issue. And this is sort of reinforcing the, yeah, there's an issue. And I think we're there. We know that. What we want to look towards is how do we address it?  What do we do to make this better, even marginally?",
+    "speaker": "davidoberg",
+    "tags": [
+      "acknowledge",
+      "express_concern",
+      "request_action",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 6636.161,
+    "end": 6637.302,
+    "text": "Right. Are there any ways?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 6637.442,
+    "end": 6641.206,
+    "text": "I think this is an action document for the school board.",
+    "speaker": "kateacuff",
+    "tags": [
+      "clarify",
+      "opinion"
+    ]
+  },
+  {
+    "start": 6641.226,
+    "end": 6659.905,
+    "text": "Are there any ways that we can see classrooms that have been trying CRT practices within the classroom for a longer period of time compared to maybe classrooms in which that hasn't happened? So that we can see whether or not that's beginning to make a pretty big effect.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "request_action"
+    ]
+  },
+  {
+    "start": 6660.965,
+    "end": 6755.62,
+    "text": " So if I could just jump in. So that's what the teachers do. They know among their PLC teams who have been embracing culturally responsive teaching and starting to use practices and being credentialed. And a lot of the PLC teams are working it together now. And so what they do is, what Dave mentioned is,  The what I recently been reading a book called divisions that succeed by Karen channel which she says those are the most powerful words in education, your students are doing better than mine, what are you doing. And so, at, at the board level, I think what we're asking you to do is to take is look at it from broad strokes for the whole school system.  and reinforce what you see happening, the changes that we're making. This is the first year ever in Albemarle County Public Schools that there has been division-wide common assessments at every grade level and in every subject area.  Every teacher can pull up the data for the whole school system and see how they compare, they can see how their next door neighbor compares. And when we do those monthly PLC meetings as a division there, the teachers are talking to each other, and we're hearing them say, hey,  your students did better on this area. How can I improve what I'm doing? That's the goal. That's the ultimate goal. It's the only way we can get better. So your support of those calendar days, your support of the big picture strategies that we're putting in place is critical.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "give_update",
+      "request_action",
+      "cite_external_source",
+      "reassure"
+    ]
+  },
+  {
+    "start": 6757.304,
+    "end": 6810.463,
+    "text": " I guess one of the things about the big picture strategies, Matt, I mean, I'm struck by the high, high, high percentages of black and Hispanic students who are below the target, that they're not even close to getting to the target. And when was this audit, this testing was done in the fall, correct? Or was this just done? This was in the spring, like January, February-ish.  It's a new definition of spring, Chris, but it's not yet spring. I'm just struck how, you know, halfway through the school year, we have 55, or English language learners, 63% of the students that are not even nearing the target. And so.",
+    "speaker": "kateacuff",
+    "tags": [
+      "express_concern",
+      "ask_question",
+      "clarify",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 6810.916,
+    "end": 6814.504,
+    "text": " You know, and they won't be near the target probably to the end.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "express_concern",
+      "hedge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 6814.665,
+    "end": 6826.632,
+    "text": "I mean, so I of course immediately think summer school we've got to do something more. But I mean I do think this is an action plan in terms of the school board.",
+    "speaker": "kateacuff",
+    "tags": [
+      "policy_proposal",
+      "opinion",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 6827.454,
+    "end": 6849.253,
+    "text": "You do immediately go to summer school.  Right? But the purpose, tell me if I'm wrong, guys, but the purpose of this is so that we don't automatically go to the things we've done in the past, that we have an ability to look at it and say, okay, what works and what doesn't? Well, it's what we call the difference between having a checkup and having an autopsy.",
+    "speaker": "davidoberg",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "opinion",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 6850.294,
+    "end": 6915.716,
+    "text": "We traditionally for years and years have been having autopsies.  We set up the school year. We have the best intentions. We don't have that focus on curriculum and pacing. There's no mid-year checkpoint. Next year, schools will move to quarterly checkpoints. You have to keep the pressure on, keep the foot on the gas. Now, Kate, remember, these are raw scores. So the students, as we make our way through, they're going to get credit for growth.  So a student that comes in several grade levels behind shouldn't be expected to get all caught up in one year, especially as Chris was mentioning, we get students from Afghanistan that have never set foot in the school. So they're also their WIDA scores count for their English development instead of their SOL scores. These are just raw scores. Next year, because we'll be able to equate them, we'll be able to show you, we'll be able to project growth scores too.  But I see Lawrence has a comment.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "give_update",
+      "clarify",
+      "reassure",
+      "prioritization",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6915.736,
+    "end": 7031.018,
+    "text": "Yeah, thanks, y'all. I just want to provide this perspective on it. I think that your frustration in looking at this level and your advice, your recommendation,  your admonition to reproduce this sort of process at smaller and smaller levels is not only like meaningful, I think it's accurate. And I think it's hopeful. And that's what we're encouraging teachers to do and trying to support teachers to do right now. And many teachers are doing it well. And it's on the basis of the teachers, especially in the CRT programming that are doing it well, that we're seeing positive outcomes. And I think like if I'm taking something important away from  The feeling of frustration that you're expressing it's that we need to stop just looking at it at this level. And I would love for the school board to encourage us to have teachers really get fluent in this practice of performing equity audits and to do it.  frequently with their data and to look at lots of different pieces of data. And I'm telling you that when they do that, we see them able to move data, and we actually see them able to move data very swiftly because just like you said Dave, they're able to get much closer to the problem.  You know, and Chris is right sometimes those it the patterns don't show up at the school at the classroom level. Because the numbers are too small, but when pl sees put their their students together, then they can see a pattern and also when you look at the. At the trends that are there in the school data and then you look at individual the individual students in your classroom, you may see a single single student who is struggling.  And think, well, that's not a pattern, because it's just one student, but because those students, you know, exist in different classrooms to hear three there, they accumulate and they and you see that reflected in the in the school data so. Teachers can be hidden by. This yeah what's that sorry.",
+    "speaker": "larsh",
+    "tags": [
+      "opinion",
+      "acknowledge",
+      "reassure",
+      "policy_proposal",
+      "clarify"
+    ]
+  },
+  {
+    "start": 7032.24,
+    "end": 7034.243,
+    "text": "Numbers can be hidden by smallness.",
+    "speaker": "davidoberg",
+    "tags": [
+      "express_concern",
+      "opinion"
+    ]
+  },
+  {
+    "start": 7034.628,
+    "end": 7131.696,
+    "text": " Yeah, absolutely. But when everybody learns this process and begins to engage in it, then they understand that pattern that you just described, that you and I are describing here, and they see how their students fit in, and it all starts to come together. And I would, you know, if I'm allowed to, can I share a screen here?  Maybe I can share this, like this is something that's very hopeful to me. This is from a teacher this year and it's reading data. It's elementary reading data. These are focused students from the teachers classroom, African-American students who are all struggling in this class. And this is the average growth for the class. This is GRLs, this is on the PALS assessment.  And all students made positive growth. This student made one year's growth, and this is not even an assessment taken at the end of the year. These remaining four students outpaced the average growth as a result of the fact that this teacher performed an equity audit, isolated the students that needed the attention, triangulated that in different problems, like recognized partnerships with the students, partnerships with the students' families,  All of that showed up in the data and then in a very very targeted way by culturally responsive teaching practices and was able to get positive outcomes like this, we see it all the time and that's what we're trying to train teachers to do so just bottom line for me is your encouragement that we do it in smaller and smaller levels and we all become fluent in this.  is meaningful and I think it means that we can stop admiring the problem as you're describing at this high altitude and really dig in to the problem where it's within our locus of control as teachers.",
+    "speaker": "larsh",
+    "tags": [
+      "agreeing",
+      "request_action",
+      "give_update",
+      "reassure"
+    ]
+  },
+  {
+    "start": 7133.098,
+    "end": 7512.345,
+    "text": "Lars, thank you very much for that. And for all of the participants, I think we had a very engaged group here. Out in the main room, I hope that you all were engaged as well out in the breakout rooms. And before we get to our questions,  that we were going to run through. I just wanted to do one thing as kind of a way to wrap this up. When you looked at your equity audit, you saw that stop sign there. And you were only about a third of the way through an equity audit. And I wanted to share with you some, you know, what the rest of an equity audit looks like. And one of the things that I think it's important to note that  Equity audits are done at multiple levels. You just did one at the division level, the highest level that we have. Our principals do them at their school level, our PLCs do them at their grade level or their subject level, and our teachers do them at their classroom level. And with each subsequent shrinking of that equity audit, the plan and the process gets more detailed and more specific down to the student level.  So for example, I will show you one of the equity audits that came in for mid-year review. And the second part of this is focus students. This is one of our middle schools, and this is at the school level. And you can see that this principal saw that her gap group one, her students with disabilities, her black students, and her English language learners were the students who were kind of showing up in the equity audit as not having the results that were the same as everyone else.  She worked with all the results and started to analyze, what does that mean? Why aren't they achieving at those levels? What are the areas that specifically these students need some support in? And in English, it was main idea, summarizing, figurative language, and text structure. And we know that because of the analysis that this principal did on all of the data that comes from a system we call Illuminate, where we keep our mid-year assessments.  She analyzed the sixth grade math and saw that they specifically needed some support in fractions, decimals, and percents, inequalities, and order of operations. And you can see on down the list that it really does provide some targeted levels of support. As we scroll down, the next thing that principals do is they identify problems of practice.  One of the problems of practice that this principle saw was content wasn't always relevant to students. We heard that before in one of our equity audit examples. How do we get more diverse resources in for students so that they get more engaged with their learning? And then she also identified some school-wide strategies  to use in all classes, some specific to math, some specific to English. And I want to just scroll to the bottom of this because one of the other things I did, and I apologize if this is a little tough to see. Let me see if I can blow it up some. At the bottom here is an example of some of the work that she had her teachers do. And when her teachers did their equity audits, they get down to the individual student level in this section.  And we just pulled a couple lines from one of her teachers equity audits took out the teacher name took out the students name, but every student in that class is identified by any of the demographic groups for which they belong. They identify specific areas of growth, so this student had a reading comprehension.  area that needed to get some focus. This student had a specific goal, make expected growth in their Reading Plus work. The student below had a different goal. That student's goal was just to get assignments completed, complete your Reading Plus assignments, complete your class assignments. You can see the strategies that they put in, Reading Plus, progress conferences, CHOMP, that's one of their intervention periods. And then for this other student, we saw on-time incentives  partnership with the parents, reading progress conferences, partner with parents for an assignment checklist, allow to work with a partner or a group. These teachers also identified what specific culturally responsive teaching techniques and characteristics am I identifying as being able to support that student? And then what are the benchmarks I'm gonna use for the rest of the year to see if that student is indeed making progress? So this really gets down with each iteration  more and more to the student-centered process. Our PLCs compare their results with each other, and they see, you know, what's working in your class? Why isn't that working in my class? Why did your students have different results than I did? And as this process of equity audits becomes more and more pervasive in the county, I really think it's going to have an impact on our achievement goals.  And so one of the things that I heard some board members say is, we want to dig into some more specific data. And I can promise you, you'll have a chance to do that. We are coming back for another work session in September. When we come in in September, we will have our summative data for the year. And we'll bring that. We'll look at the, we can look at it school by school. You can look at it grade level by grade level. There's all kinds of different ways. It'll all be up in the school quality profile site at that point.  to dig into and help us set some targets for where we need to go. Those school improvement plan goals that we shared with you at the beginning of this presentation, that's a five-year process. Learning for all is a five-year process, and meeting our mission is something that's gonna take time. And we wanna make a slow, steady progress toward meeting that goal at the end of the year. So I'll stop now, and I'll bring us back to the questions that we decided we were going to  use at the end of each work session. And those are, what further information does the board need or want from staff around this topic? What are the next steps for the board around this topic? And with the board priorities in mind, how should this new information guide the board's decision making in the next budget cycle, and what does the board want to remember? And with that, I'll leave that up so you can see those questions, and I'll open it up for comments before we close.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "reassure",
+      "follow_up_request",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7515.498,
+    "end": 7545.99,
+    "text": " I would like to see the numbers disaggregated so that we can see the overlap with the groups. So that we can, you know, if you look at, you know, Asian student and then look at student with disability.  You could fit into both of those categories. Absolutely. Yep. Right. And so I think it would be a better it would be a better tool of analysis if we saw those overlaps.",
+    "speaker": "davidoberg",
+    "tags": [
+      "request_action",
+      "follow_up_request",
+      "clarify",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 7550.774,
+    "end": 7559.123,
+    "text": "Patrick, I'd like to see the example that you just gave us with the principal and the teachers at a certain school.",
+    "speaker": "grahampaige",
+    "tags": [
+      "request_action",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 7561.077,
+    "end": 7578.462,
+    "text": " Yes, without knowing who that person is I'd like to see the results of that person's work, you know what happened as a result of the work that the principal had proposed, and also what had happened with the teachers to see whether or not we could see some growth in that one case.",
+    "speaker": "kateacuff",
+    "tags": [
+      "follow_up_request",
+      "request_action",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 7579.606,
+    "end": 7616.581,
+    "text": " Yeah, and what I would recommend there, Mr. Page, is that we look at that. Remember, this is a formative assessment. These sets of assessments that they looked at are designed to help identify those problems and, for the remainder of the year, put some practices in place that are going to lead to improved results. So I would say, when we get our end-of-year data that's in, I think something that would be very interesting to see is, where did we end up with in terms of accreditation compared to where we were  with our midyear assessments, especially since this year was really the first year we've had these wide ranging assessments for everyone.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "request_action",
+      "follow_up_request",
+      "clarify",
+      "reassure",
+      "hedge"
+    ]
+  },
+  {
+    "start": 7618.585,
+    "end": 7621.251,
+    "text": "Okay, yeah.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 7621.271,
+    "end": 7691.47,
+    "text": "One thing when we see them in the fall that I would sure appreciate.  Well, two things. One would be, I know that this is the baseline for, you know, the one that was done last fall. And, you know, in some schools, these have just been given. I'd love to see side-by-side comparisons of the two different reports, at least, you know, I'm looking at the one that we did with the sixth and 12th graders, you know, to see,  If the numbers that are in purple at the top of the Column, you know what, what do they compare.  And, you know, from first coming back, I mean, Mr. Bonham made a great point about, you know, some of the numbers being relevant to just coming back into school after being basically out for 15 months. So your sense of value there and or valuing the education and your sense of safety and all that, it'd be great to be able to compare it.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "request_action",
+      "follow_up_request",
+      "clarify",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 7692.151,
+    "end": 7692.672,
+    "text": "Absolutely.",
+    "speaker": "vernonliechti",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 7695.436,
+    "end": 7724.633,
+    "text": " We didn't talk about the. Sort of about teachers, individual teachers using the data in our group. We just didn't get into that level, but one thing that I'm interested in with that would be. If we are sort of watching it happen, if we're watching progress happen, or if there are benchmarks and accountability metrics at that level or at that school level as well.",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "clarify",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 7730.924,
+    "end": 7745.44,
+    "text": " Any other thoughts on any of those questions?",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 7745.46,
+    "end": 7750.426,
+    "text": "I'm sorry, I couldn't see if anyone was getting ready to talk with the screen share.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "clarify",
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 7751.947,
+    "end": 7771.327,
+    "text": "I don't have a question, but I did like looking at the panorama,  And I really appreciated seeing some of the tools that you guys use because it's, you know, for me, it's like all behind the scenes, y'all just work your magic, but it's really interesting to see how you do that and where you get the data and all that. Thank you for showing us that.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 7775.855,
+    "end": 7887.021,
+    "text": "I sort of have a comment.  from the little video we had about you know students saying what figured out some of our students were competitive learners and summer cooperative learners and that's how they were going to approach whatever the pedagogical challenge was it seems to me that's my question is our schools. are all very different environments, I mean just looking across our. elementary schools, we have a range of.  you know, seven to 72% low income and a big range in terms of having a lot of, you know, African American, you know, African American, black or Hispanic students or English language learners. There's a huge diversity across our school division. And so my question is really at the board level. I know we just had a session that talked about differentiated staffing, but  to sort of modify your games from cooperative to competitive learning. It's hugely time consuming within a class. So I know we reduce class sizes and we have some differentiated staffing to help address that. I'm just wondering if our approach is refined enough to deal with the students we have across the various schools. I beat this drum a lot, but.  And it's not a question that can be answered tonight probably, but that's my concern. Is there a bigger challenge in a school with 60% black and Hispanic students versus one that has 10% and how does that change or does it change or does it intensify the approach? I don't know. I don't know what it should be doing, but I have concerns.",
+    "speaker": "kateacuff",
+    "tags": [
+      "express_concern",
+      "ask_question",
+      "follow_up_request",
+      "hedge"
+    ]
+  },
+  {
+    "start": 7891.456,
+    "end": 7928.509,
+    "text": " And one last thing, maybe in the fall, and this may just be me, but I'd love to be able to see all the information, all of these different things that were talked about here, because, you know, other than the preparation, I don't have much exposure to  what Dave's group saw or Katrina's group saw. And I'd love, you know, because this is a big thing, very important, you know, to the future. And I'd love to be exposed to them all.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "request_action",
+      "follow_up_request",
+      "hedge",
+      "opinion",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 7930.833,
+    "end": 7965.237,
+    "text": "That's true. In the next budget cycle, I'm not sure how  much into the weeds we could get with this. But when we looked at the reading data and the mathematics data, it appeared that really we need some different types of materials to work with students in order to reach some of our students. So I'm wondering whether or not we can even see some information down on that level. It might be by school as to what types of materials are being used in different schools to reach kids who are really having a problem.",
+    "speaker": "grahampaige",
+    "tags": [
+      "request_action",
+      "follow_up_request",
+      "ask_question",
+      "express_concern",
+      "hedge"
+    ]
+  },
+  {
+    "start": 7972.034,
+    "end": 8028.805,
+    "text": " I just was going to chime in. I don't have anything particularly novel, but I wanted to emphasize the points that I found important. I agree. Well, I found all of your points important, but I wanted a second. Judy's comments about making sure that teachers are doing the work to look in their own data and how we're following and tracking that because they're ultimately the ones having to do that differentiation and practice change in their classroom.  To Jono's point, I agree. I guess I kind of, and it's a question is like how accessible is this data to us, but also I kind of to the population because accountability helps when other people can have eyes on it and draw out things that maybe aren't on our radar. I know I looked at the school climate data stuff and I, you know, that was pretty eyeopening and I, but I wasn't in that group and I don't know if the public even has access to that. So I'm just kind of curious how we plan on using this data in the future.  And then one other person said something that I strongly agreed with, but I can't remember who, so just assume it's all of you.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "agreeing",
+      "ask_question",
+      "follow_up_request",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 8044.584,
+    "end": 8049.51,
+    "text": "Any other feedback to give Dr. McLaughlin with either of the three questions?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 8055.548,
+    "end": 8058.373,
+    "text": " Just thanks for putting all this together. Right.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 8058.893,
+    "end": 8066.546,
+    "text": "Thank you. I want to thank you all for engaging with this tonight because this is, you know, it's complex work.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 8066.846,
+    "end": 8097.757,
+    "text": "It probably breeds more questions than it answers. And that's okay sometimes to be doing that. And I appreciate you taking the time to engage with it. And I think this is a good habit to get into  with the board to come to you all with some mid-year data, with some end of year data, and really let you dig into it and give us some thoughts around that. So I do look forward to September when we can dig in with our summative data from the end of this year.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "reassure",
+      "acknowledge",
+      "give_update",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 8098.558,
+    "end": 8103.544,
+    "text": "Right. Thanks to you and the entire team that presented this afternoon. So thanks to everybody.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 8104.115,
+    "end": 8126.038,
+    "text": " And Patrick, I just wanted to say thank you also because this aligns with us doing our assessment and the goals we set as a school board to improve the things tied to successful school districts and what the practices or school boards do having presentations like this is part of it. So thank you for bringing it to our attention and the tie into the budget is an interesting question. So thank you.",
+    "speaker": "katrinacallsen",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 8129.917,
+    "end": 8154.918,
+    "text": " Okay, all right, our next item, there was one thing that happened in the closed session that we needed to vote on that was sort of overlooked. We need to vote on the RIF policy and the practices that, well, what the RIF policy was asking us to do. So we do need to vote on that policy as discussed in the closed session.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "vote_call",
+      "clarify"
+    ]
+  },
+  {
+    "start": 8155.479,
+    "end": 8170.669,
+    "text": "It's not the policy, it's the action, correct? Right, right.  I move the Albemarle County School Board accept the recommendation of the HR department regarding the job actions detailed in the closed meeting.",
+    "speaker": "davidoberg",
+    "tags": [
+      "clarify",
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 8172.472,
+    "end": 8172.792,
+    "text": "Second.",
+    "speaker": "judyle",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 8174.194,
+    "end": 8195.184,
+    "text": "Moved by Mr. Oberg, seconded by Ms. Lee, that we accept or approve of the policies outlined in the closed session related to reduction in our forces. Any discussion on the motion?  If not, Ms. Johnston?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "follow_up_request",
+      "request_action"
+    ]
+  },
+  {
+    "start": 8197.127,
+    "end": 8197.847,
+    "text": "Ms. Osborne?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 8199.449,
+    "end": 8199.709,
+    "text": "Yes.",
+    "speaker": "ellenosborne",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 8200.59,
+    "end": 8214.806,
+    "text": "Ms. Colson? Yes. Mr. Oberg? Yes. Ms. Lee? Yes. Dr. Acuff? Yes. Mr. Alcaro? Yes. Mr. Page?",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 8215.387,
+    "end": 8215.667,
+    "text": "Yes.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 8216.388,
+    "end": 8217.129,
+    "text": "Motion carried.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 8217.669,
+    "end": 8224.395,
+    "text": "Thank you. Thank you very much.  Are there any other items by board members or by the superintendent?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 8225.637,
+    "end": 8537.732,
+    "text": "So Mr. Page, I have two items. I see Dr. Acuff, your microphone's not muted. Did you have something you wanted to say? OK, sorry. I didn't want to jump over you. First thing I want to do is just share my gratitude with our team tonight, with Dr. McLaughlin,  and India, Lars, Shea, Leilani. And let's see, I'm looking at the screen here. The team that's still here, even Dr. Domer hung around and Mr. Bonham stayed. And I just really appreciate it, because I know you all put in long days. This is probably the longest week of the year is this week of March, as we get through it. So I really appreciate it, and you all really  really did an excellent job with this work tonight. And what I would say is that I came to the school system in 2004. You are the first board that has had a mid-year data review of the school system's data. That is the first time that this has happened. This is the first year where we have had common pacing guides  and common assessments for every classroom in the school system. And last week, Ms. Collins brought me a report, and we were just within a few students at every grade level of all students taking the assessments so we can see where they are.  So I know that it's a little bit like drinking from a fire hose, because it's a lot of new information and new data all at once, and also coming out of the pandemic, it's not super positive. In fact, you know, when we did our mid-year reviews with the with the principals,  Every principal started their comments with, I know this isn't pretty, but I know where we are. I know where the students are. And we know what to do next. We know our next steps. I really think your discussion tonight, especially coming out, was, for me, everything that  I would hope for I heard board members talking about how do we adjust our accountability system with you know our evaluation system you didn't say those exact words but.  For me, that's what I heard. How do we have a little, how do we look and set targets with principals so that they know whether they hit the target or miss the target and work for accountability with their staff? I heard a board member talk about, can we really take a good look at what kind of materials we're using with our students and whether or not they're culturally responsive so that students see themselves in the kind of work that we're providing? And I heard  school board members talking about what is our role as we look at this data, what is our role, what do we do. Some of you want to get right down in there and really look at each student because you love these kids and you want to help each one by yourself, you want to do that, I know that feeling.  And you're also stepping back and looking at the big picture and thinking about next year, what kind of policies can we put in place to keep having a positive impact? I just wanna tell you how grateful I am for that because it's encouraging then to get back to the work, work through the year. And then the one thing that I appreciated that Mr. Alcaro said was, I'd like to see all of this. I'd like to see it all together.  And when we do the state of the division report this year, it will be tied to your strategic plan. In the past, it was kind of an alphabet soup of what do we put together from data so we can do the state of the division report. Everything you have in September and October, November that we're rolling into the state of the division report for next year will be the data so that you can see all of it in one place at one time.  So thank you very, very much. I know it was a long thank you, but I wanted to say, and I appreciate your indulgence in letting me say it. The other thing I wanted to quickly announce is that our next school name review will be Mary Carr Greer. The purpose behind doing that is there is a Lambs Lane Campus Master Planning Committee. And as they're meeting and talking about near-term improvements,  to the Lambs Lane campus, one of the things they're talking about is improving and enhancing all of the signage at the school sites and then also directional signs, signs coming into that area so that it becomes more of a unified campus. And so we wanna go ahead and look at Mary Carr Greer. We met with their staff this afternoon to let them know we were gonna announce this tonight. And so that process is beginning and I wanted to let you know that that's our next school.  That's all I had, Mr. Page.",
+    "speaker": "matthewhaas",
+    "tags": [
+      "give_update",
+      "acknowledge",
+      "reassure",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 8538.773,
+    "end": 8545.842,
+    "text": "OK, thank you, Dr. Haas. Any other announcements from board members or comments from board members?",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "request_action",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 8547.664,
+    "end": 8593.376,
+    "text": "Are we in the final session, Mr. Page? Are we doing the last section for the night now? Yeah.  Okay, and Dr. Haas, I'm glad you brought up the Lambs Lane campus, because I think that will enter into a motion I'm going to make. I move that we assign monies from one-time funding to construct 50 parking places at Western Albemarle High School  and to modify 67 spaces at Albemarle High School. Second.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 8597.22,
+    "end": 8615.38,
+    "text": "It's been moved by Mr. Alcaro, seconded by Mr. Oberg, that we take money out of one-time, well, use one-time funding money to establish 50 parking spaces at Weston and 67 at Albemarle. Any discussion on the motion?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "logistics_info",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 8620.253,
+    "end": 8678.289,
+    "text": " I have something, Chair Page. As Dr. Haas has mentioned, there is ongoing work with the Lambs Lane Reimagining Project, looking at that campus. We're working with a consultant to develop  short-term and long-term and perhaps some very long-term improvements to that campus, including signage, which is needed because Jack Jewett Elementary will be journey as of the fall. There's funding already approved, county and the local CAC for improvements in sidewalks, but we also need to coordinate with the Boys and Girls Club. So with the caveat that the parking  allocation have a nod toward what this final report is going to look like for that campus, I would support this.",
+    "speaker": "kateacuff",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "request_action",
+      "agreeing",
+      "hedge"
+    ]
+  },
+  {
+    "start": 8681.635,
+    "end": 8696.177,
+    "text": "Okay. All right. So I don't think that's an amendment to the motion. I think that's just your reflection. It's an amendment to the degree that the parking spaces at Albemarle High School be",
+    "speaker": "grahampaige",
+    "tags": [
+      "clarify",
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 8698.688,
+    "end": 8703.436,
+    "text": " be allocated according to what final plan is approved.",
+    "speaker": "kateacuff",
+    "tags": [
+      "clarify",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 8706.761,
+    "end": 8724.19,
+    "text": "So, Dr. Acuff, are you saying that we would wait on those parking places or we would, and pending what that report says, or that you would want to go ahead? We anticipate the report by the end of April.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 8724.625,
+    "end": 8752.776,
+    "text": " and then we will look at that. And if we can accommodate the spaces within what that, right, that's what, I just don't want us to create a lot of parking spots that will then change what that final plan might look like. So let's just- I don't know where we are. With the parking spaces, I don't,",
+    "speaker": "kateacuff",
+    "tags": [
+      "express_concern",
+      "follow_up_request",
+      "clarify",
+      "request_action"
+    ]
+  },
+  {
+    "start": 8754.832,
+    "end": 8757.456,
+    "text": " Would they be- Parking places were done last year.",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "give_update",
+      "clarify"
+    ]
+  },
+  {
+    "start": 8757.476,
+    "end": 8774.8,
+    "text": "I mean, two years ago, you know, in a gravel area behind Albemarle High School, which will impact what the plan for Lamb's Lane Campus does.",
+    "speaker": "kateacuff",
+    "tags": [
+      "give_update",
+      "clarify",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 8775.882,
+    "end": 8781.82,
+    "text": "Okay. All right.  So you are not. Reduce that to a sentence.",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "request_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 8781.84,
+    "end": 8795.356,
+    "text": "I just want us to be aware of what I would like to direct the staff to identify those parking places in the way that best accommodates the final plan.",
+    "speaker": "kateacuff",
+    "tags": [
+      "request_action",
+      "prioritization",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 8796.077,
+    "end": 8800.922,
+    "text": "OK. So it wouldn't affect the motion with what you were saying for the staff. OK.",
+    "speaker": "grahampaige",
+    "tags": [
+      "clarify",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 8801.122,
+    "end": 8804.246,
+    "text": "It would just put it in a bigger context.",
+    "speaker": "kateacuff",
+    "tags": [
+      "clarify",
+      "opinion"
+    ]
+  },
+  {
+    "start": 8805.427,
+    "end": 8810.719,
+    "text": "OK. Right.  All right, given that, any other discussion?",
+    "speaker": "grahampaige",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 8810.86,
+    "end": 8812.763,
+    "text": "Sorry, Chair Page.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "interrupt_overlap"
+    ]
+  },
+  {
+    "start": 8812.783,
+    "end": 8826.846,
+    "text": "Thank you. I'm going to have to bring out my Roberts Rules of Order and parliamentary procedure to sort of work around some of the things that we come up with related to motions, I guess. But anyway, any other discussion?",
+    "speaker": "grahampaige",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "follow_up_request",
+      "hedge"
+    ]
+  },
+  {
+    "start": 8827.988,
+    "end": 8845.766,
+    "text": "Also, and I  I'm the last person to talk about parliamentary procedure, and I'm very bad at that. But so it sounded like, though, those two things are not in conflict with each other, because John O's motion was just about directing funds, right? There wasn't a timeline attached to it?",
+    "speaker": "judyle",
+    "tags": [
+      "clarify",
+      "ask_question",
+      "hedge"
+    ]
+  },
+  {
+    "start": 8845.786,
+    "end": 8851.491,
+    "text": "He was specifically talking about the number of parking places, but yes. The answer is yes, Judy.",
+    "speaker": "kateacuff",
+    "tags": [
+      "clarify",
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 8851.811,
+    "end": 8853.953,
+    "text": "But your understanding is correct.",
+    "speaker": "davidoberg",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 8855.595,
+    "end": 8884.455,
+    "text": "OK, thank you. Very good, Judy.  All right, so any other discussion? Okay, if not, then we'll be working, we'll be voting on 50 parking spaces at Western, six to seven at Up Mile, with staff understanding that they're gonna look to make sure that it's not in conflict with the Boys and Girls Club area. That's what we are voting on. So Ms. Johnston, could you please call the roll?",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "vote_call",
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 8886.056,
+    "end": 8886.897,
+    "text": "Mr. Alcaro?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 8887.538,
+    "end": 8887.978,
+    "text": "Yes.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "agreeing"
+    ]
+  },
+  {
+    "start": 8888.6,
+    "end": 8902.86,
+    "text": " Ms. Lee. Yes. Dr. Acuff. Yes. Ms. Carlson. Yes. Ms. Osborne. Yes. Mr. Oberg. Yes. Mr. Page. Yes. Motion carried.",
+    "speaker": "Unknown",
+    "tags": [
+      "vote_call",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 8903.641,
+    "end": 8929.532,
+    "text": "Okay, thank you very much. Any other business from board members?  If not, our March 24th meeting is adjourned. And we thank all of our staff for participating and also those people who made public comment tonight. So thank you all. We look forward to seeing you guys in person. Right. Yes, indeed. Good night, everyone. Best of luck, Elizabeth.",
+    "speaker": "grahampaige",
+    "tags": [
+      "procedural_move",
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 8929.652,
+    "end": 8932.782,
+    "text": "It was great to have you with us. Yeah, Elizabeth. That's right.",
+    "speaker": "jonnoalcaro",
+    "tags": [
+      "acknowledge",
+      "public_addressing"
+    ]
+  }
+]

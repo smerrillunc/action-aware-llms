@@ -1,0 +1,1788 @@
+[
+  {
+    "start": 0.071,
+    "end": 3.673,
+    "text": " confirm with Cathy. Thanks for that.",
+    "speaker": "ngatiap",
+    "tags": [
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 5.073,
+    "end": 23.122,
+    "text": "Thanks. Thanks, Jenny. Well, morning, everyone, and welcome to the to the last iwi consultative meeting of this triennium. But Harold, could I ask you to open up the meeting with Karakia?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move",
+      "assign_action",
+      "public_address"
+    ]
+  },
+  {
+    "start": 30.54,
+    "end": 99.894,
+    "text": " Yes, certainly Jim, certainly.  Raroahi ko te ingo te matutu tamu te wairu tapu ng\u0101nei R\u0101pono. T\u0113nei r\u0101 m\u0101tou ng\u0101 wahutang\u0101 ki a koutou. Tuku whakam\u014dimeti ki rungu ki t\u014d koutou aroha noa. Ki p\u016bkete ora p\u016bkete kaha p\u016bkete m\u0101ramatanga ki rungu ki t\u0113n\u0101, ki t\u0113n\u0101 o t\u0101tou ko te aia t\u012bnanga mai ki t\u0113nei k\u014dhunga o t\u0101tou i t\u0113nei r\u0101. Ki uhi e mai t\u014d koutou korowai tapu ki rungu ki t\u0101tou katoa i roto o t\u014d t\u0101tou  Pitu puta korero mo t\u0113nei r\u0101, inaute r\u0101 t\u0113nei kia koe, r\u0101ro te ingo o t\u0101 tamu i Hikuraiti, \u0101ine \u0101ke t\u016bnu. \u0100m\u0113ne. Kia ora t\u0101pou.",
+    "speaker": "haroldmaniapo",
+    "tags": [
+      "public_address",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 103.541,
+    "end": 138.385,
+    "text": " Thank you for that. And look, once again, a really warm welcome to this meeting. I've got another meeting early this afternoon, so I'm not trying to cut the discussion short by any means, but if I could get away sort of shortly after midday would be great, but maybe we'll be finished before then.  But we'll start the meeting as usual with apologies. And I only have one that I'm aware of so far is Graham Weber. But were there any other apologies?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "public_address",
+      "procedural_move",
+      "ask_question",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 140.766,
+    "end": 143.047,
+    "text": "Not as far as we've been told, no Jim.",
+    "speaker": "Unknown",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 143.127,
+    "end": 144.748,
+    "text": "I can't see anything around the table.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 145.968,
+    "end": 149.55,
+    "text": "Sorry Jim, I had one from Barney Mania.",
+    "speaker": "ngatiap",
+    "tags": [
+      "procedural_move",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 151.37,
+    "end": 190.097,
+    "text": "Thanks Bill. Okay, if there's no,  No other apologies. I'll ask for a mover and seconder for those apologies. Liz and Harold, all those in favour, just wave your hands, probably easiest. I don't see anyone disagreeing, so that's carried. Item two, is there any disclosures of members' interest? And I don't see any around the screen, so we can move on from that. Were there any late items?  Gailene.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "summarize_outcome",
+      "ask_question",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 190.977,
+    "end": 196.299,
+    "text": "No, I don't have a late item, but I note that Hazel was not in the forum. She's just gonna be late, I think.",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "provide_information",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 197.359,
+    "end": 279.804,
+    "text": "Okay. All right. Thanks for that, Gailene. Item four is confirmation of the order of the meeting. And I haven't had anyone want to change that at all, but if there is, everyone happy? So can I have a mover and seconder to confirm the order of meeting?  Andrew and I'll second from the Chair. All those in favour? Aye. Contrary? Carried. Then we're on to the confirmation of the minutes of the meeting of the 1st of June. Can I have a mover and seconder to receive those minutes? Moved Gaylene and seconded Harold. All those in favour?  Contrary, carried. So just going quickly through those minutes, was there any issues that anyone picked up that are not covered in the agenda for today or need to be corrected? Just quickly. Just item six, which is the Ng\u0101i R\u016bt\u014dp\u016b, there were two things in there and both of them have not been addressed.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "ask_question",
+      "provide_information",
+      "report_back"
+    ]
+  },
+  {
+    "start": 281.775,
+    "end": 283.917,
+    "text": " Oh, sorry.",
+    "speaker": "gayleneroberts",
+    "tags": []
+  },
+  {
+    "start": 284.917,
+    "end": 285.097,
+    "text": "Yep.",
+    "speaker": "haroldmaniapo",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 286.979,
+    "end": 291.141,
+    "text": "So I had a couple of comments on those to bring back to the meeting this morning.",
+    "speaker": "garrydyet",
+    "tags": [
+      "report_back"
+    ]
+  },
+  {
+    "start": 294.063,
+    "end": 308.073,
+    "text": "So, Gary, are those issues going to be covered in the meeting? No, I was going to pick them up in the... No, we talked through Chairman's Forum, but I'm happy to address them now.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "ask_question",
+      "provide_information",
+      "clarify_point",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 308.713,
+    "end": 314.433,
+    "text": "Oh, no, it's all good. In the forum, we'll be fine, thanks.  Is that okay? Yes, yes, definitely.",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "reassure_stakeholders",
+      "agree",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 317.295,
+    "end": 366.624,
+    "text": "So moving on from that item, we're on the page three of the minutes now. Four and five. So everyone's happy that they're a true and correct record, and we can pick up those issues, Gaylene.  probably in the next item. So just a mover and seconder that they're a true and correct record. Councillor Gower, Marcus moved and seconded. Gaylene, all those in favour? Contrary, carried. Thanks, Gaylene. And now your verbal report and Gary's obviously got some comment as well.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "summarize_outcome",
+      "confirm_next_step",
+      "report_back"
+    ]
+  },
+  {
+    "start": 368.094,
+    "end": 370.836,
+    "text": " Can we address from you first, Gary?",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "procedural_move",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 371.336,
+    "end": 612.335,
+    "text": "Yeah, sure. Thanks Kaylene or Maureen or Tato. So the couple of couple of things that were outstanding from the last meeting. First of all, Dominic raised the issue of a potential portal for resource consents. So I've investigated that with our IT and business excellence departments.  I think there's a good opportunity there that we might be able to do something. I'll have to put together a business case and I guess line up exactly what functionality would be, you know, would be in that portal.  So I'll commence that work over the next three months and get it into our system. So I might just need to check in with you, Dominic, just to make sure we get the functionality right, so it's okay. So put that business case together. It wouldn't fit into this financial year's program, but we're hoping that if business case is accepted and everything, that we could go through to the next financial year. So I'll action that.  The second one, I think Dominic also raised around the Te Kaua maunga and the level of protection there versus other sites. I've had a conversation with Fiona Hill who put together the original plan and this would have been stepping back about 12 years ago. So she put in place the cultural  cultural landscapes, areas, etc. She did note that that was kind of, you know, things have changed quite a bit over 12 years.  What was leading edge sort of stuff now is, you know, might be due for some more update. But she couldn't remember specifically anything about Kaua Maunga. But she did say that the cultural landscape sites were especially where they were, you know, we're very aware that there might be  k\u014d iwi in there. So, you know, where people might be buried in there, that was a trigger for that. Also, so I guess the real question is how do you achieve that sort of level of protection? There is still not a, you know,  the cultural landscape sites in and of themselves don't give all that much further protection. There's a lot of reliance on consultation with landowners, et cetera, as well. The Pirongi  And kakepuku maunga also have significant landscape overlays on them, which give them even more protection. But I guess ultimately, we do have a Sites of Significance plan change on the books. It is a bit further down the track.  Well, it's been, the district plan team have been sort of so overwhelmed with plan changes, they haven't been able to get to it yet, but that's probably the best solution is to look to that site for significance plan change. There would need to be some kind of plan change in some form to increase the level of protection on that site. But that's kind of the best I can offer at the moment.",
+    "speaker": "garrydyet",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "assign_action",
+      "confirm_next_step",
+      "procedural_move",
+      "equity_reference"
+    ]
+  },
+  {
+    "start": 615.398,
+    "end": 661.765,
+    "text": " Thanks, Gary. Was there any questions to Gary on that? Dominic, I suppose from my perspective, are there, I know there are issues, I was going to say, are there any pressing issues there? And my understanding is that the whole of Te Kawa is in private ownership rather than having any  DOC reserve or any public type reserve status on it. So, yeah. Yeah, just through you, that's part of the issue is, you know, landowner cooperation was a significant issue in getting the cultural landscapes in place.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "ask_question",
+      "provide_information",
+      "express_concern",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 661.805,
+    "end": 667.889,
+    "text": "So there was a fair bit of work done just to achieve that. So it does require some landowner cooperation.",
+    "speaker": "garrydyet",
+    "tags": [
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 669.191,
+    "end": 673.294,
+    "text": " And does that cover off access as well, Gary?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 673.454,
+    "end": 682.401,
+    "text": "I don't think it's, I don't think access was part of that discussion. Still private land is still, you know. Yeah.",
+    "speaker": "garrydyet",
+    "tags": [
+      "state_opinion",
+      "clarify_point",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 682.981,
+    "end": 765.66,
+    "text": "Thank you, Gary and Mr. Mayor. Yes, probably we know that some of the resource, the structure that's been built there has already been approved. So it was, there were a couple of objectives we were looking at at this. And the first one was to,  just to identify how it came about that Tikawa had a different status. So thank you for that, Gary. And the second one was to see if we wanted to change that in the future, if we wanted to be able to increase that, how would we go about doing that? And it would also be an example for Ng\u0101iwi, T\u014dpua, Waipa, if we find other areas  that are in the lower category or the lesser category, then this would be a, I guess, a process we could follow to get those rates elevated to the same level. So I guess we're sort of the guinea pig to see how we go about doing this. So no, nothing pressing at the moment because it's already going ahead, but I'd still like to, so thank you, Gay, I'd still like to stay on top of this so that we can set the precedent if we need to do this in future.  As I said, I think that Sites of Significance plan change is probably the vehicle, but we just, I know Tony Quickfall is on later, but he's on the line at the moment, but I know they are under a lot of pressure with other plan change work.",
+    "speaker": "dominictumoan",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "policy_proposal",
+      "prioritize_issue",
+      "community_reference",
+      "build_on_point",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 765.68,
+    "end": 768.022,
+    "text": "So it is a bit further down the line.",
+    "speaker": "garrydyet",
+    "tags": [
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 770.023,
+    "end": 773.807,
+    "text": "Gary. Gaylene, back over to you.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 775.785,
+    "end": 880.185,
+    "text": " So the issues around Te Kawa was raised because an applicant wanted to build a house there. And so I had a communication from a planner requesting the same about discussing with iwi to build the house on where he wanted to. I replied to him that the iwi did not support the application and he has not come back with anything as of yet.  Otherwise, what else have we been doing? So now we continue to work with council staff where required. Hazel and Hopai continue to work on the reserves naming. All members have continued to work on resource consent applications and we continue to have relationships with the owners and their properties.  We met with James Whetu, Papak\u0101inga P\u0101 and Change 23. We look forward to working with council in that space. And myself, Phil and Poto continue to work in the ahu aki space. The only other thing that I wanted to raise is that one thing, another thing that Dominic was doing was around an administration role. So I've requested  I didn't think it was a huge thing, but it's becoming one. Just an average number of applications that Ng\u0101ui T\u014dp\u016b have processed in the last three years, but seems to be difficult to get that reply from Council. So could anybody assist in that? I'll follow that up.",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "express_concern",
+      "community_reference",
+      "ask_question",
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 880.866,
+    "end": 881.987,
+    "text": "Jane, I'm happy to follow that up.",
+    "speaker": "garrydyet",
+    "tags": [
+      "assign_action",
+      "confirm_next_step",
+      "report_back"
+    ]
+  },
+  {
+    "start": 884.016,
+    "end": 888.618,
+    "text": " And Dominic might want to talk a little bit more about what we're doing in that space too.",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "assign_action",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 889.819,
+    "end": 960.274,
+    "text": "Thank you Gaylene. Yes, so what I'm looking to do is provide. When I first started my career, I was a resource planner, so my job was to advise the business on how much staff they needed.  various times of the year, various times of the day and so forth. And so in order for me to get an idea of how much of the workload is and whether we need an admin officer, how many and what regions, I'd really need that metadata, that data from Council. If you have numbers, I'm looking at volumes,  for how many resource consents are submitted. If it can be broken down into region, even better. As I know for Kakepuka region, my region, we don't get very many, but the other regions do. So the more data I get in terms of volumes, the better I can predict  how much staff we're going to need to be able to handle these things. In terms of how long it takes us to process it, so we've been doing the analysis here to see how many hands it goes through and so forth. So that's on our side, but if I can just get those volumes, because we haven't got an accurate capture of it, that would be great. So Gary, I might flick you an email offline and we'll touch base.",
+    "speaker": "dominictumoan",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 960.434,
+    "end": 962.315,
+    "text": "Thanks, Dominic. That'd be great. Thank you.",
+    "speaker": "garrydyet",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 963.664,
+    "end": 977.836,
+    "text": " Thanks, Dominic. So, Gary, can you just try and make sure that we get that information? Obviously, it's critical to work out what resources are needed. Will do. OK. Anything else, Gaylene?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "assign_action",
+      "prioritize_issue",
+      "confirm_next_step",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 978.537,
+    "end": 984.142,
+    "text": "Other than that, Jim, if anybody else in the Ng\u0101ui T\u016bp\u016b Forum has anything they would like to raise, please do.",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "procedural_move",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 988.145,
+    "end": 992.446,
+    "text": " No, I don't see any. Oh, Dominic. Sorry, just one thing for me.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 992.526,
+    "end": 1037.444,
+    "text": "I wanted to thank the Waipa District Council in terms of the way you've managed the cemetery concepts plan. I've been involved in it from the start. And what I saw was the council coming to M\u0101ori, to mana whenua, right at the start of the project. One of the things that I've learnt over the eight months that I've been here is that sometimes, not just with this, but with all things,  governing bodies come to us and they've already got everything set in place and they come to us at the end and say, well, what do you think? So I want to mihi to the council for actually coming to us right at the start. And I could actually be involved in those conversations. I think it's a great indicator of what a partnership model looks like. And I want to thank you all for doing that. Thank you.",
+    "speaker": "dominictumoan",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "state_opinion",
+      "public_address"
+    ]
+  },
+  {
+    "start": 1038.896,
+    "end": 1048.39,
+    "text": " Thanks, Dominic, and hopefully it's an example of things to come. We get it right. Bill, I see you've got your hand up.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 1049.953,
+    "end": 1138.054,
+    "text": " I guess it ties in a little bit with the Galeen's report in the last item, and it might be just that I'm a little bit slow this morning starting off. Just I understood Gary was saying that there are some priorities around the need. Oh, am I muted? No, you're fine. There are some priorities around about the work that staff are doing at present.  and the rule change, the plan change scenario might be held up in that log of work to be completed. I did wonder if there was some sense about when this issue, because, you know, Te Kawa has been on this agenda for some time now, when the  the plan change might get into the work schedule. And if that's not readily available, I'm wondering whether we might get a report as to when it might come into the work schedule. Because there are some others there like the Papak\u0101inga that we've just managed to move and place some resources and a personnel into. So I'm aware of that, but yeah, I just wanted to know whether there was,  a timeframe we could expect to have a response and not just have it at ICC meeting after ICC meeting.",
+    "speaker": "ngatiap",
+    "tags": [
+      "ask_question",
+      "report_back",
+      "express_concern",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1140.314,
+    "end": 1157.938,
+    "text": "Thanks, Bill. I'm not sure whether Tony sees it at the meeting, whether he can comment now or whether we might have to pick that up offline or out of the meeting, Bill, to come up with a timetable.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "ask_question",
+      "defer_to_authority",
+      "defer_decision",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 1162.112,
+    "end": 1173.576,
+    "text": " if he's not listening in yet, he will be presenting his report later in the agenda anyway, so he could possibly pick that up then. Yeah. Well, he's there now.",
+    "speaker": "garrydyet",
+    "tags": [
+      "defer_to_authority",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 1174.776,
+    "end": 1194.786,
+    "text": "Tony, have you got any idea and timing? I don't know.  it's probably hard to put you on the spot here, but obviously, if this comes forward, something else gets pushed out. So you might need some time to look at that. But can you give an indication at least when we could have an idea of timeframes for the plan changes?",
+    "speaker": "jimmylchreest",
+    "tags": []
+  },
+  {
+    "start": 1195.646,
+    "end": 1201.229,
+    "text": "So which plan changes, apologies, I was half listening and multitasking. We do have a plan.",
+    "speaker": "tonyquick",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 1202.737,
+    "end": 1217.625,
+    "text": " Sorry, the Sites of Significance plan change that I think you had was pushed towards the end of your list of current plan changes?",
+    "speaker": "garrydyet",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1218.546,
+    "end": 1250.72,
+    "text": "So at the moment, that's correct. So at the moment we don't have a time frame for the Sites of Significance. I know that Julie Hanson, I think she might have been working with you Dominic earlier on,  Julie left some time ago. We're rebuilding the team. We don't have a team leader at the moment. And just simply our capacity to get through the current workload that we've got, which includes Papak\u0101inga, which is on our program. We've decided that anything else at the moment, we just can't service. So we don't actually have a timeframe. It's still on the program. We don't have a timeframe yet.",
+    "speaker": "tonyquick",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "prioritize_issue",
+      "defer_decision"
+    ]
+  },
+  {
+    "start": 1255.402,
+    "end": 1293.058,
+    "text": "Thanks, Tony.  Bill, I suppose getting back to your comment, obviously resourcing, we need to have a look at this and have some, I suppose, criteria for why this particular plan change would get advanced. So look, it's a case of probably looking at the whole picture and trying to work it out.  and come back to this committee with a programme? Just another thought, Your Worship.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "policy_proposal",
+      "assign_action",
+      "build_on_point",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 1293.078,
+    "end": 1324.281,
+    "text": "So, there is another item that is on the agenda today, which is the better off funding. So, I've been working with Peter Thompson, who will be presenting that one around securing some funding to support the Papak\u0101inga plan change. It did occur to me, just listening to this discussion now, that whether it's within scope, that there may be an opportunity to consider using some of that better off funding for  and bring forward, advance the sites of significance plan change as well. So that might be something to talk about when that item comes up.",
+    "speaker": "tonyquick",
+    "tags": [
+      "provide_information",
+      "policy_proposal",
+      "prioritize_issue",
+      "defer_decision",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 1325.142,
+    "end": 1356.483,
+    "text": "Yeah. Okay. Thanks, Tony. I think that better off funding is going to be a bit like Mrs. McGinty's five pound note. But yeah, look, any options that we need to consider would be good. Okay.  Thanks, Bill. I think all we can do here is note your concern that it seems to be out there in the ether and we need to get some programme of work that we all understand where it sits.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "express_concern",
+      "build_on_point",
+      "agree",
+      "prioritize_issue",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1358.623,
+    "end": 1387.254,
+    "text": "Yeah. In respect to that though, Jim, so there's a dual role here. Iwi have a role to do as well before we can get into any plan changing.  And thank you to Tony, I was gonna see if I could cheekily put that funding into the better off. But thanks to him, he did it on his own. Otherwise, that's me for the day, thank you.",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "clarify_point",
+      "community_reference",
+      "report_back",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 1387.735,
+    "end": 1391.637,
+    "text": "Okay, you're happy to move your verbal report? Definitely.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "ask_question",
+      "confirm_next_step",
+      "agree"
+    ]
+  },
+  {
+    "start": 1391.657,
+    "end": 1393.478,
+    "text": "And a seconder, please?",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1396.6,
+    "end": 1414.149,
+    "text": "Liz. Okay, all in favour? Aye. Contrary? Carried.  Thank you for that. Item seven, commemorations. And I think Shane, you were talking to this one. Is he still here? Yep, he's there.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "call_vote",
+      "procedural_move",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 1418.428,
+    "end": 1516.693,
+    "text": " Well look, I'll speak to Irv in his absence. So this was actually a carryover from the last. We lost our quorum and this report actually was the carryover from the last meeting. So what's written here is totally out of date now.  So Te P\u016btaki o te Riri for the 28th of October. So first of all, it was brought back to just the 28th. There were going to be subsequent days on the 4th at Rangiriri and a week later at Wai\u0101re. So that's off the agenda now. But the whole Te P\u016btaki o te Riri day has been moved now to  March, April next year, I understand. There will still be an event on the 28th at Orako, but it's a scaled down event. They tell us they won't require any road closures or anything like that. So it's less than 500 people is what they're telling us.  So it seems to be all being done from Wellington at the moment. So things keep changing along the way. But we just heard on Monday that they have shifted the major Te P\u016btaki o Te Riri commemoration to be early next year. We don't have any dates on that yet.",
+    "speaker": "garrydyet",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "clarify_point",
+      "summarize_outcome",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 1519.643,
+    "end": 1526.048,
+    "text": " OK, thanks Gary. So I suppose if anyone hears anything different, we just need to keep everybody in the loop on this one.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "assign_action",
+      "confirm_next_step",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1528.29,
+    "end": 1544.283,
+    "text": "So Jim, so iwi have continued to work with the government around the land wars. So Raukawa has just had a consultation round with its people in that space. So yes, I agree. Let's wait for the whatever happens.",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "community_reference",
+      "provide_information",
+      "agree",
+      "defer_decision"
+    ]
+  },
+  {
+    "start": 1544.976,
+    "end": 1569.705,
+    "text": " OK, thanks, Gaylene. So can I just have a mover and seconder to receive that report then from Shane? And this is any other discussion, Andrew and Bill? All those in favour? Contrary, carried. Thank you for that. And we're now on to item eight, the better off funding.  Who's taking the lead?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "call_vote",
+      "summarize_outcome",
+      "close_discussion",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 1569.725,
+    "end": 1674.313,
+    "text": "Derek? I'll take the lead on that one, Your Worship. So Peter Thompson, he's, Peter's online as well, so he will- Oh, g'day Peter. But look, I think we can probably take majority of it as read, because I think most of the people were online, were at Ng\u0101iwi T\u014dp\u016b meeting on,  Monday where this was discussed, but just briefly, there is a $2 billion fund, $500 million first tranche, and Waip\u0101's share of that is 5.24 million. We discussed at Ng\u0101 W\u012b T\u014dp\u016b that council had put together  seven possible projects that could be eligible for that criteria. And again, apologies that we weren't able to get to Mana Whenua in time to get more input into those projects. But I think we did have some good discussion on Monday around the seven projects. I'll let Peter speak to that.  Yeah, I think that's probably, unless you want to add anything in there, you worship around the funding at all. Let just Peter speak to the seven projects and the feedback that we got, we heard, we thought we heard from, no, we talked to the other day.",
+    "speaker": "garrydyet",
+    "tags": []
+  },
+  {
+    "start": 1677.57,
+    "end": 1699.905,
+    "text": " Yeah, thanks, Gary. Look, I will hand it over to Peter, because I think the important issue that we need to be all clear about is that there's, I suppose, restrictions on where we can actually spend the money for a start-off set by central government. But Peter, I'll hand it over to you first and then open it for discussion.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "defer_to_authority",
+      "provide_information",
+      "clarify_point",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 1701.088,
+    "end": 1920.047,
+    "text": " Thank you, Your Worship. Yes, and you're quite right. There are criteria that need to be met by any proposed funding proposal projects that any of the councils put forward. So those were covered with Ng\u0101i Taup\u014d Waip\u0101 on Monday, and they're also included in the report to the committee today.  But what we heard on Monday, if I can attempt to recap on that, was in response to, should the council be making an application for this Trench 1 funding now? I think the answer was, well, the response feedback was that the council should  do its best to obtain tranche one and two funding over the right time. And whether all or some of tranche one funding should be applied for now was not completely determined.  I guess it depends on the nature and the mix of the projects that were being proposed by the council. But I guess overall the support is to apply for this funding from the government. So tranche one funding is grant funding and tranche two is yet to be fully determined and advised, but that will happen probably in 12 to 18 months time. The other responses that we had  around the seven projects, I guess, related to the lack of ability to have advanced warning of this information. And so the representatives felt that, you know, that was being handed to them fairly cold, which was the case.  However, in response to the seven projects, we also asked whether there were other projects and initiatives of interest to Mana Whenua and Iwi, and certainly  there was a strong interest expressed in trying to progress the Papak\u0101inga residential development in Waip\u0101 district and specifically around draft Plan Change 23 as a very high priority work area.  And then on reflection of the seven shortlisted projects which the council had identified at its meeting on the 26th of July, there was the feedback I believe we received was that Te Arawai was an agreed number one priority from that list of seven.  There was some high-priority interest from Ng\u0101ti Apakura and potentially others in the Lake Ngarauto or Wairarauto Management Plan heritage restoration work. There was also some interest in  the Resource Recovery Center Development Project and the Urban Mobility Network Program. So I think that would be my recap on what we heard on Monday. So perhaps I'll just stop there for any comment or questions.",
+    "speaker": "peterthomson",
+    "tags": [
+      "report_back",
+      "summarize_outcome",
+      "provide_information",
+      "prioritize_issue",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 1921.54,
+    "end": 1942.572,
+    "text": " Just a general question, Peter, in terms of, I suppose, the feeling from people who have been feeding back, is it to focus on one or two or try and spread the money further and do a little bit on a number of the projects?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "ask_question",
+      "evaluate_option",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 1945.97,
+    "end": 2081.528,
+    "text": " I don't know that that was made clear, and I don't want to speak on anyone's behalf. I think there's probably best feedback on that. Perhaps what I could pick up on, though,  Given that, going back to your previous comment about the \u00a35 note, I think, being spent over and over. So this is Trench 1, it's $5.24 million that the council could have access to almost immediately.  from an application later this month if the council chooses to make it. So from that, I have had some discussion with Tony Quickfall, which he mentioned before about the possibility of a project to advance the work on District Plan Change 23. And Tony has done some  work previously to estimate the costs of that work to get the plan changed through its RMA processes, and I guess approved and adopted. And to doing that, I guess the point would be  then the plan change would be in place and it would enable implementation phase of actual development work under the plan change. So Tony's, and I hope he doesn't mind me sharing, but his estimate  So this is still an unconfirmed estimate, but nevertheless, about $260,000 at largely outsourced work from the council to progress this district plan change 23 over. And Tony might want to comment if he's still there about timeframes in which that could be achieved.  But certainly if it was a better off funded project, then the funding would be available through to mid-2027. Peter. Yep. Honey, did you want to quickly comment on that?",
+    "speaker": "peterthomson",
+    "tags": [
+      "provide_information",
+      "policy_proposal",
+      "cite_reference",
+      "defer_to_authority",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 2082.489,
+    "end": 2157.831,
+    "text": "Thanks, Jim and Peter. So yes, that's correct. So Papak\u0101inga, it is now an organisational priority. We know that we need to get it done. And as Garlian said, James Petty is on board. He's doing a really good job.  We have funding for the first task, which is to scope everything up to figure out the size of the plan change, but we don't actually have funding yet to do the plan change. And the reason for that is because of our priorities have changed considerably with the intensification plan change, which came out of the blue, all our resources and efforts have gone on to that. And the funding that we had for some of the other plan changes, we expect to sort of be taken up by some of that as well.  The short answer is we don't have funding to complete the plan change, and this seems like a really good opportunity if we could tap into some of this money to commit to Plan Change 23 Papak\u0101inga. And it did occur to me, just as we were talking, and Gaelian mentioned it too, whether, this is not part of Peter's report, but whether there is an opportunity to also include the sites of significance, that we'd need to consider whether that's in scope. But if we had that opportunity,  recommend putting that in as well if we can.",
+    "speaker": "tonyquick",
+    "tags": [
+      "provide_information",
+      "agree",
+      "prioritize_issue",
+      "policy_proposal",
+      "evaluate_option",
+      "build_on_point",
+      "state_opinion",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 2158.091,
+    "end": 2277.304,
+    "text": "Thank you. Thanks, Tony. Yeah, look, I see your hand up, Bill. Just before I open it up to questions, and Peter did touch on it, the first tranche of money, the 500 million is, as I understand it from all the discussions that I've been involved with, is effectively taxpayer funded. So we're all  paying for it in a roundabout way. And therefore, if we decline the funding, effectively, all we're going to be doing is subsidising other areas around the country. It would need all councils to say, no, we don't want to pick it up. Otherwise, as I say, we're just going to be subsidising other areas. So it would be a  I was going to say a foolish move not to pick it up. The second tranche of money, predominantly, as I understand it at the moment, is to be funded by the new entities because it kicks in after the new entities are established.  So the effect of picking up that money will mean that the costs just go on to our water charges that everybody will be paying. And again, I would suggest that if all of the local government areas club together and said, no, we're not going to accept that money, it would mean a lower water charge. But if some were to accept it, it would be exactly the same position where  If we refuse that, then we would just be cross subsidising other areas. So it's a decision that's got to be made later on. But whatever happens, the consumers will end up paying for it somewhere along the line. But anyway, Bill, you had a question or comment.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "provide_information",
+      "state_opinion",
+      "persuasion_attempt",
+      "evaluate_option",
+      "defer_decision",
+      "community_reference",
+      "equity_reference",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 2279.56,
+    "end": 2451.999,
+    "text": " Kia ora, Jim. I gave a report to Ng\u0101iwi T\u014dp\u016b, but I think that with the councillors here and other iwi here, I did want to repeat, and I hope it's acceptable, the fact that there weren't, as I understand it, any K\u0101nohi rep at the council where these seven were chosen and where the discussion occurred about  whether the council should uplift the money or not. So, I am, however, pleased to see that it is going to the service delivery team on the 20th. And I'm the k\u0101nohi rep on that service delivery team. But it was, you know, just if I might just point out that it would have been good to have Mana Whenua in when these seven were being discussed. I know I've heard the report that they are in the long term plan,  not being at the table on the day, I thought, was, can I say, an oversight. And it appears that it is being corrected with it now being put in front of the service delivery on the 20th. So, with that having been said, you know, because, you know, that's my Ka Nohi hat that I'm wearing there. I just didn't want for us to be asked questions about why it is that  you know, we may or may not have been part of the decision making on the seven. The other point is that at Ng\u0101iwi T\u014dp\u016b, we did ask about papak\u0101inga being placed as a higher priority because it isn't in the seven.  although it is one of the three key factors in terms of this funding. Housing, certainly, I mean, is a key factor in terms of this funding. And we did ask, and I think Harold put it quite succinctly on Monday,  asked the question about whether we were able to go back to the providers of this funding to see if we could use the funding in the way that Tony's described and, you know, uplift two hundred and sixty thousand so we could move this priority, although it may not have been in the LTP, forward because, you know, I'm hearing that  The organisation has it as a priority, but certainly as M\u0101ori, we have it as a priority, and others can speak to that, I suspect. So, yeah, if we can push that that $260,000 be gained from somewhere else to move along the papak\u0101inga suggestions, the rule change for the papak\u0101inga suggestions,  I think that everybody that is M\u0101ori on this ZUI would be supportive of that.",
+    "speaker": "ngatiap",
+    "tags": [
+      "express_concern",
+      "community_reference",
+      "equity_reference",
+      "provide_information",
+      "policy_proposal",
+      "prioritize_issue",
+      "persuasion_attempt",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 2458.64,
+    "end": 2461.642,
+    "text": " Thanks, Bill. Gaylene.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 2463.903,
+    "end": 2505.229,
+    "text": "OK, we'll make this short. So Papak\u0101inga has been on the list for probably as long as I've been on any list. It meets the government's housing shortage. So I don't think there's a discussion about whether it's on a list or not, because it is. It's just when. But one of the things that I was discussing with the planner was around  some of the tranche money being utilised in pathways, lighting, in stormwater and papak\u0101inga. Because that does meet some of the criteria for the better off and that we might be able to do some of that in that space as well.",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "provide_information",
+      "prioritize_issue",
+      "policy_proposal",
+      "build_on_point",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 2509.13,
+    "end": 2513.772,
+    "text": "Peter, have you got any comments on that particular one?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 2514.615,
+    "end": 2603.3,
+    "text": " I think my comment would be that, at least to my knowledge at this stage, that that's probably an idea which fits better with Trench 2 funding purely because of the timing.  So, unless there is a business case which can be developed around that infrastructure work, if you like, around Papakao, then it will be difficult to try and make this part of the Trench One application funding proposal by the end of this month. So, what does seem  achievable by the end of this month, in my view, would be to include the project to complete DPC 23. So the $260,000 notional budget that Tony and I mentioned to get that work done. And then it would be  Then I went to the council to think in terms of tranche two funding other projects, such as Galeen's testing being put forward at that stage, which is probably sometime early in 2024. So I think that's the best advice I can give.",
+    "speaker": "peterthomson",
+    "tags": [
+      "provide_information",
+      "state_opinion",
+      "evaluate_option",
+      "prioritize_issue",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 2604.457,
+    "end": 2614.864,
+    "text": " I'm sorry, Jim, in saying that, so if there was anything that Ng\u0101i Toki would be pushing, it would be around infrastructure or p\u0101pak\u0101inga. Yeah. And the better off funding.",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "clarify_point",
+      "community_reference",
+      "prioritize_issue",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 2616.606,
+    "end": 2698.618,
+    "text": "Yeah. Thanks, Gaylene. I think that we've got the message and  Sorting out their housing problem, whether it be Papak\u0101inga or anything else, has got to be one of the key issues facing the whole country at the moment. So, look, anything we can do there, I think you would probably get Council support without speaking for them.  without having that meeting and just reflecting back on Bill's comments. Look, this whole process has been rushed as usual at the moment from central government. Staff have pulled the  the issues or the items out of our long term plan that comply with the criteria that has been set by government and council haven't actually determined anything as yet, Bill. So keeping everybody informed as much as we can is always challenging. But look, there's been no decision made which of those projects or if any of them are  are going to be funded out of that package. So, yeah, look, we need to keep talking and keep the lines of communications open because we have to move quite quickly on this one. Harold, you've got your hand up.",
+    "speaker": "jimmylchreest",
+    "tags": []
+  },
+  {
+    "start": 2706.22,
+    "end": 3023.013,
+    "text": "Yeah, thanks, Jim. Yeah, just trying to support the stuff that Bill was talking about also.  From the perspective of the people that are going to be the creators and the occupants of Papak\u0101inga, it's not just about what council needs to do. The whole process, for example, from the experience that we're finding right now in the project that we've been doing since 2018, the greatest volume of work is in the bringing together of the communities.  and providing them with all the requirements that they need to be able to create those papak\u0101inga. So papak\u0101inga aren't quite the same as the subdivisions that you have in the urban space, because that's a design with an intent to simply do that for their purpose.  and it's allowable in every aspect of the district plans. Papak\u0101inga are something new to, I'll say, Western society with respect to district plans, et cetera, and they've been treated in different ways by different councils and different local authorities. However,  All the Waipapi M\u0101ori are interested in is their council in their land. You won't find Papakainga on general land. And that's something that no one's recognising in this whole process of creating a plan change for Papakainga.  Because our intention is not to provide for every person in the country to have proper kainga. Our intention is to provide homes for our children who are living in vans out on the street at the moment.  and they're not there by choice, they're there because we all know that it's almost impossible, not only for M\u0101ori, but everyone else, to get into an occupation of a home. So papak\u0101inga to us, as mana whenua, is a better use of our land rather than fattening stock on it. And it has a longer term advantage to our society here in Waip\u0101 if we do that.  Because by providing those opportunities, those accommodation opportunities for our whanau when they come home, we're not going to be adding to your social problems within my park. So I think it's a win-win situation for all of us. And I'll say that to give some cultural context to what we are trying to deal with here.  So at the moment we have this bit of funding that's available. And all we're saying is that we think Papak\u0101nga should be a high priority on that list. The fact that you don't have, right now, any plan before you is because no one ever knew about this. And even if we'd have known, we'd have done something about it. At least you would have had something before you right now.  Unfortunately, we're a bunch of people out there in the community. We're not organisations like councillors, for example, and other organisations that do that sort of thing. So our message is clear. All we want is to be able to use our lands for a better purpose.  and that better purpose is by creating Papak\u0101inga. Now, if this fund can help, and I'm assuming that the Plan Change 23 is the reference to Papak\u0101inga Plan Change, if that funding can help speed that up so that when I'm ready after Christmas to start building Papak\u0101inga on one of our blocks, then that's a good,  and very viable and very valuable purpose for the use of that money, because it will help our people. And I can't say this clear and loud enough, that we were at desperation point. We're past the point of saying, look, let's be reasonable about this anymore. We can't be.  because everyone else is suffering and we're suffering worse. So this is a good opportunity for us to be able to utilise what's available for us. I don't have the answers how we can do it, but what I'm saying to council is that help us to do it. We need to do it. You can't go ahead without not doing it because it is so vital to our future communities.  And thank you.",
+    "speaker": "haroldmaniapo",
+    "tags": [
+      "provide_information",
+      "prioritize_issue",
+      "express_concern",
+      "community_reference",
+      "equity_reference",
+      "policy_proposal",
+      "persuasion_attempt",
+      "state_opinion",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 3023.513,
+    "end": 3079.213,
+    "text": "Yeah, look, Harold, I agree with your comments there, and it's been a long time coming. The start has been made on the plan change, but absolutely get the message loud and clear. And I'm  not wanting to put words in your mouth, but we've got a recommendation here to receive Peter's report. But I think possibly a second part of that recommendation should be that as top priority from this meeting, that you believe that funding should be made available for the completion of the Papakainga plan change.  Is that a fair comment? That's where you would see it sitting, right at the top?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "agree",
+      "build_on_point",
+      "policy_proposal",
+      "prioritize_issue",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 3081.595,
+    "end": 3082.737,
+    "text": "Yes, I would support that.",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 3082.797,
+    "end": 3109.493,
+    "text": "Yes, most definitely, Jim. And I don't think I'm the only one, but I'll just put my spoken first. I think it is, not just for M\u0101ori, but for the whole community of Waip\u0101.  Because I'm only talking about our little patch here around Taumat\u016b and K\u012bk\u012b and towards the south of you. But there's the rest of Waip\u0101 that I have no doubt would have the same sentiments.",
+    "speaker": "haroldmaniapo",
+    "tags": [
+      "agree",
+      "community_reference",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 3112.357,
+    "end": 3140.646,
+    "text": " Again, agree, Harold, it's not just the area that you're talking about, it's the whole district. So look, I think we still got our bills put at hand up again. If there's any other comments about Peter's report, we'll have them. But I think just at the end of the discussion, we just add that to the recommendation that that's top priority from this committee. Bill?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "agree",
+      "prioritize_issue",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3142.635,
+    "end": 3188.624,
+    "text": " Thanks, Jim. I just wondered, I'd support the recommendation that you've put before us. I just wanted to get a bit of a sense from Tony before that's actually passed, whether spending that $260,000 right now would bring us into the tranche one, or is it the proposal that this be in tranche two? Because there are different timeframes there.  and I was listening to the time frame Harold has in his head. So is it proposed that the 260,000 be in as part of the tranche one and therefore, you know, offer some more immediacy to this particular project?",
+    "speaker": "ngatiap",
+    "tags": [
+      "state_opinion",
+      "ask_question",
+      "clarify_point",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 3189.905,
+    "end": 3233.405,
+    "text": "It's probably one for Peter, but what I heard Peter say as I understood it was that 260,000 and change 23 as part of tranche one, if I understood that correctly.  And we've got James on board, so just so you're aware, James is doing the task one. We have contracted James to do the actual plan change. We believe he can do a good job and consult with Mana Whenua through that process, but that is subject to funding. And so if we were able to secure that funding as soon as we could, then we could continue to progress Plan Change 21, 23, sorry.  Yeah, and Peter was, you are nodding your head Peter, so it is out of tranche one Bill, so it's at the front end.",
+    "speaker": "tonyquick",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "report_back",
+      "community_reference",
+      "prioritize_issue",
+      "defer_to_authority",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 3234.711,
+    "end": 3238.352,
+    "text": " Correct. That was what I was suggesting when I spoke before.",
+    "speaker": "peterthomson",
+    "tags": [
+      "agree",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 3240.493,
+    "end": 3256.398,
+    "text": "Thanks, Jim. It's just that there were some timeframes expressed to us the other day, and I wasn't, you know, I wanted to check that. So thank you for that. Look, it's great that we can get that money out of or potentially get it out of out of the tranche one funding.",
+    "speaker": "ngatiap",
+    "tags": [
+      "clarify_point",
+      "agree",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 3256.96,
+    "end": 3294.463,
+    "text": " But that issue said, and I take on board, this issue's been coming up so often and for such a long period of time.  Harold will be bald, not just grey by the time it's completed, if we're not lucky. So I think it's an issue that, yes, we'll push hard to get it out of Tranch 1. But if not, we need to look at it as part of our funding opportunity in the next annual plan. But one way or another, it's got to be completed. Otherwise, we just continue to go around in circles.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "prioritize_issue",
+      "policy_proposal",
+      "express_concern",
+      "build_on_point",
+      "persuasion_attempt"
+    ]
+  },
+  {
+    "start": 3296.711,
+    "end": 3317.727,
+    "text": " Can I just add that around the engagement of the public hiring of Plan Change 23, engagement cost is a two-way street. It's not just a council responsibility. So if you could just remember that. Iwi have a responsibility and consultation as well, as well as costs.",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "clarify_point",
+      "state_opinion",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 3320.009,
+    "end": 3320.729,
+    "text": "Thanks, Gaylene.",
+    "speaker": "jimmylchreest",
+    "tags": []
+  },
+  {
+    "start": 3321.91,
+    "end": 3335.688,
+    "text": "Just to confirm, we have factored in  some funding for mana whenua engagement. So we've made a guess at that, but just to reassure you, there is some funding as part of that money that's in there.",
+    "speaker": "tonyquick",
+    "tags": [
+      "provide_information",
+      "reassure_stakeholders",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 3338.151,
+    "end": 3339.113,
+    "text": "OK, thanks, Tony.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 3339.954,
+    "end": 3342.057,
+    "text": "I'm happy to move or second your recommendation.",
+    "speaker": "ngatiap",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3343.308,
+    "end": 3365.333,
+    "text": " Thanks, Bill. Well, you, Mervyn Harold, I've no doubt would be wanting to second it. So, can we, from Jenny, can you just record that the funding for Plan Change 23, was it, Tony? Yeah. The top priority from the Tranche 1 funding",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "assign_action",
+      "procedural_move",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 3366.738,
+    "end": 3384.023,
+    "text": " It was a huge one. Your Worship, the governance team have actually prepared a revised wording, which is that the Iwi Consultative Committee requests that funding for Papak\u0101inga Plan Change 23 should be a top priority, and we've, for Tranch 1, better off funding.",
+    "speaker": "kirstydowney",
+    "tags": [
+      "policy_proposal",
+      "prioritize_issue",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 3384.783,
+    "end": 3390.365,
+    "text": "Thanks, Kirsty, that's better than I put it. Bill and Harold, you're happy with that?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "ask_question",
+      "confirm_next_step",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 3392.562,
+    "end": 3413.653,
+    "text": " Just before you do, I was just going to say there were some priorities expressed within the seven projects as well, with Te Arawai being the top of those. I don't know whether it needs a resolution, but just want to make sure that we capture that to pass on to Council. Yes, please.",
+    "speaker": "garrydyet",
+    "tags": [
+      "provide_information",
+      "prioritize_issue",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 3414.508,
+    "end": 3434.231,
+    "text": " Yep, so in terms of those recommendations, because we've had public feedback and I haven't seen the detailed responses, but have they come back in line with the recommendations one through to seven, Peter, is that?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 3438.525,
+    "end": 3472.611,
+    "text": " Yes, they have. That information is being shared. Of course, there'll be a council workshop next week and then more formally at the Service Delivery Committee meeting on the 20th of September. But it's certainly  The results from the community survey showed Te Arawa as being one of the leading projects in terms of public support.  Thanks, Peter.",
+    "speaker": "peterthomson",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "confirm_next_step",
+      "community_reference",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3472.631,
+    "end": 3525.994,
+    "text": "Your Worship, so as Peter mentioned earlier, and members of this committee have referenced the feedback from Ng\u0101 Iwi T\u014dp\u014d Waip\u0101 that was provided on Monday, and there were three projects specifically that were highlighted, Te Arawai being number one priority.  as well as the Resource Recovery Centre and the Urban Mobility Programme and Lake Ngaroto, Wairauto, being highlighted as priority projects. So my understanding, Peter, is that you will be feeding that back to elected members through that workshop session and formal reporting. But if there was specific feedback from the Iwi Consultative Committee, such as we've just heard in respect of plan change,  23, and that was also raised at Ng\u0101 Iwi T\u014dp\u014d Waip\u0101, my apologies, then that should be captured here as feedback from this committee.",
+    "speaker": "kirstydowney",
+    "tags": [
+      "clarify_point",
+      "provide_information",
+      "assign_action",
+      "confirm_next_step",
+      "community_reference",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 3530.853,
+    "end": 3539.918,
+    "text": " So, Bill, have you got your hand up again or is it just you haven't taken it down? I haven't taken it down. OK. And Gaylene, you're wanting to speak or you're waiting?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 3540.178,
+    "end": 3562.17,
+    "text": "Yeah, I do. That's two things we've got through council today. That's just a miracle in itself. But I just wanted to make a comment. Thank you very much, Tony, for the clarity around the funding. However, I was commenting on this that if we don't need a handout, we just need a handout from council.  All right. Thank you.",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "summarize_outcome",
+      "agree",
+      "clarify_point",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 3563.49,
+    "end": 3598.564,
+    "text": "Thanks, Kaylene. So, in accepting Peter's report, we are in general accord with that list of projects other than just wanting plan change 23 at the top. That's where we're sitting. All right. So, I had a mover and seconder with Bill and Harold. All those in favour? Contrary? Carried.  Thank you for that. Item nine, Maori representation. I think, Gary, you were handling this. Yeah.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "agree",
+      "prioritize_issue",
+      "call_vote",
+      "summarize_outcome",
+      "assign_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3599.905,
+    "end": 3742.029,
+    "text": "Thanks, Your Worship. Yeah, just as this is the last meeting of the triennium, what generally happens is the  The outgoing council leaves recommendations for the incoming council. And just noting, I guess, there are some differences this time. There will be a Maori ward and Maori ward representative on the next council.  And I just want to, I guess, make sure that for the iwi consultative committee, that we get the structure of that right. So first, I guess, there are a couple of issues there, and I've listed them in the report. I guess, first of all, we've never made k\u0101nauhi members members of the  Iwi Consultative Committee, and I just want to check if that is something the committee would want to do. Within that, there's, I guess, a question about whether Te K\u0101nohe members will be, positions will be retained for the next council. So I guess a couple of recommendations there would be helpful.  I'm assuming they will be no brainers. The second one would be around with the Maori ward member. Again, I think that's probably a given, but just want to make sure that the committee is, I guess, able to make some recommendations in those areas. And just finally,  The final two points there around the councillor makeup, whether it's still appropriate that committee chairs be there, or should it be opened up to other councillors as well? That might be another point of discussion. And final point just raised around the name, whether Iwi Consultative Committee is still an appropriate name for the committee. It's something we might be able to look at as well.  So you're really just trying to get some recommendations for the incoming council around this particular committee. Thanks, Gary.",
+    "speaker": "garrydyet",
+    "tags": [
+      "provide_information",
+      "ask_question",
+      "policy_proposal",
+      "community_reference",
+      "equity_reference",
+      "summarize_outcome",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 3742.049,
+    "end": 3742.39,
+    "text": "Harold.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3754.742,
+    "end": 3893.493,
+    "text": " Yes, thank you, Jim. Yeah, just with respect to what Gary was asking. And I think the first one was around whether the incoming M\u0101ori councillor should be a member of the Iwi Council.  My view is yes, yes, because they represent our interests. And quite differently to any other councillor on council, they cover the whole district of Waipa.  So they don't only represent, for example, the Manipoto view or the Rotorua view or the Ng\u0101ti Hau\u0101 view, they represent all our views. And I think their input at iwi council in the future is going to be very valuable.  And I think the second issue that he is raising around whether Kanohi members should be also there. I thought also, as part of that paper, the question also referred to whether they would be still in existence once the M\u0101ori councillor was elected.  With respect to the first one, whether they should be on the Iwi Council, the view of Mani Poto-Kitiraki is yes, they must be on Iwi Council.  because we put them there to represent our interests on those committees. So that leads into the second part of the question. Should they still be there after the election of a M\u0101ori member? Most definitely. I don't think the\u2014  election of a M\u0101ori-owned council should change how the design or the intent of the standing committees should operate, and where and who they should report to. So I just wanted to place that in support of what Gary was asking about, just in those two matters. Thanks, Jim.",
+    "speaker": "haroldmaniapo",
+    "tags": [
+      "state_opinion",
+      "agree",
+      "build_on_point",
+      "clarify_point",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 3894.798,
+    "end": 4018.868,
+    "text": " Thanks, Harold. So, look, all of the committees of council, it's just a standard procedure, has to be reset every triennium, and it'll be dependent on, obviously, who's elected from the council. We, as an outgoing council, make recommendations, obviously, but it is over to the new council.  I haven't heard anything around the existing table that would suggest that the Tikanohu reps weren't going to be continued. So, I would envisage that would be the recommendation going forward. So, certainly, there's been no negative discussion over that particular issue.  certainly would take on board that the M\u0101ori ward member should be part of the committee. So, I suppose we get down to the issues really in terms of  who we should be recommending going forward being the council reps. And I suppose we've always considered it that the chairs of the committees have, I suppose, got some additional responsibility and they were the appropriate people.  But there's no\u2014or there's nothing to stop any other member of Council coming to the meetings if they wish, but they just wouldn't have voting rights. But there could well be a change there if you thought that that was appropriate. And then, as Gary's mentioned, is the name appropriate as well? So, I don't know if there's any views on that at the present time.  It'll be something that'll have to be put to the incoming council. And of course, it's only a month away, really. Gaylene.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "provide_information",
+      "procedural_move",
+      "clarify_point",
+      "state_opinion",
+      "defer_to_authority",
+      "defer_decision",
+      "community_reference",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4024.112,
+    "end": 4142.265,
+    "text": "Well, this subject kept me up late last night because I just had to really think hard about it. So the Te K\u0101noe reps at iwi consultative  would be awesome, would be absolutely awesome. But it does two things. One, it limits who will apply for those positions because they're really specialized fields. But that can be overcome if the agenda is administered for an ability for them to have an input.  The second one, should the ward member become a member of the iwi consultant subordinately? But in saying that, the ward member has to be an independent, and surely because they represent wider than Ng\u0101i Ritupu itself, and wider than the iwi consultant itself, so it would be an independent person at the table. That's probably,  all that I can say right now. But it's always good to have all those members at the table, but it just has to be administered correctly so that iwi gets to have a time where they can put their point of view across. The k\u0101nohi can do their points of view, and the same with the ward rep.  So the forum that we have now will definitely change. Will definitely change to accommodate those skills that will be around the table. Because not forgetting the iwi representatives also that are around the table.",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "state_opinion",
+      "express_concern",
+      "policy_proposal",
+      "community_reference",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 4144.687,
+    "end": 4158.881,
+    "text": "OK.  Through you, Your Worship, I think also just noting that we are doing work on that relationship model, and I would expect to see some evolution of the committee over the next triennium anyway, so just note that as well.",
+    "speaker": "garrydyet",
+    "tags": [
+      "provide_information",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 4159.722,
+    "end": 4183.943,
+    "text": "Yeah, definitely, and I think that we'll get more input from the board, from iwi leaders as well, in this forum. So yes, I would say yes to everything, as long as it's administered correctly.  which is probably part of what Dominic is doing. But yeah, those are my opinions. Thank you.",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "agree",
+      "state_opinion",
+      "community_reference",
+      "defer_to_authority",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 4184.644,
+    "end": 4216.467,
+    "text": "Thanks, Gaylene. So is it a fair reflection of the views that definitely in those bullet points that Gary's put forward, a definite support? And is it a case in the third bullet point,  that the appointment of the council representatives is left to the council to decide rather than a recommendation from this committee? Is that where we're sitting?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4217.788,
+    "end": 4237.973,
+    "text": "If we did that, Jim, that would change the history of the iwi consultative and Ng\u0101i Whi Toku o Waipou. Because one of the things that the old people made clear was that those who made decisions in the council were to sit around the iwi consultative committee.  It made that clear at the beginning.",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "community_reference",
+      "express_concern",
+      "state_opinion",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 4238.073,
+    "end": 4258.465,
+    "text": "So effectively we are supporting all those first three bullet points strongly, that it carries on with the committee chairs as the representatives on the iwi consultative committee? Unless you've got somebody higher than you, yes. Thanks Kayleigh.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "agree",
+      "confirm_next_step",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 4262.461,
+    "end": 4265.904,
+    "text": " And no, the name is not, and we need to change the name, sorry.",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "clarify_point",
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 4266.045,
+    "end": 4280.638,
+    "text": "Yeah, okay, so we can just note that some work needs to be done on the changing the name, and that can take place over the next two or three months without any problem.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "confirm_next_step",
+      "provide_information",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 4281.478,
+    "end": 4282.359,
+    "text": "Yes, definitely.",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 4284.141,
+    "end": 4301.699,
+    "text": "Okay, so who's best to come up with the name, Gaylene?  Can we put that back to Ng\u0101i R\u014dtoko? You can put that back to Ng\u0101i R\u014dtoko because one thing that we do is we have to look at what the structure is going to look like too, before we can name it. Okay.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "ask_question",
+      "assign_action",
+      "defer_decision",
+      "clarify_point",
+      "defer_to_authority",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 4302.54,
+    "end": 4304.421,
+    "text": "So maybe a little bit longer than two months.",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 4304.841,
+    "end": 4314.886,
+    "text": "No, that's fine. It's just that when we're setting up the committees at Council, we can note that there's going to be a different name.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "reassure_stakeholders",
+      "procedural_move",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4315.486,
+    "end": 4316.387,
+    "text": "Oh, yes, definitely.",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 4316.685,
+    "end": 4318.366,
+    "text": " Okay, thanks for that. Harold.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4320.826,
+    "end": 4459.635,
+    "text": "Just a point I want to make about how we established the original Iwi Council, you might remember, you might recall, Jim, way back in the day. The intention of getting, no, I'll rephrase that. We were instructed by those kaum\u0101tua, those elders of the time,  to make sure that when they sit down to talk with council, they only talk with the bosses, the leaders, the authority.  And that's how the composition of the Iwi Council, with respect to councillors being the chairs of everything and the mayor and deputy mayor at the top, was on the basis that our leaders at the time would only speak with the leaders of the other side.  And that has proved its worth right over the period, as you might recall, if you well know. But going into the future, I'll go back a step. The reason why they did that, because there were no M\u0101ori members on council. Going into the future, we will have a M\u0101ori member on council. And they will be our leader.  They will be our choice to put on council. Why would we not bring them into this forum when we have these discussions about council?  I just place it on the table for people's consideration going forward. I don't expect a decision now. We won't put ourselves into that position at this moment. But I think we need to consider carefully the historic status and creation of this organisation we're sitting in right now and how we can maintain that kaupapa, that tikanga as we go forward. Thank you.",
+    "speaker": "haroldmaniapo",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "community_reference",
+      "equity_reference",
+      "state_opinion",
+      "defer_decision",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 4460.835,
+    "end": 4521.036,
+    "text": " Thanks, Harold. OK, so look, in terms of there is a recommendation there from Gary to receive his report, but I think that we should include those recommendations in the resolution or in the recommendation.  and just take out, I suppose, the question is, should Te Kanohi become members? We need to say Te Kanohi should be members, or we recommend that they are members. The same with the M\u0101ori Ward members, the same in terms of committee chairs. And note that Ng\u0101i W\u012b Toko will be looking at  recommending a change to the name of the committee. Is that where we're all sitting, Gaylene? Yep.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "policy_proposal",
+      "build_on_point",
+      "clarify_point",
+      "community_reference",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4522.577,
+    "end": 4523.077,
+    "text": "Definitely.",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "agree",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4523.638,
+    "end": 4566.288,
+    "text": "Yeah. So, look at that. Three good things today, Gaylene. Keep counting. Right. So, can I have a mover and seconder along those lines, please? Harold and Gaylene. All those in favour? Contrary. Carried.  Oh, nothing like coming to an end of an era to get some things done. Now on item 10, build control bylaw. Gary, is this you again? No, Graeme Poha is here.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "call_vote",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 4566.448,
+    "end": 4567.569,
+    "text": "Oh, Graeme, you're here.",
+    "speaker": "garrydyet",
+    "tags": []
+  },
+  {
+    "start": 4567.609,
+    "end": 4568.209,
+    "text": "Sorry, Graeme.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4569.731,
+    "end": 4588.518,
+    "text": "Kia ora, Your Worship. T\u0113n\u0101 koutou.  I'd like to take this report as read. I had another read through it this morning and thought there's not a lot I can add to it. So I'm happy to take the report as read and answer any questions that the committee may have.",
+    "speaker": "grahampollard",
+    "tags": [
+      "procedural_move",
+      "provide_information",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4594.589,
+    "end": 4612.017,
+    "text": " OK, so look, this is just an update. We've still got to go through the formal process starting early in 2023, when it will be open for formal comments from anybody who wants to make comments. Is that correct?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "provide_information",
+      "ask_question",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 4612.618,
+    "end": 4687.926,
+    "text": " Indeed, the team are starting to work through all the feedback that we've had. We've had plenty of it, and it's been really great to receive so much. They'll be putting together some initial proposals. Our thinking is maybe that we have another webinar in a few weeks' time, invite all those that have provided the feedback to attend that so we can feedback on that feedback, but also  provide a bit of a heads up as to what some of the initial changes to the policy might look like. And we can take that further feedback into the next process with a view to bringing a amended or a new policy and bylaw to the new council, hopefully before the end of the year, but it may just tick over into the beginning of 2023.  and thereafter hopefully we're on course for formal consultation, probably February, March, possibly just into April next year. Okay, so look, all I would be suggesting is once you've pulled all the comments together,",
+    "speaker": "grahampollard",
+    "tags": [
+      "provide_information",
+      "policy_proposal",
+      "procedural_move",
+      "confirm_next_step",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 4692.278,
+    "end": 4725.001,
+    "text": " Well, I was going to say there will be, but I'm hopeful that there'll be some comments regarding the, I suppose, the cultural perspective of dogs, particularly on kakapuku and other areas.  And if we could at least get that discussion going with Ng\u0101i R\u012btoko a Waip\u0101, and it's not just Kakapuku that we're talking about, but it could be other areas as well, so that we actually get a bylaw that's going to be acceptable.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "assign_action",
+      "community_reference",
+      "equity_reference",
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 4726.621,
+    "end": 4756.875,
+    "text": "Yeah, we've had some comments from people saying that they can't really comment fully without understanding what those cultural  concerns are. We've not been in a position to answer that. We do want to find a way of how we can help people with their understanding.  So those are conversations that we'll need to have offline.",
+    "speaker": "grahampollard",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "community_reference",
+      "defer_decision",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 4757.455,
+    "end": 4775.023,
+    "text": "Yeah, so we need to be able to, when we go out to the public and ask for their formal comments, we need to have good information, I suppose, so that the people can actually make an informed decision. Dominic, I see you've got your hand up.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "prioritize_issue",
+      "procedural_move",
+      "public_address",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 4776.339,
+    "end": 4796.187,
+    "text": " Thank you, Mr. Mayor. You just answered my question because I wanted to know. Hi, Graham. I'll go back to what I report to say that it looks like there's going to be another webinar, but I know the question they're going to ask is what are we going to be asked to talk about? So thank you. I've just got some idea of what sort of additional feedback would be required that will help us.",
+    "speaker": "dominictumoan",
+    "tags": [
+      "report_back",
+      "confirm_next_step",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 4796.407,
+    "end": 4814.146,
+    "text": "Yeah, I'm quite happy to meet one-on-one with people and discuss how we can  help other people in the community understand what those issues are in whatever form of words are appropriate. Yeah.",
+    "speaker": "grahampollard",
+    "tags": [
+      "assign_action",
+      "provide_information",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 4814.526,
+    "end": 4816.927,
+    "text": "Thanks, Graham. Harold and then Gaylene.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4822.068,
+    "end": 4860.466,
+    "text": "Yes, thank you. I'm just looking at your schedule of prohibited areas, and you've got one section there titled Te Awamutu.  You've got the Rose Garden, the Events Centre, Albert Park Cemetery in Kiki, and Jean Gatton Reserve. Had you ever considered the Wirrimaniapoto Reserve as one of those areas at all? Just a question, because I think there needs to be some consideration around whether dogs should be allowed on there as well.",
+    "speaker": "haroldmaniapo",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "prioritize_issue",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 4862.665,
+    "end": 4865.167,
+    "text": " Okay, I'm not, sorry.",
+    "speaker": "grahampollard",
+    "tags": []
+  },
+  {
+    "start": 4866.508,
+    "end": 4901.81,
+    "text": "The reason I asked the question, because that is an urup\u0101. And there are some considerations on there that are not appropriate, some activities that are not appropriate. And we've gone to great lengths to ensure that that integrity is being maintained. And I just happened to look at that schedule and I was like, oh,  It reminds me, we've not done anything with respect to Rewe Reserve. Maybe I'll just leave that in your lap to give some consideration to, if you could.",
+    "speaker": "haroldmaniapo",
+    "tags": [
+      "express_concern",
+      "provide_information",
+      "assign_action",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 4902.191,
+    "end": 4931.377,
+    "text": "Thank you. Okay, thank you, Harold. I wasn't aware of that one. I'm not sure if it's being considered. I don't recall that one coming up in the feedback. Although we said we've closed the feedback time on the 31st of August, we're still open to  ideas coming in. It's not an absolutely critical cut-off date. I will feed your suggestion forward to the Animal Control and Parks teams that are looking at this. Thanks Grant.",
+    "speaker": "grahampollard",
+    "tags": []
+  },
+  {
+    "start": 4931.778,
+    "end": 4932.098,
+    "text": "Go ahead Lyn.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4935.821,
+    "end": 4970.431,
+    "text": "The dogs has to be the last thing on the Ng\u0101i Topu list. It's been there as long as my hum to the dogs. But, however, in saying that,  Gosh, I was just gonna raise the same thing that Harold did, is around those places of significance to Maori. So what I didn't get, I think, is was Ng\u0101i Ritupi required to put in anything around those spaces? Yes.",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "prioritize_issue",
+      "build_on_point",
+      "express_concern",
+      "community_reference",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 4970.471,
+    "end": 4993.401,
+    "text": "Oh, we didn't. We didn't specifically ask you to do that on this occasion.  but obviously it's something that, it's a conversation we'd like to have as we get into the more formal development of policy ideas. All right, thanks for that.",
+    "speaker": "grahampollard",
+    "tags": [
+      "clarify_point",
+      "defer_decision",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 4994.402,
+    "end": 5023.14,
+    "text": "Okay, thanks Graham, that's just a progress report. So I don't think anything to add. So if I could just have a mover and seconder to receive that.  Liz and Harold, all those in favour? Contrary? Carried. Water services update. Thanks, Graham. Who've we got online for this? Kelsey's on there. Oh, Kelsey.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 5027.263,
+    "end": 5033.888,
+    "text": "Kia ora. Basically, I'm just taking this as read. If anyone has any questions, please. Yeah.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "public_address",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 5035.202,
+    "end": 5046.285,
+    "text": " Fair amount of work getting done, but were there any comments or questions? There's nothing outstanding from the committee's perspective.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "ask_question",
+      "summarize_outcome",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 5049.805,
+    "end": 5056.907,
+    "text": "Probably not from us. Well, there was, but we won't do it today. Okay. Thank you.",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "defer_decision",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 5058.524,
+    "end": 5085.607,
+    "text": " All right. If there's no questions on that, can I have a mover and seconder to receive the information then? Yep. Andrew and Gaylene. All those in favour? Aye. Contrary. Carried. And item 12, the quarterly district growth report. And who's doing that?",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "summarize_outcome",
+      "close_discussion",
+      "confirm_next_step",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 5087.729,
+    "end": 5088.49,
+    "text": " That's me, Your Worship.",
+    "speaker": "tonyquick",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5089.81,
+    "end": 5092.012,
+    "text": "Yeah, Tony, thank you. Sorry about that. Yep.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 5092.052,
+    "end": 5589.442,
+    "text": "That's okay, thanks. So I wasn't intending to go through this report. It's quite a chunky one. This is our regular report for our growth programme that we report quarterly. We thought we'd put it on the agenda today and I'll just highlight a couple of key points that might be of interest to this committee. So the first one is probably just an update on the RMA reforms.  So we are expecting the bill to come out at the end of this calendar year, and the Act to come out maybe October next year, prior to the general elections, we expect. It is shaping up, and the Ministry is putting out communications around how it's shaping up, and a key part of that, and a big part of that, is around iwi M\u0101ori engagement.  I guess what will be different in the reform, and it's been signalled quite clearly, is more opportunity up front in making plans for iwi M\u0101ori to be engaged. We don't know quite what that looks like yet, but that's a very clear signal. And that will be involvement in the first regional plan that we're developing. So if you recall, the proposal is that they take all  all the regional plans, so that's all the territorial district plans, and any regional plans from the regional councils, put them into one unitary plan, one complete unitary plan, and that's a whole new plan that needs to be created. So I guess just signaling the opportunity for involvement, increased involvement in that process. We do expect there's gonna be quite a big transition through that process.  We don't know what that looks like yet, but the Ministry has signalled that there'll be a secretariat that needs to be set up to support the regional joint committee, and that regional committee will have iwi representation on it. Again, a lot of unanswered questions as to what that make-up looks like, how the committee members are appointed, or if they're nominated. We don't know yet, so that will probably all come through in the bill.  I want to update you on that, and also our district plan work programme. I'll just scroll down to where that is. As I said, there's a lot of information in this report. So that's on page 73 of the report itself. We do have a table in there about the district plan programme. You'll see that the iwi site significance isn't on that programme. As I mentioned, we've got a number of changes which are not on that table because they've been parked because we just don't have the resources.  we've heard the discussion this morning around a desire to do that when we can. Probably just very briefly, I'll take you through this, it's probably worth doing that. So we have notified Plan Change 26, so that's a mandatory plan change, which is residential intensification. You may have heard a little bit of or been following that in the media. It's not one that our council supports because it was kind of forced on us and we don't think that  it's appropriate, or that we're ready, or the fact that we can service a whole lot of intensification in Cambridge, Te Aumutu and Kihikihi. Nevertheless, we have had to do this plan change, so it has been notified. There'll be an independent hearings panel, and it must be independent, that's mandated under the legislation, and they'll be hearing it. The first set of hearings will be just scene setting, that'll be February 2023, and then the substantive hearings will be  looking at towards the end of April, 2023. Hamilton City and Waikato District are also having to do similar plan changes. On our hearings panel, we did quite a lot of work in putting that together. There were discussions with Waikato Tainui about an iwi representative, and in the end, Vicky Morrison-Shaw was appointed for a dual role. One is given her legal background, if you know her, she's an Auckland barrister.  And I'm not sure if she whakapapa is to iwi, but she certainly has tikanga knowledge and expertise that she can bring to the table. So she is the nominal tikanga representative on that committee, on that hearing panel. Plan change 17, that's haupapu industrial zones. So there's three components of that. One is, I suppose, a technical alignment of a structure plan, that's an industry plan, so it's fairly,  fairly non-contentious, it's just a line infrastructure plan. The second part of that is we've got a growth zone out there called C9, and at the moment that's programmed for development after 2035. A lot of that has already been rezoned via resource consent for industrial anyway, and we are getting a lot of demand for industrial land, so we thought that it was appropriate to bring that zoning forward, so what we're doing is looking to live zone that to industrial. It's already programmed for that,  That's just a timing matter. And the third part of that is there's a new area, a rural area north of Hotapu Road, where we have a willing landowner, and they submitted on the future proof growth strategy, which identified this as suitable for rezoning. So we've taken the opportunity in plan change 17 to rezone about 20 hectares from rural to industrial. We're looking at notifying plan change 17 towards the end of September.  And we will be putting a letter out seeking guidance, as we required under RMA, as to whether there's a feeling that we need to have a tikanga commissioner on there. So at the moment, we've got three elected members, but we don't have a tikanga commissioner. So we'll be asking whether you think we need to do that. Plan change 19. So that's Carter's Flat. It's a fairly straightforward plan change. What it proposes to do there is  live zone and existing deferred zone, so it changes it from industrial to commercial. We've had a number of workshops with the landowners down there and the Cambridge group of developers. They're very supportive of it. It's been signalled in the trip plan, so it's pretty low key in one sense. That has been notified, so that's open for submissions now. Again, we've got three elected members who've been appointed for commissioners, but we don't have a tikanga commissioner on there yet,  So again, we'll be putting out an invitation as to whether you think we need a Te Kanga commissioner for that one. Private Plan Change 20. So that's a private one that's been launched by the airport in a neighbouring landowner. Council, of course, is a shareholder in the airport company. So to manage that conflict, we've got two commissioners on board there. Ellen, whether you may know, has done a lot of work in the airport, will be chairing it.  And we were lucky enough to get Anton Coffin, who many of you will know. We didn't think we would get him because he's so busy. He's available, so we're looking at locking him in for March to have hearings around that. It's a fairly straightforward plan change on the face of it. They're looking at extending an already existing zoned area, but we know that being the airport, there will be high public interest. So we're looking at notifying that one towards the end of September as well.  So you can see those are four plan changes, relatively high workload. And with Joe having recently left and us recruiting for a team lead, we've got a brand new district plan team. So we've got two graduates who are new to district planning. So that's part of the resource challenge that we've got at the moment. We've got a perfect storm of really busy workload, a brand new team who we're onboarding to know about resource management, and a team lead that we haven't yet recruited. So that's one of those perfect storms  That was probably all I wanted to do, Your Worship, just in terms of updating on that. I'm happy to take any questions on either what I've talked about or any other part of that report. Thank you.",
+    "speaker": "tonyquick",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "ask_question",
+      "report_back"
+    ]
+  },
+  {
+    "start": 5590.102,
+    "end": 5594.626,
+    "text": "Thanks, Tony. Were there any questions? Gaylene.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 5595.987,
+    "end": 5632.331,
+    "text": "I don't have a question, Jim, but I just want to thank whoever wrote the report. It's the best thing I've had out of the council in years.  So, yeah, it gave us a bird's eye view of what is actually happening in the area. So, yeah, I so appreciated this report. And I also agree that tikanga commissioners are valued and should be used in hearings, plan changes, especially out at Houtapu anyway. Other than that, thank you very much.",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "state_opinion",
+      "agree",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 5634.63,
+    "end": 5637.751,
+    "text": " Thank you for those comments, Galen. Dominic.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5639.072,
+    "end": 5660.599,
+    "text": "Thank you, just through the chair, just a cheeky request, Tony, sorry. I got excited when I saw the report, because I thought you had some resource consent numbers there, some statistics, which I was talking about earlier, and I was thinking, ooh, can I use those? But they might be more generic. So instead of me having to go to Gary, can I use those numbers? Or doesn't that necessarily mean they didn't actually come to Ng\u0101i R\u012bt\u014dpua Waip\u0101, those numbers?",
+    "speaker": "dominictumoan",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 5661.019,
+    "end": 5685.976,
+    "text": "Oh, no, absolutely, you can use those.  I don't know if you have seen these reports before, but they're quarterly, so we can certainly provide them on future agendas. Those numbers have come directly from our, so we've got a Microsoft BI system that drags out all of our data. So they're real numbers, so absolutely you can use those. If you want anything more, very happy if you want to connect with me separately and we can see whatever smart tech we can get at BI to help you as well.",
+    "speaker": "tonyquick",
+    "tags": [
+      "provide_information",
+      "agree",
+      "confirm_next_step",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 5686.973,
+    "end": 5699.741,
+    "text": " Thank you. I'll continue to liaise with Gary, but now that I've got those numbers, I'll start with that. I might just touch base with Gary to see if that aligns with him and then I'm on my way. I'm on the right path. Thank you.",
+    "speaker": "dominictumoan",
+    "tags": [
+      "assign_action",
+      "confirm_next_step",
+      "report_back",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 5700.982,
+    "end": 5732.302,
+    "text": "Thanks, Dominic. Okay. Any other comments, questions? Thanks, Tony. Yeah, very detailed report. We've got the recommendation there to receive it. Can I have a mover and seconder?  Gailen and Dominic, all those in favour? Contrary, carried. And item 13, Kirsty, I presume you're taking us through this or just as a quick update.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "ask_question",
+      "call_vote",
+      "procedural_move",
+      "summarize_outcome",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 5732.944,
+    "end": 5843.372,
+    "text": " Thank you, Your Worship. T\u0113n\u0101 koutou katoa. Take the report as read, just highlighting that we have undertaken a further round of hui with mana whenua and iwi in respect of ahu aki, and particularly focused in that round on the long-term plan and community outcomes. So with that session, which we received some great feedback from those in attendance,  We posed some questions that were shaped around our community outcomes, socially resilient, cultural champions, environmental champions, and being economically progressive. We are moving to a joint partner workshop which is to be held next week. We're really very much looking forward to that. That will be attended by elected members.  representatives from Mana Whenua on the PCG. So those in attendance today are Gaylene, Bill and Harold, Portal as well, and representatives from each of the JMA partners. So there will be representatives from Raukawa, Waikato-Tainui and Mania Portal.  The purpose of the workshop is to agree a preferred scenario, which can then form the basis of a recommendation to the new council post-election, but also, and possibly most importantly, is to build on the relationships that we've been developing through these stages, through the development of  ahu aki and also those current relationships as between council mana whenua and iwi. I'm happy to respond to any questions, but otherwise really looking forward to that workshop next week.",
+    "speaker": "kirstydowney",
+    "tags": [
+      "provide_information",
+      "report_back",
+      "community_reference",
+      "confirm_next_step",
+      "build_on_point",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5845.173,
+    "end": 5854.857,
+    "text": "Thanks, Kirsty. Gaylene. I have a question, Jim, but I just, in light of all the discussions that we've had around papakainga,",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "ask_question",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 5857.583,
+    "end": 5869.093,
+    "text": " Then the second thing that was important to M\u0101ori was economic development of the land. And so more than likely, that is now going to be the priority of pushing through ahuaki.",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "state_opinion",
+      "prioritize_issue",
+      "community_reference",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 5872.082,
+    "end": 5898.422,
+    "text": " Thank you, Gaylene. That's noted and that has absolutely featured in the feedback that we've received. We're looking forward to working with you to agree some principles and then have you discuss and agree what those key component parts are of a preferred scenario. So look forward to you sharing that feedback then too.",
+    "speaker": "kirstydowney",
+    "tags": [
+      "provide_information",
+      "assign_action",
+      "confirm_next_step",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 5901.002,
+    "end": 5902.623,
+    "text": " Thanks, Kirstie. Harold.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 5908.567,
+    "end": 5978.332,
+    "text": "Get your hand out of the road first. Okay. Yeah, I just wanted to put on the table. The discussions we had around Papak\u0101inga, Kirstie, were very helpful in our discussions with the work that the council is doing for the plan change.  And I raised the concern in that around the lack of communication between the work that we had done in Ahuake with what some of their focus was. And I just want to say, I applaud your document, I applaud the stuff that you've got in there,  And I never thought that it would come to be of such value so early. And I just want to say thank you for that, Kirstie, you and the team and the rest of the people, because you captured the voices of mana whenua, I think, very ably and very aptly. So thanks. Thank you, Jim.  Kia ora Harold.",
+    "speaker": "haroldmaniapo",
+    "tags": [
+      "express_concern",
+      "state_opinion",
+      "community_reference",
+      "build_on_point",
+      "reassure_stakeholders"
+    ]
+  },
+  {
+    "start": 5978.832,
+    "end": 6019.62,
+    "text": "Thank you and through you Mayor Jim. So absolutely we acknowledge the synergies between the work that we're doing through Ahuaki and the plan change specifically relating to Papakainga.  So as we've mentioned in previous forum, members of the project team have been connecting with James Fetu, who is leading the scoping work and for that plan change. And we've acknowledged that there is a need for that alignment and for further communication to continue. So I'm very much aware of the need to bring those together, to work together. Thank you.",
+    "speaker": "kirstydowney",
+    "tags": [
+      "provide_information",
+      "build_on_point",
+      "report_back",
+      "reassure_stakeholders",
+      "agree"
+    ]
+  },
+  {
+    "start": 6020.744,
+    "end": 6092.637,
+    "text": " Thanks, Kirsty. A busy day on Monday for sure. Interesting one too. So are there any other comments on Kirsty's quick update? I think there's a lot more to come on this topic for sure. Okay, if not, can I have a mover and seconder to receive the information? Moved Harold and seconded Liz. All those in favour? Contrary. Carried.  That brings us to the end of the formal part of the meeting, but before I ask Harold to close it off with a karakia, just from me, hope to be back obviously at the next meeting, but we never know with elections, so  Look, for me, a really sincere thanks for all of the work that everybody's put in over the last three years in particular. And hopefully we are making some progress. So it's been a real privilege to be working with you all. And as I say, hopefully bigger and better things coming up in the future. So, yeah, thanks very much. So, Harold.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "summarize_outcome",
+      "close_discussion",
+      "public_address"
+    ]
+  },
+  {
+    "start": 6094.318,
+    "end": 6262.128,
+    "text": "Yeah, thank you, Jim.  First, I just want to wish the councillors all the best in their endeavours in the next election. I certainly hope you're back here, Jim.  And the polls will tell. But it has been a trying year, I would say. And it's taken this long for us to get any traction. And I believe we are now in this traction space. And you guys are deciding to abandon us at the crucial time, it appears.  But it is what it is, and we all look forward to the polling day news and to see who our next hosts will be or associates will be in this space.  I just want to thank Council for this toiling year's mahi that we've had before us and the difficulties we've all had to face with respect to the incursions from the great wide world around us and the consequences of that happening.  Kia t\u0101tou r\u0101 ng\u0101 kanohi ora, ng\u0101 m\u0101tou, ng\u0101 t\u016bpuna, k\u014d hui a kanohi mai i t\u0113nei r\u0101. M\u014d t\u0113nei hui ng\u0101 mutunga o t\u0113nei tau, me mihi, me mihi, me mihi. T\u0101 koutou r\u0101, t\u0101 t\u0101tou r\u0101, ng\u0101 huatanga katoa, i tohungi ai e t\u0113nei komiti whakahaera.  N\u0101 t\u014d koutou kaha, m\u0101ia hoki m\u014d ng\u0101 \u0101huatanga katoa o koro o kui m\u0101, e kawea mai r\u0101 koutou ki mua ki t\u012bnei arawaro. N\u014d reira ka mihi, ka mihi, ka tangi, ka tangi hoki ki a r\u0101tou, ka mihi hoki r\u0101 ki t\u0101tou. N\u014d reira e kariki e whakamutuku m\u014d t\u0101tou i t\u0113nei w\u0101. Te t\u016bmanako te i kia  N\u014d h\u014d orokau mai t\u0101tou katoa t\u0101i n\u014d ki te w\u0101 an\u014d ka kite ana a kanohi, a t\u0113n\u0101 r\u0101 hoki, t\u0113tehi ki t\u0113tehi i runga t\u0113nei kaupapa. N\u014d reira, kia ora t\u0101tou. Kere kia t\u0101tou, kia tau ki t\u0101tou katoa te atawhai t\u014d t\u0101tou \u0101riki Ihukaraiti. Me te aroha i hoa, me te whiwhingatahitanga ki te wairua tapu, m\u014d ea nei, m\u014d \u0101kanei \u0101kanei. \u0100e, kia ora t\u0101tou.",
+    "speaker": "haroldmaniapo",
+    "tags": [
+      "public_address",
+      "express_concern",
+      "state_opinion",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 6265.238,
+    "end": 6265.779,
+    "text": " Kia ora Harold.",
+    "speaker": "jimmylchreest",
+    "tags": []
+  },
+  {
+    "start": 6267.764,
+    "end": 6269.248,
+    "text": "Thank you very much everyone.",
+    "speaker": "gayleneroberts",
+    "tags": [
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 6269.729,
+    "end": 6272.356,
+    "text": "Stay well everyone. Catch up soon. Thank you.",
+    "speaker": "jimmylchreest",
+    "tags": [
+      "close_discussion",
+      "reassure_stakeholders"
+    ]
+  }
+]

@@ -1,0 +1,560 @@
+[
+  {
+    "start": 1.106,
+    "end": 1.946,
+    "text": " No. All happy?",
+    "speaker": "susanoregan",
+    "tags": [
+      "ask_question",
+      "close_discussion"
+    ]
+  },
+  {
+    "start": 2.647,
+    "end": 2.847,
+    "text": "Yep.",
+    "speaker": "elisebadger",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 3.747,
+    "end": 14.189,
+    "text": "Great. Okay. Cambridge Library? Any comments there? All happy?",
+    "speaker": "susanoregan",
+    "tags": [
+      "ask_question",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 15.05,
+    "end": 15.33,
+    "text": "Yep.",
+    "speaker": "susanoregan",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 16.77,
+    "end": 57.84,
+    "text": "Yep. This is getting better. Library fees? Any comments? No.  okay i i just wondered whether we would say um borrowing fees for a reserve collection or rental collection i'm not quite sure um a reserve i don't know what people feel about that maintaining fees for new new releases of books do you mean yeah yeah i think that's",
+    "speaker": "susanoregan",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "evaluate_option"
+    ]
+  },
+  {
+    "start": 58.669,
+    "end": 82.769,
+    "text": " we do have that in there it says we also note that borrowing fees for a reserve collection magazines dvds and children toys would remain in place yes so so it's just that how we call what we call it oh okay yeah i mean in some libraries they actually call it specifically a rental collection as you can which is where the latest you know best sellers are all sitting",
+    "speaker": "elisebadger",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 84.02,
+    "end": 84.821,
+    "text": " but I don't know.",
+    "speaker": "susanoregan",
+    "tags": []
+  },
+  {
+    "start": 85.581,
+    "end": 96.39,
+    "text": "I've never had a Cambridge library card because I don't read books. Having fees, is that a deterrent?",
+    "speaker": "jimgoddin",
+    "tags": [
+      "ask_question",
+      "state_opinion",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 98.451,
+    "end": 100.533,
+    "text": "I think it actually is for a lot of people.",
+    "speaker": "susanoregan",
+    "tags": [
+      "state_opinion",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 101.456,
+    "end": 128.463,
+    "text": " We believe it is, yeah. Yeah. Sorry, Jim. Carry on. What was interesting, Jim, was that when they removed the fees for the e-reserve collection, so the e-books and e-audiobooks just really recently, the figures of rates have increased like by 120% of people actually accessing those resources. So I think it shows that once you make something free, people are more open to utilizing that service.",
+    "speaker": "elisebadger",
+    "tags": [
+      "provide_information",
+      "state_opinion",
+      "persuasion_attempt",
+      "evaluate_option"
+    ]
+  },
+  {
+    "start": 129.363,
+    "end": 142.933,
+    "text": "Right.  through you, Chair. Liz, is there money available to within the council to get rid of the fees altogether?",
+    "speaker": "jimgoddin",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 144.639,
+    "end": 182.613,
+    "text": " We won't know that, Jim, until next week. So at the moment, we have got a paper being delivered. And, Gary, you might be able to talk to this as well about where the\u2014you know, what the current situation has done to all of our budgets. So we're getting a full analysis, hopefully, in the next week or so. And\u2014 Yeah, I do understand the current situation.  So there's 56,000, I think, is a shortfall if we were to take the fees away. So, yeah, that will be that will certainly be, I guess, a question that we'll be asking as this recommendation comes through.",
+    "speaker": "lizstolwyk",
+    "tags": [
+      "provide_information",
+      "confirm_next_step",
+      "defer_decision",
+      "report_back"
+    ]
+  },
+  {
+    "start": 183.833,
+    "end": 294.366,
+    "text": "I think the difficulty is going to be that everybody in the district who seem to be so many of them are opposed to the library fees and they do point out that  Wipart is the only library that actually charges for all the books. Other libraries manage quite well just charging the rental on things like the videos, DVDs and the popular collections but everything else is free and I think while things are going to be difficult for Council it's also going to be difficult for a lot of our borrowers and I think  and I would hate to think that, you know, somebody's going to have to come to the library and decide, I can only afford, you know, one book this week or whatever. And I think... That's exactly my thinking, Chair. And I think we've got to be very careful on that one. I would hate to see that happen. And I think we also need just a wee reminder that once upon a time our town had a Carnegie library. And the reason that  it was taken that the title of Carnegie was taken away was because we started charging for books a long time ago and that's what there are very few and that's just one of the things the origin of most of New Zealand's library services is actually because of the Carnegie library system and I would hate to see that that long tradition  know I'd like to see it reinstated but we can't do that it's too late we've moved out of the building we started charging fees but I just think we you know the intention was always with the public library that it be a free service. Okay any other comments?",
+    "speaker": "susanoregan",
+    "tags": [
+      "express_concern",
+      "state_opinion",
+      "community_reference",
+      "equity_reference",
+      "provide_information",
+      "persuasion_attempt"
+    ]
+  },
+  {
+    "start": 296.707,
+    "end": 305.29,
+    "text": "I assume Mike yeah I assume we're still having overdue fees. Oh yes yeah you have overdue fees and you know and a rent",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "agree",
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 305.872,
+    "end": 340.394,
+    "text": " As most of the libraries now have a rental collection, which means they've probably got about four copies of the latest, you know, bookseller, you know, top of the book list. They'll have that and they'll be charging rentals on that. But the majority of the books will be actually free. And I mean, let's face it, you know, every library probably has books that sits on a shelf and they don't get borrowed as often.  so this doesn't seem to be a reason for having them on the shelf hoping that someone's going to come and pay 50 cents to take it out.",
+    "speaker": "susanoregan",
+    "tags": [
+      "provide_information",
+      "state_opinion",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 342.336,
+    "end": 362.308,
+    "text": "Can I ask a question Sue? Yep. What are the figures for people using the library? I know it's up there after school hours and that sort of thing. Is it there during the day as well?",
+    "speaker": "jimgoddin",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 364.899,
+    "end": 366.74,
+    "text": " I don't know, Elyse, do you have the figures there?",
+    "speaker": "susanoregan",
+    "tags": [
+      "ask_question",
+      "defer_to_authority"
+    ]
+  },
+  {
+    "start": 367.301,
+    "end": 389.814,
+    "text": "We weren't, I'm sorry to interrupt Elyse, we weren't given figures in regard to when people use the library but we were given figures about who borrowed what and who were the people that used it the most and since like 2012 adult borrowing has dropped quite significantly and so we think that maybe cost is playing a part of that. Sorry Elyse, back to you.",
+    "speaker": "jodaviescolley",
+    "tags": [
+      "provide_information",
+      "clarify_point",
+      "state_opinion",
+      "express_concern",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 390.695,
+    "end": 411.172,
+    "text": "Yes, I think you're probably right. I mean you do see  lot of people will perhaps you know go into the library and I suspect that some people because you see them actually sitting in the library for quite a long time I suspect that you know they might have a favorite book that they go and hide somewhere so no one else can find it they can go back the next day",
+    "speaker": "susanoregan",
+    "tags": [
+      "agree",
+      "state_opinion",
+      "provide_information",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 413.596,
+    "end": 448.795,
+    "text": " through you chair just Jim in response to when people use the library that's not what really we've been looking at here we've just been looking at bringing Waip\u0101's library service up to par with the rest of New Zealand being one of the only libraries in the country that charges fees seems a little bit out of touch with what's happening for the rest of of Kiwis so a big part of it has been just creating kind of an equity for Waip\u0101 residents  what most New Zealanders are able to access through the industry. So you're saying, I'm just getting my head around this, and I'm all agreed for not charging, but we are one of the only libraries in New Zealand that's charging.",
+    "speaker": "elisebadger",
+    "tags": [
+      "clarify_point",
+      "provide_information",
+      "equity_reference",
+      "state_opinion",
+      "agree"
+    ]
+  },
+  {
+    "start": 449.515,
+    "end": 454.019,
+    "text": "We are the only library.",
+    "speaker": "jodaviescolley",
+    "tags": [
+      "provide_information",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 455.6,
+    "end": 496.042,
+    "text": "Other libraries will charge for their rental collection, but that's only a small part of it. There is a huge free collection in every library. I should also point out that when the  library fees were first introduced, which was probably 15 years ago. I don't think many of the councillors actually even had a library card. They weren't users. And I think that is also not to that council's credit. That's my personal opinion. So we'll stick with that one. The library fees, we'll keep that in. Any alterations? No one?",
+    "speaker": "susanoregan",
+    "tags": [
+      "provide_information",
+      "state_opinion",
+      "summarize_outcome",
+      "ask_question",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 496.787,
+    "end": 525.452,
+    "text": " no no i think it sounds good do you want to change the wording chair of reserve to a rental or a special collection yes i think we do that that might be well it's easier to explain a rental collection because although because we have a separate system where we pay to reserve a book and that is a common okay sure but yeah yeah so a special rental collection we can refer to it as yeah i think that would be good",
+    "speaker": "susanoregan",
+    "tags": [
+      "agree",
+      "policy_proposal",
+      "clarify_point",
+      "evaluate_option",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 527.178,
+    "end": 589.745,
+    "text": " yeah okay that's fine um the cambridgetown hall do people want to say anything about that jim and i can't say too much about that or anything about that any comments no comments happy to leave it as it is yeah i thought it sounded good okay right up parking  Any comments there? No? We're all happy with that. CBD is a vibrant centre. Hi Gary. Any comments about the Cambridge is a vibrant centre? No? Lake Te Kootu.  Any comments there?",
+    "speaker": "susanoregan",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 591.707,
+    "end": 619.497,
+    "text": "Chair, I have a comment. I wasn't part of putting the submission together, but I just wondered, and I'm just making sure I've read this properly, if there has, if we need to recommend or just draw attention to the fact that there are those, is there resource consent for stormwater coming up? And do we need to draw attention to that Lake Tiku to being part of that conversation?  diverting stormwater into the lake.",
+    "speaker": "elisebadger",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "express_concern",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 626.538,
+    "end": 628.579,
+    "text": "Anybody else got something to say about this?",
+    "speaker": "susanoregan",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 632.8,
+    "end": 662.966,
+    "text": "Yes, so I'd make a comment to that. Yeah. This community board would want to think carefully before it effectively submitted against its own district council  that's making an application to the Waikato Regional Council for a consent, it would be, I believe, a reasonably big step. So it would be something you wouldn't want to do casually or inadvertently. You'd want to do it after serious consideration. Yeah.",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "state_opinion",
+      "evaluate_option",
+      "express_concern",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 664.187,
+    "end": 669.512,
+    "text": "How would that be going against the Waipou District Council? Sorry, Mike, you've just enlightened me.",
+    "speaker": "elisebadger",
+    "tags": [
+      "ask_question",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 670.271,
+    "end": 709.718,
+    "text": " you know, the river and everything. The district council is the one putting the water through. So, a community board, which is, you know, in many ways, a subset of council, would, you know, would be the one putting the water through. And so, you know, it would be the one putting the water through. And so, you know, it would be the one putting the water through.  Just if we if we drew attention to it in a negative sense and used it as leverage to try and get something happening on Lake Te Kootu, I think we just want to be careful that it was a very well considered approach, not just something that accidentally sort of slid in without us fully appreciating the consequences.",
+    "speaker": "mikemontgomerie",
+    "tags": [
+      "clarify_point",
+      "express_concern",
+      "state_opinion",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 710.258,
+    "end": 747.485,
+    "text": "Yeah. Yes. I think if we can keep this the way it is, I think  It's quite good. I like the suggestion that last paragraph about approaching Iwi and the approach from council to Iwi and the Waikato River Authority for funding, because ultimately the lake is part of the Waikato River system. I think we need to. Have you got anything to say on this, Gav?",
+    "speaker": "susanoregan",
+    "tags": [
+      "state_opinion",
+      "agree",
+      "build_on_point",
+      "policy_proposal",
+      "community_reference",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 747.505,
+    "end": 850.311,
+    "text": "Just just a couple of things. So first of all,  We are looking at some of those recovery projects, those shovel-ready recovery projects, and I know our parks team have included this as one of them. So potentially there is another funding source around that, which we're pursuing at the moment. But there are a couple of other recovery streams of funding as well that we're looking at as well around it.  looking at just strengthening that relationship with Iwi with respect to this one as well, because that'll be a key part of how those applications are viewed as well. Yeah, so that's progressing. And even if not, we'd still keep that conversation going with the River Authority as well.  Just harking back to the stormwater. So there is a global consent that is coming up next year, I think. So we are working on that and aware of, I guess, the importance of Lake Tukuutu in relation to that as well. So it's a known thing.  Yeah, don't think it's, because if you don't say anything here, it's gonna go away. It is something we're pretty aware of. So I think what you've got is fine, I guess. Yeah, just leave it as it is, okay.",
+    "speaker": "garyknighton",
+    "tags": [
+      "provide_information",
+      "reassure_stakeholders",
+      "community_reference",
+      "report_back",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 851.951,
+    "end": 860.971,
+    "text": "We'll move on to public transport.  This is about the bus service that we don't have. Does anybody have any comments about this bus service?",
+    "speaker": "susanoregan",
+    "tags": [
+      "procedural_move",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 862.932,
+    "end": 864.213,
+    "text": "Nothing other than I think we need it.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "state_opinion"
+    ]
+  },
+  {
+    "start": 865.193,
+    "end": 865.453,
+    "text": "Yeah.",
+    "speaker": "susanoregan",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 867.494,
+    "end": 871.296,
+    "text": "Yeah. So quite happy to put it in as it is.",
+    "speaker": "susanoregan",
+    "tags": [
+      "agree",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 872.557,
+    "end": 925.909,
+    "text": "Yeah, just on that, just the other day, a gentleman from Te Awa Life Care decided to go for a walk.  And he went out the gate, and of course, there's no footpath between Te Awa and back into Cambridge Road, Hamilton Road. So he was literally walking along the side of the road, and he was wanting to get into town. It wasn't really appropriate that a person gave him a ride, but I did send someone back to give him a lift in a car. But yeah, he was just wanting to go for a ride. He was just wanting to get into town, and there's no transport.  The restaurants, well, Te Awa, the hospital, whatever you want to call it, said, you know, he can ask and book a ride in with the van. But it just highlights the point that there's no bus service going around these villages.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "provide_information",
+      "express_concern",
+      "community_reference",
+      "prioritize_issue",
+      "equity_reference"
+    ]
+  },
+  {
+    "start": 927.41,
+    "end": 975.436,
+    "text": "I think what used to happen, and it was still happening when I first came to Cambridge 20 odd years ago, people used to actually, who lived along that stretch where Te Awa is now,  and right up as far as Tamahiri would actually stand out on the road. They knew when the railways bus was going to come past and they would literally do a hail and ride system and this is how they came in on the bus and it continued I think for a wee while with the current bus system but I think it's largely forgotten and I don't really think a hail and ride system is what we want. We want a decent bus system and I think  as the subdivisions are going out, I think we need to make sure that the bus routes are going out with them.",
+    "speaker": "susanoregan",
+    "tags": [
+      "provide_information",
+      "state_opinion",
+      "policy_proposal",
+      "evaluate_option",
+      "community_reference",
+      "prioritize_issue"
+    ]
+  },
+  {
+    "start": 976.996,
+    "end": 987.502,
+    "text": "Very much so. I mean, there's a, the three M's have got that big subdivision going opposite Te Awa. Yeah. There's Hau Tapu, there's all sorts of people.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "agree",
+      "provide_information",
+      "community_reference"
+    ]
+  },
+  {
+    "start": 987.802,
+    "end": 997.548,
+    "text": "It curls way out there everywhere. We need, we need a bus service. Tapu has a brilliant bus service, but, and I think they're smaller than we are these days,",
+    "speaker": "susanoregan",
+    "tags": [
+      "prioritize_issue",
+      "state_opinion",
+      "community_reference",
+      "provide_information",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 1000.154,
+    "end": 1020.246,
+    "text": " I would hate to think the amount of times we have to pick someone up to take them to the cemetery from a retirement village. I did it last week for someone who, all she wanted, she just didn't feel, she normally walks there, but because of the weather conditions, I broke a bubble. But we just, she needed to go and see her husband.",
+    "speaker": "jimgoddin",
+    "tags": [
+      "express_concern",
+      "community_reference",
+      "provide_information"
+    ]
+  },
+  {
+    "start": 1021.347,
+    "end": 1104.183,
+    "text": "Yeah. Yeah. It's not good. And I think, you know,  a decent transport system is the mark of a decent town. And at the moment, we don't have it. So we'll keep pushing for that one. So will anybody got any additions to add to that submission? Gary, have you got a comment? No, it's fine. Oh, OK.  I'll leave that. Improve cycling and walking connectivity. Good work done here. So any additions to it? I mean, it'd be great if we get more kids to use their bikes and walking.  were plenty of children. That survey demonstrated that kids would increase their use. The problem, I think, was the parents. Any more comments? Jo, you do lots of biking and walking with your children. I do.",
+    "speaker": "susanoregan",
+    "tags": [
+      "state_opinion",
+      "express_concern",
+      "prioritize_issue",
+      "ask_question",
+      "cite_reference"
+    ]
+  },
+  {
+    "start": 1104.704,
+    "end": 1157.239,
+    "text": "It's been a forced occurrence recently, but  I think we could have added so much more to that cycling one, and we really, with Mike's help, condensed it down, which I think we needed to, because we could have just gone on and on. But it's just so good to see that because the roads are quieter, people feel it's a bit safer, so they're all on their bikes. So that's really where the focus we thought had to be was actually making the streets, once all the cars come back, making the streets or bike paths or protected cycle paths safer so that people  you know, can travel a little bit more economically, because I think a lot of people are going to be trying to do that going forward. So, but yeah, I'm happy with what we've got. Like I said, we could have gone on and on, but I think what we've got is probably where we're at.",
+    "speaker": "jodaviescolley",
+    "tags": [
+      "state_opinion",
+      "provide_information",
+      "prioritize_issue",
+      "agree",
+      "build_on_point"
+    ]
+  },
+  {
+    "start": 1158.079,
+    "end": 1161.08,
+    "text": "Yeah, no, that was really good. Thank you.",
+    "speaker": "susanoregan",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 1161.24,
+    "end": 1192.743,
+    "text": "Just to reinforce, there is a piece of work that transportation are starting on.  quite soon around, I guess it's a business case for urban mobility in Cambridge. So it's the whole walking, cycling, mobility, scooters, that whole network. So I understand that someone from, well, the representation from the community board's gonna be sought for that group as well.",
+    "speaker": "garyknighton",
+    "tags": [
+      "provide_information",
+      "community_reference",
+      "clarify_point"
+    ]
+  },
+  {
+    "start": 1196.128,
+    "end": 1221.67,
+    "text": " i'd be put myself forward for that group when that time comes um yeah you're just the right sort of person to do it joe walking and you do the cycling you've got kids and you know what it's like out there well done yeah no that would be good okay so we're happy with that destination playground",
+    "speaker": "jodaviescolley",
+    "tags": [
+      "state_opinion",
+      "agree",
+      "build_on_point",
+      "assign_action",
+      "confirm_next_step"
+    ]
+  },
+  {
+    "start": 1225.949,
+    "end": 1246.229,
+    "text": " I thought that was quite a good one too. So it was Elise and Joe again, wasn't it? How does everyone feel about that one? Happy? Right, great. Okay, so the recommendation is,",
+    "speaker": "susanoregan",
+    "tags": [
+      "state_opinion",
+      "clarify_point",
+      "ask_question",
+      "summarize_outcome"
+    ]
+  },
+  {
+    "start": 1249.803,
+    "end": 1260.092,
+    "text": " Just on the recommendations, I'm just thinking, because we've had a couple of interest declarations, do you want to break those recommendations into two? So you move the first one, Sue.",
+    "speaker": "susanoregan",
+    "tags": [
+      "ask_question",
+      "clarify_point",
+      "procedural_move",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 1261.193,
+    "end": 1312.82,
+    "text": "Right. OK, I'll move that first one. A, the information contained in the report, the Cambridge Community Board draft annual plan submission of the chairperson of the board be received. So I'll move that. And would someone second it?  OK, all those in favour. Aye. Thank you. Then the Cambridge Community Board approve the draft submission on the 2020-21 annual plan included in this report for submission to Waipa District Council by Friday, the 24th of April. Who would like to move that? I'll move that.  All those in favour?",
+    "speaker": "susanoregan",
+    "tags": [
+      "procedural_move",
+      "call_vote",
+      "assign_action"
+    ]
+  },
+  {
+    "start": 1313.581,
+    "end": 1314.421,
+    "text": "Aye.",
+    "speaker": "suemilner",
+    "tags": [
+      "agree"
+    ]
+  },
+  {
+    "start": 1316.243,
+    "end": 1334.162,
+    "text": "Carried. Thank you very much for that. That's really good and thank you for all the work that you all put in. It was really great and that you all wanted to and were able to do a bit for all of them. Really appreciate that. So Jo, we'll",
+    "speaker": "susanoregan",
+    "tags": [
+      "summarize_outcome",
+      "public_address",
+      "close_discussion"
+    ]
+  }
+]

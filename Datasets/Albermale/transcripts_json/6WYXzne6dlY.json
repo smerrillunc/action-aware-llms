@@ -1,0 +1,3033 @@
+[
+  {
+    "start": 0.031,
+    "end": 1.854,
+    "text": " We'll just keep plugging from there.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "reassure"
+    ]
+  },
+  {
+    "start": 2.335,
+    "end": 38.104,
+    "text": "Okay. I call this special session of the Albemarle County School Board to order. I welcome each of our area legislators to this session. We are grateful for all that you do in service for our state and county. We sincerely appreciate everything that you've done in the past to support public education. And we certainly seek your support of public education during the upcoming budget session.  I will recognize each legislator that's here now. And when I do, please introduce yourself and tell us what part of Albemarle County that you represent. A delicate bell.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "request_action",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 39.063,
+    "end": 64.308,
+    "text": " So I represent the 58th District, which for your purposes would be the eastern part of the county, from Free Union in the north, to Scottsville in the south, and then everything to the east, Forest Lakes, Hollomede. The students that you have go to those two schools, Broadus Woods, Stony Point, Scottsville. Some go to Stone Robinson, and then they feed into, most of my constituents go to Sutherland or Walton, and then end up at Monticello or Albemarle High School. Thank you.",
+    "speaker": "robbell",
+    "tags": [
+      "public_addressing",
+      "logistics_info",
+      "give_update"
+    ]
+  },
+  {
+    "start": 65.309,
+    "end": 85.803,
+    "text": "Thank you, Delegate Bell. Delegate Runyon.  Uh, delicate Runyon or Mr. Gold, I guess. Right. I'm sorry.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 85.843,
+    "end": 101.616,
+    "text": "I got you. So, um, it's my pleasure to be here with y'all today. It's, uh, did y'all hear me?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "acknowledge",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 102.077,
+    "end": 108.667,
+    "text": "No, your connection is pretty weak.  So we might be losing you.",
+    "speaker": "Unknown",
+    "tags": [
+      "express_concern",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 110.233,
+    "end": 114.852,
+    "text": "I'm sitting stationary. My apologies. Can you hear?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "clarify"
+    ]
+  },
+  {
+    "start": 115.273,
+    "end": 116.016,
+    "text": "Yes, it's better.",
+    "speaker": "Unknown",
+    "tags": [
+      "agreeing",
+      "reassure"
+    ]
+  },
+  {
+    "start": 116.823,
+    "end": 144.18,
+    "text": " Okay. All righty. Well, it's my pleasure to be with you all today virtually as the times require. I'm looking forward to meeting you all in person. I represent what I would describe as Western Albemarle with Crozet being really the focal point up to the edge of the city with Ivy. I think the precinct's called East Ivy. And so it's that Western portion and just a delightful group of constituents out there. Very pleased to be part of it.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "give_update",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 145.78,
+    "end": 148.365,
+    "text": " Thank you. Delicate Hudson.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 153.543,
+    "end": 179.382,
+    "text": " Thanks very much for bringing us together. I know my name is Delegate Sally Hudson. I know it says Jake Gold on my screen. My aide and I must have been sharing an account. But I serve here in the 57th District, which is the city of Charlottesville and some equal sized portions of Amar County. And when I'm not doing that, I am teaching at the University of Virginia. Grades were due yesterday, I think. So we just wrapped up our semester and I'm excited to be with you today.",
+    "speaker": "sollyhudson",
+    "tags": [
+      "public_addressing",
+      "acknowledge",
+      "logistics_info",
+      "give_update"
+    ]
+  },
+  {
+    "start": 179.783,
+    "end": 187.323,
+    "text": " Thank you. And I hope you're getting your grades all in line on the system. All right, Senator Deeds.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 191.453,
+    "end": 226.556,
+    "text": "Yeah, thank you very much.  This, you know, I was talking to somebody earlier, and I hope this Zoom process really outlives the pandemic. It's very useful and makes it easier to meet together, even though we might be a good distance apart. As you know, I represent the 25th Senatorial District, which includes most of Albemarle County, except for parts of the northeastern part of the county from Keswick North to Stony Point. I represent the rest of Albemarle.  It's good to see you.",
+    "speaker": "creighdeed",
+    "tags": [
+      "acknowledge",
+      "opinion",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 226.576,
+    "end": 234.724,
+    "text": "Good seeing you. Thanks. All right, our school board members, Dr. Kate Acuff, please give us your district.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "request_action",
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 236.546,
+    "end": 237.667,
+    "text": "Jack Jewett District.",
+    "speaker": "kateacuff",
+    "tags": [
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 238.788,
+    "end": 247.057,
+    "text": "All right. Mr. John O. Alcaro. I'm John O. Alcaro at large. Ms. Katrina Colson.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 250.92,
+    "end": 252.602,
+    "text": "OK, Ms. Colson. I don't see her on here yet.",
+    "speaker": "judyle",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 253.243,
+    "end": 254.644,
+    "text": "OK. Ms. Judy Lee.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 255.535,
+    "end": 257.477,
+    "text": " I'm Judy Lee and I represent the Rivanna district.",
+    "speaker": "judyle",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 259.279,
+    "end": 260.14,
+    "text": "Mr. Dave Oberg.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 263.063,
+    "end": 272.073,
+    "text": "I'm Dave Oberg and I'm the Whitehall district. So I chair constituents with Cree and with Chris, and maybe a few with Rob, though I'm not sure.",
+    "speaker": "Unknown",
+    "tags": [
+      "clarify",
+      "hedge"
+    ]
+  },
+  {
+    "start": 275.017,
+    "end": 276.038,
+    "text": "I'm Ms. Ellen Osborne.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 276.658,
+    "end": 278.28,
+    "text": "Ellen Osborne, Scottsville district.",
+    "speaker": "Unknown",
+    "tags": [
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 279.341,
+    "end": 537.283,
+    "text": "And I'm Graham Page, Samuel Miller district.  a brief intro for our meeting this afternoon.  Since March of 2020, Albemarle County Public Schools have faced unprecedented challenges in accomplishing its mission of establishing a community of learners and learning through relationships, relevance, and rigor, one student at a time. Our students, staff, and families have adapted to these challenges and changes with creativity, flexibility, and perseverance. Our teachers have continued to provide our students with a world-class education virtually.  Our students have worked to master new skills on new learning platforms. Our families have helped to facilitate their children's virtual learning, becoming tech troubleshooters and tutors in addition to maintaining their normal day jobs. We remain grateful to them and proud of them for continuing their great work under difficult circumstances.  While managing education amidst the uncertainties of a pandemic, Albemarle County Public Schools have simultaneously fought in the battle to end the predictive value of race and ensure the success of each individual student and staff member during a period of social unrest in our community and society.  We have worked to eliminate the opportunity gap that exists in our division so that we can eradicate it and build a system that works for everyone in our strong and diverse community of learners. This work will help us all learn to understand difference and respect and champion the diverse life experiences of all members of our community.  We are so grateful to the Virginia General Assembly for its support for public education both over the years, and doing the 2020 special session. We have seen how you make public education, a large part of the conversations that you have around legislation and funding.  We know that you have made schools a priority during the pandemic crisis, and we have worked to do our part in keeping keeping our county public school community strong as we push through this unusual moment in time.  A lot is being done to keep our county families strong. Our transportation and child nutrition departments have taken advantage of an FDA waiver that allows the county schools to deliver meals to our students. Every day, 7,000 meals are delivered to over 3,500 students by 62 buses. This ensures that our students have nutritious meals and an opportunity to engage with their schools.  We've established a COVID-19 hotline that would allow us to provide any available resources to those in need during the pandemic. We're also expanding our mental health services, including training members of our staff in mental health first aid, so that we can help lift the emotional burden that COVID has caused in our community.  Our extended day enrichment program mobilized to create a child care program for county employees, public school employees. Currently, there are more than 40 students enrolled in this program, and we are extending it as we further hope our school doors open to accommodate more of our employees.  Over 1,000 hotspots have been provided to our students and employees in order to facilitate virtual learning for those who do not have reliable internet. These were provided at no cost to recipients.  Our anti-racism policy steering committee has implemented a book study on Glenn Singleton's courageous conversations about race for our school board and leadership team members. This work will help us ensure that our educators can help the division eliminate the predictive value of race in our school division.  Our four items in our 2021 legislative packet is aligned with all of these programs and with the work our division is doing. My colleagues will now speak on the subject of each of these four. We'll start with Mr. Alcaro, who will lead the discussion on social justice. Mr. Alcaro.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "give_update",
+      "logistics_info",
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 537.303,
+    "end": 849.394,
+    "text": "Thank you, Mr. Page.  And good afternoon, Senator Deeds and delegates Bell, Hudson and Runyon. Thank you for each of you making time for our annual meeting. I'm honored to be here with you today.  As you may be aware, our school board passed the first anti-racism policy in the Commonwealth of Virginia during the first quarter of 2019, following six plus months of discussion and design, much of it done by nine of our high school students. Implementation of this policy continues and will continue well into the future. This problem is certainly not a quick fix.  But Albemarle County School Board members are dedicated to have our school division provide equity for all of our students and all of our staff and be anti-racist to its core.  Over the last three months, as Mr. Page mentioned, our board has spent 10 and a half hours of professional development time engaged in discussion of courageous conversations about race at Glenn Singleton. I recommend courageous conversations about race to you highly. I also invite you all to read the book, Cast, by Isabel Wilkerson, if you haven't already.  It is sobering as well as educational, highly relevant to what's been mentioned so far, and you may find that it hits very close to home. In the Albemarle County School Board, we employ the Equity Checklist, which was developed by our Diversity and Equity Advisory Committee during 2018.  in not only the development of new policies for our school division, but monthly in the ongoing review of all of our policies that we are required to review and modify once every three to five years. I'll send a copy of this checklist to each of you at the end of my comments. I ask of you all that you look at your proposed bills in the upcoming session  and beyond through an equity lens. Does your bill and do the bills of your peers help all of the citizens and students of the Commonwealth of Virginia fairly and impartially, no matter their age, race, ethnicity, gender, or party affiliation? If they do, thank you for your caring,  and for your diligence. If not, what changes can be made in the bills that allow them to make it so? In every situation where equity is a primary factor in consideration of strategy, Virginia becomes a better place to live. Lastly, in our legislative agenda,  We ask that, quote, the General Assembly provide school divisions with additional funding needed to implement proven methods of preventing and addressing misbehaviors that lead to suspensions and expulsions, end quote. Our STEP, which stands for short-term education program, our STEP program is such a method.  The short description of this is that students who are suspended have the option to still attend school every day in a set-aside room away from their friends and receive specialized guidance and instruction to catch them up if needed and to keep them up to date with their classes so they don't fall behind their peers during their suspension. These numbers I think you'll find interesting.  Recidivism for suspended students who have gone through the STEP program has dropped from the pre-STEP level of 70% recidivism to 14% in the program's first year and 18% in the second year.  Our original budget for this present or current school year had included expanding STEP to all of our high schools and middle schools. Then COVID happened. There's a lot more to tell you about STEP and a lot of student stories that'll make your heart smile. But I must end here and ask for your funding of STEP. And I thank you for your time, for your attention, and for your consideration.  Mr. Page.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "give_update",
+      "request_action",
+      "policy_proposal",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 851.097,
+    "end": 874.733,
+    "text": "Thank you, Mr. Alcaro. Do any of our legislators have questions or comments related to Mr. Alcaro's presentation on social justice? OK, if not.",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "public_addressing",
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 875.05,
+    "end": 885.285,
+    "text": " I assume that other localities are doing, or perhaps they have programs similar to the STEP program, but that's unique to Albemarle County?",
+    "speaker": "davidoberg",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "hedge"
+    ]
+  },
+  {
+    "start": 886.807,
+    "end": 906.795,
+    "text": "At this point, to our knowledge, it is unique to Albemarle County. OK. And we'd be happy to have it be a model if others want to do something similar. And we welcome questions about it.  or people who want to come and see it in action.",
+    "speaker": "Unknown",
+    "tags": [
+      "give_update",
+      "public_addressing",
+      "request_action"
+    ]
+  },
+  {
+    "start": 911.872,
+    "end": 966.258,
+    "text": " I just wanted to appreciate the charge that you gave us to prioritize equity in everything that we do. I know that in particular, in this year, with so many students learning from home, that has meant that ensuring basic economic sustainability at home has also been, as always, a critical part of their education, but in a special way this year. My top two priorities are about evictions and unemployment checks from the VEC.  because we have had so many families disrupted and they don't have a home to study from. We also have a lot of folks who have lost their jobs and don't have the basic needs that they need to put food on those kitchen tables along with all those laptops and iPads. I really think that it's important now as ever to ensure the basic economic security of all of our families before they're sending their kids off to school.",
+    "speaker": "sollyhudson",
+    "tags": [
+      "acknowledge",
+      "prioritization",
+      "express_concern",
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 966.278,
+    "end": 968.001,
+    "text": "Thank you for your comments. I agree.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 971.879,
+    "end": 1001.228,
+    "text": " Any board members with anything else to add to, or any comments on social justice portion of our presentation? Okay, if not, moving right along, we'll now have Ms. Judy Lee present to us about the state budget, another of our important items for the county.",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "public_addressing",
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 1002.625,
+    "end": 1172.779,
+    "text": " Thanks very much, Chair Page. And as with all of these, they're very intertwined, as you all know, especially as legislators. And Delegate Hudson, I really wanted to appreciate what you said about ensuring that families have stable economics at home. Because I think that's so many things are tied that we don't think about. So I appreciate that.  I just want to introduce myself as my first meeting of this type. I'm Judy Lee. I joined the school board in January of this year. I also have a son who is a fifth grader in a county elementary school, so I've been able to see all of the virtual learning up close down the hall. And I appreciate the work that the division has done on that because I feel like he's gotten the best that has been possible at this time.  I also wanted to thank all of the legislators on this call for your efforts in restoring funds for education and focusing on mental health and broadband. We need these things now and we will need them going into the future.  In terms of the state budget, our biggest issue is retaining an ADM hold harmless for the biennium. And we do appreciate the hold harmless throughout this year and your support for it, very much so. But we, like so many other divisions, have lost students to homeschooling and private schools because of the pandemic. And because we fully expect those students to come back to us when this is over,  and for us to continue the growth that we had enjoyed prior to the pandemic, we need to be able to plan our funding numbers to reflect that and to reflect what we'll need to do when we welcome all those students back into our halls, as well as to reflect all the work that we've been trying to do prior to the pandemic.  As I said before, all of these issues that we're dealing with are intertwined with equity. You know, as Chair Page mentioned, as Mr. Alcaro mentioned, you know, we've been working hard here to close opportunity gaps in reading, in math, in gifted identification, in discipline and other areas. But we also know that the pandemic appears to have worsened these instructional gaps.  So after this very challenging year, we anticipate trying to catch up. And many of the ideas floated nationally to do that involve significant increases in teachers and teacher time. So I just, I wanted to ask the legislators here if you wouldn't mind telling me, has there been any discussion at the state level on how to fund that type of educational recovery? And in that recovery, what are your educational priorities?",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "give_update",
+      "express_concern",
+      "acknowledge",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 1181.804,
+    "end": 1305.18,
+    "text": " Well, I guess I get to go first. I want to say that, particularly with school funding, it seems strange to be in an Albemarle school board meeting and not have Steve Colazar here. He was always the squeaky wheel that needed to be greased, particularly when it came up to funding.  We've got a huge number of catch-up jobs to do. I've really been worried. I've got a sister-in-law that's an elementary school principal in Bath County, and I've got a niece and nephew in schools over here. There are a lot of kids that are gonna be all right in this pandemic. They're all right with virtual learning, but the kids that I worry about are those that are learning to read, K through three kids.  and special education kids. Those are the children that need hands-on learning. They need to be in a classroom with someone who can keep their focus. And we've got a huge amount of catching up to do. Judy, I've not been involved in any of those conversations. I've never served on an education committee in the legislature.  I do serve on the Finance Committee, and one of our priorities is going to be to make sure that our schools, not only is there a whole armless part of the final budget that's passed, but that we take a good, long, hard look, a deep dive into what we need to allow schools to catch up and make sure that our kids  can regain the ground that I'm afraid they've lost. Unfortunately, I think some kids, that the losses are gonna be irretrievable. There's gonna be so much catch up. I'm not sure that we're gonna be able to do it all, but we have an obligation, it seems to me, to figure out how to make sure that we lose as few children as possible. And we've got to work extra hard over the next several years once we get past this pandemic.",
+    "speaker": "creighdeed",
+    "tags": [
+      "express_concern",
+      "prioritization",
+      "policy_proposal",
+      "opinion",
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1308.772,
+    "end": 1438.756,
+    "text": " Well, I'll speak next, I guess. I mean, I think that there were predictions that the virtual learning would exacerbate some of the equity issues you're describing. And they were pretty compelling predictions. But now the data is coming in, and they are reflecting just what you would think. I think most of you know my wife is a teacher's assistant up at Baker Butler. And the stories she brings home at night are consistent with what was seen in the  Virginia newspaper reports and the national newspaper reports which would be that the kids with a lot of support at home are able to somehow get through this and the kids who were most at risk at the beginning are the ones who are falling by the wayside and I'll just give an anecdote. It was the other day and she said that there was a she's she's with first graders and  they can't read. I mean, some can, but the ones that we're talking about can't. And so, for example, when she's trying to direct them to the page so that she can help with a lesson, the child has real trouble identifying the page from which she is then going to work, from which she is going to make the catch-up. And so you can see at the atomistic level the breakdown in equity we're describing, which would be with the parent that has a, excuse me, the kid that has a college-educated parent nearby who can say, no, honey, 120 means the one, the two, and the zero, and that's how you find the page.  and it's after page 119 and before page 121, that kid's just a little slower to get to the information that the student who spends the entire period unable to even find the page from which to work. And I'm hopeful, I assume that you guys have had meeting after meeting where the parents, teachers, assistants, staff are describing this. But in terms of a priority, I would hope that we would, I guess,  First, realistically, accurately, completely identify how much we lost here. I think we can be aspirational. We should say everybody's working as hard as they can. But again, all the data says there's a significant problem. And then that would be where I hope that the budget would direct its resources. I'm not part of the budget. Cree mentioned not being on the Education Committee. I've been on the Education Committee, and that's not where the money is. So that's much less important for the topics you're describing than  Senate Finance or the House Appropriations Committee. I'm on either, obviously, but thank you.",
+    "speaker": "robbell",
+    "tags": [
+      "express_concern",
+      "give_update",
+      "policy_proposal",
+      "prioritization",
+      "request_action",
+      "cite_external_source",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1440.617,
+    "end": 1654.189,
+    "text": "That might be a good spot for me to pick up as one of the most junior members who is not have a seat on either Senate Finance or Appropriations, but does have a seat on House Finance, which is where we talk about raising revenue to fund critical priorities. So from that lens, maybe I'll start by trying to say a few things that I hope are simple and non-controversial in this group.  That school funding is critical that Virginia lags behind other states in how much our state puts into our system, and that we've been asking too much of our localities for a long time, and I think the state has not been picking up its fair share.  We took big steps on the finance side last year to start to do better by that with the equal taxing authority legislation, which will make it easier for counties to raise revenue and I know that was a top priority for Albemarle County, but I think the reality is that that was just a first step, and that there are a number of things that we need to do  to fix the structural hole in our school funding in Virginia. I know we're going to see with everybody running for statewide office in the coming year, a lot of big conversations about big education plans and whether that's a billion dollars or $2 billion, it's going to be a big number and it should be because that's I think how far behind we are.  And I think that we're going to hear some comments about potential sources of revenue that could fill say a $2 billion hole. And we'll hear people talk about small options. People will talk about more gambling revenue from gray machines, and we'll hear people talk about  legalizing marijuana and cannabis taxes potentially. Those are potential sources of revenue and they're things that we should take seriously, but they're also too small relative to the size of the whole. We cannot raise enough money from the gambling and substance streams that people are discussing to put $2 billion behind our schools. If we want to be serious about that, and we should,  then we have a longer conversation to have about bigger picture structural tax reform in Virginia. I think that comes from three key sources, sales taxes, corporate taxes, and the personal income tax. And as a member of the Finance Committee, I am working hard to start those conversations. I know that I'm not the first to have them, but I am perhaps one of the more energetic folks who really sees that as a critical part of our work.  You know, we rely really heavily on sales taxes, also to fund state services, but sales taxes only apply to goods.  And right now we need to talk about potentially extending the sales tax base to cover personal services as well, so that if you buy a shampoo, you pay sales tax but if you go to the hairdresser you don't. Those are the kind of things that would have a more equitable consumption tax across Virginia, that would make it possible to raise the kind of money that it would take to fill the fund the kind of investments in our schools that people are talking about.  So that's just by way of saying, I'm glad that people are talking about major investments in our schools and that that will be front and center in a lot of our campaign conversations this year. I hope that we can also ensure that when we talk about those big numbers, we talk seriously about what it takes to put real money behind them. Because I think there are some items on the campaign trail that are good to talk about that are just too small in practice to really deliver on those promises.",
+    "speaker": "sollyhudson",
+    "tags": [
+      "policy_proposal",
+      "give_update",
+      "express_concern",
+      "prioritization",
+      "clarify",
+      "opinion"
+    ]
+  },
+  {
+    "start": 1655.468,
+    "end": 1695.454,
+    "text": " I could follow up real quickly. You know, I hope you paid attention to what she said. The gray machines, which were only a one-time fix, they're supposed to be, we're supposed to be done with them by next year, didn't produce as much revenue this year as we thought they would. And that's because people were, when the stores opened back up, people started buying lottery tickets again.  want some people that want to see that as as the sun, but even in the states standpoint, Colorado and Washington.",
+    "speaker": "creighdeed",
+    "tags": []
+  },
+  {
+    "start": 1702.424,
+    "end": 1704.427,
+    "text": "I can't hear anybody else.",
+    "speaker": "robbell",
+    "tags": [
+      "express_concern",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 1704.567,
+    "end": 1712.037,
+    "text": "The revenue has been around somewhere between to get some money, but that's not nearly enough to fix what we we need to do with education.",
+    "speaker": "creighdeed",
+    "tags": [
+      "give_update",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 1714.43,
+    "end": 1731.554,
+    "text": " Senator, I think you cut out for just a moment, but I'm glad you said it because that's actually the next point that I would have said too. Colorado and Washington are further down this road than we are, and they've managed to raise two or $400 million from cannabis. And if we're talking about $2 billion, I'm sorry, but that number is too small.",
+    "speaker": "sollyhudson",
+    "tags": [
+      "public_addressing",
+      "cite_external_source",
+      "clarify",
+      "disagreeing"
+    ]
+  },
+  {
+    "start": 1735.419,
+    "end": 1766.312,
+    "text": "I'd like to offer in that I'm not on any of the money committees as well, but I am on the committee that deals with broadband.  and I can understand and appreciate the challenges that educators are going through in trying to create a virtual environment. I was curious to know, in your opening comments, you talked about that you had put in a thousand hotspots. Does that meet the need? Does that fully cover all your students?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "acknowledge",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 1769.396,
+    "end": 1779.877,
+    "text": "It does not. We still have a problem with some of the kids.  Do you know how many? I don't have a number right off hand.",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1780.798,
+    "end": 1796.078,
+    "text": "That's fine. So perhaps if that number's available, I'd be interested in it. What is the cost of the thousand hotspots? I know you didn't charge the, uh, your citizens, your, your, your students, but, um, somebody is paying something. So what kind of number are we talking about?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "request_action",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 1798.08,
+    "end": 1801.845,
+    "text": "We do have, uh, Dr. Christine Diggs here if you want to.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "defer_to_expert",
+      "request_action",
+      "hedge"
+    ]
+  },
+  {
+    "start": 1802.315,
+    "end": 1806.402,
+    "text": " Yeah. Dr. Biggs, could you address that question, please?",
+    "speaker": "Unknown",
+    "tags": [
+      "defer_to_expert",
+      "request_action",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 1806.787,
+    "end": 1847.589,
+    "text": " Sure, good afternoon. I'm Dr. Diggs, Chief Technology Officer. We've invested over a half million dollars in the hotspots. And the primary reason is because we had to go with unlimited data plans in order to support the video that's required by virtual instruction over Zoom. And so that raised the cost significantly. Got you.  And there were a little under 200 students that we had coming into our schools because we could not, either they preferred to come into school or the hotspot wouldn't work in their location, to answer your first question.",
+    "speaker": "hristinedigg",
+    "tags": [
+      "give_update",
+      "logistics_info",
+      "clarify"
+    ]
+  },
+  {
+    "start": 1848.691,
+    "end": 1889.528,
+    "text": "Okay, well, I appreciate that. And going back to what we're all trying to accomplish, and that is provide high quality education to students in the environment we're dealing with, and then be prepared  as we move forward. And so I know Albemarle has a number of unique challenges relating to broadband, but the other counties that I represent have those, have similar challenges. So that's an area that you ask educational priorities. That's an educational priority for me. How do we figure out how to move forward in a substantial manner, the ability to get broadband services into the homes, not just for education, but for healthcare and other quality of life issues.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "express_concern",
+      "prioritization",
+      "ask_question",
+      "request_action"
+    ]
+  },
+  {
+    "start": 1894.908,
+    "end": 1895.569,
+    "text": " Thank you very much.",
+    "speaker": "judyle",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1897.371,
+    "end": 1897.672,
+    "text": "You're welcome.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 1909.849,
+    "end": 1937.655,
+    "text": "Are there other comments from other board members related to this? Mrs. Hudson, Delicate Hudson, I really enjoyed  and appreciate all of your comments because I think all of those things could be very good potential revenue sources for our schools. So thank you for your work in each of those areas.",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "public_addressing",
+      "acknowledge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 1938.777,
+    "end": 1942.083,
+    "text": "I became an economist because I wanted to work on funding schools.",
+    "speaker": "sollyhudson",
+    "tags": [
+      "opinion"
+    ]
+  },
+  {
+    "start": 1944.146,
+    "end": 1963.637,
+    "text": "Thank you. Very good.  Any other comments or questions related to our state budget portion? I would just like to thank Delegate Bell or ask Delegate Bell to thank his wife who is a teacher up at Baker Butler.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "acknowledge",
+      "ask_question",
+      "request_action"
+    ]
+  },
+  {
+    "start": 1964.157,
+    "end": 1992.229,
+    "text": "Baker Butler recently was one of four schools throughout the state of Virginia that received an award for basically eliminating the achievement gap.  within its students. And the numbers there were extraordinary. And so, Delegate Bell, if you would pass along our thanks to your wife and the rest of the Baker Butler team, I sure would appreciate that.",
+    "speaker": "Unknown",
+    "tags": [
+      "give_update",
+      "request_action",
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 1992.783,
+    "end": 2009.222,
+    "text": " We were parents there too. So that's where my daughter spent her whole K through five. And I'll pass that on. The school was just like you'd think. The teachers were pretty proud of it. The administration was very proud of it. They worked very hard at that. So I'm sure that you've told them that also, but thank you.",
+    "speaker": "robbell",
+    "tags": [
+      "acknowledge",
+      "opinion",
+      "reassure"
+    ]
+  },
+  {
+    "start": 2012.185,
+    "end": 2029.365,
+    "text": "Thank you. Any other comments related to the state budget?  All right, next we'll have the mental health portion of our packet presented by Dr. Kate Acuff.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "ask_question",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2031.187,
+    "end": 2318.322,
+    "text": "Well, I'm not I'm not going to read my section. We greatly appreciate the work that you've done in the General Assembly to  increase support for mental health and mental health school counselors. But as you know, you have not fully funded your portion of that, and that would be very welcome. Mental health is an issue for one in five kids nationally, and I don't imagine we're any different. And that was before COVID. We have, you know, and as we all know,  Children's social and emotional health is critical to learning anything. And this has been extraordinarily stressful for a lot of our kids and their parents. We hear from a lot of them on a daily basis.  You might ask what in a virtual universe do our school counselors do? And I know at one of our elementaries, well, I did not tally all 25 of our schools. But at some of our schools, the guidance, the school counselors will pop on a regular course.  or classroom and say hello, making certain that the kids know who they are. And some of them, they do directed activities, such as learning how to categorize problems. This is a problem. Is it a problem with your classmate? Is it a small problem that you can do on your own? Here are some tools that you can handle that. When should you go and talk with an adult?  But some of the issues are related to what Miss Hudson was talking about in terms of poverty. One of the schools that I represent is for elementary, which has.  Two-thirds of its students are Black and Brown. 76% are eligible for free and reduced-cost lunches. It also has the highest percentage of English language learners. And in terms of teaching second graders how to hold a pencil or to find the lesson on a virtual screen, it's extraordinarily challenging.  The guidance counselors at Greer do everything from being the coordinators with the toy lift that we just happened, and explaining to some of our Muslim families that their kids can get toys for a Christian holiday, and if so, you know, where they can pick up the toys, and sometimes they make deliveries. They have worked, of course, in terms of  Child Protective Services, which everything that I have read and that is reported to me, it's much harder to detect when they're virtual and when they don't have privacy at home in terms of talking into their computer. But I would urge, A, that you continue to reduce the ratio of counselors to students toward what the American Academy of School,  the American School Counselors Association recommended ratio, and then fund, fairly fund your portion of that. I like with kids falling behind and needing a Marshall Plan for post-COVID education, I think mental health needs to be a critical part of that. Whatever we are looking at with our kids right now, it may be exacerbated by this  year of craziness. I don't know how to say it. I mean, in addition to our younger kids, we have some anguished letters and public comments from our high school athletes who are distraught that, you know, they can't continue their  sports during this period of time. Many of them, you know, are applying to schools and, you know, trying to get scholarships. But many of them, we had a very upset letter from a parent, I think it was this week, saying that we've ruined their kids. They're going to be a definitely going to be a high school dropout. I wonder about all the longer term consequences. And we need to have the mental health professionals in place  to deal with that. And I know, Cree, you and I went to a presentation at Monticello several years ago of students about mental health. And we at Albemarle are very proud that we have already, even before the changes to SOQs, been expanding our core of mental health professionals, but it's still not enough.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "express_concern",
+      "request_action",
+      "policy_proposal",
+      "prioritization",
+      "give_update",
+      "clarify"
+    ]
+  },
+  {
+    "start": 2319.382,
+    "end": 2445.538,
+    "text": " Yeah, and I think Rob had the same presentation, maybe at a different time. Those kids, though, have contributed to state law in a number of ways already. You know, what we've been trying to do the last few years is, you know, school counselors historically have been what's known as guidance counselors.  We need counselors that are prepared to meet the mental health needs of students, help students grow up, help students get ready for life, not necessarily find a job or the right college place, but we can do that other ways. Part of the good news yesterday with the governor's budget announcement was that he was going to restore the funding to reduce the ratio for school counselors.  Not enough, but it's the first step and it's an important step. I agree with you. We have to continue to focus on schools. One thing those kids from, the presentation was at Monticello, but the kids, there was actually a student from Western Albemarle and a student from Albemarle High School too. Part of what they did, and Rob and I carried the bills, was to introduce  mental health education into the health curriculum for eighth and ninth grade students. That's critically important in terms of reducing the stigma associated with mental health and also give kids the tools they need to recognize issues that might be first appearing among some of their peers along the way. This is a very important issue and I think we've begun  the roadway that's gonna allow us to break through and make kids' lives better. And you should be proud that a lot of that work started in Albemarle County and in particular in your schools. So congratulations on the good work, but we still have a long way to go.",
+    "speaker": "creighdeed",
+    "tags": [
+      "give_update",
+      "agreeing",
+      "acknowledge",
+      "express_concern",
+      "prioritization",
+      "reassure"
+    ]
+  },
+  {
+    "start": 2449.023,
+    "end": 2525.994,
+    "text": "I have a question that we're in the middle of, this came out of one of the,  Cree and I serve on something that everybody but him calls the Deeds Commission. It's the Mental Health Ongoing Study Commission. And there's an issue that arose from Albemarle called the Therapeutic Day Treatment. It goes by TDT. And what happens is a counselor identifies a program which needs more intensive care than he or she can provide.  And they are then sent to the TTT program and there was a change in the way the program was run and there's that you might recall a big article in the Daily Progress. And this was the first service happening statewide but as sometimes happens somebody has to identify it first.  The administration swore that they now had eliminated that, that it's all fine, that other programs are taking the place. I am always skeptical. We just had that meeting. Can anybody tell me if it is, I mean, have the TDT rates gone back up or has an alternative equivalent program be put in place?  These are the when I've got one in my head that I'm visualizing from Baker Butler, but these are the kids that need more than an occasional check in with the counselor. This is literally where they do some triaging and identify.  Can anyone share? Maybe I don't want to put you on the spot if you'd like. Maybe someone else can.",
+    "speaker": "robbell",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "express_concern",
+      "clarify",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2526.195,
+    "end": 2545.695,
+    "text": "Rob, I mean, I did speak today with someone with principal at Greer and he was he was just saying his two Medicaid funded Region 10 TDT counselors were taken away last year and he doesn't they were not replaced. So I don't know. Maybe Debbie Collins can jump in and say.",
+    "speaker": "kateacuff",
+    "tags": [
+      "give_update",
+      "defer_to_expert",
+      "request_action",
+      "hedge",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 2546.317,
+    "end": 2553.029,
+    "text": " I'm not sure who the administrator was, but it wasn't me and that problem has not been solved. Okay.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "clarify",
+      "give_update",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2553.75,
+    "end": 2568.156,
+    "text": "In fact, if I could add to that, one of the things that we've had with the local county government is they've frozen positions. So not only have the TDT workers not returned, we have social workers that have not, those positions have not been filled.",
+    "speaker": "debbiecollins",
+    "tags": [
+      "give_update",
+      "express_concern",
+      "clarify"
+    ]
+  },
+  {
+    "start": 2568.76,
+    "end": 2655.214,
+    "text": " Okay, let me make a request, and this may not be the best place for it, but somebody, one of you is the right person, and this will save us a lot of work and phone calls. So at our last hearing, Senator Deeds and I, we raised the issue and were told by the administration that it was a blip, that they'd taken care of it, that other programs were in place that were better and more effective and more efficient.  And we said, huh, that's not at all what we are hearing from region 10 or from the local schools or the local counselors. And it's not just Albemarle, this was, Flavan and Green had similar issues. And I was skeptical and said I would check with our local people and see if what you're describing that it's been taken care of is actually coming out in the wash all the way down to the tip of the spear.  If I hear you that it's not then what my ask would be would be if someone could just do a by whatever metric is fair don't I'm not asking for something that makes it look more or less than it is, but how many kids were being serviced. I was easiest by quarter by month by year but  If there is an appreciable fall off and no equivalent program that is now catching those kids, I don't, they haven't been magically cured. There's not, there's always some new court moving in. If someone could maybe provide that, I think that would help us in our discussions in Richmond. We have a meeting on Monday and I don't know, Cree, you may know the answer whether it's even going to be on the agenda, but I would sure not like to let this just slip along without having an answer from them if it's causing you all problems.",
+    "speaker": "robbell",
+    "tags": [
+      "request_action",
+      "follow_up_request",
+      "express_concern",
+      "ask_question",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2656.139,
+    "end": 2668.258,
+    "text": " We can certainly have our staff do that. I'll swap you. If you can let me know who the employee was from Mount Maul County Schools that relayed that information, if that's what you're suggesting. I'd like to have that as well.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "reassure",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 2668.679,
+    "end": 2674.909,
+    "text": "No, the opposite. We always, we had good information from you. It was the state people. Okay, I got you.",
+    "speaker": "robbell",
+    "tags": [
+      "disagreeing",
+      "clarify",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2675.109,
+    "end": 2686.56,
+    "text": "All right.  Yeah, that really concerned me. We're in the midst of a big redesign, and everybody understands in five years, this is not perhaps the best program once everything is integrated.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "express_concern",
+      "opinion",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2686.58,
+    "end": 2710.586,
+    "text": "But in the meantime, they saw a significant drop off in approval rates and what the kids were being approved for without an equivalent program in place to catch those kids. And we told them, until the new thing is in place, this doesn't seem a sensible way to do this.  And they said, no, no, we have more this year than we had last year. And I was puzzled. It seemed inconsistent with what everything was happening at the local level.",
+    "speaker": "robbell",
+    "tags": [
+      "give_update",
+      "express_concern",
+      "disagreeing",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2710.606,
+    "end": 2727.395,
+    "text": "That's the fact. So thank you, Rob. Thanks for clarifying that. Whenever I hear administration, I think local. So we'll work with Kevin Kirst. He's our executive director for intervention services. We'll get those numbers to you tomorrow, OK?  And obviously we don't need names.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "acknowledge",
+      "give_update",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 2727.475,
+    "end": 2737.409,
+    "text": "This is anonymous data. We need to be able to show them, huh, you're saying that it's fine and that's not what we're, okay, thank you. Thank you. Thanks for bringing that up.",
+    "speaker": "robbell",
+    "tags": [
+      "clarify",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2737.429,
+    "end": 2739.312,
+    "text": "Matt, could you share that with the school board as well?",
+    "speaker": "kateacuff",
+    "tags": [
+      "request_action",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 2739.673,
+    "end": 2749.967,
+    "text": "Absolutely. Thank you. Delicate Runyon or Delicate Hudson, do either of you have any comments related to mental health?",
+    "speaker": "mathewhaas",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 2754.284,
+    "end": 2758.231,
+    "text": " putting anybody on the spot.",
+    "speaker": "Unknown",
+    "tags": [
+      "reassure",
+      "hedge"
+    ]
+  },
+  {
+    "start": 2758.251,
+    "end": 2777.963,
+    "text": "I certainly appreciate the conversations and I want to thank Delegate Bell for bringing that issue forward. I know that that's been an issue in other localities as well and so I would be interested in hearing the results if I could be copied on that and so again I appreciate Charles comments.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 2780.373,
+    "end": 2792.429,
+    "text": " And I would just echo that I heard loud and clear the request for student counselor ratios. And that at least in our chamber, I think we're going to be having a lot of talks about how to prioritize that in the budget package.",
+    "speaker": "sollyhudson",
+    "tags": [
+      "acknowledge",
+      "prioritization",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 2794.752,
+    "end": 2817.825,
+    "text": "OK, thank you. Any other comments from board members related to the mental health aspect?  OK, if not, our last area that we are concerned with is teacher recruitment. And Mrs. Carlson is going to lead that portion of our discussion.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "logistics_info",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 2818.926,
+    "end": 2902.99,
+    "text": "Hi, everyone. It's great to see your faces. I feel like I have used to see so many of you guys in passing at events like Delegate Bell at graduation and Sally Hudson dancing in a reindeer costume on the side of the street, but maybe next year.  I the last topic which it sounds like I know I came late to this meeting, but it sounds like we were already doing some discussion around the budget is just about the generalized teacher shortage delegate Hudson I heard you speak about teacher pay and how we we tend to lag behind other states, I think we're 3033 out of the nation in terms of what we pay our teachers and we would just like to.  to push you guys how important it is to pay our teachers well and pay them competitively, so that we can continue to recruit teachers, I used to be a teacher myself. delegate bells wife is a teacher they they honestly are making doing all the hard work you know when we talk about things it's really the relationship you build with your teacher and having good teachers is important.  So also, I'll put in my personal little thing, which is that we've made a really big push recently to have more diversity in our teacher hires. It's something that's been proven effective in terms of narrowing the achievement gap, and it's really hard to do. It's hard to recruit teachers at the current pay scale. Does anyone else have anything they would like to add? I mean, it's a pretty short list. Just give us more money.",
+    "speaker": "Unknown",
+    "tags": [
+      "policy_proposal",
+      "express_concern",
+      "request_action",
+      "opinion",
+      "public_addressing",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 2904.033,
+    "end": 3010.382,
+    "text": " You know, you are exactly right. You know, it's, I remember, you remember, this is ancient history, but there was a fellow named Chuck Robb, who was elected governor back in 1981. And his big idea that that helped get him elected was let's raise our teacher pay to the national average.  Well, none of us want our children to be average that always always always bothers me that we our goal is to be average, you know, we ought to be the best school system in the country we ought to aspire to produce the best the most qualified graduates.  And here's the thing, it is about money. Sally Hudson and I were involved in a conversation last night with another group. And at the end of the day, it's about money. It's about coming up with a new way to generate the revenue because the old ways just don't work. Here's the thing.  Arlington, Fairfax County, you know, the average teacher pay is $90,000 and that sounds like that sounds great, but you go across the river to the next county over Montgomery County average teacher pay is $100,000. How in the world can even the best paying jurisdictions in Virginia compete when their neighbors pay so much more?  We've got to figure this out. We've got to figure it out and it's going to take real hard work and people are going to have to make decisions about things that they don't really want to have to face. But the reality is if we are going to be the best we can be, if we're going to provide the best environment for our children to grow up, we're going to have to make those decisions. And I think we might have some choices as early as this year if we're going to move forward.",
+    "speaker": "creighdeed",
+    "tags": [
+      "policy_proposal",
+      "express_concern",
+      "request_action",
+      "prioritization",
+      "opinion"
+    ]
+  },
+  {
+    "start": 3014.362,
+    "end": 3060.079,
+    "text": " Yeah, and I would just echo the senator and say that I think that that those conversations are now brewing in earnest enrichment. And I think especially in the year ahead, because we're all going to be looking at a whole bunch of folks will be running to lead the next administration, the Richmond one that we that we take really seriously, deciding to support the people who will tell you how they're going to do it.  because I think we know that everyone loves telling you that they want to raise teacher pay when they're running for office, and then somehow it slips further down the priority list once they're serving. And so I just hope that, you know, I know all of us here are deeply committed to that work and that I hope we will support our communities in really trying to pin people down and make sure that they sketch out how they're going to do it and then make them deliver once they're in office.",
+    "speaker": "sollyhudson",
+    "tags": [
+      "acknowledge",
+      "agreeing",
+      "express_concern",
+      "request_action",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 3063.687,
+    "end": 3085.172,
+    "text": " One thing that's sort of out of the out of the box but it's a possibility I would think is some sort of loan forgiveness for curry and our educational other educational institutions for teachers who remain in Virginia.",
+    "speaker": "davidoberg",
+    "tags": [
+      "policy_proposal",
+      "hedge",
+      "opinion"
+    ]
+  },
+  {
+    "start": 3086.857,
+    "end": 3122.179,
+    "text": " There's a, you know, I mean, the reality is going to Curry is not an inexpensive thing. I mean, it's not like it's, you know, and, you know, if you go to law school and you pay $100,000 and you come out and you're making $150,000, that makes a lot of financial sense. But for a lot of our teachers, it quite frankly, financially does not make sense. And maybe that's one way to start is to start making it financially viable  for people to go into education and encourage them to stay here.",
+    "speaker": "Unknown",
+    "tags": [
+      "opinion",
+      "policy_proposal",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 3123.442,
+    "end": 3175.892,
+    "text": " I think that that's a good idea. I confess if I'm going dollar for dollar and I have to choose between raising pay and doing loan forgiveness, I would rather just raise pay because it just maximizes flexibility of the person being paid. They can use it to pay down debt if they want. And if they have other priorities like paying for a mortgage or buying that first car, they can do it. And I just think it takes the burden off the state of administering that loan forgiveness program.  I think, especially at the federal level, we have seen loan forgiveness programs offered, you know, for years and remarkably low take up rates or people who can successfully navigate all of the hurdles of getting those loans delivered. And so, from my perspective, I'm not sure that it's worth the headache of administering the program that pays you back for one and only one thing if we could put those dollars, dollar for dollar into just raising wages, but that's sort of my take.",
+    "speaker": "sollyhudson",
+    "tags": [
+      "opinion",
+      "policy_proposal",
+      "prioritization",
+      "express_concern",
+      "cite_external_source"
+    ]
+  },
+  {
+    "start": 3181.745,
+    "end": 3233.925,
+    "text": " But I do think the loan forgiveness idea is one worth exploring. But again, it's not easy, and it's about money, putting money behind programs like that. For example, years ago, we identified real needs in every area of mental health provider, from counselor, to licensed clinical social worker, to psychologist, to psychiatrist. And we found plans that worked in other states built around loan forgiveness.  We've tried to get those things funded and we just haven't had success doing that. The shortages of workforce are very real in that area. And that's just one instance where we've tried this before and we haven't been able to convince people to fund it. So it's worth exploring. I don't think it's a cure-all.",
+    "speaker": "creighdeed",
+    "tags": [
+      "policy_proposal",
+      "opinion",
+      "express_concern",
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3236.403,
+    "end": 3284.144,
+    "text": " I would just chime in and say that my mom tried to do the loan forgiveness and she's a smart lady and somehow she still fell like a year short of whatever requirements you reported in time and they are difficult to navigate and I would also add on that one thing that's really positive about you guys.  providing more budget and providing the space to provide teacher raises is that there's, when you think about the state as a whole, I do feel very confident in what we're doing here in Albemarle and how we pay our teachers. We do a really good job, but I know that we pull teachers from rural areas where they don't pay as well. I know my mom used to work in Stafford. She now draws all the way up to Alexandria from Fredericksburg to work there. And she's an experienced veteran teacher.  So when we're looking at equity across the state, I'm appreciative of the fact that this is on your mind, because it's creating haves and haves not within our state.",
+    "speaker": "Unknown",
+    "tags": [
+      "express_concern",
+      "opinion",
+      "reassure",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3284.985,
+    "end": 3325.067,
+    "text": "Well, the point you make is exactly what we've got. We've got a feeder system of teacher development. Counties like Bath, where I live, we get our teachers from West Virginia, because we pay more than West Virginia. But nearly everybody else in the state pays more than we do. So our teachers, unless they have some connection to Bath County, they stay here a few years.  and then move on. And they move up to the Augustas, and then they move to the Albemorals, and then they move to the Prince Williams, and Henricos, and Loudons, and Fairfaxes eventually, I guess. It's a feeder system. And we have to be out fixing it.",
+    "speaker": "creighdeed",
+    "tags": [
+      "give_update",
+      "express_concern",
+      "request_action",
+      "opinion"
+    ]
+  },
+  {
+    "start": 3325.087,
+    "end": 3333.319,
+    "text": "All right, thank you. Do either Delegate Bill or Delegate Runyon have any comments related to teacher recruitment?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3334.75,
+    "end": 3343.811,
+    "text": " No, and thank you. I do have a hard stop. I appreciate everybody's comments today, and I look forward to working with you. Thank you. Thank you.",
+    "speaker": "robbell",
+    "tags": [
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3343.851,
+    "end": 3352.27,
+    "text": "Delicate bill. Are there any other comments from any of our school board members?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 3354.983,
+    "end": 3381.885,
+    "text": " I'd just like to thank all of our representatives for all the work they do for schools and for getting on a Zoom meeting. I'm sort of with Cree, it is easy to do Zoom in some ways. We may be able to have, we're already talking at the school's level that some of our kids actually like, maybe some of our older kids actually like virtual, but it's still much more fun to see you in person.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "agreeing",
+      "opinion",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3382.523,
+    "end": 3382.904,
+    "text": " It is.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 3383.264,
+    "end": 3384.727,
+    "text": "My fourth Zoom of the day.",
+    "speaker": "kateacuff",
+    "tags": [
+      "logistics_info",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 3385.869,
+    "end": 3397.348,
+    "text": "Wow. Mine too, Craig. Yesterday, we had nothing but snow and ice. And I had three Zooms. I did them all for my dining room table. I'm in the office today.",
+    "speaker": "creighdeed",
+    "tags": [
+      "agreeing",
+      "give_update"
+    ]
+  },
+  {
+    "start": 3397.849,
+    "end": 3419.838,
+    "text": "OK. I'd just like to echo the fact that this, to me, has been one of the most worthwhile of these sessions we've had in a number of years.  better if we were together, but this has allowed a real give and take even more so than some of the ones we've had in person. So thank you all very, very much.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "opinion"
+    ]
+  },
+  {
+    "start": 3421.16,
+    "end": 3423.444,
+    "text": "I got to tell you, John, I prefer you virtually.",
+    "speaker": "Unknown",
+    "tags": [
+      "opinion",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3424.566,
+    "end": 3426.57,
+    "text": "Many people do, Dave. Right.",
+    "speaker": "Unknown",
+    "tags": [
+      "agreeing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3427.58,
+    "end": 3458.38,
+    "text": " I was just going to add thank you to all of you. What you have managed in the last year is nothing short of Herculean. I mean keeping our schools running at any time is an enormous task but under these circumstances you have really held up the world and everything else falls apart. I think as we've learned again without our strong school systems nobody can go to work and  you know, none of the other wheels of our communities can be churning without you, so thank you for navigating it and for shouldering so much for so many.",
+    "speaker": "sollyhudson",
+    "tags": [
+      "acknowledge",
+      "reassure",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 3461.124,
+    "end": 3490.126,
+    "text": "Okay, thank you to everyone, all of our delegates, Delegate Hudson, Runyon, Senator Deeds, and Delegate Bell. Thank you all for attending today. Really, thank you for your input. Heard some really encouraging things, so we'll be looking forward to  the budget session as it begins in January. Maybe just for a few minutes, Dr. Haas, our superintendent, do you have any comments to give to us in closing?",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "acknowledge",
+      "defer_to_expert",
+      "request_action"
+    ]
+  },
+  {
+    "start": 3492.209,
+    "end": 3564.55,
+    "text": "I get to make the closing remarks, Mr. Page? Oh, wow. That's exciting. So no, I just want to echo what our board members said. I just think these opportunities  For our local boards, whether it's the Board of Education or the Board of Supervisors, having the opportunity to speak with our legislators in Richmond is absolutely invaluable. I want to say this, and I mean it sincerely. Your knowledge of what's happening here locally really impresses me. You really know what we're dealing with. You really are in touch with your constituents.  And it shows through your engagements and meetings like these. So I consider it a privilege to sit in on these meetings, to hear what you have to say, to learn from you, and to learn  from the interactions that you have with our board. I know that you're fighting for what is right. I know that you value education. And I want you to know that we have your back. And if you need anything from us, that we will help you any way that we can. And again, thank you very much for showing up today. It's much appreciated during this very busy time. Thank you.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "acknowledge",
+      "reassure",
+      "public_addressing",
+      "agreeing",
+      "opinion"
+    ]
+  },
+  {
+    "start": 3567.013,
+    "end": 3584.04,
+    "text": "Thank you, Dr. Haas. And again, thanks to all of our participants  all about legislators. So the board, we will adjourn until 430, and then we will reconvene for another session. So thanks again to everyone in attendance.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "logistics_info",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3584.06,
+    "end": 3585.702,
+    "text": "Hey, Chris, I hope everything works out.",
+    "speaker": "Unknown",
+    "tags": [
+      "reassure"
+    ]
+  },
+  {
+    "start": 3587.925,
+    "end": 3588.846,
+    "text": "I think he's gone.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 3589.046,
+    "end": 3592.45,
+    "text": "I still hope everything works out.",
+    "speaker": "Unknown",
+    "tags": [
+      "reassure"
+    ]
+  },
+  {
+    "start": 3593.151,
+    "end": 3593.791,
+    "text": "Thanks, everyone.",
+    "speaker": "judyle",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3594.272,
+    "end": 3643.212,
+    "text": "Thank you. Bye.  Okay, it's now 4.30 p.m. Eastern Standard Time. And just to make sure that we are legal, I think that our minutes should reflect that this meeting is being held electronically, prescient to Virginia state law and Albemarle County ordinance because of the COVID pandemic. And in this meeting, we are communicating it to the public through Zoom, but we do not have public comment during this meeting.  So we are now ready for our afternoon session on budget development. And I think Dr. Patrick McLaughlin is going to lead us.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 3651.157,
+    "end": 3973.78,
+    "text": " Yes, good afternoon board members, Pat McLaughlin chief of strategic planning, and I'm here with my Akuma Zawa to to lead you through our work session today. And we've really got three parts of this work session that we're going to work through. The first is going to spend a little bit of time thinking back to Dr Haas's presentation from last month to unpack the state of the division report.  Then around five o'clock, we're going to hear a little bit about our budget assumptions and expenditure considerations. And then finally, we're going to have some board discussion and breakout groups around budget priorities for the coming fiscal year.  So just to frame up a little bit, why do we talk about the state of the division and the budget at the same time and really it's because we've got a cyclical process that we've that we've started over the past couple of years. So it all kind of begins with the budget, and each year the board puts together a budget and within their list the priorities and the goals that they have for the division.  And recently we've started using that budget document to directly help inform our school improvement and our department improvement plans. So when you take a look at those. You should see, for example, every department in the budget has outlined some kind of some things that they're looking ahead to in the future in that budget, and you should see how they're going to put those into practice in their department improvement plans.  At the end of that school year, the departments report back to us and that report becomes the state of the division. And the state of the division looks at what's working well for us, but it also highlights some areas where we could continue to use some improvement. And that should then start the next cycle where we go back to the budget and start to think about what are the programs that we want to continue and what programs might need some additional support or be abandoned or, you know, what makes the most sense  in terms of our fiscal priorities for the year. And so today, we're gonna spend a bit of time unpacking the State of the Division. You heard a pretty comprehensive report on the State of the Division last month from Dr. Haas, and we're gonna just use that to kind of prime the pump a little bit and refresh our memories to really go into the heart of our work today, which is around the budget priorities.  And so if you recall the state of the division report is pretty comprehensive it's it's about 70 plus pages long. And so we clearly won't have won't have time to read through the whole thing. But I would, what I would encourage you to do when we do our first activity is take a look at the table of contents what stands out to you is it the equity report is it human resources is it reports from our individual departments that you want to take a look at.  And we are going to open up a jam board for you all if you remember that those are those boards where you can move.  some post-it notes back and forth. And the first thing that we want you to do is just individually take a look at the state of the division and start identifying areas in the state of the division that you think are strengths for the division, what we're doing well, weaknesses, areas where we could improve, opportunities, what are some trends that are out there right now that we could take advantage of, and what are some threats to the division meeting our goals.  While you're reading through that, and you and you identify those strengths and weaknesses and opportunities and threats, write a post it note and post it on the jam board and put it into the correct quadrant.  up on the board, you'll see that you've got the link to the state of the division report, and this is what your jam boards going to look like, just to remember you're all going to be working off of the same one. And there's going to be multiple pages to this board that you can get to up here, the rest of the pages pages two through five are going to be a second activity that we do with Miss kumizawa when she comes on  for her part, but just to remember to add a sticky note, you click over here on the sticky note icon, you type your message that you want in there, and then you click Save, it'll appear on the board, and you can move it all around. You can change colors. I know we've got some board members who really like to personalize and put their own colors on there.  For this activity, I'm going to ask you to keep them all yellow, because in the second part, we're going to do a group activity where the colors are going to become more important. So for 10 minutes, take a look at the State of the Division. And I will drop our presentation for today into the chat in just a second. And you can access the State of the Division through that presentation. There's a link there. And you can access the Jamboard through that link.  Stop sharing my screen for a second so I can get this into the chat. I'll put a direct link into the jam boards to that first link is the state of the division. The second link will take you to the jam board. And I'll go ahead and put the state of the division link in there too, just to make things easy. And then the third link.  is the state of the division. And so I'm going to step back. It's 436. We'll go until about 446. I'll put the jam board up so that everyone who's tuned into the meeting can see what you're putting on there. But your charge over the next 10 minutes is to identify a few strengths, weaknesses, opportunities, and threats.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "public_addressing",
+      "give_update",
+      "logistics_info",
+      "procedural_move",
+      "request_action",
+      "clarify"
+    ]
+  },
+  {
+    "start": 3975.643,
+    "end": 3981.572,
+    "text": "And I'm sorry, Pat, you were clear about the colors, but I missed what you said. Should we be using one color or?",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 3982.143,
+    "end": 3992.985,
+    "text": " Yes, please. If you can leave everything yellow for right now. That would be, that would be ideal. Yep. Okay. Alright, so 10 minutes. Ready, go.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "request_action",
+      "logistics_info",
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 3997.995,
+    "end": 4000.32,
+    "text": "You realize telling me to leave everything yellow.",
+    "speaker": "Unknown",
+    "tags": [
+      "express_concern",
+      "disagreeing"
+    ]
+  },
+  {
+    "start": 4251.265,
+    "end": 4252.635,
+    "text": " What? What?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "interrupt_overlap"
+    ]
+  },
+  {
+    "start": 4505.808,
+    "end": 4739.057,
+    "text": " So one more minute to add any strengths, weaknesses, opportunities, or threats you'd like.  All right, so I'm going to bring you back together for a few minutes. Thank you for for jumping in there looks like we've got a lot of ideas to work with. We've got one very threatening bunny that that made its way on to the to the board as well that will will deal with.  in short order. So clearly that's not a comprehensive list that we created in 10 minutes, but it's a good start. And it's very interesting. We did a similar exercise with our strategic planning design group the other night. And I see a lot of similarities too with what you're identifying with what they identified there as well. And so for the next step, we really want the board to work together.  on this and start thinking about what are the, of the threats and weaknesses that were identified and of the strengths and opportunities that were identified, what are the most important for you all to be considering as you start to have a conversation around the budget? In other words, if we could identify some threats and weaknesses, that if we got rid of those, if we took out those barriers, which ones would have the most impact on improving the student experience?  Same thing for the threats, the strengths and the opportunities. What is it that's working well right now, where if we expanded on it, or, or use those ideas in a, in a more expansive way. What would improve the learning experience for our students, the most.  And so this is where we get to play with the colors a little bit. What we're going to ask you to do is, as a board, start talking through those. And as you come to consensus around which are most important for the board to be focusing on in the future, open up that sticky note and turn it blue. And we'll keep the notes that turn blue. We'll just give us an indication that that's what  Rose up to the top of that conversation and that's something you can keep in mind as Maya takes us through some of the budget work that we're doing. So we're going to give about 15 to 20 minutes to to do this work. And again, I'm going to step back, but I think, feel free on board members should feel free to open up their mics.  I'll have the Jamboard up for everyone who's viewing to see, and you all can have some conversation with each other around that. And I'll be listening in the background. I'm happy to jump into the notes, and if you find one that you want to turn a different color, I can go in and take care of that. Also, if during the course of your conversation, you say, hey, we really should have put this up, feel free to continue to add to the board. So we'll take, it's 448 right now, we'll take until,  a little after five o'clock, maybe 505 to go through this. So I'm going to step into the background and let you all have some conversation around that.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "request_action",
+      "procedural_move",
+      "logistics_info",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4762.797,
+    "end": 4764.52,
+    "text": " Are we just supposed to start up?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4767.344,
+    "end": 4775.557,
+    "text": "Yes, this is just open conversation for the board at this time. I'm having problems seeing the sticky page.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "procedural_move",
+      "logistics_info",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 4776.459,
+    "end": 4780.886,
+    "text": "So I think what I've done needs to be overwritten in some way.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "express_concern",
+      "hedge"
+    ]
+  },
+  {
+    "start": 4785.453,
+    "end": 4788.758,
+    "text": "You don't see the screen share, Graham, with all the sticky notes on it?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 4788.778,
+    "end": 4790.02,
+    "text": "No.",
+    "speaker": "Unknown",
+    "tags": [
+      "disagreeing"
+    ]
+  },
+  {
+    "start": 4793.476,
+    "end": 4800.645,
+    "text": " So Mr. Page, it should be coming through in the share, on the shared screen for everyone.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 4800.965,
+    "end": 4809.115,
+    "text": "And if you can't see that, I can send you the link again and you can open it directly and you can see it on your machine. That's sending me the link again. Yep, absolutely. I'll do that right now.",
+    "speaker": "patrickmclaughlin",
+    "tags": []
+  },
+  {
+    "start": 4811.337,
+    "end": 4851.88,
+    "text": "I can chime in about the strengths. Let me tell my kids to be quiet real quick. Guys, stop talking.  The one that stood out to me that I really like is we are great at teaching advantaged students. And with some examples, less advantaged. And I know that can be sound a little negative, but I mean, it is a strength of ours. We have really good programs. There are kids that do extremely well and have extremely good outcomes. And it is something we do well. And if we acknowledge that and figure out ways to fold in and to get other students into those programs, I think it's a good strength. I like whoever put that.  a good strength with the caveat.",
+    "speaker": "Unknown",
+    "tags": [
+      "opinion",
+      "acknowledge",
+      "policy_proposal",
+      "hedge"
+    ]
+  },
+  {
+    "start": 4852.581,
+    "end": 4856.547,
+    "text": "OK. Still not seeing it. So Patrick, could you do the other step?",
+    "speaker": "Unknown",
+    "tags": [
+      "request_action",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 4861.154,
+    "end": 4861.554,
+    "text": "I'm sorry.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4863.217,
+    "end": 4868.024,
+    "text": "Because I can't. The chat box won't show up at the bottom of the screen for some reason.",
+    "speaker": "Unknown",
+    "tags": [
+      "express_concern",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 4871.088,
+    "end": 4877.978,
+    "text": "Let me do this. How about if I send you an email, Mr. Page, with a direct link to it as well? OK. Would that be helpful?",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 4878.86,
+    "end": 4879.761,
+    "text": "It might, yeah.",
+    "speaker": "Unknown",
+    "tags": [
+      "agreeing",
+      "hedge"
+    ]
+  },
+  {
+    "start": 4880.062,
+    "end": 4902.091,
+    "text": " All right, let me try that. Hey Graham, if you go to your view options, you've changed the view option. Go to the view option and put it so that it allows you to see the presentation. Go to side-by-side mode.",
+    "speaker": "Unknown",
+    "tags": [
+      "request_action",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 4903.613,
+    "end": 4904.033,
+    "text": "What now?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "request_action"
+    ]
+  },
+  {
+    "start": 4906.517,
+    "end": 4910.378,
+    "text": "Side-by-side mode.  on your view screen.",
+    "speaker": "Unknown",
+    "tags": [
+      "logistics_info",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 4912.161,
+    "end": 4913.322,
+    "text": "OK, I don't see that either.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 4916.566,
+    "end": 4918.949,
+    "text": "See, Dave, the five Zoom meetings are paying off.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4921.252,
+    "end": 4936.832,
+    "text": "Right. OK, well, I move on. I don't see that either, Dave. All right, well, keep on. We all see what I can do.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4939.327,
+    "end": 4941.234,
+    "text": " Graham, we could email you the link to your email.",
+    "speaker": "Unknown",
+    "tags": [
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 4942.859,
+    "end": 4948.76,
+    "text": "Yeah, I might have to sign off and then come back on again. But try emailing it.",
+    "speaker": "Unknown",
+    "tags": [
+      "logistics_info",
+      "request_action",
+      "hedge"
+    ]
+  },
+  {
+    "start": 4950.205,
+    "end": 4951.53,
+    "text": "We're working on that now, Mr. Page.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "reassure",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 4959.627,
+    "end": 4998.313,
+    "text": " I like the potential to establish a foundation. Are we talking about all of the quadrants right now. I'm sorry I've missed the parameters of this, but I liked that as an opportunity, but I also  want for us to continue to have that conversation about equitable donation. And I know that we've had some of that conversation already, but I think we need to continue to have that conversation. I don't know if that's here. It's obviously not here in this discussion, but I want us to not lose sight of that a la the bunny.",
+    "speaker": "judyle",
+    "tags": [
+      "opinion",
+      "clarify",
+      "follow_up_request",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 5002.78,
+    "end": 5043.685,
+    "text": "Kind of.  piggybacking off that just a little bit. I am excited about the potential of establishing a foundation as well. In the threats category, kind of covered up, I put excuses because I think it's really easy to make excuses. And I think money is something that's an easy, like we had more money, these problems would go away or we could fix them. And I feel like that's  That's definitely not the case. And there's, there are plenty of school divisions that have a lot less resources than us that have much more equitable outcomes. So still appreciate starting a foundation, but to tie into threats. One of the ones that stands out to me is excuses and figuring out what you can do with what you have. I second that.",
+    "speaker": "Unknown",
+    "tags": [
+      "agreeing",
+      "opinion",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 5047.208,
+    "end": 5091.255,
+    "text": " I like rethinking the education model for all students, and I think there are a lot of different directions we can go in with that, which could be everything from year round school, having the schools open year, year round.  to other different models of instruction, of structure overall. I think that's going to be a subject that we're going to need to put quite a bit of work into in 2021.",
+    "speaker": "Unknown",
+    "tags": [
+      "policy_proposal",
+      "prioritization",
+      "opinion"
+    ]
+  },
+  {
+    "start": 5091.556,
+    "end": 5137.51,
+    "text": " The weakness is there's an absolute binding theme there that we're just not, our school system is really good for a lot of our students and not so good for others. That comes down to Katrina's issue of excuses. We have a thousand excuses for why that's true, but we all know it's true.  That from my perspective, that has to continue to be our top priority, that we address that and address it with our staff, address it with our students, our families. And quite frankly, I think communication with parents, that's also a big part of that. I don't think our communications are necessarily reaching out to all.",
+    "speaker": "Unknown",
+    "tags": [
+      "express_concern",
+      "prioritization",
+      "request_action",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5141.557,
+    "end": 5169.893,
+    "text": " Agreed. And I think that our communications, I know that we have translation in a lot of our communications, but I think our communications quite often assume that there is a high literacy at home. It assumes that there is a high, often it assumes that there is a high access to technology and comfort with technology in this language. So I do think that I definitely second the communication with parents.",
+    "speaker": "judyle",
+    "tags": [
+      "agreeing",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 5170.16,
+    "end": 5173.664,
+    "text": " And just because it translates doesn't mean it translates.",
+    "speaker": "Unknown",
+    "tags": [
+      "disagreeing",
+      "clarify"
+    ]
+  },
+  {
+    "start": 5173.684,
+    "end": 5184.999,
+    "text": "Exactly. There are a lot of cultural norms that you might assume that we really don't want to assume necessarily.",
+    "speaker": "sollyhudson",
+    "tags": [
+      "agreeing",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 5185.299,
+    "end": 5235.51,
+    "text": "And so one of my favorite stories is from one of my high school classmates who thought that embarrasado was a cognate.  for being embarrassed, and her host family was very concerned when she said that she was embarrassado, which is pregnant. Yeah, it was very, you know, she assumed it was a cognate. It's not. We have, you know, just because you can translate, you Google translate, doesn't mean that we're reaching  in a way that we need to, and it's gotta be on us. It's gotta be our responsibility, not the responsibility of the people to whom we're not communicating.",
+    "speaker": "Unknown",
+    "tags": [
+      "opinion",
+      "express_concern",
+      "clarify"
+    ]
+  },
+  {
+    "start": 5235.53,
+    "end": 5247.585,
+    "text": "Yeah, I can't remember the number of languages we mentioned in the state of the division. It's like, is it 91 or something like that? 81. 81? Yeah. So we're definitely not translating into 81 languages.",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5259.867,
+    "end": 5305.344,
+    "text": " I'll jump on, the one one I didn't put a sticky note in was in the weakness category. And that brings up one thing which I feel like a lot of times from our conversations we leave out our Spanish speaking population. I know that I'm personally guilty of that a lot. I focus on African-Americans or black students, but we have this other large minority group that I don't know necessarily, maybe I'm just saying my own weakness. I don't know if we focus on them as much as we should in our conversations.  And trying to seem to support that, like some of our biggest drops were, what is the one I'm thinking of where it was? It's like a big drop. It's how our English as a second language students were doing in something.",
+    "speaker": "Unknown",
+    "tags": [
+      "express_concern",
+      "acknowledge",
+      "prioritization",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5307.266,
+    "end": 5337.154,
+    "text": "I agree with you on that, Katrina, because it is our largest minority group. And it is one of the smallest percentage of teachers from that minority group.  You know, and so it's not an either or situation between, you know, minority groups. It's got to be an and. And we've got to make sure that it stays that way for everybody. Right.",
+    "speaker": "Unknown",
+    "tags": [
+      "agreeing",
+      "opinion",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 5337.174,
+    "end": 5384.929,
+    "text": "Yeah, I think we should probably have as one of our goals, making sure that our teaching staff represents our complete student population. Instead of  where we have been focusing, not saying that we have to stop focusing there, but make sure that it really reflects everybody. And then another one, too, switching. The senior exit survey data, how much information are we receiving from that? And how is that data being used? How long has it been in existence?  We've sort of talked about it, but I didn't know we actually had it.",
+    "speaker": "Unknown",
+    "tags": [
+      "policy_proposal",
+      "prioritization",
+      "ask_question",
+      "clarify",
+      "express_concern",
+      "request_action"
+    ]
+  },
+  {
+    "start": 5385.63,
+    "end": 5439.207,
+    "text": "So I can answer that Graham, this is this is actually the first year we've pushed it out to seniors post graduation. We just started leaving their, their K-12 Albemarle email addresses active with last year's class. And so we didn't get a huge response there. But it's a start, you know, we've talked about doing this for a while. And so this was  really year one for for collecting that we hope that builds into a bigger source of feedback for us in the future. One of the things that's interesting to note about that one of the questions we asked our seniors who just graduated are, are you interested in working for Albemarle County Public Schools, and we had about six or seven say yeah please contact me so we're working on some  some reach out to them to build some relationships and, and they kind of run the gamut of the different departments, they want to work in so. So that's something we're hoping to expand upon a bit in the future. Interesting.",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "clarify",
+      "reassure"
+    ]
+  },
+  {
+    "start": 5440.969,
+    "end": 5446.137,
+    "text": "And Pat is the is all that data from the survey disaggregated.",
+    "speaker": "judyle",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 5449.222,
+    "end": 5458.532,
+    "text": " I've got to go back and check, Ms. Lee. It's been a little while since I took a look at that. So I can find that answer and get it to you.",
+    "speaker": "patrickmclaughlin",
+    "tags": []
+  },
+  {
+    "start": 5459.173,
+    "end": 5466.24,
+    "text": "Great, thank you. Yeah, I'd love to see it by various groups and by a feeder pattern, really.",
+    "speaker": "judyle",
+    "tags": [
+      "acknowledge",
+      "request_action",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 5469.964,
+    "end": 5496.511,
+    "text": "And that potential to establish a foundation is really something we should focus on, because that could take care of  some of our in-county needs, things that would be strictly for Albemarle County. I know PEF helps us some, but if we had our own foundation, it would really be great. I know the city has a foundation already, so we need to enter that arena too.",
+    "speaker": "Unknown",
+    "tags": [
+      "policy_proposal",
+      "prioritization",
+      "opinion",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 5498.013,
+    "end": 5576.006,
+    "text": "You know, it's interesting.  somehow confused in terms of the foundations, and I want to pick this up another time, because I know there's the desire to do one regarding PGO contributions, and there's one that appears to be interested in helping families that have been  really hurt with the pandemic and other situations. And so I would love to get some clarification in one of our regular meetings about that. One other thing that I just wanted to throw out is that in the rethinking of the ACPS educational model for all students, I think one of the things there is, and it says it in the lower left-hand corner, we need to probably build some virtual learning in.  at certain levels for more students. We know we've got students doing virtual learning in the high schools already for courses, Chinese, Arabic, other types of courses that we don't offer anywhere in the system that they're already taking and working on getting credit for.",
+    "speaker": "Unknown",
+    "tags": [
+      "follow_up_request",
+      "request_action",
+      "policy_proposal",
+      "clarify",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 5576.026,
+    "end": 5581.052,
+    "text": "I think virtual learning is gonna be something",
+    "speaker": "davidoberg",
+    "tags": [
+      "opinion",
+      "hedge"
+    ]
+  },
+  {
+    "start": 5581.606,
+    "end": 5600.83,
+    "text": " that is proving its worth in some cases and we need to include going forward.",
+    "speaker": "Unknown",
+    "tags": [
+      "policy_proposal",
+      "opinion",
+      "request_action"
+    ]
+  },
+  {
+    "start": 5602.075,
+    "end": 5656.733,
+    "text": " For weaknesses, it looks like you just highlighted the we continue to be played by the opportunity gaps. I would second that. I mean, that is the it's not even an elephant in the room. We all acknowledge it. I mean, the data was not particularly promising in terms of making progress on those the metrics that we had we had called out and I think we  need to do better. I will say I do appreciate the focus on reading. I saw in there about being a reader, how we continue to support that. I'm hopeful that that will be reflected soon in narrowing some of those reading gaps and the PALS assessments, picking up more students. Because I think by the time, others might disagree, but I feel like we have some tracking going on. So by the time the kids get to high school,  And middle school, it's hard to close those gaps. So I like that we've put that focus. I'd like to see that continue in the next budget, that focus on elementary reading.",
+    "speaker": "Unknown",
+    "tags": [
+      "express_concern",
+      "agreeing",
+      "acknowledge",
+      "request_action",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 5656.754,
+    "end": 5720.345,
+    "text": "I don't know if we're at threats, but my threat was somewhat humorous. It was also very, very serious. I think we get distracted a lot. A lot of the time, it feels like we're playing whack-a-mole.  on this job, that it's sort of like one crisis after another, and we have an idea of where we want to go, and then something happens. And, you know, the pandemic is an obvious example of that, but I've been on the board for five years now, and it is not uncommon for us to have, you know, a high goal, a high purpose, and then  something happens and the next three or four meetings are obsessed with that responsiveness. And so the man who chases two bunnies catches neither, right? I think that we just need to be aware of that, that the more diffused our attention is, the less likely we're gonna get anything accomplished.",
+    "speaker": "Unknown",
+    "tags": [
+      "express_concern",
+      "opinion",
+      "prioritization",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 5720.505,
+    "end": 5797.66,
+    "text": "To that point, Dave,  I think one of the things that we don't use enough, and I think we've only got one or two currently, is subcommittees. And to get some members, two or three members to work on. Substantive as opposed to sort of procedural. Correct. And to really put some thought into it and then bring organized  not reports, you know, but organized subject and next steps so that we can go about a lot of these things in an organized manner and stay on subject. And so maybe in each session, the chair asks for the X, you know, subcommittee, what do you have this week?  and then go through the three or four or five of them that there might be. And so we're getting updates and build ourselves up to making decisions based on information given to us by those groups.",
+    "speaker": "Unknown",
+    "tags": [
+      "policy_proposal",
+      "procedural_move",
+      "request_action"
+    ]
+  },
+  {
+    "start": 5801.538,
+    "end": 5859.507,
+    "text": " So just being a little mindful of time here and respectful of the board's time, I think this gave us a great start. This was, I hope that we did what we designed this to do, just to get you thinking about what's important to be thinking about right now as we go into the budget season. What's working well, what opportunities do we have that we might want to develop further in the county? What do we have to watch out for that can be a threat  to the work that we are doing. And so I'm going to stop my share for just a minute. But if you've got your Jamboard open, leave it open because we're going to use the same boards a little bit later in the presentation. And I'm going to turn things over to Maya now so she can take us through the second part of the work session, which is taking some of these ideas and using them to think about budget and budget priorities for the coming fiscal year. So, Maya?",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "give_update",
+      "procedural_move",
+      "request_action",
+      "prioritization",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 5866.844,
+    "end": 6325.932,
+    "text": " Great. Thanks, Pat. And good evening, everyone. For the budget portion for this evening, we've outlined some three high-level goals. They are to review and provide feedback on budget strategies in order to give us direction for a proposed funding request in February, and also to address school board concerns and questions. Many of these goals align with those of the Budget Advisory Committee. So we have invited some members here tonight who  I will introduce to you a little bit later. Also, just a reminder that this meeting is just the first budget input meeting out of future ones. And as you know, we've built in a little bit of extra time this year. The proposed funding requests will be presented in February. So there will be time, especially in January, to continue providing your feedback.  I thought I would start off with an enrollment projection for next year. As you know, this has an impact on both the revenue and the expenditure side. The last few months, we've worked closely with a lot of stakeholders, including principals, the Weldon Cooper Center, the Long Range Planning Advisory Committee, and the leadership to develop an enrollment projection in an unprecedented year where we really  have a lot of uncertainty, but we have landed on something that there's pretty much consensus on, and that is an enrollment of 14,000 students for next year. That's the blue line that you see. The yellow dots over the years you can see is our actual enrollment, and the current year we are using a September 30th enrollment of 13,200 students. I've also added an orange dot kind of at the top  to show that was our projection. So last year at this time, we were projecting growth to 14,200 students. And that growth was only going to continue from there. Our projection in the blue of 14,000 is in line with what Walden Cooper has projected for us as well. And it is a sort of a middle ground. And yes, we will expect to see students returning, but not all. And that's what that represents.  Next, I'll move over to our preliminary revenue forecast. Currently, we're anticipating no revenue increase in the local transfer. And so far this year, the projected local revenues have been on track with what's been budgeted. And right now, there's been really not a lot of new information to really look at any increases for next year.  In January, though, after the real estate assessments, we will have a local revenue forecast that will turn into a local transfer for us. So this number may change in mid to late January. On the state side, we have just recently received the governor's proposed budget for the current biennium. And it is a very positive proposed budget  that we are excited about. We do anticipate based on that proposed budget, I mean, there's still a lot of time between now and by the time it's adopted, but based on that budget, we anticipate seeing about a $5 million increase from the adopted 21 budget to next year's budget. The proposed budget by the governor does include a revision for the current year, as well as projections for the next year. So this increase is not  is not an increase from what we're projecting for this year, but rather what was adopted back in the spring. So that's mostly what this large increase is made up of. As back in the spring, we made some pretty conservative projections about the economy. So about over a little over $2 million of the increase will come from SOQ funding, which includes sales tax revenues.  A little bit under 1 million will come from lottery revenues. And then a little over a million dollars we're expected to see from a hold harmless or a no loss funding. If we base our other revenue streams from the enrollment projection that I just shared with you. There are a few other revenues that we'll see in the school fund, federal revenues and local school earned revenues.  We will probably be projecting lower local school revenues as there are a lot of programs that have been put on hold due to the pandemic. And we are still working through those, but those will not be lowered in any significant way. Switching over to the expenditure side, we've categorized how we're looking  So far, preliminarily, how we're looking at expenditures into these categories. They aren't too different from what you've seen in the past. They're slightly different. As you can see, there's a lot of restoration instead of future growth. I'll go from left to right and briefly describe each of these expenditure considerations so that you have a better understanding of them. First, in the non-discretionary column, every year we have a baseline adjustment.  This is an adjustment, it's typically a savings to account for who's on board now. So the employees who were on our payroll last year have changed between last year at this time to this year. And typically this is a savings because we have new employees on board and typically they're paid at slightly lower rates than those last year because those highest paid employees are retiring. We do anticipate the savings to be  a little bit more than usual, just because we have seen more retirements than we have in past years. We also anticipate seeing a health care rate increase of a significant amount. This is because we did not budget for an increase in plan year 2021, which is the same as calendar year 2021. But we did see an increase in the health care rate in plan year 2021.  Coupled with a potential rate increase in plan year 2022, this will impact our fiscal year 22 budget, and we will have to budget an increase. And then finally, voluntary early retirement incentive program rates, those may increase as well. As I mentioned, we have seen higher rates of retirement during this year. Our next category is operational restoration.  During our revised budget process for FY21, we had to make a lot of reductions. These are all in detail in your FY21 adopted budget. And I still have copies of those if anyone still wants to receive them for reference. We reduced our annual transfer to the Learning Resources Fund. We cut 15 operational positions, both department and instructional.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "request_action",
+      "logistics_info",
+      "acknowledge",
+      "cite_external_source"
+    ]
+  },
+  {
+    "start": 6326.485,
+    "end": 6333.152,
+    "text": " And then we also institute a 5% reduction in operating budgets throughout every department and every school.",
+    "speaker": "davidoberg",
+    "tags": [
+      "policy_proposal",
+      "request_action"
+    ]
+  },
+  {
+    "start": 6334.574,
+    "end": 6546.305,
+    "text": "These could be considered to be restored for the next budget. We also have a category called instructional restoration. As you may recall, we changed our class size ratios in order to accommodate our reduced revenues for the current adopted budget. So this restoration would restore  our ratios of how we allocate FTEs to students. And then we would also restore the special education teacher growth that we were originally planning last year and the ESOL teacher growth that we were originally planning that had to be cut. The next category is compensation, and we have three general categories under that.  One option under compensation is to continue moving forward on the minimum pay rate. Um, this was in order to move last year, we were talking about moving, um, the division to a $15 minimum pay rate, and, um, it came with a pretty large, uh, price tag. But before the pandemic, we were, um, we had enough projected revenues to cover that. Unfortunately, that, um, proposal was taken off the table. Um, so it could be a  possibility to phase into that as much as we could. This next bullet is a small, tiny sliver, less than $100,000, really, to make an administrative change and also to benefit some of our part-time employees. This is to provide health insurance benefits for part-time employees who are 0.5s to 0.69s to a benefit level of 0.7, to sort of band them together to provide them a little bit of a better  health insurance benefit. And we already do this for part-time employees who are 0.7s to 0.99s. They receive health insurance benefits at a rate of a full-time employee. And then finally, of course, we have salary increase for both teachers and classifieds. That would be up for consideration in next year's budget. The last column is new proposals. And this is really just a section of proposals that don't  fit into the other categories. So these are new items that may be considered during the budgeting process. We have a couple here listed already, but again, this is very preliminary and this evening might be a chance to continue adding or asking questions about any proposals we might have. And we'll have plenty of time to talk through these in your breakout groups.  But before we jump into the breakout groups, I wanted to introduce our Budget Advisory Committee. This is a group that was pulled together a couple of years ago by Dr. Haas in order to analyze, evaluate, and advise the superintendent and division staff regarding budgeting practices and priorities from a business perspective. The committee is comprised of business professionals with significant budgeting experience.  Since, as I mentioned, a lot of the goals of this committee align with the goals of this session, Dr. Haas has invited some of them to join you tonight. So if Julian, Gerard, and Paul could turn on your cameras and say a quick hello and introduce yourselves, that would be great.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "request_action",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6546.325,
+    "end": 6604.487,
+    "text": "Good afternoon, everyone. I'm Julian Bivens. I am a resident of Jack Jewett District. So I have the pleasure of knowing intimately  8 o'clock in the morning and from 2 in the afternoon to 4 o'clock in the afternoon, the bus traffic on Lambs Lane. You have really good bus drivers, I can tell you that, because some of the parents who drive on those roads are not very good drivers, and your bus drivers do excellent jobs getting students in and out. I sit on the BOC, which is wonderful because  Every time I say it, it reminds me of Baccalaureate, which is the French degree. I spent a good many years living in France. And let's see. I lost the other thing. My device just went off. OK. I don't know what you are. OK. Oh. And that's it. I've answered all the questions that Maya said that she wants us to.",
+    "speaker": "julianbivins",
+    "tags": [
+      "public_addressing",
+      "give_update",
+      "opinion"
+    ]
+  },
+  {
+    "start": 6609.243,
+    "end": 6650.077,
+    "text": " All right. Thanks, Julian. And my name is Gerard Smith. Um, so I am born and raised, uh, here in Albemarle County, um, out in Barbersville in the Rovina district. Um, so graduates of the Albemarle County public school system from top to bottom, Dr. Haas actually was my principal back in the day, um, when I was at Albemarle high school. So, um,  here trying to get back, stay involved. I'm currently in the finance, I'm in the field of finance as a financial forecaster, but always trying to get back to the school system and keep us on the right track in terms of budgeting, so.",
+    "speaker": "jerrodsmith",
+    "tags": [
+      "public_addressing",
+      "give_update",
+      "prioritization",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6653.884,
+    "end": 6714.568,
+    "text": "Hi, I'm Paul Matherne. I think we've lived in Albemarle County now for, this is our 33rd year,  I work at the University of Virginia in the School of Medicine and also at the Darden School of Business. We had four children go through Albemarle County Schools, all of whom are grown and out of the house now. Actually, Matt was principal when our youngest two went through Albemarle, and we actually lived next door to Matt for a little bit. So I was just looking up a long time ago in 2004,  to 2006, I was a member of the school board's long range planning committee. And for one brief terrifying year, I was on a redistricting committee. So I gave that up for a long time ago. So I'm happy to be on this on this committee and feel very strongly about public education and especially Albemarle County Schools. We live in early spell now.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "opinion"
+    ]
+  },
+  {
+    "start": 6716.55,
+    "end": 6793.328,
+    "text": "Thank you.  So we are going to break you all up into three groups for most of the remainder of the session. So you can really jump into the items that were discussed, mostly with a focus on expenditure considerations. And then we will come back again to report out what was discussed in your small groups. Some guiding questions to talk about in your groups. We will have a facilitator with a Jamboard in each group.  But some questions to get you started are, what are the guiding principles for these areas? And by the areas, I mean those colored categories that are presented by expenditure. How do you want to go about tackling those areas? What do you prioritize? What are your must-have items for FY22? There's clearly not unlimited resources to do everything, but we can do something. So what would you like to see we move forward on?  And then what are some other priorities for you that we may not have listed? What are other ideas or maybe even reductions that you can think of as we go into this process? It would be great to hear from you. So are there any questions before we jump out into groups?",
+    "speaker": "mayakumaza",
+    "tags": [
+      "public_addressing",
+      "logistics_info",
+      "request_action",
+      "prioritization",
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 6798.974,
+    "end": 6805.08,
+    "text": "Mr. Rivens? Will you be putting the guiding principles, will they flow with us?",
+    "speaker": "julianbivins",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "clarify"
+    ]
+  },
+  {
+    "start": 6805.735,
+    "end": 6815.63,
+    "text": " We will, the facilitators will help make sure you have this. Can you remind me what the Learning Resources Fund was?",
+    "speaker": "Unknown",
+    "tags": [
+      "reassure",
+      "logistics_info",
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 6816.671,
+    "end": 6850.542,
+    "text": "That is our, formerly known as the Textbook Replacement Fund. It is a special revenue fund that typically sees an annual transfer of about half a million dollars to support division-wide learning materials for the division.  Okay, if there's nothing else, Ms. Johnston, would you be able to pop us into our groups and keep us there until about 545? Yes, I will hit the button now.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "give_update",
+      "request_action",
+      "logistics_info",
+      "procedural_move",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 6886.668,
+    "end": 6935.71,
+    "text": " OK, I think we we are group one. We are still in the main room. Just as a reminder, we are going to bring the board up and I'm going to sit back and let you guys chat. As a reminder, the first thing we want to do to get some feedback in is some guiding principles on these big buckets. So, for instance, a guiding principle could be make sure you restore everything first.  I don't know if that's a priority or not. Or in compensation, it could be make sure we are matching the state budget. Those are very foundational principles. So before we get into the weeds of it, let's just talk about some guiding principles as Matt's considering weighing these items.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move",
+      "prioritization",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 6954.961,
+    "end": 6957.765,
+    "text": " So I have a question.",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question"
+    ]
+  },
+  {
+    "start": 6959.067,
+    "end": 6974.168,
+    "text": "I'm just gonna just, I'm obviously very new to this. These buckets, I was just trying to understand operational restoration versus instructional restoration. Distinguish them for me.",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "clarify",
+      "hedge"
+    ]
+  },
+  {
+    "start": 6974.688,
+    "end": 7033.399,
+    "text": " Yeah, it's a good question. We we made a lot of cuts last year, right? And we try to organize them in a way. The instructional ones are more related to growth and we downsize what our class size ratio is and a number of teachers to students. The operational side does have some instructional components. Some of those operational FTEs wore our AP interns and instructional coaches. There were some instructional pieces to that, but they are more.  um established positions and our operating budgets but the instructional restoration are more um we changed our class size we didn't fully find out but i wouldn't spend i wouldn't worry too much about no no i i just want to i just want to throw out there just one way at least that i'm thinking about this in in my head and that is and you know again this is my first meeting you guys have probably gals have probably already done this but it's i'm having a hard time",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "give_update",
+      "clarify",
+      "opinion",
+      "hedge",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 7034.088,
+    "end": 7150.868,
+    "text": " thinking about the buckets without thinking about the goal. And to me, especially given what's just happened in the past year and quite honestly, what's been a fortuitous budgetary gift in that there's actually more money than folks thought was gonna be there because revenue was much better than projected.  It seems to me like the driving premise of this has got to be to, and I see under proposals, learning recovery. There's been a gap that's been widened this year. Not everyone has been able to learn remotely. And I just think the disparities are just going to be amplified. And so to me, it's like, which of these operational instruction or compensation is going  or is it a special program that's gonna address the gap that happened? Then secondarily, with COVID, it has just been highlighted to the country, the disparities, and as a healthcare provider, it's been really highlighted on that, but I've also read a lot about the disparities in education that have been highlighted by COVID.  So moving forward, especially if there's a brief amount of windfall, how are we gonna use that money to address the ongoing gaps? And so as I look at these things, I don't know which of these buckets you all would put money in to address some, what I think are just huge issues that need to be considered.  And so I think that's some great thoughts.",
+    "speaker": "Unknown",
+    "tags": [
+      "express_concern",
+      "prioritization",
+      "policy_proposal",
+      "ask_question",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7150.908,
+    "end": 7169.604,
+    "text": "And I would say there are so huge that that's why I moved the box to the top. Maybe there's some overarching guiding principle. I wouldn't worry about which bucket that fits in. But an overarching guiding principle is this budget should be focused on existing gaps and increased gaps. Or you can be more articulate than that.",
+    "speaker": "Unknown",
+    "tags": [
+      "opinion",
+      "prioritization",
+      "policy_proposal",
+      "clarify"
+    ]
+  },
+  {
+    "start": 7169.624,
+    "end": 7195.939,
+    "text": "Existing gaps and COVID gaps. Because I think there are some COVID gaps that happened, which might be  relatively not easy, nothing is easy, but they would have a different solution than dealing with some of the entrenched gaps in the educational system that's not just Albemarle County. You know, Albemarle County will come up with great ways to solve it.",
+    "speaker": "Unknown",
+    "tags": [
+      "express_concern",
+      "opinion",
+      "clarify",
+      "reassure"
+    ]
+  },
+  {
+    "start": 7205.42,
+    "end": 7219.227,
+    "text": " lisa smith, PB, Lupita D Montoya, PB \u2013 she, her, hers",
+    "speaker": "Unknown",
+    "tags": [
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 7219.882,
+    "end": 7267.573,
+    "text": " for post-education, post-COVID education. I mean, paying our teachers more and having smaller class sizes and paying our staff more, all are in the service of equity and learning recovery, it seems to me. And it seems to me that, I mean, one of the challenges I have in the budgets from year to year, and I've been on here a while, but is, and I know we're in the process of developing our five-year strategic plan,  But the budgets are, I won't say ad hoc, but they are year by year. And we're going to invest this much in teacher salaries for the next five years and get them to this point. Or we're going to reduce our class. I mean, I don't know how to get there, but yes.",
+    "speaker": "kateacuff",
+    "tags": [
+      "policy_proposal",
+      "express_concern",
+      "prioritization",
+      "hedge"
+    ]
+  },
+  {
+    "start": 7270.945,
+    "end": 7319.65,
+    "text": " Catherine, classroom teachers, ESL teachers, special education teachers, and learning recovery would all be moving into that, into both of those new boxes, equity and learning recovery, and addressing some of the gaps that COVID has exposed. Because we really need to work with our  maybe our students who would be most likely affected by some of the things that have happened. And the ESAR teachers and the special ed teachers, we really need to make sure that we are sort of filling in those positions, that we aren't losing any of those positions because they are extremely important to our kids. And so I think they would also really work into that learning recovery part.",
+    "speaker": "Unknown",
+    "tags": [
+      "express_concern",
+      "policy_proposal",
+      "request_action",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 7322.785,
+    "end": 7353.147,
+    "text": " I hate to even ask this question, Rosalyn, but we are all assuming that we're snapping back to normal next September. I mean,  that were gung-ho, stage five, everything's hunky-dory, and now we're just going to- We will not be back to normal in September. I don't, that's what I, that was my point is that this is built on that premise, isn't it? Don't we have to build in some wiggle room or no, Matt?",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "express_concern",
+      "clarify",
+      "hedge",
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 7353.447,
+    "end": 7403.279,
+    "text": " We're not we're not assuming we'll be back all the kids back in the buildings business as you okay good I just we had not made that explicit and I'm assuming me you know hopefully assuming maybe at some point during the school year but yeah not in the fall right yeah  But even if we aren't back to normal, I think with stage four, there were some concerns being expressed that we were losing some of our specialists. And I'm not sure whether the special ed teachers and the ESOL teachers were some of the ones that we might lose. But even if we aren't back to normal,  I think in order to move back toward normal, we would have to make sure that we are trying to do as much as possible to bring in those two groups, to increase those two groups.",
+    "speaker": "Unknown",
+    "tags": [
+      "express_concern",
+      "policy_proposal",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 7403.7,
+    "end": 7421.018,
+    "text": "Yeah. And Graham, just to clarify, with stage four, it's not about cutting staffing or losing people. They would actually be providing classroom instruction for more students. It's just a shift in purpose temporarily.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "clarify",
+      "reassure"
+    ]
+  },
+  {
+    "start": 7421.47,
+    "end": 7431.083,
+    "text": " Okay, so all of the reading interventionists would still be working on reading, but maybe with a large group instead of just a small, okay.",
+    "speaker": "Unknown",
+    "tags": [
+      "clarify",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7431.484,
+    "end": 7440.977,
+    "text": "Yeah, they'd be teaching, yeah. Temporarily. Temporarily, yeah, but we're not, I want to assure you, we're not reducing outside the budget cycle.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "clarify",
+      "reassure"
+    ]
+  },
+  {
+    "start": 7440.997,
+    "end": 7446.685,
+    "text": "Right, because that, you know, keeps cropping up as something that some of our teachers are concerned about.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "express_concern",
+      "hedge"
+    ]
+  },
+  {
+    "start": 7447.289,
+    "end": 7448.59,
+    "text": " I understand that.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7448.711,
+    "end": 7472.436,
+    "text": "So we have, I think, only about 10 more minutes. So let's move on from guiding principles to talking about some of these items. Before we start, the task is to identify those must haves. But before we do that, are there items that you would like to add to this specific, either a new proposal or something more specific in any of these categories?",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "ask_question",
+      "request_action",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 7483.722,
+    "end": 7550.838,
+    "text": " So I know that as we look at the expansion of our culturally responsive teaching model, we're going to have to look at either adding staff or looking at shifting staff in order to accommodate our needs. We have submitted a proposal  to our HR department that effective immediately for all new hires moving forward, they would be required to go through our micro credential or certification process within three years. So that is going to more than double the number of folks that we have to train and run through our certification process.  And it's going to be very challenging for us to meet the needs for the continuous growth of the CRT program without some sort of expansion.",
+    "speaker": "Unknown",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "express_concern",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 7556.604,
+    "end": 7563.291,
+    "text": "So is that a new category to increase equity specialist?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 7569.397,
+    "end": 7585.781,
+    "text": " I would not say equity specialist resources to deliver equity and culturally responsive and anti-racism initiatives. OK.",
+    "speaker": "Unknown",
+    "tags": [
+      "clarify",
+      "opinion",
+      "disagreeing"
+    ]
+  },
+  {
+    "start": 7586.462,
+    "end": 7592.13,
+    "text": "I was typing as you were speaking there, Bernard. Sorry. I said add or realign positions to support CRT expansion.",
+    "speaker": "Unknown",
+    "tags": [
+      "interrupt_overlap",
+      "acknowledge",
+      "clarify",
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 7592.952,
+    "end": 7593.172,
+    "text": "Yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 7593.893,
+    "end": 7615.72,
+    "text": "OK.  Because when Bernard starts speaking, I was thinking about our courageous conversations, work sessions, and how we have to make sure that we think of what those work sessions have told us, that we always have to keep in mind when we are looking at things. So I'm glad you brought that point up.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 7616.661,
+    "end": 7624.55,
+    "text": "So that could be a priority that you have not listed, which is to maintain our focus on anti-racism and equity.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "prioritization",
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 7624.57,
+    "end": 7624.75,
+    "text": "Yeah, OK.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 7625.54,
+    "end": 7642.328,
+    "text": " that we don't have the sticky without priority. I think that I realized that last year, the minimum pay had to be shelved for for appropriate reasons.",
+    "speaker": "Unknown",
+    "tags": [
+      "prioritization",
+      "acknowledge",
+      "hedge",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 7642.769,
+    "end": 7674.97,
+    "text": "But I would certainly try and make that a priority again this year.  I don't know exactly what formula. I mean, there are smarter people that can deal with that, but I think that would be an important thing to kind of move to the front of the line. I think it's perfectly reasonable to have entry level positions, but people who've been working for the school system for, you know, more than a year should be moving toward a, moving toward a ways that they can survive on in Albemarle County.",
+    "speaker": "Unknown",
+    "tags": [
+      "prioritization",
+      "policy_proposal",
+      "hedge",
+      "defer_to_expert",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 7677.667,
+    "end": 7688.331,
+    "text": " I agree. I mean, I think we kind of realized during the pandemic, you know, the most essential people were often the ones that were making under $15 an hour. And that was just crazy.",
+    "speaker": "Unknown",
+    "tags": [
+      "agreeing",
+      "opinion",
+      "express_concern",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7690.696,
+    "end": 7707.476,
+    "text": "It's just, you know,  Again, I'm not saying it's an across the board, but if you have an entry-level position, you ought to expect that a year later, you're going to move up. And if you're still working within the school system at two years, you've moved to a level where you could support yourself.",
+    "speaker": "Unknown",
+    "tags": [
+      "opinion",
+      "hedge"
+    ]
+  },
+  {
+    "start": 7710.802,
+    "end": 7716.752,
+    "text": "What other items would you identify as green or must-haves? And we were asked to identify five.",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "follow_up_request",
+      "clarify"
+    ]
+  },
+  {
+    "start": 7718.403,
+    "end": 7723.29,
+    "text": " Yeah, I would like ESOL teachers and special education teachers to be in that group.",
+    "speaker": "Unknown",
+    "tags": [
+      "request_action",
+      "prioritization",
+      "opinion"
+    ]
+  },
+  {
+    "start": 7724.792,
+    "end": 7725.913,
+    "text": "And classroom teachers.",
+    "speaker": "Unknown",
+    "tags": [
+      "clarify"
+    ]
+  },
+  {
+    "start": 7726.354,
+    "end": 7731.141,
+    "text": "And classroom teachers too. That would bring us up to five, unless we consider all of them together.",
+    "speaker": "Unknown",
+    "tags": [
+      "clarify",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 7731.361,
+    "end": 7734.846,
+    "text": "Well, I would love to see a teacher salary increase.",
+    "speaker": "kateacuff",
+    "tags": [
+      "opinion",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 7735.567,
+    "end": 7735.787,
+    "text": "Yeah.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 7738.03,
+    "end": 7743.578,
+    "text": "And that would include everybody. Is that correct, Dr. Acuff? Is that what you're saying? Everyone?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 7743.598,
+    "end": 7743.898,
+    "text": "Yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 7744.98,
+    "end": 7747.363,
+    "text": "Yes. Thank you, Bernard.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7751.647,
+    "end": 7753.47,
+    "text": " Okay. Is that giving us six things?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 7754.311,
+    "end": 7755.292,
+    "text": "We've got at least six.",
+    "speaker": "kateacuff",
+    "tags": [
+      "give_update",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 7756.614,
+    "end": 7761.181,
+    "text": "And you five. You followed the directions. Well, we, we expected you to break some rules. So you're.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "acknowledge",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 7762.403,
+    "end": 7770.855,
+    "text": "Good because I wouldn't want to cut out any of them. They all important. Can't you make that blue one green too, to show that it's not in a difference. In that.",
+    "speaker": "Unknown",
+    "tags": [
+      "express_concern",
+      "request_action",
+      "ask_question"
+    ]
+  },
+  {
+    "start": 7771.376,
+    "end": 7784.954,
+    "text": "Well, the technically we want to see which ones were added.  I only have limited colors. Make it bright.",
+    "speaker": "Unknown",
+    "tags": [
+      "request_action",
+      "clarify",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 7785.635,
+    "end": 7791.002,
+    "text": "Right, right. The shooting is still there. OK. All right.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 7791.022,
+    "end": 7828.144,
+    "text": "I'd like to have some more information about redirection of SRO funds. We had, what, $250,000 up to that if we don't do our traditional SROs. And are we talking about where that funding  could should go correct yep staff is developing a proposal on that as far as the school i'm not missing the right terminology school safety positions in lieu of the sro um okay that would be okay and that report should be what in gen in uh",
+    "speaker": "kateacuff",
+    "tags": [
+      "request_action",
+      "ask_question",
+      "follow_up_request",
+      "clarify"
+    ]
+  },
+  {
+    "start": 7828.732,
+    "end": 7840.782,
+    "text": " It'll be part of the budget conversations as a proposal because it's a realignment of funds and there's some opportunities to send more if necessary.",
+    "speaker": "Unknown",
+    "tags": [
+      "policy_proposal",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 7843.93,
+    "end": 7845.694,
+    "text": "We have about five more minutes.",
+    "speaker": "Unknown",
+    "tags": [
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 7854.365,
+    "end": 7875.102,
+    "text": " I like everything that we have so far. I mean, if you really stick to, you know, if the goal is around equity and addressing gaps, I think, you know, these are some very important ways to do that.",
+    "speaker": "Unknown",
+    "tags": [
+      "agreeing",
+      "opinion",
+      "reassure",
+      "prioritization"
+    ]
+  },
+  {
+    "start": 7875.162,
+    "end": 7893.964,
+    "text": "I mean, fortunately, overall, the school system does well.  And there is nothing wrong with focusing to bring everyone up to the same level. It's not going to, you know, it's not going to decrease the level of others, but it's going to be a better system if everyone's performing at the same level.",
+    "speaker": "Unknown",
+    "tags": [
+      "reassure",
+      "opinion",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7897.129,
+    "end": 7897.45,
+    "text": "True.",
+    "speaker": "robbell",
+    "tags": [
+      "agreeing"
+    ]
+  },
+  {
+    "start": 7907.048,
+    "end": 7917.179,
+    "text": " Remind me, Rosalyn, the operational restoration, the operating budgets, all the departments were asked to cut 5% last year?",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 7917.699,
+    "end": 7921.784,
+    "text": "Yes. All departments and schools.",
+    "speaker": "Unknown",
+    "tags": [
+      "clarify",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 7924.466,
+    "end": 7971.07,
+    "text": "See, I think you have to be very careful personally before you just say, oh, put it back. Because 5% may have been devastating to one area,  And another area was like, we didn't miss it. And so I just, I mean, you do better with constrained resources. You have to be more efficient. You begin to get innovative. And so I, yes, I would evaluate the impact before I restored. And I would make somebody come back and say, what specifically are you going to do  that's gonna improve the metrics that we judge your area on with this 5%. I wouldn't give it back automatically.",
+    "speaker": "Unknown",
+    "tags": [
+      "express_concern",
+      "request_action",
+      "follow_up_request",
+      "prioritization",
+      "policy_proposal"
+    ]
+  },
+  {
+    "start": 7972.531,
+    "end": 7998.559,
+    "text": "I mean, I generally agree with that. I do know the 5% across the schools, our schools vary enormously. And one of the schools in my district is Greer, which has the highest poverty rate and the most number of, the highest percentage of English language learners.  And they have the highest need for additional funds. That would be easy to justify.",
+    "speaker": "kateacuff",
+    "tags": [
+      "agreeing",
+      "give_update",
+      "opinion"
+    ]
+  },
+  {
+    "start": 7998.6,
+    "end": 8003.126,
+    "text": "Their PTO raises about $1,200 a year.",
+    "speaker": "Unknown",
+    "tags": [
+      "give_update",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 8003.807,
+    "end": 8014.181,
+    "text": "And if you go to some of the wealthier schools, it's $45,000 a year. So they're able to supplement that. So I would like some greater differentiation across the schools.",
+    "speaker": "kateacuff",
+    "tags": [
+      "policy_proposal",
+      "express_concern",
+      "opinion"
+    ]
+  },
+  {
+    "start": 8015.142,
+    "end": 8063.742,
+    "text": "It's time to end that differentiation.  It is time to the central administration to backstop that. I'm not saying take away from Greer to give to somebody else, but it is no longer acceptable in 2020 just because one area is affluent and has parents that can give and volunteer to have a school have more than others. That is just, that is propagating the problems that we have.  And if we have budget opportunity now to change that, I think now is the time to say that's not possible anymore. But that's just me. Our operational budgets are differentiated with the free and reduced lunch component.",
+    "speaker": "Unknown",
+    "tags": [
+      "policy_proposal",
+      "express_concern",
+      "request_action",
+      "opinion"
+    ]
+  },
+  {
+    "start": 8063.762,
+    "end": 8068.549,
+    "text": "But this, again, is an opportunity to reevaluate if they're differentiated enough.",
+    "speaker": "Unknown",
+    "tags": [
+      "request_action",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 8068.569,
+    "end": 8101.57,
+    "text": "Right. OK, but when we were talking earlier about the foundation, I think one thing that that foundation at some point  had been sort of considered as being able to help would be the discrepancies between the PTOs and the different schools. So could we add another proposal there of like some startup budget to either implement the foundation or some way of studying how we should implement foundations that could take care of some of the problems like inequities in different schools, along with other things.",
+    "speaker": "Unknown",
+    "tags": [
+      "policy_proposal",
+      "request_action",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 8108.772,
+    "end": 8137.446,
+    "text": " I mean, one of the things that a parent at Greer did is do a GoFundMe page to raise $5,000. And they are using that for gift cards to help the students' families buy groceries or a winter coat or that. I mean, we can't solve all of those issues, but we could perhaps put our thumb on the scale a little bit more.",
+    "speaker": "kateacuff",
+    "tags": [
+      "give_update",
+      "request_action",
+      "express_concern",
+      "hedge"
+    ]
+  },
+  {
+    "start": 8139.383,
+    "end": 8144.21,
+    "text": " Yeah, because when you compare that to a huge amount of money for a playground.",
+    "speaker": "Unknown",
+    "tags": [
+      "express_concern",
+      "opinion"
+    ]
+  },
+  {
+    "start": 8144.871,
+    "end": 8147.675,
+    "text": "Yeah, the elevated fitness track.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "clarify"
+    ]
+  },
+  {
+    "start": 8147.715,
+    "end": 8148.476,
+    "text": "Yeah, the difference.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "clarify"
+    ]
+  },
+  {
+    "start": 8150.459,
+    "end": 8154.645,
+    "text": "Right.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 8154.665,
+    "end": 8166.762,
+    "text": "So again, we're in the main room, so I imagine people are going to start joining us back. OK. OK. Thank you. Appreciate your time.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "logistics_info",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 8166.782,
+    "end": 8172.111,
+    "text": "Hey, Rosalyn. Didn't see you earlier.  Bernard, I've seen all sorts of people I didn't see earlier.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 8177.521,
+    "end": 8178.583,
+    "text": "Did you guys see my bunny?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 8181.749,
+    "end": 8184.234,
+    "text": "You mean on the first screen, or you got another one?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 8186.819,
+    "end": 8192.83,
+    "text": "On the first screen. Oh, OK. Now it's by the money, the dollar signs. All right.",
+    "speaker": "Unknown",
+    "tags": [
+      "clarify",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 8197.838,
+    "end": 8201.123,
+    "text": " A quick question, Bernard, do we have an agenda for tomorrow?",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "request_action"
+    ]
+  },
+  {
+    "start": 8202.044,
+    "end": 8206.81,
+    "text": "You have a PowerPoint in an email that was recently sent.",
+    "speaker": "Unknown",
+    "tags": [
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 8207.231,
+    "end": 8209.815,
+    "text": "Ah, OK. Pretty recently then. OK.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 8209.975,
+    "end": 8212.739,
+    "text": "There's no homework, but just to review and just prepare.",
+    "speaker": "Unknown",
+    "tags": [
+      "clarify",
+      "request_action"
+    ]
+  },
+  {
+    "start": 8213.86,
+    "end": 8215.002,
+    "text": "Good. Thank you. And I have good news.",
+    "speaker": "julianbivins",
+    "tags": [
+      "acknowledge",
+      "give_update"
+    ]
+  },
+  {
+    "start": 8215.302,
+    "end": 8218.987,
+    "text": "I can actually attend tomorrow because my trial got settled.",
+    "speaker": "Unknown",
+    "tags": [
+      "give_update",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 8219.007,
+    "end": 8221.271,
+    "text": "Oh, wow. OK, we'll be glad to have you.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "reassure"
+    ]
+  },
+  {
+    "start": 8223.674,
+    "end": 8225.196,
+    "text": "I'm glad my trial got settled.",
+    "speaker": "Unknown",
+    "tags": [
+      "opinion"
+    ]
+  },
+  {
+    "start": 8226.458,
+    "end": 8229.463,
+    "text": " That means we'll have to extend the meeting for another 30 minutes.",
+    "speaker": "Unknown",
+    "tags": [
+      "logistics_info",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 8235.592,
+    "end": 8246.909,
+    "text": "Bernard, I feel like I haven't seen you in forever. Good to be seen. I used to see your wife all the time at the gym, but weird times we're living in.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "public_addressing",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 8250.754,
+    "end": 8251.596,
+    "text": "Who are we waiting for?",
+    "speaker": "patrickmclaughlin",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 8252.377,
+    "end": 8254.44,
+    "text": "Yeah, who? Is there one group that's missing?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 8255.5,
+    "end": 8259.025,
+    "text": " Oh, I think everyone's back now. Everyone should be back.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "public_addressing",
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 8261.448,
+    "end": 8262.589,
+    "text": "I'll come back, everyone.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 8263.671,
+    "end": 8284.157,
+    "text": "If we could just have a board member report out just in a couple of minutes. I know that was brief, but again, this was preliminary input. If you could report out sort of what your group discussed for the benefit of everyone else, that would be great. We'll start with group one, and I will share their board.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "request_action",
+      "procedural_move",
+      "logistics_info",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 8284.897,
+    "end": 8285.738,
+    "text": " Oh, good. OK.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 8291.406,
+    "end": 8293.028,
+    "text": "Katrina, do you want to start or do you want me to?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 8293.449,
+    "end": 8294.611,
+    "text": "John, I'm happy to let you do it.",
+    "speaker": "Unknown",
+    "tags": [
+      "defer_to_expert",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 8295.392,
+    "end": 8404.037,
+    "text": "OK. We had a pretty interesting conversation in terms of prioritization and in terms of strategic budgeting. The subject of zero-based budgeting  and zero-based budgeting version two, which was doing different departments at different years, so to have that work over time. Those subjects were raised. We talked about salary increases, both the prioritization of  the minimum pay raise for people who are currently under $15 an hour, you know, as a priority, and the salary increases, which would include that as a broader subject. ESOL teachers, you know, that we were looking to increase them last year, and the, you know,  You know, and then that got cut back and we know that's a, one of our constituencies that's growing. Operating budgets, we threw in there because it was so broad that we just wanted to, we figured we've got to, we as a board need to not be micromanaging what the,  what the superintendent is recommending in his funding request. But we sure would like to understand and see what's being put back in to the budget that might have been taken out before.",
+    "speaker": "Unknown",
+    "tags": [
+      "give_update",
+      "prioritization",
+      "policy_proposal",
+      "express_concern"
+    ]
+  },
+  {
+    "start": 8406.161,
+    "end": 8423.933,
+    "text": "Question. What's on those two, three pink ones? It looks like a hat.  OSBT, Dave Kuntz \u2014 He, Him, His OSBT- Dave Kuntz \u2014 He, Him, His",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "clarify"
+    ]
+  },
+  {
+    "start": 8424.655,
+    "end": 8453.262,
+    "text": " is anybody's guess. Question, what is the cost of raising the minimum wage? Because we couldn't remember or I couldn't remember the amount that it was costing us in last year's budget to make the jump to $12.75 or $13.25, and then add on the rest. We thought it was around $4 million, but weren't sure. And the other one says, questions?",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "request_action",
+      "express_concern",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 8455.486,
+    "end": 8460.802,
+    "text": " How many of our lowest paid employees have children, grandchildren? Yes, yes, yes, yes.",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "request_action"
+    ]
+  },
+  {
+    "start": 8460.822,
+    "end": 8461.324,
+    "text": "Right.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 8462.909,
+    "end": 8464.012,
+    "text": "Better eyes than I have.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "hedge"
+    ]
+  },
+  {
+    "start": 8466.54,
+    "end": 8466.66,
+    "text": "Right.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 8477.879,
+    "end": 8506.435,
+    "text": " Are you good, Mr. Alcaro, with your summary? I am done. Also, I just see that learning recovery was included in that as well. Sorry. Obviously, my eyes are fading on me. Because that's something we have to make a real determination of how much learning has been lost and how we can get it back. Strategies for that.",
+    "speaker": "Unknown",
+    "tags": [
+      "ask_question",
+      "procedural_move",
+      "express_concern",
+      "request_action"
+    ]
+  },
+  {
+    "start": 8508.035,
+    "end": 8514.767,
+    "text": " Thank you. We will move on to group two next. Mr. Oberg.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 8519.295,
+    "end": 8526.668,
+    "text": "I just want to say for the, for the record that I one knows goes and it wasn't observed.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "clarify"
+    ]
+  },
+  {
+    "start": 8526.85,
+    "end": 8528.792,
+    "text": " It's not recognized by this committee.",
+    "speaker": "judyle",
+    "tags": [
+      "procedural_move",
+      "clarify"
+    ]
+  },
+  {
+    "start": 8532.497,
+    "end": 8613.902,
+    "text": "The first thing we talked about was the minimum pay raise salary increase. The way I put it was I want to put back what we promised our employees. And we certainly didn't take it away from them intentionally. It was obviously unplanned because of the pandemic. But I think we owe it to them to start with the perspective that that's where we're starting.  Um, we talked about, you know, the ESL teachers and the, the special education, um, because we think that those are the two of the groups that might've been most impacted, uh, by the pandemic and, uh, might be the, the places we need really to address going forward. Um, and we talked about, um, assessing the students, not just academically, but, um,  you know, emotionally, developmentally, even physically, to make sure that they are where they need to be in order to advance. And I raised the issue, and I will continue to raise it, even though I know people get upset about it. Not the board, but some of the public doesn't like it. But I think that we have to be prepared to offer our parents the opportunity to have their child held back if their child did not get what they needed this year  Because otherwise we're just advancing for the sake of advancement.",
+    "speaker": "Unknown",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "prioritization",
+      "express_concern",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 8618.669,
+    "end": 8637.958,
+    "text": "I will also mention that we talked about the fact that our job is to present a needs-based budget. And so if the minimum pay rate or other things may seem difficult to ask for, we still have the responsibility to make that ask.",
+    "speaker": "judyle",
+    "tags": [
+      "clarify",
+      "request_action",
+      "reassure"
+    ]
+  },
+  {
+    "start": 8638.681,
+    "end": 8657.44,
+    "text": " We've already made the arguments. My frustration is like we put so much energy and so much to get where we needed to be. I don't want to start at ground zero again and go to HR and say, well, this is our group. And we know what the answer is. We should just do it.",
+    "speaker": "Unknown",
+    "tags": [
+      "express_concern",
+      "request_action",
+      "opinion"
+    ]
+  },
+  {
+    "start": 8661.364,
+    "end": 8664.587,
+    "text": "All right. Thank you. And we'll move on to group three.",
+    "speaker": "mayakumaza",
+    "tags": [
+      "acknowledge",
+      "procedural_move"
+    ]
+  },
+  {
+    "start": 8672.6,
+    "end": 8759.575,
+    "text": " You need a volunteer, Maya? That would be great, thanks. We had overarching principles of equity and learning recovery, which is clearly targeting, addressing the existing gaps and the COVID gaps. And we use that lens to look at all of the different proposals. So we looked  A lot of it was staffing, instructional restoration, all three that others have talked about. And we also looked at minimum pay rate and salary increase. We talked about the minimal pay rate in terms of maybe after the first year, one of the formulas that we looked at last year. If someone has been there a year, OK, but then after that, they have a pathway to minimum  or maybe we can afford to do that. But it was all focused on keeping our teachers and staff in a strong position so we can accomplish our overarching goal. We did talk briefly about operating budgets. And those, if you all recall, were 5% across the board, all departments and all schools. Wondering whether we should tease that apart a bit in terms of  schools versus everything else, or even within schools. But we didn't get any further than that.",
+    "speaker": "kateacuff",
+    "tags": [
+      "ask_question",
+      "give_update",
+      "policy_proposal",
+      "prioritization",
+      "follow_up_request"
+    ]
+  },
+  {
+    "start": 8763.099,
+    "end": 8823.279,
+    "text": "And maybe to add in, we had two additional ones. One was to add, in light of making sure that we continue with anti-racism policy in our CRT training, we realized that we probably need some extra staff, possibly,  in Dr. Harrison's equity team, equity specialist. So we added that as maybe another possibility. And also we talked about maybe a foundation that might be able to address some of the problems that we can see within the county, whether or not it's inequities and  PTOs or anything else. So we just thought about that foundation as being something that could be pretty broad. And we thought about having some startup funds to sort of start the foundation or investigate a foundation for the county. So those were two add-ons that we had.",
+    "speaker": "Unknown",
+    "tags": [
+      "give_update",
+      "policy_proposal",
+      "request_action"
+    ]
+  },
+  {
+    "start": 8827.023,
+    "end": 8844.027,
+    "text": "Thank you. I'm impressed that by the results of the Jamboard, I really wasn't sure.  end on anything, but it seems to be clear that you definitely have some priorities in mind and that will help us move forward. Dr. Haas, do you want to add anything or close us out?",
+    "speaker": "mayakumaza",
+    "tags": []
+  },
+  {
+    "start": 8844.929,
+    "end": 9024.835,
+    "text": "Oh, yes, I do. Actually, I've been taking some notes because I just want to say I really am starting to see alignment from my seat. It's no coincidence.  set in on the strategic planning community meeting on Tuesday night, and they were talking about many of the things that you were just talking about right now. So they're not off in another solar system from where you are. The conversation we had with the budget advisory team this afternoon, whose members attended tonight, and I really appreciate you all  hanging around and joining those conversations. And it was very valuable. But the conversation we had with that team was aligned with what we're talking about. We had a project management oversight committee meeting today to look at one project for the coming year. And that is COVID recovery with equity.  and the conversation we have at the staff level with the cabinet and the project management oversight team was the same conversation that we're having. Everyone in all three of the groups that I joined, you talked about different ways of going about tackling the key themes, but the themes are really coalescing and are the same.  From my position, watching that happen and then knowing that we were gaining a great deal of input from the school board prior to.  of bringing a spending plan at the end of January and early February, it really helps me have a great deal of confidence in knowing what your priorities are and what you would like us to do. And it becomes much less, we used to talk about, oh, this is, first it's the superintendent's budget, then it's the board's budget, then it's the super, no, it's not. From the beginning, it's our spending plan working on it together. And I really appreciate your input.  These conversations were in depth. You know your school system. You're really starting to get that foundation of knowledge that a great board has to make really solid decisions for Albemarle County Schools. So thank you very much for the work you did tonight. And Maya, you shouldn't be surprised of the quality of what the conversations were because you did a great job setting everything up.  You know, glad you work in schools because you're certainly an educator. I think everybody learned something tonight and you did a great job with it. So thank you very much. I know, I know this is, you make it look easy, but I know it's not. Thank you.",
+    "speaker": "mathewhaas",
+    "tags": [
+      "give_update",
+      "acknowledge",
+      "reassure",
+      "persuaded"
+    ]
+  },
+  {
+    "start": 9029.0,
+    "end": 9063.066,
+    "text": " Okay, so thank you, Maya and Patrick for the presentation this afternoon. And I think, yeah, you were the two main presenters. And thanks Dr. Haas for your input. Is there any other business from board members?  Okay, if not hearing none, remember tomorrow we have a courageous conversation at 2 p.m., so we are looking forward to everybody being there, 2 p.m. Eastern Standard Time. Ms. Carlson, did you hear that?",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "procedural_move",
+      "ask_question",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 9066.812,
+    "end": 9073.163,
+    "text": "I'm sorry, Ms.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 9073.183,
+    "end": 9074.886,
+    "text": "Carlson, I didn't mean to.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "interrupt_overlap"
+    ]
+  },
+  {
+    "start": 9075.44,
+    "end": 9081.591,
+    "text": " Some of those have been conflict. I've attended the ones that I can. And I will be able to attend tomorrow.",
+    "speaker": "Unknown",
+    "tags": [
+      "logistics_info",
+      "give_update",
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 9081.931,
+    "end": 9090.606,
+    "text": "Thank you. All right. And also, I want to thank Ola Stern and Jared Smith and Julian Bevins for being part of this.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge",
+      "public_addressing"
+    ]
+  },
+  {
+    "start": 9090.626,
+    "end": 9090.807,
+    "text": "Oh, yes.",
+    "speaker": "kateacuff",
+    "tags": [
+      "acknowledge",
+      "agreeing"
+    ]
+  },
+  {
+    "start": 9090.887,
+    "end": 9096.216,
+    "text": "Right. Right. Thank you. Thank you, Dr. Acuff, for bringing that to my attention.",
+    "speaker": "Unknown",
+    "tags": [
+      "acknowledge"
+    ]
+  },
+  {
+    "start": 9096.888,
+    "end": 9123.846,
+    "text": " All right, so. Board members, be sure to find about 10 minutes or so to review the presentation that's planned for tomorrow. It's gonna be, I think you need to kind of refresh yourself on some of the concepts, Singleton's concepts, the four agreements, the three critical factors and the six conditions to be prepared for our discussion tomorrow.  Thank you.",
+    "speaker": "Unknown",
+    "tags": [
+      "public_addressing",
+      "request_action",
+      "logistics_info"
+    ]
+  },
+  {
+    "start": 9123.866,
+    "end": 9132.328,
+    "text": "Thank you. All right, so there's no further business. Meeting is adjourned. Thanks. Happy holidays, everybody.",
+    "speaker": "Unknown",
+    "tags": [
+      "procedural_move",
+      "public_addressing",
+      "acknowledge"
+    ]
+  }
+]
