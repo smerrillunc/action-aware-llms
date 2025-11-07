@@ -75,7 +75,7 @@ def init_model(args: argparse.Namespace, ACTION_TAGS: list) -> Tuple[FastLanguag
         #full_finetuning=True
     )
 
-    if args.add_tags:
+    if args.add_tags == 1:
         print("Adding Action Tags to Tokenizer")
         tokenizer.add_tokens(ACTION_TAGS)
         # Also resizes lm_head as well!
