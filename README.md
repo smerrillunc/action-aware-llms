@@ -1,7 +1,7 @@
-# Action-Aware LLMs for Realistic Simulation of Local Government Meetings
+# Point of Order: Action-Aware LLM Persona Modeling for Realistic Civic Simulation
 
 This repository accompanies the paper:  
-**_“Action-Aware LLMs for Realistic Simulation of Local Government Meetings”_**, which introduces a multimodal framework for transforming real-world meeting videos into **speaker-linked, metadata-enriched transcripts**.  This enables the fine-tuning of **language models** and the creation of hyper-realistic deliberative interactions.
+**_“Point of Order: Action-Aware LLM Persona Modeling for Realistic Civic Simulation”_**, which introduces a multimodal framework for transforming real-world meeting videos into **speaker-linked, metadata-enriched transcripts**.  This enables the fine-tuning of **language models** and the creation of hyper-realistic deliberative interactions.
 
 ---
 
